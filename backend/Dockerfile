@@ -19,8 +19,8 @@ RUN pip install --no-cache-dir \
     "uvicorn[standard]>=0.30" \
     "pydantic>=2.7" \
     "pydantic-settings>=2.3" \
-    "numpy>=1.26" \
-    "pandas>=2.2" \
+    "numpy<2" \
+    "pandas>=2.2,<2.3" \
     "python-multipart>=0.0.9"
 
 # Copiar código, modelos y datos desde la raíz del repositorio

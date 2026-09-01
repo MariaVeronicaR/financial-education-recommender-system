@@ -92,7 +92,10 @@ class NeumfProfileRecomendador(Recomendador):
         user_feat = torch.tensor(vec, dtype=torch.float32).repeat(len(self._content_ids), 1)
 
         with torch.no_grad():
-            scores = self._model(user_feat, idxs).cpu().numpy()
+            # .tolist() en vez de .numpy(): evita depender de la ABI
+            # torch↔numpy (rota con torch 2.1.x + numpy ≥ 2.x → "Numpy is not
+            # available"). Sigue funcionando si numpy se reinstala en runtime.
+            scores = self._model(user_feat, idxs).cpu().tolist()
 
         # 3. Ranking de los contenidos conocidos: score descendente
         pairs = list(zip(self._content_ids, scores))
