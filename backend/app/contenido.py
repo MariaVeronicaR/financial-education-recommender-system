@@ -16,7 +16,15 @@ import json
 from pathlib import Path
 
 # Ruta a las carpetas de datos
-_PROJECT_ROOT = Path(__file__).resolve().parents[3]
+def _get_project_root() -> Path:
+    current = Path(__file__).resolve()
+    for parent in current.parents:
+        if (parent / "data").is_dir():
+            return parent
+    # Si no lo encuentra (no debería pasar), por defecto a fallback
+    return Path("/app") if Path("/app/data").exists() else current.parents[2]
+
+_PROJECT_ROOT = _get_project_root()
 _ENRICHED_DIR = _PROJECT_ROOT / "data" / "enriched"
 _SCRAPED_DIR = _PROJECT_ROOT / "data" / "scraped"
 _STRUCTURED_DIR = _PROJECT_ROOT / "data" / "structured"
