@@ -1,0 +1,66 @@
+{
+  "content_id": "C041",
+  "title": "CNMV: Curso de decisiones de inversión",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Al diseñar su cartera (conjunto de las inversiones realizadas por una persona), recuerde que el conjunto de sus inversiones debe permitirle disponer del capital a medida que lo necesite. Es decir, conviene mantener una perspectiva global de sus inversiones.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto nos lleva a matizar la anterior definición de horizonte temporal: no sólo debe tenerse en cuenta el de cada producto individual, sino el de la cartera en su conjunto.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Puesto que usted tiene necesidades y objetivos que cubrir a distintos plazos, una cartera equilibrada contendrá instrumentos con diferentes características y nivel de riesgo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por ejemplo, si desea comprar un vehículo dentro de tres meses (corto plazo), reformar la vivienda dentro de dos años (medio plazo) o acumular un capital para su jubilación dentro de veinte años (largo plazo), su cartera deberá incluir aquellos activos que le permitan ir atendiendo cada uno de estos propósitos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Recuerde que cuanto más lejano o menos importante sea un objetivo, mayor será el nivel de riesgo que podrá permitirse en las inversiones destinadas a cubrirlo: no es lo mismo invertir para comprar la primera vivienda dentro de dos años que hacerlo para realizar un viaje de placer después de la jubilación.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La combinación de distintos tipos de activos con características y comportamientos diferentes conduce a un concepto fundamental para cualquier inversor: la diversificación. La capacidad de diversificar podrá estar limitada por los recursos disponibles para invertir, pero es necesario tenerla en cuenta. Como avisa la sabiduría popular, \"no conviene poner todos los huevos en la misma cesta\".",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La diversificación ayuda a controlar el riesgo que se asume al invertir. Al invertir en varios productos (es decir, al diversificar) se puede conseguir una combinación que, con un riesgo menor, ofrezca la posibilidad de lograr la misma rentabilidad que ofrezca un único producto.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ejemplo de diversificación: Suponga que invierte 10.000 € en la compra de títulos de una compañía que cotiza en bolsa. Si la compañía quiebra, es probable que pierda toda su inversión.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sin embargo, si invierte esa misma cantidad a partes iguales en 100 compañías diferentes, el hecho de que una de ellas quebrara no tendría un efecto demasiado significativo en el total de la inversión. Ha asumido un riesgo menor, al reducir el impacto de las pérdidas individuales de cada activo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Mediante la diversificación se reduce el riesgo que se asume al invertir.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:13:49.056558+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 3709,
+    "input_tokens": 2365,
+    "output_tokens": 1518
+  }
+}

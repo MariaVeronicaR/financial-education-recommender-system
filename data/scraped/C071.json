@@ -1,0 +1,132 @@
+{
+  "content_id": "C071",
+  "url": "https://www.finanzasparatodos.es/herramientas/mipresupuesto",
+  "source": "Finanzas para Todos",
+  "host": "www.finanzasparatodos.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 63737
+  },
+  "title": "Presupuestador - Finanzas para todos",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Mi presupuesto"
+    },
+    {
+      "level": 2,
+      "text": "Resultados"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Mi presupuesto",
+      "start": 0,
+      "end": 461,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Resultados",
+      "start": 461,
+      "end": 1674,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Mi presupuesto"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta herramienta te ayudará en la planificación de tu jubilación permitiéndote conocer cuánto dinero podrás obtener al mes y al año, si comienzas a invertir anualmente una determinada cantidad de dinero.\n{{ title }}\n{{ summary }}"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "{{ selectedTabTitle }}",
+        "{{ saving.title }}",
+        "{{ fixedExpenses.title }}",
+        "{{ variableExpenses.title }}",
+        "{{ discretionaryExpenses.title }}"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "{{ expense.title}}"
+    },
+    {
+      "type": "paragraph",
+      "text": "{{ expense.title}}"
+    },
+    {
+      "type": "paragraph",
+      "text": "{{ expense.title}}"
+    },
+    {
+      "type": "paragraph",
+      "text": "{{ expense.title}}"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Resultados"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Ingresos netos {{ formatCurrencyNumber(totalSaving * period) }}",
+        "Gastos {{ formatCurrencyNumber(totalBills * period) }}",
+        "Gastos fijos obligatorios {{ formatCurrencyNumber(fixedExpenses.total * period) }}",
+        "Gastos variables necesarios {{ formatCurrencyNumber(variableExpenses.total * period) }}",
+        "Gastos discrecionales {{ formatCurrencyNumber(discretionaryExpenses.total * period) }}",
+        "Diferencia {{ formatCurrencyNumber(totalDifference * period) }}",
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "{{ footerInfo }}"
+    }
+  ],
+  "text": "Mi presupuesto\nEsta herramienta te ayudará en la planificación de tu jubilación permitiéndote conocer cuánto dinero podrás obtener al mes y al año, si comienzas a invertir anualmente una determinada cantidad de dinero.\n{{ title }}\n{{ summary }}\n- {{ selectedTabTitle }}\n- {{ saving.title }}\n- {{ fixedExpenses.title }}\n- {{ variableExpenses.title }}\n- {{ discretionaryExpenses.title }}\n                   {{ expense.title}}\n                  \n                    \n                    \n                    \n                    \n                  \n                \n              \n                   {{ expense.title}}\n                  \n                    \n                    \n                    \n                    \n                  \n                \n              \n                   {{ expense.title}}\n                  \n                    \n                    \n                    \n                    \n                  \n                \n              \n                   {{ expense.title}}\n                  \n                    \n                    \n                    \n                    \n                  \n                \n              Resultados\n- Ingresos netos {{ formatCurrencyNumber(totalSaving * period) }}\n- Gastos {{ formatCurrencyNumber(totalBills * period) }}\n- Gastos fijos obligatorios {{ formatCurrencyNumber(fixedExpenses.total * period) }}\n- Gastos variables necesarios {{ formatCurrencyNumber(variableExpenses.total * period) }}\n- Gastos discrecionales {{ formatCurrencyNumber(discretionaryExpenses.total * period) }}\n- Diferencia {{ formatCurrencyNumber(totalDifference * period) }}\n- \n                  \n                  \n{{ footerInfo }}",
+  "text_len": 1674,
+  "num_headings": 2,
+  "metadata": {
+    "title": "Presupuestador - Finanzas para todos",
+    "url": "https://www.finanzasparatodos.es/herramientas/mipresupuesto?classId=a7fba782-94d4-4824-a900-56ad9cf2aa17&assignmentId=e9b84cca-c4eb-40cb-a56b-dcdef321a34f",
+    "hostname": "finanzasparatodos.es",
+    "sitename": "finanzasparatodos.es",
+    "date": "2024-01-01",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": true,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Calculadora de presupuesto personal",
+    "topic": "planificación",
+    "subtopic": "herramienta presupuesto",
+    "difficulty": "básico",
+    "format": "calculadora",
+    "summary": "Calculadora interactiva para registrar ingresos y gastos mensuales",
+    "learning_objective": "Construir un presupuesto realista con la herramienta oficial"
+  },
+  "deduped_from": null
+}

@@ -1,0 +1,176 @@
+{
+  "content_id": "C021",
+  "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/productosservici/financiacion/prestamopersonal/",
+  "source": "Portal Cliente Bancario BdE",
+  "host": "clientebancario.bde.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 39981
+  },
+  "title": "Préstamo personal y crédito al consumo",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Préstamo personal y crédito al consumo"
+    },
+    {
+      "level": 2,
+      "text": "Concepto y características"
+    },
+    {
+      "level": 2,
+      "text": "Vida del préstamo"
+    },
+    {
+      "level": 2,
+      "text": "Cancelación del préstamo"
+    },
+    {
+      "level": 2,
+      "text": "Tipos de préstamos personales"
+    },
+    {
+      "level": 2,
+      "text": "CONSULTAS FRECUENTES"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Préstamo personal y crédito al consumo",
+      "start": 0,
+      "end": 393,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Concepto y características",
+      "start": 393,
+      "end": 677,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Vida del préstamo",
+      "start": 677,
+      "end": 855,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Cancelación del préstamo",
+      "start": 855,
+      "end": 1010,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Tipos de préstamos personales",
+      "start": 1010,
+      "end": 1229,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "CONSULTAS FRECUENTES",
+      "start": 1229,
+      "end": 1618,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Préstamo personal y crédito al consumo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los préstamos personales y los créditos al consumo son los productos que nos permiten financiar la adquisición de bienes duraderos (un coche, muebles, etc), pagar un máster, realizar un viaje, etc... Suelen ser más fáciles de obtener que un préstamo hipotecario, aunque resultan más caros porque los intereses que hay que pagar al banco son más elevados."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Concepto y características"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los préstamos personales o al consumo se formalizan en un contrato en el que se establece la cantidad concedida y las cuotas periódicas que tendremos que pagar, en las que se incluyen los intereses, comisiones y gastos conforme a las condiciones pactadas."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vida del préstamo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tanto los derechos como las obligaciones del banco y del cliente han de figurar recogidas en el contrato y ambas partes se comprometen a cumplir con lo firmado."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cancelación del préstamo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una vez cumplidas las obligaciones asumidas y devuelto el importe concedido por la entidad, procede la cancelación del préstamo."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tipos de préstamos personales"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para satisfacer las distintas necesidades de financiación, el mercado ofrece diferentes tipos de préstamos. Debemos informarnos y comparar las ofertas para elegir la opción más conveniente."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "CONSULTAS FRECUENTES"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "¿Qué ocurre si compramos un bien o contratamos un servicio y lo financiamos? Leer respuestasobre¿Qué ocurre si compramos un bien o contratamos un servicio y lo financiamos?",
+        "¿Todas las entidades que conceden créditos están supervisadas por el Banco de España? Leer respuestasobre¿Todas las entidades que conceden créditos están supervisadas por el Banco de España?"
+      ]
+    }
+  ],
+  "text": "Préstamo personal y crédito al consumo\nLos préstamos personales y los créditos al consumo son los productos que nos permiten financiar la adquisición de bienes duraderos (un coche, muebles, etc), pagar un máster, realizar un viaje, etc... Suelen ser más fáciles de obtener que un préstamo hipotecario, aunque resultan más caros porque los intereses que hay que pagar al banco son más elevados.\nConcepto y características\nLos préstamos personales o al consumo se formalizan en un contrato en el que se establece la cantidad concedida y las cuotas periódicas que tendremos que pagar, en las que se incluyen los intereses, comisiones y gastos conforme a las condiciones pactadas.\nVida del préstamo\nTanto los derechos como las obligaciones del banco y del cliente han de figurar recogidas en el contrato y ambas partes se comprometen a cumplir con lo firmado.\nCancelación del préstamo\nUna vez cumplidas las obligaciones asumidas y devuelto el importe concedido por la entidad, procede la cancelación del préstamo.\nTipos de préstamos personales\nPara satisfacer las distintas necesidades de financiación, el mercado ofrece diferentes tipos de préstamos. Debemos informarnos y comparar las ofertas para elegir la opción más conveniente.\nCONSULTAS FRECUENTES\n- ¿Qué ocurre si compramos un bien o contratamos un servicio y lo financiamos? Leer respuestasobre¿Qué ocurre si compramos un bien o contratamos un servicio y lo financiamos?\n- ¿Todas las entidades que conceden créditos están supervisadas por el Banco de España? Leer respuestasobre¿Todas las entidades que conceden créditos están supervisadas por el Banco de España?",
+  "text_len": 1618,
+  "num_headings": 6,
+  "metadata": {
+    "title": "Préstamo personal y crédito al consumo",
+    "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/productosservici/financiacion/prestamopersonal/",
+    "hostname": "clientebancario.bde.es",
+    "description": "Préstamo personal y crédito al consumo",
+    "sitename": "clientebancario.bde.es",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": true,
+  "csv_meta": {
+    "title": "Préstamo personal y crédito al consumo",
+    "topic": "préstamos",
+    "subtopic": "crédito al consumo",
+    "difficulty": "intermedio",
+    "format": "artículo web",
+    "summary": "Características de préstamos personales y al consumo",
+    "learning_objective": "Comparar ofertas de préstamos personales"
+  },
+  "deduped_from": null
+}

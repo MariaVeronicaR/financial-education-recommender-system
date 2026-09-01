@@ -1,0 +1,57 @@
+{
+  "content_id": "C062",
+  "tldr": "Esta guía de la CNMV, basada en el marco de IOSCO, establece un marco de competencias básicas que todo inversor minorista debería desarrollar para tomar decisiones de inversión más conscientes e informadas. El marco cubre siete áreas de contenido —desde conceptos y principios básicos de inversión hasta estafas y fraudes financieros— y cada una se organiza en tres dimensiones: conocimientos, habilidades/comportamientos y actitudes/motivaciones. Su objetivo es servir de punto de partida para acercarse al mundo de la inversión, complementándose con otros recursos didácticos.",
+  "key_points": [
+    "El marco de competencias para inversores se basa en los trabajos de IOSCO y cubre siete áreas de contenido, cada una con tres dimensiones: conocimientos, comportamientos y habilidades, y actitudes y motivaciones.",
+    "Antes de invertir es esencial entender la diferencia entre ahorro e inversión, la relación entre riesgo y rentabilidad potencial, el impacto de la inflación, el interés compuesto y las ventajas de la diversificación.",
+    "Es imprescindible comprender las características, comisiones y riesgos de cada producto de inversión, y recordar que el rendimiento pasado no garantiza el rendimiento futuro.",
+    "Los inversores deben hacer seguimiento de sus inversiones, conocer sus derechos y responsabilidades (incluida la protección MiFID) y ser conscientes de los sesgos emocionales y cognitivos que afectan a sus decisiones.",
+    "Para evitar estafas financieras hay que desconfiar de las ofertas 'demasiado buenas para ser verdad', ya que las inversiones de bajo riesgo y alta rentabilidad no existen."
+  ],
+  "quiz": [
+    {
+      "question": "Según la guía, ¿qué relación es esencial entender antes de elegir un producto de inversión?",
+      "options": [
+        "A mayor rentabilidad potencial, mayor riesgo asumido",
+        "A mayor rentabilidad potencial, menor riesgo asumido",
+        "Riesgo y rentabilidad son conceptos independientes entre sí",
+        "La rentabilidad depende solo del capital invertido, no del riesgo"
+      ],
+      "correct_index": 0,
+      "explanation": "La guía señala que entender la relación entre riesgo y rentabilidad potencial es un principio fundamental para elegir el producto más adecuado al perfil del inversor y evitar resultados no deseados.",
+      "concept_id": "C13"
+    },
+    {
+      "question": "¿Qué reconoce la guía sobre la toma de decisiones de inversión?",
+      "options": [
+        "Los inversores siempre toman decisiones racionales basadas solo en datos",
+        "Los sesgos emocionales y cognitivos pueden hacer que los inversores no tomen decisiones racionales",
+        "Las emociones no influyen en absoluto en las decisiones de inversión",
+        "La capacidad analítica es irrelevante frente a la intuición"
+      ],
+      "correct_index": 1,
+      "explanation": "La guía destaca que, debido a sesgos emocionales y cognitivos, los inversores no siempre actúan de forma racional, por lo que conviene detectarlos y tomar decisiones basadas en datos objetivos.",
+      "concept_id": "C28"
+    },
+    {
+      "question": "¿Qué señal debería hacerte sospechar de una posible estafa de inversión?",
+      "options": [
+        "Una oferta que promete 'bajo riesgo y alta rentabilidad'",
+        "Una inversión regulada y registrada ante el regulador financiero",
+        "Un producto cuyas comisiones y riesgos se explican con claridad",
+        "Una inversión cuyo rendimiento pasado se presenta sin garantías de futuro"
+      ],
+      "correct_index": 0,
+      "explanation": "La guía advierte explícitamente de que las inversiones de 'bajo riesgo y alta rentabilidad' no existen, y que hay que cuestionar cualquier oferta que parezca demasiado buena para ser verdad.",
+      "concept_id": "C15"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 19051,
+    "input_tokens": 5697,
+    "output_tokens": 1384
+  }
+}

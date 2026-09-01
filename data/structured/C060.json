@@ -1,0 +1,71 @@
+{
+  "content_id": "C060",
+  "title": "Tabla de los tipos de referencia oficiales del mercado hipotecario",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Pinchando en cada valor se accede al BOE en que fue publicado",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tipos oficiales de referencia del mercado hipotecario (Año 2026)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Columnas: Tipo medio de los préstamos hipotecarios a más de 3 años para adquisición de vivienda libre (del conjunto de entidades de crédito); Tipo de rendimiento interno en el mercado secundario (Deuda Pública de plazo entre 2 y 6 años); Tipo interbancario (Míbor a un año); Euríbor (a 1 semana, 1 mes, 3 meses, 6 meses y 1 año); Tipo medio préstamos hipotecarios (entidades de crédito en la zona euro); Permuta de intereses/Interest rate swap (IRS a 5 años); Euro short-term rate (€STR) (a 1 semana, 1 mes, 3 meses, 6 meses y 1 año).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ene: Tipo medio préstamos hipotecarios 2,762; Tipo rendimiento interno 2,403; Míbor a un año 2,245; Euríbor a 1 semana 1,895; a 1 mes 1,961; a 3 meses 2,028; a 6 meses 2,137; a 1 año 2,245; Tipo medio entidades zona euro 3,370; IRS a 5 años 2,540; €STR a 1 semana 1,934; a 1 mes 1,933; a 3 meses 1,934; a 6 meses 1,937; a 1 año 2,125.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Feb: Tipo medio préstamos hipotecarios 2,819; Tipo rendimiento interno 2,397; Míbor a un año 2,221; Euríbor a 1 semana 1,890; a 1 mes 1,952; a 3 meses 2,011; a 6 meses 2,144; a 1 año 2,221; Tipo medio entidades zona euro 3,370; IRS a 5 años 2,458; €STR a 1 semana 1,933; a 1 mes 1,932; a 3 meses 1,935; a 6 meses 1,938; a 1 año 2,063.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Mar: Tipo medio préstamos hipotecarios 2,840; Tipo rendimiento interno 2,488; Míbor a un año 2,565; Euríbor a 1 semana 1,900; a 1 mes 1,933; a 3 meses 2,109; a 6 meses 2,322; a 1 año 2,565; Tipo medio entidades zona euro 3,370; IRS a 5 años 2,741; €STR a 1 semana 1,931; a 1 mes 1,933; a 3 meses 1,936; a 6 meses 1,939; a 1 año 2,011.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Abr: Tipo medio préstamos hipotecarios 2,882; Tipo rendimiento interno 2,722; Míbor a un año 2,747; Euríbor a 1 semana 1,907; a 1 mes 1,971; a 3 meses 2,175; a 6 meses 2,454; a 1 año 2,747; Tipo medio entidades zona euro 3,360; IRS a 5 años 2,842; €STR a 1 semana 1,933; a 1 mes 1,933; a 3 meses 1,936; a 6 meses 1,940; a 1 año 1,975.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "May: Tipo medio préstamos hipotecarios 2,986; Tipo rendimiento interno 2,806; Míbor a un año 2,804; Euríbor a 1 semana 1,890; a 1 mes 1,957; a 3 meses 2,226; a 6 meses 2,536; a 1 año 2,804; Tipo medio entidades zona euro 3,430; IRS a 5 años 2,886; €STR a 1 semana 1,931; a 1 mes 1,932; a 3 meses 1,936; a 6 meses 1,940; a 1 año 1,956.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jun: Tipo medio préstamos hipotecarios 3,049; Tipo rendimiento interno 2,823; Míbor a un año 2,798; Euríbor a 1 semana 1,922; a 1 mes 2,146; a 3 meses 2,339; a 6 meses 2,596; a 1 año 2,798; Tipo medio entidades zona euro 3,470; IRS a 5 años 2,823; €STR a 1 semana 2,182; a 1 mes 2,034; a 3 meses 1,971; a 6 meses 1,959; a 1 año 1,956.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Jul: Tipo medio préstamos hipotecarios —; Tipo rendimiento interno 2,848; Míbor a un año 2,855; Euríbor a 1 semana 2,146; a 1 mes 2,214; a 3 meses 2,425; a 6 meses 2,647; a 1 año 2,855; Tipo medio entidades zona euro —; IRS a 5 años 2,957; €STR a 1 semana 2,186; a 1 mes 2,186; a 3 meses 2,057; a 6 meses 2,002; a 1 año 1,979.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ago, Sep, Oct, Nov y Dic: sin datos publicados.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:18:11.991877+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 33635,
+    "input_tokens": 6385,
+    "output_tokens": 11071
+  }
+}

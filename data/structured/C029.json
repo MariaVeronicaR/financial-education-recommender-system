@@ -1,0 +1,86 @@
+{
+  "content_id": "C029",
+  "title": "Tómate un tiempo antes de hacer click",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Tómate un tiempo antes de hacer click"
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de completar cualquier operación bancaria digital, tómate un tiempo de reflexión. Esta será tu mejor defensa contra las estafas.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Estamos acostumbrados a operar con el banco desde el teléfono, la app o la web de manera muy cómoda, pero, sobre todo, muy rápida. Y es, precisamente, esa rapidez la que nos vuelve muy vulnerables a errores y fraudes.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ten en cuenta que la mayoría de las estafas no se producen por fallos técnicos, sino por la toma de decisiones precipitadas. Por eso, recuerda la regla de oro: antes de actuar, piensa dos veces… o tres.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Te recomendamos que huyas de la urgencia y de la prisa. Los estafadores utilizan mensajes cargados de elementos metiéndonos prisa para que actúes sin reflexionar:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "“Tu cuenta será bloqueada”",
+        "“Verifica tus datos ahora mismo”",
+        "“Transferencia urgente”"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "El Banco de España advierte expresamente de que los fraudes más habituales se basan en generar urgencia y miedo para provocar decisiones rápidas sin verificación. Por ello, no accedas nunca a tu cuenta a través de enlaces recibidos por mensajes o correos. Una de las principales medidas de protección es acceder siempre a la banca digital a través de canales.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Para evitar los fraudes, antes de hacer click en cualquier operación (transferencias, pagos, accesos a banca online), párate un momento y revisa:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "¿Estoy en la página oficial del banco?",
+        "¿He accedido desde un enlace o directamente desde la app/web?",
+        "¿Estoy introduciendo claves en un entorno seguro?",
+        "¿Conozco realmente al destinatario del dinero?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "El “doble check” también puede salvarte. Antes de confirmar cualquier operación, párate y pregúntate:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "¿Me están metiendo prisa?",
+        "¿Algo no encaja del todo?",
+        "¿Podría verificar esto por otra vía?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En caso de duda, nunca completes la operación. Contacta directamente con tu banco por canales oficiales.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:13:12.414334+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 4190,
+    "input_tokens": 2218,
+    "output_tokens": 1328
+  }
+}

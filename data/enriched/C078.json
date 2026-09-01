@@ -1,0 +1,57 @@
+{
+  "content_id": "C078",
+  "tldr": "La guía, basada en el marco de la IOSCO, establece un marco de competencias básicas para inversores minoristas en siete áreas: conceptos de inversión, características de los productos, compraventa, seguimiento, derechos del inversor, sesgos de comportamiento y fraudes. Cada área combina tres dimensiones: conocimientos, comportamientos y habilidades, y actitudes y motivaciones. El objetivo es que el inversor tome decisiones de inversión más conscientes e informadas.",
+  "key_points": [
+    "El marco de competencias se basa en los trabajos de la IOSCO y cubre siete áreas de contenido para inversores minoristas.",
+    "Cada área se divide en tres dimensiones: conocimientos, comportamientos y habilidades, y actitudes y motivaciones.",
+    "Antes de invertir es esencial entender la relación entre riesgo y rentabilidad, la inflación, el interés compuesto y las ventajas de la diversificación.",
+    "El rendimiento pasado de una inversión no es una indicación de su rendimiento futuro.",
+    "Las inversiones de 'bajo riesgo y alta rentabilidad' no existen y pueden ser señal de fraude."
+  ],
+  "quiz": [
+    {
+      "question": "Según la guía, ¿en qué tres dimensiones se dividen las competencias de cada área de contenido?",
+      "options": [
+        "Conocimientos, comportamientos y habilidades, y actitudes y motivaciones",
+        "Ahorro, inversión y especulación",
+        "Riesgo, rentabilidad y liquidez",
+        "Corto, medio y largo plazo"
+      ],
+      "correct_index": 0,
+      "explanation": "El marco organiza cada área en tres dimensiones: conocimientos (información recibida), comportamientos y habilidades (capacidad de actuar) y actitudes y motivaciones (mecanismos psicológicos).",
+      "concept_id": "C28"
+    },
+    {
+      "question": "¿Cuál de las siguientes acciones refleja mejor el principio de diversificación recomendado en la guía?",
+      "options": [
+        "Invertir todo el capital en un único producto de alta rentabilidad",
+        "Repartir las inversiones entre distintos activos para reducir el riesgo",
+        "Comprar siempre a través del mismo canal",
+        "Mantener todas las inversiones en efectivo"
+      ],
+      "correct_index": 1,
+      "explanation": "La guía destaca las ventajas de diversificar las inversiones, lo que implica repartirlas entre distintos activos para reducir el riesgo y evitar resultados no deseados.",
+      "concept_id": "C14"
+    },
+    {
+      "question": "Ante una oferta de inversión que promete 'bajo riesgo y alta rentabilidad', ¿qué actitud recomienda la guía?",
+      "options": [
+        "Aceptarla rápidamente para no perder la oportunidad",
+        "Cuestionarla y verificarla, ya que ese binomio no existe",
+        "Invertir solo una pequeña parte para probar",
+        "Ignorarla siempre sin informar a nadie"
+      ],
+      "correct_index": 1,
+      "explanation": "La guía advierte que las inversiones de 'bajo riesgo y alta rentabilidad' no existen y recomienda cuestionar las ofertas que parecen demasiado buenas para ser verdad, además de informar a los reguladores ante indicios de fraude.",
+      "concept_id": "C15"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 8199,
+    "input_tokens": 5700,
+    "output_tokens": 1629
+  }
+}

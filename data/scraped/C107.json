@@ -1,0 +1,1435 @@
+{
+  "content_id": "C107",
+  "url": "https://www.cnmv.es/DocPortal/Publicaciones/Guias/PersuasionDigitalParaInversores.pdf",
+  "source": "CNMV",
+  "host": "www.cnmv.es",
+  "url_type": "pdf",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 1308885
+  },
+  "title": "Persuasión digital para inversores",
+  "headings": [
+    {
+      "level": 1,
+      "text": "digital para"
+    },
+    {
+      "level": 1,
+      "text": "I. Introducción"
+    },
+    {
+      "level": 1,
+      "text": "II. Persuasión tradicional"
+    },
+    {
+      "level": 1,
+      "text": "vs. persuasión digital"
+    },
+    {
+      "level": 1,
+      "text": "III. ¿Qué son las técnicas"
+    },
+    {
+      "level": 1,
+      "text": "de captación digital?"
+    },
+    {
+      "level": 1,
+      "text": "IV. Más allá de la"
+    },
+    {
+      "level": 1,
+      "text": "persuasión digital:"
+    },
+    {
+      "level": 1,
+      "text": "los patrones oscuros"
+    },
+    {
+      "level": 1,
+      "text": "V. ¿Cómo funcionan las"
+    },
+    {
+      "level": 1,
+      "text": "prácticas de captación"
+    },
+    {
+      "level": 1,
+      "text": "VI. Prácticas de"
+    },
+    {
+      "level": 1,
+      "text": "captación digital más"
+    },
+    {
+      "level": 1,
+      "text": "habituales en el ámbito"
+    },
+    {
+      "level": 1,
+      "text": "de la inversión"
+    },
+    {
+      "level": 1,
+      "text": "relacionadas con"
+    },
+    {
+      "level": 1,
+      "text": "la estructura de la"
+    },
+    {
+      "level": 3,
+      "text": "A.1 Opciones predeterminadas"
+    },
+    {
+      "level": 3,
+      "text": "A.2 Clasificaciones"
+    },
+    {
+      "level": 3,
+      "text": "A.3 Precios divididos"
+    },
+    {
+      "level": 3,
+      "text": "A.4 Sobrecarga de elección*"
+    },
+    {
+      "level": 3,
+      "text": "A.5 Manipulación sensorial*"
+    },
+    {
+      "level": 3,
+      "text": "A.6 Fricción injustificada (sludge)*"
+    },
+    {
+      "level": 1,
+      "text": "relacionadas con la"
+    },
+    {
+      "level": 1,
+      "text": "información de la"
+    },
+    {
+      "level": 3,
+      "text": "B.1 Precio por goteo*"
+    },
+    {
+      "level": 3,
+      "text": "B.2 Enmarcado"
+    },
+    {
+      "level": 3,
+      "text": "B.3 Lenguaje complejo*"
+    },
+    {
+      "level": 3,
+      "text": "B.4 Sobrecarga de información*"
+    },
+    {
+      "level": 1,
+      "text": "presión para tomar"
+    },
+    {
+      "level": 1,
+      "text": "una decisión"
+    },
+    {
+      "level": 3,
+      "text": "C.1 Afirmaciones de escasez y popularidad"
+    },
+    {
+      "level": 3,
+      "text": "C.2 Avisos y recordatorios"
+    },
+    {
+      "level": 3,
+      "text": "C.3 Mensajeros"
+    },
+    {
+      "level": 3,
+      "text": "C.4 Compromiso"
+    },
+    {
+      "level": 3,
+      "text": "C.5 Retroalimentación"
+    },
+    {
+      "level": 3,
+      "text": "C.6 Personalización"
+    },
+    {
+      "level": 1,
+      "text": "VII. Estrategias para"
+    },
+    {
+      "level": 1,
+      "text": "mitigar la influencia de"
+    },
+    {
+      "level": 1,
+      "text": "las técnicas de captación"
+    },
+    {
+      "level": 1,
+      "text": "psicológicos"
+    },
+    {
+      "level": 3,
+      "text": "A.1 Adquirir educación financiera"
+    },
+    {
+      "level": 3,
+      "text": "A.2 Atemperar el optimismo"
+    },
+    {
+      "level": 3,
+      "text": "A.3 Generar alternativas"
+    },
+    {
+      "level": 3,
+      "text": "A.4 Estandarizar el proceso de inversión"
+    },
+    {
+      "level": 1,
+      "text": "Diseño persuasivo"
+    },
+    {
+      "level": 3,
+      "text": "B.1 Reconocer las estrategias de diseño persuasivo"
+    },
+    {
+      "level": 3,
+      "text": "B.2 Desactivar notificaciones no esenciales"
+    },
+    {
+      "level": 3,
+      "text": "B.4 Utilizar una breve lista de comprobación"
+    },
+    {
+      "level": 3,
+      "text": "B.5 Evaluar periódicamente el comportamiento"
+    },
+    {
+      "level": 3,
+      "text": "B.6 Introducir un periodo de enfriamiento (cool-down rule)"
+    },
+    {
+      "level": 3,
+      "text": "B.7 Desconfiar de productos “destacados” o “populares”"
+    },
+    {
+      "level": 3,
+      "text": "B.8 Evitar operar por presión emocional"
+    },
+    {
+      "level": 3,
+      "text": "B.9 Analizar las comisiones y costes reales del producto"
+    },
+    {
+      "level": 3,
+      "text": "B.10 No confundir comodidad con seguridad"
+    },
+    {
+      "level": 3,
+      "text": "B.11 Decidir fuera de la plataforma"
+    },
+    {
+      "level": 1,
+      "text": "Personalización"
+    },
+    {
+      "level": 3,
+      "text": "C.1 Proporcionar únicamente los datos imprescindibles"
+    },
+    {
+      "level": 3,
+      "text": "C.2 Desactivar la personalización"
+    },
+    {
+      "level": 3,
+      "text": "C.3 Interactuar lo menos posible con contenido sugerido"
+    },
+    {
+      "level": 3,
+      "text": "C.4 Limpiar historial y cookies"
+    },
+    {
+      "level": 3,
+      "text": "C.5 Controlar permisos y notificaciones"
+    },
+    {
+      "level": 1,
+      "text": "VIII. Conclusiones"
+    },
+    {
+      "level": 1,
+      "text": "Bibliografía"
+    },
+    {
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "level": 1,
+      "text": "información?"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "digital para",
+      "start": 11,
+      "end": 526,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "I. Introducción",
+      "start": 526,
+      "end": 5122,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "II. Persuasión tradicional",
+      "start": 5122,
+      "end": 5210,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "vs. persuasión digital",
+      "start": 5210,
+      "end": 12219,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "III. ¿Qué son las técnicas",
+      "start": 12219,
+      "end": 12391,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "de captación digital?",
+      "start": 12391,
+      "end": 14058,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "IV. Más allá de la",
+      "start": 14058,
+      "end": 14098,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "persuasión digital:",
+      "start": 14098,
+      "end": 14119,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "los patrones oscuros",
+      "start": 14119,
+      "end": 18448,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "V. ¿Cómo funcionan las",
+      "start": 18448,
+      "end": 18526,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "prácticas de captación",
+      "start": 18526,
+      "end": 24133,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VI. Prácticas de",
+      "start": 24133,
+      "end": 24217,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "captación digital más",
+      "start": 24217,
+      "end": 24241,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "habituales en el ámbito",
+      "start": 24241,
+      "end": 24266,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "de la inversión",
+      "start": 24266,
+      "end": 26012,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "relacionadas con",
+      "start": 26012,
+      "end": 26045,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "la estructura de la",
+      "start": 26045,
+      "end": 35902,
+      "found": true
+    },
+    {
+      "level": 3,
+      "heading": "A.1 Opciones predeterminadas",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "A.2 Clasificaciones",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "A.3 Precios divididos",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "A.4 Sobrecarga de elección*",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "A.5 Manipulación sensorial*",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "A.6 Fricción injustificada (sludge)*",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 1,
+      "heading": "relacionadas con la",
+      "start": 35902,
+      "end": 36047,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "información de la",
+      "start": 36047,
+      "end": 43105,
+      "found": true
+    },
+    {
+      "level": 3,
+      "heading": "B.1 Precio por goteo*",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "B.2 Enmarcado",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "B.3 Lenguaje complejo*",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "B.4 Sobrecarga de información*",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 1,
+      "heading": "presión para tomar",
+      "start": 43105,
+      "end": 43220,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "una decisión",
+      "start": 43220,
+      "end": 54783,
+      "found": true
+    },
+    {
+      "level": 3,
+      "heading": "C.1 Afirmaciones de escasez y popularidad",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "C.2 Avisos y recordatorios",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "C.3 Mensajeros",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "C.4 Compromiso",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "C.5 Retroalimentación",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "C.6 Personalización",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 1,
+      "heading": "VII. Estrategias para",
+      "start": 54783,
+      "end": 54956,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "mitigar la influencia de",
+      "start": 54956,
+      "end": 54985,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "las técnicas de captación",
+      "start": 54985,
+      "end": 55178,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "psicológicos",
+      "start": 55178,
+      "end": 55281,
+      "found": true
+    },
+    {
+      "level": 3,
+      "heading": "A.1 Adquirir educación financiera",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "A.2 Atemperar el optimismo",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "A.3 Generar alternativas",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "A.4 Estandarizar el proceso de inversión",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 1,
+      "heading": "Diseño persuasivo",
+      "start": 55281,
+      "end": 55341,
+      "found": true
+    },
+    {
+      "level": 3,
+      "heading": "B.1 Reconocer las estrategias de diseño persuasivo",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "B.2 Desactivar notificaciones no esenciales",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "B.4 Utilizar una breve lista de comprobación",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "B.5 Evaluar periódicamente el comportamiento",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "B.6 Introducir un periodo de enfriamiento (cool-down rule)",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "B.7 Desconfiar de productos “destacados” o “populares”",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "B.8 Evitar operar por presión emocional",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "B.9 Analizar las comisiones y costes reales del producto",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "B.10 No confundir comodidad con seguridad",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "B.11 Decidir fuera de la plataforma",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 1,
+      "heading": "Personalización",
+      "start": 55341,
+      "end": 72073,
+      "found": true
+    },
+    {
+      "level": 3,
+      "heading": "C.1 Proporcionar únicamente los datos imprescindibles",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "C.2 Desactivar la personalización",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "C.3 Interactuar lo menos posible con contenido sugerido",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "C.4 Limpiar historial y cookies",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "C.5 Controlar permisos y notificaciones",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 1,
+      "heading": "VIII. Conclusiones",
+      "start": 72073,
+      "end": 74953,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "Bibliografía",
+      "start": 74953,
+      "end": 80024,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "¿Necesitas más",
+      "start": 80024,
+      "end": 80081,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "información?",
+      "start": 80081,
+      "end": 80095,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nPersuasión"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "digital para"
+    },
+    {
+      "type": "paragraph",
+      "text": "inversores\nGuía"
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nÍndice\nIntroducción\nPersuasión tradicional vs.\npersuasión digital\n¿Qué son las técnicas de\ncaptación digital?\nMás allá de la persuasión digital:\nlos patrones oscuros\n¿Cómo funcionan las prácticas\nde captación digital?\nPrácticas de captación digital\nmás habituales en el ámbito de\nla inversión\nEstrategias para mitigar la\ninfluencia de las técnicas de\ncaptación digital\nConclusiones"
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "I. Introducción"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las nuevas formas de consumo a través de medios digitales han traído\ngrandes ventajas para los consumidores y las empresas. Se han reducido\nfricciones y costes, se ha aumentado la transparencia y la comparabilidad\ny se ha facilitado el acceso a un mercado global. Sin embargo, el rápido\ncrecimiento en este ámbito también presenta riesgos para el bienestar de\nlos consumidores. Aunque hay muchas similitudes con el entorno offline, los\nconsumidores pueden comportarse de forma diferente en un entorno online:\npueden actuar más rápido, tener períodos de atención más cortos, enfocar su\natención de manera muy limitada e ignorar grandes cantidades de contenido,\nasí como confiar más en recomendaciones de desconocidos. La naturaleza de\nlos entornos online puede inducir comportamientos más impulsivos, fomentar\ndecisiones poco reflexivas y conducir a una exposición publicitaria más\nintensa y prolongada que en contextos offline.\nEn este sentido, en el entorno digital se utilizan numerosas técnicas\nde persuasión diseñadas para captar la atención de los consumidores,\npersuadirlos y guiarlos a tomar determinadas decisiones comerciales.\nEn ocasiones, dichas técnicas pueden ser una herramienta poderosa que\ngenera resultados positivos para el consumidor, pero en otros casos pueden\nproducir perjuicios al llevar al consumidor a tomar decisiones que van en\ncontra de sus propios intereses. Estas técnicas se conocen como Prácticas\nde Captación Digital (Digital Engagement Practices).\nPersuasión\ndigital para\ninversores"
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nEn el ámbito de la inversión, también se observan este tipo de prácticas.\nLos avances tecnológicos están cambiando la forma en que los inversores\nminoristas interactúan con los servicios y productos financieros, facilitando\nsu participación en los mercados de capital. La aparición de brokers online,\naplicaciones móviles o plataformas de trading, entre otros, ha hecho que la\ninversión en los mercados de valores sea más accesible que nunca para los\ninversores minoristas con una interacción física mínima. De manera similar,\nse observa un uso creciente de estas soluciones tecnológicas, así como de\nlas redes sociales en general, para promover la adquisición de productos\nfinancieros diversos.\nTodo ello ha conllevado no solo que los inversores tengan acceso a una\nvariedad de productos mucho más amplia, desde activos de poco riesgo\nhasta los de mayor riesgo, sino también que esta clase de activos esté\ndisponible para públicos de todo tipo a los que hasta hace poco tiempo\nles resultaba más difícil el acceso como, por ejemplo, los jóvenes.\nDado que el uso de estas plataformas es cada vez más frecuente, es preciso\ntener conocimiento de sus características de diseño y, en particular de las\nprácticas de captación digital a las que se ha hecho referencia anteriormente,\ny el impacto que podrían tener en las decisiones de inversión. Este tipo de\nprácticas puede mejorar la experiencia de usuario y actuar en beneficio\ndel inversor, pero también podría aumentar la interacción de los usuarios\nen las plataformas, incentivar una mayor frecuencia de operaciones y,\neventualmente, promover la asunción de riesgos de manera inconsistente\ncon los objetivos de inversión que el inversor se haya fijado previamente.\nEn la presente Guía se analizarán las diferencias entre las herramientas\nde captación o persuasión1 tradicionales y las digitales, se recogerán las\nprincipales técnicas de captación digital utilizadas actualmente en el ámbito\nde la inversión por plataformas, aplicaciones y webs destinadas a este fin,\ny, finalmente, se facilitarán algunas estrategias para mitigar sus efectos en\nla toma de decisiones de inversión."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En la presente Guía, se utilizarán indistintamente los términos “técnicas de persuasión”\ny “técnicas de captación” para referirse al conjunto de prácticas en entornos digitales\nque pueden condicionar el comportamiento del inversor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nLa presente Guía tiene la finalidad de dotar al inversor de un conocimiento\npráctico sobre las técnicas de captación digital, de manera que pueda\nidentificarlas y protegerse frente a ellas de forma efectiva. Esta función\ninformativa y preventiva contribuye a la autoprotección del inversor y actúa\ncomo complemento de la protección legal prevista en la normativa vigente,\nla cual constituye un elemento esencial para la salvaguarda de los derechos\ne intereses del inversor y establece el marco de actuación que las entidades\ndeben respetar en el ámbito sus actividades y servicios."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. Persuasión tradicional"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "vs. persuasión digital"
+    },
+    {
+      "type": "paragraph",
+      "text": "La persuasión es la capacidad de influir en las decisiones y el\ncomportamiento de las personas. Con la persuasión se pretende modificar\nlas actitudes, creencias, intenciones, motivaciones o comportamientos\nde una persona o grupo, apelando a una combinación de razón, emoción\ny credibilidad. A diferencia de la manipulación, que a menudo busca un\nbeneficio exclusivo del persuasor e involucra engaño o coerción, la persuasión\nbusca un cambio de conducta en el receptor para llevarle de su situación\ninicial a otra situación en la que se muestra interesado y toma acción.\nEn la persuasión tradicional, entendida como aquella que\nse ejerce a través de canales presenciales o analógicos\ncomo, por ejemplo, llamadas telefónicas, presentaciones\nfísicas, eventos, reuniones, prensa, etc., la esencia es la\ninteracción humana y el tipo de contenido facilitado suele\nser más analítico. Esto permite que el consumidor o el\ninversor active procesos de evaluación más racionales:\ncompare datos, haga preguntas o solicite más información\nentre otros.\nPor el contrario, en la persuasión digital, entendida como\naquella que opera mediante plataformas online que\ncombinan datos, automatización y diseño de interfaces\ny contenidos para influir en el usuario, entran en juego\ntécnicas como la segmentación algorítmica, los mensajes\npersonalizados, el uso de pruebas sociales digitales\n(reseñas, testimonios, seguidores) y dinámicas de urgencia\ncreadas a través de anuncios, correos o mensajes en\nredes sociales, que permiten un alcance masivo y un\nimpacto inmediato, pero también reducen la capacidad del\nusuario o inversor para evaluar la autenticidad del emisor,\nla veracidad de la información y la conveniencia de la\noportunidad y, por tanto, para tomar decisiones reflexivas\ny racionales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nAspecto\nPersuasión tradicional\nPersuasión digital\nCanal\nComunicación directa (llamadas,\nreuniones) o por medios\nunidireccionales (televisión,\nradio, prensa, discursos). Alcance\nlimitado por tiempo y espacio.\nComunicación interactiva y\nmulticanal (redes sociales, apps,\ncorreo, publicidad segmentada).\nAlcance global y constante, con\nmúltiples puntos de contacto.\nRuta cognitiva\n(Petty & Cacioppo)2\nPredomina la ruta central:\nel receptor analiza\ncuidadosamente la información\ny evalúa argumentos. Se basa en\nanálisis crítico y deliberado de la\ninformación.\nPredomina la ruta periférica:\nel receptor responde a\nseñales externas (imágenes,\nnotificaciones, diseño). Se toman\ndecisiones rápidas, a menudo\nsin un análisis profundo del\ncontenido.\nPrincipios\naplicables\n(Cialdini)³\nAplicados directamente por\npersonas: simpatía, autoridad,\nreciprocidad, compromiso,\nescasez, aprobación social.\nIntegrados en el diseño digital:\nlikes (aprobación social),\nverificación (autoridad),\npromociones (reciprocidad),\nnotificaciones de urgencia\n(escasez).\nControl del\nmensaje\nEl emisor controla el contenido:\nel mensaje es único para todos.\nLos algoritmos personalizan el\nmensaje según comportamiento,\nperfil y preferencias de cada\nusuario.\nAtención\nLimitada en número de\nreceptores, pero concentrada en\nla interacción (lectura, discurso,\nspot publicitario).\nFragmentada y continua: scroll\ninfinito, notificaciones, multitarea.\nEl usuario recibe estímulos\nconstantemente.\nA continuación, se muestra un cuadro con las principales diferencias entre\nambas formas de persuasión:"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Según el Modelo de la Probabilidad de Elaboración –ELM– de Petty y Cacioppo (1986)."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Cialdini, psicólogo estadounidense considerado uno de los principales expertos\nmundiales en influencia y comportamiento persuasivo, formuló seis principios\nfundamentales que explican cómo las personas pueden ser guiadas en sus decisiones.\nEstos principios son: reciprocidad, que impulsa al sujeto a devolver favores o atenciones\nrecibidas; compromiso y coherencia, que impulsa a actuar de forma consistente con\ncompromisos previamente adquiridos; aprobación social, que lleva al sujeto a seguir lo\nque hace la mayoría o personas similares a este; simpatía, que incrementa la influencia\nde quienes resultan cercanos o agradables; autoridad, que hace que se confíe en figuras\nexpertas o reconocidas; y escasez, que genera urgencia cuando algo se percibe como\nlimitado o exclusivo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nAspecto\nPersuasión tradicional\nPersuasión digital\nRefuerzo y\nrecompensa\nRecompensas sociales\no simbólicas: aplausos,\nreconocimiento, aprobación\ndel grupo o del interlocutor.\nRecompensas inmediatas y\nvariables (notificaciones, puntos,\nseguidores).\nEmoción\nApelación moderada y explícita,\ngeneralmente ligada a narrativa o\ndiscurso.\nEmoción amplificada mediante\nalgoritmos: contenido viral, alertas\npersonalizadas, interacción\nconstante para generar\nengagement.\nImplicación de\nsesgos cognitivos\nAprovechados de forma general\ny colectiva: autoridad, escasez,\nprueba social, etc.\nIndividualizados, amplificados\ny automatizados, aumentando\nla vulnerabilidad del usuario a\ndecisiones impulsivas.\nRetroalimentación\nLenta o diferida: encuestas,\nventas, respuestas físicas u\nopiniones formales.\nInstantánea: métricas de\ninteracción, clics, tiempo\nen pantalla, conversiones y\ncomentarios en tiempo real.\nArquitectura de\nelección (nudge)\nLimitada al contexto físico\n(presentación de opciones).\nInterfaces digitales diseñadas\npara guiar decisiones: botones\npreseleccionados, ofertas\npersonalizadas, formularios\nsimplificados.\nMedición del\nimpacto\nBasada en resultados visibles\n(ventas, encuestas, opinión\npública).\nBasada en analítica de\ncomportamiento en tiempo\nreal: clics, tasa de conversión,\nretención, mapas de calor,\nmicrointeracciones.\nRol del receptor\nPúblico o consumidor\nrelativamente pasivo.\nLa persuasión se ejerce a\ntravés del contacto directo\ny el contenido.\nUsuario activo, pero\nconstantemente influido por\nel diseño, los algoritmos y la\npersonalización de la información;\ntoma decisiones rápidas sobre la\nbase de estímulos digitales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nEn resumen, en la persuasión tradicional, la influencia se construye mediante\nel contacto directo, exposiciones personales o medios convencionales,\nen contextos en los que el receptor suele disponer de más tiempo para\nevaluar argumentos, interpretar señales de autoridad o simpatía y tomar\ndecisiones basadas en información relativamente estable. La atención tiende\na ser más sostenida, las emociones están más contenidas y los sesgos\ncognitivos operan de forma amplia y no personalizada.\nEn cambio, la persuasión digital funciona en entornos online altamente\ndinámicos, en los que los algoritmos adaptan los mensajes a cada persona,\nintensifican emociones y ofrecen recompensas inmediatas, y promueven\ndecisiones rápidas a través de notificaciones, contenido viral y diseños de\ninterfaz muy estimulantes. La retroalimentación es casi instantánea, los\nsesgos se amplifican y se ajustan al perfil de cada usuario, y la influencia se\nvuelve más rápida, masiva y difícil de detectar o contrastar.\nvs"
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "III. ¿Qué son las técnicas"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "de captación digital?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las técnicas de captación digital, un término acuñado por la U.S. Securities\nand Exchange Commission (SEC), son las herramientas que incluyen técnicas\nconductuales, marketing diferenciado, gamificación, elementos de diseño o\ncaracterísticas de diseño que captan la atención de manera intencional o no\nintencional de los inversores minoristas en plataformas digitales. Aunque más\nadelante se analizarán detenidamente, son ejemplos de estas prácticas de\ncaptación digital, entre otros, las notificaciones emergentes o notificaciones\npush frecuentes con noticias del mercado, los diseños de interfaz que llaman\nla atención sobre determinada información o las herramientas de redes\nsociales que permiten a los usuarios interactuar.\nLas técnicas de captación digital tienen su base en las ciencias del\ncomportamiento y su objetivo es influir en la manera de proceder del\nconsumidor o inversor. En el ámbito de la inversión, la utilización de este tipo\nde técnicas por parte de aplicaciones móviles, brokers online, plataformas\nde trading, etc., puede tener como objetivos, entre otros, captar y retener\nal inversor, incentivar la toma de determinadas decisiones o fomentar la\nrealización de un mayor número de operaciones.\nPor tanto, estas técnicas de captación digital forman parte de la interfaz que\nesté manejando el usuario y modelan el contacto de este con el propietario\nde la aplicación o plataforma. En consecuencia, estas técnicas son elementos\nclave para la comunicación entre ambos y tienen especial trascendencia en lo\nque a la interacción o los procesos de contratación con los usuarios se refiere."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "IV. Más allá de la"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "persuasión digital:"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "los patrones oscuros"
+    },
+    {
+      "type": "paragraph",
+      "text": "El diseño de las interfaces digitales no es solo estético; afecta directamente\na cómo se recibe la información y cómo se actúa. Una buena interfaz facilita\nla experiencia del usuario y ayuda a tomar decisiones con mayor claridad.\nSin embargo, no todas las técnicas de captación digital son neutrales e\ninocuas. En ocasiones, estas prácticas pueden estar encaminadas a influir\nde manera más o menos sutil en el comportamiento del usuario, de tal\nmanera que sus decisiones no sean del todo racionales o coherentes con sus\npreferencias y favorezcan en último término el interés de la plataforma, web\no aplicación.\nAdemás, hay que tener en cuenta que el contexto digital en el que se\nobservan estas prácticas es el ámbito donde más expuesto está el usuario y\nmás acusada es su vulnerabilidad. A la tradicional asimetría informativa, en la\nque el propietario de la web o de la aplicación conoce mejor que el usuario el\nproducto o servicio que comercializa, se suma el acceso que tiene a una gran\ncantidad de datos generados por la propia actividad online del usuario.\nTodos estos factores abren la puerta a que algunos proveedores empleen\ndiseños que intencionadamente buscan confundir o perjudicar al usuario\nen beneficio de la propia plataforma, web o aplicación. Este tipo de diseños\nengañosos son los denominados patrones oscuros o dark patterns⁴."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "El concepto de dark pattern fue acuñado por Harry Brignull en 2010. Lo hizo en su\npágina web https://www.deceptive.design/ (inicialmente darkpatterns.org). En este\nsitio web se recoge desde entonces una categorización de deceptive designs, así\ncomo nuevas técnicas o prácticas que resultan engañosas y que se van incorporando\ncomo consecuencia de «denuncias informales» de usuarios. Este término ha sido ya\nreconocido por el legislador europeo en la actualidad hasta el punto de que todas las\nnormas comunitarias que se han publicado en los últimos años en las que el diseño de las\ninterfaces de usuario puede tener alguna relevancia incluyen una referencia más o menos\ndirecta al fenómeno. En la actualidad hay una preocupación evidente por parte de la Unión\nEuropea por abordar y reducir el impacto en el mercado digital de este tipo de técnicas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nLos patrones oscuros son técnicas basadas en el conocimiento sobre\nel comportamiento humano para implementar características o pasos\nengañosos que no se alinean con lo que es mejor para el usuario.\nPor tanto, en el ámbito de los patrones oscuros, la interfaz puede ser utilizada\nno solo para facilitar la experiencia de usuario, sino para inducir conductas\nno deseadas o no consentidas conscientemente por este. Su objetivo\nno es ayudar al usuario a tomar decisiones informadas, sino incentivar\ndeterminados comportamientos, aumentar el tiempo de uso, dificultar la\nsalida o fomentar opciones que favorecen a la plataforma.\nEstos patrones pueden adoptar formas muy variadas: destacar visualmente\nla opción más rentable para la empresa, esconder o complicar el acceso\na información relevante, obligar a seguir múltiples pasos para cancelar un\nservicio, plantear preguntas de forma sesgada para obtener determinadas\nrespuestas, etc.\nLos patrones oscuros pueden socavar la autonomía del usuario, dificultar la\ntoma de decisiones racionales y aumentar la probabilidad de actuaciones\nimpulsivas o perjudiciales.\nPor tanto, las prácticas de captación digital pueden plantear riesgos para\nlos inversores cuando, como en el caso de los patrones oscuros, rozan la\nmanipulación. Las herramientas de persuasión, entre las que se encuentran\nlas prácticas de captación digital, no son legítimas o ilegítimas en sí. Su\nlegitimidad dependerá de la finalidad con la que se utilicen. Un intento de\npersuasión es legítimo y justificable si ayuda al inversor a tomar decisiones\nmás informadas, siempre que dicha persuasión no altere sus preferencias ni le\nlleve a tomar decisiones que de otro modo no habría tomado. Por el contrario,\nese intento de persuasión constituirá una mala práctica y, en consecuencia,\nun patrón oscuro, si pretende dirigir, engañar, coaccionar o manipular al\ninversor para que tome decisiones contrarias a su mejor interés, todo ello\nsin perjuicio de que dicha práctica pueda constituir un incumplimiento de la\nnormativa aplicable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "V. ¿Cómo funcionan las"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "prácticas de captación"
+    },
+    {
+      "type": "paragraph",
+      "text": "digital?\nLas prácticas de captación digital, tanto las utilizadas con fines legítimos\ncomo los patrones oscuros a los que se ha hecho referencia anteriormente,\nconforman entornos de decisión intencionalmente diseñados para guiar las\nelecciones de los usuarios. Este tipo de prácticas configuran los contextos\nen los que las personas eligen, influyendo en la probabilidad de que tomen\ndeterminadas decisiones. Este modo en el que se presentan las distintas\nopciones es lo que se denomina “arquitectura de la elección”, siendo\nlas prácticas de captación digital manifestaciones específicas de esta\narquitectura de la elección en el entorno digital.\nLas plataformas, webs o aplicaciones, mediante el diseño de sus interfaces,\nalgoritmos de recomendación y sistemas de notificaciones, construyen\nentornos de elección en los que cada elemento de diseño contribuye a\nmoldear el comportamiento de los usuarios.\nEn los entornos digitales, esta arquitectura de la elección se materializa en\nelementos como:\n¥ la disposición visual de botones y menús,\n¥ la preconfiguración de opciones de privacidad,\n¥ la jerarquización de la información,\n¥ la utilización de mensajes persuasivos que acompañan las\ndecisiones (confirmaciones, advertencias, recompensas)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nCada una de estas elecciones de diseño constituye una forma de “acicate\nconductual” (nudge), que orienta las acciones de un usuario en un\ndeterminado sentido que le beneficia. El problema surge cuando estos\n“acicates” dejan de ser beneficiosos para el usuario para transformarse en\nmecanismos de manipulación encubierta, es decir, en “acicates oscuros”\n(dark nudges).\nEn el contexto de la arquitectura de la elección, la efectividad de las prácticas\nde captación digital se basa en:"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Mecanismos psicológicos"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Las prácticas de captación digital aprovechan la manera en que las\npersonas piensan y sienten para influir en sus decisiones en entornos\ndigitales.\nEste tipo de prácticas explotan ciertos sesgos cognitivos y atajos\nmentales (heurísticos) que facilitan la toma de decisiones rápida,\nautomática y sin control consciente. Activan así el llamado pensamiento\nautomático (Sistema 15), favoreciendo respuestas impulsivas, la elección\nde opciones predeterminadas y una mayor susceptibilidad a estímulos\nbreves o emocionales."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Diseño persuasivo de las webs, aplicaciones y plataformas"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "La denominada “tecnología persuasiva” (en inglés, captology),\ndesarrollada por B.J. Fogg6 , es aquella diseñada para cambiar actitudes\no comportamientos a través de la mediación tecnológica, sin recurrir\na coerción o engaño explícito. Su modelo conductual (Fogg Behaviour\nModel) sostiene que el comportamiento se produce cuando convergen\ntres elementos:"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Daniel Kahneman, psicólogo y Premio Nobel de Economía en 2002, estudió cómo las\npersonas toman decisiones bajo incertidumbre. Propuso que el pensamiento humano\nopera mediante dos sistemas complementarios: el Sistema 1, rápido, automático, intuitivo\ny emocional, que utiliza atajos mentales; y el Sistema 2, lento, deliberado y analítico, que\npermite evaluar información de manera crítica y razonada. Ambos sistemas interactúan\nconstantemente, pero muchas decisiones cotidianas están fuertemente influenciadas\npor el Sistema 1, lo que puede hacer al usuario más vulnerable a errores y decisiones poco\nracionales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\n¥ Motivación, deseo o interés del usuario,\n¥ Habilidad o facilidad con la que puede ejecutar la acción, y\n¥ Disparador o estímulo (trigger) que activa la conducta.\nLas plataformas digitales son capaces de influir simultáneamente en estas\ntres variables: pueden aumentar la motivación mediante recompensas o\nvalidación social; pueden reducir el esfuerzo con interfaces simplificadas\no automatizaciones; y pueden generar disparadores constantes, como\nnotificaciones, banners o recordatorios."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Personalización algorítmica mediante el uso de datos"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Consiste en el uso de sistemas automatizados (inteligencia artificial,\nmachine learning, minería de datos) para adaptar los contenidos,\ninterfaces y recomendaciones que recibe cada usuario, en función de su\ncomportamiento, historial y perfil digital.\nDe esta manera, este tipo de sistemas aprenden de las interacciones del\nusuario (clics, búsquedas, tiempo de permanencia, ubicación, etc.) para\nconfigurar un entorno digital personalizado en el que las opciones que\nse presentan no son casuales, sino el resultado de un cálculo orientado a\nobjetivos específicos (atención, retención, conversión). Con este tipo de\nprácticas, la arquitectura de la elección pasa de ser un entorno estático\ny universal, a ser dinámico y personalizado.\nEn conjunto, estos mecanismos configuran una arquitectura digital\nde las elecciones basada en la psicología del comportamiento y la\npsicología social. Las plataformas, webs y aplicaciones estructuran\nentornos persuasivos que modelan la conducta del usuario, aumentando\nsu interacción con ella y llevando a la toma de determinadas decisiones."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "B.J. Fogg es un psicólogo estadounidense y experto en comportamiento humano, diseño\nde interacción y persuasión digital, conocido por sus investigaciones sobre cómo\nla tecnología puede influir en la conducta de las personas. Es fundador del Behavior\nDesign Lab en la Universidad de Stanford y autor del libro “Persuasive Technology: Using\nComputers to Change What We Think and Do” (2003), donde introduce el concepto de\ncaptología (captology), que estudia cómo los sistemas tecnológicos pueden diseñarse\npara cambiar hábitos y comportamientos humanos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VI. Prácticas de"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "captación digital más"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "habituales en el ámbito"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "de la inversión"
+    },
+    {
+      "type": "paragraph",
+      "text": "Al categorizar las distintas prácticas de captación digital, conviene identificar\ntres ámbitos principales de influencia:\nEstructura de la elección: la forma en que se presenta la información\nnecesaria para tomar una decisión.\nInformación de la elección: el contenido y el encuadre de las distintas\nopciones disponibles.\nPresión para la elección: los elementos que guían al usuario hacia una\ndecisión alineada con sus propias intenciones.\nA\nB\nC"
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nEstructura de la elección"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Opciones predeterminadas",
+        "Clasificaciones",
+        "Precios divididos",
+        "Sobrecarga de elección *",
+        "Manipulación sensorial*",
+        "Fricción injustificada (sludge)*"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Información de la elección"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Precio por goteo (drip pricing)*",
+        "Enmarcado (framing)",
+        "Lenguaje complejo*",
+        "Sobrecarga de información*"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Presión para la elección"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Afirmaciones de escasez y popularidad",
+        "Avisos y recordatorios",
+        "Mensajeros",
+        "Compromiso",
+        "Retroalimentación",
+        "Personalización"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A continuación, se presenta una clasificación de las prácticas de captación\ndigital según el ámbito en el que inciden. La mayoría de estas técnicas\npueden utilizarse de manera beneficiosa para el usuario y, de hecho, con\nfrecuencia se aplican así. Sin embargo, la literatura académica indica que\nalgunas prácticas son casi siempre perjudiciales y entrarían dentro del\nconcepto de patrón oscuro, mientras que otras solo resultan dañinas en\ndeterminadas circunstancias.\nEn la siguiente tabla se muestran las prácticas de captación digital más\nhabituales en el ámbito de la inversión. Las técnicas señaladas con un\nasterisco se consideran patrones oscuros por la literatura académica\nexistente en esta materia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nPrácticas de captación"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "relacionadas con"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "la estructura de la"
+    },
+    {
+      "type": "paragraph",
+      "text": "elección\nA."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nEn el ámbito digital, las plataformas y aplicaciones pueden influir en nuestras\ndecisiones mediante la forma en que se estructuran las opciones disponibles.\nEsto incluye decidir qué alternativas se muestran o destacan, cuánto esfuerzo\nrequiere evaluar cada opción, cómo se ordenan o clasifican los productos o\nservicios, y qué ocurre después de que el usuario realiza su elección.\nEstas técnicas pueden emplearse de manera beneficiosa, por ejemplo,\nfacilitando la comparación de opciones o destacando información relevante\nque ayuda al usuario a tomar decisiones más informadas. Sin embargo,\ntambién pueden ser utilizadas de forma que perjudiquen a los consumidores,\nconfigurando la elección de manera que favorezca determinados resultados.\nEntre las prácticas más comunes y problemáticas se encuentran las opciones\npredeterminadas que no benefician al usuario, las modificaciones del orden o\nla apariencia de los resultados para priorizar ciertos productos, la sobrecarga\nde opciones que confunde al usuario, o el uso de estímulos sensoriales que\ncomplican la toma de decisiones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nEs importante que los usuarios sean conscientes de estas\nopciones, revisen las preselecciones y evalúen si reflejan\nrealmente sus preferencias y objetivos.\nOpciones predeterminadas\nEs una práctica que consiste en que la opción preseleccionada, la que se\nelige automáticamente si el usuario no cambia nada, condiciona la decisión\nde este. Esta técnica dirige la elección del usuario aprovechando la inercia\na no cambiar lo que ya está establecido. Basta con no intervenir para que\nprevalezca la opción por defecto.\nEn el ámbito de la inversión, las opciones predeterminadas ayudan a los\ninversores a actuar sin fricciones, pero también pueden dirigir decisiones sin\nque el cliente sea totalmente consciente, perpetuar decisiones subóptimas y\ngenerar costes o riesgos no intencionales. Este tipo de prácticas aparecen en\nmúltiples fases, desde la contratación del producto hasta el seguimiento de\nsu evolución.\nA modo de ejemplo de este tipo de prácticas se pueden citar las\naportaciones periódicas automáticas a determinados productos como\nfondos de inversión o planes de pensiones y carteras gestionadas o el\nestablecimiento de la “orden a mercado” como opción preseleccionada\na la hora de invertir a través de un bróker online.\nEn definitiva, las opciones predeterminadas tienen un doble efecto.\nPor un lado, simplifican decisiones complejas y permiten a los inversores\nactuar de manera más rápida y eficiente; por otro, pueden influir de manera\nsignificativa en el comportamiento del inversor, afectando al riesgo asumido,\nla rentabilidad esperada y los costes del producto.\nA.1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nClasificaciones\nEs la técnica que consiste en mostrar el orden de las distintas opciones de\nuna manera particular. Las opciones se pueden organizar, agrupar o etiquetar\nde manera que influya en cómo el inversor percibe el riesgo, el rendimiento\no la conveniencia de un producto. Las opciones se pueden agrupar, clasificar\no etiquetar según criterios específicos, lo que puede facilitar la comparación\ny la toma de decisiones, pero también puede condicionar la percepción del\ninversor si no se hace de forma transparente.\nA modo de ejemplo, los productos de inversión se pueden clasificar en\nfunción de varios criterios, tales como niveles de riesgo (bajo, medio, alto),\ncategorías (renta fija, renta variable), puntuaciones de calidad (ratings de\nriesgo, scores ESG, etc.), o popularidad, entre otros. Esta organización puede\nayudar al inversor a identificar los productos que mejor se ajustan a sus\nobjetivos y perfil de riesgo.\nNo obstante, la clasificación de opciones no resulta adecuada si se utiliza\npara favorecer intereses del proveedor del producto, promover productos\npropios o influir en la elección del usuario de manera sutil pero deliberada.\nEsta práctica es aceptable únicamente cuando las clasificaciones\nson objetivas, claras y transparentes y permiten al inversor tomar\ndecisiones acordes con su perfil inversor.\nA.2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nPrecios divididos\nConsiste en mostrar solo una parte del precio total de un servicio financiero\no de inversión, resaltando un coste pequeño o fraccionado para reducir\nla percepción de barrera de entrada. Se presentan así los componentes\nindividuales del precio sin compartir el coste total o estimado con el inversor.\nEste tipo de prácticas se puede apreciar en reclamos publicitarios relativos\na comisiones bajas, “0 €” para ciertos conceptos, ausencia de aplicación de\ndeterminadas comisiones, oferta de operaciones gratuitas, etc. El objetivo es\ndesviar la atención del inversor hacia la parte más atractiva del producto, sin\ninformar de los demás costes que podrían estar asociados.\nMuchas comisiones están claramente definidas y disponibles en la\ndocumentación oficial, pero el mensaje publicitario enfatiza la parte más\natractiva del precio para incentivar la decisión del inversor.\nEs preciso recordar que, según la normativa aplicable, las\nentidades deben facilitar al cliente información completa, clara\ny previa sobre todos los costes y gastos, permitiendo comprender\nsu impacto en la rentabilidad de la inversión. Por tanto, antes de\ntomar decisiones, es recomendable que los inversores revisen\ncuidadosamente todas las comisiones y costes asociados al\nproducto financiero.\nA.3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nSobrecarga de elección*\nLa sobrecarga de elección consiste en facilitar al usuario demasiadas\nopciones para comparar, generando confusión o parálisis y aumentando la\nprobabilidad de que el usuario siga la opción sugerida, recomendada o por\ndefecto.\nA modo de ejemplo, esta práctica se puede apreciar cuando se le ofrece\nal usuario un número abrumador de fondos de inversión y se le ofrece la\nposibilidad de elegir “el fondo recomendado por los expertos” o el “top 10\ndel mes”, o cuando se le oferta un elevado número de carteras diferentes y\nacaba eligiendo “la cartera más popular”.\nEn consecuencia, el impacto conductual no deriva tanto del exceso de\nopciones en sí mismo, como de la forma en que éstas se estructuran, se\ndestacan o se simplifican dentro del proceso de decisión.\nEsta práctica puede beneficiar al inversor, especialmente si es poco\nexperimentado o dispone de poco tiempo, al evitar decisiones impulsivas\no la selección aleatoria de productos. La existencia de una opción\n“recomendada” puede servir de guía en entornos complejos y facilitar la\ntoma de decisiones.\nSin embargo, esta técnica también puede perjudicar al usuario al llevarle a\nelegir un producto que no sea el más adecuado para su perfil, simplemente\nporque es el que destaca o aparece primero. Además, si las sugerencias\npriorizan los intereses comerciales de la plataforma, el inversor puede acabar\nadquiriendo un producto menos conveniente.\nA.4\nEl exceso de opciones unido a la simplificación selectiva de éstas\ntiende a favorecer decisiones basadas en apariencia, popularidad\no facilidad, en lugar de criterios objetivos como comisiones, riesgo\no rentabilidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nManipulación sensorial*\nEsta práctica consiste en emplear elementos visuales, auditivos y táctiles\npara dirigir al inversor hacia determinadas opciones, influyendo tanto en su\npercepción de la información como en su conducta.\nEsta técnica recurre al uso de colores, por ejemplo, para resaltar la opción\nque se quiere que el usuario elija, o para distinguir cada tipo de cartera o\nriesgo (verde, naranja, rojo), o a determinada iconografía como sellos “Top 10”,\n“Recomendado”, “Popular” que aumentan la percepción de valor. Asimismo,\nse pueden utilizar botones grandes y suaves que dan sensación de control y\nfacilidad o barras visuales de progreso para mostrar cuánto se ha invertido,\ncuánto falta para un objetivo o cuánto ha crecido la cartera, generando una\nsensación de “avance tangible” y, por tanto, de seguridad, para el usuario.\nEsta práctica puede mejorar la experiencia de usuario, al hacer las\nplataformas más intuitivas y visualmente atractivas y también puede ayudar\na guiar decisiones si se utiliza para resaltar opciones objetivamente mejores\no más seguras.\nSin embargo, puede inducir decisiones impulsivas y aumentar riesgos si se\nusa con fines comerciales y puede distraer de los objetivos de inversión\ninicialmente establecidos por el inversor.\nA.5\nPor ello, es importante que los inversores sean conscientes de\nestos estímulos y evalúen críticamente cada elección, más allá de\nla forma en que se presenta."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nFricción injustificada (sludge)*\nLa técnica de la fricción injustificada o lodo se refiere a todas aquellas\nbarreras o dificultades que se añaden a un proceso para retrasar, complicar\no disuadir la acción del usuario. El objetivo es ralentizar o desincentivar la\nacción del usuario, aumentar el abandono, mantenerlo en un producto o\nservicio, o inducir un comportamiento específico.\nSon ejemplos de este tipo de técnica los impedimentos excesivos a la hora de\ncancelar una cuenta de valores o retirar fondos, la ocultación de información\no la provisión de información de manera fragmentada.\nEn términos generales, el lodo se considera una mala práctica desde la\nperspectiva del inversor porque genera fricciones innecesarias que dificultan\ndecisiones o acciones que serían naturales o deseables para él. Hay que\nprecisar que no toda fricción es lodo. Algunas fricciones vienen impuestas\npor la regulación o se justifican en la necesidad de garantizar la seguridad del\ninversor o de verificar sus datos, y son necesarias para proteger al inversor.\nA.6\nLa fricción únicamente se considerará lodo si es innecesaria y\nperjudica al inversor en beneficio del proveedor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nPrácticas de captación\nrelacionadas con la\ninformación de la\nelección\nB."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nA la hora de diseñar entornos de elección, tiene un papel muy importante\nel decidir qué información se proporciona a los inversores al presentar las\nopciones. Esta información puede incluir datos básicos sobre un producto o\nservicio o puede presentarse de manera que se destaquen deliberadamente\nciertos aspectos con respecto a otros. Asimismo, puede añadirse información\ninnecesaria o facilitarse la información de manera que sea más difícil de\nentender o esté menos accesible, o incluso puede ocultarse hasta que el\ninversor haya avanzado más en el proceso de adquisición del producto o\ncontratación del servicio.\nManipular la información de elección puede reducir la capacidad de los\ninversores para comprender y evaluar elementos clave, como los precios,\nlas comisiones o los términos y condiciones de un producto financiero.\nEn el ámbito de la inversión, este tipo de manipulación resulta especialmente\nrelevante, ya que puede distorsionar la percepción del riesgo, ocultar\ncostes recurrentes o minimizar la importancia de factores esenciales para la\nrentabilidad a largo plazo.\nComo consecuencia, los inversores pueden tomar decisiones basadas en una\ncomprensión incompleta o sesgada de las alternativas disponibles, alejándose\nde sus verdaderas preferencias de riesgo, horizonte temporal u objetivos\nfinancieros. Esto puede generar comportamientos no deseables, como asumir\nriesgos excesivos, elegir productos más costosos o mantener inversiones que\nno se ajustan a sus necesidades reales.\nA continuación, se recogen las principales prácticas relacionadas con la\ninformación de elección que afectan a los productos y servicios de inversión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nPrecio por goteo*\nEl precio por goteo o “gota a gota” (drip pricing) es una práctica mediante la\ncual una plataforma o aplicación presenta inicialmente un coste muy atractivo\npara captar la atención del cliente, pero va añadiendo costes adicionales y\nobligatorios de forma progresiva a medida que avanza el proceso de registro,\ncontratación o inversión. Estos costes solo se revelan de manera completa en\nfases avanzadas, cuando el usuario ya ha invertido tiempo y esfuerzo en todo\nel proceso.\nComo ejemplo de esta práctica, se puede citar la contratación de productos\n“sin comisiones”, en la que posteriormente aparecen otro tipo de gastos, o el\ndesglose tardío de costes derivados del servicio contratado.\nLa eficacia de esta técnica se basa en sesgos cognitivos como el sesgo de\nanclaje, al considerar el inversor en su decisión únicamente el precio inicial\ndel producto o servicio, y el sesgo del coste hundido que lleva al usuario a\ncontinuar con la decisión de invertir tras haber empleado tiempo y esfuerzo,\naunque eso suponga asumir costes no contemplados inicialmente.\nB.1\nCon este tipo de técnica se distorsiona la percepción del coste\nreal de invertir, se dificulta la comparación entre distintos\nproveedores y se incrementa la probabilidad de que los inversores\nelijan opciones más caras o menos adecuadas a sus necesidades."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nEnmarcado\nEl enmarcado o framing consiste en mostrar la misma información de\ndistintas maneras con la finalidad de influir en la percepción y la decisión del\ninversor. No cambia la información en sí, sino cómo se presenta.\nEsta técnica es utilizada frecuentemente a la hora de mostrar el riesgo de\nun producto financiero. A modo de ejemplo, aunque la información facilitada\nsea la misma, será más probable que un inversor adquiera un producto si se\nresalta el posible porcentaje de ganancias que puede tener (“hay un 90 %\nde probabilidades de que la cartera aumente de valor”) que si se resaltan las\npérdidas (“hay un 10 % de probabilidades de que la cartera pierda valor”).\nEn definitiva, el enmarcado es una técnica de persuasión muy poderosa, ya\nque altera cómo el inversor percibe la información y, por tanto, cómo percibe\nel valor, el riesgo y los costes.\nB.2"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Enmarcado",
+        "Cambia percepción",
+        "Influye en decisión",
+        "Presentación de información"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nLenguaje complejo*\nEl lenguaje complejo se refiere al uso de expresiones, términos y estructuras\ngramaticales que dificultan la comprensión de la información por parte del\ninversor. Esto puede incluir el empleo de vocabulario ambiguo, tecnicismos\nexcesivos, jerga financiera especializada o construcciones sintácticas\ninnecesariamente elaboradas. A través de este tipo de comunicación,\nse puede transmitir una apariencia de profesionalidad, sofisticación o\nexclusividad, o incluso intentar justificar la aplicación de determinadas\ncomisiones aun cuando el contenido no resulte realmente claro ni aporte\ninformación sustancial.\nEl lenguaje financiero tiene una complejidad natural intrínseca que\nes necesaria por motivos de precisión y cumplimiento normativo. Sin\nembargo, esta complejidad no debería utilizarse de manera deliberada para\nimpresionar, justificar costes o generar una sensación de valor añadido que\nno esté respaldada por información relevante y comprensible para el inversor.\nPara el inversor, la habilidad crucial consiste en distinguir entre el lenguaje\ntécnico que aporta claridad y rigor, de aquel que no añade contenido\nsignificativo y solo genera una barrera de comprensión.\nB.3\nIdentificar esta diferencia permite tomar decisiones más\ninformadas, comprender mejor los riesgos y evitar caer en\ninterpretaciones erróneas derivadas de una comunicación opaca\no innecesariamente complicada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nSobrecarga de información*\nEs la técnica que consiste en proporcionar demasiada información sobre un\nproducto o servicio, de modo que los aspectos más relevantes se vuelven\ndifíciles de encontrar y evaluar. Se le presentan al inversor demasiados datos,\ncifras, gráficos y documentos, de manera que sea difícil analizarlos todos.\nDesde una perspectiva cognitiva, cuando el cerebro se enfrenta a muchos\nnúmeros, términos y gráficos, tiende a experimentar fatiga. Como\nconsecuencia de ello, el inversor suele recurrir a heurísticos (atajos de\npensamiento), simplificando su juicio y otorgando más peso a señales\nsuperficiales, como la apariencia de profesionalidad o el uso de gráficos\nllamativos, que al análisis crítico del contenido. Este efecto puede llevar al\ninversor a confiar en la opinión del intermediario o a delegar la decisión en\nun tercero, en lugar de evaluar de manera autónoma la conveniencia del\nproducto.\nAdemás, la sobrecarga de información puede impedir que el inversor detecte\nriesgos significativos o costes ocultos. Por ello, resulta fundamental que\nla información proporcionada sea no solo completa, sino también clara,\nestructurada y proporcional a la complejidad real del producto.\nB.4\nReconocer esta práctica permite al inversor mantenerse alerta\ny centrarse en los elementos que verdaderamente importan:\nobjetivos de inversión, riesgos, costes, rentabilidad, liquidez y\nadecuación al perfil personal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nPrácticas de captación\nrelacionadas con la\npresión para tomar\nuna decisión\nC."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nLos entornos de elección pueden estar diseñados para ejercer presión sobre\nlos consumidores con el fin de que tomen ciertas decisiones utilizando\nfactores indirectamente relacionados como la presión del tiempo, la escasez\no los mensajeros de confianza, lo que puede desembocar en decisiones\nimpulsivas o inadecuadas.\nCon estas técnicas se puede incitar a que el inversor actúe rápido, sin\ncomparar, sin analizar costes o riesgos y sin pedir una segunda opinión.\nActúan acortando el proceso natural de decisión del inversor de manera que\nconfíe más en su intuición o en un tercero, en lugar de analizar racionalmente\nla información de la que dispone.\nEstas técnicas explotan sesgos cognitivos habituales en la inversión como el\nsesgo de aversión a la pérdida, el sesgo de autoridad o el de escasez, entre\notros.\nA continuación, se muestran las técnicas de este tipo más habituales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nAfirmaciones de escasez y popularidad\nLas afirmaciones de escasez son mensajes que presentan el producto de\ninversión como limitado, exclusivo o a punto de agotarse. La finalidad es\ngenerar urgencia y activar el sesgo de la escasez, es decir, la tendencia a\nconsiderar que lo escaso es valioso, así como el FOMO (acrónimo de Fear Of\nMissing Out o miedo a quedarse fuera), es decir, la tendencia que lleva a un\ninversor a comprar un producto porque otros lo están comprando y teme\nperder una oportunidad “única”.\nLas afirmaciones de popularidad son mensajes que hacen ver que un gran\nnúmero de personas ya está invirtiendo en ese producto y pretenden activar\nel efecto rebaño y, por tanto, la tendencia a imitar las acciones de los demás\nbajo la creencia de que si otros actúan así es que esa conducta debe ser\ncorrecta.\nAmbas herramientas se usan para acelerar decisiones y reducir el tiempo\nque el inversor dedica al análisis crítico y son especialmente persuasivas en\nel ámbito de la inversión.\nC.1\nPara el inversor es clave reconocer estas estrategias y saber\ndetectar la presión emocional y la presión social que le inducen a\nactuar rápidamente sin una evaluación racional de la inversión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nAvisos y recordatorios\nLa técnica de avisos y recordatorios es una estrategia de captación para\nestimular la acción, mantener la decisión del cliente “en caliente” y generar\nurgencia psicológica. Se basa en el envío recurrente de mensajes —por\ncorreo electrónico, SMS, notificaciones de aplicaciones o llamadas—\nrelacionados con una oferta, un producto, un plazo próximo a vencer u otra\noportunidad de inversión.\nEsta estrategia constituye una forma de presión, que opera a través de la\nrepetición y la percepción de urgencia. Puede motivar al inversor a actuar por\ndiversas razones: incomodidad (para dejar de recibir mensajes), familiaridad\n(por mera exposición repetida al mismo mensaje) o miedo a perder una\noportunidad percibida (activando la aversión a la pérdida).\nDentro de esta técnica se incluyen mensajes como: “últimos días”,\n“sin comisión de apertura solo por unos días”, “no te quedes fuera”\nu “oportunidad única”. Este tipo de comunicaciones puede presionar al\ninversor y conducirle a decisiones precipitadas o poco informadas.\nEl uso indebido de esta técnica puede ser perjudicial, ya que reduce el\ntiempo de análisis, fomenta la impulsividad y puede llevar a la contratación\nde productos costosos o inadecuados para el perfil del inversor. No obstante,\nsi se utiliza con fines informativos, por ejemplo, para recordar vencimientos\nde productos ya contratados o fechas importantes, puede resultar\nbeneficiosa y contribuir a una gestión financiera más ordenada y consciente.\nC.2\nPor tanto, esta técnica puede utilizarse para generar urgencia\ny presionar al inversor a actuar impulsivamente o para enviar\nrecordatorios útiles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nMensajeros\nEsta técnica consiste en utilizar personas o grupos de personas para\ntransmitir un mensaje con el objetivo de influir en la decisión del inversor.\nEntre los mensajeros se incluyen influencers, expertos financieros, otros\nusuarios de la plataforma, clientes satisfechos, deportistas o personalidades\nconocidas. La finalidad principal es aumentar la credibilidad de un producto\nde inversión y condicionar al inversor para que tome decisiones guiado por la\nautoridad, cercanía o confianza que inspira la figura que comunica el mensaje,\nmás que por el contenido en sí. La idea clave es que quién transmite el\nmensaje influye tanto o más que lo que se transmite.\nSe recurre a figuras que generan confianza, autoridad o cercanía para\npromocionar un producto financiero, de manera que el inversor deposita\nmayor credibilidad en el mensajero que en los detalles del producto. Esto\npuede llevar a decisiones impulsivas o poco analizadas, porque el peso del\nmensaje no proviene de su contenido objetivo, sino de la percepción positiva\ndel mensajero.\nEn el marco de esta técnica se incluyen los mensajes del tipo “los expertos\nde nuestra entidad recomiendan aprovechar este momento”, “este es el\nproducto que más contratan los clientes como tú”, “esto es lo que están\nhaciendo los grandes inversores”, etc.\nC.3\nLa técnica de mensajeros es una de las más poderosas en el\námbito de captación digital porque reduce la incertidumbre, se\naprovecha de la autoridad y la confianza que genera el mensajero\ny traslada la credibilidad de éste al producto, lo que hace que el\ninversor tome decisiones menos basadas en análisis y más en la\nfigura que comunica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nCompromiso\nLa técnica del compromiso consiste en inducir al consumidor a asumir una\nobligación inicial, aunque sea mínima o no vinculante, para luego usarla como\npalanca psicológica que facilite la aceptación de un compromiso mayor,\ncomo la contratación de un producto financiero. Su eficacia se basa en la\nnecesidad humana de mostrar coherencia con decisiones previas y evitar la\ndisonancia cognitiva, es decir, la incomodidad que surge cuando una persona\nmantiene ideas o acciones contradictorias entre sí. En esencia, esta técnica\nbusca que el usuario dé un primer paso - clic, registro, simulación, selección,\netc. - que lo predisponga a completar la acción final.\nSon ejemplos de aplicación de esta técnica los siguientes:\nSimuladores de inversión:\n“Completa este test en 1 minuto para ver qué cartera te\ncorresponde”.\nRecordatorios basados en compromisos previos:\n“Completaste tu simulación. Solo te queda un paso para empezar\na invertir”.\nIncorporación progresiva:\nProcesos de varios pasos que generan un compromiso gradual,\ncomo: “Crea tu perfil → Define tu objetivo → Selecciona nivel de\nriesgo → Elige importe → Confirma”.\nC.4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nEsta técnica puede ser muy efectiva para ayudar al inversor a superar la\ninercia y fomentar hábitos positivos, como realizar aportaciones periódicas\na un producto de ahorro o inversión, reflexionar sobre su perfil de riesgo,\nmetas y horizonte temporal mediante herramientas de autoevaluación,\ntomar decisiones de forma gradual y más consciente y evitar la impulsividad.\nSin embargo, puede ser perjudicial si induce decisiones apresuradas, sin\nreflexión, o dirige al inversor hacia productos complejos o inadecuados para\nsu perfil.\nEn definitiva, el compromiso puede ser una herramienta poderosa\npara promover decisiones financieras informadas y hábitos de\ninversión sostenibles, siempre que se utilice con fines educativos\ny adaptados al perfil del inversor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nRetroalimentación\nEs la técnica que consiste en proporcionar información al inversor sobre\ncómo ha usado un producto o servicio. En particular, la retroalimentación\nse puede referir al rendimiento, las operaciones, los hábitos de inversión,\nlas ganancias o pérdidas, las comparaciones con otros usuarios, proyecciones\no gráficos. Esa información influye en cómo el inversor decide seguir\ninvirtiendo.\nEn términos prácticos, la técnica consiste en dar información sobre el\ncomportamiento o decisiones previas del inversor, destacando logros,\nreforzando acciones ya realizadas o señalando progresos, con el fin de\naumentar la confianza, generar satisfacción y fomentar la repetición de\ncomportamientos positivos. Esta técnica se puede apreciar en expresiones\ncomo “¡Felicidades! Has completado tu primer mes de aportaciones\nautomáticas”, o “Tu inversión ha crecido un 2,5% este mes, mientras que el\nmercado subió un 1,8 %”, o “¡Buen trabajo! Has cumplido tu objetivo de ahorro\nmensual”.\nSi se aplica correctamente, la retroalimentación puede reforzar hábitos\nfinancieros positivos (ahorro, inversión metódica), mejorar la comprensión\ndel propio comportamiento y la tolerancia riesgo, aumentar la confianza en\nla toma de decisiones, generar sensación de progreso y motivación para\ncumplir objetivos y facilitar la adquisición de educación financiera a través\nde la práctica.\nPor el contrario, si la técnica induce al inversor a tomar decisiones impulsivas,\ngenera exceso de confianza o promueve la inversión inadecuada para su\nperfil, se considerará un mal uso de la misma. En estos casos,\nla retroalimentación deja de ser un refuerzo positivo y se convierte en un\nfactor que puede comprometer la calidad de las decisiones financieras.\nC.5\nEn consecuencia, la retroalimentación refuerza hábitos positivos\ny la confianza del inversor, pero puede ser perjudicial si fomenta\ndecisiones impulsivas o inversiones inadecuadas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nPersonalización\nEs la técnica de captación digital que consiste en adaptar la comunicación\no el producto a los intereses o comportamientos específicos del inversor,\ngenerando sensación de relevancia y cercanía.\nEn lugar de recurrir a mensajes genéricos, esta técnica busca un enfoque\nselectivo y personalizado para:\nIncentivar la inversión cuando la oferta coincide con los\nintereses del inversor.\nReducir la fricción mostrando contenido relevante.\nSimplificar la toma de decisiones financieras.\nMejorar la experiencia del cliente y fortalecer la relación con\nla marca.\nSon ejemplos de esta técnica las landing pages dinámicas en las que la\nweb muestra productos distintos según el perfil del visitante, o emails o\nnotificaciones push personalizadas con ofertas de productos financieros\nsegún los intereses y objetivos del inversor o algoritmos que ajustan dichas\nofertas en tiempo real según la interacción del usuario.\nC.6"
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nEn resumen, la personalización mejora la experiencia y la\nrelevancia de la información, pero requiere que el inversor\nmantenga pensamiento crítico y análisis propio para evitar\ndecisiones impulsivas o mal alineadas con su perfil.\nLa técnica de la personalización puede ayudar al inversor a tomar decisiones\nmás alineadas con sus objetivos, informadas y racionales y todo ello mediante\nun proceso de inversión más simplificado.\nSin embargo, también le puede llevar a confiar demasiado en las ofertas\npersonalizadas de la plataforma sin analizar por sí mismo los riesgos.\nEsto puede generar una falsa sensación de seguridad y la adopción de\ndecisiones menos críticas. Asimismo, aunque la personalización busca\nsimplificar, a veces el exceso de opciones adaptadas (carteras, fondos,\ntemáticas) puede generar confusión y dificultar la decisión final. Por último,\nla recepción de notificaciones o alertas personalizadas puede incentivar\nla realización de operaciones no previstas inicialmente, provocando\ncomportamientos reactivos y decisiones impulsivas alejadas del plan de\ninversión inicial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nVII. Estrategias para\nmitigar la influencia de\nlas técnicas de captación\ndigital\nTal como se ha señalado anteriormente, la eficacia de las técnicas de\npersuasión digital descritas se basa en la interacción de tres factores: los\nmecanismos psicológicos del inversor, que condicionan su percepción de la\nrealidad y la toma de decisiones; el diseño persuasivo de la aplicación, web o\nplataforma; y la personalización algorítmica, es decir, el conocimiento que la\nplataforma obtiene del usuario a partir de su actividad online.\nPor tanto, las estrategias para mitigar los efectos de estas técnicas deben\nactuar sobre estos tres ámbitos:\nMecanismos psicológicos: las estrategias de mitigación buscan\nracionalizar el proceso de inversión, minimizando la influencia de las\nemociones y la impulsividad.\nDiseño persuasivo: las estrategias de mitigación buscan activar el\npensamiento crítico del inversor y reducir el tiempo de exposición a\nla plataforma, disminuyendo la probabilidad de adoptar decisiones\napresuradas inducidas por estímulos visuales o interactivos.\nPersonalización algorítmica: las estrategias de mitigación se orientan\na limitar la información que el inversor facilita a la plataforma, web\no aplicación y, por tanto, la capacidad de ésta de inducir conductas\nespecíficas en el inversor.\nA\nB\nC"
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nEn conjunto, estas estrategias buscan proteger al inversor frente a la\ninfluencia excesiva de la persuasión digital, promoviendo un comportamiento\nmás informado, crítico y alineado con su perfil de riesgo y objetivos\nfinancieros.\nA continuación, se recoge un cuadro resumen de las distintas técnicas de\nmitigación clasificadas según el ámbito en el que actúan.\nMecanismos psicológicos"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Adquirir educación financiera",
+        "Atemperar el optimismo",
+        "Generar alternativas",
+        "Estandarizar el proceso de inversión"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Diseño persuasivo"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Reconocer las estrategias de diseño"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "persuasivo"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Desactivar notificaciones no esenciales",
+        "Reducir la frecuencia de consulta de la"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "plataforma"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Utilizar una breve lista de comprobación",
+        "Evaluar periódicamente el comportamiento",
+        "Introducir un periodo de enfriamiento"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "(cool-down rule)"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Desconfiar de productos “destacados”"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "o “populares”."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Evitar operar por presión emocional",
+        "Analizar las comisiones y costes reales del"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "producto"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "No confundir comodidad con seguridad",
+        "Decidir fuera de la plataforma"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Personalización algorítmica"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Proporcionar únicamente los datos"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "imprescindibles"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Desactivar la personalización",
+        "Interactuar lo menos posible con contenido"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "sugerido"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Limpiar historial y cookies",
+        "Controlar permisos y notificaciones"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nMecanismos\npsicológicos\nA."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nAdquirir educación financiera\nUna manera de evitar la influencia de las técnicas de persuasión digital en\nla adopción de decisiones es facilitar a la persona implicada las reglas y\nprincipios adecuados para adoptarlas. En este sentido, la formación marca\nuna diferencia a la hora de tomar una decisión. En el ámbito financiero, es\nprobable que las personas con extensos conocimientos en economía los\napliquen a la hora de tomar una decisión financiera y mitiguen los sesgos\nque pueden observarse en la toma de decisiones.\nEn consecuencia, en el ámbito de la toma de decisiones financieras, ya\nsea en entornos tradicionales o entornos digitales resulta particularmente\nimportante la adquisición de una adecuada educación financiera desde\nedades muy tempranas y a lo largo de toda la vida.\nAtemperar el optimismo\nUna tendencia habitual en las personas es la predisposición al optimismo.\nEste optimismo se centra en la apreciación del ámbito personal,\nprincipalmente en la consideración de uno mismo, en las consecuencias de\nlas decisiones que adopta o en el futuro que le espera. Se trata de un sesgo\ncognitivo que hace que los sujetos subestimen la posibilidad de que les\nocurra un evento negativo.\nA.1\nA.2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nEn el ámbito de la toma de decisiones financieras, la tendencia al optimismo\ntiene un papel muy importante. El exceso de optimismo en el ámbito digital\npuede hacer que los usuarios ignoren señales de alerta, confíen ciegamente\nen reseñas o anuncios persuasivos, y subestimen la probabilidad de fraude,\npérdidas económicas o problemas de privacidad.\nUn exceso de optimismo puede alterar la capacidad de crítica a la hora de\nelegir un producto en el que invertir, ignorando informaciones negativas\nsobre ese producto u obviando la posibilidad de perder la inversión.\nUna solución es simplemente “pensar lo contrario” mediante la articulación\nde una serie de razones por las que una decisión inicial podría estar\nequivocada o fallar.\nEl optimismo es positivo, pero su exceso puede acarrear consecuencias\nnegativas a la hora de invertir al generar expectativas irreales e impedir\nvisualizar los riesgos que pueda llevar asociados.\nGenerar alternativas\nEn el ámbito de la toma de decisiones financieras, resulta fundamental\nno limitarse a la primera opción presentada o a la inversión inicialmente\nconsiderada. Generar alternativas implica explorar distintas posibilidades\nde inversión y comparar sus ventajas y desventajas de manera objetiva.\nEste enfoque permite identificar oportunidades más adecuadas, reducir\nriesgos y evitar decisiones impulsivas influenciadas por la publicidad,\nel marketing persuasivo o las recomendaciones sesgadas.\nGenerar alternativas no solo amplía las posibilidades de elección, sino que\ntambién incentiva la capacidad de decisión y reduce la vulnerabilidad frente\na sesgos cognitivos y técnicas de persuasión.\nA.3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nEstandarizar el proceso de inversión\nUna manera de adoptar decisiones es hacerlo de manera estandarizada por\nmedio del diseño del procedimiento adecuado.\nUna manera sencilla de diseñar este proceso es recurrir, con alguna\nmodificación, a las clásicas cinco W7 del periodismo: en qué se quiere invertir,\npor qué se quiere invertir, cómo se quiere invertir, cuánto se desea invertir,\ncuándo se desea realizar la inversión y por cuánto tiempo. Este sencillo\nejercicio incita necesariamente a la reflexión antes de adoptar una decisión y,\npor tanto, contribuye a aminorar el influjo de los sesgos.\nOtra manera de estandarizar el proceso de toma de decisiones, aplicable\ntambién a las de ámbito financiero, es recurrir a las listas de comprobación.\nEste recurso recoge los pasos mínimos necesarios para realizar una\ndeterminada operación, los hace explícitos y evita errores. Las listas de\ncomprobación no solo ofrecen la posibilidad de verificación, sino que\ntambién inculcan cierta disciplina para conseguir el mayor rendimiento al\ntiempo que se aminoran los errores.\nLa lista de comprobación ayuda a ser todo lo racional que es posible\ndurante cada una de las fases del proceso y garantiza que se dispone\nde la información necesaria en el momento preciso y que se está siendo\nsistemático a la hora de tomar decisiones. En el ámbito de la inversión, una\nlista de comprobación se puede concretar en una enumeración de puntos\na verificar en forma de preguntas que se relacionan con el producto de\ninversión objeto de estudio y que ayudarán a dilucidar si se debe comprar\no no dicho producto. Estas listas son muy personales, su elaboración debe\nbasarse en los errores cometidos en el pasado y es recomendable que sean\nmuy breves. Asimismo, no es conveniente que sean estáticas, sino que deben\nincluirse mejoras a medida que se vaya aprendiendo con la práctica.\nA.4"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Qué (What), quién (Who), dónde (Where), cuándo (When) y por qué (Why)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nUn ejemplo de una sencilla lista de comprobación sería el siguiente:\n¿He leído detenidamente toda la información del producto?\n¿La información es completa?\n¿Entiendo las características básicas del producto?\n¿Sé en lo que estoy invirtiendo?\n¿Conozco los riesgos?\n¿El producto encaja con mi perfil inversor?\n¿El horizonte temporal de la inversión es acorde con mi perfil inversor?\nFrente a la complejidad de la adopción de determinadas decisiones, la\nsistematización del proceso es una buena opción. La ventaja de ello radica\nen que es posible mitigar los errores que sistemáticamente acaecen en\neste proceso y que, por tanto, son predecibles. Al igual que el resto de las\ntécnicas cognitivas, la sistematización del proceso de toma de decisiones\nrequiere entrenamiento y tiempo para perfeccionarlo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nDiseño persuasivo\nB."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nReconocer las estrategias de diseño persuasivo\nEl primer paso para mitigar la influencia de las técnicas de captación digital\nes reconocerlas y ser consciente de cómo operan. Con ello, pierden gran\nparte de su poder. En la presente Guía se han mencionado las prácticas más\ncomunes y se ha descrito su modo de funcionamiento.\nCuanto más familiarizado esté el inversor con estos patrones, menor será su\ninfluencia y más racional será el proceso de inversión.\nB.1\nDesactivar notificaciones no esenciales\nLas notificaciones son una herramienta clave del diseño persuasivo.\nDistraen la atención, activan palancas emocionales y empujan a actuar\nrápido.\nPor tanto, es recomendable desactivar todas aquellas notificaciones que\nno sean estrictamente necesarias, reduciendo así la posibilidad de tomar\ndecisiones impulsivas.\nReducir la frecuencia de consulta de la aplicación,\nweb o plataforma\nEs aconsejable establecer una frecuencia razonable de consulta de la\naplicación, web o plataforma para realizar un seguimiento de la inversión\nen función de la naturaleza, complejidad, riesgo y volatilidad del producto\ncontratado. El acceso reiterado a la misma implica mayor exposición\nal diseño persuasivo de la aplicación y, por tanto, mayor posibilidad de\nexponerse a recomendaciones y nuevas tendencias y mayor probabilidad de\nactuar impulsivamente.\nEn conclusión, gestionar la frecuencia de consulta favorece la toma de\ndecisiones financieras más informadas y conscientes.\nB.2\nB.3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nUtilizar una breve lista de comprobación\nComo se ha mencionado antes, las listas de comprobación son una\nherramienta muy eficaz contra decisiones impulsivas y, para invertir en\ncontextos digitales, son especialmente apropiadas pues neutralizan los\nefectos del diseño persuasivo. Antes de ejecutar cualquier inversión en una\naplicación, web o plataforma es conveniente realizarse estas preguntas:\n¥ ¿Esto encaja en mi plan de inversión?\n¥ ¿Lo encontré yo o la aplicación me llevó?\n¥ ¿Estoy actuando por diseño o por convicción?\n¥ ¿Entiendo qué riesgo estaría asumiendo si invirtiera?\n¥ ¿Puedo explicarlo con claridad?\n¥ ¿Qué pasa si espero 24 horas?\nSi las respuestas no son convincentes, lo conveniente es no ejecutar la\ndecisión.\nB.4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nEvaluar periódicamente el comportamiento\nUno de los principios esenciales para ser un buen inversor es conocerse a sí\nmismo, en particular, el perfil de tolerancia al riesgo y los patrones personales\nde comportamiento y de toma de decisiones. En el ámbito digital esta\nmáxima tiene una especial relevancia para evitar la influencia de las técnicas\nde persuasión. Detectar patrones personales es clave para no repetir errores.\nPor esta razón, es conveniente revisar con cierta periodicidad (mensual o\ntrimestralmente):\ncuántas operaciones se han realizado conforme al plan de\ninversión inicialmente establecido\ncuántas operaciones se han realizado por sugerencia de la\naplicación, web o plataforma como consecuencia de una\nnotificación o producto destacado\nqué pantallas tienen mayor influencia en las decisiones\n(tendencias, gráficos, productos sugeridos)\nqué se puede hacer para minimizar esa exposición\nEvaluar periódicamente el propio comportamiento permite identificar sesgos\ny factores externos que influyen en la toma de decisiones, facilitando un\ncontrol más consciente sobre las inversiones.\nB.5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nIntroducir un periodo de enfriamiento (cool-down rule)\nLa eficacia de prácticamente la totalidad de los patrones persuasivos\ndepende de que fomenten la impulsividad y la rapidez en la toma de\ndecisiones. Por eso, la utilización de un periodo de enfriamiento es una\nde las técnicas más potentes contra el diseño persuasivo, ya que frena la\nimpulsividad, evita la toma de decisiones emocionales y fomenta la reflexión.\nUn ejemplo de este tipo de técnica podría ser la consideración de no invertir\nen nada que se haya descubierto en las últimas 24 horas. Con ello se “enfrían”\nlas emociones y la impulsividad y se recuerda el plan de inversión inicial.\nEl periodo de enfriamiento frena la impulsividad y fortalece decisiones más\nracionales frente al diseño persuasivo.\nDesconfiar de productos “destacados” o “populares”\nComo se ha señalado anteriormente, los productos “destacados” o\n“populares” en las aplicaciones, plataformas o webs, no necesariamente son\nlos mejores y más adecuados para el perfil de un determinado inversor.\nAntes de invertir en un producto destacado es necesario comprobar que\nes acorde al perfil inversor particular, buscar opciones alternativas, verificar\nque se entiende el producto, así como sus riesgos y costes asociados, y\npreguntarse si ese producto se hubiera buscado a iniciativa propia.\nB.6\nB.7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nEvitar operar por presión emocional\nEl diseño persuasivo en entornos digitales apela a emociones como FOMO,\nurgencia, euforia por las subidas o pánico por las bajadas, etc., que incitan a\ntomar decisiones poco racionales.\nEn este contexto, la protección más eficaz es tomar decisiones solo en\nmomentos de calma y no operar si se está bajo la influencia del cansancio o\nel estrés.\nAnalizar las comisiones y costes reales del producto\nLas aplicaciones, plataformas o webs de inversión suelen presentar las\ncomisiones de forma simple, visual y aparentemente transparente, pero eso\nno siempre refleja el coste real que soportará el inversor.\nA veces el diseño y el lenguaje se orientan a minimizar la sensación de gasto.\nAntes de invertir, es preciso informarse de todos los costes y comisiones\nasociadas al producto.\nB.8\nB.9"
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nNo confundir comodidad con seguridad\nEl diseño persuasivo de los entornos digitales está orientado a mejorar\nla experiencia de los clientes, haciéndola más fluida, rápida, intuitiva y\nagradable. Pero esto no significa que el producto sugerido sea el más\nadecuado para el inversor. A veces esta comodidad puede hacer que el\ninversor infravalore los riesgos, actúe con menos prudencia y se deje llevar\npor la inercia de un proceso de toma de decisiones preestablecido y cómodo\nsin entender realmente el producto.\nEn consecuencia, es preciso considerar que la comodidad forma parte del\ndiseño persuasivo, pero la adecuación del producto al perfil inversor y a su\nplan de inversión dependerá su criterio y su propio análisis racional.\nDecidir fuera de la plataforma\nEs aconsejable tomar las decisiones de inversión tras un tiempo de reflexión\ny habiendo consultado información externa, análisis independientes o el\npropio plan de inversión inicialmente trazado, y acceder a la aplicación o\nweb únicamente para ejecutar la decisión. Este es uno de los métodos más\neficaces para neutralizar la influencia del diseño persuasivo.\nB.10\nB.11"
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nPersonalización\nalgorítmica\nC."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nProporcionar únicamente los datos imprescindibles\nEs importante que el inversor facilite a la plataforma solo la información\nestrictamente necesaria para operar con la aplicación, web o plataforma\ny evitar completar campos opcionales, conectar redes sociales, permitir\nseguimiento de actividad o conceder permisos no relacionados con la\nseguridad. Cuanta menos información se proporcione, menos podrá\npersonalizar la plataforma la experiencia de usuario.\nDesactivar la personalización\nSi la aplicación, web o plataforma ofrece controles de privacidad o\npersonalización, es aconsejable desactivarlos (“recomendaciones basadas en\ntu actividad”, “contenido personalizado”, “feed sugerido”, etc.). Aunque no se\npueda eliminar al 100 %, reducir la personalización limita el grado de influencia\ndel algoritmo.\nInteractuar lo menos posible con contenido sugerido\nEs aconsejable evitar hacer clic en opciones como “tendencias”,\n“más populares”, “otros usuarios están comprando” o “ideas para ti”.\nCada vez que se interactúa con ellas, se facilita información al sistema para\nseleccionar lo que mostrará en un futuro, con lo cual se refuerza el algoritmo\ny se hace más eficaz a la hora de influir en las decisiones.\nC.1\nC.2\nC.3"
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nLimpiar historial y cookies\nResulta imprescindible borrar periódicamente el historial de navegación,\nbúsquedas y productos vistos y las cookies en el navegador. Esto reduce la\nbase sobre la que la plataforma personaliza la experiencia del usuario.\nControlar permisos y notificaciones\nEs aconsejable revisar qué permisos tiene la aplicación (ubicación,\nseguimiento, acceso a actividad, etc.) y eliminar todo lo que no sea esencial\npara la correcta prestación del servicio.\nC.4\nC.5"
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nVIII. Conclusiones\n¥ El uso de plataformas, webs y aplicaciones de inversión es cada vez más\nfrecuente y su diseño puede tener un gran impacto en las decisiones\nfinancieras. Este tipo de prácticas puede mejorar la experiencia de\nusuario y actuar en beneficio del inversor, pero también puede promover\nla asunción de riesgos de manera inconsistente con los objetivos de\ninversión que el inversor se haya fijado previamente.\n¥ En este contexto, tienen un papel clave las técnicas de captación digital,\nlas cuales, mediante el análisis de los sesgos cognitivos y afectivos de los\nsujetos, el diseño persuasivo y la personalización algorítmica anticipan su\ncomportamiento y permiten lograr una determinada configuración de la\ninterfaz adecuada a los objetivos que se pretendan.\n¥ Cuando estas técnicas de captación digital buscan confundir o perjudicar\nal usuario en beneficio de la propia plataforma, web o aplicación,\nestaremos en presencia de los denominados patrones oscuros o dark\npatterns. En este caso, la interfaz puede ser utilizada no solo para facilitar\nla experiencia de usuario, sino para inducir conductas no deseadas o no\nconsentidas conscientemente por este. Su objetivo no es ayudar al usuario\na tomar decisiones informadas, sino maximizar conversiones, aumentar el\ntiempo de uso, dificultar la salida o fomentar opciones que favorecen a la\nplataforma. En este sentido, la implementación de estas prácticas podría\nconstituir un incumplimiento de la normativa vigente al menoscabar los\nderechos e intereses del inversor que ésta protege.\n¥ Existen numerosas técnicas de captación digital que actúan en tres\námbitos principales de influencia: la forma en que se presenta la\ninformación necesaria para tomar una decisión, el contenido de las\ndistintas opciones disponibles, y los elementos que guían al usuario hacia\nuna decisión alineada con sus propias intenciones. Una comprensión\nbásica de cómo funcionan estas técnicas ofrece al inversor una protección\nadicional, pues le permite reconocer cuándo su comportamiento puede\nestar siendo guiado por estímulos externos más que por sus propios\nobjetivos financieros."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\n¥ Antes de invertir, conviene tomarse el tiempo necesario para comparar\nalternativas, revisar la información oficial más allá de lo que destaca la\naplicación y utilizar una breve lista de comprobación que le ayude a\nconfirmar que la decisión es coherente con sus objetivos. Asimismo,\nes recomendable evitar decidir bajo presión, cansancio o por influjo de\nnotificaciones constantes. En definitiva, controle el contexto en el que\ntoma decisiones y evite actuar bajo presión emocional."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nBibliografía\nAgencia Española de Protección de Datos (AEPD). (2024). Patrones adictivos en el\ntratamiento de datos personales: Implicaciones para la protección de datos.\nInforme, julio 2024.\nBaron, R. A., & Byrne, D. (2005). Psicología social (10.ª ed.). Madrid: Pearson Educación.\nISBN 978 84 205 4332 1.\nBrignull, H. (2023). Deceptive Patterns. Testimonium Ltd.\nCadenas Sáez, María Eugenia (2018). Del homo economicus al homo humanus. Breve\naproximación a la economía conductual. Boletín de la CNMV, trimestre I.\nCadenas Sáez, María Eugenia (2020). Economía conductual para la protección del\ninversor: Recomendaciones prácticas para inversores, entidades y reguladores.\nDocumento de Trabajo No. 70. Comisión Nacional del Mercado de Valores (CNMV).\nCampione, C. (2019). The Dark Nudge Era. Tesis de grado, Luiss Guido Carli.\nCialdini, R. B. (2006). Influence: The Psychology of Persuasion (revised edition).\nHarper Business. ISBN 978 0061241895\nCialdini, R. B. (2016). Pre-suasion: A Revolutionary Way to Influence and Persuade.\n(edición original 2016). Simon & Schuster. ISBN conforme la edición en inglés.\nCialdini, R. B. (2024). Influence, New and Expanded: The Psychology of Persuasion.\nHarperBusiness. ISBN 978 0063138797.\nComisión Nacional del Mercado de Valores (CNMV). (2019). Psicología económica para\ninversores.\nCompetition and Markets Authority. (2022). Evidence review of Online Choice\nArchitecture and consumer and competition harm. Documento de investigación, 5 abril\n2022."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nCompetition and Markets Authority (CMA). (2022). Online Choice Architecture:\nHow digital design can harm competition and consumers. Discussion Paper, CMA155.\nDerry, S. y Murphy, D. (1986) Designing systems that train learning ability:\nFrom theory to practice. Review of Educational Research.\nDobelli, R. (2011). Die Kunst des klaren Denkens: 52 Denkfehler, die Sie besser anderen\nüberlassen. München: Carl Hanser Verlag.\nEuropean Commission; Lupiáñez-Villanueva, F., Boluda, A., Bogliacino, F., Liva,\nG., Lechardoy, L. & Rodríguez de las Heras Ballell, T. (2022). Behavioural study on\nunfair commercial practices in the digital environment: Dark patterns and manipulative\npersonalisation. Final report. Publications Office of the European Union.\nFinancial Conduct Authority (FCA). (Junio, 2024). Research Note: Digital engagement\npractices: a trading apps experiment.\nFogg, B. J. (2003). Persuasive Technology: Using Computers to Change What We Think\nand Do. San Francisco: Morgan Kaufmann.\nHari, Johann. Stolen Focus: Why You Can't Pay Attention — and How to Think Deeply Again.\nCrown / Bloomsbury Publishing, Hari, Johann, (2022). ISBN 978 0593138519\nIOSCO. (2025). Digital Engagement Practices (DEPs), Report of the Board of IOSCO.\nPublicación FR/07/2025.\nKahneman, D. (2011). Thinking, Fast and Slow. New York: Farrar, Straus and Giroux.\nLuxor, Javier. (2017). El pequeño libro de la influencia y la persuasión. Barcelona: Alienta\nEditorial. ISBN 978-84-16928-33-0\nMato Pacín, María Natalia. (2024). Aspectos jurídicos del diseño de las interfaces digitales.\nEn especial, los patrones oscuros. Madrid: Agencia Estatal Boletín Oficial del Estado. ISBN\n978 84 340 2995 8."
+    },
+    {
+      "type": "paragraph",
+      "text": "Persuasión digital para inversores\nMayordomo, S.; Zlobina, A.; Igartua, J. J.; & Páez, D. (2004). Persuasión y cambio de\nactitudes. En Psicología social, cultura y educación (coord. I. Fernández-Sedano,\nS. Ubillos-Landa, E. Zubieta & D. Páez), pp. 364–367. Madrid: Pearson Educación.\nMünscher, R., Vetter, M. & Scheuerle, T. (2016). A Review and Taxonomy of Choice\nArchitecture Techniques.Journal of Behavioral Decision Making, 29(5), 511–524. DOI:\n10.1002/bdm.1897.\nOntario Securities Commission (2024). Digital Engagement Practices: Dark Patterns in\nRetail Investing.\nOntario Securities Commission. (2022). OSC Staff Notice 11 796 – Digital Engagement\nPractices in Retail Investing: Gamification and Other Behavioural Techniques.\nPetty, R. E., & Cacioppo, J. T. (1986). Communication and Persuasion: Central and\nPeripheral Routes to Attitude Change. New York, NY: Springer-Verlag.\nU.S. Securities and Exchange Commission. Request for Information and Comment on\nBroker Dealer and Investment Adviser Digital Engagement Practices, Related Tools and\nMethods, and Regulatory Considerations and Potential Approaches; Information and\nComments on Investment Adviser Use of Technology to Develop and Provide Investment\nAdvice, Release No. 2021 167, 27 agosto 2021.\nTarde, Gabriel. La psychologie économique. Paris: Félix Alcan, Éditeur, Gabriel (1902).\nThaler, R. H., & Sunstein, C. R. (2008). Nudge: Improving Decisions About Health, Wealth,\nand Happiness. New Haven: Yale University Press."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta guía tiene como finalidad informar al público en general sobre distintos\naspectos relacionados con los mercados de valores. Por su naturaleza\ndivulgativa no puede constituir un soporte para posteriores interpretaciones\njurídicas, siendo la normativa en vigor la única fuente a estos efectos.\neducacionfinanciera@cnmv.es\nContáctanos por email\n¿Necesitas más\ninformación?"
+    }
+  ],
+  "text": "Persuasión digital para inversores\nPersuasión\ndigital para\ninversores\nGuía\n\nPersuasión digital para inversores\nÍndice\nIntroducción\nPersuasión tradicional vs. \npersuasión digital\n¿Qué son las técnicas de \ncaptación digital?\nMás allá de la persuasión digital: \nlos patrones oscuros\n¿Cómo funcionan las prácticas \nde captación digital?\nPrácticas de captación digital \nmás habituales en el ámbito de \nla inversión\nEstrategias para mitigar la \ninfluencia de las técnicas de \ncaptación digital\nConclusiones\n\nPersuasión digital para inversores\nI. Introducción\nLas nuevas formas de consumo a través de medios digitales han traído \ngrandes ventajas para los consumidores y las empresas. Se han reducido \nfricciones y costes, se ha aumentado la transparencia y la comparabilidad \ny se ha facilitado el acceso a un mercado global. Sin embargo, el rápido \ncrecimiento en este ámbito también presenta riesgos para el bienestar de \nlos consumidores. Aunque hay muchas similitudes con el entorno offline, los \nconsumidores pueden comportarse de forma diferente en un entorno online: \npueden actuar más rápido, tener períodos de atención más cortos, enfocar su \natención de manera muy limitada e ignorar grandes cantidades de contenido, \nasí como confiar más en recomendaciones de desconocidos. La naturaleza de \nlos entornos online puede inducir comportamientos más impulsivos, fomentar \ndecisiones poco reflexivas y conducir a una exposición publicitaria más \nintensa y prolongada que en contextos offline.\nEn este sentido, en el entorno digital se utilizan numerosas técnicas \nde persuasión diseñadas para captar la atención de los consumidores, \npersuadirlos y guiarlos a tomar determinadas decisiones comerciales. \nEn ocasiones, dichas técnicas pueden ser una herramienta poderosa que \ngenera resultados positivos para el consumidor, pero en otros casos pueden \nproducir perjuicios al llevar al consumidor a tomar decisiones que van en \ncontra de sus propios intereses. Estas técnicas se conocen como Prácticas \nde Captación Digital (Digital Engagement Practices).\nPersuasión \ndigital para \ninversores\n\nPersuasión digital para inversores\nEn el ámbito de la inversión, también se observan este tipo de prácticas. \nLos avances tecnológicos están cambiando la forma en que los inversores \nminoristas interactúan con los servicios y productos financieros, facilitando \nsu participación en los mercados de capital. La aparición de brokers online, \naplicaciones móviles o plataformas de trading, entre otros, ha hecho que la \ninversión en los mercados de valores sea más accesible que nunca para los \ninversores minoristas con una interacción física mínima. De manera similar, \nse observa un uso creciente de estas soluciones tecnológicas, así como de \nlas redes sociales en general, para promover la adquisición de productos \nfinancieros diversos.\nTodo ello ha conllevado no solo que los inversores tengan acceso a una \nvariedad de productos mucho más amplia, desde activos de poco riesgo \nhasta los de mayor riesgo, sino también que esta clase de activos esté \ndisponible para públicos de todo tipo a los que hasta hace poco tiempo \nles resultaba más difícil el acceso como, por ejemplo, los jóvenes. \nDado que el uso de estas plataformas es cada vez más frecuente, es preciso \ntener conocimiento de sus características de diseño y, en particular de las \nprácticas de captación digital a las que se ha hecho referencia anteriormente, \ny el impacto que podrían tener en las decisiones de inversión. Este tipo de \nprácticas puede mejorar la experiencia de usuario y actuar en beneficio \ndel inversor, pero también podría aumentar la interacción de los usuarios \nen las plataformas, incentivar una mayor frecuencia de operaciones y, \neventualmente, promover la asunción de riesgos de manera inconsistente \ncon los objetivos de inversión que el inversor se haya fijado previamente. \nEn la presente Guía se analizarán las diferencias entre las herramientas \nde captación o persuasión1 tradicionales y las digitales, se recogerán las \nprincipales técnicas de captación digital utilizadas actualmente en el ámbito \nde la inversión por plataformas, aplicaciones y webs destinadas a este fin, \ny, finalmente, se facilitarán algunas estrategias para mitigar sus efectos en \nla toma de decisiones de inversión. \n1. \nEn la presente Guía, se utilizarán indistintamente los términos “técnicas de persuasión” \ny “técnicas de captación” para referirse al conjunto de prácticas en entornos digitales \nque pueden condicionar el comportamiento del inversor.\n\nPersuasión digital para inversores\nLa presente Guía tiene la finalidad de dotar al inversor de un conocimiento \npráctico sobre las técnicas de captación digital, de manera que pueda \nidentificarlas y protegerse frente a ellas de forma efectiva. Esta función \ninformativa y preventiva contribuye a la autoprotección del inversor y actúa \ncomo complemento de la protección legal prevista en la normativa vigente, \nla cual constituye un elemento esencial para la salvaguarda de los derechos \ne intereses del inversor y establece el marco de actuación que las entidades \ndeben respetar en el ámbito sus actividades y servicios.\n\nPersuasión digital para inversores\nII. Persuasión tradicional \nvs. persuasión digital\nLa persuasión es la capacidad de influir en las decisiones y el \ncomportamiento de las personas. Con la persuasión se pretende modificar \nlas actitudes, creencias, intenciones, motivaciones o comportamientos \nde una persona o grupo, apelando a una combinación de razón, emoción \ny credibilidad. A diferencia de la manipulación, que a menudo busca un \nbeneficio exclusivo del persuasor e involucra engaño o coerción, la persuasión \nbusca un cambio de conducta en el receptor para llevarle de su situación \ninicial a otra situación en la que se muestra interesado y toma acción.\nEn la persuasión tradicional, entendida como aquella que \nse ejerce a través de canales presenciales o analógicos \ncomo, por ejemplo, llamadas telefónicas, presentaciones \nfísicas, eventos, reuniones, prensa, etc., la esencia es la \ninteracción humana y el tipo de contenido facilitado suele \nser más analítico. Esto permite que el consumidor o el \ninversor active procesos de evaluación más racionales: \ncompare datos, haga preguntas o solicite más información \nentre otros.\nPor el contrario, en la persuasión digital, entendida como \naquella que opera mediante plataformas online que \ncombinan datos, automatización y diseño de interfaces \ny contenidos para influir en el usuario, entran en juego \ntécnicas como la segmentación algorítmica, los mensajes \npersonalizados, el uso de pruebas sociales digitales \n(reseñas, testimonios, seguidores) y dinámicas de urgencia \ncreadas a través de anuncios, correos o mensajes en \nredes sociales, que permiten un alcance masivo y un \nimpacto inmediato, pero también reducen la capacidad del \nusuario o inversor para evaluar la autenticidad del emisor, \nla veracidad de la información y la conveniencia de la \noportunidad y, por tanto, para tomar decisiones reflexivas \ny racionales.\n\nPersuasión digital para inversores\nAspecto\nPersuasión tradicional\nPersuasión digital\nCanal\nComunicación directa (llamadas, \nreuniones) o por medios \nunidireccionales (televisión, \nradio, prensa, discursos). Alcance \nlimitado por tiempo y espacio.\nComunicación interactiva y \nmulticanal (redes sociales, apps, \ncorreo, publicidad segmentada). \nAlcance global y constante, con \nmúltiples puntos de contacto.\nRuta cognitiva \n(Petty & Cacioppo)2 \nPredomina la ruta central: \nel receptor analiza \ncuidadosamente la información \ny evalúa argumentos. Se basa en \nanálisis crítico y deliberado de la \ninformación.\nPredomina la ruta periférica: \nel receptor responde a \nseñales externas (imágenes, \nnotificaciones, diseño). Se toman \ndecisiones rápidas, a menudo \nsin un análisis profundo del \ncontenido.\nPrincipios \naplicables \n(Cialdini)³\nAplicados directamente por \npersonas: simpatía, autoridad, \nreciprocidad, compromiso, \nescasez, aprobación social.\nIntegrados en el diseño digital: \nlikes (aprobación social), \nverificación (autoridad), \npromociones (reciprocidad), \nnotificaciones de urgencia \n(escasez).\nControl del \nmensaje\nEl emisor controla el contenido: \nel mensaje es único para todos. \nLos algoritmos personalizan el \nmensaje según comportamiento, \nperfil y preferencias de cada \nusuario.\nAtención\nLimitada en número de \nreceptores, pero concentrada en \nla interacción (lectura, discurso, \nspot publicitario). \nFragmentada y continua: scroll \ninfinito, notificaciones, multitarea. \nEl usuario recibe estímulos \nconstantemente.\nA continuación, se muestra un cuadro con las principales diferencias entre \nambas formas de persuasión:\n2. \nSegún el Modelo de la Probabilidad de Elaboración –ELM– de Petty y Cacioppo (1986). \n3. \nRobert Cialdini, psicólogo estadounidense considerado uno de los principales expertos \nmundiales en influencia y comportamiento persuasivo, formuló seis principios \nfundamentales que explican cómo las personas pueden ser guiadas en sus decisiones. \nEstos principios son: reciprocidad, que impulsa al sujeto a devolver favores o atenciones \nrecibidas; compromiso y coherencia, que impulsa a actuar de forma consistente con \ncompromisos previamente adquiridos; aprobación social, que lleva al sujeto a seguir lo \nque hace la mayoría o personas similares a este; simpatía, que incrementa la influencia \nde quienes resultan cercanos o agradables; autoridad, que hace que se confíe en figuras \nexpertas o reconocidas; y escasez, que genera urgencia cuando algo se percibe como \nlimitado o exclusivo.\n\nPersuasión digital para inversores\nAspecto\nPersuasión tradicional\nPersuasión digital\nRefuerzo y \nrecompensa\nRecompensas sociales \no simbólicas: aplausos, \nreconocimiento, aprobación \ndel grupo o del interlocutor.\nRecompensas inmediatas y \nvariables (notificaciones, puntos, \nseguidores).\nEmoción\nApelación moderada y explícita, \ngeneralmente ligada a narrativa o \ndiscurso.\nEmoción amplificada mediante \nalgoritmos: contenido viral, alertas \npersonalizadas, interacción \nconstante para generar \nengagement.\nImplicación de \nsesgos cognitivos\nAprovechados de forma general \ny colectiva: autoridad, escasez, \nprueba social, etc.\nIndividualizados, amplificados \ny automatizados, aumentando \nla vulnerabilidad del usuario a \ndecisiones impulsivas.\nRetroalimentación\nLenta o diferida: encuestas, \nventas, respuestas físicas u \nopiniones formales.\nInstantánea: métricas de \ninteracción, clics, tiempo \nen pantalla, conversiones y \ncomentarios en tiempo real.\nArquitectura de \nelección (nudge)\nLimitada al contexto físico \n(presentación de opciones).\nInterfaces digitales diseñadas \npara guiar decisiones: botones \npreseleccionados, ofertas \npersonalizadas, formularios \nsimplificados.\nMedición del \nimpacto\nBasada en resultados visibles \n(ventas, encuestas, opinión \npública).\nBasada en analítica de \ncomportamiento en tiempo \nreal: clics, tasa de conversión, \nretención, mapas de calor, \nmicrointeracciones.\nRol del receptor\nPúblico o consumidor \nrelativamente pasivo. \nLa persuasión se ejerce a \ntravés del contacto directo \ny el contenido.\nUsuario activo, pero \nconstantemente influido por \nel diseño, los algoritmos y la \npersonalización de la información; \ntoma decisiones rápidas sobre la \nbase de estímulos digitales.\n\nPersuasión digital para inversores\nEn resumen, en la persuasión tradicional, la influencia se construye mediante \nel contacto directo, exposiciones personales o medios convencionales, \nen contextos en los que el receptor suele disponer de más tiempo para \nevaluar argumentos, interpretar señales de autoridad o simpatía y tomar \ndecisiones basadas en información relativamente estable. La atención tiende \na ser más sostenida, las emociones están más contenidas y los sesgos \ncognitivos operan de forma amplia y no personalizada. \nEn cambio, la persuasión digital funciona en entornos online altamente \ndinámicos, en los que los algoritmos adaptan los mensajes a cada persona, \nintensifican emociones y ofrecen recompensas inmediatas, y promueven \ndecisiones rápidas a través de notificaciones, contenido viral y diseños de \ninterfaz muy estimulantes. La retroalimentación es casi instantánea, los \nsesgos se amplifican y se ajustan al perfil de cada usuario, y la influencia se \nvuelve más rápida, masiva y difícil de detectar o contrastar.\nvs\n\nPersuasión digital para inversores\nIII. ¿Qué son las técnicas \nde captación digital? \nLas técnicas de captación digital, un término acuñado por la U.S. Securities \nand Exchange Commission (SEC), son las herramientas que incluyen técnicas \nconductuales, marketing diferenciado, gamificación, elementos de diseño o \ncaracterísticas de diseño que captan la atención de manera intencional o no \nintencional de los inversores minoristas en plataformas digitales. Aunque más \nadelante se analizarán detenidamente, son ejemplos de estas prácticas de \ncaptación digital, entre otros, las notificaciones emergentes o notificaciones \npush frecuentes con noticias del mercado, los diseños de interfaz que llaman \nla atención sobre determinada información o las herramientas de redes \nsociales que permiten a los usuarios interactuar.\nLas técnicas de captación digital tienen su base en las ciencias del \ncomportamiento y su objetivo es influir en la manera de proceder del \nconsumidor o inversor. En el ámbito de la inversión, la utilización de este tipo \nde técnicas por parte de aplicaciones móviles, brokers online, plataformas \nde trading, etc., puede tener como objetivos, entre otros, captar y retener \nal inversor, incentivar la toma de determinadas decisiones o fomentar la \nrealización de un mayor número de operaciones.\nPor tanto, estas técnicas de captación digital forman parte de la interfaz que \nesté manejando el usuario y modelan el contacto de este con el propietario \nde la aplicación o plataforma. En consecuencia, estas técnicas son elementos \nclave para la comunicación entre ambos y tienen especial trascendencia en lo \nque a la interacción o los procesos de contratación con los usuarios se refiere.\n\nPersuasión digital para inversores\nIV. Más allá de la \npersuasión digital: \nlos patrones oscuros\nEl diseño de las interfaces digitales no es solo estético; afecta directamente \na cómo se recibe la información y cómo se actúa. Una buena interfaz facilita \nla experiencia del usuario y ayuda a tomar decisiones con mayor claridad.\nSin embargo, no todas las técnicas de captación digital son neutrales e \ninocuas. En ocasiones, estas prácticas pueden estar encaminadas a influir \nde manera más o menos sutil en el comportamiento del usuario, de tal \nmanera que sus decisiones no sean del todo racionales o coherentes con sus \npreferencias y favorezcan en último término el interés de la plataforma, web \no aplicación.\nAdemás, hay que tener en cuenta que el contexto digital en el que se \nobservan estas prácticas es el ámbito donde más expuesto está el usuario y \nmás acusada es su vulnerabilidad. A la tradicional asimetría informativa, en la \nque el propietario de la web o de la aplicación conoce mejor que el usuario el \nproducto o servicio que comercializa, se suma el acceso que tiene a una gran \ncantidad de datos generados por la propia actividad online del usuario. \nTodos estos factores abren la puerta a que algunos proveedores empleen \ndiseños que intencionadamente buscan confundir o perjudicar al usuario \nen beneficio de la propia plataforma, web o aplicación. Este tipo de diseños \nengañosos son los denominados patrones oscuros o dark patterns⁴.\n4. \nEl concepto de dark pattern fue acuñado por Harry Brignull en 2010. Lo hizo en su \npágina web https://www.deceptive.design/ (inicialmente darkpatterns.org). En este \nsitio web se recoge desde entonces una categorización de deceptive designs, así \ncomo nuevas técnicas o prácticas que resultan engañosas y que se van incorporando \ncomo consecuencia de «denuncias informales» de usuarios. Este término ha sido ya \nreconocido por el legislador europeo en la actualidad hasta el punto de que todas las \nnormas comunitarias que se han publicado en los últimos años en las que el diseño de las \ninterfaces de usuario puede tener alguna relevancia incluyen una referencia más o menos \ndirecta al fenómeno. En la actualidad hay una preocupación evidente por parte de la Unión \nEuropea por abordar y reducir el impacto en el mercado digital de este tipo de técnicas.\n\nPersuasión digital para inversores\nLos patrones oscuros son técnicas basadas en el conocimiento sobre \nel comportamiento humano para implementar características o pasos \nengañosos que no se alinean con lo que es mejor para el usuario. \nPor tanto, en el ámbito de los patrones oscuros, la interfaz puede ser utilizada \nno solo para facilitar la experiencia de usuario, sino para inducir conductas \nno deseadas o no consentidas conscientemente por este. Su objetivo \nno es ayudar al usuario a tomar decisiones informadas, sino incentivar \ndeterminados comportamientos, aumentar el tiempo de uso, dificultar la \nsalida o fomentar opciones que favorecen a la plataforma.\nEstos patrones pueden adoptar formas muy variadas: destacar visualmente \nla opción más rentable para la empresa, esconder o complicar el acceso \na información relevante, obligar a seguir múltiples pasos para cancelar un \nservicio, plantear preguntas de forma sesgada para obtener determinadas \nrespuestas, etc. \nLos patrones oscuros pueden socavar la autonomía del usuario, dificultar la \ntoma de decisiones racionales y aumentar la probabilidad de actuaciones \nimpulsivas o perjudiciales.\nPor tanto, las prácticas de captación digital pueden plantear riesgos para \nlos inversores cuando, como en el caso de los patrones oscuros, rozan la \nmanipulación. Las herramientas de persuasión, entre las que se encuentran \nlas prácticas de captación digital, no son legítimas o ilegítimas en sí. Su \nlegitimidad dependerá de la finalidad con la que se utilicen. Un intento de \npersuasión es legítimo y justificable si ayuda al inversor a tomar decisiones \nmás informadas, siempre que dicha persuasión no altere sus preferencias ni le \nlleve a tomar decisiones que de otro modo no habría tomado. Por el contrario, \nese intento de persuasión constituirá una mala práctica y, en consecuencia, \nun patrón oscuro, si pretende dirigir, engañar, coaccionar o manipular al \ninversor para que tome decisiones contrarias a su mejor interés, todo ello \nsin perjuicio de que dicha práctica pueda constituir un incumplimiento de la \nnormativa aplicable.\n\nPersuasión digital para inversores\nV. ¿Cómo funcionan las \nprácticas de captación \ndigital?\nLas prácticas de captación digital, tanto las utilizadas con fines legítimos \ncomo los patrones oscuros a los que se ha hecho referencia anteriormente, \nconforman entornos de decisión intencionalmente diseñados para guiar las \nelecciones de los usuarios. Este tipo de prácticas configuran los contextos \nen los que las personas eligen, influyendo en la probabilidad de que tomen \ndeterminadas decisiones. Este modo en el que se presentan las distintas \nopciones es lo que se denomina “arquitectura de la elección”, siendo \nlas prácticas de captación digital manifestaciones específicas de esta \narquitectura de la elección en el entorno digital. \nLas plataformas, webs o aplicaciones, mediante el diseño de sus interfaces, \nalgoritmos de recomendación y sistemas de notificaciones, construyen \nentornos de elección en los que cada elemento de diseño contribuye a \nmoldear el comportamiento de los usuarios.\nEn los entornos digitales, esta arquitectura de la elección se materializa en \nelementos como:\n¥ la disposición visual de botones y menús,\n¥ la preconfiguración de opciones de privacidad,\n¥ la jerarquización de la información,\n¥ la utilización de mensajes persuasivos que acompañan las \ndecisiones (confirmaciones, advertencias, recompensas).\n\nPersuasión digital para inversores\nCada una de estas elecciones de diseño constituye una forma de “acicate \nconductual” (nudge), que orienta las acciones de un usuario en un \ndeterminado sentido que le beneficia. El problema surge cuando estos \n“acicates” dejan de ser beneficiosos para el usuario para transformarse en \nmecanismos de manipulación encubierta, es decir, en “acicates oscuros” \n(dark nudges).\nEn el contexto de la arquitectura de la elección, la efectividad de las prácticas \nde captación digital se basa en:\n1. Mecanismos psicológicos\nLas prácticas de captación digital aprovechan la manera en que las \npersonas piensan y sienten para influir en sus decisiones en entornos \ndigitales.\nEste tipo de prácticas explotan ciertos sesgos cognitivos y atajos \nmentales (heurísticos) que facilitan la toma de decisiones rápida, \nautomática y sin control consciente. Activan así el llamado pensamiento \nautomático (Sistema 15), favoreciendo respuestas impulsivas, la elección \nde opciones predeterminadas y una mayor susceptibilidad a estímulos \nbreves o emocionales.\n2. Diseño persuasivo de las webs, aplicaciones y plataformas\nLa denominada “tecnología persuasiva” (en inglés, captology), \ndesarrollada por B.J. Fogg6 , es aquella diseñada para cambiar actitudes \no comportamientos a través de la mediación tecnológica, sin recurrir \na coerción o engaño explícito. Su modelo conductual (Fogg Behaviour \nModel) sostiene que el comportamiento se produce cuando convergen \ntres elementos:\n5. \nDaniel Kahneman, psicólogo y Premio Nobel de Economía en 2002, estudió cómo las \npersonas toman decisiones bajo incertidumbre. Propuso que el pensamiento humano \nopera mediante dos sistemas complementarios: el Sistema 1, rápido, automático, intuitivo \ny emocional, que utiliza atajos mentales; y el Sistema 2, lento, deliberado y analítico, que \npermite evaluar información de manera crítica y razonada. Ambos sistemas interactúan \nconstantemente, pero muchas decisiones cotidianas están fuertemente influenciadas \npor el Sistema 1, lo que puede hacer al usuario más vulnerable a errores y decisiones poco \nracionales.\n\nPersuasión digital para inversores\n¥ Motivación, deseo o interés del usuario,\n¥ Habilidad o facilidad con la que puede ejecutar la acción, y\n¥ Disparador o estímulo (trigger) que activa la conducta.\nLas plataformas digitales son capaces de influir simultáneamente en estas \ntres variables: pueden aumentar la motivación mediante recompensas o \nvalidación social; pueden reducir el esfuerzo con interfaces simplificadas \no automatizaciones; y pueden generar disparadores constantes, como \nnotificaciones, banners o recordatorios.\n3. Personalización algorítmica mediante el uso de datos\nConsiste en el uso de sistemas automatizados (inteligencia artificial, \nmachine learning, minería de datos) para adaptar los contenidos, \ninterfaces y recomendaciones que recibe cada usuario, en función de su \ncomportamiento, historial y perfil digital.\nDe esta manera, este tipo de sistemas aprenden de las interacciones del \nusuario (clics, búsquedas, tiempo de permanencia, ubicación, etc.) para \nconfigurar un entorno digital personalizado en el que las opciones que \nse presentan no son casuales, sino el resultado de un cálculo orientado a \nobjetivos específicos (atención, retención, conversión). Con este tipo de \nprácticas, la arquitectura de la elección pasa de ser un entorno estático \ny universal, a ser dinámico y personalizado.\nEn conjunto, estos mecanismos configuran una arquitectura digital \nde las elecciones basada en la psicología del comportamiento y la \npsicología social. Las plataformas, webs y aplicaciones estructuran \nentornos persuasivos que modelan la conducta del usuario, aumentando \nsu interacción con ella y llevando a la toma de determinadas decisiones.\n6. \nB.J. Fogg es un psicólogo estadounidense y experto en comportamiento humano, diseño \nde interacción y persuasión digital, conocido por sus investigaciones sobre cómo \nla tecnología puede influir en la conducta de las personas. Es fundador del Behavior \nDesign Lab en la Universidad de Stanford y autor del libro “Persuasive Technology: Using \nComputers to Change What We Think and Do” (2003), donde introduce el concepto de \ncaptología (captology), que estudia cómo los sistemas tecnológicos pueden diseñarse \npara cambiar hábitos y comportamientos humanos.\n\nPersuasión digital para inversores\nVI. Prácticas de \ncaptación digital más \nhabituales en el ámbito \nde la inversión\nAl categorizar las distintas prácticas de captación digital, conviene identificar \ntres ámbitos principales de influencia:\nEstructura de la elección: la forma en que se presenta la información \nnecesaria para tomar una decisión.\nInformación de la elección: el contenido y el encuadre de las distintas \nopciones disponibles.\nPresión para la elección: los elementos que guían al usuario hacia una \ndecisión alineada con sus propias intenciones.\nA\nB\nC\n\nPersuasión digital para inversores\nEstructura de la elección\n1. Opciones predeterminadas\n2. Clasificaciones\n3. Precios divididos\n4. Sobrecarga de elección *\n5. Manipulación sensorial*\n6. Fricción injustificada (sludge)*\nInformación de la elección\n1. Precio por goteo (drip pricing)*\n2. Enmarcado (framing)\n3. Lenguaje complejo*\n4. Sobrecarga de información*\nPresión para la elección\n1. Afirmaciones de escasez y popularidad\n2. Avisos y recordatorios\n3. Mensajeros\n4. Compromiso\n5. Retroalimentación\n6. Personalización\nA continuación, se presenta una clasificación de las prácticas de captación \ndigital según el ámbito en el que inciden. La mayoría de estas técnicas \npueden utilizarse de manera beneficiosa para el usuario y, de hecho, con \nfrecuencia se aplican así. Sin embargo, la literatura académica indica que \nalgunas prácticas son casi siempre perjudiciales y entrarían dentro del \nconcepto de patrón oscuro, mientras que otras solo resultan dañinas en \ndeterminadas circunstancias.\nEn la siguiente tabla se muestran las prácticas de captación digital más \nhabituales en el ámbito de la inversión. Las técnicas señaladas con un \nasterisco se consideran patrones oscuros por la literatura académica \nexistente en esta materia.\n\nPersuasión digital para inversores\nPrácticas de captación \nrelacionadas con \nla estructura de la \nelección\nA.\n\nPersuasión digital para inversores\nEn el ámbito digital, las plataformas y aplicaciones pueden influir en nuestras \ndecisiones mediante la forma en que se estructuran las opciones disponibles. \nEsto incluye decidir qué alternativas se muestran o destacan, cuánto esfuerzo \nrequiere evaluar cada opción, cómo se ordenan o clasifican los productos o \nservicios, y qué ocurre después de que el usuario realiza su elección.\nEstas técnicas pueden emplearse de manera beneficiosa, por ejemplo, \nfacilitando la comparación de opciones o destacando información relevante \nque ayuda al usuario a tomar decisiones más informadas. Sin embargo, \ntambién pueden ser utilizadas de forma que perjudiquen a los consumidores, \nconfigurando la elección de manera que favorezca determinados resultados. \nEntre las prácticas más comunes y problemáticas se encuentran las opciones \npredeterminadas que no benefician al usuario, las modificaciones del orden o \nla apariencia de los resultados para priorizar ciertos productos, la sobrecarga \nde opciones que confunde al usuario, o el uso de estímulos sensoriales que \ncomplican la toma de decisiones.\n\nPersuasión digital para inversores\nEs importante que los usuarios sean conscientes de estas \nopciones, revisen las preselecciones y evalúen si reflejan \nrealmente sus preferencias y objetivos.\nOpciones predeterminadas\nEs una práctica que consiste en que la opción preseleccionada, la que se \nelige automáticamente si el usuario no cambia nada, condiciona la decisión \nde este. Esta técnica dirige la elección del usuario aprovechando la inercia \na no cambiar lo que ya está establecido. Basta con no intervenir para que \nprevalezca la opción por defecto.\nEn el ámbito de la inversión, las opciones predeterminadas ayudan a los \ninversores a actuar sin fricciones, pero también pueden dirigir decisiones sin \nque el cliente sea totalmente consciente, perpetuar decisiones subóptimas y \ngenerar costes o riesgos no intencionales. Este tipo de prácticas aparecen en \nmúltiples fases, desde la contratación del producto hasta el seguimiento de \nsu evolución.\nA modo de ejemplo de este tipo de prácticas se pueden citar las \naportaciones periódicas automáticas a determinados productos como \nfondos de inversión o planes de pensiones y carteras gestionadas o el \nestablecimiento de la “orden a mercado” como opción preseleccionada \na la hora de invertir a través de un bróker online.\nEn definitiva, las opciones predeterminadas tienen un doble efecto. \nPor un lado, simplifican decisiones complejas y permiten a los inversores \nactuar de manera más rápida y eficiente; por otro, pueden influir de manera \nsignificativa en el comportamiento del inversor, afectando al riesgo asumido, \nla rentabilidad esperada y los costes del producto.\nA.1\n\nPersuasión digital para inversores\nClasificaciones\nEs la técnica que consiste en mostrar el orden de las distintas opciones de \nuna manera particular. Las opciones se pueden organizar, agrupar o etiquetar \nde manera que influya en cómo el inversor percibe el riesgo, el rendimiento \no la conveniencia de un producto. Las opciones se pueden agrupar, clasificar \no etiquetar según criterios específicos, lo que puede facilitar la comparación \ny la toma de decisiones, pero también puede condicionar la percepción del \ninversor si no se hace de forma transparente.\nA modo de ejemplo, los productos de inversión se pueden clasificar en \nfunción de varios criterios, tales como niveles de riesgo (bajo, medio, alto), \ncategorías (renta fija, renta variable), puntuaciones de calidad (ratings de \nriesgo, scores ESG, etc.), o popularidad, entre otros. Esta organización puede \nayudar al inversor a identificar los productos que mejor se ajustan a sus \nobjetivos y perfil de riesgo.\nNo obstante, la clasificación de opciones no resulta adecuada si se utiliza \npara favorecer intereses del proveedor del producto, promover productos \npropios o influir en la elección del usuario de manera sutil pero deliberada.\nEsta práctica es aceptable únicamente cuando las clasificaciones \nson objetivas, claras y transparentes y permiten al inversor tomar \ndecisiones acordes con su perfil inversor.\nA.2\n\nPersuasión digital para inversores\nPrecios divididos\nConsiste en mostrar solo una parte del precio total de un servicio financiero \no de inversión, resaltando un coste pequeño o fraccionado para reducir \nla percepción de barrera de entrada. Se presentan así los componentes \nindividuales del precio sin compartir el coste total o estimado con el inversor.\nEste tipo de prácticas se puede apreciar en reclamos publicitarios relativos \na comisiones bajas, “0 €” para ciertos conceptos, ausencia de aplicación de \ndeterminadas comisiones, oferta de operaciones gratuitas, etc. El objetivo es \ndesviar la atención del inversor hacia la parte más atractiva del producto, sin \ninformar de los demás costes que podrían estar asociados.\nMuchas comisiones están claramente definidas y disponibles en la \ndocumentación oficial, pero el mensaje publicitario enfatiza la parte más \natractiva del precio para incentivar la decisión del inversor. \nEs preciso recordar que, según la normativa aplicable, las \nentidades deben facilitar al cliente información completa, clara \ny previa sobre todos los costes y gastos, permitiendo comprender \nsu impacto en la rentabilidad de la inversión. Por tanto, antes de \ntomar decisiones, es recomendable que los inversores revisen \ncuidadosamente todas las comisiones y costes asociados al \nproducto financiero.\nA.3\n\nPersuasión digital para inversores\nSobrecarga de elección* \nLa sobrecarga de elección consiste en facilitar al usuario demasiadas \nopciones para comparar, generando confusión o parálisis y aumentando la \nprobabilidad de que el usuario siga la opción sugerida, recomendada o por \ndefecto.\nA modo de ejemplo, esta práctica se puede apreciar cuando se le ofrece \nal usuario un número abrumador de fondos de inversión y se le ofrece la \nposibilidad de elegir “el fondo recomendado por los expertos” o el “top 10 \ndel mes”, o cuando se le oferta un elevado número de carteras diferentes y \nacaba eligiendo “la cartera más popular”.\nEn consecuencia, el impacto conductual no deriva tanto del exceso de \nopciones en sí mismo, como de la forma en que éstas se estructuran, se \ndestacan o se simplifican dentro del proceso de decisión.\nEsta práctica puede beneficiar al inversor, especialmente si es poco \nexperimentado o dispone de poco tiempo, al evitar decisiones impulsivas \no la selección aleatoria de productos. La existencia de una opción \n“recomendada” puede servir de guía en entornos complejos y facilitar la \ntoma de decisiones. \nSin embargo, esta técnica también puede perjudicar al usuario al llevarle a \nelegir un producto que no sea el más adecuado para su perfil, simplemente \nporque es el que destaca o aparece primero. Además, si las sugerencias \npriorizan los intereses comerciales de la plataforma, el inversor puede acabar \nadquiriendo un producto menos conveniente. \nA.4\nEl exceso de opciones unido a la simplificación selectiva de éstas \ntiende a favorecer decisiones basadas en apariencia, popularidad \no facilidad, en lugar de criterios objetivos como comisiones, riesgo \no rentabilidad.\n\nPersuasión digital para inversores\nManipulación sensorial* \nEsta práctica consiste en emplear elementos visuales, auditivos y táctiles \npara dirigir al inversor hacia determinadas opciones, influyendo tanto en su \npercepción de la información como en su conducta. \nEsta técnica recurre al uso de colores, por ejemplo, para resaltar la opción \nque se quiere que el usuario elija, o para distinguir cada tipo de cartera o \nriesgo (verde, naranja, rojo), o a determinada iconografía como sellos “Top 10”, \n“Recomendado”, “Popular” que aumentan la percepción de valor. Asimismo, \nse pueden utilizar botones grandes y suaves que dan sensación de control y \nfacilidad o barras visuales de progreso para mostrar cuánto se ha invertido, \ncuánto falta para un objetivo o cuánto ha crecido la cartera, generando una \nsensación de “avance tangible” y, por tanto, de seguridad, para el usuario.\nEsta práctica puede mejorar la experiencia de usuario, al hacer las \nplataformas más intuitivas y visualmente atractivas y también puede ayudar \na guiar decisiones si se utiliza para resaltar opciones objetivamente mejores \no más seguras.\nSin embargo, puede inducir decisiones impulsivas y aumentar riesgos si se \nusa con fines comerciales y puede distraer de los objetivos de inversión \ninicialmente establecidos por el inversor.\nA.5\nPor ello, es importante que los inversores sean conscientes de \nestos estímulos y evalúen críticamente cada elección, más allá de \nla forma en que se presenta.\n\nPersuasión digital para inversores\nFricción injustificada (sludge)*\nLa técnica de la fricción injustificada o lodo se refiere a todas aquellas \nbarreras o dificultades que se añaden a un proceso para retrasar, complicar \no disuadir la acción del usuario. El objetivo es ralentizar o desincentivar la \nacción del usuario, aumentar el abandono, mantenerlo en un producto o \nservicio, o inducir un comportamiento específico.\nSon ejemplos de este tipo de técnica los impedimentos excesivos a la hora de \ncancelar una cuenta de valores o retirar fondos, la ocultación de información \no la provisión de información de manera fragmentada.\nEn términos generales, el lodo se considera una mala práctica desde la \nperspectiva del inversor porque genera fricciones innecesarias que dificultan \ndecisiones o acciones que serían naturales o deseables para él. Hay que \nprecisar que no toda fricción es lodo. Algunas fricciones vienen impuestas \npor la regulación o se justifican en la necesidad de garantizar la seguridad del \ninversor o de verificar sus datos, y son necesarias para proteger al inversor. \nA.6\nLa fricción únicamente se considerará lodo si es innecesaria y \nperjudica al inversor en beneficio del proveedor.\n\nPersuasión digital para inversores\nPrácticas de captación \nrelacionadas con la \ninformación de la \nelección\nB.\n\nPersuasión digital para inversores\nA la hora de diseñar entornos de elección, tiene un papel muy importante \nel decidir qué información se proporciona a los inversores al presentar las \nopciones. Esta información puede incluir datos básicos sobre un producto o \nservicio o puede presentarse de manera que se destaquen deliberadamente \nciertos aspectos con respecto a otros. Asimismo, puede añadirse información \ninnecesaria o facilitarse la información de manera que sea más difícil de \nentender o esté menos accesible, o incluso puede ocultarse hasta que el \ninversor haya avanzado más en el proceso de adquisición del producto o \ncontratación del servicio. \nManipular la información de elección puede reducir la capacidad de los \ninversores para comprender y evaluar elementos clave, como los precios, \nlas comisiones o los términos y condiciones de un producto financiero. \nEn el ámbito de la inversión, este tipo de manipulación resulta especialmente \nrelevante, ya que puede distorsionar la percepción del riesgo, ocultar \ncostes recurrentes o minimizar la importancia de factores esenciales para la \nrentabilidad a largo plazo. \nComo consecuencia, los inversores pueden tomar decisiones basadas en una \ncomprensión incompleta o sesgada de las alternativas disponibles, alejándose \nde sus verdaderas preferencias de riesgo, horizonte temporal u objetivos \nfinancieros. Esto puede generar comportamientos no deseables, como asumir \nriesgos excesivos, elegir productos más costosos o mantener inversiones que \nno se ajustan a sus necesidades reales.\nA continuación, se recogen las principales prácticas relacionadas con la \ninformación de elección que afectan a los productos y servicios de inversión.\n\nPersuasión digital para inversores\nPrecio por goteo*\nEl precio por goteo o “gota a gota” (drip pricing) es una práctica mediante la \ncual una plataforma o aplicación presenta inicialmente un coste muy atractivo \npara captar la atención del cliente, pero va añadiendo costes adicionales y \nobligatorios de forma progresiva a medida que avanza el proceso de registro, \ncontratación o inversión. Estos costes solo se revelan de manera completa en \nfases avanzadas, cuando el usuario ya ha invertido tiempo y esfuerzo en todo \nel proceso.\nComo ejemplo de esta práctica, se puede citar la contratación de productos \n“sin comisiones”, en la que posteriormente aparecen otro tipo de gastos, o el \ndesglose tardío de costes derivados del servicio contratado.\nLa eficacia de esta técnica se basa en sesgos cognitivos como el sesgo de \nanclaje, al considerar el inversor en su decisión únicamente el precio inicial \ndel producto o servicio, y el sesgo del coste hundido que lleva al usuario a \ncontinuar con la decisión de invertir tras haber empleado tiempo y esfuerzo, \naunque eso suponga asumir costes no contemplados inicialmente. \nB.1\nCon este tipo de técnica se distorsiona la percepción del coste \nreal de invertir, se dificulta la comparación entre distintos \nproveedores y se incrementa la probabilidad de que los inversores \nelijan opciones más caras o menos adecuadas a sus necesidades.\n\nPersuasión digital para inversores\nEnmarcado\nEl enmarcado o framing consiste en mostrar la misma información de \ndistintas maneras con la finalidad de influir en la percepción y la decisión del \ninversor. No cambia la información en sí, sino cómo se presenta.\nEsta técnica es utilizada frecuentemente a la hora de mostrar el riesgo de \nun producto financiero. A modo de ejemplo, aunque la información facilitada \nsea la misma, será más probable que un inversor adquiera un producto si se \nresalta el posible porcentaje de ganancias que puede tener (“hay un 90 % \nde probabilidades de que la cartera aumente de valor”) que si se resaltan las \npérdidas (“hay un 10 % de probabilidades de que la cartera pierda valor”). \nEn definitiva, el enmarcado es una técnica de persuasión muy poderosa, ya \nque altera cómo el inversor percibe la información y, por tanto, cómo percibe \nel valor, el riesgo y los costes. \nB.2\n1. Enmarcado\n3. Cambia percepción\n4. Influye en decisión\n2. Presentación de información\n\nPersuasión digital para inversores\nLenguaje complejo* \nEl lenguaje complejo se refiere al uso de expresiones, términos y estructuras \ngramaticales que dificultan la comprensión de la información por parte del \ninversor. Esto puede incluir el empleo de vocabulario ambiguo, tecnicismos \nexcesivos, jerga financiera especializada o construcciones sintácticas \ninnecesariamente elaboradas. A través de este tipo de comunicación, \nse puede transmitir una apariencia de profesionalidad, sofisticación o \nexclusividad, o incluso intentar justificar la aplicación de determinadas \ncomisiones aun cuando el contenido no resulte realmente claro ni aporte \ninformación sustancial.\nEl lenguaje financiero tiene una complejidad natural intrínseca que \nes necesaria por motivos de precisión y cumplimiento normativo. Sin \nembargo, esta complejidad no debería utilizarse de manera deliberada para \nimpresionar, justificar costes o generar una sensación de valor añadido que \nno esté respaldada por información relevante y comprensible para el inversor. \nPara el inversor, la habilidad crucial consiste en distinguir entre el lenguaje \ntécnico que aporta claridad y rigor, de aquel que no añade contenido \nsignificativo y solo genera una barrera de comprensión. \nB.3\nIdentificar esta diferencia permite tomar decisiones más \ninformadas, comprender mejor los riesgos y evitar caer en \ninterpretaciones erróneas derivadas de una comunicación opaca \no innecesariamente complicada.\n\nPersuasión digital para inversores\nSobrecarga de información* \nEs la técnica que consiste en proporcionar demasiada información sobre un \nproducto o servicio, de modo que los aspectos más relevantes se vuelven \ndifíciles de encontrar y evaluar. Se le presentan al inversor demasiados datos, \ncifras, gráficos y documentos, de manera que sea difícil analizarlos todos. \nDesde una perspectiva cognitiva, cuando el cerebro se enfrenta a muchos \nnúmeros, términos y gráficos, tiende a experimentar fatiga. Como \nconsecuencia de ello, el inversor suele recurrir a heurísticos (atajos de \npensamiento), simplificando su juicio y otorgando más peso a señales \nsuperficiales, como la apariencia de profesionalidad o el uso de gráficos \nllamativos, que al análisis crítico del contenido. Este efecto puede llevar al \ninversor a confiar en la opinión del intermediario o a delegar la decisión en \nun tercero, en lugar de evaluar de manera autónoma la conveniencia del \nproducto.\nAdemás, la sobrecarga de información puede impedir que el inversor detecte \nriesgos significativos o costes ocultos. Por ello, resulta fundamental que \nla información proporcionada sea no solo completa, sino también clara, \nestructurada y proporcional a la complejidad real del producto.\nB.4\nReconocer esta práctica permite al inversor mantenerse alerta \ny centrarse en los elementos que verdaderamente importan: \nobjetivos de inversión, riesgos, costes, rentabilidad, liquidez y \nadecuación al perfil personal.\n\nPersuasión digital para inversores\nPrácticas de captación \nrelacionadas con la \npresión para tomar \nuna decisión\nC.\n\nPersuasión digital para inversores\nLos entornos de elección pueden estar diseñados para ejercer presión sobre \nlos consumidores con el fin de que tomen ciertas decisiones utilizando \nfactores indirectamente relacionados como la presión del tiempo, la escasez \no los mensajeros de confianza, lo que puede desembocar en decisiones \nimpulsivas o inadecuadas. \nCon estas técnicas se puede incitar a que el inversor actúe rápido, sin \ncomparar, sin analizar costes o riesgos y sin pedir una segunda opinión. \nActúan acortando el proceso natural de decisión del inversor de manera que \nconfíe más en su intuición o en un tercero, en lugar de analizar racionalmente \nla información de la que dispone. \nEstas técnicas explotan sesgos cognitivos habituales en la inversión como el \nsesgo de aversión a la pérdida, el sesgo de autoridad o el de escasez, entre \notros.\nA continuación, se muestran las técnicas de este tipo más habituales.\n\nPersuasión digital para inversores\nAfirmaciones de escasez y popularidad\nLas afirmaciones de escasez son mensajes que presentan el producto de \ninversión como limitado, exclusivo o a punto de agotarse. La finalidad es \ngenerar urgencia y activar el sesgo de la escasez, es decir, la tendencia a \nconsiderar que lo escaso es valioso, así como el FOMO (acrónimo de Fear Of \nMissing Out o miedo a quedarse fuera), es decir, la tendencia que lleva a un \ninversor a comprar un producto porque otros lo están comprando y teme \nperder una oportunidad “única”.\nLas afirmaciones de popularidad son mensajes que hacen ver que un gran \nnúmero de personas ya está invirtiendo en ese producto y pretenden activar \nel efecto rebaño y, por tanto, la tendencia a imitar las acciones de los demás \nbajo la creencia de que si otros actúan así es que esa conducta debe ser \ncorrecta.\nAmbas herramientas se usan para acelerar decisiones y reducir el tiempo \nque el inversor dedica al análisis crítico y son especialmente persuasivas en \nel ámbito de la inversión. \nC.1\nPara el inversor es clave reconocer estas estrategias y saber \ndetectar la presión emocional y la presión social que le inducen a \nactuar rápidamente sin una evaluación racional de la inversión.\n\nPersuasión digital para inversores\nAvisos y recordatorios\nLa técnica de avisos y recordatorios es una estrategia de captación para \nestimular la acción, mantener la decisión del cliente “en caliente” y generar \nurgencia psicológica. Se basa en el envío recurrente de mensajes —por \ncorreo electrónico, SMS, notificaciones de aplicaciones o llamadas— \nrelacionados con una oferta, un producto, un plazo próximo a vencer u otra \noportunidad de inversión.\nEsta estrategia constituye una forma de presión, que opera a través de la \nrepetición y la percepción de urgencia. Puede motivar al inversor a actuar por \ndiversas razones: incomodidad (para dejar de recibir mensajes), familiaridad \n(por mera exposición repetida al mismo mensaje) o miedo a perder una \noportunidad percibida (activando la aversión a la pérdida).\nDentro de esta técnica se incluyen mensajes como: “últimos días”, \n“sin comisión de apertura solo por unos días”, “no te quedes fuera” \nu “oportunidad única”. Este tipo de comunicaciones puede presionar al \ninversor y conducirle a decisiones precipitadas o poco informadas.\nEl uso indebido de esta técnica puede ser perjudicial, ya que reduce el \ntiempo de análisis, fomenta la impulsividad y puede llevar a la contratación \nde productos costosos o inadecuados para el perfil del inversor. No obstante, \nsi se utiliza con fines informativos, por ejemplo, para recordar vencimientos \nde productos ya contratados o fechas importantes, puede resultar \nbeneficiosa y contribuir a una gestión financiera más ordenada y consciente.\nC.2\nPor tanto, esta técnica puede utilizarse para generar urgencia \ny presionar al inversor a actuar impulsivamente o para enviar \nrecordatorios útiles.\n\nPersuasión digital para inversores\nMensajeros\nEsta técnica consiste en utilizar personas o grupos de personas para \ntransmitir un mensaje con el objetivo de influir en la decisión del inversor. \nEntre los mensajeros se incluyen influencers, expertos financieros, otros \nusuarios de la plataforma, clientes satisfechos, deportistas o personalidades \nconocidas. La finalidad principal es aumentar la credibilidad de un producto \nde inversión y condicionar al inversor para que tome decisiones guiado por la \nautoridad, cercanía o confianza que inspira la figura que comunica el mensaje, \nmás que por el contenido en sí. La idea clave es que quién transmite el \nmensaje influye tanto o más que lo que se transmite.\nSe recurre a figuras que generan confianza, autoridad o cercanía para \npromocionar un producto financiero, de manera que el inversor deposita \nmayor credibilidad en el mensajero que en los detalles del producto. Esto \npuede llevar a decisiones impulsivas o poco analizadas, porque el peso del \nmensaje no proviene de su contenido objetivo, sino de la percepción positiva \ndel mensajero.\nEn el marco de esta técnica se incluyen los mensajes del tipo “los expertos \nde nuestra entidad recomiendan aprovechar este momento”, “este es el \nproducto que más contratan los clientes como tú”, “esto es lo que están \nhaciendo los grandes inversores”, etc.\nC.3\nLa técnica de mensajeros es una de las más poderosas en el \námbito de captación digital porque reduce la incertidumbre, se \naprovecha de la autoridad y la confianza que genera el mensajero \ny traslada la credibilidad de éste al producto, lo que hace que el \ninversor tome decisiones menos basadas en análisis y más en la \nfigura que comunica.\n\nPersuasión digital para inversores\nCompromiso\nLa técnica del compromiso consiste en inducir al consumidor a asumir una \nobligación inicial, aunque sea mínima o no vinculante, para luego usarla como \npalanca psicológica que facilite la aceptación de un compromiso mayor, \ncomo la contratación de un producto financiero. Su eficacia se basa en la \nnecesidad humana de mostrar coherencia con decisiones previas y evitar la \ndisonancia cognitiva, es decir, la incomodidad que surge cuando una persona \nmantiene ideas o acciones contradictorias entre sí. En esencia, esta técnica \nbusca que el usuario dé un primer paso - clic, registro, simulación, selección, \netc. - que lo predisponga a completar la acción final.\nSon ejemplos de aplicación de esta técnica los siguientes:\nSimuladores de inversión: \n“Completa este test en 1 minuto para ver qué cartera te \ncorresponde”.\nRecordatorios basados en compromisos previos: \n“Completaste tu simulación. Solo te queda un paso para empezar \na invertir”.\nIncorporación progresiva: \nProcesos de varios pasos que generan un compromiso gradual, \ncomo: “Crea tu perfil → Define tu objetivo → Selecciona nivel de \nriesgo → Elige importe → Confirma”.\nC.4\n\nPersuasión digital para inversores\nEsta técnica puede ser muy efectiva para ayudar al inversor a superar la \ninercia y fomentar hábitos positivos, como realizar aportaciones periódicas \na un producto de ahorro o inversión, reflexionar sobre su perfil de riesgo, \nmetas y horizonte temporal mediante herramientas de autoevaluación, \ntomar decisiones de forma gradual y más consciente y evitar la impulsividad. \nSin embargo, puede ser perjudicial si induce decisiones apresuradas, sin \nreflexión, o dirige al inversor hacia productos complejos o inadecuados para \nsu perfil.\nEn definitiva, el compromiso puede ser una herramienta poderosa \npara promover decisiones financieras informadas y hábitos de \ninversión sostenibles, siempre que se utilice con fines educativos \ny adaptados al perfil del inversor.\n\nPersuasión digital para inversores\n Retroalimentación\nEs la técnica que consiste en proporcionar información al inversor sobre \ncómo ha usado un producto o servicio. En particular, la retroalimentación \nse puede referir al rendimiento, las operaciones, los hábitos de inversión, \nlas ganancias o pérdidas, las comparaciones con otros usuarios, proyecciones \no gráficos. Esa información influye en cómo el inversor decide seguir \ninvirtiendo. \nEn términos prácticos, la técnica consiste en dar información sobre el \ncomportamiento o decisiones previas del inversor, destacando logros, \nreforzando acciones ya realizadas o señalando progresos, con el fin de \naumentar la confianza, generar satisfacción y fomentar la repetición de \ncomportamientos positivos. Esta técnica se puede apreciar en expresiones \ncomo “¡Felicidades! Has completado tu primer mes de aportaciones \nautomáticas”, o “Tu inversión ha crecido un 2,5% este mes, mientras que el \nmercado subió un 1,8 %”, o “¡Buen trabajo! Has cumplido tu objetivo de ahorro \nmensual”. \nSi se aplica correctamente, la retroalimentación puede reforzar hábitos \nfinancieros positivos (ahorro, inversión metódica), mejorar la comprensión \ndel propio comportamiento y la tolerancia riesgo, aumentar la confianza en \nla toma de decisiones, generar sensación de progreso y motivación para \ncumplir objetivos y facilitar la adquisición de educación financiera a través \nde la práctica.\nPor el contrario, si la técnica induce al inversor a tomar decisiones impulsivas, \ngenera exceso de confianza o promueve la inversión inadecuada para su \nperfil, se considerará un mal uso de la misma. En estos casos, \nla retroalimentación deja de ser un refuerzo positivo y se convierte en un \nfactor que puede comprometer la calidad de las decisiones financieras.\nC.5\nEn consecuencia, la retroalimentación refuerza hábitos positivos \ny la confianza del inversor, pero puede ser perjudicial si fomenta \ndecisiones impulsivas o inversiones inadecuadas.\n\nPersuasión digital para inversores\nPersonalización\nEs la técnica de captación digital que consiste en adaptar la comunicación \no el producto a los intereses o comportamientos específicos del inversor, \ngenerando sensación de relevancia y cercanía. \nEn lugar de recurrir a mensajes genéricos, esta técnica busca un enfoque \nselectivo y personalizado para:\nIncentivar la inversión cuando la oferta coincide con los \nintereses del inversor.\nReducir la fricción mostrando contenido relevante.\nSimplificar la toma de decisiones financieras.\nMejorar la experiencia del cliente y fortalecer la relación con \nla marca.\nSon ejemplos de esta técnica las landing pages dinámicas en las que la \nweb muestra productos distintos según el perfil del visitante, o emails o \nnotificaciones push personalizadas con ofertas de productos financieros \nsegún los intereses y objetivos del inversor o algoritmos que ajustan dichas \nofertas en tiempo real según la interacción del usuario.\nC.6\n\nPersuasión digital para inversores\nEn resumen, la personalización mejora la experiencia y la \nrelevancia de la información, pero requiere que el inversor \nmantenga pensamiento crítico y análisis propio para evitar \ndecisiones impulsivas o mal alineadas con su perfil.\nLa técnica de la personalización puede ayudar al inversor a tomar decisiones \nmás alineadas con sus objetivos, informadas y racionales y todo ello mediante \nun proceso de inversión más simplificado. \nSin embargo, también le puede llevar a confiar demasiado en las ofertas \npersonalizadas de la plataforma sin analizar por sí mismo los riesgos. \nEsto puede generar una falsa sensación de seguridad y la adopción de \ndecisiones menos críticas. Asimismo, aunque la personalización busca \nsimplificar, a veces el exceso de opciones adaptadas (carteras, fondos, \ntemáticas) puede generar confusión y dificultar la decisión final. Por último, \nla recepción de notificaciones o alertas personalizadas puede incentivar \nla realización de operaciones no previstas inicialmente, provocando \ncomportamientos reactivos y decisiones impulsivas alejadas del plan de \ninversión inicial.\n\nPersuasión digital para inversores\nVII. Estrategias para \nmitigar la influencia de \nlas técnicas de captación \ndigital\nTal como se ha señalado anteriormente, la eficacia de las técnicas de \npersuasión digital descritas se basa en la interacción de tres factores: los \nmecanismos psicológicos del inversor, que condicionan su percepción de la \nrealidad y la toma de decisiones; el diseño persuasivo de la aplicación, web o \nplataforma; y la personalización algorítmica, es decir, el conocimiento que la \nplataforma obtiene del usuario a partir de su actividad online.\nPor tanto, las estrategias para mitigar los efectos de estas técnicas deben \nactuar sobre estos tres ámbitos:\nMecanismos psicológicos: las estrategias de mitigación buscan \nracionalizar el proceso de inversión, minimizando la influencia de las \nemociones y la impulsividad.\nDiseño persuasivo: las estrategias de mitigación buscan activar el \npensamiento crítico del inversor y reducir el tiempo de exposición a \nla plataforma, disminuyendo la probabilidad de adoptar decisiones \napresuradas inducidas por estímulos visuales o interactivos.\nPersonalización algorítmica: las estrategias de mitigación se orientan \na limitar la información que el inversor facilita a la plataforma, web \no aplicación y, por tanto, la capacidad de ésta de inducir conductas \nespecíficas en el inversor.\nA\nB\nC\n\nPersuasión digital para inversores\nEn conjunto, estas estrategias buscan proteger al inversor frente a la \ninfluencia excesiva de la persuasión digital, promoviendo un comportamiento \nmás informado, crítico y alineado con su perfil de riesgo y objetivos \nfinancieros.\nA continuación, se recoge un cuadro resumen de las distintas técnicas de \nmitigación clasificadas según el ámbito en el que actúan.\nMecanismos psicológicos\n1. Adquirir educación financiera\n2. Atemperar el optimismo\n3. Generar alternativas\n4. Estandarizar el proceso de inversión\nDiseño persuasivo\n1. Reconocer las estrategias de diseño \n persuasivo\n2. Desactivar notificaciones no esenciales\n3. Reducir la frecuencia de consulta de la \n plataforma\n4. Utilizar una breve lista de comprobación\n5. Evaluar periódicamente el comportamiento\n6. Introducir un periodo de enfriamiento \n (cool-down rule)\n7. Desconfiar de productos “destacados” \n o “populares”.\n8. Evitar operar por presión emocional\n9. Analizar las comisiones y costes reales del \n producto\n10. No confundir comodidad con seguridad\n11. Decidir fuera de la plataforma\nPersonalización algorítmica\n1. Proporcionar únicamente los datos \n imprescindibles\n2. Desactivar la personalización\n3. Interactuar lo menos posible con contenido \n sugerido\n4. Limpiar historial y cookies\n5. Controlar permisos y notificaciones\n\nPersuasión digital para inversores\nMecanismos \npsicológicos\nA.\n\nPersuasión digital para inversores\nAdquirir educación financiera\nUna manera de evitar la influencia de las técnicas de persuasión digital en \nla adopción de decisiones es facilitar a la persona implicada las reglas y \nprincipios adecuados para adoptarlas. En este sentido, la formación marca \nuna diferencia a la hora de tomar una decisión. En el ámbito financiero, es \nprobable que las personas con extensos conocimientos en economía los \napliquen a la hora de tomar una decisión financiera y mitiguen los sesgos \nque pueden observarse en la toma de decisiones. \nEn consecuencia, en el ámbito de la toma de decisiones financieras, ya \nsea en entornos tradicionales o entornos digitales resulta particularmente \nimportante la adquisición de una adecuada educación financiera desde \nedades muy tempranas y a lo largo de toda la vida.\nAtemperar el optimismo\nUna tendencia habitual en las personas es la predisposición al optimismo. \nEste optimismo se centra en la apreciación del ámbito personal, \nprincipalmente en la consideración de uno mismo, en las consecuencias de \nlas decisiones que adopta o en el futuro que le espera. Se trata de un sesgo \ncognitivo que hace que los sujetos subestimen la posibilidad de que les \nocurra un evento negativo.\nA.1\nA.2\n\nPersuasión digital para inversores\nEn el ámbito de la toma de decisiones financieras, la tendencia al optimismo \ntiene un papel muy importante. El exceso de optimismo en el ámbito digital \npuede hacer que los usuarios ignoren señales de alerta, confíen ciegamente \nen reseñas o anuncios persuasivos, y subestimen la probabilidad de fraude, \npérdidas económicas o problemas de privacidad.\nUn exceso de optimismo puede alterar la capacidad de crítica a la hora de \nelegir un producto en el que invertir, ignorando informaciones negativas \nsobre ese producto u obviando la posibilidad de perder la inversión.\nUna solución es simplemente “pensar lo contrario” mediante la articulación \nde una serie de razones por las que una decisión inicial podría estar \nequivocada o fallar. \nEl optimismo es positivo, pero su exceso puede acarrear consecuencias \nnegativas a la hora de invertir al generar expectativas irreales e impedir \nvisualizar los riesgos que pueda llevar asociados. \nGenerar alternativas\nEn el ámbito de la toma de decisiones financieras, resulta fundamental \nno limitarse a la primera opción presentada o a la inversión inicialmente \nconsiderada. Generar alternativas implica explorar distintas posibilidades \nde inversión y comparar sus ventajas y desventajas de manera objetiva. \nEste enfoque permite identificar oportunidades más adecuadas, reducir \nriesgos y evitar decisiones impulsivas influenciadas por la publicidad, \nel marketing persuasivo o las recomendaciones sesgadas.\nGenerar alternativas no solo amplía las posibilidades de elección, sino que \ntambién incentiva la capacidad de decisión y reduce la vulnerabilidad frente \na sesgos cognitivos y técnicas de persuasión.\nA.3\n\nPersuasión digital para inversores\nEstandarizar el proceso de inversión\nUna manera de adoptar decisiones es hacerlo de manera estandarizada por \nmedio del diseño del procedimiento adecuado. \nUna manera sencilla de diseñar este proceso es recurrir, con alguna \nmodificación, a las clásicas cinco W7 del periodismo: en qué se quiere invertir, \npor qué se quiere invertir, cómo se quiere invertir, cuánto se desea invertir, \ncuándo se desea realizar la inversión y por cuánto tiempo. Este sencillo \nejercicio incita necesariamente a la reflexión antes de adoptar una decisión y, \npor tanto, contribuye a aminorar el influjo de los sesgos.\nOtra manera de estandarizar el proceso de toma de decisiones, aplicable \ntambién a las de ámbito financiero, es recurrir a las listas de comprobación. \nEste recurso recoge los pasos mínimos necesarios para realizar una \ndeterminada operación, los hace explícitos y evita errores. Las listas de \ncomprobación no solo ofrecen la posibilidad de verificación, sino que \ntambién inculcan cierta disciplina para conseguir el mayor rendimiento al \ntiempo que se aminoran los errores. \nLa lista de comprobación ayuda a ser todo lo racional que es posible \ndurante cada una de las fases del proceso y garantiza que se dispone \nde la información necesaria en el momento preciso y que se está siendo \nsistemático a la hora de tomar decisiones. En el ámbito de la inversión, una \nlista de comprobación se puede concretar en una enumeración de puntos \na verificar en forma de preguntas que se relacionan con el producto de \ninversión objeto de estudio y que ayudarán a dilucidar si se debe comprar \no no dicho producto. Estas listas son muy personales, su elaboración debe \nbasarse en los errores cometidos en el pasado y es recomendable que sean \nmuy breves. Asimismo, no es conveniente que sean estáticas, sino que deben \nincluirse mejoras a medida que se vaya aprendiendo con la práctica.\nA.4\n7. \nQué (What), quién (Who), dónde (Where), cuándo (When) y por qué (Why).\n\nPersuasión digital para inversores\nUn ejemplo de una sencilla lista de comprobación sería el siguiente:\n¿He leído detenidamente toda la información del producto?\n¿La información es completa?\n¿Entiendo las características básicas del producto?\n¿Sé en lo que estoy invirtiendo?\n¿Conozco los riesgos?\n¿El producto encaja con mi perfil inversor?\n¿El horizonte temporal de la inversión es acorde con mi perfil inversor?\nFrente a la complejidad de la adopción de determinadas decisiones, la \nsistematización del proceso es una buena opción. La ventaja de ello radica \nen que es posible mitigar los errores que sistemáticamente acaecen en \neste proceso y que, por tanto, son predecibles. Al igual que el resto de las \ntécnicas cognitivas, la sistematización del proceso de toma de decisiones \nrequiere entrenamiento y tiempo para perfeccionarlo.\n\nPersuasión digital para inversores\nDiseño persuasivo\nB.\n\nPersuasión digital para inversores\nReconocer las estrategias de diseño persuasivo\nEl primer paso para mitigar la influencia de las técnicas de captación digital \nes reconocerlas y ser consciente de cómo operan. Con ello, pierden gran \nparte de su poder. En la presente Guía se han mencionado las prácticas más \ncomunes y se ha descrito su modo de funcionamiento. \nCuanto más familiarizado esté el inversor con estos patrones, menor será su \ninfluencia y más racional será el proceso de inversión.\nB.1\nDesactivar notificaciones no esenciales\nLas notificaciones son una herramienta clave del diseño persuasivo. \nDistraen la atención, activan palancas emocionales y empujan a actuar \nrápido. \nPor tanto, es recomendable desactivar todas aquellas notificaciones que \nno sean estrictamente necesarias, reduciendo así la posibilidad de tomar \ndecisiones impulsivas.\nReducir la frecuencia de consulta de la aplicación, \nweb o plataforma\nEs aconsejable establecer una frecuencia razonable de consulta de la \naplicación, web o plataforma para realizar un seguimiento de la inversión \nen función de la naturaleza, complejidad, riesgo y volatilidad del producto \ncontratado. El acceso reiterado a la misma implica mayor exposición \nal diseño persuasivo de la aplicación y, por tanto, mayor posibilidad de \nexponerse a recomendaciones y nuevas tendencias y mayor probabilidad de \nactuar impulsivamente.\nEn conclusión, gestionar la frecuencia de consulta favorece la toma de \ndecisiones financieras más informadas y conscientes.\nB.2\nB.3\n\nPersuasión digital para inversores\nUtilizar una breve lista de comprobación\nComo se ha mencionado antes, las listas de comprobación son una \nherramienta muy eficaz contra decisiones impulsivas y, para invertir en \ncontextos digitales, son especialmente apropiadas pues neutralizan los \nefectos del diseño persuasivo. Antes de ejecutar cualquier inversión en una \naplicación, web o plataforma es conveniente realizarse estas preguntas:\n¥ ¿Esto encaja en mi plan de inversión?\n¥ ¿Lo encontré yo o la aplicación me llevó?\n¥ ¿Estoy actuando por diseño o por convicción?\n¥ ¿Entiendo qué riesgo estaría asumiendo si invirtiera?\n¥ ¿Puedo explicarlo con claridad?\n¥ ¿Qué pasa si espero 24 horas?\nSi las respuestas no son convincentes, lo conveniente es no ejecutar la \ndecisión.\nB.4\n\nPersuasión digital para inversores\nEvaluar periódicamente el comportamiento\nUno de los principios esenciales para ser un buen inversor es conocerse a sí \nmismo, en particular, el perfil de tolerancia al riesgo y los patrones personales \nde comportamiento y de toma de decisiones. En el ámbito digital esta \nmáxima tiene una especial relevancia para evitar la influencia de las técnicas \nde persuasión. Detectar patrones personales es clave para no repetir errores.\nPor esta razón, es conveniente revisar con cierta periodicidad (mensual o \ntrimestralmente):\ncuántas operaciones se han realizado conforme al plan de \ninversión inicialmente establecido \ncuántas operaciones se han realizado por sugerencia de la \naplicación, web o plataforma como consecuencia de una \nnotificación o producto destacado\nqué pantallas tienen mayor influencia en las decisiones \n(tendencias, gráficos, productos sugeridos)\nqué se puede hacer para minimizar esa exposición\nEvaluar periódicamente el propio comportamiento permite identificar sesgos \ny factores externos que influyen en la toma de decisiones, facilitando un \ncontrol más consciente sobre las inversiones.\nB.5\n\nPersuasión digital para inversores\nIntroducir un periodo de enfriamiento (cool-down rule)\nLa eficacia de prácticamente la totalidad de los patrones persuasivos \ndepende de que fomenten la impulsividad y la rapidez en la toma de \ndecisiones. Por eso, la utilización de un periodo de enfriamiento es una \nde las técnicas más potentes contra el diseño persuasivo, ya que frena la \nimpulsividad, evita la toma de decisiones emocionales y fomenta la reflexión.\nUn ejemplo de este tipo de técnica podría ser la consideración de no invertir \nen nada que se haya descubierto en las últimas 24 horas. Con ello se “enfrían” \nlas emociones y la impulsividad y se recuerda el plan de inversión inicial.\nEl periodo de enfriamiento frena la impulsividad y fortalece decisiones más \nracionales frente al diseño persuasivo.\nDesconfiar de productos “destacados” o “populares”\nComo se ha señalado anteriormente, los productos “destacados” o \n“populares” en las aplicaciones, plataformas o webs, no necesariamente son \nlos mejores y más adecuados para el perfil de un determinado inversor. \nAntes de invertir en un producto destacado es necesario comprobar que \nes acorde al perfil inversor particular, buscar opciones alternativas, verificar \nque se entiende el producto, así como sus riesgos y costes asociados, y \npreguntarse si ese producto se hubiera buscado a iniciativa propia.\nB.6\nB.7\n\nPersuasión digital para inversores\nEvitar operar por presión emocional\nEl diseño persuasivo en entornos digitales apela a emociones como FOMO, \nurgencia, euforia por las subidas o pánico por las bajadas, etc., que incitan a \ntomar decisiones poco racionales. \nEn este contexto, la protección más eficaz es tomar decisiones solo en \nmomentos de calma y no operar si se está bajo la influencia del cansancio o \nel estrés.\nAnalizar las comisiones y costes reales del producto\nLas aplicaciones, plataformas o webs de inversión suelen presentar las \ncomisiones de forma simple, visual y aparentemente transparente, pero eso \nno siempre refleja el coste real que soportará el inversor. \nA veces el diseño y el lenguaje se orientan a minimizar la sensación de gasto. \nAntes de invertir, es preciso informarse de todos los costes y comisiones \nasociadas al producto.\nB.8\nB.9\n\nPersuasión digital para inversores\nNo confundir comodidad con seguridad \nEl diseño persuasivo de los entornos digitales está orientado a mejorar \nla experiencia de los clientes, haciéndola más fluida, rápida, intuitiva y \nagradable. Pero esto no significa que el producto sugerido sea el más \nadecuado para el inversor. A veces esta comodidad puede hacer que el \ninversor infravalore los riesgos, actúe con menos prudencia y se deje llevar \npor la inercia de un proceso de toma de decisiones preestablecido y cómodo \nsin entender realmente el producto. \nEn consecuencia, es preciso considerar que la comodidad forma parte del \ndiseño persuasivo, pero la adecuación del producto al perfil inversor y a su \nplan de inversión dependerá su criterio y su propio análisis racional. \nDecidir fuera de la plataforma\nEs aconsejable tomar las decisiones de inversión tras un tiempo de reflexión \ny habiendo consultado información externa, análisis independientes o el \npropio plan de inversión inicialmente trazado, y acceder a la aplicación o \nweb únicamente para ejecutar la decisión. Este es uno de los métodos más \neficaces para neutralizar la influencia del diseño persuasivo.\nB.10\nB.11\n\nPersuasión digital para inversores\nPersonalización \nalgorítmica\nC.\n\nPersuasión digital para inversores\nProporcionar únicamente los datos imprescindibles\nEs importante que el inversor facilite a la plataforma solo la información \nestrictamente necesaria para operar con la aplicación, web o plataforma \ny evitar completar campos opcionales, conectar redes sociales, permitir \nseguimiento de actividad o conceder permisos no relacionados con la \nseguridad. Cuanta menos información se proporcione, menos podrá \npersonalizar la plataforma la experiencia de usuario.\nDesactivar la personalización\nSi la aplicación, web o plataforma ofrece controles de privacidad o \npersonalización, es aconsejable desactivarlos (“recomendaciones basadas en \ntu actividad”, “contenido personalizado”, “feed sugerido”, etc.). Aunque no se \npueda eliminar al 100 %, reducir la personalización limita el grado de influencia \ndel algoritmo.\nInteractuar lo menos posible con contenido sugerido\nEs aconsejable evitar hacer clic en opciones como “tendencias”, \n“más populares”, “otros usuarios están comprando” o “ideas para ti”. \nCada vez que se interactúa con ellas, se facilita información al sistema para \nseleccionar lo que mostrará en un futuro, con lo cual se refuerza el algoritmo \ny se hace más eficaz a la hora de influir en las decisiones. \nC.1\nC.2\nC.3\n\nPersuasión digital para inversores\nLimpiar historial y cookies\nResulta imprescindible borrar periódicamente el historial de navegación, \nbúsquedas y productos vistos y las cookies en el navegador. Esto reduce la \nbase sobre la que la plataforma personaliza la experiencia del usuario.\nControlar permisos y notificaciones\nEs aconsejable revisar qué permisos tiene la aplicación (ubicación, \nseguimiento, acceso a actividad, etc.) y eliminar todo lo que no sea esencial \npara la correcta prestación del servicio. \nC.4\nC.5\n\nPersuasión digital para inversores\nVIII. Conclusiones\n¥ El uso de plataformas, webs y aplicaciones de inversión es cada vez más \nfrecuente y su diseño puede tener un gran impacto en las decisiones \nfinancieras. Este tipo de prácticas puede mejorar la experiencia de \nusuario y actuar en beneficio del inversor, pero también puede promover \nla asunción de riesgos de manera inconsistente con los objetivos de \ninversión que el inversor se haya fijado previamente. \n¥ En este contexto, tienen un papel clave las técnicas de captación digital, \nlas cuales, mediante el análisis de los sesgos cognitivos y afectivos de los \nsujetos, el diseño persuasivo y la personalización algorítmica anticipan su \ncomportamiento y permiten lograr una determinada configuración de la \ninterfaz adecuada a los objetivos que se pretendan.\n¥ Cuando estas técnicas de captación digital buscan confundir o perjudicar \nal usuario en beneficio de la propia plataforma, web o aplicación, \nestaremos en presencia de los denominados patrones oscuros o dark \npatterns. En este caso, la interfaz puede ser utilizada no solo para facilitar \nla experiencia de usuario, sino para inducir conductas no deseadas o no \nconsentidas conscientemente por este. Su objetivo no es ayudar al usuario \na tomar decisiones informadas, sino maximizar conversiones, aumentar el \ntiempo de uso, dificultar la salida o fomentar opciones que favorecen a la \nplataforma. En este sentido, la implementación de estas prácticas podría \nconstituir un incumplimiento de la normativa vigente al menoscabar los \nderechos e intereses del inversor que ésta protege.\n¥ Existen numerosas técnicas de captación digital que actúan en tres \námbitos principales de influencia: la forma en que se presenta la \ninformación necesaria para tomar una decisión, el contenido de las \ndistintas opciones disponibles, y los elementos que guían al usuario hacia \nuna decisión alineada con sus propias intenciones. Una comprensión \nbásica de cómo funcionan estas técnicas ofrece al inversor una protección \nadicional, pues le permite reconocer cuándo su comportamiento puede \nestar siendo guiado por estímulos externos más que por sus propios \nobjetivos financieros.\n\nPersuasión digital para inversores\n¥ Antes de invertir, conviene tomarse el tiempo necesario para comparar \nalternativas, revisar la información oficial más allá de lo que destaca la \naplicación y utilizar una breve lista de comprobación que le ayude a \nconfirmar que la decisión es coherente con sus objetivos. Asimismo, \nes recomendable evitar decidir bajo presión, cansancio o por influjo de \nnotificaciones constantes. En definitiva, controle el contexto en el que \ntoma decisiones y evite actuar bajo presión emocional.\n\nPersuasión digital para inversores\n  Bibliografía\nAgencia Española de Protección de Datos (AEPD). (2024). Patrones adictivos en el \ntratamiento de datos personales: Implicaciones para la protección de datos. \nInforme, julio 2024.\nBaron, R. A., & Byrne, D. (2005). Psicología social (10.ª ed.). Madrid: Pearson Educación. \nISBN 978 84 205 4332 1.\nBrignull, H. (2023). Deceptive Patterns. Testimonium Ltd.\nCadenas Sáez, María Eugenia (2018). Del homo economicus al homo humanus. Breve \naproximación a la economía conductual. Boletín de la CNMV, trimestre I.\nCadenas Sáez, María Eugenia (2020). Economía conductual para la protección del \ninversor: Recomendaciones prácticas para inversores, entidades y reguladores. \nDocumento de Trabajo No. 70. Comisión Nacional del Mercado de Valores (CNMV).\nCampione, C. (2019). The Dark Nudge Era. Tesis de grado, Luiss Guido Carli.\nCialdini, R. B. (2006). Influence: The Psychology of Persuasion (revised edition). \nHarper Business. ISBN 978 0061241895\nCialdini, R. B. (2016). Pre-suasion: A Revolutionary Way to Influence and Persuade. \n(edición original 2016). Simon & Schuster. ISBN conforme la edición en inglés.\nCialdini, R. B. (2024). Influence, New and Expanded: The Psychology of Persuasion. \nHarperBusiness. ISBN 978 0063138797.\nComisión Nacional del Mercado de Valores (CNMV). (2019). Psicología económica para \ninversores.\nCompetition and Markets Authority. (2022). Evidence review of Online Choice \nArchitecture and consumer and competition harm. Documento de investigación, 5 abril \n2022.\n\nPersuasión digital para inversores\nCompetition and Markets Authority (CMA). (2022). Online Choice Architecture: \nHow digital design can harm competition and consumers. Discussion Paper, CMA155.\nDerry, S. y Murphy, D. (1986) Designing systems that train learning ability: \nFrom theory to practice. Review of Educational Research.\nDobelli, R. (2011). Die Kunst des klaren Denkens: 52 Denkfehler, die Sie besser anderen \nüberlassen. München: Carl Hanser Verlag.\nEuropean Commission; Lupiáñez-Villanueva, F., Boluda, A., Bogliacino, F., Liva, \nG., Lechardoy, L. & Rodríguez de las Heras Ballell, T. (2022). Behavioural study on \nunfair commercial practices in the digital environment: Dark patterns and manipulative \npersonalisation. Final report. Publications Office of the European Union.\nFinancial Conduct Authority (FCA). (Junio, 2024). Research Note: Digital engagement \npractices: a trading apps experiment.\nFogg, B. J. (2003). Persuasive Technology: Using Computers to Change What We Think \nand Do. San Francisco: Morgan Kaufmann.\nHari, Johann. Stolen Focus: Why You Can't Pay Attention — and How to Think Deeply Again. \nCrown / Bloomsbury Publishing, Hari, Johann, (2022). ISBN 978 0593138519\nIOSCO. (2025). Digital Engagement Practices (DEPs), Report of the Board of IOSCO. \nPublicación FR/07/2025.\nKahneman, D. (2011). Thinking, Fast and Slow. New York: Farrar, Straus and Giroux.\nLuxor, Javier. (2017). El pequeño libro de la influencia y la persuasión. Barcelona: Alienta \nEditorial. ISBN 978-84-16928-33-0\nMato Pacín, María Natalia. (2024). Aspectos jurídicos del diseño de las interfaces digitales. \nEn especial, los patrones oscuros. Madrid: Agencia Estatal Boletín Oficial del Estado. ISBN \n978 84 340 2995 8.\n\nPersuasión digital para inversores\nMayordomo, S.; Zlobina, A.; Igartua, J. J.; & Páez, D. (2004). Persuasión y cambio de \nactitudes. En Psicología social, cultura y educación (coord. I. Fernández-Sedano, \nS. Ubillos-Landa, E. Zubieta & D. Páez), pp. 364–367. Madrid: Pearson Educación.\nMünscher, R., Vetter, M. & Scheuerle, T. (2016). A Review and Taxonomy of Choice \nArchitecture Techniques.Journal of Behavioral Decision Making, 29(5), 511–524. DOI: \n10.1002/bdm.1897.\nOntario Securities Commission (2024). Digital Engagement Practices: Dark Patterns in \nRetail Investing.\nOntario Securities Commission. (2022). OSC Staff Notice 11 796 – Digital Engagement \nPractices in Retail Investing: Gamification and Other Behavioural Techniques.\nPetty, R. E., & Cacioppo, J. T. (1986). Communication and Persuasion: Central and \nPeripheral Routes to Attitude Change. New York, NY: Springer-Verlag.\nU.S. Securities and Exchange Commission. Request for Information and Comment on \nBroker Dealer and Investment Adviser Digital Engagement Practices, Related Tools and \nMethods, and Regulatory Considerations and Potential Approaches; Information and \nComments on Investment Adviser Use of Technology to Develop and Provide Investment \nAdvice, Release No. 2021 167, 27 agosto 2021.\nTarde, Gabriel. La psychologie économique. Paris: Félix Alcan, Éditeur, Gabriel (1902).\nThaler, R. H., & Sunstein, C. R. (2008). Nudge: Improving Decisions About Health, Wealth, \nand Happiness. New Haven: Yale University Press.\n\nEsta guía tiene como finalidad informar al público en general sobre distintos\naspectos relacionados con los mercados de valores. Por su naturaleza\ndivulgativa no puede constituir un soporte para posteriores interpretaciones\njurídicas, siendo la normativa en vigor la única fuente a estos efectos.\neducacionfinanciera@cnmv.es \nContáctanos por email\n¿Necesitas más \ninformación?",
+  "text_len": 80095,
+  "num_headings": 66,
+  "metadata": {
+    "producer": "iLovePDF",
+    "creation_date": "2026-06-05",
+    "mod_date": "2026-06-05"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": true,
+  "csv_meta": {
+    "title": "Persuasión digital para inversores",
+    "topic": "fraude",
+    "subtopic": "manipulación online",
+    "difficulty": "básico",
+    "format": "PDF",
+    "summary": "Guía CNMV sobre técnicas de persuasión digital y cómo resistirlas al invertir",
+    "learning_objective": "Reconocer técnicas de manipulación en entornos digitales"
+  },
+  "pdf_info": {
+    "n_pages": 64,
+    "body_size": 13.0,
+    "extractor": "pymupdf"
+  },
+  "deduped_from": null
+}

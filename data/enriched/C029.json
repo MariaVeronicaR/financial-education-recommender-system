@@ -1,0 +1,57 @@
+{
+  "content_id": "C029",
+  "tldr": "La mayoría de las estafas bancarias digitales no se deben a fallos técnicos, sino a decisiones precipitadas del usuario. Los estafadores crean urgencia y miedo para que actúes sin reflexionar. La mejor defensa es tomarte un tiempo antes de hacer click: accede siempre por canales oficiales, verifica la operación y, ante la duda, no la completes y contacta con tu banco.",
+  "key_points": [
+    "La rapidez al operar por la app o web te hace más vulnerable a errores y fraudes.",
+    "Los estafadores usan mensajes con urgencia y miedo ('tu cuenta será bloqueada', 'verifica ya') para provocar decisiones sin reflexionar.",
+    "Nunca accedas a tu cuenta a través de enlaces recibidos por mensajes o correos: usa siempre canales oficiales.",
+    "Antes de confirmar cualquier operación, revisa si estás en la página oficial, si conoces al destinatario y si algo no encaja.",
+    "Ante la duda, no completes la operación y contacta directamente con tu banco por canales oficiales."
+  ],
+  "quiz": [
+    {
+      "question": "Según el Banco de España, ¿por qué se producen la mayoría de las estafas bancarias digitales?",
+      "options": [
+        "Por fallos técnicos en las aplicaciones de los bancos",
+        "Por decisiones precipitadas del usuario ante mensajes que generan urgencia",
+        "Porque los bancos no cifran la información de sus clientes",
+        "Porque las contraseñas son demasiado fáciles de adivinar"
+      ],
+      "correct_index": 1,
+      "explanation": "El texto señala que la mayoría de las estafas no se deben a fallos técnicos, sino a la toma de decisiones precipitadas impulsadas por la urgencia y el miedo.",
+      "concept_id": "C15"
+    },
+    {
+      "question": "¿Cuál es una práctica recomendada para protegerte antes de entrar a tu banca digital?",
+      "options": [
+        "Acceder siempre a través de los enlaces que te envían por correo o mensaje",
+        "Completar la operación rápidamente para evitar que se bloquee la cuenta",
+        "Acceder siempre a través de canales oficiales, como la app o la web del banco",
+        "Compartir tus claves con el banco por teléfono para verificar tu identidad"
+      ],
+      "correct_index": 2,
+      "explanation": "El contenido advierte que no se debe acceder mediante enlaces recibidos por mensajes o correos, y recomienda usar siempre los canales oficiales de la banca digital.",
+      "concept_id": "C15"
+    },
+    {
+      "question": "Recibes un mensaje urgente que dice que tu cuenta será bloqueada si no verificas tus datos 'ahora mismo'. ¿Cuál es la respuesta más segura?",
+      "options": [
+        "Hacer click en el enlace cuanto antes para evitar el bloqueo",
+        "Párate, no completes nada, verifica por otra vía y contacta con tu banco por canales oficiales",
+        "Enviar tus datos por mensaje al remitente para demostrar que eres titular",
+        "Cambiar tu contraseña desde el enlace recibido para protegerte"
+      ],
+      "correct_index": 1,
+      "explanation": "Los mensajes con urgencia y miedo son una táctica típica de estafa; ante la duda debes no completar la operación y contactar con tu banco por canales oficiales.",
+      "concept_id": "C15"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5590,
+    "input_tokens": 1710,
+    "output_tokens": 906
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "content_id": "C084",
+  "tldr": "Los seguros permiten protegerse de riesgos cotidianos (roturas, robos, accidentes) a cambio de pagar una cantidad de dinero llamada prima, que cubre el importe de la pérdida o daño si se produce el siniestro. Existen seguros obligatorios, como el de motocicleta para proteger a las víctimas de accidentes, y voluntarios, como los de hogar o los de ahorro para la jubilación. No todas las situaciones están cubiertas: puede haber riesgos excluidos según el contrato.",
+  "key_points": [
+    "El seguro cubre el importe de una pérdida o daño a cambio de pagar una prima (el precio del seguro).",
+    "El riesgo asegurado es el supuesto concreto (caída, robo, incendio, accidente) contra el que te protege el contrato.",
+    "Algunos seguros son obligatorios, como el de motocicleta, cuyo objetivo es proteger a las víctimas de accidentes de tráfico.",
+    "Existen seguros de hogar (incendio, daños por agua) y de ahorro, que aportan dinero o una renta en la jubilación.",
+    "Puede haber situaciones o riesgos no cubiertos (exclusiones), por lo que no hay un seguro para cada situación."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué es la 'prima' de un seguro?",
+      "options": [
+        "El importe que la aseguradora paga cuando ocurre el siniestro",
+        "La cantidad de dinero que pagas a cambio de tener cobertura",
+        "El documento que firma el asegurado",
+        "El riesgo que queda excluido del contrato"
+      ],
+      "correct_index": 1,
+      "explanation": "La prima es el precio del seguro, es decir, la cantidad de dinero que pagas a cambio de que la aseguradora cubra el daño o la pérdida.",
+      "concept_id": "C22"
+    },
+    {
+      "question": "¿Cuál es el objetivo principal del seguro obligatorio de motocicleta?",
+      "options": [
+        "Proteger al conductor de que le roben la moto",
+        "Cubrir el mantenimiento del vehículo",
+        "Proteger a las víctimas de accidentes de tráfico si tú eres el responsable",
+        "Garantizar una renta al conductor en su jubilación"
+      ],
+      "correct_index": 2,
+      "explanation": "El seguro obligatorio de motocicleta busca proteger a las víctimas de accidentes de tráfico cuando el asegurado es el responsable del accidente.",
+      "concept_id": "C22"
+    },
+    {
+      "question": "Según el texto, ¿qué significa que un seguro tenga riesgos no cubiertos?",
+      "options": [
+        "Que la prima se devuelve siempre al final del contrato",
+        "Que hay situaciones o supuestos que el contrato no cubre",
+        "Que el seguro solo cubre robos y no daños por caída",
+        "Que el seguro es obligatorio en todos los casos"
+      ],
+      "correct_index": 1,
+      "explanation": "El texto señala que casi hay un seguro para cada situación, pero puede haber situaciones o riesgos no cubiertos (exclusiones) dentro de un contrato.",
+      "concept_id": "C22"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 4547,
+    "input_tokens": 1566,
+    "output_tokens": 901
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "content_id": "C021",
+  "title": "Préstamo personal y crédito al consumo",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Préstamo personal y crédito al consumo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los préstamos personales y los créditos al consumo son los productos que nos permiten financiar la adquisición de bienes duraderos (un coche, muebles, etc), pagar un máster, realizar un viaje, etc... Suelen ser más fáciles de obtener que un préstamo hipotecario, aunque resultan más caros porque los intereses que hay que pagar al banco son más elevados.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Concepto y características"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los préstamos personales o al consumo se formalizan en un contrato en el que se establece la cantidad concedida y las cuotas periódicas que tendremos que pagar, en las que se incluyen los intereses, comisiones y gastos conforme a las condiciones pactadas.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vida del préstamo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tanto los derechos como las obligaciones del banco y del cliente han de figurar recogidas en el contrato y ambas partes se comprometen a cumplir con lo firmado.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cancelación del préstamo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una vez cumplidas las obligaciones asumidas y devuelto el importe concedido por la entidad, procede la cancelación del préstamo.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tipos de préstamos personales"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para satisfacer las distintas necesidades de financiación, el mercado ofrece diferentes tipos de préstamos. Debemos informarnos y comparar las ofertas para elegir la opción más conveniente.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "CONSULTAS FRECUENTES"
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "¿Qué ocurre si compramos un bien o contratamos un servicio y lo financiamos?",
+        "¿Todas las entidades que conceden créditos están supervisadas por el Banco de España?"
+      ]
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:11:05.278897+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 3299,
+    "input_tokens": 2220,
+    "output_tokens": 919
+  }
+}

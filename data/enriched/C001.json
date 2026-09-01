@@ -1,0 +1,57 @@
+{
+  "content_id": "C001",
+  "tldr": "Elaborar un presupuesto es un hábito sencillo que permite controlar en qué se gasta el dinero, priorizar gastos, reducir deudas y ahorrar cada mes. Para hacerlo hay que listar todos los ingresos y gastos, clasificarlos en fijos obligatorios, variables necesarios y discrecionales, y ajustar las cifras hasta que sean realistas. Además, conviene revisar el IPC por el efecto de la inflación y destinar una cantidad fija mensual al ahorro.",
+  "key_points": [
+    "Un presupuesto sirve para saber en qué se gasta el dinero, priorizar, reducir deudas y ahorrar de forma constante.",
+    "El primer paso es apuntar todos los ingresos y todos los gastos, por pequeños que sean, incluidos los ocasionales e imprevistos.",
+    "Los gastos se clasifican en fijos obligatorios, variables necesarios y discrecionales; los discrecionales son los primeros en recortarse.",
+    "El presupuesto hay que revisarlo varias veces para que sea realista y con objetivos alcanzables.",
+    "Destinar una cantidad fija al ahorro cada mes, antes de otros gastos, permite ahorrar sin darse cuenta."
+  ],
+  "quiz": [
+    {
+      "question": "Si necesitas recortar gastos porque tu presupuesto no cuadra, ¿qué tipo de gastos deberías reducir o eliminar en primer lugar?",
+      "options": [
+        "Los gastos discrecionales, como ocio o caprichos no imprescindibles.",
+        "Los gastos fijos obligatorios, como la hipoteca o el alquiler.",
+        "Los gastos variables necesarios, como la comida.",
+        "Las cuotas de los préstamos que ya tienes contratados."
+      ],
+      "correct_index": 0,
+      "explanation": "Los gastos discrecionales son los que se pueden reducir o eliminar sin comprometer lo esencial, por lo que deben recortarse antes que los fijos u obligatorios.",
+      "concept_id": "C01"
+    },
+    {
+      "question": "Según el contenido, ¿qué implica que la inflación se mantenga en una tasa anual del 3% durante 24 años?",
+      "options": [
+        "Los precios subirían un 3% en total a lo largo de todo ese periodo.",
+        "Todo costaría aproximadamente el doble, por lo que se necesitaría el doble de dinero para mantener el mismo nivel de vida.",
+        "El presupuesto dejaría de necesitar ajustes por el aumento del coste de vida.",
+        "Solo subirían los gastos discrecionales, no los fijos ni los necesarios."
+      ],
+      "correct_index": 1,
+      "explanation": "Una inflación del 3% sostenida haría que el coste de la vida se duplicara en unos 24 años, por lo que habría que tenerla en cuenta al planificar el presupuesto.",
+      "concept_id": "C07"
+    },
+    {
+      "question": "¿Cuál es la recomendación principal del contenido para conseguir ahorrar de forma constante cada mes?",
+      "options": [
+        "Ahorrar solo lo que sobre al final del mes después de todos los gastos.",
+        "Destinar una cantidad fija al ahorro cada mes antes de presupuestar otros gastos variables y no tan necesarios.",
+        "Eliminar todos los gastos variables necesarios como la comida y la electricidad.",
+        "Esperar a que los ingresos aumenten para empezar a ahorrar."
+      ],
+      "correct_index": 1,
+      "explanation": "Asumir la obligación de pagarse una cantidad fija antes de otros gastos permite ahorrar sin darse cuenta, en lugar de depender de lo que sobre.",
+      "concept_id": "C02"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 9010,
+    "input_tokens": 2630,
+    "output_tokens": 1058
+  }
+}

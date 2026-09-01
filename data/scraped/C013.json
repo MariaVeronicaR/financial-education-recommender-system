@@ -1,0 +1,72 @@
+{
+  "content_id": "C013",
+  "url": "https://www.finanzasparatodos.es/como-cuidar-tu-entorno/#familia",
+  "source": "Finanzas para Todos",
+  "host": "www.finanzasparatodos.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 51384
+  },
+  "title": "¿Cómo cuidar tu entorno personal y financiero? - Finanzas para todos",
+  "headings": [
+    {
+      "level": 1,
+      "text": "¿Cómo cuidar tu entorno personal y financiero?"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "¿Cómo cuidar tu entorno personal y financiero?",
+      "start": 0,
+      "end": 1896,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Cómo cuidar tu entorno personal y financiero?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay que disfrutar, pero es crucial aprender a controlar los gastos y ajustar tu estilo de vida a tu presupuesto. Te damos todas las claves para que organices tus finanzas en pareja, en familia y en el trabajo, para vivir con más tranquilidad.\nMi banco y yo\nProductos y servicios bancarios, tarjetas, cheques… ¿los tienes bajo control?\nHay muchos productos y servicios bancarios necesarios para gestionar nuestro día a día. Desde una cuenta bancaria donde centralizar tus operaciones hasta las tarjetas, préstamos o aplicaciones de móvil. Infórmate para beneficiarte de sus ventajas sin correr riesgos.\nEL TRABAJO\nTu puesto de trabajo: mucho más que un sueldo mensual\nCuando conocemos a alguien por primera vez, el tema de conversión inicial suele ser “¿a qué te dedicas?”, o “¿en qué trabajas?”, y de la misma forma, es muy habitual describir a nuestros conocidos por su profesión: “trabaja para la empresa X” o “es médico, informático, comercial, etc.”.\nEL HOGAR\nAlternativas para comprar o alquilar tu vivienda\nSi te planteas dar un paso más en la decisión de donde vivir y no sabes si la mejor opción es comprar o alquilar te animamos a que consultes nuestra sección de \"Hogar\" para que puedas tomar así, la mejor alternativa.\nEN PAREJA\nAhora somos dos… Finanzas en pareja\nCuando las finanzas personales se convierten en finanzas \"en pareja\", resulta imprescindible adaptarse a la nueva situación. Para que la relación funcione puede ser necesario realizar algunos ajustes en las formas que tenéis de gestionar el dinero. En este proceso, la comunicación es fundamental.\n¿Sabéis tú y tu pareja si tenéis los mismos objetivos financieros? Descúbrelo\nMI FAMILIA\nLa familia crece…\n¿Y ahora qué?\nA partir de ahora las necesidades aumentan y hay que tomar decisiones financieras importantes.\nDescubre todo lo que necesitas saber para esta nueva etapa."
+    }
+  ],
+  "text": "¿Cómo cuidar tu entorno personal y financiero?\nHay que disfrutar, pero es crucial aprender a controlar los gastos y ajustar tu estilo de vida a tu presupuesto. Te damos todas las claves para que organices tus finanzas en pareja, en familia y en el trabajo, para vivir con más tranquilidad.\nMi banco y yo\nProductos y servicios bancarios, tarjetas, cheques… ¿los tienes bajo control?\nHay muchos productos y servicios bancarios necesarios para gestionar nuestro día a día. Desde una cuenta bancaria donde centralizar tus operaciones hasta las tarjetas, préstamos o aplicaciones de móvil. Infórmate para beneficiarte de sus ventajas sin correr riesgos.\nEL TRABAJO\nTu puesto de trabajo: mucho más que un sueldo mensual\nCuando conocemos a alguien por primera vez, el tema de conversión inicial suele ser “¿a qué te dedicas?”, o “¿en qué trabajas?”, y de la misma forma, es muy habitual describir a nuestros conocidos por su profesión: “trabaja para la empresa X” o “es médico, informático, comercial, etc.”.\nEL HOGAR\nAlternativas para comprar o alquilar tu vivienda\nSi te planteas dar un paso más en la decisión de donde vivir y no sabes si la mejor opción es comprar o alquilar te animamos a que consultes nuestra sección de \"Hogar\" para que puedas tomar así, la mejor alternativa.\nEN PAREJA\nAhora somos dos… Finanzas en pareja\nCuando las finanzas personales se convierten en finanzas \"en pareja\", resulta imprescindible adaptarse a la nueva situación. Para que la relación funcione puede ser necesario realizar algunos ajustes en las formas que tenéis de gestionar el dinero. En este proceso, la comunicación es fundamental.\n¿Sabéis tú y tu pareja si tenéis los mismos objetivos financieros? Descúbrelo\nMI FAMILIA\nLa familia crece…\n¿Y ahora qué?\nA partir de ahora las necesidades aumentan y hay que tomar decisiones financieras importantes.\nDescubre todo lo que necesitas saber para esta nueva etapa.",
+  "text_len": 1896,
+  "num_headings": 1,
+  "metadata": {
+    "title": "¿Cómo cuidar tu entorno personal y financiero? - Finanzas para todos",
+    "url": "https://www.finanzasparatodos.es/como-cuidar-tu-entorno?mdrv=www.finanzasparatodos.es",
+    "hostname": "finanzasparatodos.es",
+    "sitename": "finanzasparatodos.es",
+    "date": "2024-01-01",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Cuidado del entorno: la familia",
+    "topic": "planificación",
+    "subtopic": "economía familiar",
+    "difficulty": "intermedio",
+    "format": "artículo web",
+    "summary": "Gestión financiera en el ámbito familiar",
+    "learning_objective": "Coordinar finanzas en pareja o unidad familiar"
+  },
+  "deduped_from": null
+}

@@ -1,0 +1,1231 @@
+{
+  "content_id": "C068",
+  "url": "https://www.cnmv.es/DocPortal/Publicaciones/Guias/PsicologiaEconomicaParaInversores.pdf",
+  "source": "CNMV",
+  "host": "www.cnmv.es",
+  "url_type": "pdf",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 17193633
+  },
+  "title": "Psicología económica para inversores",
+  "headings": [
+    {
+      "level": 1,
+      "text": "económica para"
+    },
+    {
+      "level": 2,
+      "text": "I. Introducción"
+    },
+    {
+      "level": 1,
+      "text": "II. Concepto y"
+    },
+    {
+      "level": 1,
+      "text": "fundamentos básicos de"
+    },
+    {
+      "level": 1,
+      "text": "la economía conductual"
+    },
+    {
+      "level": 1,
+      "text": "III. El proceso de toma"
+    },
+    {
+      "level": 1,
+      "text": "de decisiones"
+    },
+    {
+      "level": 1,
+      "text": "A diferencia de la teoría"
+    },
+    {
+      "level": 1,
+      "text": "económica convencional que"
+    },
+    {
+      "level": 1,
+      "text": "considera que el proceso"
+    },
+    {
+      "level": 1,
+      "text": "de toma de decisiones está"
+    },
+    {
+      "level": 1,
+      "text": "basado en el análisis y"
+    },
+    {
+      "level": 1,
+      "text": "cálculo cuidadosos de todas"
+    },
+    {
+      "level": 1,
+      "text": "economía conductual considera"
+    },
+    {
+      "level": 1,
+      "text": "que las emociones y la intuición"
+    },
+    {
+      "level": 1,
+      "text": "tienen un papel fundamental en"
+    },
+    {
+      "level": 1,
+      "text": "este proceso."
+    },
+    {
+      "level": 1,
+      "text": "IV. Fases de la toma de"
+    },
+    {
+      "level": 1,
+      "text": "decisiones de inversión"
+    },
+    {
+      "level": 1,
+      "text": "V. Mitigación de los sesgos"
+    },
+    {
+      "level": 1,
+      "text": "cognitivos que afectan"
+    },
+    {
+      "level": 1,
+      "text": "al proceso de toma de"
+    },
+    {
+      "level": 1,
+      "text": "VI. Estrategias de"
+    },
+    {
+      "level": 1,
+      "text": "mitigación de los sesgos"
+    },
+    {
+      "level": 1,
+      "text": "En el ámbito de la toma de"
+    },
+    {
+      "level": 1,
+      "text": "importante buscar alternativas"
+    },
+    {
+      "level": 1,
+      "text": "a la inversión pretendida y"
+    },
+    {
+      "level": 1,
+      "text": "sopesar los pros y contras de las"
+    },
+    {
+      "level": 1,
+      "text": "distintas opciones."
+    },
+    {
+      "level": 1,
+      "text": "VII. Recomendaciones"
+    },
+    {
+      "level": 1,
+      "text": "Bibliografía"
+    },
+    {
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "level": 1,
+      "text": "información?"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "económica para",
+      "start": 11,
+      "end": 512,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "I. Introducción",
+      "start": 512,
+      "end": 2705,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "II. Concepto y",
+      "start": 2705,
+      "end": 2749,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "fundamentos básicos de",
+      "start": 2749,
+      "end": 2773,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "la economía conductual",
+      "start": 2773,
+      "end": 7086,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "III. El proceso de toma",
+      "start": 7086,
+      "end": 7175,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "de decisiones",
+      "start": 7175,
+      "end": 7725,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "A diferencia de la teoría",
+      "start": 7725,
+      "end": 7757,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "económica convencional que",
+      "start": 7757,
+      "end": 7783,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "considera que el proceso",
+      "start": 7783,
+      "end": 7810,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "de toma de decisiones está",
+      "start": 7810,
+      "end": 7836,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "basado en el análisis y",
+      "start": 7836,
+      "end": 7861,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "cálculo cuidadosos de todas",
+      "start": 7861,
+      "end": 7919,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "economía conductual considera",
+      "start": 7919,
+      "end": 7950,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "que las emociones y la intuición",
+      "start": 7950,
+      "end": 7982,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "tienen un papel fundamental en",
+      "start": 7982,
+      "end": 8014,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "este proceso.",
+      "start": 8014,
+      "end": 18889,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "IV. Fases de la toma de",
+      "start": 18889,
+      "end": 19066,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "decisiones de inversión",
+      "start": 19066,
+      "end": 23686,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "V. Mitigación de los sesgos",
+      "start": 23686,
+      "end": 23791,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "cognitivos que afectan",
+      "start": 23791,
+      "end": 23816,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "al proceso de toma de",
+      "start": 23816,
+      "end": 25724,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VI. Estrategias de",
+      "start": 25724,
+      "end": 25767,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "mitigación de los sesgos",
+      "start": 25767,
+      "end": 27987,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "En el ámbito de la toma de",
+      "start": 27987,
+      "end": 32069,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "importante buscar alternativas",
+      "start": 32069,
+      "end": 32157,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "a la inversión pretendida y",
+      "start": 32157,
+      "end": 32188,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "sopesar los pros y contras de las",
+      "start": 32188,
+      "end": 32223,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "distintas opciones.",
+      "start": 32223,
+      "end": 39898,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VII. Recomendaciones",
+      "start": 39898,
+      "end": 41496,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "Bibliografía",
+      "start": 41496,
+      "end": 43217,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "¿Necesitas más",
+      "start": 43217,
+      "end": 43246,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "información?",
+      "start": 43246,
+      "end": 43273,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores\nPsicología"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "económica para"
+    },
+    {
+      "type": "paragraph",
+      "text": "inversores\nGuía"
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores\nÍndice\nIntroducción\nConcepto y fundamentos\nbásicos de la economía\nconductual\nEl proceso de toma de\ndecisiones\nFases de la toma de decisiones\nde inversión\nMitigación de los sesgos\ncognitivos que afectan al\nproceso de toma de decisiones\nde inversión\nEstrategias de mitigación de\nlos sesgos cognitivos\nRecomendaciones finales"
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores\nPsicología\neconómica para\ninversores"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "I. Introducción"
+    },
+    {
+      "type": "paragraph",
+      "text": "La teoría económica tradicional se ha ocupado desde sus orígenes de la\nmanera en que los sujetos adoptan sus decisiones de inversión, ahorro y\ngasto. Para ello se ha basado en las premisas de que los sujetos saben lo que\nquieren, utilizan la información disponible de una manera dirigida a conseguir\nsus objetivos y comprenden perfectamente los riesgos y beneficios de\nsus decisiones financieras. Sin embargo, los numerosos descubrimientos\nsobre el modo en que funciona el cerebro humano realizados en los últimos\naños y procedentes de disciplinas como la psicología, la neurología o la\nneurofisiología revelan que esto no es así y que las personas con frecuencia\ndesconocen sus preferencias, utilizan incorrectamente la información\ndisponible y no comprenden bien los riesgos que asumen.\nEn consecuencia, la economía conductual tiene en cuenta aquellos factores\nsutiles y no tan sutiles que subyacen a las decisiones financieras.\nLa economía conductual o psicología económica estudia\nlos comportamientos humanos reales en un mundo real para\ndesarrollar, a partir de ello, modelos económicos más precisos y\nprácticos que los facilitados por la teoría económica convencional."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores\nEsta disciplina supone un intento de analizar las pautas y sesgos del\ncomportamiento de las personas y, a partir de ellos, predecir modelos de\ncomportamiento.\nLas investigaciones realizadas en el ámbito de la economía conductual\nmuestran que la mayoría de estas pautas o sesgos son predecibles. Estos\nhallazgos abren nuevas posibilidades de lograr una mejor comprensión del\ncomportamiento de los inversores y, por tanto, pueden ayudar a optimizar la\ntoma de decisiones financieras.\nLa presente Guía tiene como objetivo recoger una serie de propuestas\ndirigidas a inversores que faciliten la aplicación práctica de las principales\npremisas de la economía conductual a la adopción de decisiones de\ninversión. Se explican primero los fundamentos básicos en los que se asienta\nla economía conductual y a continuación se incluyen una serie de consejos\npara facilitar la aplicación de dichos fundamentos a la práctica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. Concepto y"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "fundamentos básicos de"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "la economía conductual"
+    },
+    {
+      "type": "paragraph",
+      "text": "La economía conductual cobró especial relevancia con ocasión de la\nconcesión en 2017 del Premio Nobel de Economía al economista Richard H.\nThaler, que se unió al concedido en 2002 al catedrático de psicología de la\nUniversidad de Princeton, Daniel Kahneman. Lo que ambos autores ponen de\nrelieve es en esencia que los sujetos no son seres plenamente racionales y\nque esa racionalidad limitada afecta al comportamiento de los mercados.\nAunque la circunstancia de que los sujetos no son seres plenamente\nracionales es bien conocida desde hace mucho tiempo en otros campos\ncomo el de la psicología o la publicidad, constituye una cierta novedad el\nhecho de que la economía comience a tener en cuenta en mayor medida\naspectos sociológicos, antropológicos y psicológicos para explicar el\nfuncionamiento de los mercados y el comportamiento de los inversores.\nLa economía conductual no surge como contraposición a la teoría económica\nconvencional sino como una disciplina que la complementa y la enriquece\nal aportar conocimiento procedente de la psicología, las neurociencias, la\nantropología o la sociología para entender mejor el proceso de toma de\ndecisiones económicas de los individuos. En palabras de Richard Thaler, la\neconomía conductual ha dotado a los economistas de una mayor riqueza\nde herramientas analíticas y experimentales para comprender y predecir el\ncomportamiento humano.\nA continuación, se recogen los principales matices que aporta la economía\nconductual a la teoría económica clásica."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores\nPremisas de la teoría\neconómica clásica\nPremisas de la\neconomía conductual\nLos sujetos son plenamente racionales.\nLos sujetos tienen una racionalidad limitada.\nLos sujetos saben lo que quieren.\nLos sujetos desconocen frecuentemente sus\npreferencias.\nLos sujetos tienen una capacidad cognitiva ilimitada\npara conocer perfectamente las implicaciones de\ncada una de las opciones disponibles y adoptar\naquella que maximice su beneficio.\nLos sujetos disponen de una capacidad de cálculo\nlimitada y aspiran únicamente a tomar la decisión\nmás satisfactoria y no la que maximiza su beneficio.\nLos sujetos adoptan sus decisiones de inversión,\nahorro y gasto utilizando la información disponible\nde una manera dirigida a conseguir sus objetivos.\nLos sujetos toman habitualmente sus decisiones,\nconsiderando normas sociales y expectativas y\nsiguiendo patrones de cooperación. Sus preferencias\ndependen del contexto en el que se encuentren y de\nsus propios modelos mentales.\nLas preferencias de los sujetos son estables y\nconsistentes. No cambian ni varían en el tiempo.\nLas preferencias de los individuos pueden cambiar\ndependiendo de factores muy diversos.\nLas preferencias de los individuos no están influidas\npor su propio historial de toma de decisiones ni por\nfactores externos como las convenciones sociales,\nsu entorno o los medios de comunicación.\nEl ser humano es un ser social que adopta\ndecisiones en el marco de un contexto social que\ninfluye de manera determinante en la decisión\nfinalmente adoptada.\nLos sujetos son maximizadores a la hora de tomar\ndecisiones, buscando obtener la máxima utilidad\nen sus decisiones. El sujeto maximizador compara\ntodas las opciones posibles para elegir la óptima.\nLos sujetos son satisfactores. Los individuos\ncarecen de capacidad ilimitada de procesamiento\nde información y optan por adoptar la decisión\nmás satisfactoria. Les basta con tomar una decisión\nsuficientemente buena aunque no necesariamente\nóptima.\nEl proceso de toma de decisiones está basado en el\nanálisis y cálculo cuidadosos de todas las opciones\ndisponibles.\nLa economía conductual considera que las\nemociones y la intuición tienen un papel\nfundamental en el proceso de toma de decisiones.\nLa manera o marco en el que se presentan las\nopciones y oportunidades no debería afectar a la\ntoma de decisiones por parte de los individuos. La\nelección de la mejor opción no debería ser sensible a\nla manera en que están encuadradas las opciones y,\npor tanto, debería ser independiente del contexto en\nel que se realiza.\nEl contexto en el que los individuos adoptan sus\ndecisiones afecta a la manera en que se contemplan\nlas opciones. Si se cambia el marco, se pueden\ncambiar las elecciones que realizan los sujetos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "III. El proceso de toma"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "de decisiones"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Consideraciones generales"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "La adopción de decisiones es el proceso en el que se debe elegir entre dos o\nmás alternativas. Se desarrolla en cualquier contexto de la vida cotidiana, ya\nsea personal o profesional. En el proceso decisorio intervienen principalmente\ndos factores:\n¥ La capacidad analítica, es decir, la facultad de evaluar y comprender el\ncontexto en el que se toma una decisión y sus posibles repercusiones.\n¥ Las emociones, es decir, los estados psicológicos en los que se encuentra\nla persona que adopta la decisión.\nA diferencia de la teoría económica convencional que considera que\nel proceso de toma de decisiones está basado en el análisis y cálculo\ncuidadosos de todas las opciones disponibles, la economía conductual\nconsidera que las emociones y la intuición tienen un papel fundamental en\neste proceso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores\nPor tanto, la economía convencional otorga un papel predominante a la\nracionalidad del sujeto en detrimento de su faceta emocional, mientras que la\neconomía conductual considera que esta última tiene un papel protagonista\nen la adopción de decisiones.\nA este respecto, Daniel Kahneman en su obra Thinking, Fast and Slow (2011)\ndistingue dos sistemas de pensamiento:\n¥ El Sistema 1 (pensamiento rápido) que opera de manera rápida y\nautomática con poco o ningún esfuerzo y sin sensación de control\nvoluntario, y\n¥ El Sistema 2 (pensamiento lento) que se centra en actividades mentales\nque demandan esfuerzos, incluidos los cálculos complejos.\nLos dos sistemas interaccionan y están siempre activos. El Sistema 1\nhace sugerencias constantemente al Sistema 2 en forma de impresiones,\nintuiciones, intenciones y sensaciones. Si cuentan con la aprobación\ndel Sistema 2, las impresiones e intuiciones se vuelven creencias y los\nimpulsos se convierten en acciones voluntarias. Generalmente, ambos\nsistemas funcionan sin complicaciones, de modo que el Sistema 2 acepta\nlas sugerencias del Sistema 1. Solo cuando el Sistema 1 encuentra alguna\ndificultad, recurre al Sistema 2 para que sugiera un procedimiento más\ndetallado y preciso que pueda resolver el problema. Este reparto del trabajo\nentre ambos sistemas minimiza el esfuerzo y optimiza la ejecución. El Sistema\n1 funciona adecuadamente, sus predicciones a corto plazo suelen ser\napropiadas y sus respuestas iniciales son rápidas y generalmente ajustadas.\nSin embargo, este sistema tiene sesgos, errores sistemáticos que es propenso\na cometer en circunstancias específicas. Por su parte, el Sistema 2 es un\nproceso lento que consume mucha energía."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores\nEn esencia, en la toma de decisiones influiría un modo de pensamiento\nbasado en las emociones e intuiciones que produce respuestas rápidas y\nautomáticas y un modo de pensamiento más racional que dirige la atención a\nlas actividades mentales que así lo demanden.\nPor tanto, intuición y razonamiento serían los dos modos de pensamiento. El\nprimero es responsable de las impresiones y juicios rápidos y el segundo es\nmucho más lento, requiere más esfuerzo y debe controlarse deliberadamente.\nLa mayoría de las decisiones diarias es realizada por el Sistema 1 con un\nresultado razonablemente bueno, exceptuando los sesgos o errores que\npuedan producirse. El Sistema 2 actúa únicamente para resolver cuestiones\ndifíciles que requieren análisis y capacidad crítica.\nEn consecuencia, las investigaciones de Kahneman demuestran que los\nhumanos no están bien descritos en el modelo de agente racional y que sus\ndecisiones están afectadas por “las veleidades del Sistema 1 y la pereza del\nSistema 2”. Aunque la intuición o el Sistema 1 es muy eficiente para adoptar\ndecisiones complicadas, sus resultados no son siempre correctos. Esto se\ndebe a la existencia de los sesgos, es decir, a ciertos trucos o atajos mentales\n(también llamados heurísticos) que ayudan a simplificar la gran cantidad\nde procesos mentales que se llevan a cabo constantemente y a hacer más\nllevadera la vida diaria.\nRápido\nInstintivo\nEmocional\nAutomático\nInconsciente\nLento\nAnalítico\nEstructurado\nLógico\nConsciente\nSistema 1\nSistema 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "A diferencia de la teoría"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "económica convencional que"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "considera que el proceso"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "de toma de decisiones está"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "basado en el análisis y"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "cálculo cuidadosos de todas"
+    },
+    {
+      "type": "paragraph",
+      "text": "las opciones disponibles, la"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "economía conductual considera"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "que las emociones y la intuición"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "tienen un papel fundamental en"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "este proceso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Sesgos en la toma de decisiones de inversión"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Las personas no siempre realizan elecciones de una manera racional y crítica.\nDe hecho, la mayoría de las decisiones se toma siguiendo procesos intuitivos\ny automáticos en vez de procesos analíticos y controlados. Este modo de\npensar rápido e intuitivo está sometido a la influencia de los sesgos que llevan\na las personas a adoptar decisiones que son previsiblemente equivocadas. En\nel ámbito de la toma de decisiones de inversión, los sesgos más comunes son\nlos siguientes:"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Exceso de confianza. Es la tendencia a sobreestimar los conocimientos y"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "juicios subjetivos y considerarlos certeros. A la hora de adoptar decisiones\ny realizar pronósticos, se sobrevaloran los conocimientos y la experiencia\npersonal sin tener en cuenta la diferencia entre lo que se sabe realmente\ny lo que se cree saber. El exceso de confianza puede llevar al inversor a\nconsiderar que la probabilidad de que su inversión fracase es menor de lo\nque realmente es. El inversor sobreconfiado infravalora los riesgos de su\ninversión y sobreestima las ganancias esperadas de la misma."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Ilusión de control. Es la tendencia a sobreestimar que se dispone del"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "control o de la posibilidad de influir en algo sobre lo que objetivamente no\nse tiene ningún control. Este sesgo puede llevar a que se asuma un nivel\nde riesgo superior al adecuado al confiar en que se controlan los vaivenes\ndel mercado gracias a los análisis realizados y la información de la que se\ndispone."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Confirmación. Consiste en interpretar la información recibida o buscar"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "informaciones nuevas de manera que corroboren convicciones o ideas\nprevias. De esta forma, los inversores buscan información de modo\nselectivo para respaldar sus opiniones en lugar de buscar opiniones o\ninformes críticos con estas, con el consiguiente riesgo de no realizar una\ninversión adecuada para ellos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Anclaje. Es la predisposición a dar más peso a la información obtenida"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "en primer lugar que a una información nueva que la contradice. Su\ndenominación se debe a que esas ideas previas en ocasiones suponen\nverdaderas anclas difíciles de soltar. En el mundo de la inversión se aprecia\ncon frecuencia este sesgo, por ejemplo, cuando se presenta en primer\nlugar la rentabilidad de un producto de inversión, y ya no se consideran\notros datos no tan positivos como los riesgos asociados, o se toma como\nreferencia de la evolución de una acción el precio que esta tuvo en el\npasado."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Autoridad. Es la tendencia a sobreestimar las opiniones de determinadas"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "personas por el mero hecho de ser quienes son y sin someterlas a\nun enjuiciamiento previo. Puede suceder que se realice una inversión\núnicamente porque la recomienda un familiar o un amigo sin realizar ningún\nanálisis adicional y sin tener en cuenta las necesidades y el perfil de riesgo\npropios."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Efecto halo. Es la predisposición a enjuiciar a una persona o institución"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "sobre la base de una única cualidad positiva o negativa que hace sombra\na todas las demás. Es un sesgo muy frecuente en el ámbito de la inversión,\nde manera que se tiende a calificar un producto financiero como bueno o\nmalo tomando como referencia un único dato, por ejemplo, los resultados\nde la empresa o la popularidad del comercializador o gestor del producto\nfinanciero en cuestión, sin considerar que ese producto financiero puede\nno ser adecuado para el objetivo de inversión pretendido o para el perfil de\nriesgo propio."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Prueba social. Es la tendencia a imitar las acciones que realizan otras"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "personas bajo la creencia de que se está adoptando el comportamiento\ncorrecto. Este sesgo se da en situaciones en las que el sujeto no tiene una\nidea definida de cómo comportarse y se deja guiar por las conductas de\notros, asumiendo que tienen más conocimiento. En la toma de decisiones\nde inversión, el inversor podría verse arrastrado por las decisiones de otras\npersonas y realizar inversiones que no le favorecen únicamente porque\notros lo hacen."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Descuento hiperbólico. Es la propensión a elegir recompensas más"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "pequeñas e inmediatas frente a recompensas mayores y alejadas en\nel tiempo. Se debe a que la inmediatez de las recompensas tiene un\ngran poder de atracción. El descuento hiperbólico puede llevar a que el\ninversor deshaga una inversión pensada a largo plazo y adecuada para su\nperfil debido a una evolución eventualmente atractiva de los mercados\no la aparición de productos financieros más rentables, alterando así los\nobjetivos iniciales y conllevando costes y riesgos asociados."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Aversión a las pérdidas. Este sesgo hace referencia a la tendencia a"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "considerar que las pérdidas pesan más que las ganancias. Es decir, el\nmiedo a perder algo supone un incentivo mayor que la posibilidad de\nganar algo de valor semejante. A la hora de invertir, puede suceder que,\ncon tal de no incurrir en pérdidas, se mantenga una inversión con mínimas\nperspectivas de recuperación y se acabe perdiendo todo lo invertido."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores\nAsimismo, este sesgo puede derivar en el denominado efecto de\nmiopía que es especialmente perjudicial para inversores a largo plazo\ny que hace que estos evalúen continuamente el valor de su cartera y\nsobrerreaccionen a noticias y eventos que se producen en el corto plazo.\nLa miopía hace que el inversor pierda la perspectiva de su inversión y de\nlos sucesos que la afectan."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Statu quo. Este sesgo implica que se tome como punto de referencia la"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "situación actual y cualquier cambio con respecto a ese punto se percibe\ncomo una pérdida."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Predisposición al optimismo. Se trata de la tendencia a sobreestimar"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "la probabilidad de experimentar situaciones positivas y subestimar las\nposibilidades de experimentar situaciones negativas. En definitiva, pesa\nmás el optimismo que el realismo."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Falacia del coste hundido. Es el sesgo que lleva a mantener una inversión"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "que ha generado o está generando pérdidas ante el temor a perder lo que\nya se ha invertido."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores\nAunque los sesgos anteriormente enumerados pueden afectar a diversos\námbitos, cobran especial relevancia en el ámbito de los mercados\nfinancieros por las siguientes razones:\n¥ La mayoría de los consumidores consideran que los productos financieros\nson complejos. La adopción de decisiones financieras puede ser difícil\ny consumir mucho tiempo. Por este motivo, los consumidores pueden\nadolecer de falta de motivación para dedicar tiempo y esfuerzo a tomar\nuna decisión debidamente informada sobre sus productos financieros.\nAsimismo, debido a la complejidad inherente a dichos productos, al poco\ninterés que despiertan en la mayoría de las personas y a las propias\nlimitaciones cognitivas de estas, los conceptos y rasgos asociados a los\nproductos financieros pueden resultar difíciles de entender.\n¥ La mayoría de las decisiones financieras requiere asumir un cierto grado\nde riesgo e incertidumbre.\n¥ Muchas decisiones financieras son emocionales. La adopción de\ndecisiones financieras puede estar dominada en numerosas ocasiones\npor emociones tales como la ansiedad, el miedo a la pérdida, el exceso de\noptimismo o un estado de sobreexcitación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "IV. Fases de la toma de"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "decisiones de inversión"
+    },
+    {
+      "type": "paragraph",
+      "text": "La toma de decisiones de inversión es un proceso dinámico y complejo que\npuede estructurarse en tres fases o momentos, no necesariamente lineales,\nen los que el inversor entra en contacto con algún aspecto del producto\nde inversión o de la institución que lo comercializa, creándose una primera\nimpresión sobre ambos.\nEn esos tres momentos juegan un papel muy importante las emociones, el\npensamiento y el lenguaje, que son los elementos clave para la adopción\nde decisiones de cualquier tipo. Asimismo, en cada una de las fases se dan\ndeterminados sesgos de comportamiento que es necesario que el inversor\nconozca para aminorar sus consecuencias. Los tres momentos son:\nBúsqueda de información. El primer momento en que el inversor tiene\ncontacto con un producto de inversión o la entidad que lo comercializa\nse produce cuando busca activamente información sobre los mismos.\nEste momento puede materializarse en una búsqueda por internet, la\nvisita a la entidad, un anuncio publicitario o el consejo o la conversación\ncon alguna persona y el inversor puede verse claramente influido por\naspectos como los comentarios de foros, redes sociales, la atención al\ncliente o la publicidad entre otros.\nLos sesgos más habituales en esta fase son el sesgo de confirmación,\nel de anclaje, el de autoridad, el de descuento hiperbólico, el exceso de\nconfianza, el efecto halo y la prueba social. El principal riesgo derivado\nde ello es que el inversor procese la información recibida sobre el\nproducto o la entidad de manera sesgada y esto determine su decisión\nsin haber tenido en cuenta otros datos que pudieran ser relevantes.\nSelección y contratación del producto. En este momento, el inversor se\nenfrenta al producto o la entidad seleccionada. En esta fase, el inversor\nsigue condicionado por los sesgos mencionados en la etapa anterior y a\nellos se une el sesgo de aversión a las pérdidas y de ilusión de control."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores\nAsimismo, debido a que el comportamiento del ser humano está\ncondicionado por el sesgo de aversión a las pérdidas y el de descuento\nhiperbólico, en esta etapa tiene mucha importancia la manera en que\nse presenta la información. El inversor tomará una decisión en función\nde cómo se le presenten las opciones. No responderá igual ante la\nprobabilidad de ganar dinero que ante la de perderlo.\nNumerosos estudios demuestran que ante la opción de ganar 500 euros\ncon seguridad o la opción de ganar 1000 con un 50% de probabilidad,\nla mayoría de los sujetos de los estudios eligen la opción de los 500\neuros. Sin embargo si las opciones son perder 500 euros con seguridad\no perder 1000 con un 50% de probabilidad, los sujetos prefieren correr\nel riesgo de perder 500 euros adicionales. El valor esperado en ambas\nopciones es el mismo, pero la disposición es diferente en función de si lo\nque está en juego son ganancias o pérdidas.\nSeguimiento del producto. Tras la contratación del producto, el\nsiguiente momento importante para el inversor es vigilar su evolución.\nEn esta fase, los principales sesgos que condicionan al inversor son el\nsesgo del descuento hiperbólico, el de statu quo y el de la falacia del\ncoste hundido.\nA modo de ejemplo, el descuento hiperbólico puede llevar a que el\ninversor deshaga una inversión pensada a largo plazo y adecuada\npara su perfil debido a una evolución eventualmente atractiva de\nlos mercados o la aparición de productos financieros más rentables,\nalterando así los objetivos iniciales y conllevando costes y riesgos\nasociados. Asimismo, el inversor puede incurrir en la falacia del coste\nhundido, es decir, mantener una inversión con pérdidas continuas y sin\nposibilidad de recuperación y aun así conservar dicha inversión por no\ntener la sensación de haber perdido el dinero, en vez de deshacer la\ninversión para no seguir perdiendo más dinero en un futuro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores\nFases de la toma de\ndecisiones de inversión\nSesgo\nBÚSQUEDA DE INFORMACIÓN"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sesgo de confirmación"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sesgo de anclaje"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sesgo de autoridad"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sesgo de descuento hiperbólico"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sesgo de exceso de confianza"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Efecto halo"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Prueba social\nSELECCIÓN Y CONTRATACIÓN DEL PRODUCTO"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sesgo de confirmación"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sesgo de autoridad"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sesgo de descuento hiperbólico"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sesgo de exceso de confianza"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Efecto halo"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Prueba social"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sesgo de aversión a las pérdidas"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ilusión de control\nSEGUIMIENTO DEL PRODUCTO"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sesgo del descuento hiperbólico"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Statu quo"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Falacia del coste hundido\nA continuación, se recoge a modo de resumen una tabla con los sesgos más\nhabituales en cada una de estas etapas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "V. Mitigación de los sesgos"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "cognitivos que afectan"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "al proceso de toma de"
+    },
+    {
+      "type": "paragraph",
+      "text": "decisiones de inversión\nLos sesgos a los que se ve sometido el inversor a la hora de tomar decisiones\nde inversión y los consiguientes riesgos asociados a ellos no pueden hacerse\ndesaparecer, pero sí pueden mitigarse en gran medida (debiasing).\nLa mitigación de los sesgos abarca una amplia variedad de técnicas,\nprocedimientos e intervenciones, que pueden implementarse a nivel personal\ne institucional, y que están diseñados para eliminar o reducir los errores,\ndistorsiones u otras percepciones erróneas que se generan en el proceso de\npensamiento y en la adopción de decisiones.\nEn este sentido, la propia configuración del cerebro hace que se produzcan\nerrores de pensamiento sistemáticos. Las principales causas de estos\nerrores se hallan en la interacción de los dos sistemas de pensamiento antes\nmencionados que generan un pensamiento estrecho y enmarcado en un\ndeterminado contexto y que da lugar a una toma de decisiones sobre la base\nde informaciones parciales y sesgadas.\nEstos errores generan una brecha entre la manera en que se forja\nel pensamiento y la forma en que sería deseable que se forjara.\nLa mitigación de los sesgos puede contribuir en gran medida a\nreducir esa brecha."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores\nEl proceso de mitigación de sesgos se desarrolla de la siguiente manera1 :\nEn el siguiente apartado se recogen las estrategias de mitigación que pueden\nadoptarse para aminorar los efectos de los sesgos cognitivos."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Véase Mental contamination and mental correction: unwanted influences on judgments\nand evaluations. Wilson TD, Brekke N.Psychol Bull. 1994;116:117–42\nSe desencadena el sesgo\nSe toma conciencia del sesgo desencadenado\nSe decide corregir el sesgo\nSe toma conciencia de la magnitud del sesgo y\nse adopta la técnica de mitigación adecuada\nSe mitiga el sesgo de manera exitosa\nSe toma la decisión óptima"
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VI. Estrategias de"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "mitigación de los sesgos"
+    },
+    {
+      "type": "paragraph",
+      "text": "cognitivos\nLas técnicas de mitigación son variadas y, según el objetivo pretendido,\npueden clasificarse de la siguiente manera:\n¥ Técnicas centradas en la provisión de formación para adoptar una\ndecisión.\n¥ Técnicas cognitivas destinadas a interpretar de manera distinta los\nelementos que intervienen en la toma de una decisión."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Técnicas centradas en la adquisición de"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "formación para tomar una decisión\nUna manera de evitar los sesgos en la adopción de decisiones es facilitar\na la persona implicada las reglas y principios adecuados para adoptarla.\nEn este sentido, la formación marca una diferencia a la hora de tomar una\ndecisión. En el ámbito financiero, es probable que las personas con extensos\nconocimientos en economía los apliquen a la hora de tomar una decisión\nfinanciera y mitiguen estos sesgos.\nSin embargo, además de tener estos conocimientos es necesario saber\nidentificar las situaciones en que deben ser aplicados y tener la suficiente\nmotivación para hacerlo. Por ejemplo, una formación adecuada para tomar\nuna decisión determinada puede no ser suficiente ante una intuición muy\nintensa que cohíba una reflexión más profunda.\nEl tipo más efectivo de formación es la capacitación específica en la toma\nde decisiones que se realicen de inmediato y de forma reiterada. Ambos\nelementos conllevan la adquisición de experiencia y dominio en la adopción\nde decisiones concretas. El principal reto que se plantea en este ámbito es"
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores\nque las personas puedan retener las habilidades aprendidas y aplicarlas de\nmanera adecuada cuando la situación lo requiera, algo que precisa mucho\nentrenamiento.\nA este respecto, tal y como define la OCDE, la educación financiera debe\nentenderse como el proceso por el cual los consumidores/inversores\nfinancieros mejoran su comprensión de los productos financieros, los\nconceptos y los riesgos, y a través de información, instrucción y/o el\nasesoramiento objetivo, desarrollan las habilidades y confianza para ser más\nconscientes de los riesgos y oportunidades financieras, tomar decisiones\ninformadas, saber dónde acudir para obtener ayuda y ejercer cualquier\nacción eficaz para mejorar su bienestar económico.\nEn el ámbito de la toma de decisiones financieras, resulta\nparticularmente importante la adquisición de una adecuada\neducación financiera desde edades muy tempranas y a lo largo\nde toda la vida."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores\nEn este ámbito de la educación financiera es especialmente ventajosa la\nadquisición de conocimientos sobre la existencia de los sesgos cognitivos, el\nmomento en el que se dan, los sesgos a los que se tiene mayor propensión y\nla manera en que pueden ser mitigados. En ocasiones, el mero conocimiento\nde que existen estos sesgos puede llevar a mitigarlos2 . En otros casos, la\nmitigación implica necesariamente un conocimiento profundo de uno mismo\nque debe combinarse con la observación y el entrenamiento constantes para\natemperar los sesgos. Más adelante, se describen algunas técnicas cognitivas\npara realizar este entrenamiento.\nLa adquisición de una adecuada formación constituye una técnica\nbásica de mitigación de los sesgos a la que ha de unirse la práctica\nrecurrente, la identificación de las situaciones en las que dicha\nformación debe ser aplicada y la motivación para ello. En el ámbito\nfinanciero dicha formación abarca no solo la adquisición de\nconocimientos relacionados con este entorno y el entrenamiento\nen las habilidades necesarias para adoptar decisiones financieras\ncorrectas, sino también la toma de conciencia de la existencia\nde los sesgos cognitivos, los momentos en que tienen mayor\nincidencia y la manera de obviarlos."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Es el caso del llamado sesgo de ilusión de transparencia según el cual las personas a\nmenudo creen que sus estados internos son más evidentes para los demás de lo que\nrealmente son. En el ámbito de hablar en público, por ejemplo, las personas que se ponen\nnerviosas al dar un discurso creen que su nerviosismo es más evidente para su audiencia\nde lo que realmente es. Sin embargo, se ha demostrado que tener conciencia de este\nsesgo puede mejorar la calidad del desempeño del orador, tanto desde la perspectiva del\nhablante como desde el punto de vista de los observadores.\nVéase The illusion of transparency and the alleviation of speech anxiety. Kenneth\nSavitskya y Thomas Gilovich. Journal of Experimental Social Psychology. Volumen 39,\nnoviembre 2003, páginas 618-625."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Técnicas cognitivas destinadas a"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "interpretar de manera distinta los elementos\nque intervienen en la toma de una decisión\nLas técnicas cognitivas son las actividades y procesos mentales que realizan\nlos sujetos de manera consciente para comprender el mundo que les rodea,\naprender de su experiencia, resolver problemas o adoptar soluciones. En\ndefinitiva, se trata de acciones internamente organizadas que el individuo\nutiliza para procesar información, recordarla, transformarla, retenerla y\ntransferirla a nuevas situaciones3.\nAunque estas técnicas requieren cierto esfuerzo para su ejecución, con ellas\nse genera una mayor conciencia en los individuos de su propio proceso de\npensamiento, se enfatiza su papel como protagonistas del mismo, se les\nalienta a confiar en el razonamiento consciente, en lugar de en intuiciones\nsubconscientes, y se les ayuda a identificar errores en la lógica utilizada.\nA continuación se exponen algunas de las técnicas que pueden resultar más\nútiles en la toma de decisiones de inversión."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Generar alternativas."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Con carácter general, es conocida la utilidad de analizar los problemas\ndesde múltiples perspectivas. Sin embargo, habitualmente no se recurre\na esta técnica a la hora de adoptar decisiones.\nAunque gran parte de la investigación sobre toma de decisiones se\nha centrado en si las personas adoptan decisiones óptimas dado un\nconjunto fijo de opciones, lo cierto es que tener un buen conjunto de\nalternativas entre las cuales elegir es al menos tan importante como\nelegir correctamente."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Derry, S. y Murphy, D. (1986) Designing systems that train learning ability: From theory to\npractice. Review of Educational Research."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "En el ámbito de la toma de"
+    },
+    {
+      "type": "paragraph",
+      "text": "decisiones financieras, es"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "importante buscar alternativas"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "a la inversión pretendida y"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "sopesar los pros y contras de las"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "distintas opciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Atemperar el optimismo o pensar lo contrario. Análisis"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "premortem.\nUna tendencia habitual en las personas es la predisposición al optimismo.\nEste optimismo se centra en la apreciación del ámbito personal,\nprincipalmente en la consideración de uno mismo, en las consecuencias\nde las decisiones que adopta o en el futuro que le espera. Se trata de un\nsesgo cognitivo más que hace que los sujetos subestimen la posibilidad\nde que les ocurra un evento negativo.\nEn el ámbito de la toma de decisiones financieras, la tendencia al\noptimismo tiene un papel muy importante. Un exceso de optimismo\npuede alterar la capacidad de crítica a la hora de elegir un producto en\nel que invertir, ignorando informaciones negativas sobre ese producto u\nobviando la posibilidad de perder la inversión.\nUna solución a la recurrencia de este sesgo es simplemente “pensar lo\ncontrario” mediante la articulación de una serie de razones por las que\nuna decisión inicial podría estar equivocada o fallar.\nUna evolución de esta solución es la prospectiva retrospectiva\n(prospective hindsight) o análisis premortem que consiste en que el\nsujeto se ubica mentalmente en el futuro y piensa que su decisión ha\nfracasado. Ante un fracaso pasado, aunque solo sea imaginario, las\npersonas tienden a identificar más fácilmente las posibles causas de ello\nque si lo intentan hacer desde el momento presente.\nEllo se debe a que al ser humano le resulta más sencillo explicar lo que ha"
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores\nEl optimismo es positivo, pero su exceso puede acarrear\nconsecuencias negativas para su inversión al generar expectativas\nirreales respecto a la misma e impedir visualizar los riesgos que\npueda llevar asociados. Para evitar el exceso de optimismo, piense\nlo contrario y considere que su inversión puede fracasar y las\ncausas por las que puede hacerlo.\npasado una vez que ya ha sucedido que realizar una previsión de lo que\npuede ocurrir.\nAsimismo, con esta técnica del análisis premortem se saca provecho\nde otro sesgo cognitivo que es el llamado sesgo de retrospectiva y que\nsucede cuando, una vez que se sabe lo que ha ocurrido, se tiende a\nmodificar el recuerdo de la opinión previa a que ocurrieran los hechos,\nen favor del resultado final4. Se crea así un falso recuerdo en el que los\nindividuos piensan que conocían la solución antes de que esta ocurriera."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Estandarizar el proceso de decisión. Proceso de inversión y"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "listas de comprobación.\nUna manera de adoptar decisiones es hacerlo de manera estandarizada\npor medio del diseño del adecuado procedimiento. Mediante la\nincorporación a este procedimiento de las técnicas de mitigación de\nsesgos más convenientes, se puede llegar a desarrollar un proceso\nóptimo de toma de decisiones.\nEn el ámbito de la adopción de decisiones financieras, y partiendo de las\nfases del proceso de toma de decisiones antes mencionadas y de los\nsesgos en los que cada inversor incurre más frecuentemente, es posible\ndiseñar un proceso de inversión propio que conduzca a decisiones en\ngran medida exentas de riesgos."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Bandrés Moya, Fernando; Delgado Bueno, Santiago (2010). Biomedicina y derecho\nsanitario."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores\nUna manera sencilla de diseñar este proceso es recurrir, con alguna\nmodificación, a las clásicas cinco W5 del periodismo: en qué se quiere\ninvertir, por qué se quiere invertir, cómo se quiere invertir, cuánto se\ndesea invertir, cuándo se desea realizar la inversión y por cuánto tiempo.\nEste sencillo ejercicio incita necesariamente a la reflexión antes de\nadoptar una decisión y, por tanto, contribuye a aminorar el influjo de los\nsesgos.\nOtra manera de estandarizar el proceso de toma de decisiones,\naplicable también a las de ámbito financiero, es recurrir a las listas de\ncomprobación. Este recurso recoge los pasos mínimos necesarios para\nrealizar una determinada operación, los hace explícitos y evita errores.\nLas listas de comprobación no solo ofrecen la posibilidad de verificación,\nsino que también inculcan cierta disciplina para conseguir el mayor\nrendimiento al tiempo que se aminoran los errores. Aunque esta técnica\ntiene su origen en el dominio de la aviación, se ha extendido, dada su\nsimplicidad y su eficacia, a otros ámbitos como el de la medicina o la\nconstrucción.\nLa lista de comprobación ayuda a ser todo lo racional que es posible\ndurante cada una de las fases del proceso y garantiza que se dispone\nde la información necesaria en el momento preciso y que se está siendo\nsistemático a la hora de tomar decisiones.\nEn el ámbito de la inversión, una lista de comprobación se puede\nconcretar en una enumeración de puntos a verificar en forma de\npreguntas que se relacionan con el producto de inversión objeto de\nestudio y que ayudarán a dilucidar si se debe comprar o no dicho\nproducto. Estas listas son muy personales, su elaboración debe basarse\nen los errores cometidos en el pasado y es recomendable que sean muy\nbreves. Asimismo, no es conveniente que sean estáticas, sino que deben\nincluirse mejoras a medida que se vaya aprendiendo con la práctica."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Qué (What), quién (Who), dónde (Where), cuándo (When) y por qué (Why)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores\nUn ejemplo de una sencilla lista de comprobación sería el siguiente:\n¿He leído detenidamente toda la información del producto?\n¿La información es completa?\n¿Entiendo las características básicas del producto?\n¿Sé en lo que estoy invirtiendo?\n¿Conozco los riesgos?\n¿El producto encaja con mi perfil inversor?\n¿El horizonte temporal de la inversión es acorde con mi perfil inversor?\n•Identificar las condiciones adecuadas para el proceso de toma\nde decisiones.\nPara evitar las decisiones sesgadas es importante mejorar las\ncondiciones personales en las que estas se toman, de modo que el\nindividuo esté realmente preparado para adoptar una decisión.\nComo se ha mencionado anteriormente, el Sistema 2 juega un papel\ncrítico en la toma de decisiones: supervisa el juicio intuitivo y, cuando\nes necesario, lo corrige. Un individuo estará preparado para adoptar\ndecisiones cuando su Sistema 2 es capaz de realizar dichas funciones.\nFrente a la complejidad de la adopción de determinadas\ndecisiones, la sistematización del proceso es una buena opción.\nLa ventaja de ello radica en que es posible mitigar los errores\nque sistemáticamente acaecen en este proceso y que, por tanto,\nson predecibles. Al igual que el resto de técnicas cognitivas, la\nsistematización del proceso de toma de decisiones requiere\nentrenamiento y tiempo para perfeccionarlo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores\nLos factores que determinan si una persona está preparada o no para\ntomar una decisión van desde el cronotipo6 del sujeto o el nivel de\nfatiga y distracción hasta el hecho de estar enfadado, hambriento o\nsomnoliento. Estos condicionantes, entre otros, limitan temporalmente\nla capacidad de supervisar las decisiones y advertir los posibles errores\nen las mismas, lo que conlleva que la atención se dirija a la búsqueda de\nsoluciones rápidas y una mayor confianza en la intuición. Es importante\nser consciente de que se trata de factores limitantes de la capacidad\ncognitiva y, por tanto, se debe evitar tomar decisiones importantes\ncuando se esté bajo el influjo de los mismos.\nEs importante conocerse a sí mismo y detectar aquellas\nsituaciones o factores que puedan afectar negativamente al\nproceso de toma de decisiones de inversión. Evite adoptar\neste tipo de decisiones si presenta un estado anímico o\nfisiológico alterado."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ritmo circadiano interno de un individuo que influye en su patrón de sueño y actividad\nen un periodo de 24 horas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VII. Recomendaciones"
+    },
+    {
+      "type": "paragraph",
+      "text": "finales\n¥ Es importante la adquisición de una adecuada educación financiera\ndesde edades muy tempranas y a lo largo de toda la vida. En este\ncontexto específico, además de contar con una educación financiera\napropiada, resulta particularmente ventajoso conocer qué son los sesgos\nconductuales, cuándo se producen y las técnicas para evitarlos.\n¥ Antes de adoptar una decisión, es recomendable pensar en opciones\nalternativas y sopesar los pros y contras de cada una de ellas. Habitúese a\nbuscar, demandar y leer de manera crítica y con suficiente antelación toda\nla información oficial que le debe suministrar su entidad para ayudarle a\ntomar decisiones de inversión fundadas.\n¥ El ser humano tiene una gran tendencia al optimismo. Por esta razón y\nantes de adoptar una decisión de inversión es conveniente reflexionar\nsobre la posibilidad de que esta no resulte según lo deseado.\n¥ Es aconsejable sistematizar el proceso de inversión. Una manera de\ndesarrollarlo es recurrir a listas de comprobación que recogen tareas o\npreguntas que conviene realizarse antes de ejecutar una determinada\noperación y ayudan así a actuar de una manera más reflexiva mitigando los\neventuales sesgos que puedan producirse.\n¥ La toma de decisiones de inversión requiere estar en las condiciones\nóptimas para ello. Es preciso ser consciente de los factores que pueden\nlimitar la capacidad de supervisar estas decisiones como el cansancio\nfísico o mental."
+    },
+    {
+      "type": "paragraph",
+      "text": "Psicología económica para inversores"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Bibliografía"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bandrés Moya, Fernando; Delgado Bueno, Santiago (2010). Biomedicina y derecho\nsanitario.\nCadenas, María Eugenia (2018). Del homo economicus al homo humanus. Boletín de la\nCNMV, trimestre I.\nDerry, S. y Murphy, D. (1986) Designing systems that train learning ability: From theory to\npractice. Review of Educational Research.\nDobelli, Rolf. (2016) Die Kuntst des klaren Denkens.\nKahneman, Daniel (2003), «Maps of bounded rationality: Psychology for Behavioral\nEconomics», The American Economic Review, 93(5), págs. 1449-1475.\nKahneman, Daniel (2011), Thinking, fast and slow, Nueva York, Farrar, Straus and Giroux.\nKenneth Savitskya y Thomas Gilovich. The illusion of transparency and the alleviation\nof speech anxiety. Journal of Experimental Social Psychology. Volumen 39, noviembre\n2003, páginas 618-625.\nJack B. Soll, Katherine L. Milkman, and John W. Payne (2015) A user’s guide to debiasing.\nThe Wiley Blackwell Handbook of Judgment and Decision Making, II.\nStanovich, K. y West, R. (2000), Individual Differences in Reasoning. Implications for the\nRationality Debate? Behavioral and Brain Sciences, núm. 23, Cambridge: Cambridge\nUniversity Press, págs. 645-665.\nTarde, Gabriel (1992). Psychologie économique. Essai.\nWilson TD, Brekke N.Psychol Bull (1994) Mental contamination and mental correction:\nunwanted influences on judgments and evaluations. 116:117–42."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contáctanos por email\nEsta guía tiene como finalidad informar al público en general sobre distintos\naspectos relacionados con los mercados de valores. Por su naturaleza\ndivulgativa no puede constituir un soporte para posteriores interpretaciones\njurídicas, siendo la normativa en vigor la única fuente a estos efectos."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "información?"
+    },
+    {
+      "type": "paragraph",
+      "text": "www.cnmv.es"
+    }
+  ],
+  "text": "Psicología económica para inversores\nPsicología \neconómica para \ninversores\nGuía\n\nPsicología económica para inversores\nÍndice\nIntroducción\nConcepto y fundamentos \nbásicos de la economía \nconductual\nEl proceso de toma de \ndecisiones \nFases de la toma de decisiones \nde inversión\nMitigación de los sesgos \ncognitivos que afectan al \nproceso de toma de decisiones \nde inversión\nEstrategias de mitigación de\nlos sesgos cognitivos\nRecomendaciones finales\n\nPsicología económica para inversores\nPsicología \neconómica para \ninversores\nI. Introducción\nLa teoría económica tradicional se ha ocupado desde sus orígenes de la \nmanera en que los sujetos adoptan sus decisiones de inversión, ahorro y \ngasto. Para ello se ha basado en las premisas de que los sujetos saben lo que \nquieren, utilizan la información disponible de una manera dirigida a conseguir \nsus objetivos y comprenden perfectamente los riesgos y beneficios de \nsus decisiones financieras. Sin embargo, los numerosos descubrimientos \nsobre el modo en que funciona el cerebro humano realizados en los últimos \naños y procedentes de disciplinas como la psicología, la neurología o la \nneurofisiología revelan que esto no es así y que las personas con frecuencia \ndesconocen sus preferencias, utilizan incorrectamente la información \ndisponible y no comprenden bien los riesgos que asumen. \nEn consecuencia, la economía conductual tiene en cuenta aquellos factores \nsutiles y no tan sutiles que subyacen a las decisiones financieras.\nLa economía conductual o psicología económica estudia \nlos comportamientos humanos reales en un mundo real para \ndesarrollar, a partir de ello, modelos económicos más precisos y \nprácticos que los facilitados por la teoría económica convencional.\n\nPsicología económica para inversores\nEsta disciplina supone un intento de analizar las pautas y sesgos del \ncomportamiento de las personas y, a partir de ellos, predecir modelos de \ncomportamiento.\nLas investigaciones realizadas en el ámbito de la economía conductual \nmuestran que la mayoría de estas pautas o sesgos son predecibles. Estos \nhallazgos abren nuevas posibilidades de lograr una mejor comprensión del \ncomportamiento de los inversores y, por tanto, pueden ayudar a optimizar la \ntoma de decisiones financieras. \nLa presente Guía tiene como objetivo recoger una serie de propuestas \ndirigidas a inversores que faciliten la aplicación práctica de las principales \npremisas de la economía conductual a la adopción de decisiones de \ninversión. Se explican primero los fundamentos básicos en los que se asienta \nla economía conductual y a continuación se incluyen una serie de consejos \npara facilitar la aplicación de dichos fundamentos a la práctica.\n\nPsicología económica para inversores\nII. Concepto y \nfundamentos básicos de \nla economía conductual \nLa economía conductual cobró especial relevancia con ocasión de la \nconcesión en 2017 del Premio Nobel de Economía al economista Richard H. \nThaler, que se unió al concedido en 2002 al catedrático de psicología de la \nUniversidad de Princeton, Daniel Kahneman. Lo que ambos autores ponen de \nrelieve es en esencia que los sujetos no son seres plenamente racionales y \nque esa racionalidad limitada afecta al comportamiento de los mercados. \nAunque la circunstancia de que los sujetos no son seres plenamente \nracionales es bien conocida desde hace mucho tiempo en otros campos \ncomo el de la psicología o la publicidad, constituye una cierta novedad el \nhecho de que la economía comience a tener en cuenta en mayor medida \naspectos sociológicos, antropológicos y psicológicos para explicar el \nfuncionamiento de los mercados y el comportamiento de los inversores. \nLa economía conductual no surge como contraposición a la teoría económica \nconvencional sino como una disciplina que la complementa y la enriquece \nal aportar conocimiento procedente de la psicología, las neurociencias, la \nantropología o la sociología para entender mejor el proceso de toma de \ndecisiones económicas de los individuos. En palabras de Richard Thaler, la \neconomía conductual ha dotado a los economistas de una mayor riqueza \nde herramientas analíticas y experimentales para comprender y predecir el \ncomportamiento humano.\nA continuación, se recogen los principales matices que aporta la economía \nconductual a la teoría económica clásica.\n\nPsicología económica para inversores\nPremisas de la teoría \neconómica clásica\nPremisas de la \neconomía conductual\nLos sujetos son plenamente racionales.\nLos sujetos tienen una racionalidad limitada.\nLos sujetos saben lo que quieren.\nLos sujetos desconocen frecuentemente sus \npreferencias.\nLos sujetos tienen una capacidad cognitiva ilimitada \npara conocer perfectamente las implicaciones de \ncada una de las opciones disponibles y adoptar \naquella que maximice su beneficio.\nLos sujetos disponen de una capacidad de cálculo \nlimitada y aspiran únicamente a tomar la decisión \nmás satisfactoria y no la que maximiza su beneficio.\nLos sujetos adoptan sus decisiones de inversión, \nahorro y gasto utilizando la información disponible \nde una manera dirigida a conseguir sus objetivos.\nLos sujetos toman habitualmente sus decisiones, \nconsiderando normas sociales y expectativas y \nsiguiendo patrones de cooperación. Sus preferencias \ndependen del contexto en el que se encuentren y de \nsus propios modelos mentales.\nLas preferencias de los sujetos son estables y \nconsistentes. No cambian ni varían en el tiempo.\nLas preferencias de los individuos pueden cambiar \ndependiendo de factores muy diversos.\nLas preferencias de los individuos no están influidas \npor su propio historial de toma de decisiones ni por \nfactores externos como las convenciones sociales, \nsu entorno o los medios de comunicación.\nEl ser humano es un ser social que adopta \ndecisiones en el marco de un contexto social que \ninfluye de manera determinante en la decisión \nfinalmente adoptada.\nLos sujetos son maximizadores a la hora de tomar \ndecisiones, buscando obtener la máxima utilidad \nen sus decisiones. El sujeto maximizador compara \ntodas las opciones posibles para elegir la óptima.\nLos sujetos son satisfactores. Los individuos \ncarecen de capacidad ilimitada de procesamiento \nde información y optan por adoptar la decisión \nmás satisfactoria. Les basta con tomar una decisión \nsuficientemente buena aunque no necesariamente \nóptima.\nEl proceso de toma de decisiones está basado en el \nanálisis y cálculo cuidadosos de todas las opciones \ndisponibles.\nLa economía conductual considera que las \nemociones y la intuición tienen un papel \nfundamental en el proceso de toma de decisiones.\nLa manera o marco en el que se presentan las \nopciones y oportunidades no debería afectar a la \ntoma de decisiones por parte de los individuos. La \nelección de la mejor opción no debería ser sensible a \nla manera en que están encuadradas las opciones y, \npor tanto, debería ser independiente del contexto en \nel que se realiza.\nEl contexto en el que los individuos adoptan sus \ndecisiones afecta a la manera en que se contemplan \nlas opciones. Si se cambia el marco, se pueden \ncambiar las elecciones que realizan los sujetos.\n\nPsicología económica para inversores\nIII. El proceso de toma \nde decisiones\n1. Consideraciones generales\nLa adopción de decisiones es el proceso en el que se debe elegir entre dos o \nmás alternativas. Se desarrolla en cualquier contexto de la vida cotidiana, ya \nsea personal o profesional. En el proceso decisorio intervienen principalmente \ndos factores:\n¥ La capacidad analítica, es decir, la facultad de evaluar y comprender el \ncontexto en el que se toma una decisión y sus posibles repercusiones.\n¥ Las emociones, es decir, los estados psicológicos en los que se encuentra \nla persona que adopta la decisión. \nA diferencia de la teoría económica convencional que considera que \nel proceso de toma de decisiones está basado en el análisis y cálculo \ncuidadosos de todas las opciones disponibles, la economía conductual \nconsidera que las emociones y la intuición tienen un papel fundamental en \neste proceso.\n\nPsicología económica para inversores\nPor tanto, la economía convencional otorga un papel predominante a la \nracionalidad del sujeto en detrimento de su faceta emocional, mientras que la \neconomía conductual considera que esta última tiene un papel protagonista \nen la adopción de decisiones.\nA este respecto, Daniel Kahneman en su obra Thinking, Fast and Slow (2011) \ndistingue dos sistemas de pensamiento:\n¥ El Sistema 1 (pensamiento rápido) que opera de manera rápida y \nautomática con poco o ningún esfuerzo y sin sensación de control \nvoluntario, y \n¥ El Sistema 2 (pensamiento lento) que se centra en actividades mentales \nque demandan esfuerzos, incluidos los cálculos complejos. \nLos dos sistemas interaccionan y están siempre activos. El Sistema 1 \nhace sugerencias constantemente al Sistema 2 en forma de impresiones, \nintuiciones, intenciones y sensaciones. Si cuentan con la aprobación \ndel Sistema 2, las impresiones e intuiciones se vuelven creencias y los \nimpulsos se convierten en acciones voluntarias. Generalmente, ambos \nsistemas funcionan sin complicaciones, de modo que el Sistema 2 acepta \nlas sugerencias del Sistema 1. Solo cuando el Sistema 1 encuentra alguna \ndificultad, recurre al Sistema 2 para que sugiera un procedimiento más \ndetallado y preciso que pueda resolver el problema. Este reparto del trabajo \nentre ambos sistemas minimiza el esfuerzo y optimiza la ejecución. El Sistema \n1 funciona adecuadamente, sus predicciones a corto plazo suelen ser \napropiadas y sus respuestas iniciales son rápidas y generalmente ajustadas. \nSin embargo, este sistema tiene sesgos, errores sistemáticos que es propenso \na cometer en circunstancias específicas. Por su parte, el Sistema 2 es un \nproceso lento que consume mucha energía.\n\nPsicología económica para inversores\nEn esencia, en la toma de decisiones influiría un modo de pensamiento \nbasado en las emociones e intuiciones que produce respuestas rápidas y \nautomáticas y un modo de pensamiento más racional que dirige la atención a \nlas actividades mentales que así lo demanden.\nPor tanto, intuición y razonamiento serían los dos modos de pensamiento. El \nprimero es responsable de las impresiones y juicios rápidos y el segundo es \nmucho más lento, requiere más esfuerzo y debe controlarse deliberadamente.\nLa mayoría de las decisiones diarias es realizada por el Sistema 1 con un \nresultado razonablemente bueno, exceptuando los sesgos o errores que \npuedan producirse. El Sistema 2 actúa únicamente para resolver cuestiones \ndifíciles que requieren análisis y capacidad crítica. \nEn consecuencia, las investigaciones de Kahneman demuestran que los \nhumanos no están bien descritos en el modelo de agente racional y que sus \ndecisiones están afectadas por “las veleidades del Sistema 1 y la pereza del \nSistema 2”. Aunque la intuición o el Sistema 1 es muy eficiente para adoptar \ndecisiones complicadas, sus resultados no son siempre correctos. Esto se \ndebe a la existencia de los sesgos, es decir, a ciertos trucos o atajos mentales \n(también llamados heurísticos) que ayudan a simplificar la gran cantidad \nde procesos mentales que se llevan a cabo constantemente y a hacer más \nllevadera la vida diaria. \nRápido\nInstintivo\nEmocional\nAutomático\nInconsciente\nLento\nAnalítico\nEstructurado\nLógico\nConsciente\n Sistema 1\n Sistema 2\n\nPsicología económica para inversores\nA diferencia de la teoría \neconómica convencional que \nconsidera que el proceso \nde toma de decisiones está \nbasado en el análisis y \ncálculo cuidadosos de todas \nlas opciones disponibles, la \neconomía conductual considera \nque las emociones y la intuición \ntienen un papel fundamental en \neste proceso.\n\nPsicología económica para inversores\n2. Sesgos en la toma de decisiones de inversión\nLas personas no siempre realizan elecciones de una manera racional y crítica. \nDe hecho, la mayoría de las decisiones se toma siguiendo procesos intuitivos \ny automáticos en vez de procesos analíticos y controlados. Este modo de \npensar rápido e intuitivo está sometido a la influencia de los sesgos que llevan \na las personas a adoptar decisiones que son previsiblemente equivocadas. En \nel ámbito de la toma de decisiones de inversión, los sesgos más comunes son \nlos siguientes:\n1. Exceso de confianza. Es la tendencia a sobreestimar los conocimientos y \njuicios subjetivos y considerarlos certeros. A la hora de adoptar decisiones \ny realizar pronósticos, se sobrevaloran los conocimientos y la experiencia \npersonal sin tener en cuenta la diferencia entre lo que se sabe realmente \ny lo que se cree saber. El exceso de confianza puede llevar al inversor a \nconsiderar que la probabilidad de que su inversión fracase es menor de lo \nque realmente es. El inversor sobreconfiado infravalora los riesgos de su \ninversión y sobreestima las ganancias esperadas de la misma. \n2. Ilusión de control. Es la tendencia a sobreestimar que se dispone del \ncontrol o de la posibilidad de influir en algo sobre lo que objetivamente no \nse tiene ningún control. Este sesgo puede llevar a que se asuma un nivel \nde riesgo superior al adecuado al confiar en que se controlan los vaivenes \ndel mercado gracias a los análisis realizados y la información de la que se \ndispone.\n3. Confirmación. Consiste en interpretar la información recibida o buscar \ninformaciones nuevas de manera que corroboren convicciones o ideas \nprevias. De esta forma, los inversores buscan información de modo \nselectivo para respaldar sus opiniones en lugar de buscar opiniones o \ninformes críticos con estas, con el consiguiente riesgo de no realizar una \ninversión adecuada para ellos.\n\nPsicología económica para inversores\n4. Anclaje. Es la predisposición a dar más peso a la información obtenida \nen primer lugar que a una información nueva que la contradice. Su \ndenominación se debe a que esas ideas previas en ocasiones suponen \nverdaderas anclas difíciles de soltar. En el mundo de la inversión se aprecia \ncon frecuencia este sesgo, por ejemplo, cuando se presenta en primer \nlugar la rentabilidad de un producto de inversión, y ya no se consideran \notros datos no tan positivos como los riesgos asociados, o se toma como \nreferencia de la evolución de una acción el precio que esta tuvo en el \npasado. \n5. Autoridad. Es la tendencia a sobreestimar las opiniones de determinadas \npersonas por el mero hecho de ser quienes son y sin someterlas a \nun enjuiciamiento previo. Puede suceder que se realice una inversión \núnicamente porque la recomienda un familiar o un amigo sin realizar ningún \nanálisis adicional y sin tener en cuenta las necesidades y el perfil de riesgo \npropios.\n\nPsicología económica para inversores\n6. Efecto halo. Es la predisposición a enjuiciar a una persona o institución \nsobre la base de una única cualidad positiva o negativa que hace sombra \na todas las demás. Es un sesgo muy frecuente en el ámbito de la inversión, \nde manera que se tiende a calificar un producto financiero como bueno o \nmalo tomando como referencia un único dato, por ejemplo, los resultados \nde la empresa o la popularidad del comercializador o gestor del producto \nfinanciero en cuestión, sin considerar que ese producto financiero puede \nno ser adecuado para el objetivo de inversión pretendido o para el perfil de \nriesgo propio.\n7. Prueba social. Es la tendencia a imitar las acciones que realizan otras \npersonas bajo la creencia de que se está adoptando el comportamiento \ncorrecto. Este sesgo se da en situaciones en las que el sujeto no tiene una \nidea definida de cómo comportarse y se deja guiar por las conductas de \notros, asumiendo que tienen más conocimiento. En la toma de decisiones \nde inversión, el inversor podría verse arrastrado por las decisiones de otras \npersonas y realizar inversiones que no le favorecen únicamente porque \notros lo hacen.\n8. Descuento hiperbólico. Es la propensión a elegir recompensas más \npequeñas e inmediatas frente a recompensas mayores y alejadas en \nel tiempo. Se debe a que la inmediatez de las recompensas tiene un \ngran poder de atracción. El descuento hiperbólico puede llevar a que el \ninversor deshaga una inversión pensada a largo plazo y adecuada para su \nperfil debido a una evolución eventualmente atractiva de los mercados \no la aparición de productos financieros más rentables, alterando así los \nobjetivos iniciales y conllevando costes y riesgos asociados.\n9. Aversión a las pérdidas. Este sesgo hace referencia a la tendencia a \nconsiderar que las pérdidas pesan más que las ganancias. Es decir, el \nmiedo a perder algo supone un incentivo mayor que la posibilidad de \nganar algo de valor semejante. A la hora de invertir, puede suceder que, \ncon tal de no incurrir en pérdidas, se mantenga una inversión con mínimas \nperspectivas de recuperación y se acabe perdiendo todo lo invertido.\n\nPsicología económica para inversores\nAsimismo, este sesgo puede derivar en el denominado efecto de \nmiopía que es especialmente perjudicial para inversores a largo plazo \ny que hace que estos evalúen continuamente el valor de su cartera y \nsobrerreaccionen a noticias y eventos que se producen en el corto plazo. \nLa miopía hace que el inversor pierda la perspectiva de su inversión y de \nlos sucesos que la afectan.\n10. Statu quo. Este sesgo implica que se tome como punto de referencia la \nsituación actual y cualquier cambio con respecto a ese punto se percibe \ncomo una pérdida. \n11. Predisposición al optimismo. Se trata de la tendencia a sobreestimar \nla probabilidad de experimentar situaciones positivas y subestimar las \nposibilidades de experimentar situaciones negativas. En definitiva, pesa \nmás el optimismo que el realismo.\n12. Falacia del coste hundido. Es el sesgo que lleva a mantener una inversión \nque ha generado o está generando pérdidas ante el temor a perder lo que \nya se ha invertido.\n\nPsicología económica para inversores\nAunque los sesgos anteriormente enumerados pueden afectar a diversos \námbitos, cobran especial relevancia en el ámbito de los mercados \nfinancieros por las siguientes razones:\n¥ La mayoría de los consumidores consideran que los productos financieros \nson complejos. La adopción de decisiones financieras puede ser difícil \ny consumir mucho tiempo. Por este motivo, los consumidores pueden \nadolecer de falta de motivación para dedicar tiempo y esfuerzo a tomar \nuna decisión debidamente informada sobre sus productos financieros. \nAsimismo, debido a la complejidad inherente a dichos productos, al poco \ninterés que despiertan en la mayoría de las personas y a las propias \nlimitaciones cognitivas de estas, los conceptos y rasgos asociados a los \nproductos financieros pueden resultar difíciles de entender.\n¥ La mayoría de las decisiones financieras requiere asumir un cierto grado \nde riesgo e incertidumbre. \n¥ Muchas decisiones financieras son emocionales. La adopción de \ndecisiones financieras puede estar dominada en numerosas ocasiones \npor emociones tales como la ansiedad, el miedo a la pérdida, el exceso de \noptimismo o un estado de sobreexcitación.\n\nPsicología económica para inversores\nIV. Fases de la toma de \ndecisiones de inversión\nLa toma de decisiones de inversión es un proceso dinámico y complejo que \npuede estructurarse en tres fases o momentos, no necesariamente lineales, \nen los que el inversor entra en contacto con algún aspecto del producto \nde inversión o de la institución que lo comercializa, creándose una primera \nimpresión sobre ambos. \nEn esos tres momentos juegan un papel muy importante las emociones, el \npensamiento y el lenguaje, que son los elementos clave para la adopción \nde decisiones de cualquier tipo. Asimismo, en cada una de las fases se dan \ndeterminados sesgos de comportamiento que es necesario que el inversor \nconozca para aminorar sus consecuencias. Los tres momentos son:\nBúsqueda de información. El primer momento en que el inversor tiene \ncontacto con un producto de inversión o la entidad que lo comercializa \nse produce cuando busca activamente información sobre los mismos. \nEste momento puede materializarse en una búsqueda por internet, la \nvisita a la entidad, un anuncio publicitario o el consejo o la conversación \ncon alguna persona y el inversor puede verse claramente influido por \naspectos como los comentarios de foros, redes sociales, la atención al \ncliente o la publicidad entre otros.\nLos sesgos más habituales en esta fase son el sesgo de confirmación, \nel de anclaje, el de autoridad, el de descuento hiperbólico, el exceso de \nconfianza, el efecto halo y la prueba social. El principal riesgo derivado \nde ello es que el inversor procese la información recibida sobre el \nproducto o la entidad de manera sesgada y esto determine su decisión \nsin haber tenido en cuenta otros datos que pudieran ser relevantes. \nSelección y contratación del producto. En este momento, el inversor se \nenfrenta al producto o la entidad seleccionada. En esta fase, el inversor \nsigue condicionado por los sesgos mencionados en la etapa anterior y a \nellos se une el sesgo de aversión a las pérdidas y de ilusión de control.\n\nPsicología económica para inversores\nAsimismo, debido a que el comportamiento del ser humano está \ncondicionado por el sesgo de aversión a las pérdidas y el de descuento \nhiperbólico, en esta etapa tiene mucha importancia la manera en que \nse presenta la información. El inversor tomará una decisión en función \nde cómo se le presenten las opciones. No responderá igual ante la \nprobabilidad de ganar dinero que ante la de perderlo.\nNumerosos estudios demuestran que ante la opción de ganar 500 euros \ncon seguridad o la opción de ganar 1000 con un 50% de probabilidad, \nla mayoría de los sujetos de los estudios eligen la opción de los 500 \neuros. Sin embargo si las opciones son perder 500 euros con seguridad \no perder 1000 con un 50% de probabilidad, los sujetos prefieren correr \nel riesgo de perder 500 euros adicionales. El valor esperado en ambas \nopciones es el mismo, pero la disposición es diferente en función de si lo \nque está en juego son ganancias o pérdidas. \nSeguimiento del producto. Tras la contratación del producto, el \nsiguiente momento importante para el inversor es vigilar su evolución. \nEn esta fase, los principales sesgos que condicionan al inversor son el \nsesgo del descuento hiperbólico, el de statu quo y el de la falacia del \ncoste hundido. \nA modo de ejemplo, el descuento hiperbólico puede llevar a que el \ninversor deshaga una inversión pensada a largo plazo y adecuada \npara su perfil debido a una evolución eventualmente atractiva de \nlos mercados o la aparición de productos financieros más rentables, \nalterando así los objetivos iniciales y conllevando costes y riesgos \nasociados. Asimismo, el inversor puede incurrir en la falacia del coste \nhundido, es decir, mantener una inversión con pérdidas continuas y sin \nposibilidad de recuperación y aun así conservar dicha inversión por no \ntener la sensación de haber perdido el dinero, en vez de deshacer la \ninversión para no seguir perdiendo más dinero en un futuro.\n\nPsicología económica para inversores\nFases de la toma de \ndecisiones de inversión\nSesgo\nBÚSQUEDA DE INFORMACIÓN\n• \nSesgo de confirmación\n• \nSesgo de anclaje\n• \nSesgo de autoridad\n• \nSesgo de descuento hiperbólico\n• \nSesgo de exceso de confianza\n• \nEfecto halo \n• \nPrueba social\nSELECCIÓN Y CONTRATACIÓN DEL PRODUCTO\n• \nSesgo de confirmación\n• \nSesgo de autoridad\n• \nSesgo de descuento hiperbólico\n• \nSesgo de exceso de confianza\n• \nEfecto halo \n• \nPrueba social\n• \nSesgo de aversión a las pérdidas\n• \nIlusión de control \nSEGUIMIENTO DEL PRODUCTO\n• \nSesgo del descuento hiperbólico\n• \nStatu quo\n• \nFalacia del coste hundido\nA continuación, se recoge a modo de resumen una tabla con los sesgos más \nhabituales en cada una de estas etapas.\n\nPsicología económica para inversores\nV. Mitigación de los sesgos \ncognitivos que afectan \nal proceso de toma de \ndecisiones de inversión\nLos sesgos a los que se ve sometido el inversor a la hora de tomar decisiones \nde inversión y los consiguientes riesgos asociados a ellos no pueden hacerse \ndesaparecer, pero sí pueden mitigarse en gran medida (debiasing). \nLa mitigación de los sesgos abarca una amplia variedad de técnicas, \nprocedimientos e intervenciones, que pueden implementarse a nivel personal \ne institucional, y que están diseñados para eliminar o reducir los errores, \ndistorsiones u otras percepciones erróneas que se generan en el proceso de \npensamiento y en la adopción de decisiones. \nEn este sentido, la propia configuración del cerebro hace que se produzcan \nerrores de pensamiento sistemáticos. Las principales causas de estos \nerrores se hallan en la interacción de los dos sistemas de pensamiento antes \nmencionados que generan un pensamiento estrecho y enmarcado en un \ndeterminado contexto y que da lugar a una toma de decisiones sobre la base \nde informaciones parciales y sesgadas. \nEstos errores generan una brecha entre la manera en que se forja \nel pensamiento y la forma en que sería deseable que se forjara. \nLa mitigación de los sesgos puede contribuir en gran medida a \nreducir esa brecha.\n\nPsicología económica para inversores\nEl proceso de mitigación de sesgos se desarrolla de la siguiente manera1 :\nEn el siguiente apartado se recogen las estrategias de mitigación que pueden \nadoptarse para aminorar los efectos de los sesgos cognitivos.\n1. \nVéase Mental contamination and mental correction: unwanted influences on judgments \nand evaluations. Wilson TD, Brekke N.Psychol Bull. 1994;116:117–42\nSe desencadena el sesgo\nSe toma conciencia del sesgo desencadenado\nSe decide corregir el sesgo\nSe toma conciencia de la magnitud del sesgo y \nse adopta la técnica de mitigación adecuada\nSe mitiga el sesgo de manera exitosa\nSe toma la decisión óptima\n\nPsicología económica para inversores\nVI. Estrategias de \nmitigación de los sesgos \ncognitivos \nLas técnicas de mitigación son variadas y, según el objetivo pretendido, \npueden clasificarse de la siguiente manera:\n¥ Técnicas centradas en la provisión de formación para adoptar una \ndecisión.\n¥ Técnicas cognitivas destinadas a interpretar de manera distinta los \nelementos que intervienen en la toma de una decisión.\n1. Técnicas centradas en la adquisición de \nformación para tomar una decisión\nUna manera de evitar los sesgos en la adopción de decisiones es facilitar \na la persona implicada las reglas y principios adecuados para adoptarla. \nEn este sentido, la formación marca una diferencia a la hora de tomar una \ndecisión. En el ámbito financiero, es probable que las personas con extensos \nconocimientos en economía los apliquen a la hora de tomar una decisión \nfinanciera y mitiguen estos sesgos.\nSin embargo, además de tener estos conocimientos es necesario saber \nidentificar las situaciones en que deben ser aplicados y tener la suficiente \nmotivación para hacerlo. Por ejemplo, una formación adecuada para tomar \nuna decisión determinada puede no ser suficiente ante una intuición muy \nintensa que cohíba una reflexión más profunda. \nEl tipo más efectivo de formación es la capacitación específica en la toma \nde decisiones que se realicen de inmediato y de forma reiterada. Ambos \nelementos conllevan la adquisición de experiencia y dominio en la adopción \nde decisiones concretas. El principal reto que se plantea en este ámbito es\n\nPsicología económica para inversores\nque las personas puedan retener las habilidades aprendidas y aplicarlas de \nmanera adecuada cuando la situación lo requiera, algo que precisa mucho \nentrenamiento.\nA este respecto, tal y como define la OCDE, la educación financiera debe \nentenderse como el proceso por el cual los consumidores/inversores \nfinancieros mejoran su comprensión de los productos financieros, los \nconceptos y los riesgos, y a través de información, instrucción y/o el \nasesoramiento objetivo, desarrollan las habilidades y confianza para ser más \nconscientes de los riesgos y oportunidades financieras, tomar decisiones \ninformadas, saber dónde acudir para obtener ayuda y ejercer cualquier \nacción eficaz para mejorar su bienestar económico. \nEn el ámbito de la toma de decisiones financieras, resulta \nparticularmente importante la adquisición de una adecuada \neducación financiera desde edades muy tempranas y a lo largo \nde toda la vida.\n\nPsicología económica para inversores\nEn este ámbito de la educación financiera es especialmente ventajosa la \nadquisición de conocimientos sobre la existencia de los sesgos cognitivos, el \nmomento en el que se dan, los sesgos a los que se tiene mayor propensión y \nla manera en que pueden ser mitigados. En ocasiones, el mero conocimiento \nde que existen estos sesgos puede llevar a mitigarlos2 . En otros casos, la \nmitigación implica necesariamente un conocimiento profundo de uno mismo \nque debe combinarse con la observación y el entrenamiento constantes para \natemperar los sesgos. Más adelante, se describen algunas técnicas cognitivas \npara realizar este entrenamiento.\nLa adquisición de una adecuada formación constituye una técnica \nbásica de mitigación de los sesgos a la que ha de unirse la práctica \nrecurrente, la identificación de las situaciones en las que dicha \nformación debe ser aplicada y la motivación para ello. En el ámbito \nfinanciero dicha formación abarca no solo la adquisición de \nconocimientos relacionados con este entorno y el entrenamiento \nen las habilidades necesarias para adoptar decisiones financieras \ncorrectas, sino también la toma de conciencia de la existencia \nde los sesgos cognitivos, los momentos en que tienen mayor \nincidencia y la manera de obviarlos.\n2. \nEs el caso del llamado sesgo de ilusión de transparencia según el cual las personas a \nmenudo creen que sus estados internos son más evidentes para los demás de lo que \nrealmente son. En el ámbito de hablar en público, por ejemplo, las personas que se ponen \nnerviosas al dar un discurso creen que su nerviosismo es más evidente para su audiencia \nde lo que realmente es. Sin embargo, se ha demostrado que tener conciencia de este \nsesgo puede mejorar la calidad del desempeño del orador, tanto desde la perspectiva del \nhablante como desde el punto de vista de los observadores.\nVéase The illusion of transparency and the alleviation of speech anxiety. Kenneth \nSavitskya y Thomas Gilovich. Journal of Experimental Social Psychology. Volumen 39, \nnoviembre 2003, páginas 618-625.\n\nPsicología económica para inversores\n2. Técnicas cognitivas destinadas a \ninterpretar de manera distinta los elementos \nque intervienen en la toma de una decisión\nLas técnicas cognitivas son las actividades y procesos mentales que realizan \nlos sujetos de manera consciente para comprender el mundo que les rodea, \naprender de su experiencia, resolver problemas o adoptar soluciones. En \ndefinitiva, se trata de acciones internamente organizadas que el individuo \nutiliza para procesar información, recordarla, transformarla, retenerla y \ntransferirla a nuevas situaciones3.\nAunque estas técnicas requieren cierto esfuerzo para su ejecución, con ellas \nse genera una mayor conciencia en los individuos de su propio proceso de \npensamiento, se enfatiza su papel como protagonistas del mismo, se les \nalienta a confiar en el razonamiento consciente, en lugar de en intuiciones \nsubconscientes, y se les ayuda a identificar errores en la lógica utilizada. \nA continuación se exponen algunas de las técnicas que pueden resultar más \nútiles en la toma de decisiones de inversión. \n• Generar alternativas.\nCon carácter general, es conocida la utilidad de analizar los problemas \ndesde múltiples perspectivas. Sin embargo, habitualmente no se recurre \na esta técnica a la hora de adoptar decisiones. \nAunque gran parte de la investigación sobre toma de decisiones se \nha centrado en si las personas adoptan decisiones óptimas dado un \nconjunto fijo de opciones, lo cierto es que tener un buen conjunto de \nalternativas entre las cuales elegir es al menos tan importante como \nelegir correctamente. \n3. \nDerry, S. y Murphy, D. (1986) Designing systems that train learning ability: From theory to \npractice. Review of Educational Research.\n\nPsicología económica para inversores\nEn el ámbito de la toma de \ndecisiones financieras, es \nimportante buscar alternativas \na la inversión pretendida y \nsopesar los pros y contras de las \ndistintas opciones.\n\nPsicología económica para inversores\n• Atemperar el optimismo o pensar lo contrario. Análisis \npremortem.\nUna tendencia habitual en las personas es la predisposición al optimismo. \nEste optimismo se centra en la apreciación del ámbito personal, \nprincipalmente en la consideración de uno mismo, en las consecuencias \nde las decisiones que adopta o en el futuro que le espera. Se trata de un \nsesgo cognitivo más que hace que los sujetos subestimen la posibilidad \nde que les ocurra un evento negativo. \nEn el ámbito de la toma de decisiones financieras, la tendencia al \noptimismo tiene un papel muy importante. Un exceso de optimismo \npuede alterar la capacidad de crítica a la hora de elegir un producto en \nel que invertir, ignorando informaciones negativas sobre ese producto u \nobviando la posibilidad de perder la inversión. \nUna solución a la recurrencia de este sesgo es simplemente “pensar lo \ncontrario” mediante la articulación de una serie de razones por las que \nuna decisión inicial podría estar equivocada o fallar.\nUna evolución de esta solución es la prospectiva retrospectiva \n(prospective hindsight) o análisis premortem que consiste en que el \nsujeto se ubica mentalmente en el futuro y piensa que su decisión ha \nfracasado. Ante un fracaso pasado, aunque solo sea imaginario, las \npersonas tienden a identificar más fácilmente las posibles causas de ello \nque si lo intentan hacer desde el momento presente.\nEllo se debe a que al ser humano le resulta más sencillo explicar lo que ha\n\nPsicología económica para inversores\nEl optimismo es positivo, pero su exceso puede acarrear \nconsecuencias negativas para su inversión al generar expectativas \nirreales respecto a la misma e impedir visualizar los riesgos que \npueda llevar asociados. Para evitar el exceso de optimismo, piense \nlo contrario y considere que su inversión puede fracasar y las \ncausas por las que puede hacerlo. \npasado una vez que ya ha sucedido que realizar una previsión de lo que \npuede ocurrir. \nAsimismo, con esta técnica del análisis premortem se saca provecho \nde otro sesgo cognitivo que es el llamado sesgo de retrospectiva y que \nsucede cuando, una vez que se sabe lo que ha ocurrido, se tiende a \nmodificar el recuerdo de la opinión previa a que ocurrieran los hechos, \nen favor del resultado final4. Se crea así un falso recuerdo en el que los \nindividuos piensan que conocían la solución antes de que esta ocurriera.\n• Estandarizar el proceso de decisión. Proceso de inversión y \nlistas de comprobación.\nUna manera de adoptar decisiones es hacerlo de manera estandarizada \npor medio del diseño del adecuado procedimiento. Mediante la \nincorporación a este procedimiento de las técnicas de mitigación de \nsesgos más convenientes, se puede llegar a desarrollar un proceso \nóptimo de toma de decisiones.\nEn el ámbito de la adopción de decisiones financieras, y partiendo de las \nfases del proceso de toma de decisiones antes mencionadas y de los \nsesgos en los que cada inversor incurre más frecuentemente, es posible \ndiseñar un proceso de inversión propio que conduzca a decisiones en \ngran medida exentas de riesgos. \n4. \nBandrés Moya, Fernando; Delgado Bueno, Santiago (2010). Biomedicina y derecho \nsanitario.\n\nPsicología económica para inversores\nUna manera sencilla de diseñar este proceso es recurrir, con alguna \nmodificación, a las clásicas cinco W5 del periodismo: en qué se quiere \ninvertir, por qué se quiere invertir, cómo se quiere invertir, cuánto se \ndesea invertir, cuándo se desea realizar la inversión y por cuánto tiempo. \nEste sencillo ejercicio incita necesariamente a la reflexión antes de \nadoptar una decisión y, por tanto, contribuye a aminorar el influjo de los \nsesgos. \nOtra manera de estandarizar el proceso de toma de decisiones, \naplicable también a las de ámbito financiero, es recurrir a las listas de \ncomprobación. Este recurso recoge los pasos mínimos necesarios para \nrealizar una determinada operación, los hace explícitos y evita errores. \nLas listas de comprobación no solo ofrecen la posibilidad de verificación, \nsino que también inculcan cierta disciplina para conseguir el mayor \nrendimiento al tiempo que se aminoran los errores. Aunque esta técnica \ntiene su origen en el dominio de la aviación, se ha extendido, dada su \nsimplicidad y su eficacia, a otros ámbitos como el de la medicina o la \nconstrucción.\nLa lista de comprobación ayuda a ser todo lo racional que es posible \ndurante cada una de las fases del proceso y garantiza que se dispone \nde la información necesaria en el momento preciso y que se está siendo \nsistemático a la hora de tomar decisiones.\nEn el ámbito de la inversión, una lista de comprobación se puede \nconcretar en una enumeración de puntos a verificar en forma de \npreguntas que se relacionan con el producto de inversión objeto de \nestudio y que ayudarán a dilucidar si se debe comprar o no dicho \nproducto. Estas listas son muy personales, su elaboración debe basarse \nen los errores cometidos en el pasado y es recomendable que sean muy \nbreves. Asimismo, no es conveniente que sean estáticas, sino que deben \nincluirse mejoras a medida que se vaya aprendiendo con la práctica.\n5. \nQué (What), quién (Who), dónde (Where), cuándo (When) y por qué (Why).\n\nPsicología económica para inversores\nUn ejemplo de una sencilla lista de comprobación sería el siguiente: \n¿He leído detenidamente toda la información del producto?\n¿La información es completa?\n¿Entiendo las características básicas del producto?\n¿Sé en lo que estoy invirtiendo?\n¿Conozco los riesgos?\n¿El producto encaja con mi perfil inversor?\n¿El horizonte temporal de la inversión es acorde con mi perfil inversor?\n•Identificar las condiciones adecuadas para el proceso de toma \nde decisiones.\nPara evitar las decisiones sesgadas es importante mejorar las \ncondiciones personales en las que estas se toman, de modo que el \nindividuo esté realmente preparado para adoptar una decisión. \nComo se ha mencionado anteriormente, el Sistema 2 juega un papel \ncrítico en la toma de decisiones: supervisa el juicio intuitivo y, cuando \nes necesario, lo corrige. Un individuo estará preparado para adoptar \ndecisiones cuando su Sistema 2 es capaz de realizar dichas funciones. \nFrente a la complejidad de la adopción de determinadas \ndecisiones, la sistematización del proceso es una buena opción. \nLa ventaja de ello radica en que es posible mitigar los errores \nque sistemáticamente acaecen en este proceso y que, por tanto, \nson predecibles. Al igual que el resto de técnicas cognitivas, la \nsistematización del proceso de toma de decisiones requiere \nentrenamiento y tiempo para perfeccionarlo.\n\nPsicología económica para inversores\nLos factores que determinan si una persona está preparada o no para \ntomar una decisión van desde el cronotipo6 del sujeto o el nivel de \nfatiga y distracción hasta el hecho de estar enfadado, hambriento o \nsomnoliento. Estos condicionantes, entre otros, limitan temporalmente \nla capacidad de supervisar las decisiones y advertir los posibles errores \nen las mismas, lo que conlleva que la atención se dirija a la búsqueda de \nsoluciones rápidas y una mayor confianza en la intuición. Es importante \nser consciente de que se trata de factores limitantes de la capacidad \ncognitiva y, por tanto, se debe evitar tomar decisiones importantes \ncuando se esté bajo el influjo de los mismos. \nEs importante conocerse a sí mismo y detectar aquellas \nsituaciones o factores que puedan afectar negativamente al \nproceso de toma de decisiones de inversión. Evite adoptar \neste tipo de decisiones si presenta un estado anímico o \nfisiológico alterado.\n6. \nRitmo circadiano interno de un individuo que influye en su patrón de sueño y actividad \nen un periodo de 24 horas.\n\nPsicología económica para inversores\nVII. Recomendaciones \nfinales\n¥ Es importante la adquisición de una adecuada educación financiera \ndesde edades muy tempranas y a lo largo de toda la vida. En este \ncontexto específico, además de contar con una educación financiera \napropiada, resulta particularmente ventajoso conocer qué son los sesgos \nconductuales, cuándo se producen y las técnicas para evitarlos.\n¥ Antes de adoptar una decisión, es recomendable pensar en opciones \nalternativas y sopesar los pros y contras de cada una de ellas. Habitúese a \nbuscar, demandar y leer de manera crítica y con suficiente antelación toda \nla información oficial que le debe suministrar su entidad para ayudarle a \ntomar decisiones de inversión fundadas.\n¥ El ser humano tiene una gran tendencia al optimismo. Por esta razón y \nantes de adoptar una decisión de inversión es conveniente reflexionar \nsobre la posibilidad de que esta no resulte según lo deseado.\n¥ Es aconsejable sistematizar el proceso de inversión. Una manera de \ndesarrollarlo es recurrir a listas de comprobación que recogen tareas o \npreguntas que conviene realizarse antes de ejecutar una determinada \noperación y ayudan así a actuar de una manera más reflexiva mitigando los \neventuales sesgos que puedan producirse.\n¥ La toma de decisiones de inversión requiere estar en las condiciones \nóptimas para ello. Es preciso ser consciente de los factores que pueden \nlimitar la capacidad de supervisar estas decisiones como el cansancio \nfísico o mental.\n\nPsicología económica para inversores\n  Bibliografía\nBandrés Moya, Fernando; Delgado Bueno, Santiago (2010). Biomedicina y derecho \nsanitario.\nCadenas, María Eugenia (2018). Del homo economicus al homo humanus. Boletín de la \nCNMV, trimestre I. \nDerry, S. y Murphy, D. (1986) Designing systems that train learning ability: From theory to \npractice. Review of Educational Research.\nDobelli, Rolf. (2016) Die Kuntst des klaren Denkens.\nKahneman, Daniel (2003), «Maps of bounded rationality: Psychology for Behavioral \nEconomics», The American Economic Review, 93(5), págs. 1449-1475. \nKahneman, Daniel (2011), Thinking, fast and slow, Nueva York, Farrar, Straus and Giroux.\nKenneth Savitskya y Thomas Gilovich. The illusion of transparency and the alleviation \nof speech anxiety. Journal of Experimental Social Psychology. Volumen 39, noviembre \n2003, páginas 618-625.\nJack B. Soll, Katherine L. Milkman, and John W. Payne (2015) A user’s guide to debiasing. \nThe Wiley Blackwell Handbook of Judgment and Decision Making, II.\nStanovich, K. y West, R. (2000), Individual Differences in Reasoning. Implications for the \nRationality Debate? Behavioral and Brain Sciences, núm. 23, Cambridge: Cambridge \nUniversity Press, págs. 645-665.\nTarde, Gabriel (1992). Psychologie économique. Essai.\nWilson TD, Brekke N.Psychol Bull (1994) Mental contamination and mental correction: \nunwanted influences on judgments and evaluations. 116:117–42.\n\nContáctanos por email\nEsta guía tiene como finalidad informar al público en general sobre distintos\naspectos relacionados con los mercados de valores. Por su naturaleza\ndivulgativa no puede constituir un soporte para posteriores interpretaciones\njurídicas, siendo la normativa en vigor la única fuente a estos efectos. \n¿Necesitas más \ninformación?\nwww.cnmv.es",
+  "text_len": 43273,
+  "num_headings": 33,
+  "metadata": {
+    "producer": "iLovePDF",
+    "creation_date": "2026-06-05",
+    "mod_date": "2026-06-05"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": true,
+  "csv_meta": {
+    "title": "Psicología económica para inversores",
+    "topic": "riesgo",
+    "subtopic": "sesgos cognitivos",
+    "difficulty": "intermedio",
+    "format": "PDF",
+    "summary": "Sesgos psicológicos que afectan a las decisiones de inversión",
+    "learning_objective": "Identificar y mitigar sesgos en decisiones de inversión"
+  },
+  "pdf_info": {
+    "n_pages": 33,
+    "body_size": 13.0,
+    "extractor": "pymupdf"
+  },
+  "deduped_from": null
+}

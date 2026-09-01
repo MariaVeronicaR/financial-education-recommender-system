@@ -1,0 +1,57 @@
+{
+  "content_id": "C104",
+  "tldr": "Esta guía explica cómo transmitir y ejecutar órdenes de valores en el mercado bursátil español. Detalla los distintos tipos de órdenes que permite el SIBE (limitadas, de mercado, por lo mejor, de elevado tamaño, al punto medio, bloques combinados y VWAP), sus condiciones de ejecución, los canales para transmitirlas y los pasos del proceso. Conocer bien estos tipos de órdenes es clave, ya que la correcta ejecución puede condicionar la rentabilidad final de la inversión.",
+  "key_points": [
+    "Una orden es el mandato que el inversor transmite a su intermediario para comprar o vender instrumentos financieros; el inversor nunca acude directamente al mercado.",
+    "La orden limitada fija un precio máximo (compra) o mínimo (venta), priorizando asegurar el precio frente a la rapidez de ejecución.",
+    "La orden de mercado se ejecuta al mejor precio disponible sin límite, dando prioridad a la ejecución inmediata aunque se pierda el control del precio.",
+    "La orden por lo mejor se ejecuta al mejor precio del momento y, si no hay volumen suficiente, la parte restante queda limitada a ese precio para evitar que 'arrastre'.",
+    "La liquidación de las operaciones bursátiles la realiza Iberclear dos días hábiles después de la negociación (D+2)."
+  ],
+  "quiz": [
+    {
+      "question": "Quieres comprar acciones asegurándote de no pagar más de 20 € por acción, aunque no te importa esperar a que aparezca contrapartida. ¿Qué tipo de orden deberías utilizar?",
+      "options": [
+        "Una orden de mercado",
+        "Una orden limitada",
+        "Una orden por lo mejor",
+        "Una orden al punto medio"
+      ],
+      "correct_index": 1,
+      "explanation": "La orden limitada fija un precio máximo para la compra (o mínimo para la venta) y solo se ejecuta a ese precio o mejor, priorizando asegurar el precio frente a la rapidez.",
+      "concept_id": "C12"
+    },
+    {
+      "question": "¿Cuál es la principal diferencia entre una orden de mercado y una orden 'por lo mejor'?",
+      "options": [
+        "La orden de mercado fija un precio límite y la por lo mejor no",
+        "La orden por lo mejor solo puede usarse en subastas",
+        "La orden de mercado se ejecuta al mejor precio sin límite, mientras que la por lo mejor limita la parte no ejecutada al mejor precio del momento para que no arrastre",
+        "La orden por lo mejor garantiza un precio siempre más favorable que el de mercado"
+      ],
+      "correct_index": 2,
+      "explanation": "La orden de mercado se ejecuta al mejor precio disponible sin límite y puede 'arrastrar' a varios precios; la por lo mejor limita la parte no satisfecha al mejor precio inicial para controlar la ejecución.",
+      "concept_id": "C12"
+    },
+    {
+      "question": "Si introduces una orden sin especificar precio ni plazo de vigencia, ¿qué se entiende por defecto?",
+      "options": [
+        "Que es una orden limitada válida por 90 días",
+        "Que es una orden de mercado válida solo hasta el cierre de la sesión en curso",
+        "Que es una orden por lo mejor válida por 30 días",
+        "Que es una orden al punto medio válida por un día"
+      ],
+      "correct_index": 1,
+      "explanation": "Si el cliente no especifica precio, la orden se entiende como de mercado y permanece vigente hasta el cierre de la sesión en curso.",
+      "concept_id": "C12"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5124,
+    "input_tokens": 9851,
+    "output_tokens": 980
+  }
+}

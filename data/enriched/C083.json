@@ -1,0 +1,58 @@
+{
+  "content_id": "C083",
+  "tldr": "La CNMV publica una guía que establece un marco de competencias básicas para inversores minoristas, basado en los trabajos de IOSCO. El marco cubre siete áreas de contenido (conceptos de inversión, productos, compraventa, seguimiento, derechos, sesgos de comportamiento y fraudes), cada una con tres dimensiones: conocimientos, habilidades/comportamientos y actitudes/motivaciones. El objetivo es que el inversor tome decisiones de inversión más conscientes e informadas.",
+  "key_points": [
+    "El marco de competencias para inversores se estructura en siete áreas de contenido y tres dimensiones: conocimientos, habilidades y comportamientos, y actitudes y motivaciones.",
+    "Antes de invertir es esencial distinguir entre ahorro e inversión, entender la relación entre riesgo y rentabilidad potencial y el impacto de la inflación y el interés compuesto a largo plazo.",
+    "La diversificación y la adecuación de los productos al perfil y tolerancia al riesgo del inversor son principios básicos para evitar resultados no deseados.",
+    "El rendimiento pasado de una inversión no garantiza su rendimiento futuro, y es clave investigar y comparar productos, sus comisiones y riesgos.",
+    "Los inversores deben conocer sus derechos y responsabilidades, detectar sesgos emocionales y cognitivos, y desconfiar de ofertas 'demasiado buenas para ser verdad' para evitar estafas y fraudes.",
+    "Es necesario realizar un seguimiento periódico de las inversiones y reequilibrar la cartera si ya no se ajusta al perfil de riesgo y a los objetivos del inversor."
+  ],
+  "quiz": [
+    {
+      "question": "Según el marco de competencias para inversores, ¿qué relación debe entender un inversor antes de elegir un producto de inversión?",
+      "options": [
+        "Que a mayor rentabilidad potencial esperada, mayor riesgo potencial asumido",
+        "Que los productos con más riesgo siempre garantizan mayor rentabilidad",
+        "Que el riesgo y la rentabilidad son independientes entre sí",
+        "Que la rentabilidad pasada garantiza la rentabilidad futura"
+      ],
+      "correct_index": 0,
+      "explanation": "El marco insiste en entender la relación entre riesgo y rentabilidad potencial para elegir el producto adecuado al perfil, y advierte que el rendimiento pasado no es indicación del futuro.",
+      "concept_id": "C13"
+    },
+    {
+      "question": "¿Cuál de las siguientes es una habilidad o comportamiento recomendado por la guía para el seguimiento de las inversiones?",
+      "options": [
+        "Reequilibrar la cartera si ya no se ajusta a la tolerancia al riesgo o a los objetivos actuales",
+        "Revisar la cartera solo una vez al año sin considerar los objetivos",
+        "Mantener siempre las mismas inversiones sin importar los cambios de perfil",
+        "Delegar toda la gestión sin revisar la documentación"
+      ],
+      "correct_index": 0,
+      "explanation": "El marco señala que hay que revisar periódicamente el rendimiento y reequilibrar la cartera cuando deje de ajustarse al nivel de tolerancia al riesgo o a los objetivos de inversión actuales.",
+      "concept_id": "C14"
+    },
+    {
+      "question": "Según la guía, ante una oferta de inversión que parece 'demasiado buena para ser verdad', ¿qué actitud se recomienda al inversor?",
+      "options": [
+        "Cuestionarla, ya que las inversiones de bajo riesgo y alta rentabilidad no existen",
+        "Invertir rápidamente antes de que desaparezca la oportunidad",
+        "Aceptarla porque el rendimiento pasado lo confirma",
+        "Delegar la decisión sin hacer ninguna verificación"
+      ],
+      "correct_index": 0,
+      "explanation": "El marco recomienda tener la confianza para cuestionar las ofertas que parecen demasiado buenas para ser verdad y reconocer que las inversiones de bajo riesgo y alta rentabilidad no existen, para evitar fraudes.",
+      "concept_id": "C15"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 6709,
+    "input_tokens": 5692,
+    "output_tokens": 1161
+  }
+}

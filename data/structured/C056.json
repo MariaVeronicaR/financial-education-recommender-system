@@ -1,0 +1,337 @@
+{
+  "content_id": "C056",
+  "title": "Los criptoactivos pueden ser arriesgados y tu protección, si la hay, puede ser limitada",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "ADVERTENCIA SOBRE LOS CRIPTOACTIVOS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los criptoactivos pueden ser arriesgados y tu protección, si la hay, puede ser limitada",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "No todos los criptoactivos y los servicios de criptoactivos son iguales ni están regulados de la misma manera (si es que lo están). Aunque un nuevo reglamento conocido como «MiCA» (Reglamento relativo a los mercados de criptoactivos) ya está en vigor en la UE y regula las actividades relacionadas con determinados criptoactivos, la mayoría de los criptoactivos suelen ser volátiles y conllevar riesgos elevados. Por tanto, los criptoactivos pueden no ser adecuados para todos los consumidores como medio de inversión, pago o intercambio.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Dependiendo del tipo de criptoactivo y del proveedor, es posible que te expongas a mayores riesgos y que solo tengas derechos de protección limitados o no tengas ninguno (estos derechos incluyen, por ejemplo, el acceso a información exhaustiva o procedimientos transparentes de tramitación de reclamaciones). En particular, este es el caso si inviertes en criptoactivos, o utilizas servicios de criptoactivos, ofrecidos por empresas establecidas fuera de la UE y por proveedores no regulados en el Reglamento MiCA.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Para comprender mejor los diferentes tipos de criptoactivos y proveedores con los que puedes encontrarte, echa un vistazo a la ficha informativa titulada Los criptoactivos explicados: qué significa el Reglamento MiCA para ti como consumidor (añadir enlace).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "QUÉ DEBES PREGUNTARTE Y COMPROBAR ANTES DE INVERTIR EN CRIPTOACTIVOS"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "¿Soy consciente de los riesgos que asumo al invertir en, o utilizar, criptoactivos?"
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Antes de invertir, tómate el tiempo necesario para informarte sobre los productos o servicios que te interesan.",
+        "Al igual que con cualquier inversión, sopesa si vale la pena asumir esos riesgos teniendo en cuenta tus propios objetivos y situación financiera."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "¿Están las empresas o entidades con las que estoy considerando tratar autorizadas para prestar servicios de criptoactivos en la UE?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Puedes comprobar si un proveedor/emisor está autorizado en la UE consultando:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "El registro de la Autoridad Europea de Valores y Mercados (AEVM) (shorturl.at/zZwVI)*. El regulador financiero nacional también podrá facilitar una «lista negra» de empresas de criptoactivos no autorizadas, incluidos los proveedores de servicios. Por lo tanto, también puedes consultar su sitio web o la lista I-SCAN (iosco.org/i-scan/).",
+        "El sitio web de la propia empresa, donde podría mencionarse si está regulada o no. Ten en cuenta que, en algunos casos, las empresas pueden tener autorización únicamente para realizar una parte de sus actividades (solo algunos servicios, no todos). Por lo tanto, asegúrate de verificar también qué servicios están autorizadas a prestar."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "¿Son seguros los dispositivos que utilizo para comprar, almacenar o transferir criptoactivos y para guardar mis claves privadas?"
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Si pierdes las claves privadas de los criptoactivos, perderás el acceso y la propiedad de los mismos de manera permanente e irreversible.",
+        "Almacenar tus claves privadas de forma segura y proteger adecuadamente tus dispositivos es esencial para salvaguardar tus criptoactivos, en particular:",
+        "Asegúrate de que tu dispositivo y cualquier software relacionado con los criptoactivos estén siempre actualizados a la última versión para reducir las vulnerabilidades de seguridad.",
+        "Utiliza contraseñas seguras y únicas para cada una de tus cuentas de criptoactivos, no compartas nunca tu contraseña y evita reutilizar las mismas credenciales en diferentes plataformas. Aquí (shorturl.at/7ns3I) encontrarás algunos consejos (en inglés).",
+        "Evita acceder a tus cuentas de criptoactivos a través de redes wifi públicas o no seguras."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Cuáles son los principales riesgos a los que te puedes exponer?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fluctuaciones extremas de precios:"
+    },
+    {
+      "type": "paragraph",
+      "text": "El valor de la mayoría de los criptoactivos, incluidos algunos de los regulados, puede ser muy volátil, por lo que su precio puede bajar y subir rápidamente en cortos períodos de tiempo. Puedes perder buena parte del dinero invertido o incluso todo.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Riesgos de liquidez:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los mercados de criptoactivos pueden experimentar restricciones de liquidez, lo que podría limitar tu capacidad para vender los criptoactivos al precio o en el momento que desees.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Información engañosa:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunos criptoactivos y productos relacionados se promocionan de manera agresiva, utilizando información confusa, incompleta, inexacta y, en ocasiones, deliberadamente engañosa. Debes estar atento a los riesgos de esos anuncios, especialmente en las redes sociales, donde los influencers pueden recibir incentivos para publicitar determinados criptoactivos.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Fraudes, estafas y ciberataques:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Son numerosas las iniciativas o productos relacionados con los criptoactivos que resultan ser falsos. También son frecuentes los ciberataques y las estafas. Todas estas actuaciones van dirigidas a engañarte para apropiarse ilícitamente de tus ahorros utilizando diferentes técnicas. Los defraudadores pueden usar correos electrónicos para suplantar la identidad (phishing), ingeniería social y enlaces maliciosos, en los que prometen una rentabilidad poco realista o afirman estar autorizados o regulados cuando no es el caso.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Protección limitada:"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Reglamento MiCA proporciona cierta protección al consumidor en relación con determinados tipos de criptoactivos y servicios (por ejemplo, acceso a información exhaustiva o procedimientos transparentes de tramitación de reclamaciones). Sin embargo, los derechos y la protección no son tan amplios como los aplicables a los productos financieros más tradicionales (por ejemplo, no te beneficiarás de la existencia de un fondo de garantía de inversiones). En el caso de los criptoactivos o servicios ofrecidos por empresas no reguladas en la UE, si algo sale mal, es posible que no puedas acogerte a ninguna protección o que estés menos protegido que en la UE.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Complejidad del producto:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las características y los riesgos de los criptoactivos, al igual que los productos cuyo subyacente sea un criptoactivo, pueden ser difíciles de comprender. Ten cuidado al comprar criptoactivos o productos de inversión relacionados, especialmente si no estás seguro de cómo se determina su valor y de qué riesgos conlleva.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El término «criptoactivo» se refiere a una representación digital de un valor o un derecho que puede transferirse y almacenarse electrónicamente, mediante el uso de tecnología de registro distribuido o tecnología similar.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El Reglamento de la UE relativo a los mercados de criptoactivos es plenamente aplicable desde el 30 de diciembre de 2024.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "* Debes tener en cuenta que solo las empresas autorizadas e inscritas en el registro de la AEVM están autorizadas a prestar servicios de criptoactivos en la UE en virtud del Reglamento MiCA. Sin embargo, en algunos Estados miembros se aplica un período transitorio hasta julio de 2026, por lo que algunas empresas pueden operar con arreglo a la legislación nacional hasta que obtengan la autorización MiCA. Esto significa que no te beneficiarás de ninguna protección de conformidad con el Reglamento MiCA cuando utilices los servicios de dichos proveedores hasta que expire el período transitorio y el proveedor esté autorizado en virtud de dicho Reglamento.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "También puedes consultar información detallada del período transitorio por país de la UE aquí (shorturl.at/Cs49L) (en inglés).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "LOS CRIPTOACTIVOS EXPLICADOS:"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "QUÉ SIGNIFICA EL REGLAMENTO MICA PARA TI COMO CONSUMIDOR"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Qué es un criptoactivo?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un criptoactivo es una representación digital de un valor o un derecho que puede transferirse y almacenarse electrónicamente, mediante el uso de tecnología de registro distribuido1 o tecnología similar.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ejemplos muy conocidos de criptoactivos son BTC (Bitcoin) y ETH (Ethereum), pero el mercado de criptoactivos es mucho más extenso e incluye otra gama de activos, como, por ejemplo, las denominadas «stablecoins»2, «meme coins»3 y «tokens no fungibles» (NFT, por sus siglas en inglés)4.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En la UE, el Reglamento relativo a los mercados de criptoactivos (MiCA) regula las actividades relacionadas con determinados criptoactivos. Uno de los objetivos del Reglamento MiCA es contar con normas armonizadas para los criptoactivos y los servicios de criptoactivos en toda la UE, entre otros motivos para proteger mejor a los consumidores (por ejemplo, acceso a información exhaustiva, procedimientos transparentes de tramitación de reclamaciones, etc.).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En función del tipo de criptoactivo o de los servicios de criptoactivos (regulados o no regulados) y del proveedor (por ejemplo, no autorizado o establecido fuera de la UE), es posible que te expongas a riesgos más elevados y a distintos niveles de protección. Comprender los riesgos a los que podrías estar expuesto es fundamental antes de comprar cualquier tipo de criptoactivo o utilizar cualquier servicio de criptoactivos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Véase la advertencia conjunta de las Autoridades Europeas de Supervisión para obtener más información sobre los riesgos (shorturl.at/ECtSU).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué criptoactivos están regulados en el Reglamento MiCA y cuáles no lo están"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Reglamento MiCA abarca tres tipos de criptoactivos:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Fichas de dinero electrónico (EMT, por sus siglas en inglés)5: criptoactivos que pretenden mantener un valor estable referenciándose al valor de una moneda oficial, por ejemplo, el euro o el dólar. Si tienes una EMT, tienes derecho a que el emisor te devuelva tu dinero por el valor nominal total de esa ficha en la moneda a la que está referenciada.",
+        "Fichas referenciadas a activos (ART, por sus siglas en inglés)6: criptoactivos que pretenden mantener un valor estable referenciándose a otro valor o derecho o a una combinación de estos (por ejemplo, moneda oficial, materias primas u otros activos). Puedes canjear una ART por el valor de mercado del activo o activos a los que está referenciada.",
+        "Criptoactivos distintos de EMT y ART: fichas de consumo (utility tokens)7 y «otros» criptoactivos que no sean EMT ni ART o que estén excluidos de otro modo del Reglamento MiCA."
+      ]
+    },
+    {
+      "type": "glossary",
+      "entries": [
+        {
+          "term": "FICHAS DE DINERO ELECTRÓNICO",
+          "definition": "Tipos de criptoactivos que pretenden mantener un valor estable referenciándose al valor de una moneda oficial (por ejemplo, euros, dólares, etc.). Solo las entidades de crédito o las entidades de dinero electrónico pueden ofertar al público EMT o solicitar su admisión a negociación en la UE. No conceden intereses a los titulares."
+        },
+        {
+          "term": "FICHAS REFERENCIADAS A ACTIVOS",
+          "definition": "Criptoactivos que no son EMT. Solo las entidades de crédito o los emisores autorizados según el Reglamento MiCA pueden ofertar al público ART o solicitar su admisión a negociación en la UE. Pueden referenciarse a otro activo, incluidas una o varias monedas oficiales, otros criptoactivos o una combinación de estos. No conceden intereses a los titulares."
+        },
+        {
+          "term": "FICHAS DE CONSUMO",
+          "definition": "Son un tipo de criptoactivos cuyo único propósito es proporcionar acceso a un bien o servicio ofrecido por el emisor de esta ficha."
+        },
+        {
+          "term": "TECNOLOGÍA DE REGISTRO DISTRIBUIDO (DLT, POR SUS SIGLAS EN INGLÉS)",
+          "definition": "Un registro distribuido es un registro de información, o base de datos, que se comparte a través de una red. El tipo más conocido de registro distribuido es una cadena de bloques (blockchain), llamada así porque almacena transacciones individuales en grupos o bloques, unidos entre sí en orden cronológico para formar una cadena. La tecnología de registro distribuido se utiliza para transferir diferentes tipos de activos entre un comprador y un vendedor."
+        },
+        {
+          "term": "STABLECOINS",
+          "definition": "Son criptoactivos que pretenden mantener un valor estable referenciándose a un activo (por ejemplo, una moneda fiduciaria) o a varios activos. Las stablecoins pueden no ser tan estables a lo largo del tiempo, especialmente en condiciones de tensión en los mercados."
+        },
+        {
+          "term": "MEME COINS",
+          "definition": "Son criptoactivos que llevan el nombre de tendencias, temas humorísticos o divertidos. Por lo general, se crean para que se forme una comunidad y se pueden usar en pagos entre particulares, inversiones especulativas o negociación. En muchos casos, las meme coins tienen sitios web con temas cómicos, a veces con términos sin sentido, y sus creadores y seguidores promueven el sentido de pertenencia a la comunidad para atraer a otros."
+        },
+        {
+          "term": "TOKENS NO FUNGIBLES (NFT, POR SUS SIGLAS EN INGLÉS)",
+          "definition": "Son activos digitales únicos y no fungibles almacenados en una red de registro distribuido, que incluyen arte digital y coleccionables. Los productos que son intercambiables y comercializados a los consumidores como NFT, pero que forman parte de series o colecciones, podrían no ser NFT y, por lo tanto, podrían estar regulados en el Reglamento MiCA."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Proveedores de criptoactivos con los que puedes encontrarte"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Proveedores de criptoactivos y proveedores de servicios de criptoactivos regulados en la UE:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estas empresas ofrecen a los consumidores productos y servicios que están regulados en el Reglamento MiCA, lo que incluye ART, EMT, la custodia y administración de criptoactivos, la gestión de plataformas de negociación de criptoactivos y el canje de criptoactivos (por monedas fiduciarias8 u otros criptoactivos), entre otros. Para poder prestar servicios a los consumidores en la UE, los proveedores de servicios de criptoactivos deben estar autorizados, es decir, cumplir requisitos específicos relacionados con la gobernanza, el capital, la conducta y la protección del consumidor.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Puedes comprobar si un proveedor/emisor está autorizado en la UE consultando el registro de la Autoridad Europea de Valores y Mercados (AEVM) (shorturl.at/zZwVI) y los sitios web de los supervisores financieros nacionales (CNMV, registro CASPS [shorturl.at/vJVW3], y Banco de España, registro PSAV [shorturl.at/PzdMZ] y registro de entidades [shorturl.at/HZEtT]).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Para más detalles, consulta «Qué debes preguntarte y comprobar antes de invertir en criptoactivos» en la advertencia conjunta de las AES (shorturl.at/ECtSU).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Criptoactivos y proveedores de servicios de criptoactivos no autorizados9 en la UE:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque el Reglamento MiCA ya está en vigor, es posible que te encuentres con criptoactivos y servicios de criptoactivos ofrecidos por empresas no autorizadas en la UE. Dichas empresas podrían no estar sujetas a ninguna norma que proteja al consumidor o carecer de una gobernanza adecuada, de capital o de procedimientos y controles transparentes. Por lo tanto, podrían aumentar los riesgos de fraude, mala gestión de los activos o insolvencia. Aquí están incluidos los criptoactivos y los servicios ofrecidos por empresas establecidas fuera de la UE.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Si decides hacer uso de proveedores no autorizados, ten en cuenta que puedes estar exponiéndote a riesgos significativos y tener derechos de protección limitados o ninguno. Puedes perder dinero, tener pocas posibilidades, o ninguna, de recuperar cualquier activo y quedarte sin ninguna solución en caso de que se produzca un conflicto.",
+      "links": []
+    },
+    {
+      "type": "glossary",
+      "entries": [
+        {
+          "term": "MONEDA FIDUCIARIA",
+          "definition": "La moneda fiduciaria es una moneda declarada de curso legal y emitida por un banco central como el dólar estadounidense, el euro, etc. Negociación de criptoactivos con moneda fiduciaria: se refiere a la compra, la venta o la negociación de criptomonedas con moneda fiduciaria."
+        },
+        {
+          "term": "EMPRESA NO AUTORIZADA",
+          "definition": "Todas las empresas que operan en la UE sin haber obtenido una autorización de conformidad con el Reglamento MiCA, pero no todas las empresas no autorizadas que prestan servicios en la UE son necesariamente ilegales (por ejemplo, servicios prestados por iniciativa exclusiva del cliente [reverse solicitation], servicios prestados de manera totalmente descentralizada y otros fuera del ámbito de aplicación del Reglamento MiCA)."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "El Reglamento MiCA no se aplica a los siguientes tipos de criptoactivos:"
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Criptoactivos que son únicos y no fungibles. Estos no son fácilmente intercambiables y su valor relativo con respecto a otro criptoactivo no puede identificarse fácilmente mediante la comparación con un mercado existente o activos equivalentes (por ejemplo, bienes inmuebles virtuales, nombres de dominio y elementos que requieren autenticación). Sin embargo, los denominados «tokens no fungibles» (NFT) que forman parte de una serie o colección pueden seguir estando dentro del ámbito de aplicación del Reglamento MiCA.",
+        "Tokens que no son transferibles (como puntos de programas de fidelización).",
+        "Criptoactivos que ya entran en el ámbito de aplicación de la legislación vigente en materia de servicios financieros, como los criptoactivos que pueden considerarse instrumentos financieros de conformidad con la MiFID (por ejemplo, contratos de derivados o valores negociables). Al invertir en estos activos, te beneficiarás de las normas de protección del consumidor/inversor aplicables a los activos financieros tradicionales tokenizados."
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "Si compras o vendes criptoactivos, o utilizas servicios de criptoactivos, no regulados en el Reglamento MiCA u otra legislación de la UE en materia de servicios financieros, puedes estar expuesto a riesgos significativos y tener una protección limitada o ninguna.",
+      "level": "caution"
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:15:33.637434+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 40171,
+    "input_tokens": 7225,
+    "output_tokens": 15718
+  }
+}

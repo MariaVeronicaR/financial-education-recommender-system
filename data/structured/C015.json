@@ -1,0 +1,66 @@
+{
+  "content_id": "C015",
+  "title": "Glosario - Finanzas para todos",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Glosario"
+    },
+    {
+      "type": "glossary",
+      "entries": [
+        {
+          "term": "A la par",
+          "definition": "Este término se aplica sobre todo a acciones y valores de renta fija. Un título se emite o negocia a la par cuando el precio efectivo coincide con su valor nominal. Ver VALOR NOMINAL."
+        },
+        {
+          "term": "Abono en cuenta",
+          "definition": "Es un ingreso, es decir, la anotación de una cantidad de dinero en el haber de una cuenta. Ese abono puede hacerse en efectivo, por cheque, por transferencia..."
+        },
+        {
+          "term": "Acción",
+          "definition": "Valor mobiliario que representa una parte proporcional del capital social de una sociedad. Quien tiene acciones es, por tanto, socio propietario de una empresa en proporción a su participación. El accionista es siempre el último en cobrar en caso de liquidación de la compañía (después de los trabajadores, los acreedores y los propietarios de bonos u obligaciones). Ver DIVIDENDO y DERECHO DE ASISTENCIA Y VOTO."
+        },
+        {
+          "term": "Accionista",
+          "definition": "Es el titular de acciones, el co-propietario de una empresa. Ver ACCIÓN."
+        },
+        {
+          "term": "Accionista minoritario",
+          "definition": "Término utilizado para designar al pequeño accionista en general, es decir a aquellos accionistas que tienen escasa o nula capacidad de influir en la compañía (salvo que actúen de forma agrupada)."
+        },
+        {
+          "term": "Acreedor",
+          "definition": "Persona física o jurídica a quien se le debe dinero. El acreedor ostenta un derecho de cobro o de crédito contra un deudor."
+        },
+        {
+          "term": "Activo",
+          "definition": "Desde el punto de vista de una sociedad, los activos, son el conjunto de sus bienes (inmuebles, mercaderías...) y derechos de cobro (lo que le deben)."
+        },
+        {
+          "term": "Activo fijo",
+          "definition": "También denominado inmovilizado. Está integrado por los bienes y derechos de una empresa que no están destinados a la venta, sino a asegurar su funcionamiento y continuidad. Este tipo de activo se caracteriza por su permanencia en la empresa durante un periodo largo, normalmente superior a doce meses. Estos activos se amortizan durante toda la vida del bien."
+        },
+        {
+          "term": "Activo financiero",
+          "definition": "Valor que acredita la titularidad de determinados derechos económicos (acciones, dinero en efectivo, depósitos, valores de renta fija...)."
+        },
+        {
+          "term": "Activo sin riesgo",
+          "definition": "Activo financiero con un rendimiento conocido y cierto, emitido por una entidad u organismo sobre cuya capacidad para cumplir con sus obligaciones de pago no existen dudas. Tradicionalmente, el activo sin riesgo se asocia a la deuda pública a corto plazo emitida por los países desarrollados (por ejemplo, una Letra del Tesoro)."
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:10:34.317402+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 3127,
+    "input_tokens": 2310,
+    "output_tokens": 910
+  }
+}

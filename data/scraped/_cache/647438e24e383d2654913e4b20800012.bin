@@ -1,0 +1,1919 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="LL32w2AVzk6Y8/NM18iJgmh2A8gNyTIHelxKOS9SPhBJs2aD7NHsSvk4XG7CHZ9cHmWT0duGs8g46kV+KiFu3A==" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="turbolinks-visit-control" content="reload" />
+    <meta name="turbolinks-cache-control" content="no-cache" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Prefetch DNS for external assets -->
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+    <link rel="dns-prefetch" href="//cdn.jsdeliver.net">
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+    <link rel="dns-prefetch" href="//www.google-analytics.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+
+    <link rel="alternate" hreflang="x-default" href="" />
+
+    <title>¿Cómo cuidar tu entorno personal y financiero? - Finanzas para todos</title>
+
+
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+
+<!-- OpenGraph meta tags -->
+<meta property="og:title" content="¿Cómo cuidar tu entorno personal y financiero? - Finanzas para todos" >
+<meta property="og:description" content="" />
+<meta property="og:url" content="https://www.finanzasparatodos.es/como-cuidar-tu-entorno-personal-y-financiero-banco-yo?mdrv=www.finanzasparatodos.es" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="¿Cómo cuidar tu entorno personal y financiero? - Finanzas para todos" />
+<meta name="twitter:description" content="" />
+
+
+
+    
+    
+    <link rel="icon" type="image/png" href="/system/themes/favicons/000/000/001/icon_16/favicon.png?1623999802" sizes="16x16">
+<link rel="icon" type="image/png" href="/system/themes/favicons/000/000/001/icon_32/favicon.png?1623999802" sizes="32x32">
+<link rel="icon" type="image/png" href="/system/themes/favicons/000/000/001/icon_96/favicon.png?1623999802" sizes="48x48">
+<link rel="icon" type="image/png" href="/system/themes/favicons/000/000/001/icon_96/favicon.png?1623999802" sizes="96x96">
+<link rel="icon" type="image/png" href="/system/themes/favicons/000/000/001/icon_128/favicon.png?1623999802" sizes="128x128" />
+<link rel="icon" type="image/png" href="/system/themes/favicons/000/000/001/icon_196/favicon.png?1623999802" sizes="196x196" />
+<link rel="apple-touch-icon" sizes="57x57" href="/system/themes/favicons/000/000/001/apple_57/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="114x114" href="/system/themes/favicons/000/000/001/apple_114/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="72x72" href="/system/themes/favicons/000/000/001/apple_72/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="144x144" href="/system/themes/favicons/000/000/001/apple_144/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="60x60" href="/system/themes/favicons/000/000/001/apple_60/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="120x120" href="/system/themes/favicons/000/000/001/apple_120/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="76x76" href="/system/themes/favicons/000/000/001/apple_76/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="152x152" href="/system/themes/favicons/000/000/001/apple_152/favicon.png?1623999802">
+<meta name="application-name" content=""/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="/system/themes/favicons/000/000/001/microsoft_144_144/favicon.png?1623999802" />
+<meta name="msapplication-square70x70logo" content="/system/themes/favicons/000/000/001/microsoft_70_70/favicon.png?1623999802" />
+<meta name="msapplication-square150x150logo" content="/system/themes/favicons/000/000/001/microsoft_150_150/favicon.png?1623999802" />
+<meta name="msapplication-wide310x150logo" content="/system/themes/favicons/000/000/001/microsoft_310_150/favicon.png?1623999802" />
+<meta name="msapplication-square310x310logo" content="/system/themes/favicons/000/000/001/microsoft_310_310/favicon.png?1623999802" />
+
+
+    <link rel="stylesheet" media="screen" href="/assets/bran-debb89733483192c11a3f7b9c8222fc2668ae7b3d25f0e85714df44e2eef0f93.css" />
+    <script src="/assets/bran-60b10e6d9311277f3705ea822157903aa9656b447d433a68a4c5962d54b4e2c4.js" data-turbolinks-track="reload"></script>
+    <script src="/assets/vue-a39105980ecfdd5de117fa346346b7d5d52ae2093a595756b2c8633211cc60e5.js" data-turbolinks-track="reload"></script>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css">
+    <script src="https://kit.fontawesome.com/ab5948c228.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap" rel="stylesheet">
+
+    <!-- Minified version of `es6-promise-auto` below. -->
+    <link rel="stylesheet" media="all" href="/assets/application-198f7990a1fa6c6c76c8971a0703979c681f4e053ea529e42f2fa15c481b3a57.css" />
+    <link rel="stylesheet" media="print" href="/assets/print-374cb3225461848bff5a26e6e20d7e27cb45f8938ec02215f8a83f3b832ebb73.css" />
+    <link rel="stylesheet" media="all" href="/assets/calculators/budget-8236363937c653255688bfb856f76e9425369c7c8d57af3bdf5fbbe383d4eff4.css" />
+    <script src="/assets/es6-promise.min-173deb7f35e65fb560772937033e0c20de960a3298b26aea613550bd52c1416a.js" data-turbolinks-track="reload"></script>
+    <script src="/assets/application-da106754795db4befd4f298786ba2785c5d355a713cf32ee3e10aaef5ffc24f9.js" data-turbolinks-track="reload"></script>
+
+      <link rel="stylesheet" media="all" href="/assets/vue_components/components-abd5cf45a1ab606e2b1f747e63eff4c7df3e2837051e83a72ff554c91472ccd4.css" />
+      <script src="/assets/vue_components/components-f8a1ae606e36089235ee36dd66f5bf3be1559f0d98aa67b17fca11334c18c7d1.js"></script>
+
+
+      <script type="text/javascript" data-turbolinks="false">
+        if( Cookies != undefined ) {
+          if (Cookies.get('analitica') != undefined && Cookies.get('analitica') != '') {
+            document.write("<scri" + "pt async src=https://www.googletagmanager.com/gtag/js?id=UA-16149208-1></scri" + "pt>")
+            document.write("<scri" + "pt>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-16149208-1');</scri" + "pt>");
+
+            document.write("<scri" + "pt async src=https://www.googletagmanager.com/gtag/js?id=AW-16490246036></scri" + "pt>")
+            document.write("<scri" + "pt>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'AW-16490246036');</scri" + "pt>");
+          }
+        }
+      </script>
+
+      <!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '422038013715751'); fbq('track', 'PageView');
+</script>
+
+<noscript>
+    <img height="1" width="1" style="display:none" src=https://www.facebook.com/tr?id=422038013715751&ev=PageView&noscript=1 />
+</noscript>
+<!-- End Meta Pixel Code -->
+
+    
+    
+    
+    
+    
+    <style type="text/css">
+  .c-box__herramienta .c-budget__row {
+      flex-direction: column;
+    }
+@media (min-width: 1024px) {
+ 
+ .c-box__herramienta .c-budget__row {
+        flex-direction: row;
+      }
+  }
+
+  .visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    -webkit-
+ clip-path: inset(50%);
+    clip-path: inset(50%);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width:
+ 1px;
+    white-space: nowrap;
+  }
+  .c-box__herramienta .c-budget__row {
+      flex-direction: column;
+    }
+@media (min-width: 1024px) {
+    .c-box__herramienta .c-budget__row {
+        flex-direction: row;
+      }
+  }
+ 
+  html[lang="en"] .c-header__top_der {
+    display: none; !important;
+  }
+
+  
+</style>
+    <script src="/assets/chart-fee081ed1e1d5304e4e9a79e5caf917c4bc6eddc5baaa34d37849b4eabdd4e43.js"></script>
+    <script type="text/javascript">
+      $(document).on('turbolinks:load', function(){ images_lazy_loading(); });
+    </script>
+  </head>
+
+  <body class="t-por-defecto
+               
+               "
+        data-controller-name="content_localizeds"
+        data-action-name="show"
+        data-id="45">
+    <a class="visually-hidden-focusable visuallyhidden" href="#content">Saltar al contenido principal</a>
+    
+
+    
+
+
+
+      
+<div class="wrapper c-template--home" id="wrapper">
+  <header class="c-header" data-spy="affix" data-offset-top="1">
+    <div class="c-header__top">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col col-12 u-align--space">
+            <div class="c-header__logo">
+                <div class="c-header__logo">
+    <a title="Finanzas para todos" href="/">
+      <img class="positive" alt="" src="/system/themes/logos/000/000/001/original/finanzas.png?1614951093" />
+      <img class="negative" alt="" src="/system/themes/logo_negatives/000/000/001/original/finanzas_affix.png?1614951096" />
+      
+</a>  </div>
+
+            </div>
+
+            <div class="c-header__top_center">
+                <nav class="c-header__nav navbar navbar-expand-md navbar-dark">
+    <button id="burger" class="open-main-nav navbar-toggler collapsed" type="button">
+      <span class="sr-only">Menú de navegación</span> <span class="burger navbar-toggler-icon"></span>
+    </button>
+
+    <div class="navbar-collapse collapse" id="navbarsExampleDefault" style="">
+      
+  <ul class="navbar-nav">
+
+        <li class="nav-item first-level  with--children">
+          <a class="no-link" aria-haspopup="true" aria-controls="submenu-5" aria-expanded="false" rel="" accesskey="" aria-expanded="false" href="/descubre">Descubre</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-5">
+                <a class="c-secondary__menu_close" href="#">
+                  <i class="fa fa-times" aria-hidden="true"></i> Cerrar
+</a>              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="a" href="/como-esta-tu-salud-financiera"><span>1</span>¿Cómo está tu salud financiera?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="b" href="/como-elaborar-un-presupuesto"><span>2</span>¿Cómo elaborar tu presupuesto?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="c" href="/c-mo-gestionar-mis-deudas"><span>3</span>¿Cómo gestionar tus deudas?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  with--children">
+          <a class="nav-link" aria-haspopup="true" aria-controls="submenu-12" aria-expanded="false" rel="" accesskey="d" href="/como-cuidar-tu-entorno"><span>4</span>¿Cómo cuidar tu entorno personal y financiero?</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-12">
+              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-banco-yo">El banco y yo</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-trabajo">El trabajo</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-hogar">El hogar</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-mi-pareja">La pareja</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-familia">La familia</a>
+
+
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="e" href="/como-preparar-mi-jubilacion"><span>5</span>¿Cómo preparar tu jubilación?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="f" href="/c-mo-invertir-tu-dinero"><span>6</span>¿Cómo invertir tu dinero?</a>
+
+
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+
+        <li class="nav-item first-level  with--children">
+          <a class="no-link" aria-haspopup="true" aria-controls="submenu-4" aria-expanded="false" rel="" aria-expanded="false" href="/participa">Participa</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-4">
+                <a class="c-secondary__menu_close" href="#">
+                  <i class="fa fa-times" aria-hidden="true"></i> Cerrar
+</a>              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="g" href="/red-de-colaboradores"><span><i class="fas fa-handshake"></i></span>Red del Plan</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="external" accesskey="h" href="/diadelaeducacionfinanciera"><span><i class="fas fa-user-graduate"></i></span>Día de la Educación Financiera</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="i" href="/premios-de-educacion-financiera"><span><i class="fas fa-award"></i></span>Premios de Educación Financiera</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="k" href="/participa/concurso-escolar-de-educacion-financiera"><span><i class="fas fa-trophy"></i></span>Concurso Escolar de Educación Financiera</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  with--children">
+          <a class="nav-link" aria-haspopup="true" aria-controls="submenu-145" aria-expanded="false" rel="" href="/participa/profesores"><span><i class="fa-solid fa-person-chalkboard"></i></span>Profesores</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-145">
+              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="" href="/participa/profesores/primaria">Primaria</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="" href="/participa/profesores/secundaria">ESO, Bachillerato y FP</a>
+
+
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+
+        <li class="nav-item first-level  with--children">
+          <a class="no-link" aria-haspopup="true" aria-controls="submenu-3" aria-expanded="false" rel="" aria-expanded="false" href="/aprende">Aprende</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-3">
+                <a class="c-secondary__menu_close" href="#">
+                  <i class="fa fa-times" aria-hidden="true"></i> Cerrar
+</a>              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="l" href="/herramientas"><span><i class="fas fa-tools"></i></span>Herramientas</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="m" href="/videos"><span><i class="fas fa-play-circle"></i></span>Vídeos</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="n" href="/podcasts"><span><i class="fas fa-microphone"></i></span>Podcasts</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="o" href="/guias"><span><i class="fas fa-book-open"></i></span>Guías</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="p" href="/cursos-y-webinars"><span><i class="fas fa-laptop"></i></span>Cursos y webinars</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="q" href="/glosario"><span><i class="fas fa-sort-alpha-down-alt"></i></span>Glosario</a>
+
+
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+
+        <li class="nav-item first-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="q" href="/quienes-somos">Quiénes somos</a>
+
+
+
+        </li>
+
+        <li class="nav-item first-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="r" href="/blog">Blog</a>
+
+
+
+        </li>
+
+        <li class="nav-item first-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="s" href="/notas-de-prensa">Notas de Prensa</a>
+
+
+
+        </li>
+  </ul>
+
+    </div>
+  </nav>
+
+            </div>
+
+            <div class="c-header__top_der">
+              <div class="c-user__login js--user-login"></div>
+              <a class="form-inline form-navbar my-2 my-lg-0 js--search" href="/site/1/lang/es/search">
+  <span class="u-hidden">Buscar</span> <i class="fas fa-search" aria-hidden="true"></i> <span class="sr-only">Buscador</span>
+</a>
+<div class="c-search__modal js--search-modal u-hidden">
+  <a class="js--close-search-modal" href="/site/1/lang/es/search">
+    Salir <i class="fas fa-times"></i>
+</a>  
+  <form class="c-form" action="/site/1/lang/es/search" accept-charset="UTF-8" method="get">
+    <p><span class="u-h3">Encuentra lo que estás buscando</span></p>
+
+    <label for="modal_search">
+      ¿Qué estás buscando?
+      <input type="text" name="search" id="modal_search" class="form-control" placeholder="Fondos de inversión, ahorros, presupuestos ..." />
+</label>
+    <label for="category_ids_">
+      Categoría
+      <select name="category_ids[]" id="category_ids_" class="form-control"><option value="">Categoría</option><option value="1">Planificación y presupuesto</option>
+<option value="2">Endeudamiento</option>
+<option value="3">Productos y operaciones bancarias</option>
+<option value="4">Ahorro e inversión</option>
+<option value="5">Seguros y jubilación</option>
+<option value="6">Reclamaciones y fraude</option>
+<option value="7">Hogar</option>
+<option value="8">Jubilación</option>
+<option value="9">Criptomonedas</option></select>
+</label>
+    <div class="u-text--right">
+      <button name="button" type="submit" class="btn btn--submit" data-disable-with="Buscando ..." value="Buscar">
+        <i class="fas fa-search" aria-hidden="true"></i>  Buscar
+</button>    </div>
+</form></div>
+                <div class="c-language__selector">
+    <div class="dropdown show">
+      <a class="dropdown-toggle" href="#" role="button" id="language-selector" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-controls="language-selector-menu" aria-label="Cambiar idioma">
+        <span class="name">es</span>
+      </a>
+
+      <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="language-selector" id="language-selector-menu" role="menu" lang="es">
+          <li>
+            <a class="dropdown-item" title="" role="menuitem" href="/ca/inici">
+              <span class="name">Catalán</span>
+</a>          </li>
+          <li>
+            <a class="dropdown-item" title="" role="menuitem" href="/eu/hasiera">
+              <span class="name">Euskera</span>
+</a>          </li>
+          <li>
+            <a class="dropdown-item" title="" role="menuitem" href="/ga/inicio">
+              <span class="name">Gallego</span>
+</a>          </li>
+          <li>
+            <a class="dropdown-item" title="" role="menuitem" href="/va/inici">
+              <span class="name">Valenciano</span>
+</a>          </li>
+      </ul>
+    </div>
+  </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main id="content">
+      
+  <section class="c-breadcrumbs">
+    <div class="container">
+      <div class="row">
+        <div class="col col-sm-12" role="navigation" aria-label="Migas de pan">
+          <ul>
+              <li>
+                <a href="/">
+                  <i class="fas fa-home"></i> Inicio
+</a>                <span class="c-breadcrumbs__separator"></span>
+              </li>
+
+
+              <li aria-current="page">¿Cómo cuidar tu entorno personal y financiero?</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+      <section class="u-primary--background c-header_image_container " 
+           style="background: url(/system/cms_multimedia/cms_medias/files/000/000/045/original/fondo_entorno.jpg?1618212599) 50% 0 / cover no-repeat;">
+    <div class="header_image">
+      <div class="container ">
+        <h1>¿Cómo cuidar tu entorno personal y financiero?</h1>
+          <p>El banco y yo </p>
+
+      </div>
+    </div>
+  </section>
+
+
+                
+
+
+              
+
+
+
+<link rel='stylesheet' href='/contents/css/45/1662722274.css' />
+
+              <section class="u-relative dot-animation "
+         data-content-embedded-section-id="371"
+         
+         >
+
+
+    <div class="dot-animation container u-container--fluid  "
+  data-content-embedded-row-id="508"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 "
+     data-content-embedded-column-id="793"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="878" 
+      >
+  
+  <div class="c-sticky__anchor_tags c-menu-fix ">
+  <div class="container">
+    <div class="c-content-menu">
+        
+        <div class="item">
+          <a href="#productos-y-servicios" data-index="0">
+            Productos y servicios bancarios operativos
+          </a>
+        </div>
+        
+        <div class="item">
+          <a href="#productos-ahorro" data-index="1">
+            Productos bancarios de ahorro
+          </a>
+        </div>
+        
+        <div class="item">
+          <a href="#productos-ahorro" data-index="2">
+            Productos bancarios de financiación
+          </a>
+        </div>
+
+      <div class="anchor__navigation__line"></div>
+    </div>
+  </div>
+
+  <div class="c-sticky__select js--sticky__select">
+    <a class="link-hide" href="/cerrar">El banco y yo</a>
+
+    <ul class="hide">
+        <li>
+          <a href="#productos-y-servicios" data-index="0">
+            Productos y servicios bancarios operativos
+          </a>
+        </li>
+        <li>
+          <a href="#productos-ahorro" data-index="1">
+            Productos bancarios de ahorro
+          </a>
+        </li>
+        <li>
+          <a href="#productos-ahorro" data-index="2">
+            Productos bancarios de financiación
+          </a>
+        </li>
+    </ul>
+  </div>
+</div>
+
+</div>
+
+</div>
+  </div>
+</div>
+
+
+</section>
+
+  <section class="u-relative dot-animation c-banda-intro "
+         data-content-embedded-section-id="207"
+         id=productos-y-servicios
+         >
+
+
+    <div class="dot-animation container  "
+  data-content-embedded-row-id="269"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 col-md-5 "
+     data-content-embedded-column-id="446"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="494" 
+      >
+  
+  <p><img alt=""  class="lazyload" loading="lazy" data-src="/system/cms_multimedia/cms_medias/files/000/000/206/original/pexels-andrea-piacquadio-845434.jpg?1620723942">​​​​​​​</p>
+</div>
+
+</div>
+      <div class="dot-animation col col-12 col-md-6 "
+     data-content-embedded-column-id="447"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="495" 
+      >
+  
+  <div class="u-blue-light--background"><p><span class="u-h5"></span>La <strong>cuenta bancaria</strong> es un depósito de dinero que sirve de “soporte operativo” para centralizar operaciones bancarias habituales: ingresos, pagos, domiciliaciones de recibos, transferencias, retiradas de dinero mediante cajeros automáticos, amortizaciones de los préstamos recibidos, aportaciones a los planes de pensiones, contratación de otros servicios financieros, etc.</p></div>
+</div>
+
+</div>
+  </div>
+</div>
+
+
+</section>
+
+  <section class="u-relative dot-animation c-banda-border "
+         data-content-embedded-section-id="208"
+         
+         >
+
+
+    <div class="dot-animation container u-container--medium  "
+  data-content-embedded-row-id="270"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 "
+     data-content-embedded-column-id="448"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="496" 
+      >
+  
+  <p style="text-align: center;"><span class="u-h2">Tu cuenta bancaria como soporte operativo para la gestión de tus finanzas</span></p><p style="text-align: center;">En la práctica, tanto las cuentas corrientes como las cuentas de ahorro son depósitos “a la vista”, lo que significa que su titular puede sacar su dinero en parte o en su totalidad en cualquier momento.</p>
+</div>
+
+</div>
+  </div>
+</div>
+
+  <div class="dot-animation container u-container--herramienta  "
+  data-content-embedded-row-id="271"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 "
+     data-content-embedded-column-id="449"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="497" 
+      >
+  
+  
+<div class="c-references__collapses">
+  <div class="accordion panel-group index-list-collapse" id="accordion-1620378575">
+      <div class="panel panel-default">
+        <div id="heading-1620378575" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1620378575" aria-expanded="true" aria-controls="collapse-1620378575">
+              Características
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1620378575" class="panel-collapse collapse" aria-labelledby="heading-1620378575" data-parent="#accordion-1620378575">
+          <div class="panel-body">
+            <p>Hoy en día, la principal diferencia entre una cuenta corriente y una libreta de ahorro ordinaria se reduce al soporte de la misma: un talonario de cheques, en el caso de una cuenta corriente, y un documento en forma de pequeño libro para las libretas de ahorro. Ambos tipos de cuentas se caracterizan por:</p><ul><li>Liquidez total: Como ya hemos dicho, se pueden hacer ingresos y retirar el saldo de dinero a tu favor en cualquier momento, sin penalización. No obstante, en la práctica es recomendable avisar con antelación si quieres retirar una cantidad importante en efectivo para que la puedan tener preparada.</li><li>Sencillez y pocos requisitos de apertura.</li><li>Posibilidad de tarjetas de débito y/o crédito asociadas a la cuenta.</li><li>Posibilidad de domiciliar nóminas y pagos (recibos de luz, teléfono, alquiler, etc.), sacar dinero de cajeros y realizar transferencias.</li><li>Remuneración escasa o nula. Se trata de un producto operativo y no de ahorro. A pesar de su nombre, la mayoría de las libretas de ahorro tienen un funcionamiento casi igual al de las cuentas corrientes. Pueden pagar un poquito más de interés, pero siguen siendo productos operativos, es decir, pensados más para la gestión del dinero en el día a día. No son los productos más adecuados para el ahorro a largo plazo.</li><li>Suelen cobrarse comisiones de administración y mantenimiento. También se pueden cobrar comisiones por transferencias, por utilizar cajeros que no pertenecen a la misma entidad, por descubiertos en cuenta, etc. No es habitual cobrar comisiones por consultas de saldos, ni por movimientos realizados en la misma entidad. Muchas libretas y cuentas dirigidas a niños y jóvenes basan su atractivo en la ausencia de comisiones.</li></ul><p>La mayoría de las entidades de crédito ofrece ventajas especiales al domiciliar la nómina, por lo que es muy buena práctica hacerlo si es posible. Conviene comparar la oferta de distintas entidades. Entre las posibles ventajas por domiciliar la nómina están: anticipos del importe de la nómina en caso de necesidad sin cobrar intereses (siempre que se pague dentro de un plazo determinado), tarjetas gratis, seguros de accidentes o de hogar, hipotecas y préstamos personales con condiciones favorables, ausencia de comisiones, acceso a la banca online, etc.</p><p>Algunos bancos devuelven un porcentaje del importe de los recibos domiciliados. Es importante conocer bien las condiciones de todas estas ofertas, por ejemplo, si te ofrecen una tarjeta gratuita, asegúrate de que siempre va a ser gratuita ya que, a veces, sólo lo es el primer año.</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1620378576" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1620378576" aria-expanded="true" aria-controls="collapse-1620378576">
+              Titulares
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1620378576" class="panel-collapse collapse" aria-labelledby="heading-1620378576" data-parent="#accordion-1620378575">
+          <div class="panel-body">
+            <p>La persona a cuyo nombre está abierta la cuenta se llama “titular”. Las cuentas corrientes o libretas pueden ser individuales (abierta a nombre de una sola persona) o abiertas a nombre de dos o más personas. En este último caso, pueden ser a su vez:</p><ul><li>Mancomunada o conjunta: se necesita la firma de todos los titulares para autorizar cualquier acto (cancelación, firma de cheques, disposición del saldo, envío de transferencias, autorización de representantes, etc.).</li><li>Solidaria o indistinta: cualquier de los titulares está facultado para ejercer los derechos mencionados, inherentes al contrato.</li></ul><p>También es posible autorizar a otra persona para que pueda actuar en nombre y representación del titular, realizando ingresos y retirando dinero, etc.</p><p>Para formalizar la apertura de la cuenta, es necesaria la firma de un contrato escrito en el que se reflejen las condiciones y las obligaciones y derechos que deben cumplir ambas partes.</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1620378620" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1620378620" aria-expanded="true" aria-controls="collapse-1620378620">
+              Fiscalidad
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1620378620" class="panel-collapse collapse" aria-labelledby="heading-1620378620" data-parent="#accordion-1620378575">
+          <div class="panel-body">
+            <p>Los intereses recibidos se consideran rendimientos de capital mobiliario y tributan en el Impuesto Sobre la Renta de las Personas Físicas (IRPF). Se integran en la base imponible del ahorro que tributa por tramos en función de su importe total:</p><ul><li>Los primeros 6.000 € al 19%</li><li>Desde 6.000,01 € hasta 50.000 € al 21%</li><li>Desde 50.000,01 en adelante al 23%</li></ul><p>Los gastos de mantenimiento y las comisiones cobradas NO son deducibles. .</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1620378627" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1620378627" aria-expanded="true" aria-controls="collapse-1620378627">
+              Ventajas e inconvenientes
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1620378627" class="panel-collapse collapse" aria-labelledby="heading-1620378627" data-parent="#accordion-1620378575">
+          <div class="panel-body">
+            <p>La principal ventaja de una cuenta bancaria es la comodidad que ofrece y el acceso a los servicios relacionados (transferencias, banca online, cajeros automáticos…) para la gestión de tus ingresos y pagos, junto con la posibilidad de disponer del dinero cuando haga falta.</p><p>Recibirás información detallada de todos tus gastos, ingresos y saldos a través de extractos de cuenta o la puesta al día de la libreta, lo que facilita la gestión del presupuesto familiar.</p><p>Como inconveniente recordamos que las cuentas corrientes y libretas de ahorro ordinarias son muy poco rentables. Debido al efecto de la inflación tu dinero puede perder valor con el tiempo.</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1620378633" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1620378633" aria-expanded="true" aria-controls="collapse-1620378633">
+              ¿Cómo abrir una cuenta bancaria?
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1620378633" class="panel-collapse collapse" aria-labelledby="heading-1620378633" data-parent="#accordion-1620378575">
+          <div class="panel-body">
+            <p>Cualquier persona física o jurídica con capacidad de obrar puede abrir una cuenta a la vista.</p><p>Se exigen los siguientes documentos originales:</p><ul><li>Para personas residentes: DNI/NIF o tarjeta de residente (NIE).</li><li>Para personas no residentes: Certificado de no residente expedido por la Policía o por el consulado del país de residencia, acreditación de empadronamiento en algún ayuntamiento español y pasaporte o tarjeta de identidad con fotografía.</li><li>Para poder asegurar la correcta identificación de las personas con quien mantienen relaciones financieras, las entidades deben exigir además otra documentación para verificar el domicilio habitual, y la naturaleza de la actividad profesional o empresarial de sus clientes. Por ejemplo, una nómina en caso de un asalariado y la última declaración de IVA en el caso de autónomos, o cualquier otro documento que estimen necesario.</li><li>Para abrir una cuenta o libreta a nombre de un menor de edad se necesita la firma e identificación de su representante legal, que por regla general serán los padres, quienes asumen las responsabilidades generadas. Las operaciones que realiza el titular menor de edad tendrán que ir respaldadas con la firma del tutor.</li></ul>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1620381157" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1620381157" aria-expanded="true" aria-controls="collapse-1620381157">
+              Comparar ofertas antes de decidirse
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1620381157" class="panel-collapse collapse" aria-labelledby="heading-1620381157" data-parent="#accordion-1620378575">
+          <div class="panel-body">
+            <p>Todas las entidades de crédito ofrecen cuentas corrientes y libretas de ahorro, a veces en múltiples versiones. Aunque son todas muy parecidas, pueden tener pequeñas diferencias que las hacen más o menos indicadas para un cliente determinado. Antes de decidirse por una cuenta u otra compare la oferta teniendo en cuenta lo siguiente:</p><ul><li>Comisiones y otros gastos</li><li>Descubiertos: Los descubiertos en cuenta son los “números rojos” que se producen cuando se realiza una retirada o pago de dinero sin que haya saldo suficiente. Es dinero que la entidad te está adelantando y lo habitual es tener que pagar intereses y comisiones por ese importe. Conviene saber qué costes se aplican y en qué condiciones. También hay que saber si la entidad pagará un recibo domiciliado en el caso de no tener saldo suficiente en la cuenta. Algunas lo hacen, aunque suelen cobrar una comisión alta, pero otras devuelven el recibo sin pagar. En este caso, existiría el peligro de que te corten el suministro de servicios básicos, etc.</li><li>Facilidad y coste de disponer de tarjetas de débito y de crédito.</li><li>Saldos mínimos: A veces las entidades exigen mantener una cierta cantidad mínima de dinero en la cuenta en todo momento para no cobrar comisiones.</li><li>Operativa permitida: Hay que saber qué operaciones podrás realizar con la cuenta y las posibles comisiones o gastos adicionales que tendrás que pagar: transferencias, traspasos, domiciliación de recibos, pago de impuestos.</li><li>Banca online (por Internet): Consulta qué operaciones se pueden realizar por Internet y si existen comisiones o ventajas relacionadas. Poder realizar pagos, trasferencias y otros trámites por Internet es sumamente cómodo y ahorra tiempo y gastos al no tener que acudir a la oficina. Además, muchas operaciones son más económicas si se hacen a través de Internet.</li></ul><p>El Banco de España pone a tu disposición un <a  href="https://clientebancario.bde.es/pcb/es/blog/comparador_comisiones_cuentas_bancarias.html" target="_blank">comparador de comisiones en cuentas de pago</a> donde podrás contrastar el precio de los principales servicios bancarios.</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1620381168" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1620381168" aria-expanded="true" aria-controls="collapse-1620381168">
+              ¿Cómo controlar los movimientos de una cuenta?
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1620381168" class="panel-collapse collapse" aria-labelledby="heading-1620381168" data-parent="#accordion-1620378575">
+          <div class="panel-body">
+            <p>Es importante controlar los movimientos de tu cuenta y comprobar que no se han efectuado pagos o cobrado comisiones indebidamente. Si tienes una cuenta corriente revisa los extractos con cuidado en cuanto los recibas. Anota en el talonario de cheques cada cheque escrito, su número, importe y concepto. Anota también los ingresos efectuados en la cuenta y calcula el saldo. Si tienes una libreta, ponla al día en la sucursal o mediante un cajero automático.</p><p>Comprueba los recibos y extractos de los cajeros, así como los recibos de compras, transferencias, impresos de ingresos y reintegros, etc., y comunica cualquier discrepancia a tu sucursal. Todos estos documentos también representan una información imprescindible para elaborar o controlar el presupuesto familiar.</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1620381177" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1620381177" aria-expanded="true" aria-controls="collapse-1620381177">
+              ¿Qué es el IBAN?
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1620381177" class="panel-collapse collapse" aria-labelledby="heading-1620381177" data-parent="#accordion-1620378575">
+          <div class="panel-body">
+            <p>Cada cuenta bancaria tiene asignado un número o código identificativo que la personaliza. Desde el 1 de febrero de 2014, este número se denomina IBAN y se trata de un código internacional estandarizado para la identificación de cuentas bancarias. Su nombre viene de sus siglas en inglés (International Bank Account Number) y su formato estandarizado es común en el ámbito internacional, lo que facilita la correcta transmisión de datos para pagos y cobros transfronterizos.</p><p>En el caso español, el IBAN consta de 24 dígitos y está compuesto por dos letras seguidas de 22 números:</p><ul><li>Las dos primeras letras identifican el país y van unidas a dos dígitos de control (DC) que sirven para validar la totalidad del IBAN.</li><li>Los cuatro primeros números sirven para identificar el código de la entidad, asignado por el Banco de España.</li><li>Los siguientes cuatro dígitos identifican la oficina donde mantienes la cuenta. Cada entidad asigna esta identificación a cada una de sus oficinas.</li><li>A continuación, dos números que de nuevo son dígitos de control.</li><li>Y, por último, diez dígitos que se corresponden con el número de tu cuenta.</li></ul>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1620381228" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1620381228" aria-expanded="true" aria-controls="collapse-1620381228">
+              Extracto de una cuenta ¿Qué información debe contener?
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1620381228" class="panel-collapse collapse" aria-labelledby="heading-1620381228" data-parent="#accordion-1620378575">
+          <div class="panel-body">
+            <p>Las entidades de crédito deben remitir como mínimo una vez al mes y de forma gratuita un extracto a los titulares de cuentas corrientes para informarles del saldo que tienen disponible y de los movimientos realizados.</p><p>La entidad de crédito deberá facilitarte esta documentación según lo establecido en tu contrato, ya sea en formato papel o en cualquier otro soporte duradero. Asegúrate del modo en que está obligada tu entidad a <a  href="https://clientebancario.bde.es/pcb/es/blog/donde-estan-las-cartas-del-banco-.html?blog=/webcb/Blog" target="_blank">facilitarte esta información</a> y comprueba si la recibes con regularidad.</p><p>El extracto de cuenta incluirá al menos:</p><ul><li>Fecha del movimiento: Es la fecha del apunte contable de la operación. Debe coincidir con la fecha en que se realizó la operación.</li><li>El concepto de la operación: Deben figurar todas las operaciones que han supuesto un aumento o disminución del saldo. Por ejemplo, retiradas de dinero de ventanilla y a través de cajeros automáticos, ingresos de nóminas, talones y efectivo, comisiones cobradas, recibos domiciliados, cheques escritos con cargo a la cuenta y cobrados, actividades de tu tarjeta de débito, pago mensual de la tarjeta de crédito, intereses pagados y su correspondiente retención…</li><li>El importe con su signo: Según el modelo de extracto utilizado por tu banco, las salidas de dinero pueden aparecer bien con un signo negativo o bien en una columna denominado “debe” o “cargos”. Todos estos importes disminuyen el saldo que tienes disponible.</li><li>Tipo de cambio aplicado al adeudo o abono, cuando no se hubiera informado al cliente de dicho tipo de cambio en la justificación del propio movimiento.</li><li>La fecha valor: Técnicamente, es la fecha a partir de la cual comienza a generar intereses un abono en la cuenta o cuando deja de generarlos un adeudo. Por razones operativas, no siempre coincide con la fecha del apunte contable. Los ingresos de dinero suelen tener una fecha valor posterior a las salidas de dinero, y más si provienen de otra entidad o del extranjero, por lo que hay que tener mucho cuidado. Si ingresas un talón en tu cuenta y a continuación realizas varios pagos, podría producirse un descubierto teórico, generando intereses a favor del banco.</li><li>El saldo del extracto anterior y el resultante del nuevo.</li><li>El saldo resultante: El saldo de una cuenta corriente es la diferencia entre los movimientos de entradas de dinero registrados y los movimientos de salidas de dinero registrados. El saldo disponible es el importe en la cuenta que puede ser utilizado libremente. Hay que tener en cuenta que el saldo y el saldo disponible pueden no coincidir si existe alguna orden de pago que ha sido cursada pero no liquidada aún (por ejemplo, si has escrito un cheque, pero la persona beneficiaria del cheque aún no lo ha cobrado).</li></ul><p>Además, la Ley de Servicios de Pago establece que, cuando un consumidor realice un ingreso en una cuenta de pago en la moneda de esa cuenta, podrá utilizar ese importe desde el mismo momento en el que efectúe el ingreso. Para el caso de no consumidores, se podrá pactar con la entidad, poder disponer del importe ingresado, como máximo, el día hábil siguiente a la recepción del dinero.</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1620381237" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1620381237" aria-expanded="true" aria-controls="collapse-1620381237">
+              La libreta o cartilla
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1620381237" class="panel-collapse collapse" aria-labelledby="heading-1620381237" data-parent="#accordion-1620378575">
+          <div class="panel-body">
+            <p>En caso de una cuenta o libreta de ahorro, el soporte es un documento físico en forma de pequeño libro en el que se reflejan las anotaciones de todas las operaciones realizadas y de las cantidades abonadas (ingresadas) y adeudadas (retiradas).</p><p>Debes presentar la libreta para realizar cualquier operación en la oficina donde esté formalizada y en otras oficinas de la misma entidad. La mayoría de los contratos estipulan que sólo en los casos de extravío, robo, sustracción y destrucción es posible realizar operaciones sin la presentación de la libreta. No obstante, en la práctica es habitual utilizar los cajeros o un boleto de ventanilla para operar.</p><p>Las operaciones se registrarán:</p><ul><li>Automáticamente, en el caso de reintegros de dinero en efectivo por caja y cajeros automáticos que admitan libretas.</li><li>Mediante su presentación en una oficina para su puesta al día.</li></ul><p>Las libretas cuentan con una banda magnética que permite identificar al titular. No obstante, tu eres el responsable de la custodia de la libreta, y en caso de robo o pérdida debes comunicarlo en la oficina y solicitar un duplicado.</p>
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+</div>
+
+</div>
+  </div>
+</div>
+
+
+</section>
+
+  <section class="u-relative dot-animation u-primary--background u-align--left "
+         data-content-embedded-section-id="209"
+         
+         >
+
+
+    <div class="dot-animation container u-container--medium  without--margin c-banda-border "
+  data-content-embedded-row-id="300"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 "
+     data-content-embedded-column-id="499"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="546" 
+      >
+  
+  <p style="text-align: center;"><span class="u-h2">¿Quieres saber más?</span></p>
+</div>
+
+</div>
+  </div>
+</div>
+
+  <div class="dot-animation container u-container--medium  "
+  data-content-embedded-row-id="301"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 "
+     data-content-embedded-column-id="500"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="547" 
+      >
+  
+  
+<div class="c-references__collapses">
+  <div class="accordion panel-group index-list-collapse" id="accordion-1620724191">
+      <div class="panel panel-default">
+        <div id="heading-1620724191" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1620724191" aria-expanded="true" aria-controls="collapse-1620724191">
+              Características de las transferencias
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1620724191" class="panel-collapse collapse" aria-labelledby="heading-1620724191" data-parent="#accordion-1620724191">
+          <div class="panel-body">
+            <p>Las transferencias que tienen lugar dentro de la misma entidad se suelen denominar traspasos.</p><p>Hay operaciones similares a las transferencias, como por ejemplo las órdenes de envío de fondos en las que se indica que deben entregarse en efectivo al beneficiario. También tienen el mismo efecto los giros, en los que el ordenante lleva una cantidad en efectivo a la ventanilla de su entidad, para que sea enviada a la cuenta del beneficiario en otra entidad de crédito. Sin embargo, no es una transferencia la aceptación de ingresos en efectivo que se abonan en una cuenta de la propia entidad receptora.</p><p>Desde febrero de 2014, se utiliza el IBAN como identificador único de cuenta. Conoce más sobre el IBAN en la sección Productos y servicios bancarios operativos.</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1620724194" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1620724194" aria-expanded="true" aria-controls="collapse-1620724194">
+              ¿Qué son las comisiones?
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1620724194" class="panel-collapse collapse" aria-labelledby="heading-1620724194" data-parent="#accordion-1620724191">
+          <div class="panel-body">
+            <p>Se trata de un servicio bancario por el que normalmente se cobran comisiones. Casi todas las entidades cobran un porcentaje del importe de la transferencia, pero fijan una cantidad mínima a cobrar.</p><p>Si utilizas este servicio a menudo merece la pena comparar las tarifas de varias entidades. Las transferencias realizadas a través de Internet suelen salir mucho más económicas, y en ciertos casos son gratuitas.</p><p>Recuerda que los costes de las transferencias son los primeros que aparecen en las <strong>Tarifas de Comisiones y Gastos</strong> que las entidades deben tener a disposición del público, y que se anuncian de forma visible en los tablones de todas sus oficinas.</p><p>Las comisiones deben responder a los costes de las transferencias, sin que puedan cargarse diferentes comisiones por conceptos parecidos. Por ejemplo, no cabe cobrar una comisión por el abono en la cuenta y otra por notificar el abono a la persona que ha recibido la transferencia. En todo caso, al ordenar la operación el cliente debe ser informado de los costes, para que pueda aceptarlos de forma expresa.</p><p>En España, lo habitual era que la persona que ordenaba la transferencia fuera quien pagara la comisión, salvo instrucciones expresas en contra. Sin embargo, con la entrada en vigor de la nueva Ley de Servicios de Pago, los gastos serán compartidos entre ordenante y beneficiario, salvo que se indique a la entidad que deben repercutirse en su totalidad a uno o a otro.</p><p>No se suelen cobrar comisiones en caso de traspasos entre cuentas del mismo titular.</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1620724232" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1620724232" aria-expanded="true" aria-controls="collapse-1620724232">
+              ¿Qué tipos de transferencias existen?
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1620724232" class="panel-collapse collapse" aria-labelledby="heading-1620724232" data-parent="#accordion-1620724191">
+          <div class="panel-body">
+            <p>Las transferencias bancarias se pueden clasificar según el plazo, el modo de ordenar su ejecución y el área geográfica.</p><p>Según el plazo de ejecución, se distingue entre transferencias ordinarias y urgentes. Como su nombre indica, las urgentes tienen un plazo menor y consecuentemente, un coste más elevado.</p><p>La clasificación más importante es la que distingue según el área geográfica, ya que tanto las comisiones como los plazos de ejecución son muy diferentes en cada caso.</p><p>Conviene saber que las transferencias son mandatos de pago irrevocables, por lo que, una vez dada la orden, no podrás recuperar el dinero sin el consentimiento del destinatario de los fondos.</p><p>Es muy importante introducir correctamente el número de cuenta (en la zona SEPA, el IBAN) del beneficiario pues la entidad del ordenante ejecutará la operación basándose en éste de forma automática, sin más comprobación, ni del ordenante, ni del beneficiario.</p><p>En el 2008 comenzó a funcionar la Zona Única de Pagos en Euros, conocida como SEPA por sus siglas en inglés, cuyo objetivo es lograr que los pagos en toda Europa, nacionales o transfronterizos, resulten igual de fáciles, seguros y económicos que los pagos nacionales. En SEPA todos los pagos electrónicos entre entidades europeas se consideran internos y tendrán los mismos costes que los realizados dentro de España.</p><p>Es importante recordar que, aunque el adeudo en la cuenta del ordenante se produce en el mismo momento en el que se ejecuta la transferencia, la disponibilidad de los fondos por parte del destinatario no es inmediata. De acuerdo con la normativa de servicios de pago, el banco del ordenante se asegurará de que el importe de la transferencia es abonado en la cuenta del beneficiario, como máximo, al final del día hábil siguiente.</p><p>Una transferencia internacional, exterior o transfronteriza es aquella en la que el ordenante y el beneficiario se encuentran en países diferentes. Las transferencias exteriores son más fáciles (rápidas y económicas) si se dispone del IBAN (número internacional de cuenta) del beneficiario y el BIC (código de identificación bancaria) del banco del beneficiario. En este caso se consideran transferencias STP (Straight Through Processing) y se realizan de forma totalmente automatizada. Las transferencias exteriores que no son STP tienen comisiones superiores.</p><p>En los casos de transferencias transfronterizas los plazos de llegada de los fondos a la cuenta destino pueden ser mayores (sobre todo si el origen o el destino está fuera de la Unión Europea).</p><p>Conviene tener especial cuidado cuando se ordenen transferencias hacia países que atraviesen dificultades económico-financieras, ya que la seguridad de los envíos puede verse comprometida; además, cabe esperar que los gastos sean bastante superiores a lo normal.</p><p>Otras transferencias bancarias más específicas son las que utilizan las cuentas de las entidades en el Banco de España, bien en forma de órdenes de movimiento de fondos (OMF), bien como traspasos entre cuentas. Estas transferencias bancarias, de mayor coste, son más rápidas en su ejecución y en la disponibilidad de los fondos por parte del beneficiario.</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1620724195" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1620724195" aria-expanded="true" aria-controls="collapse-1620724195">
+              ¿Qué es un pago inmediato?
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1620724195" class="panel-collapse collapse" aria-labelledby="heading-1620724195" data-parent="#accordion-1620724191">
+          <div class="panel-body">
+            <p>El Banco Central Europeo ha desarrollado un nuevo servicio disponible en los bancos, que permite enviar dinero a cualquier parte de Europa de forma instantánea. Las 24 horas del día, los 365 días del año. Este servicio se llama <a  href="https://www.youtube.com/watch?v=XfB0u473faY&ab_channel=EuropeanCentralBank" target="_blank">TIPS</a>.</p><p>Debes saber que, para este tipo de pagos, existe un importe máximo de 15.000 euros y el banco podrá cobrarte una comisión siempre y cuando te avise previamente. Puedes obtener más información sobre pagos inmediatos <a  href="https://clientebancario.bde.es/pcb/es/menu-horizontal/productosservici/serviciospago/Pagos_inmediatos.html" target="_blank">aquí</a>.</p>
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+</div>
+
+</div>
+  </div>
+</div>
+
+  <div class="dot-animation container  without--margin u-align--right "
+  data-content-embedded-row-id="272"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 col-md-5 "
+     data-content-embedded-column-id="450"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="498" 
+      >
+  
+  <p><span class="u-h2">Transferencias y otros productos bancarios operativos</span></p><p>Una transferencia bancaria es la operación por la que una persona o entidad (el ordenante) da instrucciones a tu entidad bancaria para que envíe, con cargo a una cuenta suya, una determinada cantidad de dinero a la cuenta de otra persona o empresa (el beneficiario). Dicho de otra forma, realizar una transferencia es pasar dinero de una cuenta a otra, bien de la misma entidad o bien en otra entidad.</p>
+</div>
+
+</div>
+      <div class="dot-animation col col-12 col-md-6 "
+     data-content-embedded-column-id="451"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="499" 
+      >
+  
+  <p><img alt=""  class="lazyload" loading="lazy" data-src="/system/cms_multimedia/cms_medias/files/000/000/204/original/group-copy-3.png?1620723938" style="float: right;"></p>
+</div>
+
+</div>
+  </div>
+</div>
+
+
+</section>
+
+  <section class="u-relative dot-animation "
+         data-content-embedded-section-id="233"
+         
+         >
+
+
+    <div class="dot-animation container  without--margin u-align--right "
+  data-content-embedded-row-id="302"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 col-md-6 "
+     data-content-embedded-column-id="501"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="548" 
+      >
+  
+  <p><img alt=""  class="lazyload" loading="lazy" data-src="/system/cms_multimedia/cms_medias/files/000/000/202/original/group-5-copy-3.png?1620723932">​​​​​​​</p>
+</div>
+
+</div>
+      <div class="dot-animation col col-12 col-md-5 "
+     data-content-embedded-column-id="502"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="549" 
+      >
+  
+  <p><span class="u-h2"> El cambio de moneda: compraventa de billetes extranjeros </span></p><p>El cambio de moneda se le llama a cualquier operación por la que un billete, cheque, depósito, préstamo o cualquier otro producto, instrumento financiero o medio de pago pasa de ser expresado en una determinada divisa a estar en una divisa diferente. Por ejemplo: Si te vas de vacaciones a Estados Unidos, cambias billetes de euros por billetes de dólares.</p>
+</div>
+
+</div>
+  </div>
+</div>
+
+
+</section>
+
+  <section class="u-relative dot-animation u-align--left  "
+         data-content-embedded-section-id="211"
+         
+         >
+
+
+    <div class="dot-animation container u-container--medium  without--margin c-banda-border "
+  data-content-embedded-row-id="303"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 "
+     data-content-embedded-column-id="503"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="550" 
+      >
+  
+  <p style="text-align: center;"><span class="u-h2"> Antes de irte de viaje, ten en cuenta…</span></p>
+</div>
+
+</div>
+  </div>
+</div>
+
+  <div class="dot-animation container u-container--medium  without--margin "
+  data-content-embedded-row-id="304"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 "
+     data-content-embedded-column-id="504"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="551" 
+      >
+  
+  
+<div class="c-references__collapses">
+  <div class="accordion panel-group index-list-collapse" id="accordion-1620725784">
+      <div class="panel panel-default">
+        <div id="heading-1620725784" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1620725784" aria-expanded="true" aria-controls="collapse-1620725784">
+              ¿Dónde se puede cambiar moneda?
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1620725784" class="panel-collapse collapse" aria-labelledby="heading-1620725784" data-parent="#accordion-1620725784">
+          <div class="panel-body">
+            <p>Puedes cambiar moneda en:</p><ul><li>Las entidades bancarias. En bancos, cajas de ahorros y cooperativas de crédito podrás hacer cualquier tipo de operación de cambio de moneda, tanto la compraventa de billetes o divisas, como contratar préstamos en moneda extranjera, abrir una cuenta en moneda extranjera, etc. Hay que tener en cuenta que aunque la mayor parte de las entidades bancarias ofrecen el servicio de cambio de moneda no tienen obligación de hacerlo. La prestación de este servicio es libre, como la de los demás servicios bancarios.</li><li><p>Los establecimientos de cambio de moneda. Los hay de distintos tipos:</p><ul><li>Los autorizados sólo para comprar billetes extranjeros o cheques de viajero con pago en euros.</li><li>Los autorizados también para vender billetes extranjeros o cheques de viajero.</li><li>Los que además pueden hacer (enviar o recibir) transferencias con el exterior.</li></ul></li></ul>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1620725840" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1620725840" aria-expanded="true" aria-controls="collapse-1620725840">
+              El tipo de cambio y las comisiones
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1620725840" class="panel-collapse collapse" aria-labelledby="heading-1620725840" data-parent="#accordion-1620725784">
+          <div class="panel-body">
+            <p>Se llama cotización, o tipo de cambio, al número de unidades de una divisa que hay que entregar para obtener una unidad de otra. Este “precio” de la divisa está formado por la oferta y demanda en los mercados de divisas y fluctúa constantemente.</p><p>Aunque el Banco Central Europeo y el Banco de España publican, a título informativo, la cotización del euro contra otras divisas, las entidades bancarias y casas de cambio pueden aplicar libremente otras cotizaciones fijando el cambio comprador (la cantidad que le pagarán por una divisa) y el cambio vendedor (el precio al que venden la misma divisa).</p><p>La cotización de los billetes es diferente a la de divisas. El cambio comprador del billete es más bajo que el comprador divisa, y el vendedor billete es más alto que el vendedor divisa.</p><p>Ejemplo cotización divisas:</p><p class="u-separator-text"><br></p><table class=" cke_show_border"><tbody><tr><td>€ EURO / $USA</td><td>Billetes</td><td>Divisas</td></tr><tr><td><p>Cambio Comprador</p></td><td>0,70</td><td>0,80</td></tr><tr><td><p>Cambio Vendedor</p></td><td>1,00</td><td>0,90</td></tr></tbody></table><p class="u-separator-text"><br></p><p>Se trata de un ejemplo didáctico y no corresponde al cambio real. Tenga en cuenta que las cotizaciones del mercado de divisas cambia constantemente.</p>
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+</div>
+
+</div>
+  </div>
+</div>
+
+  <div class="dot-animation container u-container--herramienta  without--margin c-banda-border "
+  data-content-embedded-row-id="437"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 "
+     data-content-embedded-column-id="699"
+     
+     >
+
+      <div class="dot-animation without--margin " 
+      data-content-embedded-app-id="760" 
+      >
+  
+  <p style="text-align: center;"><span class="u-h2">Banca a distancia</span></p>
+</div>
+  <div class="dot-animation " 
+      data-content-embedded-app-id="761" 
+      >
+  
+  <ul class="nav nav-tabs c-tab--left" role="tablist">
+
+    <li class="nav-item" role="presentation">
+      <a class="nav-link active" 
+         id="tab-1623329613" 
+         data-bs-toggle="tab" 
+         data-tab="1623329613"
+         href="#banca-online" 
+         role="tab" 
+         aria-controls="evitar" 
+         aria-selected="true">
+        Banca online
+      </a>
+    </li>
+    
+    <li class="nav-item" role="presentation">
+      <a class="nav-link " 
+         id="tab-1623329709" 
+         data-bs-toggle="tab" 
+         data-tab="1623329709"
+         href="#banca-telefonica" 
+         role="tab" 
+         aria-controls="evitar" 
+         aria-selected="true">
+        Banca telefónica
+      </a>
+    </li>
+    
+    <li class="nav-item" role="presentation">
+      <a class="nav-link " 
+         id="tab-1623329614" 
+         data-bs-toggle="tab" 
+         data-tab="1623329614"
+         href="#cajeros-electronicos" 
+         role="tab" 
+         aria-controls="evitar" 
+         aria-selected="true">
+        Cajeros electrónicos
+      </a>
+    </li>
+    
+</ul>
+
+<div class="tab-content">
+    <div class="tab-pane fade show active" id="banca-online" role="tabpanel" aria-labelledby="tab-1623329613" data-tab="1623329613">
+      <div class="row">
+        <div class="col col-12">
+          <p>Se conoce como banca online el contrato que permite utilizar los servicios y productos disponibles de una entidad bancaria vía Internet.</p><p>La mayoría de entidades ofrece el acceso a la banca online como un servicio adicional para sus clientes (normalmente de forma gratuita).</p><p>También encontrarás otras entidades que no disponen de oficinas y sólo funcionan por Internet o teléfono. Te recordamos que todos deben contar con la autorización del Banco de España para operar en nuestro país.</p><p>Podremos realizar a través de nuestro ordenador, tableta o teléfono móvil prácticamente todas las operaciones que se pueden realizar en la oficina durante las 24 horas del día y sin desplazamientos: consultas de saldos y movimientos, apertura de cuentas y contratación de préstamos y seguros, órdenes de domiciliaciones, órdenes de pago y transferencias, información de mercados financieros, simulaciones de seguros o préstamos, etc.</p><p>Para realizar estas operaciones, has tenido que firmar con tu entidad un contrato específico de banca a distancia y conocer las claves para poder operar.</p><p>Las principales ventajas de la banca online son la comodidad y el ahorro en comisiones y tarifas de las que puedes disfrutar.</p><p>La entidad de crédito no destina recursos y personal para realizar las operaciones de la banca online. Por ello, sus servicios y productos son más baratos. Se cobran menos comisiones, los intereses pagados son más elevados para los productos de ahorro e inversión, y se cobran intereses más bajos para los productos de financiación (préstamos y créditos). A veces las mejores ofertas en depósitos y préstamos sólo se ofrecen online.</p><p>Pero no todo son ventajas: preste mucha atención a los posibles fraudes.</p><p>Ahora sólo vamos a reiterar la principal cuestión:</p><p>Nunca, nunca, nunca respondas a un correo electrónico que te pida la confirmación de claves o contraseñas y nunca utilices un enlace contenido en un correo no solicitado para acceder a tu cuenta de banca online. Puede parecer que este correo viene de tu entidad, pero no es así: se trata de un fraude.</p><p>Aunque las entidades han desarrollado nuevas fórmulas de combinación de claves y una serie de recomendaciones para que el cliente bancario sufra el riesgo mínimo, se consciente de estos riesgos y actúa con cautela. Como cliente, serás responsable del mal uso o pérdida de las claves. No olvides que si alguien obtiene tus claves y contraseña podría acceder a tu cuenta y saquearla.</p><p><br></p><p>Podrá obtener más información sobre fraudes por internet y consejos para evitarlos <a  href="https://clientebancario.bde.es/pcb/es/menu-horizontal/actualidadeducac/iniciativas-de-educacion-financiera/guia-textual/educacion-financiera-en-el-banco-de-espana/fraude-internet.html" target="_blank">aquí</a>.</p><p><br></p>
+        </div>
+      </div>
+    </div>
+      
+    <div class="tab-pane fade show " id="banca-telefonica" role="tabpanel" aria-labelledby="tab-1623329709" data-tab="1623329709">
+      <div class="row">
+        <div class="col col-12">
+          <p>Muchas entidades también tienen líneas telefónicas especiales para ofrecer sus servicios y productos. Los sistemas son dos:</p><ul><li>Comunicación a través de operadores programados que, mediante la pulsación de distintas teclas del teléfono, orientan automáticamente al cliente hacia la operación que desea realizar o la información que desea obtener.</li><li>Comunicación directa con un empleado del banco, lo que permite la realización de operaciones y la obtención de información no previstas en la programación.</li></ul><p>En ambos casos es necesario firmar un contrato específico de prestación de servicios. Se opera con contraseña o clave secreta (que equivale a la firma en las operaciones físicas), lo cual garantiza la confidencialidad. La garantía para el banco y para el cliente de que este último ha ordenado una operación es la grabación de la conversación, que debe estar siempre a disposición del cliente.</p><p>Cada vez con mayor frecuencia, las entidades utilizan los mensajes de móvil SMS, tanto para que los clientes ordenen operaciones, como para facilitarles información sobre sus cuentas u operaciones. Para este servicio hay que suscribir el correspondiente contrato. También supone una ventaja adicional para aquellos usuarios que prefieren hablar con una persona en vez de hacer uso de un teléfono móvil, ordenador o tablet.</p>
+        </div>
+      </div>
+    </div>
+      
+    <div class="tab-pane fade show " id="cajeros-electronicos" role="tabpanel" aria-labelledby="tab-1623329614" data-tab="1623329614">
+      <div class="row">
+        <div class="col col-12">
+          <p>Los cajeros automáticos son máquinas expendedoras, pertenecientes a las entidades de crédito, que funcionan con una tarjeta de crédito o débito, una libreta de ahorro o un teléfono móvil a través de la aplicación de nuestro banco. Se utilizan principalmente para sacar dinero en efectivo, aunque cada vez ofrecen más servicios. Para poder operar, se necesita un número secreto identificativo, llamado PIN.</p><p>Operaciones realizables en cajeros automáticos:</p><ul><li>Retirar dinero en efectivo.</li><li>Consultar los saldos de la cuenta asociada u otras cuentas del titular.</li><li>Poner al día la libreta.</li><li>Hacer reintegros de tu libreta de ahorros.</li><li>Sacar extractos de la cuenta asociada o de otras cuentas del titular.</li><li>Cambiar el PIN o número personal.</li><li>Solicitar talonarios.</li><li>Realizar transferencias y traspasos.</li><li>Pagar recibos.</li><li>Hacer depósitos de dinero y de cheques.</li><li>Realizar operaciones de fondos de inversión y planes de pensiones.</li><li>Operativa de valores.</li><li>Consultar cotizaciones de divisas.</li><li>Consultar tarifa de comisiones a aplicar por la operación a realizar.</li></ul><p>Actualmente también se pueden realizar otras operaciones no bancarias, como la compra de entradas para espectáculos, el pago de multas e impuestos y la reserva de hoteles.</p><p>Siempre tendrás un cajero a mano, tanto en España como en el extranjero. España es uno de los países con más cajeros automáticos por habitantes del mundo. Aparte de las oficinas bancarias, se encuentran en estaciones de tren, autobús y metro, aeropuertos, centros comerciales, etc. Las entidades te cobrarán comisiones por sacar dinero y por realizar muchas de las operaciones posibles en cajeros. El importe varía según la red a la que pertenezca el cajero. Las comisiones son más altas en los de otras redes. Si el cajero pertenece a tu propio banco, no es habitual que te cobren comisiones si sacas dinero o consultas saldos y movimientos.</p><p>Si el cajero pertenece a la entidad emisora de la tarjeta, te indicará el importe exacto de la comisión y los gastos. Si no, te informará de la comisión máxima que podría cobrar la entidad emisora de la tarjeta (la cantidad exacta depende de lo pactado en el contrato que hayas suscrito con la entidad emisora).</p><p>Una vez comunicado el importe de la comisión, el cajero deberá darte la posibilidad de cancelar la operación solicitada.</p><p>Las comisiones por utilizar cajeros en países que no utilizan el euro pueden ser elevadas.</p>
+        </div>
+      </div>
+    </div>
+      
+</div>
+</div>
+
+</div>
+  </div>
+</div>
+
+
+</section>
+
+  <section class="u-relative dot-animation u-primary--background "
+         data-content-embedded-section-id="234"
+         
+         >
+
+
+    <div class="dot-animation container  without--margin u-align--right "
+  data-content-embedded-row-id="305"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 col-md-5 "
+     data-content-embedded-column-id="505"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="552" 
+      >
+  
+  <p><span class="u-h2">Los cheques: un medio de pago con múltiples modalidades</span></p><p>Un cheque es un documento utilizado como medio de pago por el cual una persona (el librador) ordena a una entidad bancaria (el librado) que pague una determinada cantidad de dinero a otra persona o empresa (el beneficiario o tenedor). El librador puede ser también el beneficiario, como ocurre cuando uno utiliza un cheque para sacar dinero de su propia cuenta.</p><p class="u-separator-text"><br></p><p><a class="c-button__primary"  href="/los-cheques">Más sobre los cheques <i class="fas fa-arrow-right"></i></a></p>
+</div>
+
+</div>
+      <div class="dot-animation col col-12 col-md-6 "
+     data-content-embedded-column-id="506"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="553" 
+      >
+  
+  <p><img alt=""  class="lazyload" loading="lazy" data-src="/system/cms_multimedia/cms_medias/files/000/000/205/original/group-copy-4.png?1620723940" style="float: right;"></p>
+</div>
+
+</div>
+  </div>
+</div>
+
+
+</section>
+
+  <section class="u-relative dot-animation "
+         data-content-embedded-section-id="235"
+         
+         >
+
+
+    <div class="dot-animation container  without--margin u-align--right "
+  data-content-embedded-row-id="306"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 col-md-6 "
+     data-content-embedded-column-id="507"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="554" 
+      >
+  
+  <p><img alt=""  class="lazyload" loading="lazy" data-src="/system/cms_multimedia/cms_medias/files/000/000/203/original/group-5-copy-4.png?1620723935"></p>
+</div>
+
+</div>
+      <div class="dot-animation col col-12 col-md-5 "
+     data-content-embedded-column-id="508"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="555" 
+      >
+  
+  <p><span class="u-h2">Las tarjetas: el medio de pago más cómodo y utilizado</span></p><p>Las tarjetas son medios de pago emitidos por una entidad financiera o un comercio. Por su comodidad, facilidad de uso, amplia aceptación y por la seguridad que supone no tener que llevar mucho dinero en efectivo, las tarjetas se han convertido en parte de nuestras vidas. Son el medio de pago más aceptado para efectuar compras por Internet, en viajes y desplazamientos.</p><p class="u-separator-text"><br></p><p><a class="c-button__primary"  href="/las-tarjetas">Más sobre las tarjetas <i class="fas fa-arrow-right"></i></a></p>
+</div>
+
+</div>
+  </div>
+</div>
+
+
+</section>
+
+  <section class="u-relative dot-animation u-primary--background "
+         data-content-embedded-section-id="236"
+         id=productos-ahorro
+         >
+
+
+    <div class="dot-animation container u-container--medium  without--margin "
+  data-content-embedded-row-id="310"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 "
+     data-content-embedded-column-id="513"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="559" 
+      >
+  
+  <ul class="nav nav-tabs c-tab--left" role="tablist">
+
+    <li class="nav-item" role="presentation">
+      <a class="nav-link active" 
+         id="tab-1620727418" 
+         data-bs-toggle="tab" 
+         data-tab="1620727418"
+         href="#productos-bancarios-de-ahorro" 
+         role="tab" 
+         aria-controls="evitar" 
+         aria-selected="true">
+        Productos bancarios de ahorro
+      </a>
+    </li>
+    
+    <li class="nav-item" role="presentation">
+      <a class="nav-link " 
+         id="tab-1620727419" 
+         data-bs-toggle="tab" 
+         data-tab="1620727419"
+         href="#productos-bancarios-de-financiacion" 
+         role="tab" 
+         aria-controls="evitar" 
+         aria-selected="true">
+        Productos bancarios de financiación
+      </a>
+    </li>
+    
+</ul>
+
+<div class="tab-content">
+    <div class="tab-pane fade show active" id="productos-bancarios-de-ahorro" role="tabpanel" aria-labelledby="tab-1620727418" data-tab="1620727418">
+      <div class="row">
+        <div class="col col-12">
+          <p>Aunque se habla conjuntamente de ahorro-inversión, hay que puntualizar que invertir no es lo mismo que ahorrar. Ahorrar es no gastar el dinero para poder acumularlo, siendo recomendable depositarlo en algún producto financiero diseñado para tal fin, que te proporcionará intereses.</p><p><a  href="/productos-bancarios-de-ahorro" style="text-align: center;">Más sobre productos bancarios de ahorro</a></p>
+        </div>
+      </div>
+    </div>
+      
+    <div class="tab-pane fade show " id="productos-bancarios-de-financiacion" role="tabpanel" aria-labelledby="tab-1620727419" data-tab="1620727419">
+      <div class="row">
+        <div class="col col-12">
+          <p>Invertir, en cambio, significa arriesgar parte de ese dinero con la esperanza de ganar más a cambio. Puedes ganar mucho, pero también puedes no ganar nada e, incluso, puedes perder todo el dinero invertido. La diferencia entre ahorrar e invertir es precisamente esa incertidumbre o riesgo, mayor o menor según el producto.</p><p><a  href="/productos-bancarios-de-financiacion" style="text-align: center;">Más sobre productos bancarios de financiación </a></p>
+        </div>
+      </div>
+    </div>
+      
+</div>
+</div>
+
+</div>
+  </div>
+</div>
+
+  <div class="dot-animation container u-container--medium  without--margin c-banda-border "
+  data-content-embedded-row-id="309"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 "
+     data-content-embedded-column-id="512"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="558" 
+      >
+  
+  <p style="text-align: center;"><strong>Una buena gestión de tu dinero consiste en dar con la combinación adecuada de productos con diferentes niveles de liquidez, rentabilidad y riesgo para lograr mejorar nuestros objetivos financieros a corto y a largo plazo.</strong></p>
+</div>
+
+</div>
+  </div>
+</div>
+
+  <div class="dot-animation container u-container--medium  "
+  data-content-embedded-row-id="308"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 "
+     data-content-embedded-column-id="511"
+     
+     >
+
+    
+</div>
+  </div>
+</div>
+
+  <div class="dot-animation container  without--margin u-align--right "
+  data-content-embedded-row-id="307"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 col-md-5 "
+     data-content-embedded-column-id="509"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="556" 
+      >
+  
+  <p><span class="u-h2">Productos bancarios de ahorro y de financiación: aprende a diferenciarlos</span></p><p>Aunque se habla conjuntamente de ahorro-inversión, hay que puntualizar que invertir no es lo mismo que ahorrar. Ahorrar es no gastar el dinero para poder acumularlo, siendo recomendable depositarlo en algún producto financiero diseñado para tal fin, que te proporcionará intereses.</p>
+</div>
+
+</div>
+      <div class="dot-animation col col-12 col-md-6 "
+     data-content-embedded-column-id="510"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="557" 
+      >
+  
+  <p><img alt=""  class="lazyload" loading="lazy" data-src="/system/cms_multimedia/cms_medias/files/000/000/204/original/group-copy-3.png?1620723938" style="float: right;"></p>
+</div>
+
+</div>
+  </div>
+</div>
+
+
+</section>
+
+
+
+
+    <section class="c-banda-newsletter u-third--background" style="display: none;">
+      <div class="container">
+        <div class="row u-space-between u-align--center">
+          <div class="col col-12 col-md-6 c-suscribete__text">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="21" 
+      >
+  
+  <p><span class="u-h2">¡No te pierdas nada!</span></p><p>Mantente al día de todas las novedades de Finanzas para Todos suscribiéndote a nuestra newsletter. Todas las novedades sobre finanzas, en tu correo.</p>
+</div>
+
+
+          </div>
+          <div class="col col-12 col-md-6 u-text--right c-suscribete__button">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="22" 
+      >
+  
+  <p style="text-align: right;"><a  href="/suscribete-a-nuestra-newsletter" class="c-button__transparent">Suscríbete</a></p>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="c-footer">
+    <div class="c-footer__logos">
+      <div class="container">
+        <div class="row">
+          <div class="col col-12">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="12" 
+      >
+  
+  <p><a  href="/" title="Enlace para volver a página de inicio de Finanzas para todos">​​​​​​​​​​​​​​<img alt="Enlace para volver a página de inicio de Finanzas para todos" class="c-footer__logo"  loading="lazy" src="/system/cms_multimedia/cms_medias/files/000/000/001/original/finanzas.png?1615388008" style="margin-top: 5px; margin-bottom: 5px;"></a>   <img alt="Plan de Educación Financiera, CNMV, Banco de España, Gobierno de España y Ministerio de economía, comercio y empresa"  loading="lazy" src="https://www.finanzasparatodos.es/system/cms_multimedia/cms_medias/files/000/002/720/original/plan-educacion-financiera-cobranding.png?1734424908"></p>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="c-footer__top">
+      <div class="container">
+        <div class="row">
+          <div class="col col-12 col-md-3">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="15" 
+      >
+  
+  <p><a  href="/quienes-somos" title="Quiénes somos">Quiénes somos</a></p><p><a  href="/actualidad" title="Blog">Blog</a></p><p><a  href="/notas-de-prensa" title="Notas de prensa">Notas de prensa</a></p><p><a  href="/teachers/sign_up?lang=es&site_id=1" title="Registro profesores">Registro profesores</a></p><p><a  href="/collaborators/sign_up?lang=es&site_id=1" title="Registro colaboradores">Registro colaboradores</a></p><p><a  href="/legal" title="Legal">Legal</a></p><p><a  href="/accesibilidad" title="Accesibilidad">Accesibilidad</a></p><p><a  href="/contacto" title="Contacto">Contacto</a></p>
+</div>
+
+
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="14" 
+      >
+  
+  <ul class="social-sharing"><li style="text-align: center;"><a  href="https://twitter.com/finanzaspartods?s=11" target="_blank" title="Ir a Twitter de Finanzas para Todos">​​​​​​​<img alt=""  loading="lazy" src="/system/cms_multimedia/cms_medias/files/000/002/419/original/x.png?1695135771" style="width: 20px; height: 19px; margin-top: -6px;"> <span class="sr-only">Twitter</span></a></li><li style="text-align: center;"><a  href="https://instagram.com/finanzaspartods?utm_medium=copy_link" target="_blank" title="Ir a Instagram de Finanzas para Todos"><i aria-hidden="true" class="fab fa-instagram-square"></i><span class="sr-only">Instagram</span></a></li><li style="text-align: center;"><a  href="https://www.facebook.com/FinanzasParaTodos.educacionfinanciera" target="_blank" title="Ir a Facebook de Finanzas para Todos"><i aria-hidden="true" class="fab fa-facebook-square"></i><span class="sr-only">Facebook</span></a></li><li style="text-align: center;"><a  href="https://youtube.com/user/finanzasparatodosESP" target="_blank" title="Ir a Youtube de Finanzas para Todos"><i aria-hidden="true" class="fab fa-youtube-square"></i><span class="sr-only">Youtube​​​​​​​</span></a></li></ul>
+</div>
+
+
+          </div>
+
+          <div class="col col-12 col-md-3">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="16" 
+      >
+  
+  <p><span class="u-third--color">Descubre</span></p><ul><li><a  href="/como-esta-tu-salud-financiera" title="">1. ¿Cómo está tu salud financiera?</a></li><li><a  href="/como-elaborar-un-presupuesto">2. ¿Cómo elaborar tu presupuesto?</a></li><li><a  href="/c-mo-gestionar-mis-deudas" title="">3. ¿Cómo gestionar tus deudas?</a></li><li><a  href="/c-mo-cuidar-tu-entorno-personal-y-financiero" title="">4. ¿Cómo cuidar tu entorno personal y financiero?</a></li><li><a  href="/como-preparar-mi-jubilacion" title="">5. ¿Cómo preparar tu jubilación?</a></li><li><a  href="/c-mo-invertir-mi-dinero" title="">6. ¿Cómo invertir tu dinero?</a></li></ul>
+</div>
+
+
+          </div>
+
+          <div class="col col-12 col-md-3">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="17" 
+      >
+  
+  <p><span class="u-blue">Participa</span></p><ul><li><a  href="/collaborators/login?lang=es&site_id=1" title="Red de  Colaboradores">Red de  Colaboradores</a></li><li><a  href="/teachers/login?lang=es&site_id=1" title="Profesores">Profesores </a></li><li><a  href="/d-a-de-la-educaci-n-financiera" title="Día de la Educación Financiera">Día de la Educación Financiera </a></li><li><a  href="/premios-de-educacion-financiera" title="Premios de la Educación Financiera">Premios de la Educación Financiera</a></li><li><br></li></ul>
+</div>
+
+
+          </div>
+
+          <div class="col col-12 col-md-3">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="18" 
+      >
+  
+  <p><span class="u-secondary--color">Aprende</span></p><ul><li><a  href="/herramientas-list" title="Herramientas">Herramientas</a></li><li><a  href="/videos" title="Videos">Videos</a></li><li><a  href="/podcasts" title="Podcasts">Podcasts</a></li><li><a  href="/guias" title="Guías">Guías</a></li><li><a  href="/cursos-y-webinars" title="Cursos, talleres, seminarios, webinars">Cursos y webinars</a></li><li><a  href="/glosario" title="Glosario">Glosario</a></li></ul>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+        
+    <div class="c-footer__bottom">
+      <div class="container">
+        <div class="row">
+          <div class="col col-12 col-md-12 u-text--right">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="13" 
+      >
+  
+  <p style="text-align: left;">2024 © Plan de Educación Financiera. CNMV,  Banco de España y Mº de Asuntos Económicos y TD. Todos los derechos reservados      <a  href="/pol-tica-de-privacidad">Política de Privacidad</a> · <a  href="/pol-tica-de-cookies">Cookies</a> · <a  href="/legal">Aviso legal</a> · <a  href="/accesibilidad">Accesibilidad</a></p>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+</div>
+
+  <nav id="c-nav__mobile" class="c-nav__mobile" data-mmenu-position="right">
+    
+  <ul class="navbar-nav">
+
+        <li class="nav-item first-level  with--children">
+          <a class="no-link" rel="" accesskey="" aria-expanded="false" href="/descubre">Descubre</a>
+          
+            
+  <ul class="navbar-nav">
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="a" href="/como-esta-tu-salud-financiera"><span>1</span>¿Cómo está tu salud financiera?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="b" href="/como-elaborar-un-presupuesto"><span>2</span>¿Cómo elaborar tu presupuesto?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="c" href="/c-mo-gestionar-mis-deudas"><span>3</span>¿Cómo gestionar tus deudas?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  with--children">
+          <a class="nav-link" aria-haspopup="true" aria-controls="submenu-12" aria-expanded="false" rel="" accesskey="d" href="/como-cuidar-tu-entorno"><span>4</span>¿Cómo cuidar tu entorno personal y financiero?</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-12">
+              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-banco-yo">El banco y yo</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-trabajo">El trabajo</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-hogar">El hogar</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-mi-pareja">La pareja</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-familia">La familia</a>
+
+
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="e" href="/como-preparar-mi-jubilacion"><span>5</span>¿Cómo preparar tu jubilación?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="f" href="/c-mo-invertir-tu-dinero"><span>6</span>¿Cómo invertir tu dinero?</a>
+
+
+
+        </li>
+  </ul>
+                                    
+        </li>
+
+        <li class="nav-item first-level  with--children">
+          <a class="no-link" rel="" aria-expanded="false" href="/participa">Participa</a>
+          
+            
+  <ul class="navbar-nav">
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="g" href="/red-de-colaboradores"><span><i class="fas fa-handshake"></i></span>Red del Plan</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="external" accesskey="h" href="/diadelaeducacionfinanciera"><span><i class="fas fa-user-graduate"></i></span>Día de la Educación Financiera</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="i" href="/premios-de-educacion-financiera"><span><i class="fas fa-award"></i></span>Premios de Educación Financiera</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="k" href="/participa/concurso-escolar-de-educacion-financiera"><span><i class="fas fa-trophy"></i></span>Concurso Escolar de Educación Financiera</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  with--children">
+          <a class="nav-link" aria-haspopup="true" aria-controls="submenu-145" aria-expanded="false" rel="" href="/participa/profesores"><span><i class="fa-solid fa-person-chalkboard"></i></span>Profesores</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-145">
+              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="" href="/participa/profesores/primaria">Primaria</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="" href="/participa/profesores/secundaria">ESO, Bachillerato y FP</a>
+
+
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+  </ul>
+                                    
+        </li>
+
+        <li class="nav-item first-level  with--children">
+          <a class="no-link" rel="" aria-expanded="false" href="/aprende">Aprende</a>
+          
+            
+  <ul class="navbar-nav">
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="l" href="/herramientas"><span><i class="fas fa-tools"></i></span>Herramientas</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="m" href="/videos"><span><i class="fas fa-play-circle"></i></span>Vídeos</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="n" href="/podcasts"><span><i class="fas fa-microphone"></i></span>Podcasts</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="o" href="/guias"><span><i class="fas fa-book-open"></i></span>Guías</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="p" href="/cursos-y-webinars"><span><i class="fas fa-laptop"></i></span>Cursos y webinars</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="q" href="/glosario"><span><i class="fas fa-sort-alpha-down-alt"></i></span>Glosario</a>
+
+
+
+        </li>
+  </ul>
+                                    
+        </li>
+
+        <li class="nav-item first-level  ">
+          <a class="nav-link" rel="" accesskey="q" href="/quienes-somos">Quiénes somos</a>
+          
+        </li>
+
+        <li class="nav-item first-level  ">
+          <a class="nav-link" rel="" accesskey="r" href="/blog">Blog</a>
+          
+        </li>
+
+        <li class="nav-item first-level  ">
+          <a class="nav-link" rel="" accesskey="s" href="/notas-de-prensa">Notas de Prensa</a>
+          
+        </li>
+
+    <li>
+      <form class="c-form" action="/site/1/lang/es/search" accept-charset="UTF-8" method="get">
+        <label for="mobile_search">
+          <span class="u-hidden">Fondos de inversión, ahorros, presupuestos ...</span>
+          <input type="text" name="search" id="mobile_search" class="form-control" placeholder="Fondos de inversión, ahorros, presupuestos ..." />
+</label>    
+        <button name="button" type="submit" class="btn btn--submit" value="Buscar">
+          <span class="u-hidden">Buscar</span>
+          <i class="fas fa-search" aria-hidden="true"></i>
+          <span class="sr-only">Buscador</span>
+</button></form>    </li>
+  </ul>
+
+  </nav>
+
+
+    
+    
+    <div id="c-cookies__modal" class="modal modal-cookies fade" tabindex="-1" role="dialog" aria-hidden="true" data-keyboard="false" data-backdrop="static">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+    </div>
+  </div>
+</div>
+    
+    
+    
+  </body>
+</html>

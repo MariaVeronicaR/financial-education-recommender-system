@@ -1,0 +1,57 @@
+{
+  "content_id": "C100",
+  "tldr": "La renta fija son valores negociables emitidos por empresas e instituciones públicas que representan préstamos que estas reciben de los inversores, quienes se convierten en acreedores (no socios). Aunque tradicionalmente ofrecían intereses fijos, hoy existen versiones variables, y no están exentos de riesgo: la rentabilidad final puede diferir de lo previsto e incluso perderse capital. El inversor debe analizar el binomio rentabilidad-riesgo y conocer los distintos tipos de riesgo (crédito, tipos de interés, liquidez, etc.), así como diferenciar entre deuda pública (Letras del Tesoro, bonos y obligaciones del Estado) y renta fija privada (pagarés de empresa, bonos y obligaciones corporativas).",
+  "key_points": [
+    "El inversor en renta fija es acreedor del emisor, no socio propietario, y en caso de liquidación tiene prioridad frente a los accionistas.",
+    "Riesgo y rentabilidad van unidos: a mayor riesgo asumido, más rentabilidad se debe exigir, aunque asumir más riesgo no garantiza mayores rendimientos.",
+    "Los principales riesgos de la renta fija incluyen riesgo de crédito, de tipos de interés/precio, de liquidez, de amortización anticipada y de pérdida de principal.",
+    "La deuda pública española incluye Letras del Tesoro (corto plazo, sin cupones) y bonos y obligaciones del Estado (medio y largo plazo, con cupones).",
+    "Los pagarés de empresa se emiten al descuento y sin cupón, obteniendo rentabilidad por la diferencia entre el precio de compra y el valor nominal a vencimiento."
+  ],
+  "quiz": [
+    {
+      "question": "Un inversor que compra un bono de renta fija se convierte en...",
+      "options": [
+        "Acreedor del emisor, con prioridad frente a los socios en caso de liquidación.",
+        "Socio propietario con derecho a voto en la Junta General de Accionistas.",
+        "Acreedor subordinado que siempre recupera el 100% del capital invertido.",
+        "Propietario de una parte del capital social de la empresa emisora."
+      ],
+      "correct_index": 0,
+      "explanation": "La renta fija solo confiere derechos económicos (cobro de intereses y devolución del capital), no derechos políticos, y en caso de liquidación el acreedor tiene prioridad frente a los socios.",
+      "concept_id": "C24"
+    },
+    {
+      "question": "Si los tipos de interés suben en el mercado, ¿qué ocurre con el precio de los bonos de renta fija ya emitidos?",
+      "options": [
+        "Sube, porque ofrecen un cupón mayor que las nuevas emisiones.",
+        "Baja, porque los inversores solo los comprarán si su precio se reduce para igualar la rentabilidad de las nuevas emisiones.",
+        "Se mantiene igual, ya que el cupón pactado no cambia.",
+        "Sube solo si el bono es de tipo variable, y baja si es de tipo fijo."
+      ],
+      "correct_index": 1,
+      "explanation": "Cuando suben los tipos de interés, los precios de la renta fija ya emitida bajan en el mercado secundario, ya que deben ajustarse para ofrecer una rentabilidad equivalente a la de las nuevas emisiones.",
+      "concept_id": "C13"
+    },
+    {
+      "question": "Una emisión al descuento, como las Letras del Tesoro o los pagarés de empresa, obtiene una rentabilidad positiva cuando...",
+      "options": [
+        "El precio de compra es superior al valor nominal recibido a vencimiento.",
+        "El inversor recibe cupones periódicos a lo largo de la vida del título.",
+        "El precio de emisión o compra es más bajo que el importe obtenido a vencimiento o en la venta.",
+        "El emisor abona una prima de reembolso superior al cupón corrido."
+      ],
+      "correct_index": 2,
+      "explanation": "Estas emisiones no tienen cupones periódicos, por lo que su rentabilidad (positiva o negativa) viene dada por la diferencia entre el precio de adquisición y el valor nominal que se recibe a vencimiento o el precio de venta.",
+      "concept_id": "C12"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 7892,
+    "input_tokens": 9119,
+    "output_tokens": 1214
+  }
+}

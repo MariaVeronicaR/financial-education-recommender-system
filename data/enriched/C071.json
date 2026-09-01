@@ -1,0 +1,57 @@
+{
+  "content_id": "C071",
+  "tldr": "Esta herramienta de presupuesto personal permite planificar tu jubilación calculando cuánto dinero podrías obtener al mes y al año si inviertes anualmente una cantidad determinada. Organiza tus finanzas distinguiendo ingresos netos, gastos fijos obligatorios, gastos variables necesarios y gastos discrecionales, y muestra la diferencia entre ingresos y gastos para evaluar tu margen de ahorro.",
+  "key_points": [
+    "El presupuesto se organiza en ingresos netos y tres categorías de gastos: fijos obligatorios, variables necesarios y discrecionales.",
+    "La diferencia entre ingresos y gastos indica si tienes margen para ahorrar o invertir.",
+    "La herramienta permite proyectar cuánto dinero podrías obtener al mes y al año de cara a tu jubilación.",
+    "Separar gastos discrecionales de los necesarios ayuda a identificar dónde recortar para ahorrar más.",
+    "Un presupuesto realista parte de conocer tus ingresos netos reales y tus gastos por categorías."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cuál es el objetivo principal de la calculadora de presupuesto personal?",
+      "options": [
+        "Calcular tus impuestos anuales",
+        "Planificar tu jubilación estimando cuánto podrías obtener al invertir anualmente",
+        "Comparar diferentes hipotecas del mercado",
+        "Calcular el tipo de cambio de divisas"
+      ],
+      "correct_index": 1,
+      "explanation": "La herramienta sirve para la planificación de la jubilación, mostrando cuánto dinero podrías obtener al mes y al año si inviertes una cantidad anual determinada.",
+      "concept_id": "C16"
+    },
+    {
+      "question": "¿Qué categorías de gastos distingue la herramienta en el presupuesto?",
+      "options": [
+        "Solo gastos fijos y ahorro",
+        "Gastos fijos obligatorios, variables necesarios y discrecionales",
+        "Gastos de vivienda, transporte y ocio",
+        "Gastos fijos y deuda"
+      ],
+      "correct_index": 1,
+      "explanation": "El presupuesto se desglosa en gastos fijos obligatorios, gastos variables necesarios y gastos discrecionales, además de los ingresos netos.",
+      "concept_id": "C01"
+    },
+    {
+      "question": "¿Qué indica la 'Diferencia' que muestra la calculadora en sus resultados?",
+      "options": [
+        "El total de impuestos que debes pagar",
+        "El margen entre tus ingresos netos y tus gastos totales",
+        "El interés compuesto acumulado de tu inversión",
+        "El importe de tus gastos discrecionales"
+      ],
+      "correct_index": 1,
+      "explanation": "La diferencia es el resultado de restar los gastos a los ingresos netos; si es positiva, tienes margen para ahorrar o invertir.",
+      "concept_id": "C02"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 8903,
+    "input_tokens": 1491,
+    "output_tokens": 838
+  }
+}

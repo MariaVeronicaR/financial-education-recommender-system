@@ -1,0 +1,106 @@
+{
+  "content_id": "C032",
+  "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/podemosayudarte/simuladores/calculo-de-la-tae-de-un-prestamo-hipotecario.html",
+  "source": "Portal Cliente Bancario BdE",
+  "host": "clientebancario.bde.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 31603
+  },
+  "title": "Cálculo de la TAE de un préstamo hipotecario",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Cálculo de la TAE de un préstamo hipotecario"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Cálculo de la TAE de un préstamo hipotecario",
+      "start": 0,
+      "end": 1797,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cálculo de la TAE de un préstamo hipotecario"
+    },
+    {
+      "type": "paragraph",
+      "text": "Calcula la TAE de tu préstamo hipotecario\nA partir del importe, el plazo, el tipo de interés y las comisiones y otros gastos del préstamo, obtendrás su TAE.\nEste simulador permite calcular la TAE si el tipo se modifica durante la vida del préstamo, y también distingue entre los gastos que pagues en origen y aquellos que pagues de forma periódica como por ejemplo un seguro.\nPuedes realizar varias simulaciones y comparar la TAE de cada una de ellas."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Este simulador es válido para aquellos préstamos en los que las comisiones y gastos que deben tenerse en cuenta para el cálculo de la tasa anual equivalente (TAE) de la operación se pagan tanto en el momento de su formalización como con carácter periódico. Este simulador parte de la hipótesis de que la amortización del préstamo se realiza por el sistema denominado francés (cuotas mensuales iguales) y de que la parte de la cuota a pagar cada mes en concepto de intereses, se calcula mediante la fórmula: (Capital pendiente x tipo de interés nominal anual) / 1200. Con el fin de que el simulador pueda aplicarse al mayor número posible de casos, en los cálculos se efectúan algunas simplificaciones como las siguientes:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Se considera que el cliente paga todos los gastos relacionados con el estudio, concesión y formalización del préstamo en la fecha de firma del contrato",
+        "Las cuotas se pagan mensualmente",
+        "Todos los meses del año tienen igual número de días",
+        "No existen periodos de carencia, y el primer pago se efectúa exactamente un mes después de haber formalizado el préstamo."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Las indicaciones para el cálculo de la tasa anual equivalente se encuentran en el Anexo II de la Ley 5/2019, de 15 de marzo, reguladora de los contratos de crédito inmobiliarioAbre en ventana nueva.",
+      "links": [
+        {
+          "text": "Ley 5/2019, de 15 de marzo, reguladora de los contratos de crédito inmobiliarioAbre en ventana nueva",
+          "href": "http://app.bde.es/clf_www/leyes.jsp?normaAFecha=S&id=173450&fc=21-03-2019&tipoEnt=0",
+          "start": 97,
+          "end": 197
+        }
+      ]
+    }
+  ],
+  "text": "Cálculo de la TAE de un préstamo hipotecario\nCalcula la TAE de tu préstamo hipotecario\nA partir del importe, el plazo, el tipo de interés y las comisiones y otros gastos del préstamo, obtendrás su TAE.\nEste simulador permite calcular la TAE si el tipo se modifica durante la vida del préstamo, y también distingue entre los gastos que pagues en origen y aquellos que pagues de forma periódica como por ejemplo un seguro.\nPuedes realizar varias simulaciones y comparar la TAE de cada una de ellas.\n- \nEste simulador es válido para aquellos préstamos en los que las comisiones y gastos que deben tenerse en cuenta para el cálculo de la tasa anual equivalente (TAE) de la operación se pagan tanto en el momento de su formalización como con carácter periódico. Este simulador parte de la hipótesis de que la amortización del préstamo se realiza por el sistema denominado francés (cuotas mensuales iguales) y de que la parte de la cuota a pagar cada mes en concepto de intereses, se calcula mediante la fórmula: (Capital pendiente x tipo de interés nominal anual) / 1200. Con el fin de que el simulador pueda aplicarse al mayor número posible de casos, en los cálculos se efectúan algunas simplificaciones como las siguientes: \n  - Se considera que el cliente paga todos los gastos relacionados con el estudio, concesión y formalización del préstamo en la fecha de firma del contrato\n  - Las cuotas se pagan mensualmente\n  - Todos los meses del año tienen igual número de días\n  - No existen periodos de carencia, y el primer pago se efectúa exactamente un mes después de haber formalizado el préstamo.\n Las indicaciones para el cálculo de la tasa anual equivalente se encuentran en el Anexo II de la Ley 5/2019, de 15 de marzo, reguladora de los contratos de crédito inmobiliarioAbre en ventana nueva.",
+  "text_len": 1797,
+  "num_headings": 1,
+  "metadata": {
+    "title": "Cálculo de la TAE de un préstamo hipotecario",
+    "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/podemosayudarte/simuladores/calculo-de-la-tae-de-un-prestamo-hipotecario.html",
+    "hostname": "clientebancario.bde.es",
+    "description": "Cálculo de la TAE de un préstamo hipotecario",
+    "sitename": "clientebancario.bde.es",
+    "date": "2019-03-21",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": true,
+  "classification": "ok",
+  "errors": [],
+  "title_match": true,
+  "csv_meta": {
+    "title": "Cálculo de la TAE de un préstamo hipotecario",
+    "topic": "hipotecas",
+    "subtopic": "TAE",
+    "difficulty": "avanzado",
+    "format": "simulador",
+    "summary": "Calcula la TAE de un préstamo hipotecario",
+    "learning_objective": "Comparar hipotecas por su TAE"
+  },
+  "deduped_from": null
+}

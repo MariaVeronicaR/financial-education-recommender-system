@@ -1,0 +1,87 @@
+{
+  "content_id": "C002",
+  "url": "https://www.finanzasparatodos.es/como-esta-tu-salud-financiera",
+  "source": "Finanzas para Todos",
+  "host": "www.finanzasparatodos.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 63749
+  },
+  "title": "¿Cómo está tu salud financiera? - Finanzas para todos",
+  "headings": [
+    {
+      "level": 1,
+      "text": "¿Cómo está tu salud financiera?"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "¿Cómo está tu salud financiera?",
+      "start": 0,
+      "end": 4732,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Cómo está tu salud financiera?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Qué se entiende por salud financiera?\nEs algo que varía según nuestras necesidades y nuestra etapa de la vida. Tener salud financiera es tener seguridad financiera y eso NO significa ganar mucho dinero, aquí tenemos dos casos:\nJosé gana 50.000 euros al año. Tiene 3.000 euros ahorrados. Le quedan por pagar 400.000 euros de hipoteca por su chalet, 20.000 euros del préstamo de su coche y tiene un saldo de 6.000 euros de pagos aplazados en su tarjeta de crédito.\nInés gana 30.000 euros al año. Tiene 15.000 euros ahorrados. Le quedan por pagar 8.000 euros de la hipoteca de su piso, su coche está pagado y debe 250€ de su tarjeta de crédito, que abonará al final de mes.\n¿Quién de los dos tiene más seguridad financiera?¿Quién duerme mejor por la noche?\nQuien tiene sus gastos bajo control, quien no tiene deudas y quien aumenta mes a mes sus ahorros y su patrimonio.\nComprueba tu salud financiera\nAntes de nada, ¿te has preguntado cómo te encuentras? ¿Sabes cómo tienes tus niveles de colesterol? ¿Los triglicéridos? …si no te haces una analítica no lo sabrás. Pues también puedes hacer un chequeo para conocer tu salud financiera.\n{{ footerInfo }}\n¿Cuáles son tus objetivos financieros?\nReflexiona un momento y haz una lista por escrito de todos los objetivos financieros que se te ocurran para tu caso particular.\nPor ejemplo: comprar un piso, cambiar la televisión, hacer un crucero, hacer un blanqueamiento dental, ahorrar, etc.\nProbablemente, no será posible lograr a la vez todos los objetivos. Identifica en primer lugar los más importantes o los más urgentes. Puedes utilizar la herramienta para PRIORIZAR OBJETIVOS que te ayudará a identificar los más importantes.\nAdoptar el hábito de ahorrar algo cada mes, es esencial, y cuanto antes se empiece, mejor. Ahorrar lo suficiente te ayuda a conseguir no sólo seguridad, sino independencia financiera ¿Cómo conseguir la seguridad financiera? Empieza por conocer cuál es tu situación actual y cuáles son tus objetivos financieros concretos.\nHERRAMIENTAS\nPrioriza tus objetivos financieros\nAunque cada caso es un mundo, estos son algunos de los objetivos financieros más aconsejables:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Control de los gastos para llegar bien a fin de mes",
+        "Ahorrar más",
+        "Reducir o eliminar deudas",
+        "Preparar la jubilación",
+        "Proteger a la familia"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ponte objetivos concretos y específicos\nCuando un objetivo es demasiado general, se hace más dificil de conseguir. Es más fácil empezar si escogemos obgetivos más concretos. Un objetivo ha de ser SMART.\nS\nTener una meta clara y concreta te motivará más a conseguirla. Por ejemplo, no pienses en viajar como algo general. Piensa en todo lo que quieres ver y hacer durante tu fin de semana en una ciudad.\nM\nTienes que fijar un importe para saber cuándo has logrado el objetivo. El importe también es necesario para calcular cuánto tienes que ahorrar cada mes/semana. Así podrás planificar qué necesitarás hacer para alcanzar este ahorro.\nA\nAhorrar un millón de euros antes de fin de mes no es un objetivo, sino una fantasía. Establecer objetivos poco realistas solo te desmotivará.\nR\nAsegúrate de establecer objetivos que realmente sean importantes para TI, acordes con tus propios valores e intereses. Recuerda que los objetivos sirven para realizar TUS sueños. Piensa en las razones que tienes para lograr el objetivo.\nT\nDe la misma forma que hay que fijar un importe, hace falta especificar una fecha tope para el logro del objetivo. El tiempo y el importe permiten saber las acciones concretas que tomar (por ejemplo cuánto hay que ahorrar cada mes) para alcanzarlo.\nAdemás conviene clasificar tus objetivos a corto, medio y largo plazo, en función del tiempo que tienes para conseguirlos. Normalmente, un objetivo a corto plazo será alcanzable en 1-2 años o menos; uno a medio plazo en 2-5 años, y los de largo plazo, en más de 5 años.\nConvierte tus objetivos generales en específicos\nTe mostramos ejemplos de cómo pasar de un objetivo general a uno más específico y asumible.\nPasa el ratón por encima de cada objetivo general para descubrir los objetivos específicos.\n“Algún día quiero poder comprar mi propia casa.”\nEspecífico\nQuiero tener ahorrado 18.000 euros para la entrada de un piso que me quiero comprar dentro de 4 años.\n“Deseo dar a mis hijos una buena educación.”\nAntes de que cumpla mi hija 18 años, quiero tener inversiones en acciones, renta fija y depósitos por valor de 25.000 euros.\n“Quiero disfrutar de unas vacaciones de ensueño con mi pareja.”\nQuiero ahorrar 2.500 euros antes del próximo verano para poder sorprender a mi pareja con un crucero por el Mediterráneo.\n“Quiero vivir bien después de jubilarme.”\nQuiero acumular 90.000 euros en mi plan de pensiones antes de cumplir los 50 años."
+    }
+  ],
+  "text": "¿Cómo está tu salud financiera?\n¿Qué se entiende por salud financiera?\nEs algo que varía según nuestras necesidades y nuestra etapa de la vida. Tener salud financiera es tener seguridad financiera y eso NO significa ganar mucho dinero, aquí tenemos dos casos:\nJosé gana 50.000 euros al año. Tiene 3.000 euros ahorrados. Le quedan por pagar 400.000 euros de hipoteca por su chalet, 20.000 euros del préstamo de su coche y tiene un saldo de 6.000 euros de pagos aplazados en su tarjeta de crédito.\nInés gana 30.000 euros al año. Tiene 15.000 euros ahorrados. Le quedan por pagar 8.000 euros de la hipoteca de su piso, su coche está pagado y debe 250€ de su tarjeta de crédito, que abonará al final de mes.\n¿Quién de los dos tiene más seguridad financiera?¿Quién duerme mejor por la noche?\nQuien tiene sus gastos bajo control, quien no tiene deudas y quien aumenta mes a mes sus ahorros y su patrimonio.\nComprueba tu salud financiera\nAntes de nada, ¿te has preguntado cómo te encuentras? ¿Sabes cómo tienes tus niveles de colesterol? ¿Los triglicéridos? …si no te haces una analítica no lo sabrás. Pues también puedes hacer un chequeo para conocer tu salud financiera.\n{{ footerInfo }}\n¿Cuáles son tus objetivos financieros?\nReflexiona un momento y haz una lista por escrito de todos los objetivos financieros que se te ocurran para tu caso particular.\nPor ejemplo: comprar un piso, cambiar la televisión, hacer un crucero, hacer un blanqueamiento dental, ahorrar, etc.\nProbablemente, no será posible lograr a la vez todos los objetivos. Identifica en primer lugar los más importantes o los más urgentes. Puedes utilizar la herramienta para PRIORIZAR OBJETIVOS que te ayudará a identificar los más importantes.\nAdoptar el hábito de ahorrar algo cada mes, es esencial, y cuanto antes se empiece, mejor. Ahorrar lo suficiente te ayuda a conseguir no sólo seguridad, sino independencia financiera ¿Cómo conseguir la seguridad financiera? Empieza por conocer cuál es tu situación actual y cuáles son tus objetivos financieros concretos.\nHERRAMIENTAS\nPrioriza tus objetivos financieros\nAunque cada caso es un mundo, estos son algunos de los objetivos financieros más aconsejables:\n- Control de los gastos para llegar bien a fin de mes\n- Ahorrar más\n- Reducir o eliminar deudas\n- Preparar la jubilación\n- Proteger a la familia\nPonte objetivos concretos y específicos\nCuando un objetivo es demasiado general, se hace más dificil de conseguir. Es más fácil empezar si escogemos obgetivos más concretos. Un objetivo ha de ser SMART.\nS\nTener una meta clara y concreta te motivará más a conseguirla. Por ejemplo, no pienses en viajar como algo general. Piensa en todo lo que quieres ver y hacer durante tu fin de semana en una ciudad.\nM\nTienes que fijar un importe para saber cuándo has logrado el objetivo. El importe también es necesario para calcular cuánto tienes que ahorrar cada mes/semana. Así podrás planificar qué necesitarás hacer para alcanzar este ahorro.\nA\nAhorrar un millón de euros antes de fin de mes no es un objetivo, sino una fantasía. Establecer objetivos poco realistas solo te desmotivará.\nR\nAsegúrate de establecer objetivos que realmente sean importantes para TI, acordes con tus propios valores e intereses. Recuerda que los objetivos sirven para realizar TUS sueños. Piensa en las razones que tienes para lograr el objetivo.\nT\nDe la misma forma que hay que fijar un importe, hace falta especificar una fecha tope para el logro del objetivo. El tiempo y el importe permiten saber las acciones concretas que tomar (por ejemplo cuánto hay que ahorrar cada mes) para alcanzarlo.\nAdemás conviene clasificar tus objetivos a corto, medio y largo plazo, en función del tiempo que tienes para conseguirlos. Normalmente, un objetivo a corto plazo será alcanzable en 1-2 años o menos; uno a medio plazo en 2-5 años, y los de largo plazo, en más de 5 años.\nConvierte tus objetivos generales en específicos\nTe mostramos ejemplos de cómo pasar de un objetivo general a uno más específico y asumible.\nPasa el ratón por encima de cada objetivo general para descubrir los objetivos específicos.\n“Algún día quiero poder comprar mi propia casa.”\nEspecífico\nQuiero tener ahorrado 18.000 euros para la entrada de un piso que me quiero comprar dentro de 4 años.\n“Deseo dar a mis hijos una buena educación.”\nAntes de que cumpla mi hija 18 años, quiero tener inversiones en acciones, renta fija y depósitos por valor de 25.000 euros.\n“Quiero disfrutar de unas vacaciones de ensueño con mi pareja.”\nQuiero ahorrar 2.500 euros antes del próximo verano para poder sorprender a mi pareja con un crucero por el Mediterráneo.\n“Quiero vivir bien después de jubilarme.”\nQuiero acumular 90.000 euros en mi plan de pensiones antes de cumplir los 50 años.",
+  "text_len": 4732,
+  "num_headings": 1,
+  "metadata": {
+    "title": "¿Cómo está tu salud financiera? - Finanzas para todos",
+    "url": "https://www.finanzasparatodos.es/como-esta-tu-salud-financiera?mdrv=www.finanzasparatodos.es",
+    "hostname": "finanzasparatodos.es",
+    "sitename": "finanzasparatodos.es",
+    "date": "2024-01-01",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": true,
+  "csv_meta": {
+    "title": "Cómo está tu salud financiera",
+    "topic": "planificación",
+    "subtopic": "salud financiera",
+    "difficulty": "básico",
+    "format": "artículo web",
+    "summary": "Evalúa tu situación financiera con una herramienta rápida",
+    "learning_objective": "Diagnosticar puntos débiles en las finanzas personales"
+  },
+  "deduped_from": null
+}

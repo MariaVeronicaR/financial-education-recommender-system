@@ -1,0 +1,36 @@
+{
+  "content_id": "C039",
+  "title": "CNMV - Fondos inversión",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión son IIC (instituciones de inversión colectiva). Consisten en un patrimonio formado por las aportaciones de un número variable de inversores, denominados partícipes. El fondo lo crea una entidad, la gestora, que es la que invierte de forma conjunta esas aportaciones en diferentes activos financieros (renta fija, renta variable, derivados o cualquier combinación de estos, etc) siguiendo unas pautas fijadas de antemano.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Así, cada partícipe es propietario de una parte del patrimonio del fondo, en proporción al valor de sus aportaciones. Los aumentos o disminuciones del valor del patrimonio se atribuyen proporcionalmente a los partícipes.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos están regulados por una normativa que pone los límites a la forma en que la sociedad gestora puede invertir el dinero, con el fin de asegurar un nivel mínimo de diversificación, liquidez y transparencia.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Tanto el tipo de activos en los que invierte (política de inversión) como el resto de las características del fondo (comisiones, posibilidad de sacar el dinero, riesgo que se asume, horizonte temporal...), están recogidas en un documento llamado folleto informativo y en el resumen del mismo DFI (Datos Fundamentales para el Inversor).",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:13:44.835041+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 2511,
+    "input_tokens": 2456,
+    "output_tokens": 872
+  }
+}

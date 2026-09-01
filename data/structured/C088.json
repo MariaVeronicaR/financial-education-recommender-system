@@ -1,0 +1,110 @@
+{
+  "content_id": "C088",
+  "title": "¿Qué es la inflación? ¿Cómo nos afecta?",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Qué es la inflación? ¿Cómo nos afecta?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Consideramos que hay inflación cuando se produce un aumento sostenido y generalizado de los precios durante un cierto periodo de tiempo. Esto tiene como consecuencia que nuestro dinero va perdiendo valor con el paso del tiempo. Es decir, con cada euro que tenemos hoy, podemos comprar menos bienes o contratar menos servicios que ayer.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La inflación se mide a través de un índice de precios de consumo (IPC), que se construye calculando la variación de los precios de la “cesta de la compra”, es decir, del conjunto de bienes y servicios que las familias consumen habitualmente.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En los países de la zona euro medimos la inflación con el Índice Armonizado de Precios de Consumo (IAPC), utilizando todos la misma metodología (por eso se llama “armonizado”), de modo que podemos comparar la inflación entre los países.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Qué bienes y servicios tiene en cuenta el IAPC? Los que permiten representar mejor los hábitos medios de consumo del conjunto de las familias. Los bienes y servicios que se suelen consumir más tienen más peso en el índice.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Así pues, el impacto que tiene en el índice la variación en el precio de un determinado bien o servicio depende de los hábitos de consumo de las familias: Cuanto más alto es el gasto habitual en ese bien o servicio más influirá la variación de su precio en el IAPC.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por ejemplo, el gasto de electricidad de una familia es mucho mayor que el gasto que supone el consumo de mantequilla. Por tanto, una variación en el precio de la electricidad va a tener un impacto mucho mayor en el índice que el del precio de la mantequilla o el de otros muchos artículos de la cesta de referencia.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Y qué pasa con nuestros ahorros?",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Como ya hemos indicado anteriormente, cuando hay inflación nuestro dinero pierde valor.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por lo tanto, si queremos calcular la rentabilidad que nos puede generar una cantidad de dinero que hemos decidido mantener o invertir, tenemos que tener en cuenta la inflación y corregir la rentabilidad esperada restando la tasa de inflación.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Para evitar que nuestros ahorros pierdan valor con el tiempo en un escenario con inflación, la rentabilidad que nos ofrezcan por ellos debe ser superior a la tasa de inflación.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Por qué es importante la estabilidad de precios?",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hablamos de estabilidad de precios cuando la inflación es baja, se mantiene estable a lo largo del tiempo y resulta predecible. Si la evolución de los precios es predecible, y su tasa de variación es baja a lo largo del tiempo, nos resultará más fácil organizar nuestras finanzas y la estimación de nuestros gastos será más precisa. Además, este entorno general de menor incertidumbre influye positivamente en el crecimiento de la economía.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por ello, la política monetaria del Banco Central Europeo (BCE) tiene como misión principal la estabilidad de precios, que define en términos de un objetivo de inflación del 2% a medio plazo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Puedes encontrar datos estadísticos y más información sobre la inflación en la página web del BCEAbre en ventana nueva.",
+      "links": [
+        {
+          "text": "página web del BCE",
+          "href": "https://www.ecb.europa.eu/ecb/educational/hicp/html/index.es.html",
+          "start": 79,
+          "end": 97
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Si eres profesor de economía de los primeros cursos de secundaria (o un ciudadano con curiosidad) este material te puede interesar:",
+      "links": []
+    }
+  ],
+  "links": [
+    {
+      "text": "página web del BCE",
+      "href": "https://www.ecb.europa.eu/ecb/educational/hicp/html/index.es.html",
+      "start": null,
+      "end": null
+    }
+  ],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:30:09.179906+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 8606,
+    "input_tokens": 2526,
+    "output_tokens": 3210
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "content_id": "C013",
+  "tldr": "El contenido ofrece claves para organizar las finanzas personales y familiares: controlar los gastos y ajustar el estilo de vida al presupuesto. Aborda la gestión de productos bancarios, el trabajo como algo más que un sueldo, las opciones de comprar o alquilar vivienda, y destaca que al compartir las finanzas en pareja o en familia la comunicación y el alineamiento de objetivos son fundamentales.",
+  "key_points": [
+    "Es esencial controlar los gastos y ajustar tu estilo de vida a tu presupuesto para vivir con más tranquilidad.",
+    "Conviene informarse sobre los productos y servicios bancarios (cuentas, tarjetas, préstamos, apps) para aprovechar sus ventajas sin asumir riesgos.",
+    "El trabajo aporta mucho más que un sueldo mensual y forma parte de nuestra identidad y planificación.",
+    "Ante la decisión de dónde vivir, hay que valorar con calma las alternativas de comprar o alquilar.",
+    "Cuando las finanzas se vuelven en pareja o en familia, la comunicación y compartir los mismos objetivos financieros son imprescindibles."
+  ],
+  "quiz": [
+    {
+      "question": "Según el contenido, ¿cuál es la actitud clave para vivir con más tranquilidad económica?",
+      "options": [
+        "Ajustar tu estilo de vida a tu presupuesto controlando los gastos",
+        "Aumentar el gasto para mantener el mismo nivel de vida",
+        "Evitar informarse sobre los productos bancarios para no complicarse",
+        "Delegar siempre la gestión del dinero en otra persona"
+      ],
+      "correct_index": 0,
+      "explanation": "El texto indica que hay que disfrutar, pero es crucial controlar los gastos y ajustar el estilo de vida al presupuesto.",
+      "concept_id": "C01"
+    },
+    {
+      "question": "Cuando las finanzas personales se convierten en finanzas 'en pareja', ¿qué elemento destaca el contenido como fundamental para que la relación funcione?",
+      "options": [
+        "Que cada uno gestione su dinero sin contarle nada al otro",
+        "La comunicación y compartir los mismos objetivos financieros",
+        "Contratar el mayor número de productos bancarios posible",
+        "Que solo una persona tome todas las decisiones económicas"
+      ],
+      "correct_index": 1,
+      "explanation": "El contenido señala que la comunicación es fundamental y propone descubrir si ambos comparten los mismos objetivos financieros.",
+      "concept_id": "C16"
+    },
+    {
+      "question": "Ante la decisión de dónde vivir, ¿qué recomienda el contenido?",
+      "options": [
+        "Comprar siempre, ya que siempre es la mejor opción",
+        "Alquilar siempre para no asumir ningún compromiso",
+        "Consultar la sección de 'Hogar' para valorar comprar o alquilar y tomar la mejor alternativa",
+        "Posponer la decisión indefinidamente"
+      ],
+      "correct_index": 2,
+      "explanation": "El texto invita a consultar la sección de 'Hogar' para decidir entre comprar o alquilar y elegir la mejor alternativa.",
+      "concept_id": "C11"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5998,
+    "input_tokens": 1692,
+    "output_tokens": 924
+  }
+}

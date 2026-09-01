@@ -1,0 +1,57 @@
+{
+  "content_id": "C032",
+  "tldr": "Este contenido presenta un simulador oficial para calcular la TAE (Tasa Anual Equivalente) de un préstamo hipotecario, teniendo en cuenta el importe, el plazo, el tipo de interés y las comisiones y gastos, tanto los pagados en origen como los periódicos (p. ej. un seguro). El simulador permite modificar el tipo durante la vida del préstamo y comparar varias hipótesis. Su cálculo se basa en el sistema de amortización francés (cuotas mensuales iguales) y aplica una serie de simplificaciones, y su metodología se apoya en el Anexo II de la Ley 5/2019.",
+  "key_points": [
+    "La TAE se calcula a partir del importe, el plazo, el tipo de interés y las comisiones y otros gastos del préstamo, no solo del tipo nominal.",
+    "El simulador distingue entre los gastos pagados en origen (formalización) y los pagados de forma periódica, como un seguro.",
+    "Permite simular cambios de tipo de interés durante la vida del préstamo y comparar la TAE de varias simulaciones.",
+    "El cálculo asume el sistema de amortización francés: cuotas mensuales iguales, con intereses calculados como (Capital pendiente × tipo nominal anual) / 1200.",
+    "Se aplican simplificaciones: gastos pagados en la firma, cuotas mensuales, meses de igual duración y sin periodos de carencia; la metodología se basa en el Anexo II de la Ley 5/2019."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué elemento es imprescindible tener en cuenta para calcular la TAE de una hipoteca y que este simulador contempla explícitamente?",
+      "options": [
+        "Las comisiones y gastos, tanto de formalización como periódicos",
+        "Solo el tipo de interés nominal anual",
+        "El importe de la cuota mensual sin considerar gastos",
+        "La evolución del euríbor futuro"
+      ],
+      "correct_index": 0,
+      "explanation": "La TAE no depende solo del tipo nominal: incluye comisiones y gastos (en origen y periódicos, como un seguro), que es lo que permite comparar hipotecas de forma realista.",
+      "concept_id": "C19"
+    },
+    {
+      "question": "Según el simulador, ¿en qué sistema de amortización se basa el cálculo de las cuotas?",
+      "options": [
+        "Sistema francés, con cuotas mensuales iguales",
+        "Sistema americano, con pago de intereses y devolución del capital al final",
+        "Sistema alemán, con cuotas decrecientes",
+        "Amortización libre sin cuotas fijas"
+      ],
+      "correct_index": 0,
+      "explanation": "El simulador parte de la hipótesis de amortización por el sistema francés, es decir, cuotas mensuales iguales durante toda la vida del préstamo.",
+      "concept_id": "C11"
+    },
+    {
+      "question": "¿Cuál de las siguientes es una simplificación que aplica el simulador para poder calcular la TAE?",
+      "options": [
+        "No existen periodos de carencia y el primer pago se realiza un mes después de formalizar el préstamo",
+        "Los meses tienen duración variable según el calendario real",
+        "Los gastos se reparten a lo largo de toda la vida del préstamo",
+        "El tipo de interés permanece fijo en todos los casos"
+      ],
+      "correct_index": 0,
+      "explanation": "Entre las simplificaciones se incluye que no hay carencia y que el primer pago se efectúa exactamente un mes después de la formalización, además de meses con igual número de días.",
+      "concept_id": "C19"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5535,
+    "input_tokens": 1680,
+    "output_tokens": 1062
+  }
+}

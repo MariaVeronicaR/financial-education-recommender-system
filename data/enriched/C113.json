@@ -1,0 +1,57 @@
+{
+  "content_id": "C113",
+  "tldr": "La Web 3.0 es la evolución de internet hacia una web semántica, más inteligente, interoperable y segura, impulsada por la inteligencia artificial, la blockchain y el Internet de las cosas. Frente a la Web 1.0 (solo lectura) y la Web 2.0 (contenido generado por el usuario pero con datos centralizados), la Web 3.0 busca devolver al usuario el control de sus datos mediante la descentralización. No obstante, presenta barreras de adopción (conocimientos técnicos) y riesgos como la pérdida de claves privadas, el phishing o las vulnerabilidades de los smart contracts.",
+  "key_points": [
+    "La Web 1.0 era de solo lectura y estática; la Web 2.0 permitió contenido generado por el usuario pero concentró los datos en grandes empresas.",
+    "La Web 3.0 o 'web semántica' se basa en la interoperabilidad, la inteligencia artificial y la blockchain para una web más segura y personalizada.",
+    "La blockchain permite almacenar datos de forma descentralizada, dar al usuario control sobre su privacidad y hacer transacciones más transparentes.",
+    "Entre sus aplicaciones destacan la identidad digital descentralizada, los smart contracts, la gestión de derechos de autor y los juegos con recompensas en criptoactivos.",
+    "Sus riesgos incluyen la pérdida de claves privadas, phishing, estafas, fallos de smart contracts y la estabilidad aún no probada de la red."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cuál es la principal diferencia entre la Web 2.0 y la Web 3.0 en cuanto al control de los datos?",
+      "options": [
+        "En la Web 3.0 los datos se almacenan de forma descentralizada y el usuario tiene más control sobre su privacidad",
+        "En la Web 3.0 las grandes empresas centralizan todos los datos de los usuarios",
+        "La Web 2.0 ya era descentralizada y la Web 3.0 vuelve a centralizar los datos",
+        "La Web 3.0 elimina por completo la necesidad de internet para acceder a los datos"
+      ],
+      "correct_index": 0,
+      "explanation": "La Web 2.0 concentraba los datos en las empresas propietarias de las plataformas, mientras que la Web 3.0 usa la blockchain para almacenarlos de forma descentralizada y dar al usuario control sobre su privacidad.",
+      "concept_id": "C29"
+    },
+    {
+      "question": "En el contexto de la Web 3.0, ¿qué función cumplen los 'smart contracts'?",
+      "options": [
+        "Son contratos que requieren siempre la intervención de un notario o intermediario para ejecutarse",
+        "Son programas autoejecutables en blockchain que ejecutan los términos del contrato automáticamente al cumplirse ciertas condiciones",
+        "Son páginas web estáticas que muestran información sin permitir interacción",
+        "Son herramientas para crear contenido en redes sociales de forma colaborativa"
+      ],
+      "correct_index": 1,
+      "explanation": "Los smart contracts son programas que se ejecutan automáticamente en la blockchain cuando se cumplen las condiciones pactadas, reduciendo la necesidad de intermediarios.",
+      "concept_id": "C27"
+    },
+    {
+      "question": "¿Cuál de los siguientes se considera un riesgo específico al operar en la Web 3.0?",
+      "options": [
+        "Que las empresas centralizadas roben los datos de los usuarios sin su consentimiento",
+        "Perder el acceso a los activos digitales si se pierde o compromete la clave privada de la wallet",
+        "Que los sitios web sean de solo lectura y no permitan generar contenido",
+        "Que las transacciones sean siempre opacas y no se puedan registrar"
+      ],
+      "correct_index": 1,
+      "explanation": "La clave privada es esencial para acceder a la wallet; si se pierde o se compromete, el usuario puede perder el acceso a sus activos digitales, un riesgo típico de la Web 3.0.",
+      "concept_id": "C15"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5750,
+    "input_tokens": 4082,
+    "output_tokens": 1140
+  }
+}

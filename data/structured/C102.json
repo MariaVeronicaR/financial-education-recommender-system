@@ -1,0 +1,649 @@
+{
+  "content_id": "C102",
+  "title": "Sus derechos como inversor MiFID",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "I. Introducción"
+    },
+    {
+      "type": "paragraph",
+      "text": "La mayor complejidad y sofisticación de los mercados financieros ha dado lugar al desarrollo, en los últimos años, de una normativa a nivel europeo cuyo principal objetivo es reforzar las medidas dirigidas a la protección de los inversores minoristas, es decir, de los que como usted, no invierten de forma profesional.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta normativa, conocida como MiFID¹, trasladada a la legislación española, regula cómo han de desarrollarse las relaciones entre inversores y entidades financieras.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La protección que le proporciona MiFID"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si ya es inversor o si está planeando invertir en instrumentos financieros, esta Guía es para usted.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "1. Markets in Financial Instruments Directive. Directiva sobre mercados de instrumentos financieros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando usted acuda a una entidad financiera para invertir en productos como acciones, fondos de inversión, renta fija o derivados, encontrará que su entidad:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Le solicitará información para conocerle lo mejor posible y así poder ayudarle a tomar sus decisiones de inversión y prestarle los servicios más adecuados.",
+        "Sólo le ofrecerá los productos que considere adecuados para usted, teniendo en cuenta sus conocimientos y experiencia para valorar correctamente su naturaleza y riesgos.",
+        "Cuando le proporcione asesoramiento personalizado o gestione su cartera, se asegurará de que el servicio es acorde a sus conocimientos, experiencia, objetivos de inversión y situación financiera.",
+        "Identificará si sus necesidades, características y objetivos son compatibles con el instrumento financiero.",
+        "Le facilitará información antes, durante y después de realizar la inversión. Recibirá información sobre los riesgos que asume y las comisiones y gastos directos e indirectos.",
+        "Al ejecutar sus órdenes, tratará de obtener el mejor resultado posible para usted."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Para que la entidad financiera le pueda prestar el mejor servicio, usted, como inversor, debe asumir un papel activo a la hora de realizar una inversión responsable.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Habitúese a buscar, demandar y leer con criterio la información que le suministrará su entidad para ayudarle a tomar decisiones de inversión.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Y recuerde: cuanto mejor le conozca su entidad, mejor servicio le podrá prestar.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En esta Guía descubrirá cómo actuar con su entidad financiera siguiendo cada una de las fases del proceso de inversión.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. La mejor protección del inversor en MiFID"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta Guía le presenta los principales aspectos recogidos en la Directiva de Mercados de Instrumentos Financieros, más conocida por sus siglas en inglés, MiFID. Esta normativa europea, cuyo principal objetivo es mejorar la protección de los inversores, se ha trasladado a la legislación española.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Piense en sus actuales productos financieros. Probablemente una o varias cuentas corrientes, algún préstamo (como la hipoteca de su casa), una tarjeta de crédito, quizá algunas acciones, un fondo de inversión, uno o más seguros, tal vez un plan de pensiones…",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta normativa sólo se aplica a algunos de estos productos, como las acciones, los valores de renta fija, los fondos de inversión y los derivados (que se denominan productos MiFID). No se aplica a los productos puramente bancarios (por ejemplo las cuentas bancarias o los préstamos), ni a los seguros. Su entidad financiera podrá ofrecerle servicios de inversión tales como la compra/venta, el asesoramiento de inversiones o la gestión de su cartera, entre otros, sobre los mencionados productos financieros (o productos MiFID)1.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "1. No obstante lo anterior, existen determinados productos que no son instrumentos del mercado de valores o productos Mifid, denominados depósitos estructurados, a los que sí les son aplicables las normas de protección al inversor.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El grado de protección se establece en función de la complejidad de los productos y servicios que la entidad le ofrezca o usted solicite y de su capacidad para comprender y asumir su naturaleza y riesgos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Para mejorar la protección del inversor, la normativa establece tres principios básicos que deben cumplir las entidades financieras cuando prestan servicios de inversión:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Actuar de forma honesta, imparcial y profesional, en el mejor interés de sus clientes. Este principio le protege cuando contrata con una entidad financiera que, como profesional, está en una posición de ventaja respecto a usted.",
+        "Proporcionar información, antes y después de la prestación del servicio, imparcial, clara y no engañosa a sus clientes. Esto le ayudará a comprender los productos y servicios de inversión y a tomar decisiones informadas.",
+        "Prestar servicios y ofrecer productos teniendo en cuenta las circunstancias personales de los clientes. Con esto se pretende evitar que usted contrate productos o servicios que no pueda comprender, no ajustados a su perfil o que no satisfagan sus necesidades o expectativas."
+      ]
+    },
+    {
+      "type": "highlight",
+      "text": "Para mejorar la protección del inversor, la normativa trata de asegurar que tiene toda la información necesaria para tomar decisiones y comprender los riesgos de los productos y servicios de inversión."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "III. Parte 1: Antes de invertir."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1.1 ¿Qué tipo de cliente es usted?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si usted ya es cliente de un intermediario financiero, éste le habrá comunicado su condición de cliente minorista. Esta es la categoría en la que se encuentran la mayoría de los inversores particulares.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Su clasificación como minorista viene dada por la necesidad de establecer diferentes mecanismos de protección en función de la tipología de los clientes, ya que no todos son iguales y por tanto no todos necesitan el mismo grado de protección.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los clientes minoristas son aquellos a los que se les suponen menos conocimientos y experiencia en los mercados financieros y que, por ello, reciben el máximo grado de protección. Los clientes con mayor conocimiento y experiencia (clientes profesionales) reciben menos protección ya que tienen más capacidad para comprender la naturaleza y riesgos de los mercados, productos y servicios de inversión.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Son clientes profesionales, entre otros, los bancos, empresas de servicios de inversión, compañías de seguros, fondos de pensiones, ciertas grandes compañías, los gobiernos nacionales y regionales y algunos inversores particulares que lo soliciten y cumplan unas condiciones.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Qué ocurre si usted solicita (o su entidad le propone) ser tratado como profesional?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La normativa permite que un cliente minorista pueda ser tratado como cliente profesional siempre que cumpla unas determinadas condiciones y procedimiento.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Si lo hace, renunciará a parte de la protección que la normativa ofrece a los clientes minoristas por lo que debe sentirse cómodo con ese menor nivel de protección y estar seguro de que es capaz de adoptar sus propias decisiones de inversión y de valorar adecuadamente los riesgos en los que incurra.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de considerarle profesional, su entidad deberá asegurarse de que esta categoría es adecuada para usted y que cumple con determinadas condiciones relativas a la frecuencia y volumen de operaciones que ha realizado, al valor de su cartera y a su experiencia profesional en los mercados. Al margen de lo anterior:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Deberá solicitar por escrito su clasificación como cliente profesional, bien con carácter general, bien para un servicio o transacción determinada o para un tipo de producto o transacción específico.",
+        "La entidad deberá advertirle claramente por escrito de las protecciones y posibles derechos de los que se vería privado.",
+        "Además deberá declarar por escrito, en un documento distinto al del contrato, que conoce las consecuencias derivadas de su renuncia a la clasificación como cliente minorista."
+      ]
+    },
+    {
+      "type": "highlight",
+      "text": "Los inversores minoristas reciben mayor protección que los profesionales."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1.2 ¿Qué información va a recibir?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las entidades que prestan servicios de inversión deben mantener, en todo momento (de forma previa y con posterioridad) adecuadamente informados a sus clientes. Además, toda la información que reciba el cliente debe ser “imparcial, clara y no engañosa” tanto en lo que se refiere a su contenido como a la forma en la que se le presente.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Publicidad"
+    },
+    {
+      "type": "paragraph",
+      "text": "La creciente variedad de productos, su complejidad y la mayor competencia entre entidades, hacen que la publicidad tenga gran influencia en los inversores. Sin embargo, tenga en cuenta que nunca debe tomar una decisión de inversión basándose sólo en la publicidad.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La publicidad debe ser imparcial, clara y no engañosa para evitar que le induzca a confusión o le cree expectativas poco realistas. Además, la publicidad debe ser claramente identificable como tal.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Información sobre la empresa y sus servicios"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si usted todavía no es cliente de un intermediario financiero y pretende serlo, para que pueda elegir el intermediario que más le convenga, al acercarse a la entidad le deben informar sobre la propia empresa y los servicios que presta de modo que le ayude a entender su naturaleza y riesgos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "También le deben facilitar los datos que le permitan comprobar que la entidad está inscrita en la CNMV y autorizada para prestar el servicio que le ofrece.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Información sobre los productos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Además, cuando vaya a contratar un producto financiero, para que pueda decidir si se ajusta a sus necesidades, su entidad debe proporcionarle con suficiente antelación, con el detalle que sea necesario, información sobre su naturaleza y riesgos y sus efectos, riesgo de pérdida total, etc. Esta explicación deberá incluir información sobre el funcionamiento del producto, y cuál puede ser su rendimiento en diferentes condiciones de los mercados financieros.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Información sobre costes y gastos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de contratar un producto o un servicio de inversión recibirá también información sobre los costes totales que va a tener que asumir, incluyendo todos los honorarios, comisiones, costes y gastos asociados, relacionados tanto con el producto como con el servicio y todos los impuestos a liquidar a través de la entidad. En caso de que pudieran surgir otros costes, incluido el pago de impuestos, como consecuencia de transacciones vinculadas al instrumento financiero o al servicio en cuestión y que no se paguen a través de la entidad, se le advertirá de su existencia. Usted podrá solicitar el detalle de todos los costes que tiene que asumir.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Términos de los contratos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si usted es un nuevo cliente minorista, deberá suscribir con su entidad un contrato que regule los derechos y obligaciones de ambos en la prestación del servicio de inversión. Es obligatorio que el contrato conste por escrito excepto cuando la entidad preste un servicio de asesoramiento sin evaluación periódica de idoneidad.",
+      "links": []
+    },
+    {
+      "type": "highlight",
+      "text": "Su entidad deberá facilitarle toda esta información con suficiente antelación, es decir, con el tiempo suficiente para que la pueda leer y comprender y pueda tomar así una decisión meditada, sin precipitación ni bajo presión"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1.3 ¿Cómo se clasifican los productos financieros?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las obligaciones de evaluación de la adecuación del producto al cliente varían, con carácter general, en función del tipo de producto sobre el que se preste el servicio en cuestión. Una correcta clasificación de los instrumentos financieros por parte de las entidades es fundamental para una adecuada protección de los clientes.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los productos financieros pueden clasificarse en dos tipos: los llamados productos complejos y los productos no complejos.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ejemplos de productos no complejos"
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Acciones cotizadas en mercados regulados",
+        "Letras del Tesoro",
+        "Bonos y obligaciones del Estado",
+        "Fondos de inversión ordinarios",
+        "Bonos y obligaciones corporativas cotizados en mercados regulados que no incorporan un derivado implícito"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ejemplos de productos complejos:"
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Opciones y futuros",
+        "Warrants y turbowarrants",
+        "Contratos por diferencias (CFD)",
+        "Fondos de inversión libre (Hedge Funds)",
+        "Swaps"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "¿En qué se diferencian unos de otros?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los productos no complejos deben cumplir todas y cada una de las siguientes características:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Se pueden reembolsar de forma frecuente a precios conocidos por el público. En general, siempre es fácil conocer su valor en cualquier momento y hacerlos efectivos.",
+        "El inversor no puede perder un importe superior a su coste de adquisición, es decir, a lo que invirtió inicialmente.",
+        "Existe información pública, completa y comprensible para el inversor minorista sobre las características del producto.",
+        "No son productos derivados.",
+        "No incorporan cláusulas o condiciones que podrían alterar el riesgo de la inversión o el perfil de pagos (por ejemplo, los bonos convertibles o los bonos emitidos por bancos que pueden ser convertidos en acciones en caso de necesidades de capital del banco).",
+        "No incluyen ningún coste de salida que provoque que al inversor no va a compensarle vender el producto."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Los productos complejos son los que no cumplen con alguna de las características anteriores. Pueden suponer mayor riesgo para el inversor, suelen tener menor liquidez (en ocasiones no es posible conocer su valor en un momento determinado) y, en definitiva, es más difícil entender tanto sus características como el riesgo que llevan asociado.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1.4 ¿Qué servicios puede recibir?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Usted puede contratar con su entidad, entre otros, alguno de los siguientes servicios de inversión:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Compra y venta de productos financieros. La entidad tramita sus órdenes.",
+        "Asesoramiento de inversión. La entidad le da recomendaciones personalizadas de inversión.",
+        "Gestión de carteras. La entidad gestiona sus inversiones."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "¿Qué información le solicitará su entidad? ¿Por qué me hacen tantas preguntas y, en algunos casos, tan personales?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Uno de los aspectos más importantes y llamativos es la abundante información que le solicitará su entidad. Debe procurar responder a estas preguntas de modo veraz y con la mayor precisión para que la entidad le pueda prestar el servicio de la mejor manera posible.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La entidad le puede preguntar si sabe cómo funciona algún producto, si lo ha comprado antes, cuál es su grado de conocimiento de los mercados financieros, cuál es su objetivo al invertir, cuánto riesgo está dispuesto a asumir o incluso cuáles son sus ingresos, gastos, patrimonio y deudas.",
+      "links": []
+    },
+    {
+      "type": "highlight",
+      "text": "Las entidades deben solicitarle información para conocerle lo mejor posible y así poder ayudarle a tomar las decisiones de inversión y prestarle los servicios más adecuados para usted."
+    },
+    {
+      "type": "paragraph",
+      "text": "Veamos las situaciones que se pueden plantear al invertir en productos financieros y los diferentes grados de protección que se aplican a cada caso.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Compra y venta de productos financieros"
+    },
+    {
+      "type": "paragraph",
+      "text": "Su entidad deberá ofrecerle los productos que considere adecuados para usted. Por ello, le pedirá información sobre sus conocimientos y experiencia previa en los mercados financieros con el fin de asegurarse de que usted es capaz de comprender la naturaleza y riesgos de los productos que le ofrece.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El conjunto de preguntas que le harán para determinar si un producto o servicio de inversión es adecuado para usted, se denomina evaluación de la conveniencia, que habitualmente se realiza a través del denominado test de conveniencia.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El test de conveniencia trata de valorar sus conocimientos y experiencia en el ámbito de inversión correspondiente al tipo concreto de producto o servicio ofrecido o solicitado. Para ello le formularán preguntas sobre:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Los tipos de servicios, operaciones e instrumentos financieros con los que usted está familiarizado.",
+        "La naturaleza, frecuencia, volumen y periodo en el que usted ha operado previamente.",
+        "Su nivel de educación y su profesión actual o anterior."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Si usted ya fuera cliente, puede ocurrir que la entidad disponga de esa información y no precise pedírsela de nuevo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La entidad debe informarle del resultado del test de conveniencia y entregarle una copia del documento que recoja la evaluación realizada.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Si usted no proporciona la información necesaria, la entidad no podrá determinar si el producto o servicio es adecuado para usted o no, por lo que le debe advertir de que la deficiencia de información le impide determinar si el servicio de inversión o el producto es adecuado. La advertencia tendrá el siguiente contenido:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "“Le informamos de que dadas las características de esta operación XXX, la entidad ZZZ está obligada a evaluar la conveniencia de la misma para usted; es decir, evaluar si, a nuestro juicio, usted posee conocimientos y experiencia necesarios para comprender la naturaleza y riesgos del instrumento sobre el que desea operar. Al no haber proporcionado los datos necesarios para realizar dicha evaluación, usted pierde esta protección establecida para los inversores minoristas. Al no realizar dicha evaluación, la entidad no puede formarse una opinión respecto a si esta operación es o no conveniente para usted.”",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Si usted solicita la compra de un producto complejo, su entidad además deberá recabar la firma del texto anterior unida a una expresión manuscrita que dirá: “Este es un producto complejo y por falta de información no ha podido ser evaluado como conveniente para mí.”",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando realizada la evaluación, la entidad considere que el servicio o producto no sea conveniente para usted, deberá advertírselo. La advertencia tendrá el siguiente contenido:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "“Le informamos de que dadas las características de esta operación XXX, la entidad ZZZ está obligada a evaluar la conveniencia de la misma para usted. En nuestra opinión esta operación no es conveniente para usted. Una operación no resulta conveniente cuando el cliente carece de los conocimientos y experiencia necesarios para comprender la naturaleza y riesgos del instrumento financiero sobre el que va a operar”.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando la operación se realice sobre un instrumento complejo, la entidad deberá recabar su firma con el texto anterior, al que se le añadirá la expresión manuscrita siguiente:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "“Este producto es complejo y se considera no conveniente para mí.”",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Si usted ha sido advertido, bien de la imposibilidad de determinar si el producto es adecuado o bien de que no es conveniente, es importante que se plantee si proceder con la compra del producto. Si pese a las advertencias usted decide proseguir con la compra, la entidad podrá tramitar la operación.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sólo cuando usted tome la iniciativa para contratar un producto considerado no complejo, su entidad le advertirá de que no tiene obligación de valorar si el producto es adecuado para usted y ejecutará su orden de compra sin saber si el producto es conveniente o no. Este supuesto se denomina sólo ejecución.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En el caso de que la entidad le preste el servicio por el canal telefónico, usted deberá repetir literalmente la expresión que corresponda, que deberá ser grabada. En el caso de que la operación se tramite por internet, deberá teclear la expresión que corresponda con carácter previo a cursar la orden.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Asesoramiento de inversiones"
+    },
+    {
+      "type": "paragraph",
+      "text": "El asesoramiento de inversiones es la realización de recomendaciones personalizadas, ya sea de forma puntual o continuada. Al asesorarle su entidad debe recomendarle los productos que mejor se ajusten a su situación personal, para lo cual tendrá que analizar sus conocimientos y experiencia previa, así como sus objetivos de inversión y su situación financiera. Sólo le recomendarán los productos que mejor se ajusten a su nivel de tolerancia al riesgo y capacidad para soportar pérdidas.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El conjunto de preguntas que le harán para obtener esta información es lo que se denomina evaluación de la idoneidad, que habitualmente se realiza a través del denominado test de idoneidad.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El test de idoneidad pretende asegurar que las recomendaciones personalizadas que le haga la entidad sean las más adecuadas para usted teniendo en cuenta su situación particular. Le formularán preguntas sobre:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Sus conocimientos y experiencia previos (test de conveniencia).",
+        "Su situación financiera, que podrá ser analizada con información sobre: Su situación laboral, la fuente y nivel de sus ingresos regulares. Su patrimonio, incluyendo activos y pasivos financieros, inversiones, inmuebles, liquidez... Sus gastos y pagos periódicos, sus necesidades de liquidez, etc.",
+        "Sus objetivos de inversión, que podrán ser determinados con preguntas sobre: El tiempo en el que se desea o se está dispuesto a mantener la inversión propuesta. Su perfil y apetito por el riesgo"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Si usted no proporciona la información necesaria para que puedan evaluar la idoneidad, su entidad no podrá recomendarle servicios o actividades de inversión o instrumentos financieros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La entidad deberá proporcionarle de forma previa a que exista ningún compromiso de compra por escrito o a través de otro soporte duradero, una descripción de cómo se ajusta la recomendación realizada a sus características y objetivos cada vez que emita una recomendación.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La entidad le puede solicitar que manifieste que no ha sido asesorado en una operación concreta (en el caso de que le preste un servicio sobre un producto complejo diferente al asesoramiento o gestión de carteras). Para ello, junto a su firma, deberá incluir la expresión “No he sido asesorado en esta operación”.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "¿Asesoramiento independiente o no independiente?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Usted deberá ser informado de forma previa sobre si la entidad le está prestando un servicio de asesoramiento independiente o no independiente.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Las entidades que le presten asesoramiento independiente, a la hora de hacer recomendaciones, no podrán considerar únicamente instrumentos financieros emitidos por la propia entidad, una entidad de su grupo u otras con las que tengan participación en el capital, relaciones de control o relaciones jurídicas, económicas o contractuales. En conclusión, la entidad deberá evaluar una gama suficientemente diversificada de instrumentos financieros disponibles en el mercado antes de emitirle una recomendación.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por otro lado, cuando una entidad le preste asesoramiento dependiente (o no independiente) deberá ser informado de este hecho. La entidad tendrá en cuenta un rango restringido de productos a la hora de asesorarle.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En todo caso, las recomendaciones que le hagan deben ser siempre las más idóneas para usted.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Además, la entidad deberá informarle de forma previa si le realizará una evaluación periódica de idoneidad de los instrumentos financieros que le ha recomendado.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Gestión de carteras"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando contrata la gestión de su cartera, usted está confiando en la entidad la selección de productos, la toma de decisiones de inversión y la ejecución de operaciones por su cuenta. En este caso, al igual que en el asesoramiento, la entidad debe asegurarse de que el servicio es adecuado a sus conocimientos y experiencia, objetivos de inversión y situación financiera. Por tanto, también deberá efectuar la evaluación de la idoneidad o test de idoneidad. La entidad no podrá incluir en su cartera instrumentos financieros que no sean idóneos para usted.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Si la entidad no dispone de la información necesaria para completar dicha evaluación o test de idoneidad no le podrá prestar el servicio de gestión de carteras.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Usted como cliente deberá, al menos, entender los riesgos totales de su cartera y poseer conocimientos generales sobre los riesgos asociados a cada tipo de instrumentos financiero que pueda ser incluido en la cartera.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El siguiente diagrama y ejemplos prácticos resumen las diferentes situaciones que se pueden dar cuando usted acude a su entidad financiera para contratar un servicio de inversión sobre productos MiFID.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ejemplo sólo ejecución:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Usted acude a su sucursal y solicita por iniciativa propia la suscripción de una Letra del Tesoro.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ejemplo test de conveniencia:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Usted acude a su sucursal para informarse sobre un nuevo fondo ya que ha recibido una llamada de la oficina ofreciéndoselo.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ejemplo test de idoneidad:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Usted dispone de unos ahorros que desea invertir. Acude a su sucursal y solicita que le recomienden el producto que encaje con sus objetivos y circunstancias personales.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "IV. Parte 2: Durante y después de la inversión"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2.1 ¿Qué ocurre cuando da una orden a una entidad?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "¿Cómo se gestiona su orden?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando usted ordena la compra o la venta de un producto financiero, la entidad debe ejecutar su orden de forma pronta y secuencial, es decir, lo antes posible y en el orden en el que la haya recibido.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La entidad deberá informarle si encuentra alguna dificultad que le impida la debida ejecución de su orden.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "¿Qué es la “mejor ejecución”?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para concluir la compra o la venta, su entidad debe ejecutar su orden tratando de conseguir el mejor resultado posible para usted. Lo que se denomina “mejor ejecución”.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A tal fin, su entidad debe identificar los centros de negociación más adecuados (bolsas de valores, otros sistemas organizados o entidades especializadas), teniendo en cuenta una serie de factores como el precio, los costes, la rapidez y la probabilidad de ejecución y liquidación, el volumen, la naturaleza de la operación y cualquier otro elemento relevante para la ejecución de la orden.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "De éstos, los más importantes para usted, como inversor minorista, son el precio y los costes totales de ejecución, es decir, la cantidad total que usted deberá desembolsar (o que recibirá) por la operación, incluyendo el precio, todos los gastos y comisiones de ejecución, compensación y liquidación, incluso los que puedan ser abonados a otros intermediarios que intervengan en la operación.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de atender su orden, la entidad le habrá informado y recabado su previo consentimiento a su política de ejecución.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Si usted cree que su orden no se ha ejecutado en los mejores términos posibles, puede solicitar a la entidad que le justifique que la ejecución se ha hecho de acuerdo con su política de ejecución.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:34:45.808495+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 43432,
+    "input_tokens": 9498,
+    "output_tokens": 16000
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "content_id": "C092",
+  "title": "Qué son las comisiones bancarias",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Qué son las comisiones bancarias"
+    },
+    {
+      "type": "paragraph",
+      "text": "Son las cantidades que los bancos te adeudan como contraprestación a los servicios que prestan (por ejemplo, enviar una transferencia, cambiar divisas, administrar una cuenta, estudiar la viabilidad de un préstamo, concederte una tarjeta de crédito, etc.).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los bancos pueden también repercutirte el coste de los gastos justificados que tengan que pagar a terceros para poder prestar el servicio que le has solicitado. Las comisiones pueden cobrarse juntas, como un solo cargo genérico (es el caso de las llamadas tarifas planas) o separadas, es decir, un cargo individualizado por cada servicio prestado.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay que tener en cuenta que:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Las tarifas o precios de las comisiones bancarias son libres. El Banco de España no autoriza ni consiente, no puede denegar, ni limitar, el importe de las comisiones bancarias. Los bancos pueden poner el importe o precio que estimen oportuno, salvo en aquellas operaciones bancarias en las que los importes estén limitados por norma, como sucede –por ejemplo- con la cancelación o amortización anticipada de un préstamo hipotecario o de un crédito al consumo.",
+        "Las comisiones bancarias y los gastos deben responder a servicios efectivamente prestados o gastos habidos. No pueden cobrarte por servicios que no hayas solicitado o aceptado. En todo caso, deberá informarte personalmente y por anticipado del importe que vas a pagar por ese servicio."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando se modifiquen las condiciones que afectan a los contratos, deberán comunicar a los clientes afectados, con una antelación a su aplicación de al menos dos meses en los servicios de pago y un mes en el resto, si la duración del contrato rebasa tal plazo.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:31:09.784523+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 2584,
+    "input_tokens": 2140,
+    "output_tokens": 671
+  }
+}

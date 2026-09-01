@@ -1,0 +1,591 @@
+{
+  "content_id": "C080",
+  "url": "https://www.bbva.com/es/salud-financiera/guia-de-finanzas-para-no-financieros-interes-compuesto/",
+  "source": "OECD",
+  "host": "www.bbva.com",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 171864
+  },
+  "title": "Guía de finanzas para no financieros: interés compuesto",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Interés compuesto: ¿qué es y cómo calcularlo?"
+    },
+    {
+      "level": 2,
+      "text": "¿Qué es el interés compuesto?"
+    },
+    {
+      "level": 2,
+      "text": "¿Cómo funciona el interés compuesto?"
+    },
+    {
+      "level": 2,
+      "text": "¿En qué se diferencia el interés compuesto del interés simple?"
+    },
+    {
+      "level": 2,
+      "text": "¿Cómo calcular el interés compuesto? Ejemplo práctico"
+    },
+    {
+      "level": 2,
+      "text": "Fórmula del interés compuesto"
+    },
+    {
+      "level": 3,
+      "text": "Capital final = C₀ × (1 + i) ^ t"
+    },
+    {
+      "level": 4,
+      "text": "Ejemplo:"
+    },
+    {
+      "level": 2,
+      "text": "La magia del interés compuesto"
+    },
+    {
+      "level": 3,
+      "text": "Ejemplo práctico:"
+    },
+    {
+      "level": 2,
+      "text": "Interés compuesto con aportaciones mensuales"
+    },
+    {
+      "level": 3,
+      "text": "Ejemplo:"
+    },
+    {
+      "level": 2,
+      "text": "¿Cómo afecta el interés compuesto a un préstamo?"
+    },
+    {
+      "level": 3,
+      "text": "Ejemplo de préstamo con interés compuesto:"
+    },
+    {
+      "level": 4,
+      "text": "Cálculo de intereses:"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Interés compuesto: ¿qué es y cómo calcularlo?",
+      "start": 0,
+      "end": 381,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "¿Qué es el interés compuesto?",
+      "start": 381,
+      "end": 1000,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "¿Cómo funciona el interés compuesto?",
+      "start": 1000,
+      "end": 1265,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "¿En qué se diferencia el interés compuesto del interés simple?",
+      "start": 1265,
+      "end": 1329,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "¿Cómo calcular el interés compuesto? Ejemplo práctico",
+      "start": 1329,
+      "end": 1744,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Fórmula del interés compuesto",
+      "start": 1744,
+      "end": 1861,
+      "found": true
+    },
+    {
+      "level": 3,
+      "heading": "Capital final = C₀ × (1 + i) ^ t",
+      "start": 1861,
+      "end": 1978,
+      "found": true
+    },
+    {
+      "level": 4,
+      "heading": "Ejemplo:",
+      "start": 1978,
+      "end": 2251,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "La magia del interés compuesto",
+      "start": 2251,
+      "end": 2454,
+      "found": true
+    },
+    {
+      "level": 3,
+      "heading": "Ejemplo práctico:",
+      "start": 2454,
+      "end": 2633,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Interés compuesto con aportaciones mensuales",
+      "start": 2633,
+      "end": 2764,
+      "found": true
+    },
+    {
+      "level": 3,
+      "heading": "Ejemplo:",
+      "start": 2764,
+      "end": 3209,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "¿Cómo afecta el interés compuesto a un préstamo?",
+      "start": 3209,
+      "end": 3355,
+      "found": true
+    },
+    {
+      "level": 3,
+      "heading": "Ejemplo de préstamo con interés compuesto:",
+      "start": 3355,
+      "end": 3450,
+      "found": true
+    },
+    {
+      "level": 4,
+      "heading": "Cálculo de intereses:",
+      "start": 3450,
+      "end": 3736,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Interés compuesto: ¿qué es y cómo calcularlo?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Se dice que, en una ocasión, alguien le preguntó a Albert Einstein sobre cuál era la fuerza más poderosa del universo, a lo que él contestó: “el interés compuesto”. Sea cierta o no esta famosa cita, lo cierto es que el interés compuesto es una de las herramientas más potentes para hacer crecer tus ahorros o inversiones a largo plazo.",
+      "links": [
+        {
+          "text": "Albert Einstein",
+          "href": "https://es.wikipedia.org/wiki/Albert_Einstein",
+          "start": 51,
+          "end": 66
+        },
+        {
+          "text": "interés",
+          "href": "https://www.youtube.com/watch?v=plqP8f_7Qj4",
+          "start": 145,
+          "end": 152
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Qué es el interés compuesto?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El tipo o tasa de interés es un porcentaje que se aplica como concepto de pago por el dinero durante un tiempo determinado. Es el precio del dinero. Se utiliza para saber el coste de un crédito o la rentabilidad de los ahorros o de una inversión.\nEl interés compuesto es el que se va sumando al capital inicial y sobre el que se van generando nuevos intereses. El dinero, en este caso, tiene un efecto multiplicador porque los intereses producen nuevos intereses. Sin embargo, en el caso del interés o capitalización simple, los rendimientos siempre se generan sobre el capital original.",
+      "links": [
+        {
+          "text": "rentabilidad",
+          "href": "https://www.bbva.com/es/salud-financiera/como-calcular-la-rentabilidad-de-una-inversion/",
+          "start": 199,
+          "end": 211
+        },
+        {
+          "text": "inversión",
+          "href": "https://www.bbva.com/es/salud-financiera/que-son-las-inversiones-financieras-y-que-tipos-existen/",
+          "start": 236,
+          "end": 245
+        },
+        {
+          "text": "capitalización simple",
+          "href": "https://www.bbva.com/es/salud-financiera/que-diferencias-hay-entre-capitalizacion-simple-y-compuesta/",
+          "start": 502,
+          "end": 523
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Cómo funciona el interés compuesto?"
+    },
+    {
+      "type": "paragraph",
+      "text": "En el caso del interés compuesto:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "El capital inicial va creciendo en cada periodo porque se van sumando los intereses.",
+        "La tasa de interés se aplica sobre un capital que va cambiando.",
+        "Los intereses aumentan en cada periodo."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿En qué se diferencia el interés compuesto del interés simple?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Cómo calcular el interés compuesto? Ejemplo práctico"
+    },
+    {
+      "type": "paragraph",
+      "text": "La fórmula para calcular este tipo de interés puede resultar enrevesada, por lo que es preferible empezar con un ejemplo:\nImagina que tienes 100 euros en una cuenta con un interés del 10% anual:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Año 1: 100 € + 10% = 110 €"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Año 2: 110 € + 10% = 121 €"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Año 3: 121 € + 10% = 133,10 €"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Y así sucesivamente…\nCada año, el interés se calcula sobre un monto mayor."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fórmula del interés compuesto"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para calcular el monto final con interés compuesto, utiliza la siguiente fórmula:"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Capital final = C₀ × (1 + i) ^ t"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "C₀ = capital inicial"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "i = tasa de interés anual (en decimal)"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "t = número de años"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Ejemplo:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Inversión de 100 € al 10% anual durante 2 años:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Año 1: 100 × (1 + 0,10)^1 = 110 €"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Año 2: 100 × (1 + 0,10)^2 = 121 €\nComo puede verse, el capital inicial va variando ya que se van sumando los intereses obtenidos, por lo que el total va aumentando cada año."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La magia del interés compuesto"
+    },
+    {
+      "type": "paragraph",
+      "text": "Este efecto multiplicador es el que hace que el interés compuesto sea una de las herramientas más poderosas para maximizar el rendimiento de una inversión a largo plazo."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ejemplo práctico:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Inversión inicial: 10.000 €.",
+        "Tasa de interés: 3% anual.",
+        "Periodo: 4 años.",
+        "Resultado: 11.255 €.",
+        "En 12 años: 14.260 €.",
+        "Después de 24 años: 20.192 euros."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Interés compuesto con aportaciones mensuales"
+    },
+    {
+      "type": "paragraph",
+      "text": "El interés compuesto es aún más poderoso cuando se realizan aportaciones periódicas."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ejemplo:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Capital inicial: 10.000 €",
+        "Aportación mensual: 100 €",
+        "Tasa: 3% anual",
+        "Tiempo: 25 años",
+        "Resultado: más de 65.000 €"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Incluso pequeñas cantidades pueden convertirse en grandes sumas si se mantiene la constancia. Si nuestro objetivo es ahorrar a largo plazo, es importante tener en cuenta la inflación y buscar inversiones que superen la tasa de inflación, de forma que nuestro dinero no pierda poder adquisitivo a lo largo del tiempo."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Cómo afecta el interés compuesto a un préstamo?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El interés compuesto también puede trabajar en tu contra cuando hablamos de deudas o préstamos."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ejemplo de préstamo con interés compuesto:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Monto: 1.000 €"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Plazo: 2 años"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Interés: 3% anual"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Cálculo de intereses:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Año 1: 1.000 × 3% = 30 €"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Año 2: 1.030 × 3% = 30,90 €"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Total intereses: 60,90 €"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Total a pagar: 1.060,90 €\nEn cambio, con el sistema de amortización francés (el más usado), se pagan cuotas fijas mensuales de 42,98 y el coste total sería de 1.031,55 €.",
+      "links": [
+        {
+          "text": "sistema de amortización francés",
+          "href": "https://es.wikipedia.org/wiki/Pr%C3%A9stamo_franc%C3%A9s",
+          "start": 44,
+          "end": 75
+        }
+      ]
+    }
+  ],
+  "text": "Interés compuesto: ¿qué es y cómo calcularlo?\nSe dice que, en una ocasión, alguien le preguntó a Albert Einstein sobre cuál era la fuerza más poderosa del universo, a lo que él contestó: “el interés compuesto”. Sea cierta o no esta famosa cita, lo cierto es que el interés compuesto es una de las herramientas más potentes para hacer crecer tus ahorros o inversiones a largo plazo.\n¿Qué es el interés compuesto?\nEl tipo o tasa de interés es un porcentaje que se aplica como concepto de pago por el dinero durante un tiempo determinado. Es el precio del dinero. Se utiliza para saber el coste de un crédito o la rentabilidad de los ahorros o de una inversión.\nEl interés compuesto es el que se va sumando al capital inicial y sobre el que se van generando nuevos intereses. El dinero, en este caso, tiene un efecto multiplicador porque los intereses producen nuevos intereses. Sin embargo, en el caso del interés o capitalización simple, los rendimientos siempre se generan sobre el capital original.\n¿Cómo funciona el interés compuesto?\nEn el caso del interés compuesto:\n- El capital inicial va creciendo en cada periodo porque se van sumando los intereses.\n- La tasa de interés se aplica sobre un capital que va cambiando.\n- Los intereses aumentan en cada periodo.\n¿En qué se diferencia el interés compuesto del interés simple?\n¿Cómo calcular el interés compuesto? Ejemplo práctico\nLa fórmula para calcular este tipo de interés puede resultar enrevesada, por lo que es preferible empezar con un ejemplo:\nImagina que tienes 100 euros en una cuenta con un interés del 10% anual:\n- \nAño 1: 100 € + 10% = 110 €\n- \nAño 2: 110 € + 10% = 121 €\n- \nAño 3: 121 € + 10% = 133,10 €\n- \nY así sucesivamente…\nCada año, el interés se calcula sobre un monto mayor.\nFórmula del interés compuesto\nPara calcular el monto final con interés compuesto, utiliza la siguiente fórmula:\nCapital final = C₀ × (1 + i) ^ t\n- \nC₀ = capital inicial\n- \ni = tasa de interés anual (en decimal)\n- \nt = número de años\nEjemplo:\nInversión de 100 € al 10% anual durante 2 años:\n- \nAño 1: 100 × (1 + 0,10)^1 = 110 €\n- \nAño 2: 100 × (1 + 0,10)^2 = 121 €\nComo puede verse, el capital inicial va variando ya que se van sumando los intereses obtenidos, por lo que el total va aumentando cada año.\nLa magia del interés compuesto\nEste efecto multiplicador es el que hace que el interés compuesto sea una de las herramientas más poderosas para maximizar el rendimiento de una inversión a largo plazo.\nEjemplo práctico:\n- Inversión inicial: 10.000 €.\n- Tasa de interés: 3% anual.\n- Periodo: 4 años.\n- Resultado: 11.255 €.\n- En 12 años: 14.260 €.\n- Después de 24 años: 20.192 euros.\nInterés compuesto con aportaciones mensuales\nEl interés compuesto es aún más poderoso cuando se realizan aportaciones periódicas.\nEjemplo:\n- Capital inicial: 10.000 €\n- Aportación mensual: 100 €\n- Tasa: 3% anual\n- Tiempo: 25 años\n- Resultado: más de 65.000 €\nIncluso pequeñas cantidades pueden convertirse en grandes sumas si se mantiene la constancia. Si nuestro objetivo es ahorrar a largo plazo, es importante tener en cuenta la inflación y buscar inversiones que superen la tasa de inflación, de forma que nuestro dinero no pierda poder adquisitivo a lo largo del tiempo.\n¿Cómo afecta el interés compuesto a un préstamo?\nEl interés compuesto también puede trabajar en tu contra cuando hablamos de deudas o préstamos.\nEjemplo de préstamo con interés compuesto:\n- \nMonto: 1.000 €\n- \nPlazo: 2 años\n- \nInterés: 3% anual\nCálculo de intereses:\n- \nAño 1: 1.000 × 3% = 30 €\n- \nAño 2: 1.030 × 3% = 30,90 €\n- \nTotal intereses: 60,90 €\n- \nTotal a pagar: 1.060,90 €\nEn cambio, con el sistema de amortización francés (el más usado), se pagan cuotas fijas mensuales de 42,98 y el coste total sería de 1.031,55 €.",
+  "text_len": 3736,
+  "num_headings": 15,
+  "metadata": {
+    "title": "Guía de finanzas para no financieros: interés compuesto",
+    "author": "Communications",
+    "url": "https://www.bbva.com/es/salud-financiera/guia-de-finanzas-para-no-financieros-interes-compuesto/",
+    "hostname": "bbva.com",
+    "description": "El interés compuesto es aquel que se va sumando al capital inicial y sobre el que se van generando nuevos intereses que, a su vez, producen más intereses.",
+    "sitename": "BBVA NOTICIAS",
+    "date": "2026-07-16",
+    "image": "https://www.bbva.com/wp-content/uploads/2018/11/interes-compuesto-guia-finanzas-bbva.jpg",
+    "pagetype": "article",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": true,
+    "video_urls": [
+      "https://tools.eurolandir.com/tools/ticker/scrolling/?companycode=es-boy&v=v2.1&lang=es-es",
+      "https://www.youtube.com/embed/plqP8f_7Qj4"
+    ],
+    "platforms": [
+      "direct"
+    ],
+    "schema_type": "VideoObject"
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Interés compuesto: capitalización y crecimiento",
+    "topic": "interés",
+    "subtopic": "interés compuesto",
+    "difficulty": "intermedio",
+    "format": "artículo web",
+    "summary": "Instrumento OECD/INFE para medir y explicar la comprensión del interés compuesto",
+    "learning_objective": "Distinguir crecimiento simple de crecimiento compuesto"
+  },
+  "deduped_from": null
+}

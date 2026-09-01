@@ -1,0 +1,74 @@
+{
+  "content_id": "C032",
+  "title": "Cálculo de la TAE de un préstamo hipotecario",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cálculo de la TAE de un préstamo hipotecario"
+    },
+    {
+      "type": "paragraph",
+      "text": "Calcula la TAE de tu préstamo hipotecario",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A partir del importe, el plazo, el tipo de interés y las comisiones y otros gastos del préstamo, obtendrás su TAE.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Este simulador permite calcular la TAE si el tipo se modifica durante la vida del préstamo, y también distingue entre los gastos que pagues en origen y aquellos que pagues de forma periódica como por ejemplo un seguro.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Puedes realizar varias simulaciones y comparar la TAE de cada una de ellas.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Este simulador es válido para aquellos préstamos en los que las comisiones y gastos que deben tenerse en cuenta para el cálculo de la tasa anual equivalente (TAE) de la operación se pagan tanto en el momento de su formalización como con carácter periódico. Este simulador parte de la hipótesis de que la amortización del préstamo se realiza por el sistema denominado francés (cuotas mensuales iguales) y de que la parte de la cuota a pagar cada mes en concepto de intereses, se calcula mediante la fórmula: (Capital pendiente x tipo de interés nominal anual) / 1200. Con el fin de que el simulador pueda aplicarse al mayor número posible de casos, en los cálculos se efectúan algunas simplificaciones como las siguientes:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Se considera que el cliente paga todos los gastos relacionados con el estudio, concesión y formalización del préstamo en la fecha de firma del contrato",
+        "Las cuotas se pagan mensualmente",
+        "Todos los meses del año tienen igual número de días",
+        "No existen periodos de carencia, y el primer pago se efectúa exactamente un mes después de haber formalizado el préstamo."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Las indicaciones para el cálculo de la tasa anual equivalente se encuentran en el Anexo II de la Ley 5/2019, de 15 de marzo, reguladora de los contratos de crédito inmobiliario.",
+      "links": [
+        {
+          "text": "Ley 5/2019, de 15 de marzo, reguladora de los contratos de crédito inmobiliario",
+          "href": "http://app.bde.es/clf_www/leyes.jsp?normaAFecha=S&id=173450&fc=21-03-2019&tipoEnt=0",
+          "start": 97,
+          "end": 176
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "text": "Ley 5/2019, de 15 de marzo, reguladora de los contratos de crédito inmobiliario",
+      "href": "http://app.bde.es/clf_www/leyes.jsp?normaAFecha=S&id=173450&fc=21-03-2019&tipoEnt=0",
+      "start": null,
+      "end": null
+    }
+  ],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:13:30.243219+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 9788,
+    "input_tokens": 2285,
+    "output_tokens": 3328
+  }
+}

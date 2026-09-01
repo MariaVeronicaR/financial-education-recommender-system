@@ -1,0 +1,121 @@
+{
+  "content_id": "C099",
+  "url": "https://www.santander.com/es/stories/que-es-el-pib-y-por-que-es-importante-en-la-economia",
+  "source": "Santander",
+  "host": "www.santander.com",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 123875
+  },
+  "title": "¿Qué es el PIB?",
+  "headings": [],
+  "sections": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Probablemente el PIB, cuyas siglas significan “producto interior bruto”, sea uno de los términos más sonados en economía. A continuación, conocemos su significado y por qué es tan relevante.\nLos países tienen distintos parámetros con los que miden y comparan su economía con otras naciones. Uno de los más importantes es el producto interior bruto, más conocido por sus siglas PIB. Este indicador económico se traduce en el valor monetario de los bienes –desde productos de alimentación, vehículos, maquinaria o textil- y servicios –como el sanitario, docente, etc.- producidos a nivel nacional durante un determinado periodo de tiempo. No importa si las organizaciones públicas o privadas que los producen son locales o extranjeras, el requisito es que el bien o servicio final sea llevado a cabo en el país a analizar.\nImaginemos que estamos calculando la aportación de la industria textil al PIB de un determinado territorio, por ejemplo, Colombia. Para hacerlo, revisamos todos los datos de la industria textil colombiana. A pesar de que un fabricante adquiera cremalleras fuera de las fronteras colombianas, solo contará como unidad el producto final que ponga en el mercado; es decir, la propia prenda de vestir.\nAsí, gracias a esta medición, podemos evaluar la evolución del consumo privado, las inversiones, el gasto público y la balanza comercial –que obtenemos tras la resta de las importaciones a las exportaciones-. De esta forma, si tenemos un país con un PIB positivo, podemos interpretar que este experimenta una situación de crecimiento económico, lo cual estimula las inversiones, la creación de empleo, etc. Por el contrario, si el PIB es negativo, significará que la nación en cuestión está atravesando un momento de estancamiento económico o incluso recesión, si en dos trimestres consecutivos esta cifra es negativa.\nEl cálculo del PIB lo realiza la institución pública correspondiente en cada uno de los estados, normalmente de manera trimestral, aunque su evaluación suele considerarse de manera anual. Por ejemplo, en México lo analiza el Instituto Nacional de Estadística y Geografía, conocido como INEGI; y en España, el Instituto Nacional de Estadística (INE). No obstante, hay organismos supranacionales que se encargan de la auditoría de los datos ofrecidos por cada país para corroborar su veracidad. En el caso de la Unión Europea, este es la Oficina Europea de Estadística, conocida como Eurostat.\nCabe destacar que es una cifra lo más aproximada posible ya que hay ciertos datos que, al no estar registrados, no pueden contemplarse. Sería el caso del autoconsumo –por ejemplo, aquellas personas que plantan sus propias verduras y hortalizas para su alimentación- o la economía sumergida –aquella formada por transacciones económicas que no se declaran a los organismos competentes-.\n¿Cuáles son los tipos de PIB?\nCuando hablamos del producto interior bruto, podemos abordar dos tipologías. Por un lado, estaría el PIB nominal, que da como resultado el valor monetario de productos y servicios finales considerando los precios fijados durante el periodo de tiempo analizado. Esto origina que sea calculado teniendo en cuenta cuestiones como, por ejemplo, la inflación.\nEn contraposición al PIB nominal, estaría el PIB real. En él, se determinan precios constantes para los productos y servicios, eliminando cualquier influencia provocada por la variación de los precios.\nPor último, suele ser habitual escuchar hablar del PIB per cápita. Este indicador se obtiene dividiendo el PIB de un determinado país –generalmente en su forma nominal, es decir, con precios vigentes en lugar de constantes- entre el número de habitantes que residen en él. Como resultado, tenemos un dato que refleja el nivel de riqueza de una población a nivel nacional. Sin embargo, es una cifra que genera debates debido a que obvia el reparto desigual de la riqueza.\n¿Cómo puede un país aumentar su PIB?\nGeneralmente que el producto interior bruto de un país aumente es un síntoma positivo de que su actividad productiva y por ende su economía avanzan en una dirección correcta. No obstante, resulta fundamental que los bienes y servicios que protagonizan este crecimiento puedan seguir sosteniéndolo a largo plazo.\nPara impulsar el PIB, hay diversas fórmulas que pueden contribuir. Por ejemplo, el gobierno nacional puede plantear políticas de gasto público como la inversión en infraestructura, innovación o investigación. Otros motores de crecimiento son el aumento de las exportaciones que faciliten la apertura a nuevos mercados internacionales, la garantía de condiciones de seguridad jurídica, los tipos de intereses bajos, etc.\n¿Mide el PIB la felicidad? Descubre la respuesta en este artículo de Finanzas para Mortales.",
+      "links": [
+        {
+          "text": "consumo",
+          "href": "https://www.santander.com/es/stories/im-storie-el-ahorro-de-electricidad-habitos-que-reduciran-nuestro-consumo-energetico-y-mejoraran-la-salud-del-planeta",
+          "start": 1282,
+          "end": 1289
+        },
+        {
+          "text": "gasto",
+          "href": "https://www.santander.com/es/stories/la-importancia-de-ahorrar-gastos-en-las-pymes-cinco-consejos-para-lograrlo",
+          "start": 1319,
+          "end": 1324
+        },
+        {
+          "text": "empleo",
+          "href": "https://www.santander.com/es/trabaja-con-nosotros",
+          "start": 1613,
+          "end": 1619
+        },
+        {
+          "text": "INEGI",
+          "href": "https://www.inegi.org.mx/",
+          "start": 2124,
+          "end": 2129
+        },
+        {
+          "text": "INE",
+          "href": "https://www.ine.es/",
+          "start": 2124,
+          "end": 2127
+        },
+        {
+          "text": "Eurostat",
+          "href": "https://ec.europa.eu/eurostat",
+          "start": 2420,
+          "end": 2428
+        },
+        {
+          "text": "productos",
+          "href": "https://www.santander.com/es/stories/productos-verdes-nuestra-oferta-sostenible-en-el-compromiso-con-el-medioambiente",
+          "start": 461,
+          "end": 470
+        },
+        {
+          "text": "la inflación",
+          "href": "https://www.santander.com/es/stories/que-es-la-inflacion",
+          "start": 3187,
+          "end": 3199
+        },
+        {
+          "text": "innovación",
+          "href": "https://www.santander.com/es/stories/-innovacion",
+          "start": 4404,
+          "end": 4414
+        },
+        {
+          "text": "Finanzas para Mortales",
+          "href": "https://www.finanzasparamortales.es/mide-el-pib-la-felicidad/",
+          "start": 4712,
+          "end": 4734
+        }
+      ]
+    }
+  ],
+  "text": "Probablemente el PIB, cuyas siglas significan “producto interior bruto”, sea uno de los términos más sonados en economía. A continuación, conocemos su significado y por qué es tan relevante.\nLos países tienen distintos parámetros con los que miden y comparan su economía con otras naciones. Uno de los más importantes es el producto interior bruto, más conocido por sus siglas PIB. Este indicador económico se traduce en el valor monetario de los bienes –desde productos de alimentación, vehículos, maquinaria o textil- y servicios –como el sanitario, docente, etc.- producidos a nivel nacional durante un determinado periodo de tiempo. No importa si las organizaciones públicas o privadas que los producen son locales o extranjeras, el requisito es que el bien o servicio final sea llevado a cabo en el país a analizar.\nImaginemos que estamos calculando la aportación de la industria textil al PIB de un determinado territorio, por ejemplo, Colombia. Para hacerlo, revisamos todos los datos de la industria textil colombiana. A pesar de que un fabricante adquiera cremalleras fuera de las fronteras colombianas, solo contará como unidad el producto final que ponga en el mercado; es decir, la propia prenda de vestir.\nAsí, gracias a esta medición, podemos evaluar la evolución del consumo privado, las inversiones, el gasto público y la balanza comercial –que obtenemos tras la resta de las importaciones a las exportaciones-. De esta forma, si tenemos un país con un PIB positivo, podemos interpretar que este experimenta una situación de crecimiento económico, lo cual estimula las inversiones, la creación de empleo, etc. Por el contrario, si el PIB es negativo, significará que la nación en cuestión está atravesando un momento de estancamiento económico o incluso recesión, si en dos trimestres consecutivos esta cifra es negativa.\nEl cálculo del PIB lo realiza la institución pública correspondiente en cada uno de los estados, normalmente de manera trimestral, aunque su evaluación suele considerarse de manera anual. Por ejemplo, en México lo analiza el Instituto Nacional de Estadística y Geografía, conocido como INEGI; y en España, el Instituto Nacional de Estadística (INE). No obstante, hay organismos supranacionales que se encargan de la auditoría de los datos ofrecidos por cada país para corroborar su veracidad. En el caso de la Unión Europea, este es la Oficina Europea de Estadística, conocida como Eurostat.\nCabe destacar que es una cifra lo más aproximada posible ya que hay ciertos datos que, al no estar registrados, no pueden contemplarse. Sería el caso del autoconsumo –por ejemplo, aquellas personas que plantan sus propias verduras y hortalizas para su alimentación- o la economía sumergida –aquella formada por transacciones económicas que no se declaran a los organismos competentes-.\n¿Cuáles son los tipos de PIB?\nCuando hablamos del producto interior bruto, podemos abordar dos tipologías. Por un lado, estaría el PIB nominal, que da como resultado el valor monetario de productos y servicios finales considerando los precios fijados durante el periodo de tiempo analizado. Esto origina que sea calculado teniendo en cuenta cuestiones como, por ejemplo, la inflación.\nEn contraposición al PIB nominal, estaría el PIB real. En él, se determinan precios constantes para los productos y servicios, eliminando cualquier influencia provocada por la variación de los precios.\nPor último, suele ser habitual escuchar hablar del PIB per cápita. Este indicador se obtiene dividiendo el PIB de un determinado país –generalmente en su forma nominal, es decir, con precios vigentes en lugar de constantes- entre el número de habitantes que residen en él. Como resultado, tenemos un dato que refleja el nivel de riqueza de una población a nivel nacional. Sin embargo, es una cifra que genera debates debido a que obvia el reparto desigual de la riqueza.\n¿Cómo puede un país aumentar su PIB?\nGeneralmente que el producto interior bruto de un país aumente es un síntoma positivo de que su actividad productiva y por ende su economía avanzan en una dirección correcta. No obstante, resulta fundamental que los bienes y servicios que protagonizan este crecimiento puedan seguir sosteniéndolo a largo plazo.\nPara impulsar el PIB, hay diversas fórmulas que pueden contribuir. Por ejemplo, el gobierno nacional puede plantear políticas de gasto público como la inversión en infraestructura, innovación o investigación. Otros motores de crecimiento son el aumento de las exportaciones que faciliten la apertura a nuevos mercados internacionales, la garantía de condiciones de seguridad jurídica, los tipos de intereses bajos, etc.\n¿Mide el PIB la felicidad? Descubre la respuesta en este artículo de Finanzas para Mortales.",
+  "text_len": 4735,
+  "num_headings": 0,
+  "metadata": {
+    "title": "¿Qué es el PIB?",
+    "url": "https://www.santander.com/es/stories/que-es-el-pib-y-por-que-es-importante-en-la-economia",
+    "hostname": "santander.com",
+    "description": "A continuación, descubrimos en qué consiste el producto interior bruto y por qué es uno de los principales indicadores para medir el crecimiento económico entre países",
+    "sitename": "santander.com",
+    "date": "2022-03-14",
+    "tags": [
+      "Educación Financiera,Artículos,Inclusión financiera,Conceptos Básicos"
+    ],
+    "image": "https://www.santander.com/content/dam/santander-com/es/stories/cabecera/2022/-educación-financiera/im-storie-que-es-el-pib-y-por-que-es-importante-en-la-economia-desktop.jpg.transform/rendition-sm/image.jpg",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Qué es el PIB y por qué es importante",
+    "topic": "contexto",
+    "subtopic": "PIB",
+    "difficulty": "intermedio",
+    "format": "artículo web",
+    "summary": "Análisis divulgativo sobre cómo el crecimiento del PIB afecta al empleo y al bienestar económico",
+    "learning_objective": "Relacionar la tasa de crecimiento del PIB con la situación laboral e inversión"
+  },
+  "deduped_from": null
+}

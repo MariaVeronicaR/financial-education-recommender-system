@@ -1,0 +1,58 @@
+{
+  "content_id": "C056",
+  "tldr": "Invertir en criptoactivos conlleva riesgos elevados y una protección limitada o inexistente, según el tipo de activo y el proveedor. El Reglamento MiCA, en vigor en la UE desde finales de 2024, regula ciertos criptoactivos (EMT, ART y otros) y a los proveedores autorizados, pero no cubre todo ni ofrece el mismo nivel de garantías que los productos financieros tradicionales. Antes de invertir conviene verificar si el proveedor está autorizado (registro de la AEVM) y proteger las claves privadas.",
+  "key_points": [
+    "Los criptoactivos son volátiles y pueden conllevar pérdidas totales del dinero invertido, incluso en activos regulados.",
+    "El Reglamento MiCA regula EMT, ART y otros criptoactivos, pero no todos los activos ni proveedores están cubiertos.",
+    "La protección del consumidor es limitada: no existe un fondo de garantía de inversiones como en los productos tradicionales.",
+    "Antes de invertir hay que comprobar si el proveedor está autorizado en la UE consultando el registro de la AEVM.",
+    "Perder las claves privadas implica perder el acceso y la propiedad de los criptoactivos de forma irreversible.",
+    "Los principales riesgos incluyen fluctuaciones extremas de precios, problemas de liquidez, información engañosa, fraudes y ciberataques."
+  ],
+  "quiz": [
+    {
+      "question": "Aunque el Reglamento MiCA ya está en vigor en la UE, ¿qué significa esto para la protección de un consumidor que invierte en criptoactivos?",
+      "options": [
+        "Que todos los criptoactivos y proveedores quedan protegidos por un fondo de garantía de inversiones",
+        "Que solo algunos criptoactivos y proveedores autorizados quedan regulados, con una protección más limitada que la de los productos financieros tradicionales",
+        "Que la protección es total siempre que la empresa tenga sede dentro de la UE",
+        "Que MiCA elimina por completo los riesgos de volatilidad de los criptoactivos"
+      ],
+      "correct_index": 1,
+      "explanation": "MiCA regula determinados criptoactivos y proveedores autorizados, pero la protección es más limitada que en los productos tradicionales y no cubre a todos los activos ni a las empresas no autorizadas.",
+      "concept_id": "C27"
+    },
+    {
+      "question": "Antes de invertir en criptoactivos, ¿cuál es la forma más fiable de comprobar si un proveedor de servicios está autorizado a operar en la UE?",
+      "options": [
+        "Confiar en los anuncios y promociones que aparecen en redes sociales",
+        "Consultar el registro de la Autoridad Europea de Valores y Mercados (AEVM) y los registros de los supervisores nacionales",
+        "Verificar únicamente que la empresa tenga una web profesional",
+        "Comprobar que la empresa prometa una alta rentabilidad garantizada"
+      ],
+      "correct_index": 1,
+      "explanation": "El registro de la AEVM y los registros de supervisores nacionales (como CNMV o Banco de España) permiten verificar si un proveedor está autorizado, algo que no garantizan los anuncios ni las webs.",
+      "concept_id": "C15"
+    },
+    {
+      "question": "Un inversor compra un criptoactivo regulado por MiCA. Según el contenido, ¿qué riesgo principal sigue asumiendo a pesar de esa regulación?",
+      "options": [
+        "Que el valor del criptoactivo pueda sufrir fluctuaciones extremas de precio y perder gran parte o todo su dinero",
+        "Que el proveedor esté obligado a reembolsarle siempre el valor nominal de la inversión",
+        "Que MiCA prohíba vender el activo en momentos de subida",
+        "Que las claves privadas se recuperen automáticamente si se pierden"
+      ],
+      "correct_index": 0,
+      "explanation": "Incluso los criptoactivos regulados pueden ser muy volátiles, por lo que su precio puede bajar y subir rápidamente y el inversor puede perder buena parte o todo lo invertido.",
+      "concept_id": "C25"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 9527,
+    "input_tokens": 6603,
+    "output_tokens": 1180
+  }
+}

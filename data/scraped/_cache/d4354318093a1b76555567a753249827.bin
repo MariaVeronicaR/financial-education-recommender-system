@@ -1,0 +1,1192 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="uP/kAlfx9L7YJLoVfUzIRf61u9+hZirrsEMF8E593qjQOEdZzoCNKaw7H5oFRa0ytMnZyFGaoOQqFLwdAE3VNA==" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="turbolinks-visit-control" content="reload" />
+    <meta name="turbolinks-cache-control" content="no-cache" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Prefetch DNS for external assets -->
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+    <link rel="dns-prefetch" href="//cdn.jsdeliver.net">
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+    <link rel="dns-prefetch" href="//www.google-analytics.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+
+    <link rel="alternate" hreflang="x-default" href="" />
+
+    <title>Web 3.0 - </title>
+
+
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+
+<!-- OpenGraph meta tags -->
+<meta property="og:title" content="Web 3.0 - " >
+<meta property="og:description" content="" />
+<meta property="og:url" content="https://www.finanzasparatodos.es/cursos-y-webinars/criptoactivos-blockchain/web-3-0" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Web 3.0 - " />
+<meta name="twitter:description" content="" />
+
+
+
+    
+    
+    <link rel="icon" type="image/png" href="/system/themes/favicons/000/000/001/icon_16/favicon.png?1623999802" sizes="16x16">
+<link rel="icon" type="image/png" href="/system/themes/favicons/000/000/001/icon_32/favicon.png?1623999802" sizes="32x32">
+<link rel="icon" type="image/png" href="/system/themes/favicons/000/000/001/icon_96/favicon.png?1623999802" sizes="96x96">
+<link rel="icon" type="image/png" href="/system/themes/favicons/000/000/001/icon_128/favicon.png?1623999802" sizes="128x128" />
+<link rel="icon" type="image/png" href="/system/themes/favicons/000/000/001/icon_196/favicon.png?1623999802" sizes="196x196" />
+<link rel="apple-touch-icon" sizes="57x57" href="/system/themes/favicons/000/000/001/apple_57/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="114x114" href="/system/themes/favicons/000/000/001/apple_114/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="72x72" href="/system/themes/favicons/000/000/001/apple_72/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="144x144" href="/system/themes/favicons/000/000/001/apple_144/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="60x60" href="/system/themes/favicons/000/000/001/apple_60/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="120x120" href="/system/themes/favicons/000/000/001/apple_120/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="76x76" href="/system/themes/favicons/000/000/001/apple_76/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="152x152" href="/system/themes/favicons/000/000/001/apple_152/favicon.png?1623999802">
+<meta name="application-name" content=""/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="/system/themes/favicons/000/000/001/microsoft_144_144/favicon.png?1623999802" />
+<meta name="msapplication-square70x70logo" content="/system/themes/favicons/000/000/001/microsoft_70_70/favicon.png?1623999802" />
+<meta name="msapplication-square150x150logo" content="/system/themes/favicons/000/000/001/microsoft_150_150/favicon.png?1623999802" />
+<meta name="msapplication-wide310x150logo" content="/system/themes/favicons/000/000/001/microsoft_310_150/favicon.png?1623999802" />
+<meta name="msapplication-square310x310logo" content="/system/themes/favicons/000/000/001/microsoft_310_310/favicon.png?1623999802" />
+
+
+    <link rel="stylesheet" media="screen" href="/assets/bran-debb89733483192c11a3f7b9c8222fc2668ae7b3d25f0e85714df44e2eef0f93.css" />
+    <script src="/assets/bran-60b10e6d9311277f3705ea822157903aa9656b447d433a68a4c5962d54b4e2c4.js" data-turbolinks-track="reload"></script>
+    <script src="/assets/vue-a39105980ecfdd5de117fa346346b7d5d52ae2093a595756b2c8633211cc60e5.js" data-turbolinks-track="reload"></script>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css">
+    <script src="https://kit.fontawesome.com/ab5948c228.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap" rel="stylesheet">
+
+    <!-- Minified version of `es6-promise-auto` below. -->
+    <link rel="stylesheet" media="all" href="/assets/application-b2a0f035f9df70b7a2e73d4085ea17a089980e0aeaab380b3ee0590f563b098a.css" />
+    <link rel="stylesheet" media="print" href="/assets/print-374cb3225461848bff5a26e6e20d7e27cb45f8938ec02215f8a83f3b832ebb73.css" />
+    <link rel="stylesheet" media="all" href="/assets/calculators/budget-8236363937c653255688bfb856f76e9425369c7c8d57af3bdf5fbbe383d4eff4.css" />
+    <script src="/assets/es6-promise.min-173deb7f35e65fb560772937033e0c20de960a3298b26aea613550bd52c1416a.js" data-turbolinks-track="reload"></script>
+    <script src="/assets/application-da106754795db4befd4f298786ba2785c5d355a713cf32ee3e10aaef5ffc24f9.js" data-turbolinks-track="reload"></script>
+
+      <link rel="stylesheet" media="all" href="/assets/vue_components/components-abd5cf45a1ab606e2b1f747e63eff4c7df3e2837051e83a72ff554c91472ccd4.css" />
+      <script src="/assets/vue_components/components-f8a1ae606e36089235ee36dd66f5bf3be1559f0d98aa67b17fca11334c18c7d1.js"></script>
+
+
+      <script type="text/javascript" data-turbolinks="false">
+        if( Cookies != undefined ) {
+          if (Cookies.get('analitica') != undefined && Cookies.get('analitica') != '') {
+            document.write("<scri" + "pt async src=https://www.googletagmanager.com/gtag/js?id=UA-16149208-1></scri" + "pt>")
+            document.write("<scri" + "pt>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-16149208-1');</scri" + "pt>");
+
+            document.write("<scri" + "pt async src=https://www.googletagmanager.com/gtag/js?id=AW-16490246036></scri" + "pt>")
+            document.write("<scri" + "pt>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'AW-16490246036');</scri" + "pt>");
+          }
+        }
+      </script>
+
+      <!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '422038013715751'); fbq('track', 'PageView');
+</script>
+
+<noscript>
+    <img height="1" width="1" style="display:none" src=https://www.facebook.com/tr?id=422038013715751&ev=PageView&noscript=1 />
+</noscript>
+<!-- End Meta Pixel Code -->
+
+    
+    
+    
+    
+    
+    <style type="text/css">
+  .c-box__herramienta .c-budget__row {
+      flex-direction: column;
+    }
+@media (min-width: 1024px) {
+ 
+ .c-box__herramienta .c-budget__row {
+        flex-direction: row;
+      }
+  }
+
+  .visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    -webkit-
+ clip-path: inset(50%);
+    clip-path: inset(50%);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width:
+ 1px;
+    white-space: nowrap;
+  }
+  .c-box__herramienta .c-budget__row {
+      flex-direction: column;
+    }
+@media (min-width: 1024px) {
+    .c-box__herramienta .c-budget__row {
+        flex-direction: row;
+      }
+  }
+ 
+  html[lang="en"] .c-header__top_der {
+    display: none; !important;
+  }
+
+  
+</style>
+    <script src="/assets/chart-fee081ed1e1d5304e4e9a79e5caf917c4bc6eddc5baaa34d37849b4eabdd4e43.js"></script>
+    <script type="text/javascript">
+      $(document).on('turbolinks:load', function(){ images_lazy_loading(); });
+    </script>
+  </head>
+
+  <body class="t-curso-pagina
+               
+               "
+        data-controller-name="course_pages"
+        data-action-name="show"
+        data-id="88">
+    <a class="visually-hidden-focusable visuallyhidden" href="#content">Saltar al contenido principal</a>
+    
+
+    
+
+
+
+      
+<div class="wrapper c-template--home" id="wrapper">
+  <header class="c-header" data-spy="affix" data-offset-top="1">
+    <div class="c-header__top">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col col-12 u-align--space">
+            <div class="c-header__logo">
+                <div class="c-header__logo">
+    <a title="Finanzas para todos" href="/">
+      <img class="positive" alt="" src="/system/themes/logos/000/000/001/original/finanzas.png?1614951093" />
+      <img class="negative" alt="" src="/system/themes/logo_negatives/000/000/001/original/finanzas_affix.png?1614951096" />
+      
+</a>  </div>
+
+            </div>
+
+            <div class="c-header__top_center">
+                <nav class="c-header__nav navbar navbar-expand-md navbar-dark">
+    <button id="burger" class="open-main-nav navbar-toggler collapsed" type="button">
+      <span class="sr-only">Menú de navegación</span> <span class="burger navbar-toggler-icon"></span>
+    </button>
+
+    <div class="navbar-collapse collapse" id="navbarsExampleDefault" style="">
+      
+  <ul class="navbar-nav">
+
+        <li class="nav-item first-level  with--children">
+          <a class="no-link" aria-haspopup="true" aria-controls="submenu-5" aria-expanded="false" rel="" accesskey="" aria-expanded="false" href="/descubre">Descubre</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-5">
+                <a class="c-secondary__menu_close" href="#">
+                  <i class="fa fa-times" aria-hidden="true"></i> Cerrar
+</a>              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="a" href="/como-esta-tu-salud-financiera"><span>1</span>¿Cómo está tu salud financiera?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="b" href="/como-elaborar-un-presupuesto"><span>2</span>¿Cómo elaborar tu presupuesto?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="c" href="/c-mo-gestionar-mis-deudas"><span>3</span>¿Cómo gestionar tus deudas?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  with--children">
+          <a class="nav-link" aria-haspopup="true" aria-controls="submenu-12" aria-expanded="false" rel="" accesskey="d" href="/como-cuidar-tu-entorno"><span>4</span>¿Cómo cuidar tu entorno personal y financiero?</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-12">
+              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-banco-yo">El banco y yo</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-trabajo">El trabajo</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-hogar">El hogar</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-mi-pareja">La pareja</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-familia">La familia</a>
+
+
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="e" href="/como-preparar-mi-jubilacion"><span>5</span>¿Cómo preparar tu jubilación?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="f" href="/c-mo-invertir-tu-dinero"><span>6</span>¿Cómo invertir tu dinero?</a>
+
+
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+
+        <li class="nav-item first-level  with--children">
+          <a class="no-link" aria-haspopup="true" aria-controls="submenu-4" aria-expanded="false" rel="" aria-expanded="false" href="/participa">Participa</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-4">
+                <a class="c-secondary__menu_close" href="#">
+                  <i class="fa fa-times" aria-hidden="true"></i> Cerrar
+</a>              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="g" href="/red-de-colaboradores"><span><i class="fas fa-handshake"></i></span>Red del Plan</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="external" accesskey="h" href="/diadelaeducacionfinanciera"><span><i class="fas fa-user-graduate"></i></span>Día de la Educación Financiera</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="i" href="/premios-de-educacion-financiera"><span><i class="fas fa-award"></i></span>Premios de Educación Financiera</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="k" href="/participa/concurso-escolar-de-educacion-financiera"><span><i class="fas fa-trophy"></i></span>Concurso Escolar de Educación Financiera</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  with--children">
+          <a class="nav-link" aria-haspopup="true" aria-controls="submenu-145" aria-expanded="false" rel="" href="/participa/profesores"><span><i class="fa-solid fa-person-chalkboard"></i></span>Profesores</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-145">
+              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="" href="/participa/profesores/primaria">Primaria</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="" href="/participa/profesores/secundaria">ESO, Bachillerato y FP</a>
+
+
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+
+        <li class="nav-item first-level  with--children">
+          <a class="no-link" aria-haspopup="true" aria-controls="submenu-3" aria-expanded="false" rel="" aria-expanded="false" href="/aprende">Aprende</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-3">
+                <a class="c-secondary__menu_close" href="#">
+                  <i class="fa fa-times" aria-hidden="true"></i> Cerrar
+</a>              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="l" href="/herramientas"><span><i class="fas fa-tools"></i></span>Herramientas</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="m" href="/videos"><span><i class="fas fa-play-circle"></i></span>Vídeos</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="n" href="/podcasts"><span><i class="fas fa-microphone"></i></span>Podcasts</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="o" href="/guias"><span><i class="fas fa-book-open"></i></span>Guías</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="p" href="/cursos-y-webinars"><span><i class="fas fa-laptop"></i></span>Cursos y webinars</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="q" href="/glosario"><span><i class="fas fa-sort-alpha-down-alt"></i></span>Glosario</a>
+
+
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+
+        <li class="nav-item first-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="q" href="/quienes-somos">Quiénes somos</a>
+
+
+
+        </li>
+
+        <li class="nav-item first-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="r" href="/blog">Blog</a>
+
+
+
+        </li>
+
+        <li class="nav-item first-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="s" href="/notas-de-prensa">Notas de Prensa</a>
+
+
+
+        </li>
+  </ul>
+
+    </div>
+  </nav>
+
+            </div>
+
+            <div class="c-header__top_der">
+              <div class="c-user__login js--user-login"></div>
+              <a class="form-inline form-navbar my-2 my-lg-0 js--search" href="/site/1/lang/es/search">
+  <span class="u-hidden">Buscar</span> <i class="fas fa-search" aria-hidden="true"></i> <span class="sr-only">Buscador</span>
+</a>
+<div class="c-search__modal js--search-modal u-hidden">
+  <a class="js--close-search-modal" href="/site/1/lang/es/search">
+    Salir <i class="fas fa-times"></i>
+</a>  
+  <form class="c-form" action="/site/1/lang/es/search" accept-charset="UTF-8" method="get">
+    <p><span class="u-h3">Encuentra lo que estás buscando</span></p>
+
+    <label for="modal_search">
+      ¿Qué estás buscando?
+      <input type="text" name="search" id="modal_search" class="form-control" placeholder="Fondos de inversión, ahorros, presupuestos ..." />
+</label>
+    <label for="category_ids_">
+      Categoría
+      <select name="category_ids[]" id="category_ids_" class="form-control"><option value="">Categoría</option><option value="1">Planificación y presupuesto</option>
+<option value="2">Endeudamiento</option>
+<option value="3">Productos y operaciones bancarias</option>
+<option value="4">Ahorro e inversión</option>
+<option value="5">Seguros y jubilación</option>
+<option value="6">Reclamaciones y fraude</option>
+<option value="7">Hogar</option>
+<option value="8">Jubilación</option>
+<option value="9">Criptomonedas</option></select>
+</label>
+    <div class="u-text--right">
+      <button name="button" type="submit" class="btn btn--submit" data-disable-with="Buscando ..." value="Buscar">
+        <i class="fas fa-search" aria-hidden="true"></i>  Buscar
+</button>    </div>
+</form></div>
+                <div class="c-language__selector">
+    <div class="dropdown show">
+      <a class="dropdown-toggle" href="#" role="button" id="language-selector" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-controls="language-selector-menu" aria-label="Cambiar idioma">
+        <span class="name">es</span>
+      </a>
+
+      <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="language-selector" id="language-selector-menu" role="menu" lang="es">
+          <li>
+            <a class="dropdown-item" title="" role="menuitem" href="/ca/inici">
+              <span class="name">Catalán</span>
+</a>          </li>
+          <li>
+            <a class="dropdown-item" title="" role="menuitem" href="/eu/hasiera">
+              <span class="name">Euskera</span>
+</a>          </li>
+          <li>
+            <a class="dropdown-item" title="" role="menuitem" href="/ga/inicio">
+              <span class="name">Gallego</span>
+</a>          </li>
+          <li>
+            <a class="dropdown-item" title="" role="menuitem" href="/va/inici">
+              <span class="name">Valenciano</span>
+</a>          </li>
+      </ul>
+    </div>
+  </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main id="content">
+        <section class="c-course__page_header">
+      <div class="container">
+        
+<div class="c-breadcrumbs dot-animation" data-dot-animation="fadeInUp" data-dot-animation-delay="0.5s">
+  <div class="container">
+      <a title="Inicio" href="/">Inicio</a>
+      <span class="c-breadcrumbs__separator"></span>
+
+
+    <a title="Cursos y webinars" href="/cursos-y-webinars">Cursos y webinars</a>
+    <span class="c-breadcrumbs__separator"></span>
+
+    <a title="Criptoactivos / Blockchain" href="/cursos-y-webinars/criptoactivos-blockchain">Criptoactivos / Blockchain</a>
+    <span class="c-breadcrumbs__separator"></span>
+
+
+    <strong>Web 3.0</strong>
+  </div>
+</div>
+
+        
+        <div class="c-course__page_title">
+          <h1>Web 3.0</h1>
+          
+            <p></p>
+        </div>
+      </div>
+    </section>
+
+
+   <div class="page-course">
+     
+  <div class="c-temario-glosario">
+    <div class="c-temario-glosario__mobile">
+      <p>
+        <a href="#" class="js-show-course-nav"><i class="fa-regular fa-list"></i> Temario</a>
+        <a href="#" class="js-show-course-glossary"><i class="fa-regular fa-book-open-cover"></i> Glosario</a>
+      </p>
+    </div>
+  </div>
+
+
+     <div class="dot-animation container u-container animated">
+      <div class="row">
+         <div class="c-curso__navigation">
+            
+  
+<a href="#" class="js-close-course-modal c-course__page_close"><i class="fa fa-times"></i> <span class="sr-only">Cerrar</span></a>
+
+<p><span class="u-h6">CONTENIDOS DEL CURSO</span></p>
+<nav class="c-course__nav">
+  <ul>
+      <li class="">
+        
+          <a title="Tus primeros pasos con la cadena de bloques (blockchain)" href="/cursos-y-webinars/criptoactivos-blockchain/tus-primeros-pasos-con-la-cadena-de-bloques-blockchain">Tus primeros pasos con la cadena de bloques (blockchain)</a>
+        
+          <ul>
+              <li class="">
+                <a title="Claves públicas y privadas" href="/cursos-y-webinars/criptoactivos-blockchain/tus-primeros-pasos-con-la-cadena-de-bloques-blockchain/claves-publicas-y-privadas">Claves públicas y privadas</a>
+              </li>
+              <li class="">
+                <a title="Direcciones" href="/cursos-y-webinars/criptoactivos-blockchain/tus-primeros-pasos-con-la-cadena-de-bloques-blockchain/direcciones">Direcciones</a>
+              </li>
+              <li class="">
+                <a title="Monederos (Wallets)" href="/cursos-y-webinars/criptoactivos-blockchain/tus-primeros-pasos-con-la-cadena-de-bloques-blockchain/monederos-wallets">Monederos (Wallets)</a>
+              </li>
+              <li class="">
+                <a title="Las frases semilla" href="/cursos-y-webinars/criptoactivos-blockchain/tus-primeros-pasos-con-la-cadena-de-bloques-blockchain/las-frases-semilla">Las frases semilla</a>
+              </li>
+          </ul>
+      </li>
+      <li class="">
+        
+          <a title="Criptoactivos" href="/cursos-y-webinars/criptoactivos-blockchain/criptoactivos">Criptoactivos</a>
+        
+          <ul>
+              <li class="">
+                <a title="Bitcoin" href="/cursos-y-webinars/criptoactivos-blockchain/criptoactivos/bitcoin">Bitcoin</a>
+              </li>
+              <li class="">
+                <a title="Otros Criptoactivos: primera, segunda y tercera generación" href="/cursos-y-webinars/criptoactivos-blockchain/criptoactivos/otros-criptoactivos-primera-segunda-y-tercera-generacion">Otros Criptoactivos: primera, segunda y tercera generación</a>
+              </li>
+              <li class="">
+                <a title="Monedas estables (stablecoins)" href="/cursos-y-webinars/criptoactivos-blockchain/criptoactivos/monedas-estables-stablecoins">Monedas estables (stablecoins)</a>
+              </li>
+              <li class="">
+                <a title="Proveedores de Servicios de criptoactivos" href="/cursos-y-webinars/criptoactivos-blockchain/criptoactivos/proveedores-de-servicios-de-criptoactivos">Proveedores de Servicios de criptoactivos</a>
+              </li>
+              <li class="">
+                <a title="Regulación" href="/cursos-y-webinars/criptoactivos-blockchain/criptoactivos/regulacion">Regulación</a>
+              </li>
+              <li class="">
+                <a title="Precauciones básicas a la hora de operar con criptoactivos" href="/cursos-y-webinars/criptoactivos-blockchain/uso-de-criptoactivos/precauciones-basicas-para-evitar-riesgos">Precauciones básicas a la hora de operar con criptoactivos</a>
+              </li>
+              <li class="">
+                <a title="Monedas Digitales de Bancos Centrales (CBDC)" href="/cursos-y-webinars/criptoactivos-blockchain/uso-de-criptoactivos/monedas-digitales-de-bancos-centrales-cbdc">Monedas Digitales de Bancos Centrales (CBDC)</a>
+              </li>
+          </ul>
+      </li>
+      <li class="">
+        
+          <a title="La validación en la cadena de bloques (blockchain)" href="/cursos-y-webinars/criptoactivos-blockchain/la-validacion-en-la-cadena-de-bloques-blockchain">La validación en la cadena de bloques (blockchain)</a>
+        
+          <ul>
+              <li class="">
+                <a title="El protocolo de Prueba de Trabajo (PoW): recompensas a cambio de resolver “retos criptográficos”" href="/cursos-y-webinars/criptoactivos-blockchain/la-validacion-en-la-cadena-de-bloques-blockchain/el-protocolo-de-prueba-de-trabajo-pow-recompensas-a-cambio-de-resolver-retos-criptograficos">El protocolo de Prueba de Trabajo (PoW): recompensas a cambio de resolver “retos criptográficos”</a>
+              </li>
+              <li class="">
+                <a title="El protocolo de Prueba de Participación (PoS)" href="/cursos-y-webinars/criptoactivos-blockchain/la-validacion-en-la-cadena-de-bloques-blockchain/el-protocolo-de-prueba-de-participacion-pos">El protocolo de Prueba de Participación (PoS)</a>
+              </li>
+              <li class="">
+                <a title="Resumen de diferencias entre PoW y PoS" href="/cursos-y-webinars/criptoactivos-blockchain/la-validacion-en-la-cadena-de-bloques-blockchain/resumen-de-diferencias-entre-pow-y-pos">Resumen de diferencias entre PoW y PoS</a>
+              </li>
+          </ul>
+      </li>
+      <li class="">
+        
+            <a title="Tokens y Smart Contracts" href="/cursos-y-webinars/criptoactivos-blockchain/tokens-y-smart-contracts/la-red-ethereum">Tokens y Smart Contracts</a>
+        
+          <ul>
+              <li class="">
+                <a title="La red Ethereum" href="/cursos-y-webinars/criptoactivos-blockchain/tokens-y-smart-contracts/la-red-ethereum">La red Ethereum</a>
+              </li>
+              <li class="">
+                <a title="Otras blockchains" href="/cursos-y-webinars/criptoactivos-blockchain/tokens-y-smart-contracts/otras-blockchains">Otras blockchains</a>
+              </li>
+              <li class="">
+                <a title="Los Smart Contracts" href="/cursos-y-webinars/criptoactivos-blockchain/tokens-y-smart-contracts/los-smart-contracts">Los Smart Contracts</a>
+              </li>
+              <li class="">
+                <a title="Aplicaciones Descentralizadas (dApps)" href="/cursos-y-webinars/criptoactivos-blockchain/tokens-y-smart-contracts/aplicaciones-descentralizadas-dapps">Aplicaciones Descentralizadas (dApps)</a>
+              </li>
+          </ul>
+      </li>
+      <li class="">
+        
+          <a title="Las Finanzas Descentralizadas (DeFi)" href="/cursos-y-webinars/criptoactivos-blockchain/las-finanzas-descentralizadas-defi">Las Finanzas Descentralizadas (DeFi)</a>
+        
+      </li>
+      <li class="active">
+        
+          <a title="Web 3.0" href="/cursos-y-webinars/criptoactivos-blockchain/web-3-0">Web 3.0</a>
+        
+      </li>
+      <li class="">
+        
+          <a title="Glosario" href="/cursos-y-webinars/criptoactivos-blockchain/glosario">Glosario</a>
+        
+      </li>
+  </ul>
+</nav>
+
+
+
+         </div>
+         <div class="c-curso">
+            <div class="d-flex">
+              <div class="c-curso__content">
+                
+  <div class="c-curso__content__social">
+    <div class="c-course__social_networks">
+  <a class="c-course__social_network" onclick="shareOnFacebook()">
+    <i class="fab fa-facebook-square" aria-hidden="true"></i>
+  </a>
+  <a class="c-course__social_network" onclick="shareOnTwitter()">
+    <i class="fab fa-twitter" aria-hidden="true"></i>
+  </a>
+  <a class="c-course__social_network" onclick="shareOnLinkedIn()">
+    <i class="fab fa-linkedin" aria-hidden="true"></i>
+  </a>
+  <a class="c-course__social_network" onclick="shareByEmail()">
+    <i class="fas fa-envelope" aria-hidden="true"></i>
+  </a>
+  <a class="c-course__social_network" onclick="copyLink()">
+    <i class="fas fa-link" aria-hidden="true"></i>
+  </a>
+</div>
+  </div>
+
+
+                            
+
+
+            
+
+
+<link rel='stylesheet' href='/courses/css/88/1772008173.css' />
+
+
+
+
+
+
+
+              <div class="dot-animation " 
+      data-content-embedded-app-id="3582" 
+      >
+  
+  <p><span class="u-h3">¿Qué es la Web 3.0?¿Qué es la Web 3.0?</span></p><div class="caja-gris"><p><strong>La Web 3.0 es la siguiente evolución de la World Wide Web y es también conocida como la web semántica</strong>. Se espera que sea una web más inteligente, interoperable, segura y accesible, y esté impulsada por tecnologías como la inteligencia artificial, la blockchain y el Internet de las cosas.</p></div><p><br></p><p>Antes de conocer en profundidad qué es la Web 3.0 y qué puede suponer, es necesario ver cómo ha sido la evolución desde los inicios de la Web.  </p><p><br></p><p><span class="u-h3">Evolución desde la Web 1.0 hasta la Web 3.0</span></p>
+</div>
+  <div class="dot-animation " 
+      data-content-embedded-app-id="3583" 
+      >
+  
+  
+<div class="c-references__collapses">
+  <div class="accordion panel-group index-list-collapse" id="accordion-1688736485">
+      <div class="panel panel-default">
+        <div id="heading-1688736485" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1688736485" aria-expanded="true" aria-controls="collapse-1688736485">
+              La Web 1.0, la web estática
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1688736485" class="panel-collapse collapse" aria-labelledby="heading-1688736485" data-parent="#accordion-1688736485">
+          <div class="panel-body">
+            <p paraid="12" paraeid="{aa10119e-22ef-4488-83d6-a6c85cb489a0}{117}">La Web 1.0 se desarrolló en la década de 1990 y <strong>se caracterizó por ser una web de solo lectura</strong>, ya que los sitios web eran en gran parte estáticos, con pocas imágenes y sin funciones avanzadas. Los usuarios no podían interactuar con los sitios web o generar contenido. La mayoría de los sitios web eran propiedad de grandes empresas y organizaciones, y <strong>se utilizaban principalmente para proporcionar información sobre la empresa, productos y servicios.</strong> Algunos ejemplos de sitios web populares en la época de la web 1.0 incluyen AOL, GeoCities, Yahoo! y Netscape. </p><p paraid="14" paraeid="{aa10119e-22ef-4488-83d6-a6c85cb489a0}{139}">La web 1.0 también se caracterizó por la falta de interacción entre los usuarios. <strong>Los usuarios solo podían acceder a la información proporcionada por los sitios web y no podían interactuar entre ellos</strong> o generar su propio contenido.  </p><p paraid="16" paraeid="{aa10119e-22ef-4488-83d6-a6c85cb489a0}{153}">En términos de diseño, los sitios web de la web 1.0 eran simples y no tenían muchas de las características avanzadas que se ven en los sitios web modernos. Por ejemplo, no había imágenes de alta resolución, efectos de animación o vídeos incrustados. Estaban diseñados principalmente para proporcionar información de texto a los usuarios. </p><p paraid="18" paraeid="{aa10119e-22ef-4488-83d6-a6c85cb489a0}{163}">En resumen, <strong>la Web 1.0 se caracterizó por la falta de interactividad y contenido generado por el usuario</strong>. Los sitios web eran estáticos y limitados en diseño y funcionalidad, y la mayoría de los sitios web eran propiedad de grandes empresas y organizaciones. </p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1688736495" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1688736495" aria-expanded="true" aria-controls="collapse-1688736495">
+              La Web 2.0, la era de las redes sociales
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1688736495" class="panel-collapse collapse" aria-labelledby="heading-1688736495" data-parent="#accordion-1688736485">
+          <div class="panel-body">
+            <p>La Web 2.0 surgió en la década de 2000 y se caracterizó por un cambio en la forma en que los usuarios interactúan con la web. Permitió a los usuarios crear y compartir contenido en línea a través de <strong>redes sociales, blogs, wikis y otros medios</strong>. También permitió una mayor interactividad y una experiencia de usuario más rica, con sitios web dinámicos y contenidos multimedia.</p><p>Las redes sociales fueron una de las innovaciones más importantes de la Web 2.0. Sitios web como <strong>Facebook, Twitter, Instagram y LinkedIn</strong> permitieron a los usuarios conectarse con amigos y familiares, compartir contenido y comunicarse en tiempo real. Los blogs también se hicieron populares.</p><p>Otro aspecto importante de la Web 2.0 fue la aparición de los sitios de colaboración, como los <strong>wikis</strong>. Estos sitios permitían a los usuarios colaborar y crear contenido juntos, permitiendo a los usuarios agregar, editar y borrar contenido.</p><p>En resumen, la Web 2.0 se caracterizó por una mayor interactividad, la creación de contenido generado por el usuario y la aparición de nuevas tecnologías y aplicaciones web.</p><p>No obstante, este incremento en la interacción de los usuarios, trajo consigo la generación de una gran cantidad de <strong>datos y problemas relacionados con su protección</strong>. Las empresas propietarias de las herramientas de redes sociales eran las poseedoras de los datos de los usuarios, y esto provocó que los ciberdelincuentes pudieran atacarlas y robar datos sensibles. Algunos de los más sonados fueron estos tres:</p><ul class="c-list-dash"><li><strong>Cambridge Analytica</strong>: en 2018, se reveló que Cambridge Analytica, una consultora política que trabajó en la campaña de las elecciones de 2016, había obtenido ilegalmente datos personales de millones de usuarios de Facebook. La información se había recopilado a través de una aplicación de prueba de personalidad en Facebook que recopilaba información de los usuarios y sus amigos.</li><li><strong>Yahoo</strong>: en 2016, Yahoo anunció que había sido víctima de un hackeo masivo que afectó a más de mil millones de cuentas de usuario. La información robada incluía nombres, direc-ciones de correo electrónico, fechas de nacimiento y contraseñas.</li><li><strong>LinkedIn</strong>: en 2012, LinkedIn sufrió una violación de seguridad que resultó en el robo de más de 167 millones de contraseñas de usuario. Las contraseñas se publicaron en un sitio web de hackers y se vendieron en el mercado negro.</li></ul>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1688736503" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1688736503" aria-expanded="true" aria-controls="collapse-1688736503">
+              La Web 3.0, la llamada ‘web inteligente’
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1688736503" class="panel-collapse collapse" aria-labelledby="heading-1688736503" data-parent="#accordion-1688736485">
+          <div class="panel-body">
+            <p>La Web 3.0, también conocida como la <strong>"web semántica"</strong>, se está desarrollando en la actualidad y se espera que sea la próxima evolución de la World Wide Web. Esta nueva generación de la web se centrará en la interoperabilidad, la inteligencia artificial, la blockchain y la privacidad mejorada, lo que permitirá a los usuarios tener una experiencia en línea más inteligente y segura.</p><p>Una de las características clave de la Web 3.0 será la <strong>interoperabilidad</strong>, lo que significa que los datos se pueden compartir y utilizar entre diferentes aplicaciones y servicios. Esto permitirá que los usuarios accedan a la información que necesitan de manera más eficiente y en tiempo real. También se espera que la Web 3.0 sea <strong>más inteligente</strong>, ya que los algoritmos de <strong>inteligencia artificial</strong> y el aprendizaje automático podrán procesar y analizar grandes cantidades de datos de manera más eficiente, lo que permitirá a los usuarios recibir información personalizada y relevante.</p><p>La tecnología blockchain también jugaría un papel importante en la Web 3.0. La blockchain permitiría a los usuarios tener un mayor control sobre su información personal, ya que los datos se podrían almacenar de forma segura y descentralizada. También se espera que la blockchain haga que las transacciones en línea sean más seguras y transparentes.</p><p>No obstante, existen aún determinadas <strong>barreras de entrada</strong> a la Web 3.0: interactuar con las aplicaciones de Web 3.0 puede requerir pasos adicionales, software y, sobre todo, conocimientos técnicos, lo que supone actualmente un obstáculo importante para su adopción general.</p>
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+</div>
+  <div class="dot-animation " 
+      data-content-embedded-app-id="3584" 
+      >
+  
+  <p><br></p><table aria-rowcount="7" border="1"><thead><tr aria-rowindex="1" role="row"><th>Característica </th><th>Web 1.0 </th><th>Web 2.0 </th><th>Web 3.0 </th></tr></thead><tbody><tr aria-rowindex="2" role="row"><td>Contenido </td><td>Estático </td><td>Dinámico y generado por el usuario </td><td>Interoperable y personalizado </td></tr><tr aria-rowindex="3" role="row"><td>Interacción </td><td>Nula o limitada </td><td>Interactiva y en tiempo real </td><td>Apoyada en la inteligencia artificial </td></tr><tr aria-rowindex="4" role="row"><td>Tecnologías clave </td><td>HTML y navegadores web </td><td>AJAX, Flash, RSS, APIs y aplicaciones web </td><td>Blockchain, inteligencia artificial y realidad virtual </td></tr><tr aria-rowindex="6" role="row"><td>Privacidad </td><td>No se enfoca en la privacidad </td><td>Enfoque en la privacidad del usuario </td><td>Protección de la privacidad y control del usuario </td></tr><tr aria-rowindex="7" role="row"><td>Ejemplos de aplicaciones </td><td>Sitios web estáticos, navegadores web </td><td>Redes sociales, blogs, wikis, YouTube </td><td>Brave Browser, SingularityNET, Ocean Protocol </td></tr></tbody></table><p><br></p>
+</div>
+  <div class="dot-animation " 
+      data-content-embedded-app-id="3585" 
+      >
+  
+  <p><span class="u-h3">Principales aplicaciones de la Web 3.0</span></p><p>La Web 3.0 podría tener el potencial de cambiar la forma en que los usuarios interactúan en línea, al permitir una mayor privacidad, seguridad y personalización. Estos son algunas de las principales aplicaciones que podría tener la Web 3.0</p><ul class="c-list-dash"><li 335552541="" aria-setsize="-1" data-leveltext="●" data-font="" data-listid="1" data-list-defn-props="{"><p paraid="87" paraeid="{8190fc20-88fa-4b7b-ad1f-b2f056493f50}{163}"><strong>Identidad digital descentralizada:</strong> podrá permitir a los usuarios tener una identidad digital descentralizada, lo que significa que serían capaces de tener un mayor control sobre su información personal y su privacidad en línea. Por ejemplo, con la Web 3.0 los usuarios podrían acceder a distintos servicios web mediante sus ​​wallets digitales, utilizando un sistema de autenticación único, sin necesidad de crear y gestionar diferentes usuarios y contraseñas en cada plataforma. </p></li><li 335552541="" aria-setsize="-1" data-leveltext="●" data-font="" data-listid="1" data-list-defn-props="{"><p paraid="88" paraeid="{8190fc20-88fa-4b7b-ad1f-b2f056493f50}{196}"><strong>Contenido generado por el usuario recompensado: </strong>los usuarios podrían ser recompensados por generar contenido en línea, recibiendo pagos directamente de sus seguidores, sin la necesidad de intermediarios. Esto podría cambiar la forma en que se monetiza el contenido en línea. </p></li><li 335552541="" aria-setsize="-1" data-leveltext="●" data-font="" data-listid="1" data-list-defn-props="{"><p paraid="89" paraeid="{8190fc20-88fa-4b7b-ad1f-b2f056493f50}{204}"><strong>Gestión de la privacidad: </strong>los usuarios podrían tener un mayor control sobre su información personal y su privacidad en línea. Por un lado, no existe una autoridad central que almacene y controle los dates personales, sino que se guardan de manera descentralizada, por otro lado, el uso de credenciales verificables permite demostrar atributos sin exponer toda la información (por ejemplo, demostrar que una persona es mayor de edad sin tener que revelar su fecha de nacimiento), asimismo, la blockchain garantiza que los datos no puedan ser alterados y que los accesos puedan ser registrados de manera transparente. Así, los usuarios podrán decidir quién tiene acceso a sus datos y cómo se utilizan. La tecnología blockchain también permitirá un almacenamiento seguro y descentralizado de datos personales. </p></li><li 335552541="" aria-setsize="-1" data-leveltext="●" data-font="" data-listid="1" data-list-defn-props="{"><p paraid="90" paraeid="{8190fc20-88fa-4b7b-ad1f-b2f056493f50}{254}"><strong>Realidad virtual y aumentada:</strong> la Web 3.0 permitiría experiencias en línea más inmersivas y personalizadas a través de la realidad virtual y aumentada. Los usuarios podrían interactuar con el mundo digital de una manera más natural y envolvente, lo que cambiaría la forma en que se consumen los medios en línea. </p></li><li 335552541="" aria-setsize="-1" data-leveltext="●" data-font="" data-listid="1" data-list-defn-props="{"><p paraid="91" paraeid="{2e7f5fd1-a483-4d6a-a116-b9b1b1e3e2bd}{7}"><strong>Gestión de la cadena de suministro: </strong>podría permitir la gestión descentralizada y transparente de la cadena de suministro, lo que podría aumentar la eficiencia. Por ejemplo, la tecnología blockchain podría utilizarse para rastrear la procedencia de los productos y garantizar su autenticidad. </p></li><li 335552541="" aria-setsize="-1" data-leveltext="●" data-font="" data-listid="1" data-list-defn-props="{"><p paraid="92" paraeid="{2e7f5fd1-a483-4d6a-a116-b9b1b1e3e2bd}{19}"><strong>Juegos descentralizados: </strong>podrían permitir la creación de juegos descentralizados en los que los jugadores pudieran ganar recompensas directamente a través de criptoactivos y tokens. Esto cambiaría eventualmente la forma en que se juegan y se monetizan los juegos en línea. </p></li><li 335552541="" aria-setsize="-1" data-leveltext="●" data-font="" data-listid="1" data-list-defn-props="{"><p paraid="93" paraeid="{2e7f5fd1-a483-4d6a-a116-b9b1b1e3e2bd}{35}"><strong>Gestión de derechos de autor:</strong> la Web 3.0 podría permitir una gestión más descentralizada de los derechos de autor en línea. La tecnología blockchain podría utilizarse para rastrear la propiedad y la distribución de contenido en línea, lo que podría reducir el riesgo de piratería y aumentar la compensación justa para los creadores de contenido. </p></li><li 335552541="" aria-setsize="-1" data-leveltext="●" data-font="" data-listid="1" data-list-defn-props="{"><p paraid="94" paraeid="{2e7f5fd1-a483-4d6a-a116-b9b1b1e3e2bd}{47}"><strong>Automatización de smart contracts: </strong>la Web 3.0 permite el uso de smart contracts, en los que los términos y condiciones de un contrato se programan y ejecutan automáticamente una vez que se cumplen ciertas condiciones. Estos contratos actúan como programas autoejecutables en blockchain, lo que podría reducir la necesidad de intermediarios y aumentar la eficiencia en la ejecución de acuerdos y contratos en línea. </p></li></ul>
+</div>
+  <div class="dot-animation " 
+      data-content-embedded-app-id="3586" 
+      >
+  
+  <p><br></p><p><span class="u-h3">Riesgos de la Web 3.0</span></p><p>A pesar de que la Web 3.0 está pensada de una forma en la que se reducen los riesgos que provocan problemas en la Web 2.0, no está exenta de ellos. Algunos de estos son: </p><ul class="c-list-dash"><li 335552541="" aria-setsize="-1" data-leveltext="●" data-font="" data-listid="4" data-list-defn-props="{"><p paraid="100" paraeid="{2e7f5fd1-a483-4d6a-a116-b9b1b1e3e2bd}{114}"><strong>Pérdida de claves privadas:</strong> las​​ claves privadas son esenciales para acceder a la wallet de un usuario en la Web3. Si un usuario pierde o compromete su clave privada, puede perder acceso a sus activos digitales. Los usuarios deben tomar precauciones adecuadas, como guardar sus claves privadas de manera segura y protegerlas de terceros. </p></li><li 335552541="" aria-setsize="-1" data-leveltext="●" data-font="" data-listid="4" data-list-defn-props="{"><p paraid="101" paraeid="{2e7f5fd1-a483-4d6a-a116-b9b1b1e3e2bd}{133}"><strong>​​​Phishing, estafas y hackeos:</strong> los usuarios de la Web 3.0 pueden ser objeto de ​​phishing, estafas y hackeos dirigidos a sus wallets o claves privadas. Los usuarios deben ser cautelosos al recibir correos electrónicos o mensajes inesperados y deben verificar la autenticidad de cualquier comunicación que solicite información confidencial o sensible. </p></li><li 335552541="" aria-setsize="-1" data-leveltext="●" data-font="" data-listid="4" data-list-defn-props="{"><p paraid="102" paraeid="{2e7f5fd1-a483-4d6a-a116-b9b1b1e3e2bd}{157}"><strong>Fallos y vulnerabilidades de smart contracts:</strong> los smart contracts son programas informáticos que se ejecutan automáticamente en la blockchain. Si uno tiene errores o vulnerabilidades de seguridad, puede ser explotado por atacantes para obtener acceso no autorizado o robar activos digitales. </p></li><li 335552541="" aria-setsize="-1" data-leveltext="●" data-font="" data-listid="4" data-list-defn-props="{"><p paraid="103" paraeid="{2e7f5fd1-a483-4d6a-a116-b9b1b1e3e2bd}{185}"><strong>Fallos corporativos:</strong> las empresas que ofrecen servicios en la Web 3.0, como intercambios de criptoactivos, también pueden ser objeto de fallos de seguridad. Estos fallos pueden ser el resultado de vulnerabilidades de software, errores humanos o ataques malintencionados. Los usuarios deben considerar cuidadosamente la elección de las empresas en las que confían para administrar sus activos digitales. </p></li><li 335552541="" aria-setsize="-1" data-leveltext="●" data-font="" data-listid="4" data-list-defn-props="{"><p paraid="104" paraeid="{2e7f5fd1-a483-4d6a-a116-b9b1b1e3e2bd}{201}"><strong>Estabilidad de la red:</strong> la Web 3.0 es una tecnología emergente, y su estabilidad y confiabilidad todavía no han sido completamente probadas en un entorno de producción a gran escala. Si la red blockchain no es lo suficientemente estable, pueden surgir problemas con la funcionalidad y la seguridad de las aplicaciones y servicios de la Web 3.0.</p></li></ul>
+</div>
+
+
+              </div>
+              
+
+           </div>
+           
+  <div class="c-course__page_links">
+  <div class="c-course__page_prev">
+  </div>
+
+  <div class="c-course__page_next">
+      <span>Siguiente <i class="fas fa-chevron-right" aria-hidden="true"></i></span>
+      <a title="Glosario" href="/cursos-y-webinars/criptoactivos-blockchain/glosario">
+        Glosario
+</a>  </div>
+</div>
+
+
+
+      </div>
+   </div>
+</div>
+  </main>
+
+  <footer class="c-footer">
+    <div class="c-footer__logos">
+      <div class="container">
+        <div class="row">
+          <div class="col col-12">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="3493" 
+      >
+  
+  <p><a  href="/" title="Enlace para volver a página de inicio de Finanzas para todos">​​​​​​​​​​​​​​<img alt="Enlace para volver a página de inicio de Finanzas para todos" class="c-footer__logo"  loading="lazy" src="/system/cms_multimedia/cms_medias/files/000/000/001/original/finanzas.png?1615388008" style="margin-top: 5px; margin-bottom: 5px;"></a>   <img alt="Plan de Educación Financiera, CNMV, Banco de España, Gobierno de España y Ministerio de economía, comercio y empresa"  loading="lazy" src="https://www.finanzasparatodos.es/system/cms_multimedia/cms_medias/files/000/002/720/original/plan-educacion-financiera-cobranding.png?1734424908"></p>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="c-footer__top">
+      <div class="container">
+        <div class="row">
+          <div class="col col-12 col-md-3">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="3496" 
+      >
+  
+  <p><a  href="/quienes-somos" title="Quiénes somos">Quiénes somos</a></p><p><a  href="/actualidad" title="Blog">Blog</a></p><p><a  href="/notas-de-prensa" title="Notas de prensa">Notas de prensa</a></p><p><a  href="/teachers/sign_up?lang=es&site_id=1" title="Registro profesores">Registro profesores</a></p><p><a  href="/collaborators/sign_up?lang=es&site_id=1" title="Registro colaboradores">Registro colaboradores</a></p><p><a  href="/legal" title="Legal">Legal</a></p><p><a  href="/accesibilidad" title="Accesibilidad">Accesibilidad</a></p><p><a  href="/contacto" title="Contacto">Contacto</a></p>
+</div>
+
+
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="3495" 
+      >
+  
+  <ul class="social-sharing"><li style="text-align: center;"><a  href="https://twitter.com/finanzaspartods?s=11" target="_blank" title="Ir a Twitter de Finanzas para Todos">​​​​​​​<img alt=""  loading="lazy" src="/system/cms_multimedia/cms_medias/files/000/002/419/original/x.png?1695135771" style="width: 20px; height: 19px; margin-top: -6px;"> <span class="sr-only">Twitter</span></a></li><li style="text-align: center;"><a  href="https://instagram.com/finanzaspartods?utm_medium=copy_link" target="_blank" title="Ir a Instagram de Finanzas para Todos"><i aria-hidden="true" class="fab fa-instagram-square"></i><span class="sr-only">Instagram</span></a></li><li style="text-align: center;"><a  href="https://www.facebook.com/FinanzasParaTodos.educacionfinanciera" target="_blank" title="Ir a Facebook de Finanzas para Todos"><i aria-hidden="true" class="fab fa-facebook-square"></i><span class="sr-only">Facebook</span></a></li><li style="text-align: center;"><a  href="https://youtube.com/user/finanzasparatodosESP" target="_blank" title="Ir a Youtube de Finanzas para Todos"><i aria-hidden="true" class="fab fa-youtube-square"></i><span class="sr-only">Youtube​​​​​​​</span></a></li></ul>
+</div>
+
+
+          </div>
+
+          <div class="col col-12 col-md-3">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="3497" 
+      >
+  
+  <p><span class="u-third--color">Descubre</span></p><ul><li><a  href="/como-esta-tu-salud-financiera" title="">1. ¿Cómo está tu salud financiera?</a></li><li><a  href="/como-elaborar-un-presupuesto">2. ¿Cómo elaborar tu presupuesto?</a></li><li><a  href="/c-mo-gestionar-mis-deudas" title="">3. ¿Cómo gestionar tus deudas?</a></li><li><a  href="/c-mo-cuidar-tu-entorno-personal-y-financiero" title="">4. ¿Cómo cuidar tu entorno personal y financiero?</a></li><li><a  href="/como-preparar-mi-jubilacion" title="">5. ¿Cómo preparar tu jubilación?</a></li><li><a  href="/c-mo-invertir-mi-dinero" title="">6. ¿Cómo invertir tu dinero?</a></li></ul>
+</div>
+
+
+          </div>
+
+          <div class="col col-12 col-md-3">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="3498" 
+      >
+  
+  <p><span class="u-blue">Participa</span></p><ul><li><a  href="/collaborators/login?lang=es&site_id=1" title="Red de  Colaboradores">Red de  Colaboradores</a></li><li><a  href="/teachers/login?lang=es&site_id=1" title="Profesores">Profesores </a></li><li><a  href="/d-a-de-la-educaci-n-financiera" title="Día de la Educación Financiera">Día de la Educación Financiera </a></li><li><a  href="/premios-de-educacion-financiera" title="Premios de la Educación Financiera">Premios de la Educación Financiera</a></li><li><br></li></ul>
+</div>
+
+
+          </div>
+
+          <div class="col col-12 col-md-3">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="3499" 
+      >
+  
+  <p><span class="u-secondary--color">Aprende</span></p><ul><li><a  href="/herramientas-list" title="Herramientas">Herramientas</a></li><li><a  href="/videos" title="Videos">Videos</a></li><li><a  href="/podcasts" title="Podcasts">Podcasts</a></li><li><a  href="/guias" title="Guías">Guías</a></li><li><a  href="/cursos-y-webinars" title="Cursos, talleres, seminarios, webinars">Cursos y webinars</a></li><li><a  href="/glosario" title="Glosario">Glosario</a></li></ul>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+        
+    <div class="c-footer__bottom">
+      <div class="container">
+        <div class="row">
+          <div class="col col-12 col-md-12 u-text--right">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="3494" 
+      >
+  
+  <p style="text-align: left;">2024 © Plan de Educación Financiera. CNMV,  Banco de España y Mº de Asuntos Económicos y TD. Todos los derechos reservados      <a  href="/pol-tica-de-privacidad">Política de Privacidad</a> · <a  href="/pol-tica-de-cookies">Cookies</a> · <a  href="/legal">Aviso legal</a> · <a  href="/accesibilidad">Accesibilidad</a></p>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+</div>
+
+  <nav id="c-nav__mobile" class="c-nav__mobile" data-mmenu-position="right">
+    
+  <ul class="navbar-nav">
+
+        <li class="nav-item first-level  with--children">
+          <a class="no-link" rel="" accesskey="" aria-expanded="false" href="/descubre">Descubre</a>
+          
+            
+  <ul class="navbar-nav">
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="a" href="/como-esta-tu-salud-financiera"><span>1</span>¿Cómo está tu salud financiera?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="b" href="/como-elaborar-un-presupuesto"><span>2</span>¿Cómo elaborar tu presupuesto?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="c" href="/c-mo-gestionar-mis-deudas"><span>3</span>¿Cómo gestionar tus deudas?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  with--children">
+          <a class="nav-link" aria-haspopup="true" aria-controls="submenu-12" aria-expanded="false" rel="" accesskey="d" href="/como-cuidar-tu-entorno"><span>4</span>¿Cómo cuidar tu entorno personal y financiero?</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-12">
+              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-banco-yo">El banco y yo</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-trabajo">El trabajo</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-hogar">El hogar</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-mi-pareja">La pareja</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-familia">La familia</a>
+
+
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="e" href="/como-preparar-mi-jubilacion"><span>5</span>¿Cómo preparar tu jubilación?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="f" href="/c-mo-invertir-tu-dinero"><span>6</span>¿Cómo invertir tu dinero?</a>
+
+
+
+        </li>
+  </ul>
+                                    
+        </li>
+
+        <li class="nav-item first-level  with--children">
+          <a class="no-link" rel="" aria-expanded="false" href="/participa">Participa</a>
+          
+            
+  <ul class="navbar-nav">
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="g" href="/red-de-colaboradores"><span><i class="fas fa-handshake"></i></span>Red del Plan</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="external" accesskey="h" href="/diadelaeducacionfinanciera"><span><i class="fas fa-user-graduate"></i></span>Día de la Educación Financiera</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="i" href="/premios-de-educacion-financiera"><span><i class="fas fa-award"></i></span>Premios de Educación Financiera</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="k" href="/participa/concurso-escolar-de-educacion-financiera"><span><i class="fas fa-trophy"></i></span>Concurso Escolar de Educación Financiera</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  with--children">
+          <a class="nav-link" aria-haspopup="true" aria-controls="submenu-145" aria-expanded="false" rel="" href="/participa/profesores"><span><i class="fa-solid fa-person-chalkboard"></i></span>Profesores</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-145">
+              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="" href="/participa/profesores/primaria">Primaria</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="" href="/participa/profesores/secundaria">ESO, Bachillerato y FP</a>
+
+
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+  </ul>
+                                    
+        </li>
+
+        <li class="nav-item first-level  with--children">
+          <a class="no-link" rel="" aria-expanded="false" href="/aprende">Aprende</a>
+          
+            
+  <ul class="navbar-nav">
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="l" href="/herramientas"><span><i class="fas fa-tools"></i></span>Herramientas</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="m" href="/videos"><span><i class="fas fa-play-circle"></i></span>Vídeos</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="n" href="/podcasts"><span><i class="fas fa-microphone"></i></span>Podcasts</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="o" href="/guias"><span><i class="fas fa-book-open"></i></span>Guías</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="p" href="/cursos-y-webinars"><span><i class="fas fa-laptop"></i></span>Cursos y webinars</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="q" href="/glosario"><span><i class="fas fa-sort-alpha-down-alt"></i></span>Glosario</a>
+
+
+
+        </li>
+  </ul>
+                                    
+        </li>
+
+        <li class="nav-item first-level  ">
+          <a class="nav-link" rel="" accesskey="q" href="/quienes-somos">Quiénes somos</a>
+          
+        </li>
+
+        <li class="nav-item first-level  ">
+          <a class="nav-link" rel="" accesskey="r" href="/blog">Blog</a>
+          
+        </li>
+
+        <li class="nav-item first-level  ">
+          <a class="nav-link" rel="" accesskey="s" href="/notas-de-prensa">Notas de Prensa</a>
+          
+        </li>
+
+    <li>
+      <form class="c-form" action="/site/1/lang/es/search" accept-charset="UTF-8" method="get">
+        <label for="mobile_search">
+          <span class="u-hidden">Fondos de inversión, ahorros, presupuestos ...</span>
+          <input type="text" name="search" id="mobile_search" class="form-control" placeholder="Fondos de inversión, ahorros, presupuestos ..." />
+</label>    
+        <button name="button" type="submit" class="btn btn--submit" value="Buscar">
+          <span class="u-hidden">Buscar</span>
+          <i class="fas fa-search" aria-hidden="true"></i>
+          <span class="sr-only">Buscador</span>
+</button></form>    </li>
+  </ul>
+
+  </nav>
+
+
+    
+    
+    <div id="c-cookies__modal" class="modal modal-cookies fade" tabindex="-1" role="dialog" aria-hidden="true" data-keyboard="false" data-backdrop="static">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+    </div>
+  </div>
+</div>
+    
+    
+    
+  </body>
+</html>

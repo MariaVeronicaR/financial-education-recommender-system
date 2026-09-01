@@ -1,0 +1,68 @@
+{
+  "content_id": "C072",
+  "url": "https://www.finanzasparatodos.es/herramientas/mis-deudas",
+  "source": "Finanzas para Todos",
+  "host": "www.finanzasparatodos.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 49330
+  },
+  "title": "Mis deudas - Finanzas para todos",
+  "headings": [],
+  "sections": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Encuentra lo que estás buscando\n{{ title }}\n{{ summary }}\n{{ footerInfo }}\nMi presupuesto\nMis caprichos\nMi jubilación\nMi bebé\nMis objetivos\nMis objetivos (infantil)\nPriorizar objetivos\nMi valor neto\nMis finanzas en pareja\nMi salud financiera\nMi vivienda: ¿Cuál te puedes permitir?\nAlquilar o comprar\nMis ahorros\nMi estado ahorro-inversión\n¡No te pierdas nada!\nMantente al día de todas las novedades de Finanzas para Todos suscribiéndote a nuestra newsletter. Todas las novedades sobre finanzas, en tu correo.\nSuscríbete",
+      "links": [
+        {
+          "text": "Mi vivienda: ¿Cuál te puedes permitir?",
+          "href": "https://www.finanzasparatodos.es/herramientas/mi-vivienda",
+          "start": 242,
+          "end": 280
+        },
+        {
+          "text": "Mi estado ahorro-inversión",
+          "href": "https://www.finanzasparatodos.es/herramientas/estado-ahorro-inversion",
+          "start": 312,
+          "end": 338
+        }
+      ]
+    }
+  ],
+  "text": "Encuentra lo que estás buscando\n{{ title }}\n{{ summary }}\n{{ footerInfo }}\nMi presupuesto\nMis caprichos\nMi jubilación\nMi bebé\nMis objetivos\nMis objetivos (infantil)\nPriorizar objetivos\nMi valor neto\nMis finanzas en pareja\nMi salud financiera\nMi vivienda: ¿Cuál te puedes permitir?\nAlquilar o comprar\nMis ahorros\nMi estado ahorro-inversión\n¡No te pierdas nada!\nMantente al día de todas las novedades de Finanzas para Todos suscribiéndote a nuestra newsletter. Todas las novedades sobre finanzas, en tu correo.\nSuscríbete",
+  "text_len": 519,
+  "num_headings": 0,
+  "metadata": {
+    "title": "Mis deudas - Finanzas para todos",
+    "url": "https://www.finanzasparatodos.es/herramientas/mis-deudas",
+    "hostname": "finanzasparatodos.es",
+    "sitename": "finanzasparatodos.es",
+    "date": "2024-01-01",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": true,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Calculadora de gestión de deudas",
+    "topic": "deuda",
+    "subtopic": "herramienta deudas",
+    "difficulty": "básico",
+    "format": "calculadora",
+    "summary": "Calculadora para evaluar el nivel de endeudamiento y planificar la salida",
+    "learning_objective": "Diagnosticar y reducir el nivel de deuda"
+  },
+  "deduped_from": null
+}

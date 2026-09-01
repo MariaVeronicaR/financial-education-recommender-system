@@ -1,0 +1,525 @@
+{
+  "content_id": "C104",
+  "title": "Transmitir una orden: el momento de la verdad",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "I. Transmitir una orden: el momento de la verdad"
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de llegar a este punto usted ya ha dado los pasos previos para realizar su inversión:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Ha elegido el producto que mejor se adapta a sus necesidades.",
+        "Se ha asegurado de que la entidad con la que va a operar está debidamente autorizada para prestar servicios de inversión, consultando los registros públicos de la CNMV o del Banco de España.",
+        "Ha abierto una cuenta de valores o ha firmado el correspondiente contrato con su entidad y ha revisado las tarifas y comisiones que se le van a aplicar por los distintos servicios de inversión (intermediación, liquidación, mantenimiento, custodia y administración, etc.)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque es probable que el término \"orden de valores\" le sugiera de inmediato la compra o venta de acciones en bolsa, la realidad es mucho más amplia. También son órdenes de valores la aceptación de una opa, la adquisición o reembolso de participaciones de un fondo de inversión, la suscripción de cualquier otro valor que se lance al mercado o la operativa sobre otros instrumentos financieros como los futuros u opciones.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En sentido amplio, una orden es el mandato o instrucción que el inversor traslada a su intermediario, con el fin de comprar o vender instrumentos financieros: acciones, obligaciones y bonos, etc.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay distintos tipos de órdenes, y pueden transmitirse por diferentes canales. Conocerlos bien es fundamental, ya que la correcta ejecución de una orden de valores puede llegar a condicionar la rentabilidad final de la inversión.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El objetivo de esta guía es ayudarle a aprender cuáles son y cómo funcionan los distintos tipos de órdenes. Con este fin, asumiremos que las acciones, bonos y demás instrumentos están negociados en los mercados secundarios oficiales, ya que esta es la operativa más habitual para la mayoría de los inversores. Recuerde, sin embargo, que existen otras opciones.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "¡Ha llegado el momento de dar su orden de compra!",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. Compra - venta de acciones: Cómo operar en bolsa."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2.1 Mercado bursátil"
+    },
+    {
+      "type": "paragraph",
+      "text": "La mayor parte de la negociación que tiene lugar en el mercado bursátil español se realiza en las Bolsas de Valores españolas a través de la plataforma del Sistema de Interconexión Bursátil Español (SIBE). En las Bolsas de Valores no sólo se negocian acciones, sino que también dispone de segmentos especiales para valores de renta fija, warrants, ETF y otros productos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El SIBE conecta en tiempo real las cuatro bolsas españolas (Madrid, Barcelona, Bilbao y Valencia). El mercado bursátil español es un mercado dirigido por órdenes, y la conexión entre todas las bolsas, a través del SIBE, permite que exista un único libro de órdenes para cada valor. La información sobre las negociaciones y los precios de compra y venta en cada momento se difunden automáticamente en tiempo real.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Mercado de órdenes"
+    },
+    {
+      "type": "paragraph",
+      "text": "En el mercado de órdenes se dan las siguientes modalidades:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Modalidad principal. Incluye la mayoría de los valores que se negocian a través del SIBE. Tiene lugar de lunes a viernes, con un periodo de \"mercado abierto\" desde las 9:00 hasta las 17:30. Al inicio de la sesión hay una subasta de apertura de media hora (8:30 a 9:00) y al final una subasta de cierre de cinco minutos (17:30 a 17:35). Las dos tienen un final aleatorio de un máximo adicional de 30 segundos.",
+        "Modalidad fixing. Reservado para valores que tienen menos liquidez, la contratación de fixing se realiza en dos periodos de subasta: desde las 8.30 a las 12.00 y desde el final de la primera hasta las 16.00. Al cierre de cada subasta se cruzan las operaciones acumuladas y se fija el nuevo precio."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque no se negocian en el SIBE, los valores del \"corro electrónico\" (en el que se han integrado los que antes se negociaban de viva voz) utilizan la plataforma SIBE para facilitar su negociación y operan igual que en la modalidad de fixing.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Operaciones de bloques"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es la modalidad destinada a que los miembros puedan concluir operaciones de elevado volumen. Sólo podrán introducirse órdenes válidas para un día y procedentes de un solo ordenante. Podrán ser negociados en este régimen todos los valores que se negocien en el Sistema de Interconexión Bursátil. Las operaciones de bloques podrán realizarse durante todo el horario de mercado abierto excluyendo los periodos de subasta.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Operaciones negociadas tras el cierre del mercado abierto"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estas operaciones se formalizan entre las 17:40h y las 20:00h y están vinculadas al ejercicio y cobertura de contratos de opciones y futuros debiendo cumplir una serie de requisitos en materia de precio y efectivo.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2.2 Tipos de órdenes"
+    },
+    {
+      "type": "paragraph",
+      "text": "El SIBE permite los siguientes tipos de órdenes sobre acciones:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Limitadas: se establece un precio máximo para la compra y mínimo para la venta. Si es de compra sólo se ejecutaría a un precio igual o inferior al fijado, y si es de venta a un precio igual o superior. Estas órdenes se pueden introducir tanto en períodos de subasta como de mercado abierto."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Una orden limitada se ejecuta, total o parcialmente, de forma inmediata si se encuentra contrapartida a ese precio o mejor. Si no hay contrapartida o la que hay no proporciona un volumen suficiente, la orden o la parte restante de la misma permanece en el libro de órdenes, a la espera de contrapartida.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta orden es más conveniente cuando el inversor prefiere asegurar el precio y no le preocupa la rapidez de ejecución.",
+      "links": []
+    },
+    {
+      "type": "warning",
+      "text": "Las órdenes limitadas pueden ejecutarse parcialmente si la contrapartida no cubre la totalidad del mandato. Asimismo, una orden limitada puede cancelarse de forma automática si supera el límite máximo (si es una compra) o mínimo (para las ventas) del rango de fluctuación establecido para ese valor.",
+      "level": "important"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ejemplos de órdenes limitadas de compra y de venta"
+    },
+    {
+      "type": "paragraph",
+      "text": "Supongamos que el Sr. Sánchez está interesado en un valor para el que el mercado refleja las siguientes posiciones:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Supuesto 1: El Sr. Sánchez introduce una orden para comprar 220 acciones a un máximo de 20,06. A su vez, otro inversor desea vender 100 a un precio mínimo de 20,07. En este caso no es posible cruzar ninguna operación, ya que todos los precios posibles superan lo que está dispuesto a pagar el comprador.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Supuesto 2: El Sr. Sánchez desea adquirir 250 acciones a un precio máximo de 20,06. Otro inversor desea vender 650 acciones a un precio mínimo de 20,06.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Vemos como los intereses de ambas partes coinciden en precio y, sólo parcialmente, en volumen. Por tanto, se ejecuta la operación señalada en rosa, con la que el comprador consigue plenamente su objetivo: verá depositadas en su cuenta 250 acciones, a un precio de 20,06 euros (más comisiones). Sin embargo, el vendedor sólo está parcialmente satisfecho, ya que tendrá que esperar a que aparezca otro comprador para vender las 400 acciones restantes.",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "De mercado: No se especifica límite de precio, por lo que se negociará al mejor precio que ofrezca la parte contraria en el momento en que se introduzca la orden. Se pueden introducir tanto en períodos de subasta como de mercado abierto."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "El riesgo para el inversor en este tipo de órdenes es que no controla el precio de ejecución. Si no puede ejecutarse en su totalidad contra la mejor orden del lado contrario, lo que reste se seguirá ejecutando a los siguientes precios ofrecidos, en tantos tramos como sea necesario hasta que se complete.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Lo habitual es que las órdenes de mercado se ejecuten inmediatamente, aunque sea en partes. Cada ejecución parcial es una operación distinta, por lo que este tipo de orden puede aumentar de forma notable los costes para el inversor, si la comisión tiene un mínimo o si se carga un porcentaje que disminuye significativamente cuando aumenta el importe de la orden.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Son útiles cuando el inversor esté más interesado en realizar la operación que en tratar de obtener un precio favorable.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ejemplo de orden de mercado (Venta)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Sra. Martín desea vender 450 acciones e introduce una orden de mercado. En ese momento, el mejor precio de la parte contraria ofrece 250 acciones a 20,06. Una vez ejecutada esa parte, la orden continúa \"buscando\" la siguiente posición, en la que alguien desea comprar 100 a un precio de 20,05. Esta operación también se cruza, pero la vendedora aún desea deshacerse de otras 100 acciones. La siguiente posición del libro de órdenes ofrece la compra de 135 acciones a 20,03. Con la ejecución de este último bloque, la Sra. Martín ha cumplido su objetivo de venta, si bien su contraparte en la última transacción aún no ha conseguido la cantidad que deseaba (por eso permanecen en el libro de órdenes las 35 acciones que el comprador no ha conseguido adquirir).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En resumen, considerando las posiciones compradoras que había en el libro de órdenes, la Sra. Martín ha conseguido vender sus acciones en tres bloques:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "250 acciones, a 20,06 euros + comisiones.",
+        "100 acciones, a 20,05 euros + comisiones.",
+        "100 acciones, a 20,03 euros + comisiones."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En el libro de órdenes quedan 35 acciones en la compra, a 20,03 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La ventaja en este caso es que ha conseguido que su orden se ejecute completamente. Sin embargo, si hubiera podido vender sus acciones de una sola vez al precio medio ponderado de las tres operaciones referidas, es muy probable que las comisiones hubiesen resultado menores.",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Por lo mejor: Son órdenes que se introducen sin precio. La negociación se realiza al mejor precio de contrapartida en el momento en que se introducen. Se pueden introducir tanto en períodos de subasta como de mercado abierto."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Si al mejor precio no hay volumen suficiente para atender la totalidad de la orden, la parte no satisfecha quedará limitada a ese precio (no podrá cruzarse a otro más desfavorable).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La orden por lo mejor se utiliza cuando el inversor quiere asegurarse una ejecución inmediata, pero también desea ejercer cierto control sobre el precio. El objetivo es que la orden no \"arrastre\", es decir, que no se ejecute a varios precios.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ejemplo de orden por lo mejor (venta)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Sr. García desea vender 450 acciones, e introduce una orden por lo mejor. Sin embargo, al mejor precio de mercado en ese momento (20,06) sólo puede vender 250 acciones.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por lo tanto, el Sr. García ha podido vender 250 acciones a 20,06 quedando las otras 200 pendientes en el libro de órdenes, a la espera de que algún comprador ofrezca 20,06 (ya que, al ser una orden \"por lo mejor\", no puede cruzarse a un precio más desfavorable que el mejor que había en el momento en que se introdujo).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En valores líquidos, este tipo de órdenes suelen ejecutarse de forma completa y al momento. Si los valores no son muy líquidos, son más probables las ejecuciones parciales.",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Órdenes de elevado tamaño y volumen oculto: Son órdenes de elevado volumen no visibles para el resto del mercado aunque se ejecuten parcialmente. Se ejecutan a un precio límite o a un precio mejor."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Al mismo precio tienen prioridad las órdenes visibles sobre las órdenes de elevado tamaño y volumen oculto.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Estas órdenes pueden introducirse tanto en periodos de subasta, como en periodos de mercado abierto. Durante los periodos de subasta muestran todo su volumen y, en su caso, se ejecutarán al precio resultante de la subasta.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Las órdenes de elevado tamaño y volumen oculto se utilizan cuando el inversor no quiere mostrar al mercado el elevado volumen de su orden y quiere que la orden se ejecute poco a poco al precio límite fijado por él.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ejemplo de orden de elevado tamaño y volumen oculto (venta)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Sr. García desea vender 10.000 acciones, e introduce una orden de elevado tamaño y volumen oculto a 20,06. Sin embargo, al mejor precio de mercado en ese momento (20,06) sólo puede vender 250 acciones.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Las otras 9750 quedan por tanto en el libro de órdenes ocultas, a la espera de que algún comprador pague 20,06.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El SIBE también permite las órdenes al punto medio, de bloques combinados y las VWAP, aunque se trata de órdenes pensadas más para los inversores profesionales que para los minoristas debido a su elevado volumen.",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Al punto medio: Son órdenes que permiten ejecutar operaciones al precio medio de la mejor oferta y demanda que exista en el mercado en ese instante ajustándose al precio medio en cada momento. Se pueden introducir en mercado abierto pero no en periodos de subasta."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Estas órdenes deben de tener un importe mínimo establecido por la bolsa. Podrá introducirse con un precio límite de ejecución así como un volumen mínimo para cada ejecución parcial.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Este tipo de órdenes se ejecutan fuera del libro de órdenes, y solamente podrán negociarse contra otras órdenes al punto medio, sin poder hacerlo contra otro tipo de órdenes.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Tendrán prioridad de ejecución las órdenes con mayor volumen, y entre dos órdenes con el mismo volumen la de mayor antigüedad.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El riesgo para el inversor en este tipo de órdenes es que no controla del todo el precio de ejecución si no se introducen con un precio límite de ejecución, ya que este se irá adaptando según se modifique el mejor precio de oferta y demanda del libro de órdenes.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ejemplo de orden al punto medio (venta)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Sr. García introduce una orden APM (al punto medio) de vender 500 acciones. Sin embargo, en esos momentos no existe ninguna orden de comprar APM, por lo que no puede ejecutarse.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Unos minutos más tarde, cuando la mejor oferta y demanda en el libro de órdenes ha cambiado y el precio medio es de 20,065, la Sra Martín introduce una orden de compra de 600 acciones al APM. Se cruzarán 500 acciones a 20,065, quedando pendientes de ejecutar 100 acciones de compra de la Sra Martín al APM, a la espera de que algún vendedor ofrezca el APM.",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Bloques combinados: Son órdenes de gran volumen con un tramo visible y otro no visible. A medida que se ejecuta el tramo visible aflora al libro una parte del tramo no visible. La parte visible de la orden siempre tendrá prioridad sobre la no visible."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Si el volumen oculto es de elevado volumen (que cumplen con el volumen necesario que se establece para acceder a la condición de bloque) se podrá ejecutar contra órdenes ocultas del mismo tipo al precio medio de la oferta y demanda mostrado en el libro de órdenes siempre que se encuentre dentro del rango de precios fijado al introducir la orden.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En el caso en el que el volumen oculto no alcance el volumen mínimo de las órdenes de elevado volumen, únicamente se podrá ejecutar en el libro de órdenes al igual que lo haría de tratarse de una orden de volumen oculto.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Estas órdenes se pueden introducir tanto en períodos de subasta como de mercado abierto.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ejemplo de orden de bloques combinados"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Sr. García desea comprar 10.000 acciones, e introduce una orden de bloque combinada a 20,06 con segundo precio límite a 20,065, 250 acciones de volumen a mostrar.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Al mismo tiempo la Sra Martín introduce una orden de venta de bloque combinada de 15.000 acciones a 20,07 con segundo precio límite a 20,065, 250 acciones a mostrar. Se trata de un valor cuyo efectivo medio diario negociado se encuentra entre uno y cinco millones de euros (efectivo mínimo=200.000 euros), por lo que tanto la orden de compra de 10.000 acciones como la orden de venta de 15000 acciones cumplen con los requisitos para ser considerada de elevado volumen.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Se cruzarán 9750 acciones a 20,065 en el libro oculto (el punto medio de la horquilla 20,06-20,07) quedando el libro de órdenes de la siguiente manera:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "VWAP: Son órdenes que se han acordado previamente entre dos miembros de mercado. El precio será el precio medio ponderado de todas las operaciones cruzadas en el libro de órdenes durante un periodo determinado. El número de acciones de la orden no podrá ser superior a las que haya ejecutado el miembro de mercado durante la sesión en ese valor."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Estas órdenes se introducirán como operaciones especiales durante el mercado abierto y hasta 15 minutos después de la publicación del precio de cierre.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Órdenes no aceptadas por el SIBE"
+    },
+    {
+      "type": "paragraph",
+      "text": "Además de las explicadas anteriormente, algunas entidades ofrecen otro tipo de órdenes a los inversores (stop-loss, stop-profit, etc.). Estas órdenes no pueden introducirse directamente al mercado ya que no están previstas en la plataforma del SIBE. Las entidades que las aceptan deben establecer los mecanismos necesarios para gestionarlas correctamente. Antes de empezar a operar a través de una entidad debe conocer qué tipos de órdenes le permiten introducir, cuáles son sus características y sus limitaciones.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2.3. Condiciones de ejecución de las órdenes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las órdenes limitadas, de mercado y por lo mejor, pueden estar sujetas a las siguientes condiciones de ejecución, aunque están pensadas más para los inversores profesionales que para los minoristas:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Volumen mínimo: En el momento de entrar al mercado se debe ejecutar una cantidad mínima especificada. Si no se ejecuta esa cantidad, el sistema la rechaza.",
+        "Todo o nada: Se ejecutan en su totalidad o se rechazan. Es un tipo especial de orden con volumen mínimo, donde el mínimo es la totalidad de las acciones.",
+        "Ejecutar o anular: Se ejecutan automáticamente para la que exista contrapartida en el momento de la introducción, y la parte no ejecutada se elimina del sistema."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Estas condiciones son de ejecución instantánea, por lo que no se pueden introducir en las subastas, sino sólo en mercado abierto.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Volumen oculto: En las ordenes limitadas, de mercado, por lo mejor y de bloques combinados (tengan o no alguna de las condiciones de ejecución – volumen mínimo, todo o nada, ejecutar o anular – ) puede añadirse esta condición. El volumen mínimo de las órdenes es de 10.000 euros. Se introducen mostrando al sistema sólo una parte del volumen a negociar. Una vez ejecutada esta parte, el resto va saliendo al mercado en paquetes con volúmenes aleatorios entre un rango fijado con anterioridad por el inversor. Esta posibilidad es especialmente interesante para las órdenes de gran tamaño, porque así no se aprecia el interés en comprar o vender una gran cantidad y se evitan movimientos adversos contra el valor.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2.4. Transmisión y ejecución de una orden"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque hay diversos canales para que el inversor transmita su orden, y cada uno de ellos presenta algunas particularidades, las obligaciones del intermediario son siempre las mismas: actuar con diligencia y transparencia en interés de sus clientes. Con este fin debe disponer de los procedimientos y sistemas necesarios para obtener el mejor resultado posible en la ejecución de las órdenes.",
+      "links": []
+    },
+    {
+      "type": "warning",
+      "text": "Para operar en los mercados de valores es necesario transmitir la orden a través de un intermediario financiero. El inversor no puede acudir directamente al mercado.",
+      "level": "important"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2.4.1. Canales para transmitir una orden al intermediario"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las órdenes de valores se pueden dar en persona, por teléfono o por medio de comunicaciones electrónicas.",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Presencial o in-situ. El cliente acude a la oficina de la entidad y firma un escrito en el que se especifican los términos de la orden. La entidad debe conservar este documento en su archivo de justificantes, durante un mínimo de 5 años desde que las órdenes son recibidas.",
+        "Por teléfono: En este caso hay que diferenciar dos situaciones: 1. Órdenes introducidas de manera sistematizada a través de un servicio contratado por el cliente (por ejemplo, el de banca telefónica). En este caso las entidades deberán establecer los medios necesarios para identificar al ordenante (mediante la correspondiente clave o contraseña) y grabar la comunicación de la orden. La entidad debe conservar esta grabación en su archivo de justificantes durante un período mínimo de 5 años. 2. Órdenes realizadas de forma esporádica \"de viva voz\", sin que exista ningún contrato que ampare la prestación de este servicio por vía telefónica. En este supuesto el cliente, después de dar sus instrucciones, debe confirmarlas por escrito. La entidad puede condicionar la ejecución de la orden a que se produzca esta confirmación. Estas órdenes se considerarán confirmadas si, en un plazo no inferior a 15 días el cliente no se muestra disconforme, desde que la entidad le comunique la ejecución y, en su caso, la liquidación de la operación.",
+        "Por medios electrónicos: La difusión generalizada de servicios en línea por parte de las entidades ofrece mayor flexibilidad a los clientes. A través de estos servicios los clientes pueden operar desde cualquier parte y a cualquier hora. Además, por lo general, los costes asociados suelen ser más bajos. Para poder dar este servicio (como para cualquier otro que presten), las entidades deben tener medios adecuados y capacidad técnica suficiente para garantizar la seguridad y confidencialidad de las transacciones. Las condiciones en que se presta el servicio deben estar recogidas en un contrato firmado por el cliente. El inversor debe valorar el alcance del servicio que le ofrecen, es decir, conocer bien su funcionamiento: tipos de órdenes que puede dar, posibilidad de hacer modificaciones, canales para resolver incidencias, etc. Como en el resto de canales, la entidad debe guardar la orden en un registro, en este caso informático, durante un período mínimo de 5 años."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2.4.2. Transmisión y ejecución"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Verificación de los términos y contenido de la orden"
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de transmitir su orden, léala con detenimiento y asegúrese de que el contenido es correcto: precio, volumen, plazo de vigencia…. Además, si hace una compra, compruebe que dispone de dinero suficiente.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Para que una orden de valores se pueda tramitar y ejecutar correctamente debe ser clara y precisa, de forma que tanto el ordenante como el intermediario que la recibe comprendan con exactitud su alcance.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La orden debe tener el siguiente contenido:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Identificación del inversor.",
+        "Identificación de la clase de valor.",
+        "Finalidad de la orden: compra o venta.",
+        "Precio y volumen de ejecución, en caso de que se desee establecer límites o condiciones. Si el cliente no especifica precio, se entiende que la orden es de mercado y que permanecerá vigente hasta el cierre de la sesión en curso.",
+        "Plazo de vigencia.",
+        "Cuentas de cargo o abono de valores.",
+        "Cuenta de efectivo asociada.",
+        "Cualquier otra información necesaria en función del canal empleado o de la normativa del mercado."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Transmisión al intermediario e introducción de la orden en el mercado"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si está satisfecho con el contenido de la orden y considera que es buen momento para realizar la operación, ya puede transmitir su orden al intermediario a través de cualquiera de los sistemas habilitados por la entidad (en persona, por teléfono o por medios electrónicos).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A continuación, el intermediario debe verificar ciertos aspectos: la identidad del ordenante, si efectivamente dispone de los fondos (para realizar la compra) o de los valores (si se trata de una venta). Si el intermediario es miembro del mercado en el que se negocian los valores puede introducir él mismo la orden; en caso contrario, deberá remitirla a una entidad que sí tenga la condición de miembro.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:38:06.784754+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 101065,
+    "input_tokens": 10548,
+    "output_tokens": 16000
+  }
+}

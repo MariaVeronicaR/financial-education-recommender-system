@@ -1,0 +1,57 @@
+{
+  "content_id": "C009",
+  "tldr": "Este contenido explica cómo gestionar las deudas de forma inteligente: la clave es disponer de un fondo de emergencia (entre 3 y 6 meses de gastos) en productos líquidos y sin riesgo para no tener que endeudarse en momentos difíciles. También enseña que el total de pagos por deudas no debería superar el 40% de los ingresos mensuales y que, para comparar créditos, hay que usar la TAE (que incluye intereses, comisiones y gastos) en lugar del tipo de interés nominal (TIN).",
+  "key_points": [
+    "Un fondo de emergencia equivalente a 3-6 meses de gastos evita recurrir a préstamos o tarjetas en momentos difíciles, que aumentan el endeudamiento.",
+    "El fondo de emergencia debe guardarse en productos líquidos y sin riesgo (cuentas remuneradas o fondos monetarios), priorizando disponibilidad y seguridad sobre rentabilidad.",
+    "El total de cuotas e intereses de todas las deudas no debería superar el 40% de los ingresos mensuales para evitar un endeudamiento insostenible.",
+    "La TAE incluye el interés nominal más comisiones y gastos, por lo que es el indicador adecuado para comparar préstamos y créditos.",
+    "Un crédito con tipo de interés nominal bajo puede resultar más caro que otro con tipo más alto si acumula muchas comisiones."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cuál es la principal razón para tener un fondo de emergencia antes de afrontar cualquier imprevisto?",
+      "options": [
+        "Evitar tener que endeudarse o vender inversiones a largo plazo en mal momento cuando surgen gastos imprevistos",
+        "Conseguir una mayor rentabilidad que con cualquier otra inversión",
+        "Aumentar el límite de gasto de la tarjeta de crédito",
+        "Pagar impuestos más bajos a final de año"
+      ],
+      "correct_index": 0,
+      "explanation": "El fondo de emergencia cubre imprevistos sin recurrir a créditos costosos ni a vender inversiones con pérdidas, protegiendo tus objetivos a largo plazo.",
+      "concept_id": "C02"
+    },
+    {
+      "question": "Según el contenido, ¿qué se considera una señal de endeudamiento excesivo?",
+      "options": [
+        "Que los pagos mensuales de todas las deudas superen el 40% de los ingresos mensuales",
+        "Que el tipo de interés de la hipoteca sea variable",
+        "Que se pague la vivienda con un préstamo hipotecario",
+        "Que se use una cuenta remunerada para guardar el fondo de emergencia"
+      ],
+      "correct_index": 0,
+      "explanation": "Cuando las cuotas e intereses de todas las deudas superan el 40% de los ingresos, el endeudamiento se vuelve insostenible y dificulta ahorrar para objetivos futuros.",
+      "concept_id": "C03"
+    },
+    {
+      "question": "Un banco te ofrece un préstamo con un tipo de interés nominal (TIN) del 3% y otro con un TIN del 5%. ¿Cuál es la forma correcta de compararlos?",
+      "options": [
+        "Usar siempre la TAE, porque incluye el interés y también las comisiones y gastos",
+        "Elegir siempre el préstamo con el TIN más bajo, ignorando el resto",
+        "Comparar solo el TIN si ambos préstamos son a plazos diferentes",
+        "Elegir el préstamo con mayor TAE, ya que implica menor coste"
+      ],
+      "correct_index": 0,
+      "explanation": "La TAE refleja el coste efectivo total (interés + comisiones y gastos), por lo que es el indicador correcto para comparar productos, aunque conviene hacerlo a plazos iguales.",
+      "concept_id": "C19"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 10131,
+    "input_tokens": 2941,
+    "output_tokens": 1126
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "content_id": "C102",
+  "tldr": "La MiFID es una normativa europea, trasladada a la legislación española, cuyo objetivo es proteger a los inversores minoristas cuando contratan productos financieros como acciones, renta fija, fondos o derivados. Establece que las entidades deben actuar en el mejor interés del cliente, informar de forma clara y no engañosa antes, durante y después de la inversión, y evaluar la conveniencia e idoneidad de los productos según el perfil del inversor. Los clientes minoristas reciben el máximo grado de protección, mayor que los clientes profesionales.",
+  "key_points": [
+    "La MiFID protege a los inversores minoristas y regula la relación entre estos y las entidades financieras en productos como acciones, renta fija, fondos de inversión y derivados (no aplica a cuentas, préstamos ni seguros).",
+    "Las entidades deben actuar de forma honesta, imparcial y profesional en el mejor interés del cliente, y ofrecer información imparcial, clara y no engañosa.",
+    "Los clientes minoristas reciben la máxima protección; los profesionales, menos, y un minorista solo puede ser tratado como profesional si lo solicita por escrito y renuncia a parte de esa protección.",
+    "Antes de invertir, la entidad evalúa la conveniencia (test de conveniencia) o la idoneidad (test de idoneidad) del producto según los conocimientos, experiencia, objetivos y situación financiera del cliente.",
+    "Durante y después de la inversión, la entidad debe ejecutar las órdenes buscando la 'mejor ejecución' y enviar confirmaciones e información periódica sobre la cartera y los costes."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué productos están cubiertos por la protección que ofrece la normativa MiFID?",
+      "options": [
+        "Las cuentas corrientes, los préstamos y las hipotecas",
+        "Las acciones, la renta fija, los fondos de inversión y los derivados",
+        "Los seguros de vida y los planes de pensiones",
+        "Todos los productos financieros y bancarios sin excepción"
+      ],
+      "correct_index": 1,
+      "explanation": "La MiFID se aplica a los llamados 'productos MiFID' (acciones, renta fija, fondos de inversión y derivados), no a productos puramente bancarios ni a seguros.",
+      "concept_id": "C24"
+    },
+    {
+      "question": "Un inversor minorista que quiere ser tratado como cliente profesional...",
+      "options": [
+        "Conserva siempre el mismo nivel de protección que un minorista",
+        "No necesita cumplir ninguna condición ni hacer ninguna solicitud",
+        "Debe solicitarlo por escrito y renuncia a parte de la protección que la normativa ofrece a los minoristas",
+        "Pasa automáticamente a recibir más protección que antes"
+      ],
+      "correct_index": 2,
+      "explanation": "La normativa permite que un minorista sea tratado como profesional si lo solicita por escrito y cumple ciertas condiciones, pero al hacerlo renuncia a parte de la protección que reciben los minoristas.",
+      "concept_id": "C13"
+    },
+    {
+      "question": "¿Cuál es la diferencia entre la evaluación de conveniencia y la de idoneidad?",
+      "options": [
+        "La conveniencia solo se aplica a clientes profesionales y la idoneidad a minoristas",
+        "La conveniencia valora conocimientos y experiencia para comprar/vender, mientras que la idoneidad analiza además la situación financiera y los objetivos para dar recomendaciones personalizadas",
+        "Son exactamente el mismo test con nombres distintos",
+        "La idoneidad se usa solo para productos no complejos y la conveniencia para los complejos"
+      ],
+      "correct_index": 1,
+      "explanation": "El test de conveniencia evalúa conocimientos y experiencia para operaciones de compra/venta, mientras que el de idoneidad, usado en asesoramiento y gestión de carteras, añade la situación financiera y los objetivos de inversión del cliente.",
+      "concept_id": "C12"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 7069,
+    "input_tokens": 8812,
+    "output_tokens": 1098
+  }
+}

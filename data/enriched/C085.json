@@ -1,0 +1,57 @@
+{
+  "content_id": "C085",
+  "tldr": "Los fondos de inversión solo tributan en el IRPF cuando se reembolsan (venden) las participaciones, por la ganancia patrimonial que es la diferencia entre el valor de reembolso y el de suscripción, considerando los gastos asociados. Una ventaja clave es el diferimiento fiscal: los traspasos entre fondos no tributan ni sufren retención. Las ganancias y pérdidas se integran en la base del ahorro, donde las pérdidas pueden compensarse con ganancias y, con límites, con rendimientos del capital mobiliario, aplicándose tipos progresivos del 19% al 30%.",
+  "key_points": [
+    "Los fondos de inversión no tributan hasta el momento de su reembolso (venta), solo por las ganancias generadas, no por el capital total.",
+    "La ganancia o pérdida patrimonial se calcula restando al valor de reembolso el valor de suscripción, incluyendo los gastos de compra y venta (comisiones deducibles).",
+    "Los traspasos entre fondos de inversión no tributan ni están sujetos a retención (diferimiento fiscal), conservando valor y fecha de adquisición originales.",
+    "Las ganancias y pérdidas se integran en la base del ahorro del IRPF; las pérdidas patrimoniales pueden compensar ganancias y, hasta el 25%, los rendimientos del capital mobiliario.",
+    "Los tipos impositivos sobre las ganancias son progresivos, entre el 19% y el 30% según tramos, con una retención del 19% en el momento de la venta."
+  ],
+  "quiz": [
+    {
+      "question": "Inviertes 1.000 € en un fondo y lo vendes por 1.200 €. ¿Sobre qué importe tributas en el IRPF?",
+      "options": [
+        "Sobre los 1.200 € completos del reembolso",
+        "Sobre la ganancia de 200 €",
+        "Sobre 1.000 € (el capital invertido)",
+        "Sobre 1.100 € (la mitad del reembolso)"
+      ],
+      "correct_index": 1,
+      "explanation": "Solo se tributa por las ganancias generadas (valor de reembolso menos valor de suscripción), no por el capital total obtenido en la venta.",
+      "concept_id": "C21"
+    },
+    {
+      "question": "Compras participaciones de un mismo fondo en dos fechas distintas y luego vendes parte de ellas. ¿Cómo se determina qué participaciones se consideran vendidas?",
+      "options": [
+        "Se venden primero las participaciones compradas más recientemente",
+        "Se venden proporcionalmente las de ambas compras",
+        "Se venden primero las participaciones más antiguas (criterio FIFO)",
+        "El inversor elige libremente cuáles vende"
+      ],
+      "correct_index": 2,
+      "explanation": "Se aplica el criterio FIFO (First In, First Out): las primeras participaciones adquiridas son las que primero se consideran vendidas para calcular la ganancia o pérdida.",
+      "concept_id": "C26"
+    },
+    {
+      "question": "Traspasas tu dinero de un fondo de inversión a otro sin retirarlo. ¿Qué implicación fiscal tiene esta operación?",
+      "options": [
+        "Tributas por la ganancia generada en el momento del traspaso",
+        "No tributas ni se practica retención, y las nuevas participaciones conservan el valor y fecha de adquisición originales (diferimiento fiscal)",
+        "Solo tributas si el traspaso se hace entre entidades distintas",
+        "Tributas al 19% sobre el importe total traspasado"
+      ],
+      "correct_index": 1,
+      "explanation": "El traspaso entre fondos no tributa ni está sujeto a retención gracias al diferimiento fiscal: la tributación se aplaza hasta el reembolso definitivo, conservando valor y fecha de adquisición originales.",
+      "concept_id": "C26"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5721,
+    "input_tokens": 8113,
+    "output_tokens": 1138
+  }
+}

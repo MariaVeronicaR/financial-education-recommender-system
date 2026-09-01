@@ -1,0 +1,57 @@
+{
+  "content_id": "C072",
+  "tldr": "Esta herramienta de gestión de deudas te permite diagnosticar tu nivel de endeudamiento y planificar cómo reducirlo comparando las dos estrategias más populares: la avalancha, que ataca primero la deuda con mayor interés para ahorrar en costes, y la bola de nieve, que liquida primero los saldos más pequeños para ganar motivación. Ambas superan con creces a pagar solo los mínimos, y la clave está en destinar cada mes un dinero extra a una deuda objetivo.",
+  "key_points": [
+    "La calculadora compara dos estrategias de pago: avalancha (mayor interés primero) y bola de nieve (menor saldo primero).",
+    "La avalancha minimiza el total de intereses pagados, mientras que la bola de nieve ofrece victorias rápidas que mantienen la motivación.",
+    "Pagar más del mínimo mensual reduce drásticamente tanto el tiempo de liquidación como el interés total.",
+    "El dinero extra debe ir a una sola deuda objetivo; al liquidarla, su cuota se suma a la siguiente deuda.",
+    "La mejor estrategia es la que realmente puedas mantener hasta eliminar todas tus deudas."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cuál es la diferencia clave entre el método 'bola de nieve' y el método 'avalancha' para pagar varias deudas?",
+      "options": [
+        "La bola de nieve paga primero la deuda con mayor interés y la avalancha la de menor saldo",
+        "La bola de nieve paga primero el saldo más pequeño y la avalancha la de mayor interés",
+        "La bola de nieve solo sirve para una única deuda y la avalancha para varias",
+        "La avalancha elimina los intereses y la bola de nieve solo reduce el capital"
+      ],
+      "correct_index": 1,
+      "explanation": "La bola de nieve ordena las deudas de menor a mayor saldo para liquidarlas rápido, mientras que la avalancha prioriza la de mayor tipo de interés para ahorrar en costes.",
+      "concept_id": "C03"
+    },
+    {
+      "question": "Si tu objetivo es pagar el menor importe total posible en intereses, ¿qué estrategia te conviene más?",
+      "options": [
+        "La bola de nieve, porque liquida antes las deudas pequeñas",
+        "La avalancha, porque ataca primero la deuda con el tipo de interés más alto",
+        "Pagar solo los mínimos de cada deuda cada mes",
+        "Da igual, porque el orden de pago no afecta a los intereses"
+      ],
+      "correct_index": 1,
+      "explanation": "La avalancha elimina primero la deuda que más intereses genera, lo que minimiza matemáticamente el coste total y suele acortar el tiempo de pago.",
+      "concept_id": "C03"
+    },
+    {
+      "question": "¿Por qué pagar más del mínimo mensual reduce tanto el tiempo y el coste de una deuda?",
+      "options": [
+        "Porque el dinero extra se destina directamente a reducir el capital, y menos capital genera menos intereses",
+        "Porque el banco baja automáticamente el tipo de interés cuando pagas más",
+        "Porque el excedente se guarda como ahorro sin generar costes",
+        "Porque elimina la comisión de apertura del préstamo"
+      ],
+      "correct_index": 0,
+      "explanation": "Cada euro extra reduce el capital sobre el que se calcula el interés del mes siguiente, creando un efecto acelerador: menos intereses y más parte del pago va al capital.",
+      "concept_id": "C05"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 28354,
+    "input_tokens": 27763,
+    "output_tokens": 1711
+  }
+}

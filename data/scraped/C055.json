@@ -1,0 +1,338 @@
+{
+  "content_id": "C055",
+  "url": "https://www.cnmv.es/docportal/publicaciones/fichas/finanzas_sostenibles.pdf",
+  "source": "CNMV",
+  "host": "www.cnmv.es",
+  "url_type": "pdf",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 223791
+  },
+  "title": "Las Finanzas Sostenibles",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Las Finanzas"
+    },
+    {
+      "level": 1,
+      "text": "Introducción"
+    },
+    {
+      "level": 1,
+      "text": "¿Qué son las"
+    },
+    {
+      "level": 1,
+      "text": "Finanzas Sostenibles?"
+    },
+    {
+      "level": 1,
+      "text": "Los criterios"
+    },
+    {
+      "level": 1,
+      "text": "Los criterios ASG"
+    },
+    {
+      "level": 1,
+      "text": "¿Cuáles son actualmente"
+    },
+    {
+      "level": 1,
+      "text": "los productos financieros"
+    },
+    {
+      "level": 1,
+      "text": "sostenibles?"
+    },
+    {
+      "level": 1,
+      "text": "¿Cómo se adquiere un"
+    },
+    {
+      "level": 1,
+      "text": "producto financiero"
+    },
+    {
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "level": 1,
+      "text": "información?"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Las Finanzas",
+      "start": 20,
+      "end": 126,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "Introducción",
+      "start": 126,
+      "end": 624,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "¿Qué son las",
+      "start": 624,
+      "end": 644,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "Finanzas Sostenibles?",
+      "start": 644,
+      "end": 1764,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "Los criterios",
+      "start": 1764,
+      "end": 1777,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "Los criterios ASG",
+      "start": 1777,
+      "end": 3274,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "¿Cuáles son actualmente",
+      "start": 3274,
+      "end": 3317,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "los productos financieros",
+      "start": 3317,
+      "end": 3344,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "sostenibles?",
+      "start": 3344,
+      "end": 4499,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "¿Cómo se adquiere un",
+      "start": 4499,
+      "end": 4539,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "producto financiero",
+      "start": 4539,
+      "end": 5392,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "¿Necesitas más",
+      "start": 5392,
+      "end": 5419,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "información?",
+      "start": 5419,
+      "end": 5444,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Guía rápida de CNMV\nLas Finanzas Sostenibles"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Las Finanzas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sostenibles\nGuía rápida"
+    },
+    {
+      "type": "paragraph",
+      "text": "Guía rápida de CNMV\nLas Finanzas Sostenibles"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Introducción"
+    },
+    {
+      "type": "paragraph",
+      "text": "El avance hacia una sociedad y una economía sostenibles no es ajeno al\nmundo de las finanzas. Hay cada vez más empresas invirtiendo en proyectos\nque tratan de minimizar el impacto medioambiental o fomentar los aspectos\nsociales y de buen gobierno, y hay más y más inversores que tratan de\ncompaginar sus objetivos de rentabilidad con el deseo de que su dinero sirva\npara mejorar el medio ambiente y la sociedad.\nLas Finanzas\nSostenibles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Guía rápida de CNMV\nLas Finanzas Sostenibles"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Qué son las"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Finanzas Sostenibles?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque las finanzas sostenibles tienen un componente “verde” muy\nimportante, como combatir el cambio climático o la reducción de los gases\ncontaminantes, también incluyen aspectos sociales, con el objetivo de\nfomentar modelos económicos en las empresas que fomenten el respeto a\nlos derechos humanos, la justicia social y el buen gobierno de las empresas.\nActualmente, algunas empresas describen sus políticas de sostenibilidad en\ninformes específicos para este fin o en sus informes de responsabilidad social\ncorporativa. Y las grandes compañías presentan esta información mediante\nel estado de información no financiera (EINF) que forma parte del informe de\ngestión que elaboran anualmente.\nLa divulgación de esta información contribuye a medir, supervisar y gestionar\nel rendimiento de las empresas y su impacto en la sociedad.\nLas finanzas sostenibles implican que en el proceso de toma\nde decisiones de inversión se tengan en cuenta los factores\nmedioambientales, sociales y de buen gobierno. Todos estos\ncriterios se conocen como criterios ASG."
+    },
+    {
+      "type": "paragraph",
+      "text": "Guía rápida de CNMV\nLas Finanzas Sostenibles"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Los criterios"
+    },
+    {
+      "type": "paragraph",
+      "text": "ASG\nAdemás de los criterios estrictamente financieros -rentabilidad, riesgo y\nliquidez-, la inversión sostenible incluye criterios ASG- ambientales, sociales\ny de gobernanza.\nA (ambientales). Son criterios que consideran actividades que afectan de\nforma positiva al medio ambiente: la no contaminación del aire y agua, la lucha\ncontra el cambio climático, la reducción de emisiones de gases de efecto\ninvernadero, la eficiencia energética, el respeto a la biodiversidad, el uso de\nenergías renovables, etc.\nS (sociales). Incluyen aspectos relacionados con la salud, la educación, los\nderechos humanos, los derechos de los trabajadores (riesgos y condiciones\nlaborales, explotación de niños o inmigrantes o de personas en riesgo de\nexclusión social…). Los criterios sociales buscan, entre otros objetivos, reducir\nla desigualdad a través de la inclusión de los colectivos más desfavorecidos.\nG (buen gobierno). Se refieren a cuestiones de gobierno corporativo de\nla empresa, a la calidad de la gestión y a su cultura; ejemplos de factores o\nelementos de buen gobierno son la rendición de cuentas, la independencia\ny composición de los órganos de gobierno, la reducción de la brecha salarial\nentre hombres y mujeres, la presencia de las mujeres en cargos directivos, la\nno discriminación de los trabajadores por sexo, edad, capacidad, etc."
+    },
+    {
+      "type": "paragraph",
+      "text": "Guía rápida de CNMV\nLas Finanzas Sostenibles"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Los criterios ASG"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ambientales\nSociales\nBuen Gobierno"
+    },
+    {
+      "type": "paragraph",
+      "text": "Guía rápida de CNMV\nLas Finanzas Sostenibles"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Cuáles son actualmente"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "los productos financieros"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "sostenibles?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las finanzas sostenibles permiten el diseño de distintos productos financieros\nque fomentan el desarrollo sostenible y tratan de equilibrar rentabilidad y\nsostenibilidad.\nActualmente podemos encontrar, entre otros:\nFondos de inversión que aplican criterios ASG : son\ninstrumentos de inversión y ahorro (instituciones de\ninversión colectiva) que incluyen criterios ASG en su\npolítica de inversión. Esta política de inversión está\ndefinida en el folleto o DFI (Documento con los Datos\nFundamentales para el Inversor).\nFondos de inversión solidarios1: son instituciones de\ninversión colectiva que ceden una parte de la comisión\nde gestión a determinadas entidades benéficas o no\ngubernamentales.\nBonos verdes y sociales: son emisiones de deuda\npública o privada, emitidos a medio y largo plazo para\nfinanciar proyectos respetuosos con el medio ambiente\no que persiguen mejoras de tipo social."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Circular de 4 de abril de 2014 de INVERCO sobre la aplicación de criterios\nmedioambientales, sociales y de gobierno corporativo (ASG) en la política de inversión\nde las instituciones de inversión (IIC)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Guía rápida de CNMV\nLas Finanzas Sostenibles"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Cómo se adquiere un"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "producto financiero"
+    },
+    {
+      "type": "paragraph",
+      "text": "sostenible?\nUn producto financiero sostenible se adquiere, al igual que cualquier otro\nproducto, a través de un intermediario. El inversor debe indicar que está\ninteresado en un producto de estas características y, antes de comprar,\nes recomendable que solicite información complementaria que explique\nlos criterios ASG aplicados a la inversión.\nSI QUIERO SABER MÁS…\nEn la web de la CNMV existe un apartado específico sobre Finanzas\nSostenibles, que incluye la normativa existente y documentos de\ninterés."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contáctanos por email\nEsta guía rápida tiene como finalidad informar al público en general sobre distintos\naspectos relacionados con los mercados de valores. Por su naturaleza divulgativa\nno puede constituir un soporte para posteriores interpretaciones jurídicas, siendo\nla normativa en vigor la única fuente a estos efectos."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "información?"
+    },
+    {
+      "type": "paragraph",
+      "text": "www.cnmv.es"
+    }
+  ],
+  "text": "Guía rápida de CNMV\nLas Finanzas Sostenibles\nLas Finanzas \nSostenibles\nGuía rápida\n\nGuía rápida de CNMV\nLas Finanzas Sostenibles\nIntroducción\nEl avance hacia una sociedad y una economía sostenibles no es ajeno al \nmundo de las finanzas. Hay cada vez más empresas invirtiendo en proyectos \nque tratan de minimizar el impacto medioambiental o fomentar los aspectos \nsociales y de buen gobierno, y hay más y más inversores que tratan de \ncompaginar sus objetivos de rentabilidad con el deseo de que su dinero sirva \npara mejorar el medio ambiente y la sociedad. \nLas Finanzas \nSostenibles\n\nGuía rápida de CNMV\nLas Finanzas Sostenibles\n¿Qué son las \nFinanzas Sostenibles?\nAunque las finanzas sostenibles tienen un componente “verde” muy \nimportante, como combatir el cambio climático o la reducción de los gases \ncontaminantes, también incluyen aspectos sociales, con el objetivo de \nfomentar modelos económicos en las empresas que fomenten el respeto a \nlos derechos humanos, la justicia social y el buen gobierno de las empresas.\nActualmente, algunas empresas describen sus políticas de sostenibilidad en \ninformes específicos para este fin o en sus informes de responsabilidad social \ncorporativa. Y las grandes compañías presentan esta información mediante \nel estado de información no financiera (EINF) que forma parte del informe de \ngestión que elaboran anualmente. \nLa divulgación de esta información contribuye a medir, supervisar y gestionar \nel rendimiento de las empresas y su impacto en la sociedad.\nLas finanzas sostenibles implican que en el proceso de toma \nde decisiones de inversión se tengan en cuenta los factores \nmedioambientales, sociales y de buen gobierno. Todos estos \ncriterios se conocen como criterios ASG.\n\nGuía rápida de CNMV\nLas Finanzas Sostenibles\nLos criterios \nASG \nAdemás de los criterios estrictamente financieros -rentabilidad, riesgo y \nliquidez-, la inversión sostenible incluye criterios ASG- ambientales, sociales \ny de gobernanza. \nA (ambientales). Son criterios que consideran actividades que afectan de \nforma positiva al medio ambiente: la no contaminación del aire y agua, la lucha \ncontra el cambio climático, la reducción de emisiones de gases de efecto \ninvernadero, la eficiencia energética, el respeto a la biodiversidad, el uso de \nenergías renovables, etc.\nS (sociales). Incluyen aspectos relacionados con la salud, la educación, los \nderechos humanos, los derechos de los trabajadores (riesgos y condiciones \nlaborales, explotación de niños o inmigrantes o de personas en riesgo de \nexclusión social…). Los criterios sociales buscan, entre otros objetivos, reducir \nla desigualdad a través de la inclusión de los colectivos más desfavorecidos.\nG (buen gobierno). Se refieren a cuestiones de gobierno corporativo de \nla empresa, a la calidad de la gestión y a su cultura; ejemplos de factores o \nelementos de buen gobierno son la rendición de cuentas, la independencia \ny composición de los órganos de gobierno, la reducción de la brecha salarial \nentre hombres y mujeres, la presencia de las mujeres en cargos directivos, la \nno discriminación de los trabajadores por sexo, edad, capacidad, etc.\n\nGuía rápida de CNMV\nLas Finanzas Sostenibles\nLos criterios ASG\nAmbientales\nSociales\nBuen Gobierno\n\nGuía rápida de CNMV\nLas Finanzas Sostenibles\n¿Cuáles son actualmente \nlos productos financieros \nsostenibles?\nLas finanzas sostenibles permiten el diseño de distintos productos financieros \nque fomentan el desarrollo sostenible y tratan de equilibrar rentabilidad y \nsostenibilidad.\nActualmente podemos encontrar, entre otros:\nFondos de inversión que aplican criterios ASG : son \ninstrumentos de inversión y ahorro (instituciones de \ninversión colectiva) que incluyen criterios ASG en su \npolítica de inversión. Esta política de inversión está \ndefinida en el folleto o DFI (Documento con los Datos \nFundamentales para el Inversor).\nFondos de inversión solidarios1: son instituciones de \ninversión colectiva que ceden una parte de la comisión \nde gestión a determinadas entidades benéficas o no \ngubernamentales. \nBonos verdes y sociales: son emisiones de deuda \npública o privada, emitidos a medio y largo plazo para \nfinanciar proyectos respetuosos con el medio ambiente \no que persiguen mejoras de tipo social. \n1. \nCircular de 4 de abril de 2014 de INVERCO sobre la aplicación de criterios \nmedioambientales, sociales y de gobierno corporativo (ASG) en la política de inversión \nde las instituciones de inversión (IIC).\n\nGuía rápida de CNMV\nLas Finanzas Sostenibles\n¿Cómo se adquiere un \nproducto financiero \nsostenible? \nUn producto financiero sostenible se adquiere, al igual que cualquier otro \nproducto, a través de un intermediario. El inversor debe indicar que está \ninteresado en un producto de estas características y, antes de comprar, \nes recomendable que solicite información complementaria que explique \nlos criterios ASG aplicados a la inversión.\nSI QUIERO SABER MÁS…\nEn la web de la CNMV existe un apartado específico sobre Finanzas \nSostenibles, que incluye la normativa existente y documentos de \ninterés.\n\nContáctanos por email\nEsta guía rápida tiene como finalidad informar al público en general sobre distintos \naspectos relacionados con los mercados de valores. Por su naturaleza divulgativa \nno puede constituir un soporte para posteriores interpretaciones jurídicas, siendo \nla normativa en vigor la única fuente a estos efectos.\n¿Necesitas más \ninformación?\nwww.cnmv.es",
+  "text_len": 5444,
+  "num_headings": 13,
+  "metadata": {
+    "creator": "Adobe InDesign CC 14.0 (Macintosh)",
+    "producer": "Adobe PDF Library 15.0; modified using iTextSharp™ 5.4.3 ©2000-2013 1T3XT BVBA (AGPL-version)",
+    "creation_date": "2019-12-05",
+    "mod_date": "2019-12-05"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Finanzas sostenibles: criterios ESG",
+    "topic": "inversión",
+    "subtopic": "finanzas sostenibles",
+    "difficulty": "avanzado",
+    "format": "PDF",
+    "summary": "Qué son los criterios ESG y cómo influyen en las decisiones de inversión",
+    "learning_objective": "Entender los criterios ESG en inversión"
+  },
+  "pdf_info": {
+    "n_pages": 8,
+    "body_size": 13.0,
+    "extractor": "pymupdf"
+  },
+  "deduped_from": null
+}

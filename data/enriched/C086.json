@@ -1,0 +1,57 @@
+{
+  "content_id": "C086",
+  "tldr": "La blockchain o cadena de bloques es un 'libro contable' digital distribuido que se replica en múltiples nodos en lugar de almacenarse en una sola entidad, lo que dificulta su alteración fraudulenta. Las transacciones se agrupan en bloques vinculados entre sí mediante criptografía y 'hashes', garantizando inmutabilidad, resiliencia y trazabilidad. Existen tres tipos principales: públicas no permisionadas (Bitcoin, Ethereum), privadas permisionadas (Hyperledger, Corda) e híbridas o públicas permisionadas (Hedera, Alastria), cada una con distintos niveles de acceso y control.",
+  "key_points": [
+    "La blockchain es una red distribuida: no existe una entidad central, sino múltiples nodos que guardan copias del registro, lo que dificulta la manipulación fraudulenta.",
+    "Cada bloque contiene un conjunto de transacciones y un 'hash' del bloque anterior, por lo que cualquier cambio en un bloque invalida los siguientes.",
+    "La tecnología ofrece inmutabilidad (no se pueden hacer cambios no autorizados), resiliencia (funciona aunque fallen nodos) y trazabilidad (permite seguir el historial de un activo).",
+    "Las blockchains públicas no permisionadas (Bitcoin, Ethereum) son abiertas y accesibles a cualquiera; las privadas permisionadas restringen el acceso a autorizados.",
+    "Las blockchains híbridas o públicas permisionadas combinan ambos modelos: acceso controlado pero registro de consulta pública, útiles para gobiernos y empresas (ej. Pfizer)."
+  ],
+  "quiz": [
+    {
+      "question": "¿Por qué se considera a la blockchain una forma segura de guardar información frente a una base de datos centralizada?",
+      "options": [
+        "Porque la información se replica en múltiples nodos y alterarla requeriría el permiso de la mayoría de ellos",
+        "Porque una única entidad central valida todas las transacciones",
+        "Porque los datos se cifran con una contraseña secreta compartida por todos",
+        "Porque solo se permite leer la información, nunca añadir nuevos registros"
+      ],
+      "correct_index": 0,
+      "explanation": "Al ser una red distribuida con múltiples copias en distintos nodos, modificar la información exigiría el consenso de la mayoría, lo que hace muy difícil la alteración fraudulenta.",
+      "concept_id": "C27"
+    },
+    {
+      "question": "Imagina que alguien intenta modificar una transacción registrada en un bloque antiguo de una blockchain. ¿Qué ocurre con el resto de la cadena?",
+      "options": [
+        "Nada, porque cada bloque es independiente del resto",
+        "Se invalidan los 'hashes' de los bloques siguientes, rompiendo la cadena",
+        "La entidad central corrige automáticamente el cambio",
+        "Se crea una copia de seguridad en un servidor privado"
+      ],
+      "correct_index": 1,
+      "explanation": "Cada bloque incluye el 'hash' del bloque anterior, por lo que alterar un bloque invalida los hashes de los bloques posteriores, dejando la cadena inconsistente.",
+      "concept_id": "C27"
+    },
+    {
+      "question": "Una empresa quiere compartir datos con sus socios manteniendo el registro accesible al público para dar transparencia, pero solo permitir participar como nodo a entidades autorizadas. ¿Qué tipo de blockchain encaja mejor?",
+      "options": [
+        "Una blockchain pública no permisionada como Bitcoin",
+        "Una blockchain privada como Hyperledger",
+        "Una blockchain híbrida o pública permisionada",
+        "Una blockchain centralizada gestionada por una única empresa"
+      ],
+      "correct_index": 2,
+      "explanation": "La blockchain híbrida o pública permisionada combina acceso controlado (permisionado) para participar como nodo con un registro de consulta pública, ideal para transparencia y confianza.",
+      "concept_id": "C27"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5613,
+    "input_tokens": 2749,
+    "output_tokens": 1073
+  }
+}

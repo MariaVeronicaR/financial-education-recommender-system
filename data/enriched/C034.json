@@ -1,0 +1,57 @@
+{
+  "content_id": "C034",
+  "tldr": "Este simulador permite estimar el coste financiero de una compra a plazos, expresándolo como un tipo de interés anual equivalente 'teórico' a partir del importe a financiar y las mensualidades, e incluyendo comisiones y otros gastos. Es un cálculo orientativo que aplica simplificaciones y que puede diferir de la TAE oficial ofrecida por una entidad si existen condiciones diferentes. Sirve para comparar varias simulaciones y entender el coste real de una financiación.",
+  "key_points": [
+    "El coste financiero se expresa como un tipo de interés anual equivalente calculado a partir del importe financiado y las mensualidades.",
+    "El cálculo es 'teórico' y puede diferir de la TAE oficial si la entidad aplica condiciones diferentes o adicionales.",
+    "El simulador permite incluir comisiones y otros gastos obligatorios pagaderos en el momento de formalizar la operación.",
+    "Se aplican simplificaciones: meses con igual número de días, cuotas iguales salvo la primera y última, y sin periodos de carencia.",
+    "Permite realizar varias simulaciones para comparar el tipo resultante en cada escenario."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué magnitud calcula principalmente este simulador de compra a plazos?",
+      "options": [
+        "El tipo de interés anual equivalente a partir del importe a financiar y las mensualidades",
+        "El importe total de la hipoteca que puedes solicitar",
+        "El ahorro mensual necesario para una compra",
+        "El tipo de cambio aplicable a una financiación en divisas"
+      ],
+      "correct_index": 0,
+      "explanation": "El simulador calcula el coste financiero expresado como tipo de interés anual equivalente, a partir del importe a financiar y las mensualidades, incluyendo comisiones y gastos.",
+      "concept_id": "C10"
+    },
+    {
+      "question": "¿Por qué el tipo calculado por el simulador podría diferir de la TAE ofertada por una entidad?",
+      "options": [
+        "Porque el simulador siempre aplica el tipo máximo legal permitido",
+        "Porque la oferta de la entidad puede incluir condiciones diferentes o adicionales a las planteadas en el simulador",
+        "Porque la TAE no incluye nunca el interés del préstamo",
+        "Porque el simulador solo calcula el importe de las comisiones, no los intereses"
+      ],
+      "correct_index": 1,
+      "explanation": "El resultado es un cálculo 'teórico' y puede diferir de la TAE oficial si la oferta real de la entidad incorpora condiciones diferentes o adicionales.",
+      "concept_id": "C19"
+    },
+    {
+      "question": "Según el simulador, ¿cuál de las siguientes es una simplificación que se aplica en los cálculos?",
+      "options": [
+        "Todos los meses del año tienen el mismo número de días",
+        "Las cuotas pueden variar libremente cada mes sin límite",
+        "Siempre existe un periodo de carencia obligatorio",
+        "Las comisiones solo se pagan al final del préstamo"
+      ],
+      "correct_index": 0,
+      "explanation": "El simulador simplifica asumiendo que todos los meses tienen el mismo número de días, además de cuotas iguales (salvo primera y última) y sin periodos de carencia.",
+      "concept_id": "C18"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 6429,
+    "input_tokens": 1626,
+    "output_tokens": 1089
+  }
+}

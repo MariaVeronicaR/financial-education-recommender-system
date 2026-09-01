@@ -1,0 +1,57 @@
+{
+  "content_id": "C031",
+  "tldr": "Este simulador permite calcular la TAE de un préstamo personal a partir del importe, el plazo, el tipo de interés y las comisiones y gastos asociados. La TAE resultante es 'teórica' y se calcula bajo hipótesis concretas: amortización por sistema francés (cuotas mensuales iguales), pago de gastos en origen, meses con igual número de días y sin periodos de carencia. Además, permite comparar varias simulaciones y puede diferir de la TAE real ofertada por una entidad si sus condiciones son diferentes.",
+  "key_points": [
+    "La TAE se calcula teniendo en cuenta el tipo de interés, las comisiones y otros gastos del préstamo, tanto los que se pagan en origen como los periódicos.",
+    "El simulador asume el sistema de amortización francés, con cuotas mensuales iguales e intereses calculados sobre el capital pendiente.",
+    "La TAE obtenida es 'teórica' y puede diferir de la oferta real de una entidad si sus condiciones o hipótesis son diferentes.",
+    "Se pueden realizar varias simulaciones y comparar la TAE de cada una para elegir la opción más conveniente.",
+    "El cálculo parte de simplificaciones como meses de igual duración, ausencia de carencia y primer pago un mes después de la formalización."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué diferencia a la TAE del simple tipo de interés nominal de un préstamo?",
+      "options": [
+        "La TAE incluye el tipo de interés y también las comisiones y otros gastos de la operación",
+        "La TAE solo tiene en cuenta el importe solicitado, sin intereses",
+        "La TAE siempre es menor que el tipo de interés nominal",
+        "La TAE solo se aplica a préstamos hipotecarios"
+      ],
+      "correct_index": 0,
+      "explanation": "La TAE refleja el coste efectivo total del préstamo, incorporando el tipo de interés más las comisiones y gastos, por lo que permite comparar ofertas de forma más realista.",
+      "concept_id": "C19"
+    },
+    {
+      "question": "Según el simulador, ¿qué hipótesis se asume sobre la amortización del préstamo?",
+      "options": [
+        "Cuotas mensuales iguales mediante el sistema francés",
+        "Un pago único al final del plazo",
+        "Cuotas variables que aumentan cada año",
+        "Cuotas que dependen del tipo de cambio"
+      ],
+      "correct_index": 0,
+      "explanation": "El simulador parte de la hipótesis de que la amortización se realiza por el sistema francés, es decir, con cuotas mensuales iguales durante toda la vida del préstamo.",
+      "concept_id": "C10"
+    },
+    {
+      "question": "¿Por qué la TAE calculada por el simulador podría diferir de la ofrecida por una entidad financiera?",
+      "options": [
+        "Porque la entidad podría aplicar condiciones o gastos adicionales distintos a las hipótesis del simulador",
+        "Porque la TAE del simulador siempre es más alta que la real",
+        "Porque la TAE no depende de las condiciones del préstamo",
+        "Porque el simulador no tiene en cuenta el importe solicitado"
+      ],
+      "correct_index": 0,
+      "explanation": "La TAE del simulador es 'teórica' y válida para los datos y supuestos introducidos; si la oferta de la entidad incluye condiciones diferentes, la TAE real puede variar.",
+      "concept_id": "C19"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 6070,
+    "input_tokens": 1709,
+    "output_tokens": 966
+  }
+}

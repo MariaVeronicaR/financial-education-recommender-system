@@ -1,0 +1,93 @@
+{
+  "content_id": "C089",
+  "url": "https://clientebancario.bde.es/pcb/es/blog/como-afectan-a-mi-dinero-la-inflacion-y-la-subida-de-los-tipos-de-interes-.html",
+  "source": "Portal Cliente Bancario BdE",
+  "host": "clientebancario.bde.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 37563
+  },
+  "title": "¿Cómo afectan a mi dinero la inflación y la subida de los tipos de interés?",
+  "headings": [
+    {
+      "level": 1,
+      "text": "¿Cómo afectan a mi dinero la inflación y la subida de los tipos de interés?"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "¿Cómo afectan a mi dinero la inflación y la subida de los tipos de interés?",
+      "start": 0,
+      "end": 1917,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Cómo afectan a mi dinero la inflación y la subida de los tipos de interés?"
+    },
+    {
+      "type": "paragraph",
+      "text": "04/07/2023\nTanto la inflación como la subida de los tipos de interés pueden tener un impacto significativo en tus finanzas personales. ¿Quieres saber cómo?"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Inflación: La inflación es el aumento generalizado de los precios de bienes y servicios a lo largo del tiempo. Esto significa que, con la misma cantidad de dinero, podrás comprar menos en el futuro. La inflación puede afectar a tus ahorros, inversiones financieras, préstamos, planes de pensiones, seguros y otros productos financieros. Por esta razón, es importante tener en cuenta su impacto al planificar tus finanzas y asegurarte de que tus inversiones y ahorros generen rendimientos que superen la tasa de inflación con el fin de mantener tu poder adquisitivo.",
+        "Subida de los tipos de interés: Cuando la inflación es alta, los bancos centrales suelen subir los tipos de interés para controlarla. Esto puede influir el tipo de interés que cobran los bancos comerciales por los préstamos. Por esta razón, si tienes préstamos a tipo variable, es probable que experimentes un aumento en el coste de tu préstamo. Es importante evaluar cuidadosamente las condiciones de tus préstamos y considerar cómo los cambios en los tipos de interés pueden afectar a tus pagos mensuales y a tu capacidad para cumplir con tus obligaciones financieras."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En resumen, la inflación y la subida de los tipos de interés pueden afectar a tus ahorros, inversiones y préstamos. Es fundamental estar informado y tomar decisiones financieras adecuadas para proteger tu dinero y adaptarte a los cambios en el entorno económico.\nSi quieres saber qué medidas debes tener en cuenta para manejar tus finanzas en un contexto de inflación y tipos de interés al alza, puedes consultar esta guía publicada (2 MB) por las tres autoridades europeas: EBA, EIOPA y ESMA, con la colaboración de las autoridades nacionales.",
+      "links": [
+        {
+          "text": "guía publicada (2 MB)",
+          "href": "https://clientebancario.bde.es/f/webcb/RCL/ActualidadEducacionFinanciera/Blog/novedades/Como-afecta-a-mi-dinero-la-inflacion-y-la-subida-de-tipos.pdf",
+          "start": 418,
+          "end": 439
+        }
+      ]
+    }
+  ],
+  "text": "¿Cómo afectan a mi dinero la inflación y la subida de los tipos de interés?\n04/07/2023\nTanto la inflación como la subida de los tipos de interés pueden tener un impacto significativo en tus finanzas personales. ¿Quieres saber cómo?\n- Inflación: La inflación es el aumento generalizado de los precios de bienes y servicios a lo largo del tiempo. Esto significa que, con la misma cantidad de dinero, podrás comprar menos en el futuro. La inflación puede afectar a tus ahorros, inversiones financieras, préstamos, planes de pensiones, seguros y otros productos financieros. Por esta razón, es importante tener en cuenta su impacto al planificar tus finanzas y asegurarte de que tus inversiones y ahorros generen rendimientos que superen la tasa de inflación con el fin de mantener tu poder adquisitivo.\n- Subida de los tipos de interés: Cuando la inflación es alta, los bancos centrales suelen subir los tipos de interés para controlarla. Esto puede influir el tipo de interés que cobran los bancos comerciales por los préstamos. Por esta razón, si tienes préstamos a tipo variable, es probable que experimentes un aumento en el coste de tu préstamo. Es importante evaluar cuidadosamente las condiciones de tus préstamos y considerar cómo los cambios en los tipos de interés pueden afectar a tus pagos mensuales y a tu capacidad para cumplir con tus obligaciones financieras.\nEn resumen, la inflación y la subida de los tipos de interés pueden afectar a tus ahorros, inversiones y préstamos. Es fundamental estar informado y tomar decisiones financieras adecuadas para proteger tu dinero y adaptarte a los cambios en el entorno económico.\nSi quieres saber qué medidas debes tener en cuenta para manejar tus finanzas en un contexto de inflación y tipos de interés al alza, puedes consultar esta guía publicada (2 MB) por las tres autoridades europeas: EBA, EIOPA y ESMA, con la colaboración de las autoridades nacionales.",
+  "text_len": 1917,
+  "num_headings": 1,
+  "metadata": {
+    "title": "¿Cómo afectan a mi dinero la inflación y la subida de los tipos de interés?",
+    "url": "https://clientebancario.bde.es/pcb/es/blog/como-afectan-a-mi-dinero-la-inflacion-y-la-subida-de-los-tipos-de-interes-.html",
+    "hostname": "clientebancario.bde.es",
+    "description": "¿Cómo afectan a mi dinero la inflación y la subida de los tipos de interés?",
+    "sitename": "clientebancario.bde.es",
+    "date": "2023-07-04",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Cómo afectan a mi dinero la inflación y los tipos de interés",
+    "topic": "inflación",
+    "subtopic": "ahorro e interés",
+    "difficulty": "intermedio",
+    "format": "artículo web",
+    "summary": "Análisis de la relación entre inflación, tipos de interés y pérdida de valor del dinero",
+    "learning_objective": "Relacionar la inflación con los tipos de interés y el rendimiento real"
+  },
+  "deduped_from": null
+}

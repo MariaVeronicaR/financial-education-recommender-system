@@ -1,0 +1,419 @@
+{
+  "content_id": "C100",
+  "title": "Los Productos de Renta Fija",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "I. ¿Qué es la Renta Fija?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los activos de renta fija se corresponden con un amplio conjunto de valores negociables e instrumentos del mercado monetario1 que emiten las empresas y las instituciones públicas, y que representan préstamos que estas entidades reciben de los inversores. La renta fija no confiere derechos políticos a su tenedor, sino solo derechos económicos, entre los que cabe destacar el derecho a percibir los intereses pactados y, en algunos casos, a la devolución de la totalidad o parte del capital invertido en una fecha dada, dependiendo de si se trata de renta fija simple o no. Un inversor en renta fija se convierte en acreedor de la sociedad emisora, mientras que el accionista es un socio propietario de una parte del capital social. Esta diferencia no es trivial, pues:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "En caso de liquidación de la sociedad, el acreedor tiene prioridad frente a los socios.",
+        "El accionista cuenta con una serie de derechos cuyo ejercicio requiere una mayor implicación que los del inversor en renta fija: mayor seguimiento de la información, participación, en su caso, en la Junta General de Accionistas o delegación del voto, etc."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Se entiende por instrumentos del mercado monetario aquellas categorías de instrumentos que se negocian habitualmente en el mercado monetario, como Letras del Tesoro y efectos comerciales, excluidos los instrumentos de pago.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque tradicionalmente en la renta fija los intereses del préstamo estaban establecidos de forma exacta desde el momento de la emisión hasta su vencimiento, actualmente existen otras posibilidades más sofisticadas. Frecuentemente los intereses y, a veces, el precio de amortización, son variables, estando referenciados a determinados indicadores: tipos de interés, índices o, incluso, a la evolución de una o varias acciones, teniendo a veces otras características especiales.",
+      "links": []
+    },
+    {
+      "type": "warning",
+      "text": "Es importante tener en cuenta que los valores llamados de renta fija no están exentos de riesgo y la rentabilidad final obtenida puede diferir de lo inicialmente previsto. En el caso de algunos productos y/o en determinadas circunstancias, se pueden sufrir incluso pérdidas en el capital invertido. Además, algunos productos de renta fija pueden ser difíciles de entender y, en algunos casos, pueden no ser adecuados para inversores minoristas.",
+      "level": "important"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. Algunos conceptos útiles"
+    },
+    {
+      "type": "paragraph",
+      "text": "El inversor en renta fija debe familiarizarse con conceptos como los siguientes:",
+      "links": []
+    },
+    {
+      "type": "glossary",
+      "entries": [
+        {
+          "term": "Valor nominal",
+          "definition": "Es el importe sobre el que se basa el cálculo de los intereses a pagar."
+        },
+        {
+          "term": "Precio de emisión",
+          "definition": "Precio efectivo de cada valor en el momento de la suscripción. Normalmente coincide con el valor nominal, aunque en algunos casos puede ser inferior (si se emite con descuento) o superior (si se emite con prima)."
+        },
+        {
+          "term": "Precio de reembolso",
+          "definition": "Es el que recibe el inversor en el momento de la amortización y puede coincidir con el valor nominal o puede ser inferior o superior."
+        },
+        {
+          "term": "Amortización",
+          "definition": "Se refiere a la devolución del capital inicial a la fecha de vencimiento del valor. Puede estar pactada la posibilidad de amortización anticipada, bien a opción del emisor o del inversor y, en ambos casos, puede ser total o parcial."
+        },
+        {
+          "term": "Prima de reembolso",
+          "definition": "Si en la fecha de amortización el emisor abona una cantidad superior al valor nominal de los títulos, la diferencia entre ambos es la prima de reembolso."
+        },
+        {
+          "term": "Cupones",
+          "definition": "Importe de los pagos periódicos (trimestrales, semestrales, anuales, etc.) de intereses pactados en la emisión. Se denomina cupón corrido a la parte del cupón devengada y todavía no pagada en una fecha determinada comprendida entre el cobro de dos cupones. Su importe se añade al valor del bono cuando se compra o vende en el mercado secundario con cotización ex cupón."
+        },
+        {
+          "term": "Emisiones cupón cero",
+          "definition": "Son valores que no tienen cupones periódicos y cuyos intereses se abonan al vencimiento junto con el principal. Generalmente tienen vencimiento a corto-medio plazo."
+        },
+        {
+          "term": "Emisiones al descuento",
+          "definition": "Son valores que no tienen cupones periódicos, en los que la rentabilidad (positiva o negativa) viene dada por la diferencia entre el precio al que el inversor los adquiere y el precio que se recibe al vencimiento (generalmente, el valor nominal) o el precio de venta, en caso de vender el valor antes de su vencimiento. Las Letras del Tesoro y los pagarés de empresa son de este tipo. Por lo tanto, para obtener una rentabilidad positiva, el precio de emisión o compra debería ser más bajo que el obtenido a vencimiento o en el momento de la venta."
+        },
+        {
+          "term": "Mercado primario",
+          "definition": "Es aquel en el que los valores se ofrecen al público por primera vez. En el caso de la renta fija, suele coincidir con el momento en el que se emiten los valores."
+        },
+        {
+          "term": "Mercado secundario",
+          "definition": "Es aquel en el que se realizan intercambios de titularidad (compraventas) de valores ya existentes (esto es, que ya han sido previamente emitidos y colocados)."
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "III. Elementos a considerar"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque los valores de renta fija pueden tener características muy distintas, existen dos parámetros cuyo análisis es esencial: la rentabilidad y el riesgo. Esto es lo que se conoce como el binomio rentabilidad-riesgo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En una inversión, los rendimientos futuros (rentabilidad) no son seguros. Pueden ser grandes o modestos, pueden no producirse o incluso en algunos casos se puede perder todo o parte del capital invertido. Esta incertidumbre se conoce como riesgo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "No existe inversión sin riesgo, pero algunos productos tienen más riesgo que otros. La razón fundamental para elegir una inversión con riesgo ante una alternativa de ahorro sin riesgo es la posibilidad de obtener de ella una rentabilidad mayor.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto es, cuanto mayor sea el riesgo de una inversión, mayor tendría que ser su rentabilidad potencial para que sea atractiva a los inversores. Cuanto más riesgo se asume, más rentabilidad se debe exigir. Igualmente, cuanta más rentabilidad se pretende obtener, más riesgo hay que asumir.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por lo tanto, riesgo y rentabilidad van unidos, pero aceptar un mayor riesgo no es ninguna garantía de obtener mayores rendimientos.",
+      "links": []
+    },
+    {
+      "type": "highlight",
+      "text": "Cada inversor tiene que decidir el nivel de riesgo que está dispuesto a asumir en busca de rentabilidades mayores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las diferentes normas aprobadas en los últimos años han incrementado notablemente la información que se pone a disposición del cliente. En muchas ocasiones, la información facilitada es muy amplia y contiene un lenguaje excesivamente técnico lo que dificulta la comprensión de las características y riesgos de los productos. Es por ello que, para algunos productos, se ha establecido en la legislación el llamado \"indicador de riesgo\" que las entidades deben facilitar al cliente cuando le presten servicios de inversión o comercialicen un producto financiero. Este indicador clasifica al producto en 6 posibles categorías (numeradas del 1 al 6, siendo 1 la de menor riesgo y 6 la de mayor riesgo).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El inversor debe saber que, para determinados productos, como por ejemplo los bonos y obligaciones simples, el comercializador debe informarle previamente sobre este \"indicador de riesgo\".",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Además, cuando se den determinadas circunstancias, las entidades incluirán alertas sobre las posibles limitaciones a la liquidez y sobre la complejidad, en su caso, de los productos financieros.",
+      "links": []
+    },
+    {
+      "type": "highlight",
+      "text": "Un producto de renta fija podría obtener una rentabilidad mayor que uno de renta variable. También podría suponer mayor riesgo. Depende de muchos factores. Además, dentro de cada categoría existen productos con distintos niveles de riesgo, liquidez, horizonte temporal, etc. Hay que comparar las características principales de productos de una misma categoría."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La rentabilidad"
+    },
+    {
+      "type": "paragraph",
+      "text": "En su forma más simple es el cociente entre los rendimientos netos de la inversión y la cantidad de dinero invertida, expresada en porcentaje. Sin embargo, el cálculo de la rentabilidad en la práctica es algo más complejo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En primer lugar, es necesario considerar los rendimientos netos, es decir, los ingresos percibidos menos los gastos en que se incurre. En concreto, habrá que tener en cuenta tanto los gastos derivados de la operativa (comisiones por la tramitación de órdenes de compra, venta, suscripción o reembolso), como los que posteriormente habrá que pagar a la entidad financiera por el mantenimiento de esta inversión (gastos de custodia y administración de valores).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por otra parte, hay que considerar el efecto de la fiscalidad sobre la rentabilidad, pues lo relevante para el inversor es el rendimiento neto después de impuestos. Hay que tener en cuenta que la fiscalidad de un mismo producto puede ser diferente según sean las circunstancias personales de cada inversor, y el impacto fiscal también puede cambiar a lo largo del tiempo por dos causas: modificaciones legislativas que impliquen cambios en el régimen fiscal aplicable al producto o modificaciones de la propia renta o patrimonio, que supongan un efecto distinto de esta tributación en su impuesto personal.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Otro aspecto a considerar es el periodo durante el que se espera mantener la inversión. En general, los productos de renta fija generan ingresos (y a veces gastos) a lo largo del tiempo de tenencia. Para poder compararlos entre sí, hay que saber cuánto valdrían en el momento actual todos esos flujos, es decir, es necesario actualizar su valor.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La noción de que el dinero tiene un valor temporal es uno de los conceptos básicos de las finanzas. Un mismo capital en el momento presente tiene mayor valor que en el futuro. Los motivos son:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "La inflación reduce el poder adquisitivo del capital en el tiempo.",
+        "Existe el riesgo, aunque en algunos casos pueda ser remoto, de que se incumpla la promesa de devolución del capital.",
+        "Se renuncia a poder utilizarlo en otra inversión, consumirlo o gastarlo (coste de oportunidad)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Los distintos métodos de valoración de activos se basan en el principio general de descontar todo lo que se espera obtener de ellos en el futuro a un tipo de interés (o tasa de descuento) para conocer su valor actual. En el caso de la renta fija, los ingresos esperados son los cupones, fijos o variables, que se obtendrán en los distintos momentos del tiempo, así como el importe que se recibirá a vencimiento.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Es posible hacer distintas estimaciones sobre los tipos de interés futuros y sobre el importe de los próximos cupones. Por esta razón, el precio actual teórico no es único, lo que explica que unas personas puedan desear comprar y otras vender un mismo activo (si el precio teórico actual es superior al del mercado, comprarán, y venderán en caso contrario).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Un instrumento muy útil para medir la rentabilidad de un instrumento y comparar distintos productos es la llamada tasa interna de rentabilidad (TIR), que es la tasa o tanto medio efectivo que iguala el precio de un bono con la corriente de pagos generada por el mismo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta operación se realiza fácilmente con una calculadora financiera o una simple hoja de cálculo. En todo caso, puede consultar a su intermediario el método de cálculo.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ejemplo: Tasa interna de rentabilidad"
+    },
+    {
+      "type": "paragraph",
+      "text": "Comparemos los siguientes bonos:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Características: Bono 1, Bono 2, Bono 3. Valor nominal: 10.000 €, 10.000 €, 10.000 €. Precio de emisión: 100% (10.000 €), 101% (10.100 €), 100% (10.000 €). Interés: El bono devengará un interés del 0,8% anual, pagadero anualmente, por lo que en cada fecha de pago el cupón bruto será de 80 euros. El bono devengará un interés del 1% anual, pagadero anualmente, por lo que en cada fecha de pago el cupón bruto será de 100 euros. 2,25% al vencimiento, sin pago de intereses periódicos. Plazo: 3 años, 3 años, 3 años. TIR: 0,80%, 0,66%, 0,74%.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Como puede observarse, el bono 2 es el que proporciona un mayor cupón anual. Sin embargo, de los 3 bonos considerados en el ejemplo, es el que tiene menor tasa interna de rentabilidad.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero no siempre es posible calcular de antemano estas rentabilidades. En los valores con tipo de interés fijo, el inversor puede conocer con certeza los ingresos y gastos asociados a la inversión y calcular exactamente la rentabilidad, siempre que el producto se mantenga hasta su vencimiento. Sin embargo, en los productos de tipo variable y/o si el inversor vende antes del vencimiento, el cálculo inicial no dejará de ser una mera estimación.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por razones de simplicidad se considera únicamente la rentabilidad bruta, sin tener en cuenta el efecto fiscal.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando opere en el mercado secundario de renta fija, y sobre todo si lo hace a corto plazo, el inversor debe considerar especialmente el riesgo de que suban los tipos de interés, que será mayor cuanto más plazo falte para el vencimiento del activo. En estos casos, un repunte de los tipos a corto podría generar importantes minusvalías.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "El riesgo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Existe un cierto grado de incertidumbre asociado a los rendimientos futuros. Esta incertidumbre se conoce como riesgo. El riesgo financiero es el conjunto de factores que pueden determinar que la inversión proporcione una rentabilidad distinta de la esperada.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En este aspecto hay diferencias sustanciales entre los distintos tipos de productos. Los productos de renta fija simple que ofrecen poco riesgo generalmente llevan asociados niveles bajos de rentabilidad, aunque no siempre es así.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pueden existir diversos factores de riesgo inherentes a un emisor o a un tipo de valor. Se explican a continuación los factores de riesgo más habituales que pueden presentarse en los valores de renta fija. No obstante, debe tenerse en cuenta que pueden existir otros factores de riesgo adicionales a los aquí descritos. Además, los precios de los activos financieros también son sensibles a las expectativas generales sobre la marcha de la economía, sobre el comportamiento específico de determinados sectores o compañías, etc.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El riesgo de crédito o de insolvencia. Es el riesgo de que el emisor de un valor no pueda hacer frente a sus pagos (tanto de cupones como de reembolso del principal) o de que se produzca un retraso en los mismos. El emisor puede ser una empresa, entidad financiera, Estado u otro organismo público.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Es importante tener en cuenta la calidad crediticia del emisor. Para ello, es interesante consultar las calificaciones (rating) que asignan las agencias especializadas sobre la calidad crediticia y fortaleza financiera de las sociedades emisoras, Estados y Administraciones Públicas. Estas calificaciones pueden referirse al emisor o, en el caso de los privados, a estos y/o cada una de sus emisiones. El criterio fundamental empleado para evaluar la solvencia de un emisor suele ser su capacidad para generar beneficios en el futuro y, en consecuencia, para afrontar sus compromisos de pago. Cuanto menor es el riesgo de insolvencia estimado, más alta es la calificación crediticia del emisor y, por lo tanto, más segura la inversión. Otras veces se califica la solvencia para hacer patente que una emisión concreta ofrece garantías adicionales (como en el caso de las titulizaciones). No obstante, hay que tener en cuenta que las calificaciones son solo una indicación y pueden ser revisadas, suspendidas o retiradas en cualquier momento por parte de la agencia calificadora.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El riesgo de tipos y el riesgo de precio. El inversor se somete a uno u otro según sea el horizonte temporal de la inversión en relación con el periodo de vencimiento del activo adquirido, y las variaciones de tipos de interés que se den en ese periodo. Cuando suben los tipos de interés, el precio de la renta fija ya emitida baja y cuando bajan los tipos de interés, el precio de la renta fija viva aumenta.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando un inversor adquiere un activo con un vencimiento superior a su propio horizonte de inversión, llegado ese momento tendrá que venderlo en el mercado secundario. Si en ese periodo los tipos han subido obtendrá una rentabilidad inferior a la esperada y, dependiendo de esa variación, podrá sufrir minusvalías. Por el contrario, descensos en los tipos de interés le reportarán rentabilidades superiores a las inicialmente previstas.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto se debe a que los tipos de interés afectan a los precios de la renta fija en el mercado secundario. Cuando los tipos de interés de las nuevas emisiones aumentan, los precios de las ya existentes bajarán, pues los inversores solo estarán dispuestos a comprarlas si su precio se reduce de modo que garantice al comprador una rentabilidad equivalente a la de las nuevas emisiones. Por el contrario, cuando los tipos de interés disminuyen, el precio en mercado secundario de las emisiones antiguas subirá. En ambos casos, son los movimientos en la TIR los que ajustan el precio. La TIR permite homogeneizar la rentabilidad de cada emisión para compararla con los tipos de mercado.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La sensibilidad del precio frente a variaciones en los tipos de interés depende del número de cupones pendientes, su distribución y cuantía, y del resto de los ingresos a percibir en el tiempo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por el contrario, si el activo adquirido tiene una vida inferior al horizonte de inversión, a su vencimiento se deberá adquirir otro hasta completar ese periodo. Esta situación origina un riesgo de reinversión, pues podría ocurrir que en esa fecha la rentabilidad que ofrezcan los activos resulte inferior a la que se ofrecía inicialmente a ese plazo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El riesgo de liquidez. Es el riesgo de no encontrar contrapartida para vender los valores o sufrir una posible penalización en el precio de la inversión si se necesita recuperar el dinero con rapidez. En casos extremos, podría resultar imposible recuperar el dinero en el momento deseado. La falta de liquidez es un coste que siempre asume el inversor.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Las posibles limitaciones a la liquidez pueden derivar, por un lado, de la existencia de comisiones o penalizaciones en caso de reembolso anticipado (en el caso de productos en los que ésta se permite el coste de deshacer las coberturas de la opción asociada es elevado, existiendo la posibilidad de perder parte del principal invertido). Por otro lado, hay productos que no permiten amortización anticipada.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En el caso de la renta fija cotizada, será el mercado el que determine la liquidez y el precio de nuestra inversión. Sin embargo, aun cuando los productos se negocien en algún mercado, es necesario considerar que hay diferencias notables en el funcionamiento de los mismos, así como en la liquidez de los distintos productos que en ellos se negocian. Si los valores gozan de poca liquidez, podría ser difícil encontrar contrapartida en caso de desear venderlos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El riesgo de amortización anticipada. En aquellos casos en los que se establezca la posibilidad de amortización anticipada de los valores por parte del emisor y éste proceda a realizarla, podría ser que el inversor no pueda reinvertir el importe de dicha amortización en valores comparables y al mismo tipo de interés.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El riesgo por el comportamiento de los activos subyacentes. En determinados productos, como, por ejemplo, los valores estructurados, los rendimientos o el precio de amortización pueden estar ligados a la evolución de uno o varios activos subyacentes. En este caso, un comportamiento desfavorable de los activos subyacentes puede afectar negativamente al valor de la inversión, por lo que los titulares de los valores estructurados estarán expuestos al comportamiento de dichos activos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El riesgo de pérdida de principal. Se produce cuando no existe un compromiso de devolución de una parte o de todo el principal invertido a vencimiento. Esto puede suceder, por ejemplo, en el caso de algunos productos estructurados, cuando en la fecha de vencimiento el precio de amortización sea inferior al precio de emisión. En estos casos el inversor perderá parcialmente el importe invertido, pérdida que podrá ser total si el precio de amortización fuera igual a cero.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El riesgo de tipo de cambio. Es el riesgo de variación en los tipos de cambio de las divisas y solo afecta a los activos denominados en monedas distintas del euro.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El riesgo de operativa o procedimiento. Derivado de la posibilidad de cometer errores al transmitir instrucciones de compra o venta a las entidades financieras. Así como los anteriores pueden reducirse mediante una adecuada diversificación o selección de productos, éste es el único que el inversor puede anular por completo. Revise cuidadosamente sus órdenes antes de transmitirlas y compruebe posteriormente que las ejecuciones se corresponden con sus instrucciones y con la situación del mercado. Posteriormente, realice un adecuado seguimiento periódico de sus cuentas de valores.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El riesgo de subordinación y prelación de los inversores ante situaciones concursales. En caso de producirse una situación concursal del emisor, la posición que ocupe el inversor como acreedor y, por tanto, la probabilidad de recuperar toda o parte de su inversión, dependerá de si es tenedor de valores simples o subordinados, así como de si los valores están o no garantizados.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El riesgo derivado del alcance de las medidas que podrían ser adoptadas en el marco de reestructuración y resolución de entidades de crédito. Existen una serie de herramientas para resolver entidades de crédito con problemas de solvencia o inviabilidad, entre los que se encuentra el denominado instrumento de recapitalización interna (o bail in). Esta herramienta permite amortizar o convertir en acciones u otros instrumentos de capital los denominados pasivos admisibles para la recapitalización interna. Este es el denominado riesgo de absorción de pérdidas. Por lo tanto, en el caso de que el emisor sea una entidad de crédito, los tenedores de los valores podrían verse sujetos a una reducción del valor de los mismos o a la conversión de estos en instrumentos de capital, lo que podría conllevar que los tenedores de los valores perdiesen parte o, incluso, la totalidad de su inversión.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "IV. Productos de renta fija"
+    },
+    {
+      "type": "paragraph",
+      "text": "En función del tipo de emisor (público o privado), se pueden distinguir los siguientes instrumentos financieros de renta fija, que se explicarán con más detalle a continuación.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "V. Deuda pública"
+    },
+    {
+      "type": "paragraph",
+      "text": "Son los valores de renta fija emitidos por el Estado, las Comunidades Autónomas y otros organismos públicos.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Deuda del Estado"
+    },
+    {
+      "type": "paragraph",
+      "text": "Son valores de renta fija que el Tesoro Público emite regularmente a través de subastas. Su valor nominal es de 1.000 euros por título y, en caso de querer invertir una cantidad mayor, siempre ha de ser en múltiplos de 1.000 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Se representan mediante anotaciones en cuenta, sin que exista el título físico.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La Deuda pública del Estado Español tiene calificaciones crediticias de las agencias internacionales de rating. Estas agencias evalúan el riesgo de crédito de manera que, cuanto más baja sea la probabilidad de impago que asignan a un emisor, mejor será la calificación que asignan a dicho emisor. Así, a priori, menor será la rentabilidad obtenida, dado el menor riesgo asumido.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En la página web del Tesoro se puede obtener información sobre cualquier emisión de Deuda pública del Estado, acudir a las subastas de deuda y contratarla sin costes (www.tesoro.es).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos valores se pueden adquirir en mercado primario o secundario. La suscripción de Deuda pública puede hacerse a través de cualquier oficina del Banco de España, a través de la web de Tesoro o en entidades de crédito o sociedades y agencias de valores.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En cuanto al mercado secundario, el mercado de referencia de estos valores es el Sistema Electrónico de Negociación de Activos Financieros (SENAF), plataforma electrónica de negociación mayorista de BME para deuda pública española, cuyo funcionamiento está supervisado por la sociedad rectora del Mercado AIAF de Renta Fija. Todos los inversores minoristas pueden operar en Deuda pública a través de la plataforma SEND, cuyo funcionamiento es similar al de la Bolsa.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En la página web de BME (Boletín de Operaciones de Deuda Pública) se puede consultar información sobre precios cotizados y operaciones cruzadas de la Deuda pública negociada.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Letras del Tesoro"
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:33:16.669957+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 48722,
+    "input_tokens": 9765,
+    "output_tokens": 16000
+  }
+}

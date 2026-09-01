@@ -1,0 +1,57 @@
+{
+  "content_id": "C066",
+  "tldr": "Esta guía explica qué es una recomendación de inversión y qué obligaciones legales tienen los 'finfluencers' al publicar contenidos financieros en redes sociales. Cualquier persona puede emitir recomendaciones, pero debe cumplir requisitos de presentación objetiva y revelar sus intereses y conflictos de interés. Difundir información falsa o engañosa puede constituir abuso de mercado y ser sancionado, incluso si se trata de criptoactivos.",
+  "key_points": [
+    "Una recomendación de inversión es cualquier información pública que sugiera comprar, vender o mantener un instrumento financiero, o que opine sobre su valor futuro, incluyendo publicaciones en redes sociales.",
+    "Toda recomendación debe presentarse de forma objetiva, clara y no engañosa, y debe revelar los intereses o conflictos de interés de quien la emite.",
+    "El asesoramiento personalizado de inversión solo puede prestarlo una entidad o persona autorizada (en España, la CNMV); un aviso de 'esto no es asesoramiento' no protege de la normativa.",
+    "Difundir información falsa o engañosa en redes sociales puede constituir manipulación de mercado y ser sancionado, incluso en el caso de los criptoactivos.",
+    "Antes de promocionar un producto, plataforma o app de inversión hay que verificar que la empresa esté autorizada para evitar ser cómplice de una estafa."
+  ],
+  "quiz": [
+    {
+      "question": "Publicas en tus redes sociales un vídeo opinando que el precio de una criptomoneda va a subir y que conviene comprarla. ¿Qué consideración se aplica?",
+      "options": [
+        "No es una recomendación de inversión porque usas un lenguaje sencillo y no técnico.",
+        "Puede constituir una recomendación de inversión sujeta a requisitos de presentación objetiva y revelación de intereses.",
+        "Solo es recomendación de inversión si trabajas para una empresa financiera.",
+        "No tiene ninguna implicación legal si añades un aviso de 'esto no es asesoramiento'."
+      ],
+      "correct_index": 1,
+      "explanation": "Aunque uses lenguaje sencillo, cualquier opinión pública sobre el valor o precio de un instrumento financiero puede ser una recomendación de inversión, y los avisos tipo 'no es asesoramiento' no eximen de la normativa.",
+      "concept_id": "C15"
+    },
+    {
+      "question": "¿Qué diferencia hay entre emitir una recomendación de inversión y prestar un servicio de asesoramiento en materia de inversión?",
+      "options": [
+        "Son exactamente lo mismo y cualquiera puede prestar ambos servicios libremente.",
+        "El asesoramiento es personalizado y solo puede prestarlo una entidad o persona autorizada, mientras que cualquier persona puede publicar recomendaciones generales.",
+        "Solo el asesoramiento está regulado; las recomendaciones en redes no tienen ninguna norma.",
+        "El asesoramiento no requiere autorización si se hace en redes sociales."
+      ],
+      "correct_index": 1,
+      "explanation": "La recomendación de inversión va dirigida al público en general, mientras que el asesoramiento es personalizado y exige autorización de la autoridad competente (la CNMV en España).",
+      "concept_id": "C28"
+    },
+    {
+      "question": "Un finfluencer difunde en redes sociales información falsa sobre un instrumento financiero para que suba su precio y luego vende su posición beneficiándose de ello. ¿Qué riesgo implica?",
+      "options": [
+        "Ninguno, porque no realizó operaciones sobre el instrumento antes de publicar.",
+        "Solo un riesgo reputacional, sin consecuencias legales.",
+        "Puede constituir manipulación de mercado y ser sancionado, aunque no haya operado él mismo con el instrumento.",
+        "Solo es ilegal si lo hacen empresas financieras autorizadas."
+      ],
+      "correct_index": 2,
+      "explanation": "La difusión de información falsa o engañosa al público puede constituir por sí sola manipulación de mercado, sin necesidad de que quien publica realice operaciones sobre el instrumento.",
+      "concept_id": "C15"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 6561,
+    "input_tokens": 5780,
+    "output_tokens": 1062
+  }
+}

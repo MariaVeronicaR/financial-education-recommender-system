@@ -1,0 +1,119 @@
+{
+  "content_id": "C111",
+  "url": "https://www.finanzasparatodos.es/cursos-y-webinars/criptoactivos-blockchain/tokens-y-smart-contracts/la-red-ethereum",
+  "source": "Finanzas para Todos",
+  "host": "www.finanzasparatodos.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 59586
+  },
+  "title": "La red Ethereum -",
+  "headings": [
+    {
+      "level": 2,
+      "text": "La red Ethereum"
+    }
+  ],
+  "sections": [
+    {
+      "level": 2,
+      "heading": "La red Ethereum",
+      "start": 0,
+      "end": 10342,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La red Ethereum"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ethereum es actualmente la segunda mayor red blockchain por número de usuarios y su principal característica es la posibilidad de crear y ejecutar aplicaciones descentralizadas. Su arquitectura flexible y programable permite a los desarrolladores utilizar contratos inteligentes para automatizar la ejecución de acuerdos y transacciones en la red, y actualmente utiliza un algoritmo de consenso de prueba de participación (Proof of Stake o PoS) para validar las transacciones.\nEthereum es la primera blockchain en la que se puede llevar a cabo la creación y ejecución de aplicaciones descentralizadas.\nEthereum introdujo varias características únicas, que se han popularizado y ahora son utilizadas por otras blockchains: los smart contracts o y los estándares de tokens.\nSegún la definición de la Ethereum Foundation, la organización encargada de su desarrollo: “Ethereum es una tecnología para construir aplicaciones y organizaciones, almacenar activos, realizar transacciones y comunicarse sin la intervención de una autoridad central”.\nEl token nativo de Ethereum es el ether (ETH) y, como bitcoin, se caracteriza por ser descentralizado y por ser divisible en hasta 18 posiciones decimales, por lo que los usuarios no tienen por qué comprar un ether completo, sino que pueden adquirir fracciones.\nLas transacciones en Ethereum son aprobadas por los nodos validadores, mediante el mecanismo de Prueba de Participación (Proof of Stake o PoS).\nHistoria de Ethereum\nEl desarrollo de Ethereum empezó gracias al trabajo de Vitalik Buterin, desarrollador de origen ruso, residente en Canadá, en 2013.\nEn 2014, Buterin publicó el whitepaper de Ethereum, con el objetivo de solucionar algunas limitaciones que detectó en la red de Bitcoin, especialmente, la falta de casos de uso, ya que Bitcoin solo podía utilizarse para transacciones entre direcciones, es decir, para mover valor (expresado en unidades de bitcoin).\nAl proyecto inicial se unió Gavin Wood, que aportó conceptos tecnológicos como la Ethereum Virtual Machine (EVM), la principal característica de la red. Esta máquina virtual mínima permite que se ejecuten los smart contracts: se levanta la máquina virtual, se ejecuta el smart contract con los parámetros de entrada, se actualiza el registro de la blockchain y se cierra la máquina virtual.\nTras una campaña de crowdfunding (la primera de las conocidas como Initial Coins Offering o ICO) en la que ofertó ETH y se recaudaron 18 millones de dólares, en 2015 se lanzó la primera versión totalmente operativa de la blockchain de Ethereum, llamada Frontier.\nInicialmente, Ethereum era una blockchain con un mecanismo de consenso de Prueba de Trabajo (Proof of Work o PoW), basado en minería. Esto cambió en septiembre de 2022, cuando pasó a tener un mecanismo de Prueba de Validación (Proof of Stake o PoS basado en nodos de validación), tras un evento conocido como The Merge (La Fusión).\nETH, el token de Ethereum\nComo hemos explicado, el token nativo de la red es el Ether (ETH). Se trata de un elemento vital para la red, pues se utiliza como base para el proceso de validación de bloques.\nCada transacción que se realiza en Ethereum (cuando se envía ETH, cuando se utiliza una aplicación, etc.) requiere del pago de una tarifa o comisión en ETH (llamadas tarifas de gas o gas fees en inglés) por el uso de la red. Estas tarifas sirven como incentivo para que los nodos validadores procesen y verifiquen los bloques que, a continuación, se añaden a la red.\nLos validadores son como los mineros de Bitcoin: se encargan de registrar las nuevas transacciones y añadir bloques a la cadena. Su trabajo es comprobar y demostrar que todas las transacciones son correctas y que no hay doble gasto ni transacciones maliciosas.\nLos validadores que realizan este trabajo reciben como recompensa pequeñas cantidades de ETH recién emitidos, así como una parte de las tarifas de gas (gas fees). Las tarifas de gas se calculan en gwei, que es la unidad mínima de Ethereum: 1 gwei = 0,000001 ETH.\nCada transacción dentro de Ethereum tiene valor de gas estipulado, que no cambia por la volatilidad del precio del ETH. Sin embargo, cuanto mayor es la actividad dentro de la red, mayor es el precio que se paga por el gas, esto se debe a que la red se satura y las transacciones se acumulan, por tanto algunos usuarios aumentan la comisión adjunta a sus transacciones para que los validadores las prioricen.\nEsto provoca que, en periodos de mucha actividad en Ethereum, las tarifas de gas sean más altas, ya que los validadores pueden incorporar las transacciones que ofrecen una mayor comisión, dejando en espera el resto, lo que supone una obstáculo al uso generalizado de esta red.\nA través de las tarifas de transacción y del Ether que los validadores bloquean en sus nodos se puede mantener segura y descentralizada la red de Ethereum.\nUna de las características del Ether es que está creado sobre el estándar ERC-20, un estándar creado por Ethereum específicamente para el desarrollo de tokens sobre su red. Se trata de un contrato inteligente o smart contract que dispone de una estructura ya preestablecida, lo que facilita el trabajo de programación a los desarrolladores que pretendan crear nuevos proyectos y garantiza la interoperabilidad del conjunto de la red.\nDe esta forma, dentro de Ethereum podemos encontrar muchos otros tokens como monedas estables (stablecoins) o tokens no fungibles (Non-Fungible Tokens o NFT).\n¿Cuál es la diferencia entre Ethereum y Bitcoin?\nAunque Ethereum se basa en la misma tecnología que Bitcoin (una red descentralizada donde la información se registra en forma de cadena de bloques), tiene algunas diferencias notables."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Orígenes: Bitcoin tuvo un desarrollo privado e independiente. El software se creó sin recurrir a fondos de terceros. Ethereum, en cambio, recurrió a una Oferta Inicial de Criptomonedas (Initial Coin Offering o ICO), también llamada “oferta inicial de tokens”. En una “ICO”, una compañía o una persona emite criptoactivos o tokens y los pone a la venta a cambio bien de dinero de curso legal, como el euro, o bien de otros criptoactivos o tokens.",
+        "Capacidad de programación y aplicaciones descentralizadas:Ambas blockchains están diseñadas para permitir la transmisión de criptoactivos entre pares de forma descentralizada. Sin embargo, Ethereum es programable, por lo que también permite construir y mantener aplicaciones y crear otros tokens sobre su infraestructura. Esta característica hace que Ethereum sea más versátil que Bitcoin, que solo ofrece una red de transferencias.",
+        "Centralización de las redes:"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "También tienen diferencias a nivel de centralización. Mientras que en Bitcoin no existe una figura centralizada y cualquier decisión pasa por su aceptación por parte de los distintos nodos de minería, en el caso de Ethereum, si bien es descentralizada, la Fundación Ethereum puede centralizar algunas decisiones en materia de actualizaciones, estandarización e implementación de nuevas funcionalidades."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Emisión:"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Otra diferencia entre Bitcoin y Ethereum es la emisión de su token nativo. En el caso de Bitcoin, la emisión está limitada a un total de 21 millones de bitcoins y nunca podrá superar esa cantidad. Además, su emisión como recompensa para los mineros va disminuyendo con el tiempo hasta que llegue a 0. En su lugar, Ethereum cuenta con una emisión inflacionaria, ya que la emisión de tokens no está limitada, es infinita."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Protocolo de consenso:El protocolo de consenso es otra de las grandes diferencias entre Bitcoin y Ethereum. El Bitcoin usa el protocolo de Prueba de Trabajo (Proof of Work o PoW). En la actualidad, este tipo de minería requiere un elevado poder computacional, por lo que se utiliza un hardware especial. Otra de las características importantes de la minería en Bitcoin es que genera un nuevo bloque aproximadamente cada 10 minutos, ajustándose la dificultad de los retos criptográficos cada 2016 bloques (unos 14 días). Además, cada 210.000 bloques (unos 4 años aproximadamente) se produce un halving (división a la mitad de la recompensa de bloque). En Ethereum, el tiempo es mucho menor. Actualmente, cada 12 segundos aproximadamente se genera un nuevo bloque. Desde la llegada de The Merge en septiembre de 2022, Ethereum usa el protocolo Prueba de Participación (Proof of Stake o PoS).",
+        "Escalabilidad:"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Otra diferencia se encuentra en la escalabilidad. Mientras que Ethereum tiene capacidad para procesar entre 16 y 20 transacciones por segundo, Bitcoin solo puede procesar entre 4 y 5. Sin embargo, Ethereum suele presentar más congestión que Bitcoin, por lo que las transacciones acaban siendo más lentas o más caras."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Máquina Virtual de Ethereum (Ethereum Virtual Machine o EVM):"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Finalmente, una de las principales diferencias con Bitcoin es la capacidad de Ethereum para gestionar smart contracts a través de la Máquina Virtual de Ethereum (Ethereum Virtual Machine o EVM). Este software crea una capa adicional de abstracción que es la pieza clave para traducir los códigos de los smart contracts en instrucciones concretas y precisas. Es, por tanto, el elemento capaz de interpretar las instrucciones codificadas en cada smart contract.\nCasos de uso de Ethereum\nEthereum crea una red entre pares (redes Peer to Peer o P2P) que permite el intercambio de criptoactivos entre dos usuarios.\nTambién permite utilizar diferentes aplicaciones dentro de la red sin tener que compartir datos sensibles (identidad, datos personales, etc.), ya que para conectarse solo se requiere una dirección de Ethereum.\nUno de los principales casos de uso de Ethereum es la emisión de otros criptoactivos, mediante la elaboración de un smart contract de emisión que se incorpora a la blockchain donde se lleva su registro y permite ejecutar diferentes funciones sobre este nuevo token como son las transferencias del mismo entre direcciones. Estos smart contracts de emisión suelen elaborarse siguiendo unos estándares como el ERC-20 para tokens fungibles o el ERC-721 para NFTs.\nEntre los usos más habituales de la red Ethereum se encuentran los relativos a las finanzas descentralizadas (decentralized finance o DeFi). Se trata de aplicaciones descentralizadas que permiten a los usuarios utilizar una serie de servicios como por ejemplo intercambios (swaps) de criptoactivos o préstamos basados en contratos inteligentes."
+    }
+  ],
+  "text": "La red Ethereum\nEthereum es actualmente la segunda mayor red blockchain por número de usuarios y su principal característica es la posibilidad de crear y ejecutar aplicaciones descentralizadas. Su arquitectura flexible y programable permite a los desarrolladores utilizar contratos inteligentes para automatizar la ejecución de acuerdos y transacciones en la red, y actualmente utiliza un algoritmo de consenso de prueba de participación (Proof of Stake o PoS) para validar las transacciones.\nEthereum es la primera blockchain en la que se puede llevar a cabo la creación y ejecución de aplicaciones descentralizadas.\nEthereum introdujo varias características únicas, que se han popularizado y ahora son utilizadas por otras blockchains: los smart contracts o y los estándares de tokens.\nSegún la definición de la Ethereum Foundation, la organización encargada de su desarrollo: “Ethereum es una tecnología para construir aplicaciones y organizaciones, almacenar activos, realizar transacciones y comunicarse sin la intervención de una autoridad central”.\nEl token nativo de Ethereum es el ether (ETH) y, como bitcoin, se caracteriza por ser descentralizado y por ser divisible en hasta 18 posiciones decimales, por lo que los usuarios no tienen por qué comprar un ether completo, sino que pueden adquirir fracciones.\nLas transacciones en Ethereum son aprobadas por los nodos validadores, mediante el mecanismo de Prueba de Participación (Proof of Stake o PoS).\nHistoria de Ethereum\nEl desarrollo de Ethereum empezó gracias al trabajo de Vitalik Buterin, desarrollador de origen ruso, residente en Canadá, en 2013.\nEn 2014, Buterin publicó el whitepaper de Ethereum, con el objetivo de solucionar algunas limitaciones que detectó en la red de Bitcoin, especialmente, la falta de casos de uso, ya que Bitcoin solo podía utilizarse para transacciones entre direcciones, es decir, para mover valor (expresado en unidades de bitcoin).\nAl proyecto inicial se unió Gavin Wood, que aportó conceptos tecnológicos como la Ethereum Virtual Machine (EVM), la principal característica de la red. Esta máquina virtual mínima permite que se ejecuten los smart contracts: se levanta la máquina virtual, se ejecuta el smart contract con los parámetros de entrada, se actualiza el registro de la blockchain y se cierra la máquina virtual.\nTras una campaña de crowdfunding (la primera de las conocidas como Initial Coins Offering o ICO) en la que ofertó ETH y se recaudaron 18 millones de dólares, en 2015 se lanzó la primera versión totalmente operativa de la blockchain de Ethereum, llamada Frontier.\nInicialmente, Ethereum era una blockchain con un mecanismo de consenso de Prueba de Trabajo (Proof of Work o PoW), basado en minería. Esto cambió en septiembre de 2022, cuando pasó a tener un mecanismo de Prueba de Validación (Proof of Stake o PoS basado en nodos de validación), tras un evento conocido como The Merge (La Fusión).\nETH, el token de Ethereum\nComo hemos explicado, el token nativo de la red es el Ether (ETH). Se trata de un elemento vital para la red, pues se utiliza como base para el proceso de validación de bloques.\nCada transacción que se realiza en Ethereum (cuando se envía ETH, cuando se utiliza una aplicación, etc.) requiere del pago de una tarifa o comisión en ETH (llamadas tarifas de gas o gas fees en inglés) por el uso de la red. Estas tarifas sirven como incentivo para que los nodos validadores procesen y verifiquen los bloques que, a continuación, se añaden a la red.\nLos validadores son como los mineros de Bitcoin: se encargan de registrar las nuevas transacciones y añadir bloques a la cadena. Su trabajo es comprobar y demostrar que todas las transacciones son correctas y que no hay doble gasto ni transacciones maliciosas.\nLos validadores que realizan este trabajo reciben como recompensa pequeñas cantidades de ETH recién emitidos, así como una parte de las tarifas de gas (gas fees). Las tarifas de gas se calculan en gwei, que es la unidad mínima de Ethereum: 1 gwei = 0,000001 ETH.\nCada transacción dentro de Ethereum tiene valor de gas estipulado, que no cambia por la volatilidad del precio del ETH. Sin embargo, cuanto mayor es la actividad dentro de la red, mayor es el precio que se paga por el gas, esto se debe a que la red se satura y las transacciones se acumulan, por tanto algunos usuarios aumentan la comisión adjunta a sus transacciones para que los validadores las prioricen.\nEsto provoca que, en periodos de mucha actividad en Ethereum, las tarifas de gas sean más altas, ya que los validadores pueden incorporar las transacciones que ofrecen una mayor comisión, dejando en espera el resto, lo que supone una obstáculo al uso generalizado de esta red.\nA través de las tarifas de transacción y del Ether que los validadores bloquean en sus nodos se puede mantener segura y descentralizada la red de Ethereum.\nUna de las características del Ether es que está creado sobre el estándar ERC-20, un estándar creado por Ethereum específicamente para el desarrollo de tokens sobre su red. Se trata de un contrato inteligente o smart contract que dispone de una estructura ya preestablecida, lo que facilita el trabajo de programación a los desarrolladores que pretendan crear nuevos proyectos y garantiza la interoperabilidad del conjunto de la red.\nDe esta forma, dentro de Ethereum podemos encontrar muchos otros tokens como monedas estables (stablecoins) o tokens no fungibles (Non-Fungible Tokens o NFT).\n¿Cuál es la diferencia entre Ethereum y Bitcoin?\nAunque Ethereum se basa en la misma tecnología que Bitcoin (una red descentralizada donde la información se registra en forma de cadena de bloques), tiene algunas diferencias notables.\n- Orígenes: Bitcoin tuvo un desarrollo privado e independiente. El software se creó sin recurrir a fondos de terceros. Ethereum, en cambio, recurrió a una Oferta Inicial de Criptomonedas (Initial Coin Offering o ICO), también llamada “oferta inicial de tokens”. En una “ICO”, una compañía o una persona emite criptoactivos o tokens y los pone a la venta a cambio bien de dinero de curso legal, como el euro, o bien de otros criptoactivos o tokens.\n- Capacidad de programación y aplicaciones descentralizadas:Ambas blockchains están diseñadas para permitir la transmisión de criptoactivos entre pares de forma descentralizada. Sin embargo, Ethereum es programable, por lo que también permite construir y mantener aplicaciones y crear otros tokens sobre su infraestructura. Esta característica hace que Ethereum sea más versátil que Bitcoin, que solo ofrece una red de transferencias.\n- Centralización de las redes:\nTambién tienen diferencias a nivel de centralización. Mientras que en Bitcoin no existe una figura centralizada y cualquier decisión pasa por su aceptación por parte de los distintos nodos de minería, en el caso de Ethereum, si bien es descentralizada, la Fundación Ethereum puede centralizar algunas decisiones en materia de actualizaciones, estandarización e implementación de nuevas funcionalidades.\n- Emisión:\nOtra diferencia entre Bitcoin y Ethereum es la emisión de su token nativo. En el caso de Bitcoin, la emisión está limitada a un total de 21 millones de bitcoins y nunca podrá superar esa cantidad. Además, su emisión como recompensa para los mineros va disminuyendo con el tiempo hasta que llegue a 0. En su lugar, Ethereum cuenta con una emisión inflacionaria, ya que la emisión de tokens no está limitada, es infinita.\n- Protocolo de consenso:El protocolo de consenso es otra de las grandes diferencias entre Bitcoin y Ethereum. El Bitcoin usa el protocolo de Prueba de Trabajo (Proof of Work o PoW). En la actualidad, este tipo de minería requiere un elevado poder computacional, por lo que se utiliza un hardware especial. Otra de las características importantes de la minería en Bitcoin es que genera un nuevo bloque aproximadamente cada 10 minutos, ajustándose la dificultad de los retos criptográficos cada 2016 bloques (unos 14 días). Además, cada 210.000 bloques (unos 4 años aproximadamente) se produce un halving (división a la mitad de la recompensa de bloque). En Ethereum, el tiempo es mucho menor. Actualmente, cada 12 segundos aproximadamente se genera un nuevo bloque. Desde la llegada de The Merge en septiembre de 2022, Ethereum usa el protocolo Prueba de Participación (Proof of Stake o PoS).\n- Escalabilidad:\nOtra diferencia se encuentra en la escalabilidad. Mientras que Ethereum tiene capacidad para procesar entre 16 y 20 transacciones por segundo, Bitcoin solo puede procesar entre 4 y 5. Sin embargo, Ethereum suele presentar más congestión que Bitcoin, por lo que las transacciones acaban siendo más lentas o más caras.\n- Máquina Virtual de Ethereum (Ethereum Virtual Machine o EVM):\nFinalmente, una de las principales diferencias con Bitcoin es la capacidad de Ethereum para gestionar smart contracts a través de la Máquina Virtual de Ethereum (Ethereum Virtual Machine o EVM). Este software crea una capa adicional de abstracción que es la pieza clave para traducir los códigos de los smart contracts en instrucciones concretas y precisas. Es, por tanto, el elemento capaz de interpretar las instrucciones codificadas en cada smart contract.\nCasos de uso de Ethereum\nEthereum crea una red entre pares (redes Peer to Peer o P2P) que permite el intercambio de criptoactivos entre dos usuarios.\nTambién permite utilizar diferentes aplicaciones dentro de la red sin tener que compartir datos sensibles (identidad, datos personales, etc.), ya que para conectarse solo se requiere una dirección de Ethereum.\nUno de los principales casos de uso de Ethereum es la emisión de otros criptoactivos, mediante la elaboración de un smart contract de emisión que se incorpora a la blockchain donde se lleva su registro y permite ejecutar diferentes funciones sobre este nuevo token como son las transferencias del mismo entre direcciones. Estos smart contracts de emisión suelen elaborarse siguiendo unos estándares como el ERC-20 para tokens fungibles o el ERC-721 para NFTs.\nEntre los usos más habituales de la red Ethereum se encuentran los relativos a las finanzas descentralizadas (decentralized finance o DeFi). Se trata de aplicaciones descentralizadas que permiten a los usuarios utilizar una serie de servicios como por ejemplo intercambios (swaps) de criptoactivos o préstamos basados en contratos inteligentes.",
+  "text_len": 10342,
+  "num_headings": 1,
+  "metadata": {
+    "title": "La red Ethereum -",
+    "url": "https://www.finanzasparatodos.es/cursos-y-webinars/criptoactivos-blockchain/tokens-y-smart-contracts/la-red-ethereum",
+    "hostname": "finanzasparatodos.es",
+    "sitename": "finanzasparatodos.es",
+    "date": "2013-01-01",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "La red Ethereum: tokens y smart contracts",
+    "topic": "inversión",
+    "subtopic": "blockchain",
+    "difficulty": "intermedio",
+    "format": "curso web",
+    "summary": "Leccion del curso sobre la red Ethereum, tokens y smart contracts",
+    "learning_objective": "Conocer Ethereum, tokens y smart contracts"
+  },
+  "deduped_from": null
+}

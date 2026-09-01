@@ -1,0 +1,217 @@
+{
+  "content_id": "C022",
+  "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/productosservici/financiacion/deudores-hipotecarios-sin-recursos/",
+  "source": "Portal Cliente Bancario BdE",
+  "host": "clientebancario.bde.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 43357
+  },
+  "title": "Deudores hipotecarios en dificultades",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Deudores hipotecarios en dificultades"
+    },
+    {
+      "level": 2,
+      "text": "Entidades adheridas al Código de Buenas Prácticas"
+    },
+    {
+      "level": 2,
+      "text": "Requisitos para aplicar el Código de Buenas Prácticas"
+    },
+    {
+      "level": 2,
+      "text": "Medidas que recoge el Código de Buenas Prácticas"
+    },
+    {
+      "level": 2,
+      "text": "Tramitación"
+    },
+    {
+      "level": 2,
+      "text": "Evolución y versiones del Código"
+    },
+    {
+      "level": 2,
+      "text": "Nuevo CBP para deudores hipotecarios en riesgo de vulnerabilidad"
+    },
+    {
+      "level": 2,
+      "text": "CONSULTAS FRECUENTES"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Deudores hipotecarios en dificultades",
+      "start": 0,
+      "end": 237,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Entidades adheridas al Código de Buenas Prácticas",
+      "start": 237,
+      "end": 487,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Requisitos para aplicar el Código de Buenas Prácticas",
+      "start": 487,
+      "end": 784,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Medidas que recoge el Código de Buenas Prácticas",
+      "start": 784,
+      "end": 1071,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Tramitación",
+      "start": 1071,
+      "end": 1317,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Evolución y versiones del Código",
+      "start": 1317,
+      "end": 1606,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Nuevo CBP para deudores hipotecarios en riesgo de vulnerabilidad",
+      "start": 1606,
+      "end": 2059,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "CONSULTAS FRECUENTES",
+      "start": 2059,
+      "end": 2528,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Deudores hipotecarios en dificultades"
+    },
+    {
+      "type": "paragraph",
+      "text": "Desde el año 2012 está en vigor el Código de Buenas Prácticas, que establece una serie de medidas para aliviar la carga que supone la hipoteca al deudor vulnerable que cumpla una serie de requisitos."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Entidades adheridas al Código de Buenas Prácticas"
+    },
+    {
+      "type": "paragraph",
+      "text": "La adhesión al Código de Buenas Prácticas es voluntaria, es decir, la entidad tiene que haberlo aceptado y sólo a partir de ese momento estará obligada a aplicar las medidas que en él se contemplan."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Requisitos para aplicar el Código de Buenas Prácticas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las medidas del Código de Buenas Prácticas se aplicarán al titular del préstamo hipotecario que cumpla unos requisitos relacionados con su capacidad económica y con el precio de adquisición de la vivienda hipotecada, que ha de ser la habitual."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Medidas que recoge el Código de Buenas Prácticas"
+    },
+    {
+      "type": "paragraph",
+      "text": "De aplicación sucesiva, la primera es la reestructuración de la deuda. Si es inviable, podrás solicitar una rebaja del capital o la dación en pago de la vivienda. Finalmente, si esta se ha ejecutado, su alquiler por una renta favorable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tramitación"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las entidades deben informar sobre la existencia y contenido del Código de Buenas Prácticas y tramitar las solicitudes que reciban de forma eficaz. Para asegurar que cumplen con estas obligaciones, se establecen mecanismos de control."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Evolución y versiones del Código"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Código de Buenas Prácticas está contenido en el anexo del Real Decreto-ley 6/2012. Esta norma se ha modificado en 5 ocasiones, ampliando progresivamente los supuestos de aplicación del Código y adoptando medidas cada vez más ventajosas para el deudor."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Nuevo CBP para deudores hipotecarios en riesgo de vulnerabilidad"
+    },
+    {
+      "type": "paragraph",
+      "text": "Desde 2022 existió un nuevo CBP para aliviar la subida de los tipos de interés cuyas medidas podían aplicarse hasta finales de noviembre de 2025 o hasta finales de mayo de 2026 para personas residentes en las zonas afectadas por la DANA. La adhesión de las entidades a este nuevo Código era voluntaria. Si quieres consultar la entidades adheridas visita el primer apartado de esta página."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "CONSULTAS FRECUENTES"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "¿Qué significa que el plan de reestructuración no es viable? Leer respuestasobre¿Qué significa que el plan de reestructuración no es viable?",
+        "¿Puedo solicitar la restructuración de la deuda en caso de haber destinado el préstamo a una finalidad distinta a la de adquirir mi vivienda? Leer respuestasobre¿Puedo solicitar la restructuración de la deuda en caso de haber destinado el préstamo a una finalidad distinta a la de adquirir mi vivienda?"
+      ]
+    }
+  ],
+  "text": "Deudores hipotecarios en dificultades\nDesde el año 2012 está en vigor el Código de Buenas Prácticas, que establece una serie de medidas para aliviar la carga que supone la hipoteca al deudor vulnerable que cumpla una serie de requisitos.\nEntidades adheridas al Código de Buenas Prácticas\nLa adhesión al Código de Buenas Prácticas es voluntaria, es decir, la entidad tiene que haberlo aceptado y sólo a partir de ese momento estará obligada a aplicar las medidas que en él se contemplan.\nRequisitos para aplicar el Código de Buenas Prácticas\nLas medidas del Código de Buenas Prácticas se aplicarán al titular del préstamo hipotecario que cumpla unos requisitos relacionados con su capacidad económica y con el precio de adquisición de la vivienda hipotecada, que ha de ser la habitual.\nMedidas que recoge el Código de Buenas Prácticas\nDe aplicación sucesiva, la primera es la reestructuración de la deuda. Si es inviable, podrás solicitar una rebaja del capital o la dación en pago de la vivienda. Finalmente, si esta se ha ejecutado, su alquiler por una renta favorable.\nTramitación\nLas entidades deben informar sobre la existencia y contenido del Código de Buenas Prácticas y tramitar las solicitudes que reciban de forma eficaz. Para asegurar que cumplen con estas obligaciones, se establecen mecanismos de control.\nEvolución y versiones del Código\nEl Código de Buenas Prácticas está contenido en el anexo del Real Decreto-ley 6/2012. Esta norma se ha modificado en 5 ocasiones, ampliando progresivamente los supuestos de aplicación del Código y adoptando medidas cada vez más ventajosas para el deudor.\nNuevo CBP para deudores hipotecarios en riesgo de vulnerabilidad\nDesde 2022 existió un nuevo CBP para aliviar la subida de los tipos de interés cuyas medidas podían aplicarse hasta finales de noviembre de 2025 o hasta finales de mayo de 2026 para personas residentes en las zonas afectadas por la DANA. La adhesión de las entidades a este nuevo Código era voluntaria. Si quieres consultar la entidades adheridas visita el primer apartado de esta página.\nCONSULTAS FRECUENTES\n- ¿Qué significa que el plan de reestructuración no es viable? Leer respuestasobre¿Qué significa que el plan de reestructuración no es viable?\n- ¿Puedo solicitar la restructuración de la deuda en caso de haber destinado el préstamo a una finalidad distinta a la de adquirir mi vivienda? Leer respuestasobre¿Puedo solicitar la restructuración de la deuda en caso de haber destinado el préstamo a una finalidad distinta a la de adquirir mi vivienda?",
+  "text_len": 2528,
+  "num_headings": 8,
+  "metadata": {
+    "title": "Deudores hipotecarios en dificultades",
+    "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/productosservici/financiacion/deudores-hipotecarios-sin-recursos/",
+    "hostname": "clientebancario.bde.es",
+    "description": "Deudores hipotecarios en dificultades",
+    "sitename": "clientebancario.bde.es",
+    "date": "2012-06-01",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": true,
+  "csv_meta": {
+    "title": "Deudores hipotecarios en dificultades",
+    "topic": "hipotecas",
+    "subtopic": "dificultades de pago",
+    "difficulty": "avanzado",
+    "format": "artículo web",
+    "summary": "Opciones para personas con hipoteca que no pueden pagar",
+    "learning_objective": "Conocer mecanismos de protección del deudor hipotecario"
+  },
+  "deduped_from": null
+}

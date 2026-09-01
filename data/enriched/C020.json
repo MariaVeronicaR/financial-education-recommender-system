@@ -1,0 +1,57 @@
+{
+  "content_id": "C020",
+  "tldr": "Este contenido presenta un simulador de tarjetas revolving, un tipo de crédito de pequeña cuantía con intereses elevados que se devuelve en cuotas mensuales pequeñas. La herramienta permite calcular la fecha en la que se terminaría de pagar la deuda y el total de intereses pagados. El punto clave es que, si la cuota elegida no cubre ni siquiera los intereses generados, la deuda puede crecer hasta hacerse impagable.",
+  "key_points": [
+    "Las tarjetas revolving son créditos de pequeña cuantía con intereses elevados y cuotas mensuales de importe reducido.",
+    "El simulador calcula la fecha de vencimiento de la última cuota y el importe total de intereses pagados.",
+    "Si la cuota mensual no cubre los intereses generados, la deuda crece y puede llegar a ser impagable.",
+    "El simulador asume cuotas iguales, tipo de interés constante y que no se realizan más disposiciones.",
+    "Los cálculos usan simplificaciones (meses de igual duración), por lo que la fecha real puede variar ligeramente."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué caracteriza principalmente a un crédito revolving, como el de este simulador?",
+      "options": [
+        "Es un crédito de gran cuantía con intereses muy bajos y plazos largos",
+        "Es un crédito de pequeña cuantía, con intereses elevados y cuotas mensuales pequeñas",
+        "Es un préstamo hipotecario garantizado por una vivienda",
+        "Es un plan de ahorro a largo plazo sin intereses"
+      ],
+      "correct_index": 1,
+      "explanation": "El contenido define los revolving como créditos de pequeña cuantía, con intereses elevados y que se devuelven en plazos mensuales de pequeño importe.",
+      "concept_id": "C09"
+    },
+    {
+      "question": "Según el simulador, ¿qué ocurre si la cuota mensual que eliges no cubre los intereses que genera la deuda?",
+      "options": [
+        "La deuda se mantiene estable pero nunca se termina de pagar",
+        "El banco cancela automáticamente la deuda restante",
+        "La deuda crece y puede llegar a ser tan grande que no pueda pagarse con esa cuota",
+        "Los intereses se convierten en un préstamo aparte sin coste"
+      ],
+      "correct_index": 2,
+      "explanation": "El contenido advierte que si la cuota no cubre los intereses, la devolución se demora y la deuda crece hasta poder volverse impagable con esa forma de pago.",
+      "concept_id": "C03"
+    },
+    {
+      "question": "¿Cuál es el objetivo principal de usar este simulador de tarjeta revolving?",
+      "options": [
+        "Conocer la fecha en que terminarías de pagar la deuda y el total de intereses pagados",
+        "Comparar las comisiones de apertura de distintos bancos",
+        "Calcular la inflación acumulada de tu presupuesto anual",
+        "Determinar el importe máximo de una hipoteca que puedes asumir"
+      ],
+      "correct_index": 0,
+      "explanation": "El simulador sirve para calcular el momento de vencimiento de la deuda y el importe de los intereses pagados, permitiendo comprobar el elevado coste de estas tarjetas.",
+      "concept_id": "C19"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 9603,
+    "input_tokens": 1685,
+    "output_tokens": 1127
+  }
+}

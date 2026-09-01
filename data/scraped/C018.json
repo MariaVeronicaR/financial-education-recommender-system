@@ -1,0 +1,217 @@
+{
+  "content_id": "C018",
+  "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/productosservici/cuentasdepositos/depositosplazo/",
+  "source": "Portal Cliente Bancario BdE",
+  "host": "clientebancario.bde.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 37548
+  },
+  "title": "Depósitos a plazo",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Depósitos a plazo"
+    },
+    {
+      "level": 2,
+      "text": "Concepto y características"
+    },
+    {
+      "level": 2,
+      "text": "Apertura"
+    },
+    {
+      "level": 2,
+      "text": "Remuneración"
+    },
+    {
+      "level": 2,
+      "text": "Modalidades"
+    },
+    {
+      "level": 2,
+      "text": "Renovación"
+    },
+    {
+      "level": 2,
+      "text": "Cancelación"
+    },
+    {
+      "level": 2,
+      "text": "CONSULTAS FRECUENTES"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Depósitos a plazo",
+      "start": 0,
+      "end": 165,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Concepto y características",
+      "start": 165,
+      "end": 375,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Apertura",
+      "start": 375,
+      "end": 537,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Remuneración",
+      "start": 537,
+      "end": 756,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Modalidades",
+      "start": 756,
+      "end": 962,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Renovación",
+      "start": 962,
+      "end": 1148,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Cancelación",
+      "start": 1148,
+      "end": 1366,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "CONSULTAS FRECUENTES",
+      "start": 1366,
+      "end": 1869,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Depósitos a plazo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si disponemos de dinero ahorrado que no vamos a necesitar y queremos obtener algún rendimiento, tenemos la opción de contratar un depósito a plazo."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Concepto y características"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es un producto bancario en el que entregamos nuestro dinero a la entidad durante un plazo determinado y a su finalización obtenemos la cantidad entregada más los intereses pactados."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Apertura"
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de contratar, la entidad deberá facilitarnos de forma gratuita la información necesaria para poder comparar ofertas y tomar una decisión informada."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Remuneración"
+    },
+    {
+      "type": "paragraph",
+      "text": "La retribución será la que hayamos pactado con la entidad y es el precio que nos paga por el dinero que hemos depositado. También, es posible que dicha remuneración consista en una retribución en especie."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Modalidades"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los depósitos a plazo fijo pueden presentar dos modalidades: depósitos a plazo con tipo de interés fijo y depósitos que ofrecen un rendimiento según la fluctuación de algún activo de referencia."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Renovación"
+    },
+    {
+      "type": "paragraph",
+      "text": "En los depósitos a plazo fijo es habitual que en los contratos se incluya la posibilidad de renovación tácita del depósito, así como las condiciones en las que se efectuará."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cancelación"
+    },
+    {
+      "type": "paragraph",
+      "text": "La cancelación del depósito a plazo fijo antes del vencimiento puede efectuarse, atendiendo a lo pactado, a instancia del cliente. La entidad también podrá hacerlo, si así estuviera previsto en el contrato."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "CONSULTAS FRECUENTES"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "¿Está a salvo el dinero depositado en una cuenta o un depósito en caso de quiebra de la entidad? Leer respuestasobre¿Está a salvo el dinero depositado en una cuenta o un depósito en caso de quiebra de la entidad?",
+        "¿Es necesario el consentimiento de todos los titulares para realizar disposiciones o cancelar anticipadamente un depósito? Leer respuestasobre¿Es necesario el consentimiento de todos los titulares para realizar disposiciones o cancelar anticipadamente un depósito?"
+      ]
+    }
+  ],
+  "text": "Depósitos a plazo\nSi disponemos de dinero ahorrado que no vamos a necesitar y queremos obtener algún rendimiento, tenemos la opción de contratar un depósito a plazo.\nConcepto y características\nEs un producto bancario en el que entregamos nuestro dinero a la entidad durante un plazo determinado y a su finalización obtenemos la cantidad entregada más los intereses pactados.\nApertura\nAntes de contratar, la entidad deberá facilitarnos de forma gratuita la información necesaria para poder comparar ofertas y tomar una decisión informada.\nRemuneración\nLa retribución será la que hayamos pactado con la entidad y es el precio que nos paga por el dinero que hemos depositado. También, es posible que dicha remuneración consista en una retribución en especie.\nModalidades\nLos depósitos a plazo fijo pueden presentar dos modalidades: depósitos a plazo con tipo de interés fijo y depósitos que ofrecen un rendimiento según la fluctuación de algún activo de referencia.\nRenovación\nEn los depósitos a plazo fijo es habitual que en los contratos se incluya la posibilidad de renovación tácita del depósito, así como las condiciones en las que se efectuará.\nCancelación\nLa cancelación del depósito a plazo fijo antes del vencimiento puede efectuarse, atendiendo a lo pactado, a instancia del cliente. La entidad también podrá hacerlo, si así estuviera previsto en el contrato.\nCONSULTAS FRECUENTES\n- ¿Está a salvo el dinero depositado en una cuenta o un depósito en caso de quiebra de la entidad? Leer respuestasobre¿Está a salvo el dinero depositado en una cuenta o un depósito en caso de quiebra de la entidad?\n- ¿Es necesario el consentimiento de todos los titulares para realizar disposiciones o cancelar anticipadamente un depósito? Leer respuestasobre¿Es necesario el consentimiento de todos los titulares para realizar disposiciones o cancelar anticipadamente un depósito?",
+  "text_len": 1869,
+  "num_headings": 8,
+  "metadata": {
+    "title": "Depósitos a plazo",
+    "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/productosservici/cuentasdepositos/depositosplazo/",
+    "hostname": "clientebancario.bde.es",
+    "description": "Depósitos a plazo",
+    "sitename": "clientebancario.bde.es",
+    "date": "2022-01-01",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": true,
+  "csv_meta": {
+    "title": "Depósitos a plazo",
+    "topic": "cuentas bancarias",
+    "subtopic": "depósitos",
+    "difficulty": "básico",
+    "format": "artículo web",
+    "summary": "Qué es un depósito a plazo fijo y cómo funciona",
+    "learning_objective": "Entender el producto de depósito a plazo"
+  },
+  "deduped_from": null
+}

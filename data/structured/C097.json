@@ -1,0 +1,95 @@
+{
+  "content_id": "C097",
+  "title": "Cambio de divisas: cómo comparar las distintas opciones para saber cuál te conviene",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cambio de divisas: cómo comparar las distintas opciones para saber cuál te conviene"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando compramos una moneda extranjera o hacemos un pago en otra divisa (por ejemplo, una transferencia en dólares o una compra en un comercio en el extranjero) nos interesa saber el valor que esa divisa tiene con respecto a nuestra moneda, lo que llamamos tipo de cambio. El tipo de cambio es libre, fluctúa cada día y normalmente presenta un valor diferente según compres o vendas divisa.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Además de fijar el tipo de cambio, la entidad que lleva a cabo la conversión de divisa puede establecer libremente una comisión para retribuir ese servicio.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La legislación europea ha reforzado las obligaciones de información exigibles a las entidades que prestan servicios de conversión de divisas, en particular, en las operaciones de compra en comercios o de retirada de efectivo en cajeros mediante un instrumento de pago (por ejemplo, una tarjeta o tu dispositivo móvil), de modo que los usuarios puedan comparar los gastos que aplican los distintos proveedores y elegir la mejor opción.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Desde el 19 de abril de 2020, cuando se ofrezcan servicios de cambio de divisas en los cajeros automáticos o en los puntos de venta, ya sea en establecimientos comerciales o en compras a través de Internet, el proveedor tendrá que informar al usuario, de forma clara y accesible, antes de iniciar el pago, del tipo de cambio y las comisiones que aplicará por ese servicio (por ejemplo, mediante un cartel en el mostrador de caja o, en su caso, mostrando la información a través de la pantalla del cajero, del terminal de venta, o del dispositivo del usuario).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Además, se indicará expresamente el importe que se pagará por los bienes y servicios en la divisa del comercio (o el importe de la retirada de efectivo en la divisa seleccionada) y el importe total que pagará el usuario en su propia divisa, incluyendo los gastos aplicables.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En estos casos, el usuario podrá elegir entre:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Pagar en su propia divisa (por lo general, en euros), conforme al tipo de cambio, comisiones y demás información facilitada en el momento de realizar la retirada de efectivo o la compra; o",
+        "Pagar en la divisa del comercio o cajero (por ejemplo, coronas danesas), de modo que la conversión se realizará posteriormente por su entidad, con arreglo a las condiciones (tipo de cambio y comisiones) previstas en el contrato."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Para facilitar la comparación entre las distintas opciones de conversión, es necesario que la información sobre los gastos se exprese de la misma manera. Por este motivo, además de facilitar información detallada sobre el tipo de cambio y las comisiones aplicables, los proveedores que presten servicios de cambio de divisa deberán informar al usuario del coste total de la operación. Este coste se calculará como un porcentaje sobre el último tipo de cambio de referencia del euro publicado por el Banco Central Europeo (BCE).",
+      "links": [
+        {
+          "text": "tipo de cambio de referencia del euro publicado por el Banco Central Europeo",
+          "href": "https://www.bde.es/webbde/es/estadis/infoest/temas/sb_ticambio.html",
+          "start": 444,
+          "end": 520
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Si quieres saber más sobre sobre tus derechos al hacer pagos en Europa o conocer algunos consejos prácticos para la compra y venta de moneda extranjera, puedes hacerlo aquí.",
+      "links": [
+        {
+          "text": "aquí",
+          "href": "https://clientebancario.bde.es/pcb/es/blog/tus-derechos-al-hacer-pagos-en-europa.html",
+          "start": 168,
+          "end": 172
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "text": "tipo de cambio de referencia del euro publicado por el Banco Central Europeo",
+      "href": "https://www.bde.es/webbde/es/estadis/infoest/temas/sb_ticambio.html",
+      "start": null,
+      "end": null
+    },
+    {
+      "text": "aquí",
+      "href": "https://clientebancario.bde.es/pcb/es/blog/tus-derechos-al-hacer-pagos-en-europa.html",
+      "start": null,
+      "end": null
+    }
+  ],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:32:00.596882+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 16304,
+    "input_tokens": 2630,
+    "output_tokens": 5859
+  }
+}

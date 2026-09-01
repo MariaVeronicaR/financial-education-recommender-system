@@ -1,0 +1,210 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><tittle>CNMV-Conozca su perfil inversor</tittle>
+<meta content="es" name="language"/>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<meta content="Búsqueda Activa de Empleo,tutorial,curso" name="keywords"/>
+<link href="css/estilo.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+
+function mostrar(v1) {
+	var e = document.getElementById(v1);
+	e.className = 'txt_visible';
+}
+
+</script>
+</head>
+<body>
+<div class="contenedor_gral">
+  <div id="header"></div>
+  <div id="title" ><H1 class="titulo" tabindex="1">CNMV: Curso de decisiones de inversión</H1></div>
+  <div id="navigation" ><a title="Ir a Página Anterior" href="020401.htm" class="nav_back" tabindex="2">p&aacute;gina 
+    anterior</a> - <a title="Ir a Página Siguiente" href="0401.htm" class="nav_fordward" tabindex="3">p&aacute;gina 
+    siguiente&nbsp;</a></div>
+
+  <div id='menu_navigation'>
+	<ul id="navi">
+		<li><a title="Ir a Introducción" href="0001.htm">Introducci&oacute;n</a></li>
+		<li><a title="Ir a Objetivos" href="0101.htm">Objetivos</a></li>
+		<li>Las decisiones de inversión paso a paso</li>
+		
+      <li><a  href="020001.htm" title="Ir a Paso 1: Antes de invertir (1)" class="contenedor_gral_p">Paso 
+        1: Antes de invertir (1)</a></li>
+		
+      <li ><a title="Ir a Paso 1: Antes de invertir (2)"  href="020002.htm" class="contenedor_gral_p">Paso 
+        1: Antes de invertir (2)</a></li>
+		
+      <li><a  href="020003.htm" title="Ir a Paso 1: Antes de invertir (3)" class="contenedor_gral_p">Paso 
+        1: Antes de invertir (3)</a></li>
+		
+      <li><a  href="020004.htm" title="Ir a Paso 1: Antes de invertir (4)" class="contenedor_gral_p">Paso 
+        1: Antes de invertir (4)</a></li>
+		
+      <li><a  href="020005.htm" title="Ir a Paso 1: Antes de invertir (5)" class="contenedor_gral_p">Paso 
+        1: Antes de invertir (5)</a></li>
+		
+      <li><a  href="020006.htm" title="Ir a Paso 1: Antes de invertir (6)" class="contenedor_gral_p">Paso 
+        1: Antes de invertir (6)</a></li>
+		
+      <li><a  href="020101.htm" title="Ir a Paso 2: El momento de decidir (1)" class="contenedor_gral_p">Paso 
+        2: El momento de decidir (1)</a></li>
+		
+      <li><a title="Ir a Paso 2: El momento de decidir (2)"  href="020102.htm" class="contenedor_gral_p">Paso 
+        2: El momento de decidir (2)</a></li>
+		
+      <li><a  href="020103.htm" title="Ir a Paso 2: El momento de decidir (3)" class="contenedor_gral_p">Paso 
+        2: El momento de decidir (3)</a></li>
+		
+      <li><a  href="020104.htm" title="Ir a Paso 2: El momento de decidir (4)" class="contenedor_gral_p">Paso 
+        2: El momento de decidir (4)</a></li>
+		
+      <li><a  href="020201.htm" title="Ir a Paso 3: Cómo vigilar sus inversiones" class="contenedor_gral_p">Paso 
+        3: Cómo vigilar sus inversiones</a></li>
+		
+      <li><a title="Ir a Consejos para recordar"  href="020301.htm" class="contenedor_gral_p"A>Consejos 
+        para recordar</a></li>
+		
+      <li><a  href="020401.htm" title="Ir a Oficina de Atención al Inversor" class="contenedor_gral_p">Oficina 
+        de Atención al Inversor</a></li>
+		<li class="active"><a title="Ir a Conozca su perfil inversor"  href="0301.htm">Conozca su perfil inversor</a></li>
+		<li><a title="Ir a Cómo se relacionan rentabilidad y riesgo"  href="0401.htm">Cómo se relacionan rentabilidad y riesgo</a></li>
+		<li><a title="Ir a Panorámica de los productos de inversión"  href="0501.htm">Panorámica de los productos de inversión</a></li>
+		<li><a title="Ir a Resumen" href="0601.htm">Resumen</a></li>
+		<li><a title="Ir a Compruebe sus conocimientos" href="0701.htm">Compruebe sus conocimientos</a></li>
+		<li><a title="Ir a Fin de módulo" href="0801.htm">Fin de módulo</a></li>
+	</ul>
+   </div>
+
+    
+  <div id="content"> 
+    <table width="60%"  border="0" cellspacing="0" cellpadding="0">
+      <tr> 
+        <td><h2 tabindex="4">Conozca su perfil inversor</h2>
+          <p class="align-izda"><strong></strong></p>
+          <table width="100%" border="0" cellspacing="5">
+            <tr> 
+              <td tabindex="5" class="Estilo2"><img src="imagenes/topo.jpg" alt="" width="6" height="6" /> 
+                <span class="negrita"><strong>&iquest;Qu&eacute; es su perfil 
+                inversor?</strong></span></td>
+              <td >&nbsp;</td>
+            </tr>
+            <tr> 
+              <td><ul>
+                  <li>
+                    <p tabindex="6" class="align-izda"><strong>El perfil de un inversor se 
+                      define por la relaci&oacute;n que existe entre los riesgos 
+                      que est&aacute; dispuesto a asumir y los rendimientos que 
+                      espera obtener.</strong></p>
+                    <p tabindex="7" class="align-izda">As&iacute; podr&iacute;amos hablar de 
+                      inversores con un perfil <strong>conservador, medio</strong> 
+                      y <strong>agresivo</strong>. Si no estamos dispuestos a 
+                      perder nada de nuestro dinero en circunstancia alguna, ser&iacute;amos 
+                      catalogados como un inversor conservador. En este caso deber&iacute;amos 
+                      estar dispuestos a aceptar un rendimiento bajo, ya que, 
+                      como hemos dicho, riesgo y rentabilidad est&aacute;n directamente 
+                      relacionadas.</p>
+                  </li>
+                </ul></td>
+              <td><div><img tabindex="8" src="imagenes/0301_1.jpg" alt="Imagen de un mu&ntilde;eco con corbata y malet&iacute;n." width="245" height="307" /></div></td>
+            </tr>
+          </table>
+          <p>&nbsp;</p>
+          <table width="100%" border="0" cellspacing="5">
+            <tr> 
+              <td  tabindex="9" class="align-izda"><strong><img src="imagenes/topo.jpg" alt="" width="6" height="6" /> 
+                <span class="negrita">&iquest;Por qu&eacute; es tan importante 
+                conocer su perfil?</span></strong></td>
+              <td >&nbsp;</td>
+            </tr>
+            <tr> 
+              <td><ul>
+                  <li> 
+                    <p tabindex="10" class="align-izda"><strong>Determinar el perfil del inversor 
+                      es el punto de partida para la toma de decisiones. </strong><strong>Si 
+                      conocemos nuestro perfil podremos saber si un producto nos 
+                      conviene o no.</strong> Una vez que conozcamos nuestro perfil 
+                      debemos ser capaces de encontrar un producto apropiado para 
+                      ese perfil: debemos <strong> ser conscientes del nivel de 
+                      riesgo que asumimos en cada producto que contratemos</strong></p>
+                    <p tabindex="11" class="align-izda">Un riesgo inadecuado, ya sea porque 
+                      no hayamos determinado correctamente nuestro perfil, o porque 
+                      conociendo nuestro perfil los productos no encajen en &eacute;l, 
+                      puede provocarnos m&aacute;s de un disgusto.</p>
+                  </li>
+                  <li> 
+                    <p tabindex="12" class="align-izda">Ejemplo: Supongamos un inversor conservador, 
+                      es decir que no quiere arriesgar nada de su capital. A este 
+                      inversor le ofrecen un fondo de inversi&oacute;n de renta 
+                      fija a largo plazo y lo contrata pensando que su valor nunca 
+                      puede caer. Sin embargo, se produce una subida de tipos 
+                      de inter&eacute;s que afecta negativamente al valor de sus 
+                      participaciones en el fondo y cuando le llega a su casa 
+                      una carta del banco inform&aacute;ndole del valor actual 
+                      de su fondo, obaserva con sorpresa que tiene menos dinero 
+                      del que invirti&oacute; inicialmente. No ha ocurrido nada 
+                      raro con este fondo, el problema es que el inversor no sab&iacute;a 
+                      donde met&iacute;a el dinero.</p>
+                  </li>
+                </ul></td>
+              <td><div><img tabindex="13" src="imagenes/0301_2.jpg" alt="Imagen de un mu&ntilde;eco mirando a trav&eacute;s de una lupa." width="245" height="307" /></div></td>
+            </tr>
+          </table>
+          <p>&nbsp;</p>
+          <table width="100%" border="0" cellspacing="5">
+            <tr> 
+              <td tabindex="14" class="align-izda"><strong><img src="imagenes/topo.jpg" alt="" width="6" height="6" /> 
+                <span class="negrita">Tenga en cuenta que... </span></strong><span class="negrita">:</span></td>
+              <td >&nbsp;</td>
+            </tr>
+            <tr> 
+              <td><ul>
+                  <li>
+                    <p tabindex="15" class="align-izda">&#8226; Conocer el perfil del inversor 
+                      no es sencillo, <strong>ya que implica valorar elementos 
+                      subjetivos</strong>, dif&iacute;ciles de cuantificar que 
+                      quiz&aacute; ni el propio inversor conozca con certeza (&iquest;sabemos 
+                      exactamente hasta que punto estamos dispuestos a arriesgar 
+                      nuestro dinero?).</p>
+                    <p tabindex="16" class="align-izda">&#8226; <strong>No se puede hablar de 
+                      una clasificaci&oacute;n exacta</strong>, con perfiles absolutos 
+                      en los que un inversor encaje a la perfecci&oacute;n. </p>
+                    <p tabindex="17" class="align-izda">&#8226; <strong>El paso del tiempo</strong> 
+                      (horizonte temporal), los cambios en nuestra situaci&oacute;n 
+                      financiera y lo que nos va sucediendo (por ejemplo una mala 
+                      experiencia burs&aacute;til), hacen que nuestro perfil pueda 
+                      ir variando.</p>
+                    <p tabindex="18" class="align-izda">&#8226; <strong>El perfil suele definirse 
+                      en t&eacute;rminos globales</strong>. El hecho de ser catalogado 
+                      como inversor conservador no quiere decir que no se puedan 
+                      invertir parte de los ahorros en productos destinados a 
+                      inversores m&aacute;s agresivos.<br />
+                    </p>
+                  </li>
+                </ul>
+                <p></p>
+                <p class="align-izda">&nbsp;</p>
+                <p></p></td>
+              <td><div><img tabindex="19" src="imagenes/0301_4.jpg" alt="Imagen de un mu&ntilde;eco apoyado sobre un signo de exclamaci&oacute;n grande." width="245" height="307" /></div></td>
+            </tr>
+          </table>
+          <p tabindex="20" class="align-izda"><em>NOTA</em>: <strong><em>Este modulo tiene como 
+            finalidad informar al p&uacute;blico en general sobre distintos aspectos 
+            relacionados con los mercados de valores. Por su naturaleza divulgativa 
+            no puede constituir un soporte para posteriores interpretaciones jur&iacute;dicas, 
+            siendo la normativa en vigor la &uacute;nica fuente a estos efectos. 
+            </em></strong></p>
+          
+          </td>
+      </tr>
+    </table>
+    
+        </div>
+    
+  <div id="footer"><img src="imagenes/pie.jpg" alt="Imagen de pie de p&amp;aacute;gina: muestra los est&amp;aacute;ndares de accesibilidad que cumple la p&amp;aacute;gina web" width="1000" height="106" border="0" usemap="#Map2" class="borde0"> 
+    <map name="Map2" id="Map2">
+      <area shape="rect" coords="348,59,446,81" href="http://jigsaw.w3.org/css-validator/" target="_blank" alt="CSS v&aacute;lidas y revisadas con el revisor de CSS del W3C" />
+      <area shape="rect" coords="445,59,543,81" href="http://www.w3.org/WAI/WCAG1AA-Conformance" target="_blank" alt="Conforma el nivel Doble A de accesibilidad de acuerdo con las Directrices de Accesibilidad para el Contenido Web 1.0" />
+      <area shape="rect" coords="542,59,640,81" href="http://www.tawdis.net/" target="_blank" alt="Revisor autom&aacute;tico de la accesibilidad" />
+    </map>
+  </div>
+  </div></div></body></html>

@@ -1,0 +1,58 @@
+{
+  "content_id": "C070",
+  "tldr": "Los ETF (fondos cotizados en bolsa) son fondos de inversión cuyas participaciones se negocian en mercados secundarios en tiempo real, como si fueran acciones, y que suelen replicar la evolución de un índice de referencia. Ofrecen accesibilidad, diversificación, liquidez y transparencia, y pueden repartir dividendos. Existen distintos tipos (de mercado, inversos y apalancados) con perfiles de riesgo crecientes, y antes de invertir conviene revisar el DFI.",
+  "key_points": [
+    "Los ETF son fondos de inversión que se compran y venden en bolsa en tiempo real, a diferencia de los fondos tradicionales que se valoran al cierre de la sesión.",
+    "Su objetivo habitual es replicar un índice de referencia, lo que permite diversificar la inversión con importes mínimos reducidos.",
+    "Existen ETF que siguen el mercado, inversos (se mueven en sentido contrario) y apalancados (amplifican las variaciones diarias del índice).",
+    "Invertir en ETF implica riesgos como el error de seguimiento (tracking error), el riesgo de contraparte y el riesgo de tipo de cambio.",
+    "Antes de invertir es esencial consultar el DFI, que recoge objetivos, política de inversión, perfil de riesgo, gastos y comisiones.",
+    "Los ETF apalancados e inversos reflejan la evolución diaria del índice, no su evolución total en un plazo, por lo que su rentabilidad puede diferir de lo esperado."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cuál es la principal característica que diferencia a un ETF de un fondo de inversión tradicional?",
+      "options": [
+        "Solo invierte en renta fija",
+        "Sus participaciones se negocian en un mercado secundario en tiempo real, como las acciones",
+        "Exige un importe mínimo de inversión de al menos 10.000 euros",
+        "Garantiza una rentabilidad fija al inversor"
+      ],
+      "correct_index": 1,
+      "explanation": "La diferencia clave es que las participaciones del ETF se compran y venden en bolsa en tiempo real, mientras que los fondos tradicionales se valoran al cierre de la sesión.",
+      "concept_id": "C26"
+    },
+    {
+      "question": "¿Qué caracteriza a un ETF apalancado x2?",
+      "options": [
+        "Replica la rentabilidad total del índice en todo el periodo",
+        "Duplica las ganancias y pérdidas diarias del índice subyacente",
+        "Se mueve siempre en sentido contrario al mercado",
+        "Elimina por completo el riesgo de la inversión"
+      ],
+      "correct_index": 1,
+      "explanation": "Un ETF apalancado x2 amplifica la variación diaria del índice multiplicándola por dos, por lo que tanto ganancias como pérdidas se duplican cada día.",
+      "concept_id": "C13"
+    },
+    {
+      "question": "¿Qué indica un tracking error (error de seguimiento) elevado en un ETF?",
+      "options": [
+        "Que el intermediario cobra comisiones más altas",
+        "Que el fondo reparte más dividendos",
+        "Que el ETF sigue con menos fidelidad la evolución de su índice de referencia",
+        "Que el fondo está libre de riesgo de mercado"
+      ],
+      "correct_index": 2,
+      "explanation": "El tracking error mide la desviación entre la trayectoria del ETF y la de su índice de referencia; cuanto mayor sea, menos fielmente sigue el ETF al índice.",
+      "concept_id": "C13"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 10615,
+    "input_tokens": 9439,
+    "output_tokens": 1434
+  }
+}

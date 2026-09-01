@@ -1,0 +1,64 @@
+{
+  "content_id": "C047",
+  "title": "¿Gestionar tus finanzas? Pon en práctica la regla 50/30/20",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Gestionar tus finanzas? Pon en práctica la regla 50/30/20"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando hablamos de gestionar nuestras finanzas personales, tenemos el reto de encontrar un método simple y práctico que nos ayuden en la tarea. Aquí entra en juego la regla 50/30/20, una fórmula que podemos usar como base para crear un presupuesto.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La regla 50/30/20 consiste en dividir nuestros ingresos en tres categorías:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "50% para necesidades: gastos esenciales como es vivienda, alimentación, transporte, servicios básicos, deudas, seguros, etc.",
+        "30% para deseos: gastos opcionales que mejoran tu calidad de vida, como es el ocio, las salidas y los viajes, el entretenimiento, hobbies, etc.",
+        "20% para ahorro e inversión, ya sea con un objetivo concreto, como hacer un viaje, o el ahorro destinado a crear tu fondo de emergencia o para inversión."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "En la práctica"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lo primero es saber cuánto dinero entra en tu bolsillo. Ese será el importe base sobre el cual aplicar la regla. Después, necesitas conocer tus gastos mensuales con detalle, así que, durante dos o tres meses, apunta todos tus gastos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Después llega el momento de aplicar la regla. Es un punto de partida, debes adaptarla a tus necesidades. Por ejemplo, si tu ahorro está por debajo del 20%, empieza por menos y márcate el objetivo de ir aumentando poco a poco. Y si tus gastos de ocio superan el 30%, establece prioridades.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sé flexible y revisa periódicamente, porque no todos los meses son iguales. Puede que un mes gastes más en transporte y otro menos. Lo importante es que, en promedio, tu distribución se acerque a la regla. Revísala cada cierto tiempo y ajusta según tu realidad.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La regla 50/30/20 no es una fórmula mágica, pero sí una guía clara y realista para organizar tu dinero y alcanzar estabilidad financiera. La clave está en conocer tus gastos, hacer ajustes conscientes y mantener la disciplina.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:14:04.345180+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 5323,
+    "input_tokens": 2266,
+    "output_tokens": 1487
+  }
+}

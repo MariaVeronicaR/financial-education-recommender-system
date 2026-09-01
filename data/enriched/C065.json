@@ -1,0 +1,58 @@
+{
+  "content_id": "C065",
+  "tldr": "Los «chiringuitos financieros» son entidades que ofrecen servicios de inversión sin estar autorizadas, actuando al margen de la ley y sin supervisión de la CNMV ni del Banco de España. Suelen ser estafadores que captan ahorros prometiendo rentabilidades excepcionales sin riesgo, y no están adheridos a los fondos de garantía, por lo que perder el capital es casi seguro. La mejor protección es verificar siempre que la entidad esté registrada y autorizada antes de entregar dinero.",
+  "key_points": [
+    "Un chiringuito financiero ofrece servicios de inversión sin estar autorizado ni registrado en la CNMV o el Banco de España.",
+    "No están adheridos a los fondos de garantía de inversiones o depósitos, por lo que el inversor no tiene protección en caso de insolvencia.",
+    "Usan técnicas de contacto (llamadas en frío, correos, redes sociales) y de persuasión (predicciones acertadas, urgencia, presión psicológica) para captar víctimas.",
+    "Los elevados rendimientos sin riesgo que prometen son el cebo: rentabilidad y riesgo van siempre unidos.",
+    "Antes de invertir hay que confirmar la autorización de la entidad consultando a la CNMV y exigir respuestas claras sobre la operación.",
+    "Si ya se entregó el dinero, recuperarlo es difícil; hay que estar atento a señales como la inaccesibilidad de la persona de contacto."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué caracteriza principalmente a un «chiringuito financiero»?",
+      "options": [
+        "Ofrece servicios de inversión sin estar autorizado ni registrado por el supervisor (CNMV/Banco de España)",
+        "Es una entidad con mayor riesgo pero autorizada y supervisada",
+        "Está adherido al Fondo de Garantía de Inversiones",
+        "Es una entidad autorizada que ofrece rentabilidades bajas y seguras"
+      ],
+      "correct_index": 0,
+      "explanation": "El chiringuito actúa al margen de la legalidad: no está registrado ni autorizado por la CNMV ni el Banco de España y no está adherido a los fondos de garantía.",
+      "concept_id": "C15"
+    },
+    {
+      "question": "Un intermediario te promete rentabilidades muy altas «sin ningún riesgo» y te presiona para decidir de inmediato. ¿Qué deberías pensar?",
+      "options": [
+        "Que es una oportunidad única que no debes dejar escapar",
+        "Que rentabilidad y riesgo van siempre unidos, por lo que la oferta es sospechosa",
+        "Que es normal que las entidades serias presionen para no perder la oportunidad",
+        "Que el riesgo depende solo de cuánto dinero inviertas"
+      ],
+      "correct_index": 1,
+      "explanation": "Un principio básico es que rentabilidad y riesgo van unidos de forma inseparable; cualquier oferta que asegure altas rentabilidades sin riesgo debe hacer desconfiar de inmediato.",
+      "concept_id": "C15"
+    },
+    {
+      "question": "Antes de entregar tu dinero a una entidad de inversión desconocida, ¿cuál es la medida de protección más recomendable?",
+      "options": [
+        "Confiar en la recomendación de un amigo o familiar que ya ha invertido",
+        "Aceptar el bono de entrada que ofrece la entidad como garantía",
+        "Verificar en la CNMV que la entidad está autorizada, registrada y supervisada",
+        "Realizar una pequeña inversión de prueba para comprobar si funciona"
+      ],
+      "correct_index": 2,
+      "explanation": "La principal protección es identificar el chiringuito confirmando en la CNMV (teléfono 900 535 015 o su web) que la entidad está debidamente autorizada antes de entregar capital.",
+      "concept_id": "C15"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 6045,
+    "input_tokens": 9033,
+    "output_tokens": 997
+  }
+}

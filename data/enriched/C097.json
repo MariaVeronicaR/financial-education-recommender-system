@@ -1,0 +1,57 @@
+{
+  "content_id": "C097",
+  "tldr": "El tipo de cambio es el valor de una moneda extranjera frente a la nuestra, fluctúa a diario y varía según compres o vendas divisa, además de poder incluir comisiones de la entidad. Desde abril de 2020, la legislación europea obliga a los proveedores a informar de forma clara y previa sobre el tipo de cambio, comisiones y coste total (como porcentaje sobre el tipo de referencia del BCE) al hacer pagos o retirar efectivo en el extranjero. Así, el usuario puede comparar opciones y elegir entre pagar en su propia divisa o en la del comercio, según le convenga.",
+  "key_points": [
+    "El tipo de cambio es el valor de una divisa extranjera respecto a la nuestra; es libre, fluctúa a diario y difiere entre comprar y vender.",
+    "Además del tipo de cambio, la entidad puede aplicar una comisión libre por el servicio de conversión.",
+    "Desde el 19 de abril de 2020, los proveedores deben informar de forma clara y previa al pago del tipo de cambio, las comisiones y el importe total en tu divisa.",
+    "El coste total de la operación se expresa como porcentaje sobre el tipo de referencia del euro publicado por el BCE para facilitar la comparación.",
+    "El usuario puede elegir entre pagar en su propia divisa o en la del comercio/cajero, comparando ambas opciones para decidir cuál le conviene."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué es el tipo de cambio según el contenido?",
+      "options": [
+        "El valor de una moneda extranjera con respecto a nuestra moneda",
+        "La comisión fija que cobran todos los bancos por cambiar dinero",
+        "El impuesto que se paga al comprar divisas en el extranjero",
+        "El precio oficial que fija el Banco Central Europeo cada día"
+      ],
+      "correct_index": 0,
+      "explanation": "El contenido define el tipo de cambio como el valor que una divisa extranjera tiene respecto a nuestra moneda; es libre y fluctúa cada día.",
+      "concept_id": "C17"
+    },
+    {
+      "question": "¿Qué obligación de información tienen los proveedores de cambio de divisas desde abril de 2020?",
+      "options": [
+        "Informar del tipo de cambio y comisiones solo después de completar el pago",
+        "Informar de forma clara y previa al pago del tipo de cambio, comisiones e importe total en tu divisa",
+        "Ofrecer siempre el mejor tipo de cambio del mercado sin comisiones",
+        "Publicar sus tarifas únicamente en su página web"
+      ],
+      "correct_index": 1,
+      "explanation": "La legislación europea exige que el proveedor informe al usuario de forma clara y accesible antes de iniciar el pago del tipo de cambio y las comisiones que aplicará.",
+      "concept_id": "C18"
+    },
+    {
+      "question": "¿Cómo se calcula el coste total de una operación de cambio de divisa para que sea comparable entre proveedores?",
+      "options": [
+        "Como un porcentaje sobre el último tipo de cambio de referencia del euro publicado por el BCE",
+        "Como una tarifa fija en euros idéntica para todos los bancos",
+        "Como la diferencia entre el precio de compra y venta en el mercado negro",
+        "Como un porcentaje sobre el importe total de la compra sin tener en cuenta el tipo de cambio"
+      ],
+      "correct_index": 0,
+      "explanation": "Para que la información sea comparable, el coste total se expresa como porcentaje sobre el último tipo de cambio de referencia del euro publicado por el BCE.",
+      "concept_id": "C17"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5101,
+    "input_tokens": 1998,
+    "output_tokens": 901
+  }
+}

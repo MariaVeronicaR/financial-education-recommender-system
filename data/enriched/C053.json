@@ -1,0 +1,43 @@
+{
+  "content_id": "C053",
+  "tldr": "La digitalización de la banca ofrece oportunidades pero también nuevos riesgos, especialmente el fraude por internet. Para protegerte, es útil conocer los consejos de fuentes oficiales como el Portal del Cliente Bancario y la Policía Nacional.",
+  "key_points": [
+    "La digitalización de los servicios bancarios conlleva tanto oportunidades como nuevos riesgos para los usuarios.",
+    "El fraude por internet es uno de los principales riesgos asociados a la banca digital.",
+    "Existen fuentes oficiales, como el Portal del Cliente Bancario y la Policía Nacional, que publican consejos para prevenir el fraude."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué implica la digitalización de los servicios bancarios para los usuarios?",
+      "options": [
+        "Solo ofrece nuevas oportunidades y elimina todos los riesgos",
+        "Ofrece oportunidades pero también introduce nuevos riesgos, como el fraude por internet",
+        "Solo introduce riesgos y no aporta ninguna ventaja",
+        "No tiene ningún impacto en la forma de operar con el banco"
+      ],
+      "correct_index": 1,
+      "explanation": "El contenido señala que la digitalización es útil por sus oportunidades, pero también advierte de los nuevos riesgos que pueden surgir, como el fraude por internet.",
+      "concept_id": "C29"
+    },
+    {
+      "question": "¿Dónde puedes encontrar información oficial y consejos sobre el fraude por internet en la banca?",
+      "options": [
+        "Solo en redes sociales de influencers",
+        "En el Portal del Cliente Bancario y en los consejos de la Policía Nacional",
+        "Únicamente en foros anónimos de internet",
+        "No existe ninguna fuente oficial sobre este tema"
+      ],
+      "correct_index": 1,
+      "explanation": "El contenido menciona que el Portal del Cliente Bancario publica posts sobre el fraude por internet y que la Policía Nacional ofrece consejos al respecto.",
+      "concept_id": "C15"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 4612,
+    "input_tokens": 1288,
+    "output_tokens": 756
+  }
+}

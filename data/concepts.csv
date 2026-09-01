@@ -1,0 +1,31 @@
+concept_id,concept_name,description,topic,difficulty
+C01,Presupuesto,Planificar ingresos y gastos para equilibrar las finanzas personales,planificación,básico
+C02,Ahorro,Reservar una parte de los ingresos para imprevistos y objetivos futuros,ahorro,básico
+C03,Deuda,Obligación de pago contraída con un acreedor,deuda,básico
+C04,Crédito,Capacidad de obtener dinero prestado con compromiso de devolución,crédito,básico
+C05,Interés simple,Interés calculado únicamente sobre el capital inicial,interés,básico
+C06,Interés compuesto,Interés calculado sobre el capital más los intereses acumulados,interés,intermedio
+C07,Inflación,Aumento generalizado y sostenido de los precios que reduce el poder adquisitivo,inflación,intermedio
+C08,Cuenta bancaria,"Producto financiero para gestionar ingresos, pagos y ahorro",cuentas bancarias,básico
+C09,Tarjeta de crédito,Medio de pago que permite aplazar el cobro con intereses,tarjetas,intermedio
+C10,Préstamo,Cantidad de dinero prestada que se devuelve con intereses en cuotas,préstamos,intermedio
+C11,Hipoteca,Préstamo a largo plazo garantizado con un inmueble,hipotecas,avanzado
+C12,Inversión,Asignación de recursos con el objetivo de obtener rentabilidad futura,inversión,intermedio
+C13,Riesgo financiero,Probabilidad de perder parte o todo el capital invertido,riesgo,intermedio
+C14,Diversificación,Estrategia de repartir el capital entre distintos activos para reducir riesgo,diversificación,intermedio
+C15,Fraude financiero,Engaño para obtener dinero o datos mediante prácticas financieras no autorizadas,fraude,básico
+C16,Planificación financiera,Conjunto de decisiones para alcanzar objetivos financieros a corto/medio y largo plazo,planificación,intermedio
+C17,Tipo de cambio,Relación de valor entre dos monedas distintas,mercado,intermedio
+C18,Comisiones bancarias,Cargos aplicados por entidades por servicios financieros,cuentas bancarias,básico
+C19,Tasa Anual Equivalente (TAE),Indicador que refleja el coste o rendimiento efectivo de un producto financiero en un año,crédito,intermedio
+C20,Producto Interior Bruto (PIB),Valor monetario total de los bienes y servicios producidos en un país,contexto,intermedio
+C21,Impuestos,Aportaciones obligatorias a las administraciones públicas,planificación,intermedio
+C22,Seguros,Productos financieros que cubren riesgos a cambio de una prima,riesgo,intermedio
+C23,Plan de pensiones,Instrumento de ahorro a largo plazo para la jubilación,planificación,avanzado
+C24,Activos financieros,Instrumentos en los que se puede invertir (acciones/bonos/fondos),inversión,avanzado
+C25,Volatilidad,Grado de variación del precio de un activo en el tiempo,riesgo,avanzado
+C26,Fondos de inversión,Instrumento que agrupa el capital de varios inversores para invertir en una cartera diversificada,inversión,avanzado
+C27,Criptomonedas,Activos digitales basados en criptografía que operan en redes descentralizadas,inversión,avanzado
+C28,Educación financiera,Conjunto de conocimientos y habilidades para tomar decisiones financieras informadas,planificación,básico
+C29,Protección de datos,Medidas para salvaguardar la información personal frente a accesos no autorizados,fraude,básico
+C30,Finanzas sostenibles,Decisiones financieras que integran criterios ambientales/sociales y de gobernanza,inversión,avanzado

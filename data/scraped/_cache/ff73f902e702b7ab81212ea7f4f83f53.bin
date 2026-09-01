@@ -1,0 +1,1597 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="eoHiAS2mM+6T0/0h+sEpFVWj+mFHP1CfhAbkznpTXBYuGyiKTHkTlJ26jJclFJYyv+KsVYlaguHWh8eEQ5XfBw==" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="turbolinks-visit-control" content="reload" />
+    <meta name="turbolinks-cache-control" content="no-cache" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Prefetch DNS for external assets -->
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+    <link rel="dns-prefetch" href="//cdn.jsdeliver.net">
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+    <link rel="dns-prefetch" href="//www.google-analytics.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+
+    <link rel="alternate" hreflang="x-default" href="" />
+
+    <title>¿Cómo cuidar tu entorno personal y financiero? - Finanzas para todos</title>
+
+
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+
+<!-- OpenGraph meta tags -->
+<meta property="og:title" content="¿Cómo cuidar tu entorno personal y financiero? - Finanzas para todos" >
+<meta property="og:description" content="" />
+<meta property="og:url" content="https://www.finanzasparatodos.es/como-cuidar-tu-entorno-personal-y-financiero-hogar?mdrv=www.finanzasparatodos.es" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="¿Cómo cuidar tu entorno personal y financiero? - Finanzas para todos" />
+<meta name="twitter:description" content="" />
+
+
+
+    
+    
+    <link rel="icon" type="image/png" href="/system/themes/favicons/000/000/001/icon_16/favicon.png?1623999802" sizes="16x16">
+<link rel="icon" type="image/png" href="/system/themes/favicons/000/000/001/icon_32/favicon.png?1623999802" sizes="32x32">
+<link rel="icon" type="image/png" href="/system/themes/favicons/000/000/001/icon_96/favicon.png?1623999802" sizes="48x48">
+<link rel="icon" type="image/png" href="/system/themes/favicons/000/000/001/icon_96/favicon.png?1623999802" sizes="96x96">
+<link rel="icon" type="image/png" href="/system/themes/favicons/000/000/001/icon_128/favicon.png?1623999802" sizes="128x128" />
+<link rel="icon" type="image/png" href="/system/themes/favicons/000/000/001/icon_196/favicon.png?1623999802" sizes="196x196" />
+<link rel="apple-touch-icon" sizes="57x57" href="/system/themes/favicons/000/000/001/apple_57/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="114x114" href="/system/themes/favicons/000/000/001/apple_114/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="72x72" href="/system/themes/favicons/000/000/001/apple_72/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="144x144" href="/system/themes/favicons/000/000/001/apple_144/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="60x60" href="/system/themes/favicons/000/000/001/apple_60/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="120x120" href="/system/themes/favicons/000/000/001/apple_120/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="76x76" href="/system/themes/favicons/000/000/001/apple_76/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="152x152" href="/system/themes/favicons/000/000/001/apple_152/favicon.png?1623999802">
+<meta name="application-name" content=""/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="/system/themes/favicons/000/000/001/microsoft_144_144/favicon.png?1623999802" />
+<meta name="msapplication-square70x70logo" content="/system/themes/favicons/000/000/001/microsoft_70_70/favicon.png?1623999802" />
+<meta name="msapplication-square150x150logo" content="/system/themes/favicons/000/000/001/microsoft_150_150/favicon.png?1623999802" />
+<meta name="msapplication-wide310x150logo" content="/system/themes/favicons/000/000/001/microsoft_310_150/favicon.png?1623999802" />
+<meta name="msapplication-square310x310logo" content="/system/themes/favicons/000/000/001/microsoft_310_310/favicon.png?1623999802" />
+
+
+    <link rel="stylesheet" media="screen" href="/assets/bran-debb89733483192c11a3f7b9c8222fc2668ae7b3d25f0e85714df44e2eef0f93.css" />
+    <script src="/assets/bran-60b10e6d9311277f3705ea822157903aa9656b447d433a68a4c5962d54b4e2c4.js" data-turbolinks-track="reload"></script>
+    <script src="/assets/vue-a39105980ecfdd5de117fa346346b7d5d52ae2093a595756b2c8633211cc60e5.js" data-turbolinks-track="reload"></script>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css">
+    <script src="https://kit.fontawesome.com/ab5948c228.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap" rel="stylesheet">
+
+    <!-- Minified version of `es6-promise-auto` below. -->
+    <link rel="stylesheet" media="all" href="/assets/application-198f7990a1fa6c6c76c8971a0703979c681f4e053ea529e42f2fa15c481b3a57.css" />
+    <link rel="stylesheet" media="print" href="/assets/print-374cb3225461848bff5a26e6e20d7e27cb45f8938ec02215f8a83f3b832ebb73.css" />
+    <link rel="stylesheet" media="all" href="/assets/calculators/budget-8236363937c653255688bfb856f76e9425369c7c8d57af3bdf5fbbe383d4eff4.css" />
+    <script src="/assets/es6-promise.min-173deb7f35e65fb560772937033e0c20de960a3298b26aea613550bd52c1416a.js" data-turbolinks-track="reload"></script>
+    <script src="/assets/application-da106754795db4befd4f298786ba2785c5d355a713cf32ee3e10aaef5ffc24f9.js" data-turbolinks-track="reload"></script>
+
+      <link rel="stylesheet" media="all" href="/assets/vue_components/components-abd5cf45a1ab606e2b1f747e63eff4c7df3e2837051e83a72ff554c91472ccd4.css" />
+      <script src="/assets/vue_components/components-f8a1ae606e36089235ee36dd66f5bf3be1559f0d98aa67b17fca11334c18c7d1.js"></script>
+
+
+      <script type="text/javascript" data-turbolinks="false">
+        if( Cookies != undefined ) {
+          if (Cookies.get('analitica') != undefined && Cookies.get('analitica') != '') {
+            document.write("<scri" + "pt async src=https://www.googletagmanager.com/gtag/js?id=UA-16149208-1></scri" + "pt>")
+            document.write("<scri" + "pt>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-16149208-1');</scri" + "pt>");
+
+            document.write("<scri" + "pt async src=https://www.googletagmanager.com/gtag/js?id=AW-16490246036></scri" + "pt>")
+            document.write("<scri" + "pt>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'AW-16490246036');</scri" + "pt>");
+          }
+        }
+      </script>
+
+      <!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '422038013715751'); fbq('track', 'PageView');
+</script>
+
+<noscript>
+    <img height="1" width="1" style="display:none" src=https://www.facebook.com/tr?id=422038013715751&ev=PageView&noscript=1 />
+</noscript>
+<!-- End Meta Pixel Code -->
+
+    
+    
+    
+    
+    
+    <style type="text/css">
+  .c-box__herramienta .c-budget__row {
+      flex-direction: column;
+    }
+@media (min-width: 1024px) {
+ 
+ .c-box__herramienta .c-budget__row {
+        flex-direction: row;
+      }
+  }
+
+  .visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    -webkit-
+ clip-path: inset(50%);
+    clip-path: inset(50%);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width:
+ 1px;
+    white-space: nowrap;
+  }
+  .c-box__herramienta .c-budget__row {
+      flex-direction: column;
+    }
+@media (min-width: 1024px) {
+    .c-box__herramienta .c-budget__row {
+        flex-direction: row;
+      }
+  }
+ 
+  html[lang="en"] .c-header__top_der {
+    display: none; !important;
+  }
+
+  
+</style>
+    <script src="/assets/chart-fee081ed1e1d5304e4e9a79e5caf917c4bc6eddc5baaa34d37849b4eabdd4e43.js"></script>
+    <script type="text/javascript">
+      $(document).on('turbolinks:load', function(){ images_lazy_loading(); });
+    </script>
+  </head>
+
+  <body class="t-por-defecto
+               
+               "
+        data-controller-name="content_localizeds"
+        data-action-name="show"
+        data-id="21">
+    <a class="visually-hidden-focusable visuallyhidden" href="#content">Saltar al contenido principal</a>
+    
+
+    
+
+
+
+      
+<div class="wrapper c-template--home" id="wrapper">
+  <header class="c-header" data-spy="affix" data-offset-top="1">
+    <div class="c-header__top">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col col-12 u-align--space">
+            <div class="c-header__logo">
+                <div class="c-header__logo">
+    <a title="Finanzas para todos" href="/">
+      <img class="positive" alt="" src="/system/themes/logos/000/000/001/original/finanzas.png?1614951093" />
+      <img class="negative" alt="" src="/system/themes/logo_negatives/000/000/001/original/finanzas_affix.png?1614951096" />
+      
+</a>  </div>
+
+            </div>
+
+            <div class="c-header__top_center">
+                <nav class="c-header__nav navbar navbar-expand-md navbar-dark">
+    <button id="burger" class="open-main-nav navbar-toggler collapsed" type="button">
+      <span class="sr-only">Menú de navegación</span> <span class="burger navbar-toggler-icon"></span>
+    </button>
+
+    <div class="navbar-collapse collapse" id="navbarsExampleDefault" style="">
+      
+  <ul class="navbar-nav">
+
+        <li class="nav-item first-level  with--children">
+          <a class="no-link" aria-haspopup="true" aria-controls="submenu-5" aria-expanded="false" rel="" accesskey="" aria-expanded="false" href="/descubre">Descubre</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-5">
+                <a class="c-secondary__menu_close" href="#">
+                  <i class="fa fa-times" aria-hidden="true"></i> Cerrar
+</a>              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="a" href="/como-esta-tu-salud-financiera"><span>1</span>¿Cómo está tu salud financiera?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="b" href="/como-elaborar-un-presupuesto"><span>2</span>¿Cómo elaborar tu presupuesto?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="c" href="/c-mo-gestionar-mis-deudas"><span>3</span>¿Cómo gestionar tus deudas?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  with--children">
+          <a class="nav-link" aria-haspopup="true" aria-controls="submenu-12" aria-expanded="false" rel="" accesskey="d" href="/como-cuidar-tu-entorno"><span>4</span>¿Cómo cuidar tu entorno personal y financiero?</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-12">
+              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-banco-yo">El banco y yo</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-trabajo">El trabajo</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-hogar">El hogar</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-mi-pareja">La pareja</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-familia">La familia</a>
+
+
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="e" href="/como-preparar-mi-jubilacion"><span>5</span>¿Cómo preparar tu jubilación?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="f" href="/c-mo-invertir-tu-dinero"><span>6</span>¿Cómo invertir tu dinero?</a>
+
+
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+
+        <li class="nav-item first-level  with--children">
+          <a class="no-link" aria-haspopup="true" aria-controls="submenu-4" aria-expanded="false" rel="" aria-expanded="false" href="/participa">Participa</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-4">
+                <a class="c-secondary__menu_close" href="#">
+                  <i class="fa fa-times" aria-hidden="true"></i> Cerrar
+</a>              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="g" href="/red-de-colaboradores"><span><i class="fas fa-handshake"></i></span>Red del Plan</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="external" accesskey="h" href="/diadelaeducacionfinanciera"><span><i class="fas fa-user-graduate"></i></span>Día de la Educación Financiera</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="i" href="/premios-de-educacion-financiera"><span><i class="fas fa-award"></i></span>Premios de Educación Financiera</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="k" href="/participa/concurso-escolar-de-educacion-financiera"><span><i class="fas fa-trophy"></i></span>Concurso Escolar de Educación Financiera</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  with--children">
+          <a class="nav-link" aria-haspopup="true" aria-controls="submenu-145" aria-expanded="false" rel="" href="/participa/profesores"><span><i class="fa-solid fa-person-chalkboard"></i></span>Profesores</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-145">
+              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="" href="/participa/profesores/primaria">Primaria</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="" href="/participa/profesores/secundaria">ESO, Bachillerato y FP</a>
+
+
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+
+        <li class="nav-item first-level  with--children">
+          <a class="no-link" aria-haspopup="true" aria-controls="submenu-3" aria-expanded="false" rel="" aria-expanded="false" href="/aprende">Aprende</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-3">
+                <a class="c-secondary__menu_close" href="#">
+                  <i class="fa fa-times" aria-hidden="true"></i> Cerrar
+</a>              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="l" href="/herramientas"><span><i class="fas fa-tools"></i></span>Herramientas</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="m" href="/videos"><span><i class="fas fa-play-circle"></i></span>Vídeos</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="n" href="/podcasts"><span><i class="fas fa-microphone"></i></span>Podcasts</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="o" href="/guias"><span><i class="fas fa-book-open"></i></span>Guías</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="p" href="/cursos-y-webinars"><span><i class="fas fa-laptop"></i></span>Cursos y webinars</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="q" href="/glosario"><span><i class="fas fa-sort-alpha-down-alt"></i></span>Glosario</a>
+
+
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+
+        <li class="nav-item first-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="q" href="/quienes-somos">Quiénes somos</a>
+
+
+
+        </li>
+
+        <li class="nav-item first-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="r" href="/blog">Blog</a>
+
+
+
+        </li>
+
+        <li class="nav-item first-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="s" href="/notas-de-prensa">Notas de Prensa</a>
+
+
+
+        </li>
+  </ul>
+
+    </div>
+  </nav>
+
+            </div>
+
+            <div class="c-header__top_der">
+              <div class="c-user__login js--user-login"></div>
+              <a class="form-inline form-navbar my-2 my-lg-0 js--search" href="/site/1/lang/es/search">
+  <span class="u-hidden">Buscar</span> <i class="fas fa-search" aria-hidden="true"></i> <span class="sr-only">Buscador</span>
+</a>
+<div class="c-search__modal js--search-modal u-hidden">
+  <a class="js--close-search-modal" href="/site/1/lang/es/search">
+    Salir <i class="fas fa-times"></i>
+</a>  
+  <form class="c-form" action="/site/1/lang/es/search" accept-charset="UTF-8" method="get">
+    <p><span class="u-h3">Encuentra lo que estás buscando</span></p>
+
+    <label for="modal_search">
+      ¿Qué estás buscando?
+      <input type="text" name="search" id="modal_search" class="form-control" placeholder="Fondos de inversión, ahorros, presupuestos ..." />
+</label>
+    <label for="category_ids_">
+      Categoría
+      <select name="category_ids[]" id="category_ids_" class="form-control"><option value="">Categoría</option><option value="1">Planificación y presupuesto</option>
+<option value="2">Endeudamiento</option>
+<option value="3">Productos y operaciones bancarias</option>
+<option value="4">Ahorro e inversión</option>
+<option value="5">Seguros y jubilación</option>
+<option value="6">Reclamaciones y fraude</option>
+<option value="7">Hogar</option>
+<option value="8">Jubilación</option>
+<option value="9">Criptomonedas</option></select>
+</label>
+    <div class="u-text--right">
+      <button name="button" type="submit" class="btn btn--submit" data-disable-with="Buscando ..." value="Buscar">
+        <i class="fas fa-search" aria-hidden="true"></i>  Buscar
+</button>    </div>
+</form></div>
+                <div class="c-language__selector">
+    <div class="dropdown show">
+      <a class="dropdown-toggle" href="#" role="button" id="language-selector" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-controls="language-selector-menu" aria-label="Cambiar idioma">
+        <span class="name">es</span>
+      </a>
+
+      <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="language-selector" id="language-selector-menu" role="menu" lang="es">
+          <li>
+            <a class="dropdown-item" title="" role="menuitem" href="/ca/inici">
+              <span class="name">Catalán</span>
+</a>          </li>
+          <li>
+            <a class="dropdown-item" title="" role="menuitem" href="/eu/hasiera">
+              <span class="name">Euskera</span>
+</a>          </li>
+          <li>
+            <a class="dropdown-item" title="" role="menuitem" href="/ga/inicio">
+              <span class="name">Gallego</span>
+</a>          </li>
+          <li>
+            <a class="dropdown-item" title="" role="menuitem" href="/va/inici">
+              <span class="name">Valenciano</span>
+</a>          </li>
+      </ul>
+    </div>
+  </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main id="content">
+      
+  <section class="c-breadcrumbs">
+    <div class="container">
+      <div class="row">
+        <div class="col col-sm-12" role="navigation" aria-label="Migas de pan">
+          <ul>
+              <li>
+                <a href="/">
+                  <i class="fas fa-home"></i> Inicio
+</a>                <span class="c-breadcrumbs__separator"></span>
+              </li>
+
+
+              <li aria-current="page">¿Cómo cuidar tu entorno personal y financiero?</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+      <section class="u-primary--background c-header_image_container " 
+           style="background: url(/system/cms_multimedia/cms_medias/files/000/000/045/original/fondo_entorno.jpg?1618212599) 50% 0 / cover no-repeat;">
+    <div class="header_image">
+      <div class="container ">
+        <h1>¿Cómo cuidar tu entorno personal y financiero?</h1>
+          <p>El hogar</p>
+
+      </div>
+    </div>
+  </section>
+
+
+                
+
+
+              
+
+
+
+<link rel='stylesheet' href='/contents/css/21/1664464537.css' />
+
+              <section class="u-relative dot-animation "
+         data-content-embedded-section-id="374"
+         
+         >
+
+
+    <div class="dot-animation container u-container--fluid  "
+  data-content-embedded-row-id="510"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 "
+     data-content-embedded-column-id="795"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="881" 
+      >
+  
+  <div class="c-sticky__anchor_tags c-menu-fix ">
+  <div class="container">
+    <div class="c-content-menu">
+        
+        <div class="item">
+          <a href="#comprar-o-alquilar" data-index="0">
+            ¿Comprar o alquilar?
+          </a>
+        </div>
+        
+        <div class="item">
+          <a href="#hipoteca" data-index="1">
+            La Hipoteca
+          </a>
+        </div>
+
+      <div class="anchor__navigation__line"></div>
+    </div>
+  </div>
+
+  <div class="c-sticky__select js--sticky__select">
+    <a class="link-hide" href="/cerrar">El hogar</a>
+
+    <ul class="hide">
+        <li>
+          <a href="#comprar-o-alquilar" data-index="0">
+            ¿Comprar o alquilar?
+          </a>
+        </li>
+        <li>
+          <a href="#hipoteca" data-index="1">
+            La Hipoteca
+          </a>
+        </li>
+    </ul>
+  </div>
+</div>
+
+</div>
+
+</div>
+  </div>
+</div>
+
+
+</section>
+
+  <section class="u-relative dot-animation c-banda-intro "
+         data-content-embedded-section-id="90"
+         id=comprar-o-alquilar
+         >
+
+
+    <div class="dot-animation container  "
+  data-content-embedded-row-id="117"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 col-md-5 "
+     data-content-embedded-column-id="168"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="215" 
+      >
+  
+  <p><img alt=""  loading="lazy" src="/system/cms_multimedia/cms_medias/files/000/000/048/original/foto_comprar_alquilar.jpg?1618217357">​​​​​​​</p>
+</div>
+
+</div>
+      <div class="dot-animation col col-12 col-md-6 "
+     data-content-embedded-column-id="169"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="216" 
+      >
+  
+  <div class="u-blue-light--background"><p><span class="u-h5">¿Comprar o alquilar?</span></p><p>La compra de una vivienda para residencia habitual es una de las decisiones financieras más importante de nuestras vidas, ya que tiene un efecto muy significativo sobre nuestra economía. Por ello, es relevante que valores tus circunstancias antes de tomar una decisión.</p></div>
+</div>
+
+</div>
+  </div>
+</div>
+
+
+</section>
+
+  <section class="u-relative dot-animation c-banda-border "
+         data-content-embedded-section-id="91"
+         
+         >
+
+
+    <div class="dot-animation container u-container--herramienta  "
+  data-content-embedded-row-id="118"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 "
+     data-content-embedded-column-id="170"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="217" 
+      >
+  
+  <ul class="nav nav-tabs c-tab--left" role="tablist">
+
+    <li class="nav-item" role="presentation">
+      <a class="nav-link active" 
+         id="tab-1618995134" 
+         data-bs-toggle="tab" 
+         data-tab="1618995134"
+         href="#alquilar" 
+         role="tab" 
+         aria-controls="evitar" 
+         aria-selected="true">
+        Alquilar
+      </a>
+    </li>
+    
+    <li class="nav-item" role="presentation">
+      <a class="nav-link " 
+         id="tab-1618995138" 
+         data-bs-toggle="tab" 
+         data-tab="1618995138"
+         href="#comprar" 
+         role="tab" 
+         aria-controls="evitar" 
+         aria-selected="true">
+        Comprar
+      </a>
+    </li>
+    
+</ul>
+
+<div class="tab-content">
+    <div class="tab-pane fade show active" id="alquilar" role="tabpanel" aria-labelledby="tab-1618995134" data-tab="1618995134">
+      <div class="row">
+        <div class="col col-12">
+          <p>En ocasiones es posible acceder a <a  href="https://www.mitma.gob.es/arquitectura-vivienda-y-suelo/programas-de-ayudas-a-la-vivienda" target="_blank">determinadas ayudas</a> que tratan de facilitar la compra o el alquiler de la vivienda habitual.</p><p>Hay quien piensa que alquilar es tirar el dinero, pero recuerda que el alquiler también tiene ventajas. Ser propietario supone, además de las cuotas de la hipoteca, una serie de gastos que ni se recuperan ni aportan ninguna ventaja fiscal. Seguros de hogar, impuestos, mantenimiento y gastos de comunidad representan importantes desembolsos a los que está obligado el dueño. Cuando se vive de alquiler, estos gastos suelen cubrirlos los caseros. En ocasiones es posible acceder a determinadas ayudas que tratan de facilitar la compra o el alquiler de la vivienda habitual.</p>
+        </div>
+      </div>
+    </div>
+      
+    <div class="tab-pane fade show " id="comprar" role="tabpanel" aria-labelledby="tab-1618995138" data-tab="1618995138">
+      <div class="row">
+        <div class="col col-12">
+          <p>Comprar una vivienda depara muchas ventajas. La primera, que normalmente es una buena inversión a largo plazo. Las mensualidades de la hipoteca te obligan a ahorrar todos los meses y, al cabo de 20 o 30 años, poseerás plenamente un bien que tiene mucho valor y siempre tiene un mercado en que poderlo vender. A partir de entonces, no pagarás ni cuotas ni alquileres y, si es necesario, podrás utilizar la vivienda para financiar tu jubilación u otro gasto importante.</p><p>Eso sí, una vivienda en propiedad ata mucho a sus dueños. No te sentirás con la misma libertad si tienes que cambiar de residencia por razones familiares o laborales.</p><div class="u-orange-light--background"><p><strong>Si te planteas comprar</strong>, piensa que al precio de venta de la casa hay que añadir una serie de gastos asociados a la compraventa y formalización del préstamo hipotecario, como la tasación, la verificación registral, la comisión de apertura o subrogación y el seguro de incendio y de protección de pagos.</p></div>
+        </div>
+      </div>
+    </div>
+      
+</div>
+</div>
+
+</div>
+  </div>
+</div>
+
+
+</section>
+
+  <section class="u-relative dot-animation u-primary--background "
+         data-content-embedded-section-id="92"
+         
+         >
+
+
+    <div class="dot-animation container  "
+  data-content-embedded-row-id="119"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 col-md-5 "
+     data-content-embedded-column-id="171"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="218" 
+      >
+  
+  <p><br></p><p><span class="u-h2">¿No te decides entre comprar o alquilar? Prueba nuestra calculadora</span></p><p>Esta calculadora compara los costes de alquiler y compra de una vivienda, según los años que piensas quedarte en la casa. No olvides considerar también las deducciones fiscales para tu caso particular.</p><p class="u-separator-text"><br></p><p><a class="c-button__primary"  href="/herramientas/comprar-o-alquilar">Herramienta Comprar o Alquilar</a></p>
+</div>
+
+</div>
+      <div class="dot-animation col col-12 col-md-6 "
+     data-content-embedded-column-id="172"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="219" 
+      >
+  
+  <p><img alt=""  loading="lazy" src="/system/cms_multimedia/cms_medias/files/000/000/046/original/foto_comprar_alquilar.png?1618216822" style="float: right;"></p>
+</div>
+
+</div>
+  </div>
+</div>
+
+
+</section>
+
+  <section class="u-relative dot-animation "
+         data-content-embedded-section-id="64"
+         
+         >
+
+
+    <div class="dot-animation container  "
+  data-content-embedded-row-id="80"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 "
+     data-content-embedded-column-id="117"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="157" 
+      >
+  
+  <p style="text-align: center;"><span class="u-h2">Antes de decidir, debes tener en cuenta…</span></p>
+</div>
+
+</div>
+  </div>
+</div>
+
+  <div class="dot-animation container u-container--medium  "
+  data-content-embedded-row-id="81"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 "
+     data-content-embedded-column-id="118"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="158" 
+      >
+  
+  
+<div class="c-references__collapses">
+  <div class="accordion panel-group index-list-collapse" id="accordion-1618216962">
+      <div class="panel panel-default">
+        <div id="heading-1618216962" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1618216962" aria-expanded="true" aria-controls="collapse-1618216962">
+              ¿Cuánto tiempo piensas vivir en la vivienda? - El factor determinante
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1618216962" class="panel-collapse collapse" aria-labelledby="heading-1618216962" data-parent="#accordion-1618216962">
+          <div class="panel-body">
+            <p>Los gastos totales de la operación suponen, de media, alrededor del 10% del importe financiado. Es decir, para una hipoteca de 200.000 € tendrías que desembolsar unos 20.000 € en gastos no recuperables (además de la entrada y del IVA). ¿Cuántos meses de alquiler representa ese importe?</p><p>Ten en cuenta que estos gastos de hipoteca se pagan en el momento de formalizar el préstamo, independientemente de si te vas a quedar en la casa durante un año o treinta. Además, durante los primeros años de la hipoteca estarás pagando sobre todo intereses (también son gastos), sin apenas amortizar el capital.</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1618216974" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1618216974" aria-expanded="true" aria-controls="collapse-1618216974">
+              ¿Alquiler con opción de compra?
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1618216974" class="panel-collapse collapse" aria-labelledby="heading-1618216974" data-parent="#accordion-1618216962">
+          <div class="panel-body">
+            <p>El alquiler con opción de compra puede ser una alternativa muy interesante.</p><p>Muchos promotores y propietarios de pisos no consiguen vender sus casas y en vez de dejarlas vacías, mientras tienen que pagar las hipotecas, acogen a un inquilino durante un cierto periodo de tiempo, normalmente entre dos y cinco años, que tiene la opción de adquirirla pasado ese tiempo. La gran ventaja es que todo el dinero desembolsado en concepto de alquiler se deduce del precio de la vivienda si ejerces tu opción de compra.</p><p>Para más información puedes consultar la página web del <a  target="_blank" href="https://www.mitma.gob.es/vivienda">Ministerio de Transportes, Movilidad y Agenda Urbana</a>.</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1618217006" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1618217006" aria-expanded="true" aria-controls="collapse-1618217006">
+              ¿Qué vivienda puedes permitirte?
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1618217006" class="panel-collapse collapse" aria-labelledby="heading-1618217006" data-parent="#accordion-1618216962">
+          <div class="panel-body">
+            <p>Conoce cuánto tendrás que pagar todos los meses en concepto de la cuota de la hipoteca, para determinar si encaja con tu capacidad de endeudamiento.</p><p>Además, antes de nada, debes saber si cuentas con los ahorros suficientes para adquirir una vivienda. Muchos se limitan a calcular la cuota de la hipoteca y se olvidan de que es necesaria una buena cantidad de dinero líquido para pagar la entrada de la vivienda.</p><p>Cuenta con que la entrada representa en torno al 20% del precio total de la vivienda. Las entidades financieras suelen prestar el 80% del valor de tasación de la casa. Fíjate que hemos dicho del valor de tasación y no del precio de la vivienda. Es decir, si compras a buen precio puede ser que el 80% del valor de tasación sea más que el 80% del precio. Si compras a un precio mayor que el valor de tasación posiblemente tendrás que aportar más del 20% del precio de venta.</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1618216981" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1618216981" aria-expanded="true" aria-controls="collapse-1618216981">
+              ¿Qué cuota puedes pagar?
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1618216981" class="panel-collapse collapse" aria-labelledby="heading-1618216981" data-parent="#accordion-1618216962">
+          <div class="panel-body">
+            <p>La cuota de la hipoteca probablemente representará el mayor gasto mensual de la familia, pero no será el único. Una medida muy utilizada para determinar el tope que podrás pagar de cuota es la capacidad de endeudamiento.</p><p>La capacidad de endeudamiento es el porcentaje de tus ingresos netos que puedes destinar al pago de deudas, con sus correspondientes intereses, sin comprometer seriamente la seguridad económica de tu familia.</p><p>Los expertos coinciden en que la totalidad de cuotas mensuales destinadas a pagar deudas no debería nunca sobrepasar el 40% de los ingresos netos mensuales. Es decir, que una familia necesita disponer, como mínimo, del 60% de sus ingresos netos mensuales para poder comer, vestirse, pagar las facturas y, con un poco de planificación, ahorrar algo cada mes.</p><p>Pero cuidado: ese 40% es el límite máximo recomendado de endeudamiento total, incluyendo las cuotas de las demás deudas pendientes como préstamos personales, el préstamo del coche, las compras que se han hecho a plazos y la cuota a pagar de tarjetas de crédito.</p><p>Otros expertos rebajan el límite máximo de endeudamiento a un 35% de los ingresos y el de la hipoteca, a un 30%.</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1618216986" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1618216986" aria-expanded="true" aria-controls="collapse-1618216986">
+              Valora tus opciones
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1618216986" class="panel-collapse collapse" aria-labelledby="heading-1618216986" data-parent="#accordion-1618216962">
+          <div class="panel-body">
+            <p>Te invitamos a hacer simulaciones para determinar la cuota mensual de hipoteca que podrías pagar sin sobrepasar los límites de endeudamiento recomendados. Si encuentras que no puedes asumir la cuota, tienes varias opciones:</p><ul><li>Aplazar la compra hasta que hayas reducido tus otras deudas pendientes.</li><li>Aplazar la compra hasta que dispongas de mayores ingresos.</li><li>Aplazar la compra hasta que hayas ahorrado lo suficiente para pagar mayor entrada (y así necesitar menos financiación).</li><li>Intentar conseguir una hipoteca a menor tipo de interés.</li><li>Comprar una vivienda más barata.</li></ul>
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+</div>
+
+</div>
+  </div>
+</div>
+
+
+</section>
+
+  <section class="u-relative dot-animation u-primary--background "
+         data-content-embedded-section-id="65"
+         id=hipoteca
+         >
+
+
+    <div class="dot-animation container  "
+  data-content-embedded-row-id="82"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 col-md-6 "
+     data-content-embedded-column-id="119"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="159" 
+      >
+  
+  <p><img alt=""  loading="lazy" src="/system/cms_multimedia/cms_medias/files/000/000/047/original/foto_modalidades.png?1618216824">​​​​​​​</p>
+</div>
+
+</div>
+      <div class="dot-animation col col-12 col-md-5 "
+     data-content-embedded-column-id="120"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="160" 
+      >
+  
+  <p id="hipoteca" name="hipoteca"><span class="u-h2">Hipoteca</span></p><p>El tipo de interés es el precio que las entidades cobran por prestar su dinero. Los bancos pueden conceder préstamos hipotecarios a un tipo de interés:</p><ul><li>Fijo</li><li>Variable</li><li>Mixto</li></ul><p class="u-separator-text"><br></p><p><a class="c-button__primary"  href="/modalidades-de-pr-stamos-hipotecarios" target="_blank">Seguir leyendo</a></p>
+</div>
+
+</div>
+  </div>
+</div>
+
+
+</section>
+
+  <section class="u-relative dot-animation "
+         data-content-embedded-section-id="66"
+         
+         >
+
+
+    <div class="dot-animation container u-container--herramienta  without--margin "
+  data-content-embedded-row-id="84"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 "
+     data-content-embedded-column-id="122"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="162" 
+      >
+  
+  <ul class="nav nav-tabs c-tab--left" role="tablist">
+
+    <li class="nav-item" role="presentation">
+      <a class="nav-link active" 
+         id="tab-1618217467" 
+         data-bs-toggle="tab" 
+         data-tab="1618217467"
+         href="#la-hipoteca" 
+         role="tab" 
+         aria-controls="evitar" 
+         aria-selected="true">
+        La hipoteca
+      </a>
+    </li>
+    
+    <li class="nav-item" role="presentation">
+      <a class="nav-link " 
+         id="tab-1618217475" 
+         data-bs-toggle="tab" 
+         data-tab="1618217475"
+         href="#el-seguro-de-hogar" 
+         role="tab" 
+         aria-controls="evitar" 
+         aria-selected="true">
+        El seguro de hogar
+      </a>
+    </li>
+    
+    <li class="nav-item" role="presentation">
+      <a class="nav-link " 
+         id="tab-1618217484" 
+         data-bs-toggle="tab" 
+         data-tab="1618217484"
+         href="#vivienda-protegida" 
+         role="tab" 
+         aria-controls="evitar" 
+         aria-selected="true">
+        Vivienda protegida
+      </a>
+    </li>
+    
+</ul>
+
+<div class="tab-content">
+    <div class="tab-pane fade show active" id="la-hipoteca" role="tabpanel" aria-labelledby="tab-1618217467" data-tab="1618217467">
+      <div class="row">
+        <div class="col col-12">
+          <p>Es la opción más utilizada para acceder a una vivienda en propiedad. Sin embargo, no todos los préstamos hipotecarios son iguales, y puesto que su peso en el presupuesto familiar se hará sentir durante bastante tiempo, es necesario analizar con cuidado las opciones.</p><p>Para la concesión de un préstamo hipotecario, las entidades exigen como garantía, además de la personal de quien lo solicita, el propio inmueble, que pasará a ser propiedad de la entidad financiera en caso de impago.</p><p>Esta garantía real dota de mayor seguridad a la operación, lo que significa menos riesgo para las entidades que prestan el dinero. Por ello, en comparación con los préstamos personales, los tipos que se cobran son más bajos y los plazos para su devolución mucho más largos.</p>
+        </div>
+      </div>
+    </div>
+      
+    <div class="tab-pane fade show " id="el-seguro-de-hogar" role="tabpanel" aria-labelledby="tab-1618217475" data-tab="1618217475">
+      <div class="row">
+        <div class="col col-12">
+          <p>Al comprar una vivienda hay que contratar al menos un seguro de incendios. Además, hay otros seguros destinados a cubrir algunos de los problemas que se pueden presentar. </p><p>Básicamente, se comercializan cuatro tipos de seguros asociados a préstamos hipotecarios. </p><ul class="c-list-dash"><li>Seguro de daños sobre el inmueble hipotecado.</li><li>Seguros de amortización de préstamos.</li><li>Seguros de protección de pagos/préstamos.</li><li>Seguros de riesgo de fallecimiento o incapacidad.</li></ul>
+        </div>
+      </div>
+    </div>
+      
+    <div class="tab-pane fade show " id="vivienda-protegida" role="tabpanel" aria-labelledby="tab-1618217484" data-tab="1618217484">
+      <div class="row">
+        <div class="col col-12">
+          <p>Las ayudas públicas para la adquisición de una vivienda se concentran para el acceso a la vivienda protegida (Viviendas de Protección Oficial, de precio tasado o limitado, autopromovidas o autoconstruidas) y a convenios firmados entre comunidades autónomas y ayuntamientos.</p><div class="u-orange-light--background"><p>Las <strong>Viviendas de Protección Oficial (VPO)</strong>, son aquellas construidas con arreglo a la normativa en vigor para la promoción y adquisición de viviendas. Se venden a un precio máximo fijado por la Administración, por debajo del precio de mercado para casas similares de promoción libre. Además, ofrecen otras ventajas como reducciones del IVA y bonificaciones en aranceles y honorarios de notarios y registradores.</p></div><p>Se destinan a jóvenes que acceden por primera vez a una vivienda, familias numerosas con ingresos bajos y unidades familiares en general que no superan ciertos límites de renta. La renta máxima para el acceso a una VPO es de 5,5 veces el salario mínimo. La superficie útil de las viviendas protegidas tiene un límite máximo y suele ser de 90 m2, o 120 m2 para familias numerosas.</p><p>La oferta de Viviendas de Protección Oficial depende de la Comunidad Autónoma.</p>
+        </div>
+      </div>
+    </div>
+      
+</div>
+</div>
+
+</div>
+  </div>
+</div>
+
+
+</section>
+
+  <section class="u-relative dot-animation c-banda-border "
+         data-content-embedded-section-id="385"
+         
+         >
+
+
+    <div class="dot-animation container u-container--herramienta  "
+  data-content-embedded-row-id="527"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 "
+     data-content-embedded-column-id="812"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="909" 
+      >
+  
+  <p style="text-align: center;"><span class="u-h2">Todo sobre los seguros del hogar...</span></p>
+</div>
+
+</div>
+  </div>
+</div>
+
+  <div class="dot-animation container u-container--medium  "
+  data-content-embedded-row-id="528"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 "
+     data-content-embedded-column-id="813"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="910" 
+      >
+  
+  
+<div class="c-references__collapses">
+  <div class="accordion panel-group index-list-collapse" id="accordion-1626082493">
+      <div class="panel panel-default">
+        <div id="heading-1626082493" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1626082493" aria-expanded="true" aria-controls="collapse-1626082493">
+              Seguro de daños sobre el inmueble hipotecado
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1626082493" class="panel-collapse collapse" aria-labelledby="heading-1626082493" data-parent="#accordion-1626082493">
+          <div class="panel-body">
+            <p>Cuando se solicita un préstamo hipotecario, la entidad de crédito puede condicionar la concesión del mismo a la suscripción de un seguro contra daños normalmente por un importe del valor de tasación del inmueble (excluido el valor del suelo, que no es asegurable), ya que si el inmueble que actúa como garantía de cobro para la entidad de crédito se destruyese, dicha garantía desaparecería, por lo que la existencia de un seguro de daños sobre el bien evita esta situación. </p><p>Este seguro es obligatorio a la hora de contratar una hipoteca y tiene por finalidad indemnizar al propietario de los posibles daños que pueda sufrir el inmueble hipotecado, por determinadas causas (incendio, daños por agua, etc...) establecidas en el contrato de seguro.  </p><p>No obstante, lo más habitual es que el seguro contenga, además de la cobertura de daños al inmueble (continente), otras garantías, como la de daños que puedan sufrir los bienes que se encuentran dentro de la vivienda (contenido); la responsabilidad civil del propietario, o la defensa jurídica, entre otras. </p><p>Estos seguros son conocidos comercialmente como seguros “multirriesgo de hogar”, ya que contienen múltiples garantías relacionadas con los siniestros que pueden afectar a los inmuebles y las personas que los habitan.</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1626082494" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1626082494" aria-expanded="true" aria-controls="collapse-1626082494">
+              Seguros de amortización de préstamos
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1626082494" class="panel-collapse collapse" aria-labelledby="heading-1626082494" data-parent="#accordion-1626082493">
+          <div class="panel-body">
+            <p>Los seguros de amortización de préstamos son seguros de vida, que se caracterizan porque el asegurador asume el pago de la cantidad pendiente de amortizar del asegurado-prestatario, si ocurre alguna de las contingencias previstas en el contrato de seguro (fallecimiento o, en su caso, invalidez).</p><p>Dentro de los seguros de amortización de préstamos podemos distinguir dos tipos:</p><ul class="c-list-dash"><li>Aquellos en los que el capital a pagar por la entidad aseguradora coincide con la cantidad adeudada del préstamo, por lo que aquél disminuye conforme se amortiza el préstamo y el plazo de cobertura del seguro es idéntico al del préstamo.  </li><li>Aquellos en el que el importe a pagar en caso de que se produzca el fallecimiento, o la invalidez, permanece inalterable a lo largo de todo el periodo de duración del contrato de seguro. En estos casos, la entidad aseguradora pagará a la entidad de crédito la cantidad pendiente de amortizar y el exceso al resto de personas designadas como beneficiarias en la póliza. </li></ul><p>En consecuencia, este seguro protege a la entidad de crédito ante el posible impago del prestatario debido a su muerte o incapacidad.  </p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1626082495" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1626082495" aria-expanded="true" aria-controls="collapse-1626082495">
+              Seguros de protección de pagos/préstamos
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1626082495" class="panel-collapse collapse" aria-labelledby="heading-1626082495" data-parent="#accordion-1626082493">
+          <div class="panel-body">
+            <p>En el mercado asegurador también se comercializan seguros cuyo objetivo es permitir cumplir las obligaciones del deudor con respecto al préstamo hipotecario, cuando se producen circunstancias que normalmente implican una disminución de los ingresos del deudor como son el desempleo y la incapacidad temporal. Se conocen con el nombre comercial de “seguros de protección de pagos/préstamos” y se suelen comercializar de forma independiente, o como coberturas adicionales dentro de un seguro de amortización de préstamos de los mencionados en el apartado anterior.</p><p>Estos seguros garantizan en caso de desempleo o incapacidad temporal del asegurado, el pago a la entidad de crédito, mientras dure esta situación, de un número máximo de cuotas mensuales del préstamo.</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1626082496" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1626082496" aria-expanded="true" aria-controls="collapse-1626082496">
+              Seguros de riesgo de fallecimiento o incapacidad
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1626082496" class="panel-collapse collapse" aria-labelledby="heading-1626082496" data-parent="#accordion-1626082493">
+          <div class="panel-body">
+            <p>Por último, es importante conocer que, en los seguros en los que se cubre el riesgo de fallecimiento o de incapacidad, la entidad aseguradora en el momento inicial debe realizar una valoración del riesgo, que consiste normalmente en someter a la persona que contrata el seguro a un cuestionario sobre su salud. Sobre las contestaciones a este cuestionario hay que destacar la importancia que tiene lo manifestado en el mismo, ya que, si se responde de forma inexacta o se omiten datos, el asegurador en caso de producirse la incapacidad o el fallecimiento, puede incluso quedar exonerado del pago de la prestación si en la declaración medió dolo o culpa grave.</p>
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+</div>
+
+</div>
+  </div>
+</div>
+
+
+</section>
+
+
+
+
+    <section class="c-banda-newsletter u-third--background" style="display: none;">
+      <div class="container">
+        <div class="row u-space-between u-align--center">
+          <div class="col col-12 col-md-6 c-suscribete__text">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="21" 
+      >
+  
+  <p><span class="u-h2">¡No te pierdas nada!</span></p><p>Mantente al día de todas las novedades de Finanzas para Todos suscribiéndote a nuestra newsletter. Todas las novedades sobre finanzas, en tu correo.</p>
+</div>
+
+
+          </div>
+          <div class="col col-12 col-md-6 u-text--right c-suscribete__button">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="22" 
+      >
+  
+  <p style="text-align: right;"><a  href="/suscribete-a-nuestra-newsletter" class="c-button__transparent">Suscríbete</a></p>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="c-footer">
+    <div class="c-footer__logos">
+      <div class="container">
+        <div class="row">
+          <div class="col col-12">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="12" 
+      >
+  
+  <p><a  href="/" title="Enlace para volver a página de inicio de Finanzas para todos">​​​​​​​​​​​​​​<img alt="Enlace para volver a página de inicio de Finanzas para todos" class="c-footer__logo"  loading="lazy" src="/system/cms_multimedia/cms_medias/files/000/000/001/original/finanzas.png?1615388008" style="margin-top: 5px; margin-bottom: 5px;"></a>   <img alt="Plan de Educación Financiera, CNMV, Banco de España, Gobierno de España y Ministerio de economía, comercio y empresa"  loading="lazy" src="https://www.finanzasparatodos.es/system/cms_multimedia/cms_medias/files/000/002/720/original/plan-educacion-financiera-cobranding.png?1734424908"></p>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="c-footer__top">
+      <div class="container">
+        <div class="row">
+          <div class="col col-12 col-md-3">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="15" 
+      >
+  
+  <p><a  href="/quienes-somos" title="Quiénes somos">Quiénes somos</a></p><p><a  href="/actualidad" title="Blog">Blog</a></p><p><a  href="/notas-de-prensa" title="Notas de prensa">Notas de prensa</a></p><p><a  href="/teachers/sign_up?lang=es&site_id=1" title="Registro profesores">Registro profesores</a></p><p><a  href="/collaborators/sign_up?lang=es&site_id=1" title="Registro colaboradores">Registro colaboradores</a></p><p><a  href="/legal" title="Legal">Legal</a></p><p><a  href="/accesibilidad" title="Accesibilidad">Accesibilidad</a></p><p><a  href="/contacto" title="Contacto">Contacto</a></p>
+</div>
+
+
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="14" 
+      >
+  
+  <ul class="social-sharing"><li style="text-align: center;"><a  href="https://twitter.com/finanzaspartods?s=11" target="_blank" title="Ir a Twitter de Finanzas para Todos">​​​​​​​<img alt=""  loading="lazy" src="/system/cms_multimedia/cms_medias/files/000/002/419/original/x.png?1695135771" style="width: 20px; height: 19px; margin-top: -6px;"> <span class="sr-only">Twitter</span></a></li><li style="text-align: center;"><a  href="https://instagram.com/finanzaspartods?utm_medium=copy_link" target="_blank" title="Ir a Instagram de Finanzas para Todos"><i aria-hidden="true" class="fab fa-instagram-square"></i><span class="sr-only">Instagram</span></a></li><li style="text-align: center;"><a  href="https://www.facebook.com/FinanzasParaTodos.educacionfinanciera" target="_blank" title="Ir a Facebook de Finanzas para Todos"><i aria-hidden="true" class="fab fa-facebook-square"></i><span class="sr-only">Facebook</span></a></li><li style="text-align: center;"><a  href="https://youtube.com/user/finanzasparatodosESP" target="_blank" title="Ir a Youtube de Finanzas para Todos"><i aria-hidden="true" class="fab fa-youtube-square"></i><span class="sr-only">Youtube​​​​​​​</span></a></li></ul>
+</div>
+
+
+          </div>
+
+          <div class="col col-12 col-md-3">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="16" 
+      >
+  
+  <p><span class="u-third--color">Descubre</span></p><ul><li><a  href="/como-esta-tu-salud-financiera" title="">1. ¿Cómo está tu salud financiera?</a></li><li><a  href="/como-elaborar-un-presupuesto">2. ¿Cómo elaborar tu presupuesto?</a></li><li><a  href="/c-mo-gestionar-mis-deudas" title="">3. ¿Cómo gestionar tus deudas?</a></li><li><a  href="/c-mo-cuidar-tu-entorno-personal-y-financiero" title="">4. ¿Cómo cuidar tu entorno personal y financiero?</a></li><li><a  href="/como-preparar-mi-jubilacion" title="">5. ¿Cómo preparar tu jubilación?</a></li><li><a  href="/c-mo-invertir-mi-dinero" title="">6. ¿Cómo invertir tu dinero?</a></li></ul>
+</div>
+
+
+          </div>
+
+          <div class="col col-12 col-md-3">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="17" 
+      >
+  
+  <p><span class="u-blue">Participa</span></p><ul><li><a  href="/collaborators/login?lang=es&site_id=1" title="Red de  Colaboradores">Red de  Colaboradores</a></li><li><a  href="/teachers/login?lang=es&site_id=1" title="Profesores">Profesores </a></li><li><a  href="/d-a-de-la-educaci-n-financiera" title="Día de la Educación Financiera">Día de la Educación Financiera </a></li><li><a  href="/premios-de-educacion-financiera" title="Premios de la Educación Financiera">Premios de la Educación Financiera</a></li><li><br></li></ul>
+</div>
+
+
+          </div>
+
+          <div class="col col-12 col-md-3">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="18" 
+      >
+  
+  <p><span class="u-secondary--color">Aprende</span></p><ul><li><a  href="/herramientas-list" title="Herramientas">Herramientas</a></li><li><a  href="/videos" title="Videos">Videos</a></li><li><a  href="/podcasts" title="Podcasts">Podcasts</a></li><li><a  href="/guias" title="Guías">Guías</a></li><li><a  href="/cursos-y-webinars" title="Cursos, talleres, seminarios, webinars">Cursos y webinars</a></li><li><a  href="/glosario" title="Glosario">Glosario</a></li></ul>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+        
+    <div class="c-footer__bottom">
+      <div class="container">
+        <div class="row">
+          <div class="col col-12 col-md-12 u-text--right">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="13" 
+      >
+  
+  <p style="text-align: left;">2024 © Plan de Educación Financiera. CNMV,  Banco de España y Mº de Asuntos Económicos y TD. Todos los derechos reservados      <a  href="/pol-tica-de-privacidad">Política de Privacidad</a> · <a  href="/pol-tica-de-cookies">Cookies</a> · <a  href="/legal">Aviso legal</a> · <a  href="/accesibilidad">Accesibilidad</a></p>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+</div>
+
+  <nav id="c-nav__mobile" class="c-nav__mobile" data-mmenu-position="right">
+    
+  <ul class="navbar-nav">
+
+        <li class="nav-item first-level  with--children">
+          <a class="no-link" rel="" accesskey="" aria-expanded="false" href="/descubre">Descubre</a>
+          
+            
+  <ul class="navbar-nav">
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="a" href="/como-esta-tu-salud-financiera"><span>1</span>¿Cómo está tu salud financiera?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="b" href="/como-elaborar-un-presupuesto"><span>2</span>¿Cómo elaborar tu presupuesto?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="c" href="/c-mo-gestionar-mis-deudas"><span>3</span>¿Cómo gestionar tus deudas?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  with--children">
+          <a class="nav-link" aria-haspopup="true" aria-controls="submenu-12" aria-expanded="false" rel="" accesskey="d" href="/como-cuidar-tu-entorno"><span>4</span>¿Cómo cuidar tu entorno personal y financiero?</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-12">
+              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-banco-yo">El banco y yo</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-trabajo">El trabajo</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-hogar">El hogar</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-mi-pareja">La pareja</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-familia">La familia</a>
+
+
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="e" href="/como-preparar-mi-jubilacion"><span>5</span>¿Cómo preparar tu jubilación?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="f" href="/c-mo-invertir-tu-dinero"><span>6</span>¿Cómo invertir tu dinero?</a>
+
+
+
+        </li>
+  </ul>
+                                    
+        </li>
+
+        <li class="nav-item first-level  with--children">
+          <a class="no-link" rel="" aria-expanded="false" href="/participa">Participa</a>
+          
+            
+  <ul class="navbar-nav">
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="g" href="/red-de-colaboradores"><span><i class="fas fa-handshake"></i></span>Red del Plan</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="external" accesskey="h" href="/diadelaeducacionfinanciera"><span><i class="fas fa-user-graduate"></i></span>Día de la Educación Financiera</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="i" href="/premios-de-educacion-financiera"><span><i class="fas fa-award"></i></span>Premios de Educación Financiera</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="k" href="/participa/concurso-escolar-de-educacion-financiera"><span><i class="fas fa-trophy"></i></span>Concurso Escolar de Educación Financiera</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  with--children">
+          <a class="nav-link" aria-haspopup="true" aria-controls="submenu-145" aria-expanded="false" rel="" href="/participa/profesores"><span><i class="fa-solid fa-person-chalkboard"></i></span>Profesores</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-145">
+              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="" href="/participa/profesores/primaria">Primaria</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="" href="/participa/profesores/secundaria">ESO, Bachillerato y FP</a>
+
+
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+  </ul>
+                                    
+        </li>
+
+        <li class="nav-item first-level  with--children">
+          <a class="no-link" rel="" aria-expanded="false" href="/aprende">Aprende</a>
+          
+            
+  <ul class="navbar-nav">
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="l" href="/herramientas"><span><i class="fas fa-tools"></i></span>Herramientas</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="m" href="/videos"><span><i class="fas fa-play-circle"></i></span>Vídeos</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="n" href="/podcasts"><span><i class="fas fa-microphone"></i></span>Podcasts</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="o" href="/guias"><span><i class="fas fa-book-open"></i></span>Guías</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="p" href="/cursos-y-webinars"><span><i class="fas fa-laptop"></i></span>Cursos y webinars</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="q" href="/glosario"><span><i class="fas fa-sort-alpha-down-alt"></i></span>Glosario</a>
+
+
+
+        </li>
+  </ul>
+                                    
+        </li>
+
+        <li class="nav-item first-level  ">
+          <a class="nav-link" rel="" accesskey="q" href="/quienes-somos">Quiénes somos</a>
+          
+        </li>
+
+        <li class="nav-item first-level  ">
+          <a class="nav-link" rel="" accesskey="r" href="/blog">Blog</a>
+          
+        </li>
+
+        <li class="nav-item first-level  ">
+          <a class="nav-link" rel="" accesskey="s" href="/notas-de-prensa">Notas de Prensa</a>
+          
+        </li>
+
+    <li>
+      <form class="c-form" action="/site/1/lang/es/search" accept-charset="UTF-8" method="get">
+        <label for="mobile_search">
+          <span class="u-hidden">Fondos de inversión, ahorros, presupuestos ...</span>
+          <input type="text" name="search" id="mobile_search" class="form-control" placeholder="Fondos de inversión, ahorros, presupuestos ..." />
+</label>    
+        <button name="button" type="submit" class="btn btn--submit" value="Buscar">
+          <span class="u-hidden">Buscar</span>
+          <i class="fas fa-search" aria-hidden="true"></i>
+          <span class="sr-only">Buscador</span>
+</button></form>    </li>
+  </ul>
+
+  </nav>
+
+
+    
+    
+    <div id="c-cookies__modal" class="modal modal-cookies fade" tabindex="-1" role="dialog" aria-hidden="true" data-keyboard="false" data-backdrop="static">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+    </div>
+  </div>
+</div>
+    
+    
+    
+  </body>
+</html>

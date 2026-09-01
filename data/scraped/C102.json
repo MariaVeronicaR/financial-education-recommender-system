@@ -1,0 +1,545 @@
+{
+  "content_id": "C102",
+  "url": "https://www.cnmv.es/DocPortal/Publicaciones/Guias/LaProteccionDeMiFID.pdf",
+  "source": "CNMV",
+  "host": "www.cnmv.es",
+  "url_type": "pdf",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 1350740
+  },
+  "title": "Sus derechos como inversor. MiFID",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Sus derechos"
+    },
+    {
+      "level": 1,
+      "text": "como inversor."
+    },
+    {
+      "level": 1,
+      "text": "La protección"
+    },
+    {
+      "level": 1,
+      "text": "La protección que"
+    },
+    {
+      "level": 1,
+      "text": "le proporciona"
+    },
+    {
+      "level": 1,
+      "text": "I. Introducción"
+    },
+    {
+      "level": 1,
+      "text": "II. La mejor protección"
+    },
+    {
+      "level": 1,
+      "text": "del inversor en MiFID"
+    },
+    {
+      "level": 1,
+      "text": "III. Parte 1:"
+    },
+    {
+      "level": 1,
+      "text": "Antes de invertir."
+    },
+    {
+      "level": 1,
+      "text": "Su entidad deberá facilitarle"
+    },
+    {
+      "level": 1,
+      "text": "toda esta información con"
+    },
+    {
+      "level": 1,
+      "text": "con el tiempo suficiente para"
+    },
+    {
+      "level": 1,
+      "text": "que la pueda leer y comprender"
+    },
+    {
+      "level": 1,
+      "text": "y pueda tomar así una decisión"
+    },
+    {
+      "level": 1,
+      "text": "bajo presión"
+    },
+    {
+      "level": 1,
+      "text": "IV. Parte 2: Durante y"
+    },
+    {
+      "level": 1,
+      "text": "después de la inversión"
+    },
+    {
+      "level": 1,
+      "text": "En todo momento"
+    },
+    {
+      "level": 1,
+      "text": "VI. Conclusiones"
+    },
+    {
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "level": 1,
+      "text": "información?"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Sus derechos",
+      "start": 0,
+      "end": 45,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "como inversor.",
+      "start": 45,
+      "end": 62,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "La protección",
+      "start": 62,
+      "end": 833,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "La protección que",
+      "start": 833,
+      "end": 863,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "le proporciona",
+      "start": 863,
+      "end": 2753,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "I. Introducción",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 1,
+      "heading": "II. La mejor protección",
+      "start": 2753,
+      "end": 2791,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "del inversor en MiFID",
+      "start": 2791,
+      "end": 5537,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "III. Parte 1:",
+      "start": 5537,
+      "end": 5588,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "Antes de invertir.",
+      "start": 5588,
+      "end": 11200,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "Su entidad deberá facilitarle",
+      "start": 11200,
+      "end": 11303,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "toda esta información con",
+      "start": 11303,
+      "end": 11365,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "con el tiempo suficiente para",
+      "start": 11365,
+      "end": 11397,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "que la pueda leer y comprender",
+      "start": 11397,
+      "end": 11429,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "y pueda tomar así una decisión",
+      "start": 11429,
+      "end": 11492,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "bajo presión",
+      "start": 11492,
+      "end": 24734,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "IV. Parte 2: Durante y",
+      "start": 24734,
+      "end": 24923,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "después de la inversión",
+      "start": 24923,
+      "end": 29743,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "En todo momento",
+      "start": 29743,
+      "end": 34010,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VI. Conclusiones",
+      "start": 34010,
+      "end": 36151,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "¿Necesitas más",
+      "start": 36151,
+      "end": 36180,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "información?",
+      "start": 36180,
+      "end": 36205,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Sus derechos"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "como inversor."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "La protección"
+    },
+    {
+      "type": "paragraph",
+      "text": "de MiFID.\nGuía"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\nÍndice\nIntroducción\nLa mejor protección del inversor\nen la MiFID\nParte 1: Antes de invertir\nParte 2: Durante y después de la\ninversión\nParte 3: En todo momento\nConclusiones"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\nI. Introducción\nLa mayor complejidad y sofisticación de los mercados financieros ha dado\nlugar al desarrollo, en los últimos años, de una normativa a nivel europeo cuyo\nprincipal objetivo es reforzar las medidas dirigidas a la protección de los\ninversores minoristas, es decir, de los que como usted, no invierten de forma\nprofesional.\nEsta normativa, conocida como MiFID¹, trasladada a la legislación española,\nregula cómo han de desarrollarse las relaciones entre inversores y entidades\nfinancieras."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "La protección que"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "le proporciona"
+    },
+    {
+      "type": "paragraph",
+      "text": "MiFID\nSi ya es inversor o si está planeando\ninvertir en instrumentos financieros,\nesta Guía es para usted.\n1.\nMarkets in Financial Instruments Directive. Directiva sobre\nmercados de instrumentos financieros."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\nCuando usted acuda a una entidad financiera para invertir en productos\ncomo acciones, fondos de inversión, renta fija o derivados, encontrará que su\nentidad:\n¥ Le solicitará información para conocerle lo mejor posible y así poder\nayudarle a tomar sus decisiones de inversión y prestarle los servicios\nmás adecuados.\n¥ Sólo le ofrecerá los productos que considere adecuados para usted,\nteniendo en cuenta sus conocimientos y experiencia para valorar\ncorrectamente su naturaleza y riesgos.\n¥ Cuando le proporcione asesoramiento personalizado o gestione\nsu cartera, se asegurará de que el servicio es acorde a sus\nconocimientos, experiencia, objetivos de inversión y situación\nfinanciera.\n¥ Identificará si sus necesidades, características y objetivos son\ncompatibles con el instrumento financiero.\n¥ Le facilitará información antes, durante y después de realizar la\ninversión. Recibirá información sobre los riesgos que asume y las\ncomisiones y gastos directos e indirectos.\n¥ Al ejecutar sus órdenes, tratará de obtener el mejor resultado posible\npara usted."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\nPara que la entidad financiera le pueda prestar el mejor servicio, usted, como\ninversor, debe asumir un papel activo a la hora de realizar una inversión\nresponsable.\nHabitúese a buscar, demandar y leer con criterio la información que le\nsuministrará su entidad para ayudarle a tomar decisiones de inversión.\nY recuerde: cuanto mejor le conozca su entidad, mejor servicio le podrá\nprestar.\nEn esta Guía descubrirá cómo actuar con su entidad financiera\nsiguiendo cada una de las fases del proceso de inversión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\nII. La mejor protección\ndel inversor en MiFID\nEsta Guía le presenta los principales aspectos recogidos en la Directiva de\nMercados de Instrumentos Financieros, más conocida por sus siglas en\ninglés, MiFID. Esta normativa europea, cuyo principal objetivo es mejorar la\nprotección de los inversores, se ha trasladado a la legislación española.\nPiense en sus actuales productos financieros. Probablemente una o varias\ncuentas corrientes, algún préstamo (como la hipoteca de su casa), una tarjeta\nde crédito, quizá algunas acciones, un fondo de inversión, uno o más seguros,\ntal vez un plan de pensiones…\nEsta normativa sólo se aplica a algunos de estos productos, como las\nacciones, los valores de renta fija, los fondos de inversión y los derivados (que\nse denominan productos MiFID). No se aplica a los productos puramente\nbancarios (por ejemplo las cuentas bancarias o los préstamos), ni a los\nseguros. Su entidad financiera podrá ofrecerle servicios de inversión tales\ncomo la compra/venta, el asesoramiento de inversiones o la gestión de\nsu cartera, entre otros, sobre los mencionados productos financieros (o\nproductos MiFID)1.\nEl grado de protección se establece en función de la complejidad de los\nproductos y servicios que la entidad le ofrezca o usted solicite y de su\ncapacidad para comprender y asumir su naturaleza y riesgos.\n1.\nNo obstante lo anterior, existen determinados productos que no son instrumentos\ndel mercado de valores o productos Mifid, denominados depósitos estructurados,\na los que sí les son aplicables las normas de protección al inversor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\nPara mejorar la protección del inversor, la normativa establece tres principios\nbásicos que deben cumplir las entidades financieras cuando prestan\nservicios de inversión:\n¥ Actuar de forma honesta, imparcial y profesional, en el mejor interés\nde sus clientes. Este principio le protege cuando contrata con una\nentidad financiera que, como profesional, está en una posición de\nventaja respecto a usted.\n¥ Proporcionar información, antes y después de la prestación del\nservicio, imparcial, clara y no engañosa a sus clientes. Esto le\nayudará a comprender los productos y servicios de inversión y a\ntomar decisiones informadas.\n¥ Prestar servicios y ofrecer productos teniendo en cuenta las\ncircunstancias personales de los clientes. Con esto se pretende\nevitar que usted contrate productos o servicios que no pueda\ncomprender, no ajustados a su perfil o que no satisfagan sus\nnecesidades o expectativas.\nPara mejorar la protección del inversor, la normativa trata de\nasegurar que tiene toda la información necesaria para tomar\ndecisiones y comprender los riesgos de los productos y servicios\nde inversión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\nIII. Parte 1:\nAntes de invertir.\n1.1 ¿Qué tipo de cliente es usted?\nSi usted ya es cliente de un intermediario financiero, éste le habrá\ncomunicado su condición de cliente minorista. Esta es la categoría en la que\nse encuentran la mayoría de los inversores particulares.\nSu clasificación como minorista viene dada por la necesidad de establecer\ndiferentes mecanismos de protección en función de la tipología de los\nclientes, ya que no todos son iguales y por tanto no todos necesitan el mismo\ngrado de protección.\nLos clientes minoristas son aquellos a los que se les suponen menos\nconocimientos y experiencia en los mercados financieros y que, por\nello, reciben el máximo grado de protección. Los clientes con mayor\nconocimiento y experiencia (clientes profesionales) reciben menos protección\nya que tienen más capacidad para comprender la naturaleza y riesgos de los\nmercados, productos y servicios de inversión.\nSon clientes profesionales, entre otros, los bancos, empresas de servicios\nde inversión, compañías de seguros, fondos de pensiones, ciertas grandes\ncompañías, los gobiernos nacionales y regionales y algunos inversores\nparticulares que lo soliciten y cumplan unas condiciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\n¿Qué ocurre si usted solicita (o su entidad le propone) ser\ntratado como profesional?\nLa normativa permite que un cliente minorista pueda ser tratado como\ncliente profesional siempre que cumpla unas determinadas condiciones\ny procedimiento.\nSi lo hace, renunciará a parte de la protección que la normativa ofrece a\nlos clientes minoristas por lo que debe sentirse cómodo con ese menor\nnivel de protección y estar seguro de que es capaz de adoptar sus\npropias decisiones de inversión y de valorar adecuadamente los riesgos\nen los que incurra.\nAntes de considerarle profesional, su entidad deberá asegurarse de que\nesta categoría es adecuada para usted y que cumple con determinadas\ncondiciones relativas a la frecuencia y volumen de operaciones que\nha realizado, al valor de su cartera y a su experiencia profesional en los\nmercados. Al margen de lo anterior:\n¥ Deberá solicitar por escrito su clasificación como cliente\nprofesional, bien con carácter general, bien para un servicio\no transacción determinada o para un tipo de producto o\ntransacción específico.\n¥ La entidad deberá advertirle claramente por escrito de las\nprotecciones y posibles derechos de los que se vería privado.\n¥ Además deberá declarar por escrito, en un documento distinto\nal del contrato, que conoce las consecuencias derivadas de su\nrenuncia a la clasificación como cliente minorista.\nLos inversores minoristas reciben mayor protección que los\nprofesionales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\n1.2 ¿Qué información va a recibir?\nLas entidades que prestan servicios de inversión deben mantener, en todo\nmomento (de forma previa y con posterioridad) adecuadamente informados\na sus clientes. Además, toda la información que reciba el cliente debe ser\n“imparcial, clara y no engañosa” tanto en lo que se refiere a su contenido\ncomo a la forma en la que se le presente.\nPublicidad\nLa creciente variedad de productos, su complejidad y la mayor\ncompetencia entre entidades, hacen que la publicidad tenga gran\ninfluencia en los inversores. Sin embargo, tenga en cuenta que nunca\ndebe tomar una decisión de inversión basándose sólo en la publicidad.\nLa publicidad debe ser imparcial, clara y no engañosa para evitar que\nle induzca a confusión o le cree expectativas poco realistas. Además, la\npublicidad debe ser claramente identificable como tal.\nInformación sobre la empresa y sus servicios\nSi usted todavía no es cliente de un intermediario financiero y pretende\nserlo, para que pueda elegir el intermediario que más le convenga, al\nacercarse a la entidad le deben informar sobre la propia empresa y los\nservicios que presta de modo que le ayude a entender su naturaleza y\nriesgos.\nTambién le deben facilitar los datos que le permitan comprobar que la\nentidad está inscrita en la CNMV y autorizada para prestar el servicio que\nle ofrece."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\nInformación sobre los productos\nAdemás, cuando vaya a contratar un producto financiero, para que pueda\ndecidir si se ajusta a sus necesidades, su entidad debe proporcionarle\ncon suficiente antelación, con el detalle que sea necesario, información\nsobre su naturaleza y riesgos y sus efectos, riesgo de pérdida total, etc.\nEsta explicación deberá incluir información sobre el funcionamiento del\nproducto, y cuál puede ser su rendimiento en diferentes condiciones de\nlos mercados financieros.\nInformación sobre costes y gastos\nAntes de contratar un producto o un servicio de inversión recibirá\ntambién información sobre los costes totales que va a tener que asumir ,\nincluyendo todos los honorarios, comisiones, costes y gastos asociados,\nrelacionados tanto con el producto como con el servicio y todos los\nimpuestos a liquidar a través de la entidad. En caso de que pudieran\nsurgir otros costes, incluido el pago de impuestos, como consecuencia\nde transacciones vinculadas al instrumento financiero o al servicio en\ncuestión y que no se paguen a través de la entidad, se le advertirá de su\nexistencia. Usted podrá solicitar el detalle de todos los costes que tiene\nque asumir.\nTérminos de los contratos\nSi usted es un nuevo cliente minorista, deberá suscribir con su entidad\nun contrato que regule los derechos y obligaciones de ambos en la\nprestación del servicio de inversión. Es obligatorio que el contrato\nconste por escrito excepto cuando la entidad preste un servicio de\nasesoramiento sin evaluación periódica de idoneidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\nSu entidad deberá facilitarle\ntoda esta información con\nsuficiente antelación, es decir,\ncon el tiempo suficiente para\nque la pueda leer y comprender\ny pueda tomar así una decisión\nmeditada, sin precipitación ni\nbajo presión"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\n1.3 ¿Cómo se clasifican los productos\nfinancieros?\nLas obligaciones de evaluación de la adecuación del producto al cliente\nvarían, con carácter general, en función del tipo de producto sobre el que se\npreste el servicio en cuestión. Una correcta clasificación de los instrumentos\nfinancieros por parte de las entidades es fundamental para una adecuada\nprotección de los clientes.\nLos productos financieros pueden clasificarse en dos tipos: los llamados\nproductos complejos y los productos no complejos.\nEjemplos de productos\nno complejos\nEjemplos de productos\ncomplejos:\nAcciones cotizadas en mercados regulados\nOpciones y futuros\nLetras del Tesoro\nWarrants y turbowarrants\nBonos y obligaciones del Estado\nContratos por diferencias (CFD)\nFondos de inversión ordinarios\nFondos de inversión libre (Hedge Funds)\nBonos y obligaciones corporativas cotizados\nen mercados regulados que no incorporan un\nderivado implícito\nSwaps"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\n¿En qué se diferencian unos de otros?\nLos productos no complejos deben cumplir todas y cada una de las\nsiguientes características:\nSe pueden reembolsar de forma frecuente a precios conocidos por\nel público. En general, siempre es fácil conocer su valor en cualquier\nmomento y hacerlos efectivos.\nEl inversor no puede perder un importe superior a su coste de\nadquisición, es decir, a lo que invirtió inicialmente.\nExiste información pública, completa y comprensible para el inversor\nminorista sobre las características del producto.\nNo son productos derivados.\nNo incorporan cláusulas o condiciones que podrían alterar el\nriesgo de la inversión o el perfil de pagos (por ejemplo, los bonos\nconvertibles o los bonos emitidos por bancos que pueden ser\nconvertidos en acciones en caso de necesidades de capital del\nbanco).\nNo incluyen ningún coste de salida que provoque que al inversor no\nva a compensarle vender el producto.\nLos productos complejos son los que no cumplen con alguna de las\ncaracterísticas anteriores. Pueden suponer mayor riesgo para el inversor,\nsuelen tener menor liquidez (en ocasiones no es posible conocer su valor en\nun momento determinado) y, en definitiva, es más difícil entender tanto sus\ncaracterísticas como el riesgo que llevan asociado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\n1.4 ¿Qué servicios puede recibir?\nUsted puede contratar con su entidad, entre otros, alguno de los siguientes\nservicios de inversión:\n¥ Compra y venta de productos financieros. La entidad tramita sus órdenes.\n¥ Asesoramiento de inversión. La entidad le da recomendaciones\npersonalizadas de inversión.\n¥ Gestión de carteras. La entidad gestiona sus inversiones.\n¿Qué información le solicitará su entidad? ¿Por qué me hacen\ntantas preguntas y, en algunos casos, tan personales?\nUno de los aspectos más importantes y llamativos es la abundante\ninformación que le solicitará su entidad. Debe procurar responder a estas\npreguntas de modo veraz y con la mayor precisión para que la entidad le\npueda prestar el servicio de la mejor manera posible.\nLa entidad le puede preguntar si sabe cómo funciona algún producto,\nsi lo ha comprado antes, cuál es su grado de conocimiento de los\nmercados financieros, cuál es su objetivo al invertir, cuánto riesgo está\ndispuesto a asumir o incluso cuáles son sus ingresos, gastos, patrimonio\ny deudas.\nLas entidades deben solicitarle información para conocerle lo\nmejor posible y así poder ayudarle a tomar las decisiones de\ninversión y prestarle los servicios más adecuados para usted."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\nVeamos las situaciones que se pueden plantear al invertir en productos\nfinancieros y los diferentes grados de protección que se aplican a cada\ncaso.\nCompra y venta de productos financieros\nSu entidad deberá ofrecerle los productos que considere adecuados\npara usted. Por ello, le pedirá información sobre sus conocimientos y\nexperiencia previa en los mercados financieros con el fin de asegurarse\nde que usted es capaz de comprender la naturaleza y riesgos de los\nproductos que le ofrece.\nEl conjunto de preguntas que le harán para determinar si un producto o\nservicio de inversión es adecuado para usted, se denomina evaluación\nde la conveniencia, que habitualmente se realiza a través del\ndenominado test de conveniencia.\nEl test de conveniencia trata de valorar sus conocimientos y\nexperiencia en el ámbito de inversión correspondiente al tipo\nconcreto de producto o servicio ofrecido o solicitado. Para ello le\nformularán preguntas sobre:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Los tipos de servicios, operaciones e instrumentos financieros"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "con los que usted está familiarizado."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "La naturaleza, frecuencia, volumen y periodo en el que usted ha"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "operado previamente."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Su nivel de educación y su profesión actual o anterior."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Si usted ya fuera cliente, puede ocurrir que la entidad disponga de\nesa información y no precise pedírsela de nuevo.\nLa entidad debe informarle del resultado del test de conveniencia\ny entregarle una copia del documento que recoja la evaluación\nrealizada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\nSi usted no proporciona la información necesaria, la entidad no podrá\ndeterminar si el producto o servicio es adecuado para usted o no, por\nlo que le debe advertir de que la deficiencia de información le impide\ndeterminar si el servicio de inversión o el producto es adecuado. La\nadvertencia tendrá el siguiente contenido:\n“Le informamos de que dadas las características de esta operación XXX,\nla entidad ZZZ está obligada a evaluar la conveniencia de la misma para\nusted; es decir, evaluar si, a nuestro juicio, usted posee conocimientos\ny experiencia necesarios para comprender la naturaleza y riesgos del\ninstrumento sobre el que desea operar. Al no haber proporcionado\nlos datos necesarios para realizar dicha evaluación, usted pierde esta\nprotección establecida para los inversores minoristas. Al no realizar dicha\nevaluación, la entidad no puede formarse una opinión respecto a si esta\noperación es o no conveniente para usted.”\nSi usted solicita la compra de un producto complejo, su entidad\nademás deberá recabar la firma del texto anterior unida a una expresión\nmanuscrita que dirá: “Este es un producto complejo y por falta de\ninformación no ha podido ser evaluado como conveniente para mí.”\nCuando realizada la evaluación, la entidad considere que\nel servicio o producto no sea conveniente para usted, deberá\nadvertírselo. La advertencia tendrá el siguiente contenido:\n“Le informamos de que dadas las características de esta operación XXX,\nla entidad ZZZ está obligada a evaluar la conveniencia de la misma para\nusted. En nuestra opinión esta operación no es conveniente para usted.\nUna operación no resulta conveniente cuando el cliente carece de los\nconocimientos y experiencia necesarios para comprender la naturaleza y\nriesgos del instrumento financiero sobre el que va a operar”."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\nCuando la operación se realice sobre un instrumento complejo, la\nentidad deberá recabar su firma con el texto anterior, al que se le añadirá\nla expresión manuscrita siguiente:\n“Este producto es complejo y se considera no conveniente para mí.”\nSi usted ha sido advertido, bien de la imposibilidad de determinar si el\nproducto es adecuado o bien de que no es conveniente, es importante\nque se plantee si proceder con la compra del producto. Si pese a las\nadvertencias usted decide proseguir con la compra, la entidad podrá\ntramitar la operación.\nSólo cuando usted tome la iniciativa para contratar un producto\nconsiderado no complejo, su entidad le advertirá de que no tiene\nobligación de valorar si el producto es adecuado para usted y ejecutará\nsu orden de compra sin saber si el producto es conveniente o no. Este\nsupuesto se denomina sólo ejecución.\nEn el caso de que la entidad le preste el servicio por el canal telefónico,\nusted deberá repetir literalmente la expresión que corresponda, que\ndeberá ser grabada. En el caso de que la operación se tramite por\ninternet, deberá teclear la expresión que corresponda con carácter\nprevio a cursar la orden.\nAsesoramiento de inversiones\nEl asesoramiento de inversiones es la realización de recomendaciones\npersonalizadas, ya sea de forma puntual o continuada. Al asesorarle su\nentidad debe recomendarle los productos que mejor se ajusten a su\nsituación personal, para lo cual tendrá que analizar sus conocimientos\ny experiencia previa, así como sus objetivos de inversión y su situación"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\nfinanciera. Sólo le recomendarán los productos que mejor se ajusten a su\nnivel de tolerancia al riesgo y capacidad para soportar pérdidas.\nEl conjunto de preguntas que le harán para obtener esta información es\nlo que se denomina evaluación de la idoneidad, que habitualmente se\nrealiza a través del denominado test de idoneidad.\nEl test de idoneidad pretende asegurar que las recomendaciones\npersonalizadas que le haga la entidad sean las más adecuadas\npara usted teniendo en cuenta su situación particular. Le\nformularán preguntas sobre:\n¥ Sus conocimientos y experiencia previos (test de\nconveniencia).\n¥ Su situación financiera, que podrá ser analizada con\ninformación sobre:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Su situación laboral, la fuente y nivel de sus ingresos"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "regulares."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Su patrimonio, incluyendo activos y pasivos"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "financieros, inversiones, inmuebles, liquidez..."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Sus gastos y pagos periódicos, sus necesidades de"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "liquidez, etc.\n¥ Sus objetivos de inversión, que podrán ser determinados con\npreguntas sobre:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "El tiempo en el que se desea o se está dispuesto a"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "mantener la inversión propuesta."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Su perfil y apetito por el riesgo"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Si usted no proporciona la información necesaria para que puedan\nevaluar la idoneidad, su entidad no podrá recomendarle servicios\no actividades de inversión o instrumentos financieros."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\nLa entidad deberá proporcionarle de forma previa a que exista ningún\ncompromiso de compra por escrito o a través de otro soporte duradero,\nuna descripción de cómo se ajusta la recomendación realizada a sus\ncaracterísticas y objetivos cada vez que emita una recomendación.\nLa entidad le puede solicitar que manifieste que no ha sido asesorado\nen una operación concreta (en el caso de que le preste un servicio sobre\nun producto complejo diferente al asesoramiento o gestión de carteras).\nPara ello, junto a su firma, deberá incluir la expresión “No he sido\nasesorado en esta operación”.\n¿Asesoramiento independiente o no independiente?\nUsted deberá ser informado de forma previa sobre si la entidad le\nestá prestando un servicio de asesoramiento independiente o no\nindependiente.\nLas entidades que le presten asesoramiento independiente, a la\nhora de hacer recomendaciones, no podrán considerar únicamente\ninstrumentos financieros emitidos por la propia entidad, una entidad\nde su grupo u otras con las que tengan participación en el capital,\nrelaciones de control o relaciones jurídicas, económicas o contractuales.\nEn conclusión, la entidad deberá evaluar una gama suficientemente\ndiversificada de instrumentos financieros disponibles en el mercado\nantes de emitirle una recomendación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\nPor otro lado, cuando una entidad le preste asesoramiento dependiente\n(o no independiente) deberá ser informado de este hecho. La entidad\ntendrá en cuenta un rango restringido de productos a la hora de\nasesorarle.\nEn todo caso, las recomendaciones que le hagan deben ser siempre las\nmás idóneas para usted.\nAdemás, la entidad deberá informarle de forma previa si le realizará una\nevaluación periódica de idoneidad de los instrumentos financieros que le\nha recomendado.\nGestión de carteras\nCuando contrata la gestión de su cartera, usted está confiando en la\nentidad la selección de productos, la toma de decisiones de inversión\ny la ejecución de operaciones por su cuenta. En este caso, al igual que\nen el asesoramiento, la entidad debe asegurarse de que el servicio es\nadecuado a sus conocimientos y experiencia, objetivos de inversión y\nsituación financiera. Por tanto, también deberá efectuar la evaluación\nde la idoneidad o test de idoneidad. La entidad no podrá incluir en su\ncartera instrumentos financieros que no sean idóneos para usted.\nSi la entidad no dispone de la información necesaria para completar\ndicha evaluación o test de idoneidad no le podrá prestar el servicio de\ngestión de carteras.\nUsted como cliente deberá, al menos, entender los riesgos totales de su\ncartera y poseer conocimientos generales sobre los riesgos asociados\na cada tipo de instrumentos financiero que pueda ser incluido en la\ncartera."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\nEl siguiente diagrama y ejemplos prácticos resumen las diferentes situaciones\nque se pueden dar cuando usted acude a su entidad financiera para contratar\nun servicio de inversión sobre productos MiFID.\nEjemplo sólo ejecución:\nUsted acude a su sucursal y solicita por iniciativa propia la suscripción de una\nLetra del Tesoro.\nEjemplo test de conveniencia:\nUsted acude a su sucursal para informarse sobre un nuevo fondo ya que ha\nrecibido una llamada de la oficina ofreciéndoselo.\nEjemplo test de idoneidad:\nUsted dispone de unos ahorros que desea invertir. Acude a su sucursal y\nsolicita que le recomienden el producto que encaje con sus objetivos y\ncircunstancias personales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\nIV. Parte 2: Durante y\ndespués de la inversión\n2.1 ¿Qué ocurre cuando da una orden a una\nentidad?\n¿Cómo se gestiona su orden?\nCuando usted ordena la compra o la venta de un producto financiero, la\nentidad debe ejecutar su orden de forma pronta y secuencial, es decir, lo\nantes posible y en el orden en el que la haya recibido.\nLa entidad deberá informarle si encuentra alguna dificultad que le impida\nla debida ejecución de su orden.\n¿Qué es la “mejor ejecución”?\nPara concluir la compra o la venta, su entidad debe ejecutar su orden\ntratando de conseguir el mejor resultado posible para usted. Lo que se\ndenomina “mejor ejecución”.\nA tal fin, su entidad debe identificar los centros de negociación más\nadecuados (bolsas de valores, otros sistemas organizados o entidades\nespecializadas), teniendo en cuenta una serie de factores como el\nprecio, los costes, la rapidez y la probabilidad de ejecución y liquidación,\nel volumen, la naturaleza de la operación y cualquier otro elemento\nrelevante para la ejecución de la orden."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\nDe éstos, los más importantes para usted, como inversor minorista, son\nel precio y los costes totales de ejecución, es decir, la cantidad total que\nusted deberá desembolsar (o que recibirá) por la operación, incluyendo\nel precio, todos los gastos y comisiones de ejecución, compensación y\nliquidación, incluso los que puedan ser abonados a otros intermediarios\nque intervengan en la operación.\nAntes de atender su orden, la entidad le habrá informado y recabado su\nprevio consentimiento a su política de ejecución.\nSi usted cree que su orden no se ha ejecutado en los mejores términos\nposibles, puede solicitar a la entidad que le justifique que la ejecución se\nha hecho de acuerdo con su política de ejecución.\nEn caso de que usted dé instrucciones específicas a su entidad sobre\ncómo quiere que ejecute su orden, éstas tendrán prioridad sobre la\npolítica de mejor ejecución que tenga establecida. Por ejemplo, si en su\norden usted especifica el mercado en el que desea que se ejecute, la\nentidad se atendrá a su petición por lo que podría perder la oportunidad\nde conseguir mejor precio en otro centro de negociación.\nComo minorista le interesa sobre todo el precio y los costes\ntotales de ejecución. Si cree que su orden no se ha ejecutado\nen los mejores términos, pida aclaraciones a su entidad"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\n2.2 ¿Qué información va a recibir?\nSu entidad debe proporcionarle la información mínima necesaria para que\nusted pueda seguir la evolución de sus inversiones.\nEn caso de compra o de venta de productos financieros, una vez ejecutada\nla orden, deberá recibir una confirmación, antes del día siguiente al que se\nprodujo la ejecución, con información sobre las condiciones en las que se ha\nllevado a cabo (con carácter general, importe, fecha y hora de ejecución, tipo\nde orden, identificación del centro de ejecución y del instrumento financiero,\ny suma total de las comisiones y gastos repercutidos, incluyendo, si usted lo\nsolicita, un desglose de tales gastos y comisiones).\nEn caso de que usted haya contratado el servicio de gestión de su cartera la\nentidad debe remitirle información de forma general con carácter trimestral\nsobre la composición y valoración de su cartera, incluyendo datos sobre\ncada instrumento financiero, su valor de mercado o, en su defecto, el valor\nrazonable y el saldo de caja al principio y al final del periodo al que se refiere\nla información, así como el rendimiento de la cartera durante ese período.\nAdemás, la entidad deberá informarle:\n¥ de la cuantía total de los honorarios y gastos devengados durante\nel periodo al que se refiere la información. Siempre podrá pedir un\ndesglose más detallado que la entidad le deberá facilitar;\n¥ para cada operación ejecutada durante el período, de los datos\nsobre la ejecución de la orden, excepto si ya le han informado de ello\nsi usted ha elegido recibir información operación a operación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\nEn el caso de que su cartera gestionada esté apalancada (es decir, si corre\nel riesgo de perder más dinero de lo invertido por usted en dicha cartera), la\nentidad le debe facilitar la información con carácter mensual.\nNo será necesario que su entidad le envíe el informe trimestral en caso de\nque la entidad le proporcione un sistema online accesible en el que usted\npueda conocer toda la información que debe proporcionarle, si bien para ello\nla entidad debe tener evidencia de que ha accedido a dicha información al\nmenos una vez durante el trimestre.\nSu entidad debe notificarle, con la suficiente antelación,\ncualquier cambio importante en la información suministrada a\nfin de que usted pueda actuar a tiempo si lo cree necesario.\nEs conveniente que conserve la documentación que reciba de\nsu entidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\nV. Parte 3:\nEn todo momento\nSu entidad debe organizarse y disponer de los medios que le permitan\ncumplir sus obligaciones y actuar de forma “honesta, imparcial, profesional\ny en el mejor interés del cliente”. Como inversor minorista, los aspectos que\nmás le pueden interesar son los siguientes:\n3.1 Conflictos de interés\nPor diversas razones, entre ellas la amplia gama de actividades que\ndesarrollan las entidades financieras, pueden surgir conflictos tanto entre los\nintereses de las entidades y los de sus clientes como entre los de diferentes\nclientes. Su entidad debe establecer medidas para evitar que estos conflictos\nle perjudiquen.\nAdemás, debe poner a su disposición la política que haya definido para la\ngestión de conflictos de interés y la prevención de posibles perjuicios.\n3.2 Custodia de las inversiones\nAl inicio de su relación, la entidad debe informarle sobre los mecanismos\nde protección que tenga a su disposición para el depósito y custodia de\nsus instrumentos financieros y efectivo. En todo caso, este servicio debe\nformalizarse en un contrato que regule los derechos y obligaciones de las\npartes.\nSu entidad evitará perjudicarle por conflictos de interés,\ncustodiará sus inversiones, le informará sobre los fondos de\ngarantía en caso de insolvencia y atenderá sus reclamaciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\nLa salvaguarda y custodia de sus instrumentos financieros y efectivo exige\nque sus valores y los del resto de clientes estén siempre identificados y\nseparados de los que pertenecen a la entidad. Si por razones de práctica\nhabitual o porque lo permita la normativa aplicable, sus instrumentos\nfinancieros fueran a estar depositados en una cuenta global de un tercero,\neste hecho debe quedar recogido en el contrato.\nLa entidad que custodie sus inversiones le enviará información sobre su\nestado al menos de forma trimestral.\n3.3 Fondos de garantía en caso de insolvencia\nEn determinados casos de insolvencia de la entidad, es posible que\nusted no pueda recuperar el efectivo o los instrumentos financieros que\nhubiera confiado a su entidad financiera. En este caso, podrá solicitar la\ncompensación al fondo de garantía o compensación al que se encuentra\nadherida.\nEl Fondo de Garantía de Inversiones (FOGAIN) ofrece una indemnización\na los inversores de sus entidades adheridas (empresas de servicios de\ninversión a excepción de las EAF, sociedades gestoras de instituciones de\ninversión colectiva y sociedades gestoras de entidades de tipo cerrado) en\ndeterminados supuestos de insolvencia de la entidad que presta el servicio\nde inversión, por el efectivo y valores depositados o confiados a la entidad,\ncon un máximo de 100.000€ por inversor. Para las entidades de crédito\nexiste el Fondo de Garantía de Depósitos que ofrece garantías equivalentes a\nlos clientes de dichas entidades."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\n3.4 Atención de sus reclamaciones\nSi tiene alguna queja por mal funcionamiento, demora o falta de atención\no si se siente perjudicado por la actuación de su entidad financiera, puede\nreclamar.\nPresentación de la reclamación ante el Servicio de Atención\nal Cliente o el Defensor del Cliente de la entidad\nSu entidad debe atender y resolver sus quejas y reclamaciones de\nforma pronta y razonable, de acuerdo con el procedimiento que haya\npublicado. También debe mantener evidencia de cada reclamación y de\nlas medidas adoptadas para su resolución.\nPara asegurar una correcta atención de las reclamaciones, las entidades\ndeben mantener un registro de todos los servicios y operaciones que\nrealicen durante un período mínimo de cinco años. En el caso de los\ncontratos con sus clientes, tienen que mantenerlos al menos mientras\ndure la relación.\nEs conveniente que usted también conserve los contratos que firme y,\nen general, toda la documentación que reciba de la entidad sobre las\noperaciones que realice.\nPresentación de la reclamación ante la CNMV.\nSi no recibe una respuesta de la entidad en el plazo de un mes o si esta\nno le resulta satisfactoria puede acudir al Servicio de Reclamaciones\nde la CNMV que se encarga de atender las consultas, quejas y\nreclamaciones de los inversores de forma rápida y gratuita.\n2º\npaso\n1er\npaso"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sus derechos como inversor MiFID\nVI. Conclusiones\nUno de los objetivos principales de la normativa derivada de la Mifid II es\nmejorar la protección del inversor minorista. Para ello trata de asegurar que\nlos inversores cuentan con toda la información necesaria para tomar sus\ndecisiones y comprender la naturaleza y riesgos de los productos y servicios\nde inversión. Para que estas exigencias funcionen, los inversores deben ser\nconscientes de su papel activo a la hora de realizar una inversión responsable.\nAntes de contratar productos o servicios de inversión, recuerde:\n¥ Asegúrese de que contrata con entidades autorizadas. Antes de invertir\no de contratar cualquier servicio compruebe que la entidad está inscrita\nen la CNMV y autorizada para prestar el servicio que le ofrece.\n¥ Solicite la información por escrito (o en un soporte que pueda conservar)\ntanto sobre las características, riesgos y costes de los productos o\nservicios que le ofrezcan como sobre las recomendaciones de inversión\nque le hagan.\n¥ Lea atentamente la información y si tiene dudas, resuélvalas. No firme\nningún documento sin aclarar todas sus dudas, o cuando entienda que\nalguna cláusula no responde a la realidad o le puede perjudicar.\n¥ Tómese el tiempo necesario. Su entidad le debe facilitar la información\ncon la suficiente antelación para que pueda decidir con conocimiento, sin\nprecipitación ni bajo presión.\n¥ Conserve la documentación. Le permitirá un mejor control y seguimiento\nde sus inversiones y, en caso de que se le presente algún problema, le\nfacilitará reclamar.\n¥ Cuanto mejor le conozca su entidad, mejor servicio le podrá prestar.\nSu entidad le solicitará información para asegurarse de que le ofrece\nlos productos y servicios que más le convienen. Facilítesela de modo\ncompleto y veraz."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contáctanos por email\nEsta guía tiene como finalidad informar al público en general sobre distintos\naspectos relacionados con los mercados de valores. Por su naturaleza divulgativa\nno puede constituir un soporte para posteriores interpretaciones jurídicas, siendo\nla normativa vigente la única de aplicabilidad para estos fines.\n¿Necesitas más\ninformación?\nwww.cnmv.es"
+    }
+  ],
+  "text": "Sus derechos como inversor MiFID\nSus derechos \ncomo inversor. \nLa protección\nde MiFID.\nGuía\n\nSus derechos como inversor MiFID\nÍndice\nIntroducción\nLa mejor protección del inversor \nen la MiFID\nParte 1: Antes de invertir \nParte 2: Durante y después de la \ninversión\nParte 3: En todo momento \nConclusiones\n\nSus derechos como inversor MiFID\nI. Introducción\nLa mayor complejidad y sofisticación de los mercados financieros ha dado \nlugar al desarrollo, en los últimos años, de una normativa a nivel europeo cuyo \nprincipal objetivo es reforzar las medidas dirigidas a la protección de los \ninversores minoristas, es decir, de los que como usted, no invierten de forma \nprofesional.\nEsta normativa, conocida como MiFID¹, trasladada a la legislación española, \nregula cómo han de desarrollarse las relaciones entre inversores y entidades \nfinancieras.\nLa protección que \nle proporciona \nMiFID\nSi ya es inversor o si está planeando \ninvertir en instrumentos financieros, \nesta Guía es para usted.\n1.\nMarkets in Financial Instruments Directive. Directiva sobre\nmercados de instrumentos financieros.\n\nSus derechos como inversor MiFID\nCuando usted acuda a una entidad financiera para invertir en productos \ncomo acciones, fondos de inversión, renta fija o derivados, encontrará que su \nentidad:\n¥ Le solicitará información para conocerle lo mejor posible y así poder\nayudarle a tomar sus decisiones de inversión y prestarle los servicios\nmás adecuados.\n¥ Sólo le ofrecerá los productos que considere adecuados para usted,\nteniendo en cuenta sus conocimientos y experiencia para valorar\ncorrectamente su naturaleza y riesgos.\n¥ Cuando le proporcione asesoramiento personalizado o gestione\nsu cartera, se asegurará de que el servicio es acorde a sus\nconocimientos, experiencia, objetivos de inversión y situación\nfinanciera.\n¥ Identificará si sus necesidades, características y objetivos son\ncompatibles con el instrumento financiero.\n¥ Le facilitará información antes, durante y después de realizar la\ninversión. Recibirá información sobre los riesgos que asume y las\ncomisiones y gastos directos e indirectos.\n¥ Al ejecutar sus órdenes, tratará de obtener el mejor resultado posible\npara usted.\n\nSus derechos como inversor MiFID\nPara que la entidad financiera le pueda prestar el mejor servicio, usted, como \ninversor, debe asumir un papel activo a la hora de realizar una inversión \nresponsable. \nHabitúese a buscar, demandar y leer con criterio la información que le \nsuministrará su entidad para ayudarle a tomar decisiones de inversión.\nY recuerde: cuanto mejor le conozca su entidad, mejor servicio le podrá \nprestar.\nEn esta Guía descubrirá cómo actuar con su entidad financiera \nsiguiendo cada una de las fases del proceso de inversión.\n\nSus derechos como inversor MiFID\nII. La mejor protección\ndel inversor en MiFID\nEsta Guía le presenta los principales aspectos recogidos en la Directiva de \nMercados de Instrumentos Financieros, más conocida por sus siglas en \ninglés, MiFID. Esta normativa europea, cuyo principal objetivo es mejorar la \nprotección de los inversores, se ha trasladado a la legislación española.\nPiense en sus actuales productos financieros. Probablemente una o varias \ncuentas corrientes, algún préstamo (como la hipoteca de su casa), una tarjeta \nde crédito, quizá algunas acciones, un fondo de inversión, uno o más seguros, \ntal vez un plan de pensiones… \nEsta normativa sólo se aplica a algunos de estos productos, como las \nacciones, los valores de renta fija, los fondos de inversión y los derivados (que \nse denominan productos MiFID). No se aplica a los productos puramente \nbancarios (por ejemplo las cuentas bancarias o los préstamos), ni a los \nseguros. Su entidad financiera podrá ofrecerle servicios de inversión tales \ncomo la compra/venta, el asesoramiento de inversiones o la gestión de \nsu cartera, entre otros, sobre los mencionados productos financieros (o \nproductos MiFID)1.\nEl grado de protección se establece en función de la complejidad de los \nproductos y servicios que la entidad le ofrezca o usted solicite y de su \ncapacidad para comprender y asumir su naturaleza y riesgos. \n1.\nNo obstante lo anterior, existen determinados productos que no son instrumentos\ndel mercado de valores o productos Mifid, denominados depósitos estructurados,\na los que sí les son aplicables las normas de protección al inversor.\n\nSus derechos como inversor MiFID\nPara mejorar la protección del inversor, la normativa establece tres principios \nbásicos que deben cumplir las entidades financieras cuando prestan \nservicios de inversión: \n¥ Actuar de forma honesta, imparcial y profesional, en el mejor interés \nde sus clientes. Este principio le protege cuando contrata con una \nentidad financiera que, como profesional, está en una posición de \nventaja respecto a usted.\n¥ Proporcionar información, antes y después de la prestación del \nservicio, imparcial, clara y no engañosa a sus clientes. Esto le \nayudará a comprender los productos y servicios de inversión y a \ntomar decisiones informadas.\n¥ Prestar servicios y ofrecer productos teniendo en cuenta las \ncircunstancias personales de los clientes. Con esto se pretende \nevitar que usted contrate productos o servicios que no pueda \ncomprender, no ajustados a su perfil o que no satisfagan sus \nnecesidades o expectativas.\nPara mejorar la protección del inversor, la normativa trata de \nasegurar que tiene toda la información necesaria para tomar \ndecisiones y comprender los riesgos de los productos y servicios \nde inversión.\n\nSus derechos como inversor MiFID\n\nSus derechos como inversor MiFID\nIII. Parte 1: \nAntes de invertir.\n1.1 ¿Qué tipo de cliente es usted?\nSi usted ya es cliente de un intermediario financiero, éste le habrá \ncomunicado su condición de cliente minorista. Esta es la categoría en la que \nse encuentran la mayoría de los inversores particulares. \nSu clasificación como minorista viene dada por la necesidad de establecer \ndiferentes mecanismos de protección en función de la tipología de los \nclientes, ya que no todos son iguales y por tanto no todos necesitan el mismo \ngrado de protección.\nLos clientes minoristas son aquellos a los que se les suponen menos \nconocimientos y experiencia en los mercados financieros y que, por \nello, reciben el máximo grado de protección. Los clientes con mayor \nconocimiento y experiencia (clientes profesionales) reciben menos protección \nya que tienen más capacidad para comprender la naturaleza y riesgos de los \nmercados, productos y servicios de inversión. \nSon clientes profesionales, entre otros, los bancos, empresas de servicios \nde inversión, compañías de seguros, fondos de pensiones, ciertas grandes \ncompañías, los gobiernos nacionales y regionales y algunos inversores \nparticulares que lo soliciten y cumplan unas condiciones.\n\nSus derechos como inversor MiFID\n¿Qué ocurre si usted solicita (o su entidad le propone) ser\n tratado como profesional?\nLa normativa permite que un cliente minorista pueda ser tratado como \ncliente profesional siempre que cumpla unas determinadas condiciones \ny procedimiento. \nSi lo hace, renunciará a parte de la protección que la normativa ofrece a \nlos clientes minoristas por lo que debe sentirse cómodo con ese menor \nnivel de protección y estar seguro de que es capaz de adoptar sus \npropias decisiones de inversión y de valorar adecuadamente los riesgos \nen los que incurra. \nAntes de considerarle profesional, su entidad deberá asegurarse de que \nesta categoría es adecuada para usted y que cumple con determinadas \ncondiciones relativas a la frecuencia y volumen de operaciones que \nha realizado, al valor de su cartera y a su experiencia profesional en los \nmercados. Al margen de lo anterior:\n¥ Deberá solicitar por escrito su clasificación como cliente \nprofesional, bien con carácter general, bien para un servicio \no transacción determinada o para un tipo de producto o \ntransacción específico. \n¥ La entidad deberá advertirle claramente por escrito de las \nprotecciones y posibles derechos de los que se vería privado. \n¥ Además deberá declarar por escrito, en un documento distinto \nal del contrato, que conoce las consecuencias derivadas de su \nrenuncia a la clasificación como cliente minorista.\nLos inversores minoristas reciben mayor protección que los \nprofesionales.\n\nSus derechos como inversor MiFID\n1.2 ¿Qué información va a recibir?\nLas entidades que prestan servicios de inversión deben mantener, en todo \nmomento (de forma previa y con posterioridad) adecuadamente informados \na sus clientes. Además, toda la información que reciba el cliente debe ser \n“imparcial, clara y no engañosa” tanto en lo que se refiere a su contenido \ncomo a la forma en la que se le presente.\nPublicidad\nLa creciente variedad de productos, su complejidad y la mayor \ncompetencia entre entidades, hacen que la publicidad tenga gran \ninfluencia en los inversores. Sin embargo, tenga en cuenta que nunca \ndebe tomar una decisión de inversión basándose sólo en la publicidad.\nLa publicidad debe ser imparcial, clara y no engañosa para evitar que \nle induzca a confusión o le cree expectativas poco realistas. Además, la \npublicidad debe ser claramente identificable como tal.\nInformación sobre la empresa y sus servicios\nSi usted todavía no es cliente de un intermediario financiero y pretende \nserlo, para que pueda elegir el intermediario que más le convenga, al \nacercarse a la entidad le deben informar sobre la propia empresa y los \nservicios que presta de modo que le ayude a entender su naturaleza y \nriesgos.\nTambién le deben facilitar los datos que le permitan comprobar que la \nentidad está inscrita en la CNMV y autorizada para prestar el servicio que \nle ofrece.\n\nSus derechos como inversor MiFID\nInformación sobre los productos\nAdemás, cuando vaya a contratar un producto financiero, para que pueda \ndecidir si se ajusta a sus necesidades, su entidad debe proporcionarle \ncon suficiente antelación, con el detalle que sea necesario, información \nsobre su naturaleza y riesgos y sus efectos, riesgo de pérdida total, etc. \nEsta explicación deberá incluir información sobre el funcionamiento del \nproducto, y cuál puede ser su rendimiento en diferentes condiciones de \nlos mercados financieros.\nInformación sobre costes y gastos\nAntes de contratar un producto o un servicio de inversión recibirá \ntambién información sobre los costes totales que va a tener que asumir , \nincluyendo todos los honorarios, comisiones, costes y gastos asociados, \nrelacionados tanto con el producto como con el servicio y todos los \nimpuestos a liquidar a través de la entidad. En caso de que pudieran \nsurgir otros costes, incluido el pago de impuestos, como consecuencia \nde transacciones vinculadas al instrumento financiero o al servicio en \ncuestión y que no se paguen a través de la entidad, se le advertirá de su \nexistencia. Usted podrá solicitar el detalle de todos los costes que tiene \nque asumir.\nTérminos de los contratos\nSi usted es un nuevo cliente minorista, deberá suscribir con su entidad \nun contrato que regule los derechos y obligaciones de ambos en la \nprestación del servicio de inversión. Es obligatorio que el contrato \nconste por escrito excepto cuando la entidad preste un servicio de \nasesoramiento sin evaluación periódica de idoneidad.\n\nSus derechos como inversor MiFID\nSu entidad deberá facilitarle \ntoda esta información con \nsuficiente antelación, es decir, \ncon el tiempo suficiente para \nque la pueda leer y comprender \ny pueda tomar así una decisión \nmeditada, sin precipitación ni \nbajo presión\n\nSus derechos como inversor MiFID\n1.3 ¿Cómo se clasifican los productos \nfinancieros?\nLas obligaciones de evaluación de la adecuación del producto al cliente \nvarían, con carácter general, en función del tipo de producto sobre el que se \npreste el servicio en cuestión. Una correcta clasificación de los instrumentos \nfinancieros por parte de las entidades es fundamental para una adecuada \nprotección de los clientes.\nLos productos financieros pueden clasificarse en dos tipos: los llamados \nproductos complejos y los productos no complejos.\nEjemplos de productos\n no complejos\n Ejemplos de productos \ncomplejos:\nAcciones cotizadas en mercados regulados \nOpciones y futuros \nLetras del Tesoro \nWarrants y turbowarrants\nBonos y obligaciones del Estado \nContratos por diferencias (CFD)\nFondos de inversión ordinarios \nFondos de inversión libre (Hedge Funds)\nBonos y obligaciones corporativas cotizados \nen mercados regulados que no incorporan un\n derivado implícito\nSwaps\n\nSus derechos como inversor MiFID\n¿En qué se diferencian unos de otros?\nLos productos no complejos deben cumplir todas y cada una de las \nsiguientes características:\nSe pueden reembolsar de forma frecuente a precios conocidos por \nel público. En general, siempre es fácil conocer su valor en cualquier \nmomento y hacerlos efectivos.\nEl inversor no puede perder un importe superior a su coste de \nadquisición, es decir, a lo que invirtió inicialmente.\nExiste información pública, completa y comprensible para el inversor \nminorista sobre las características del producto.\nNo son productos derivados.\nNo incorporan cláusulas o condiciones que podrían alterar el \nriesgo de la inversión o el perfil de pagos (por ejemplo, los bonos \nconvertibles o los bonos emitidos por bancos que pueden ser \nconvertidos en acciones en caso de necesidades de capital del \nbanco).\nNo incluyen ningún coste de salida que provoque que al inversor no \nva a compensarle vender el producto.\nLos productos complejos son los que no cumplen con alguna de las \ncaracterísticas anteriores. Pueden suponer mayor riesgo para el inversor, \nsuelen tener menor liquidez (en ocasiones no es posible conocer su valor en \nun momento determinado) y, en definitiva, es más difícil entender tanto sus \ncaracterísticas como el riesgo que llevan asociado.\n\nSus derechos como inversor MiFID\n1.4 ¿Qué servicios puede recibir?\nUsted puede contratar con su entidad, entre otros, alguno de los siguientes \nservicios de inversión: \n¥ Compra y venta de productos financieros. La entidad tramita sus órdenes.\n¥ Asesoramiento de inversión. La entidad le da recomendaciones\npersonalizadas de inversión.\n¥ Gestión de carteras. La entidad gestiona sus inversiones.\n¿Qué información le solicitará su entidad? ¿Por qué me hacen \ntantas preguntas y, en algunos casos, tan personales?\nUno de los aspectos más importantes y llamativos es la abundante \ninformación que le solicitará su entidad. Debe procurar responder a estas \npreguntas de modo veraz y con la mayor precisión para que la entidad le \npueda prestar el servicio de la mejor manera posible.\nLa entidad le puede preguntar si sabe cómo funciona algún producto, \nsi lo ha comprado antes, cuál es su grado de conocimiento de los \nmercados financieros, cuál es su objetivo al invertir, cuánto riesgo está \ndispuesto a asumir o incluso cuáles son sus ingresos, gastos, patrimonio \ny deudas.\nLas entidades deben solicitarle información para conocerle lo \nmejor posible y así poder ayudarle a tomar las decisiones de \ninversión y prestarle los servicios más adecuados para usted.\n\nSus derechos como inversor MiFID\nVeamos las situaciones que se pueden plantear al invertir en productos \nfinancieros y los diferentes grados de protección que se aplican a cada \ncaso.\nCompra y venta de productos financieros\nSu entidad deberá ofrecerle los productos que considere adecuados \npara usted. Por ello, le pedirá información sobre sus conocimientos y \nexperiencia previa en los mercados financieros con el fin de asegurarse \nde que usted es capaz de comprender la naturaleza y riesgos de los \nproductos que le ofrece.\nEl conjunto de preguntas que le harán para determinar si un producto o \nservicio de inversión es adecuado para usted, se denomina evaluación \nde la conveniencia, que habitualmente se realiza a través del \ndenominado test de conveniencia.\nEl test de conveniencia trata de valorar sus conocimientos y \nexperiencia en el ámbito de inversión correspondiente al tipo \nconcreto de producto o servicio ofrecido o solicitado. Para ello le \nformularán preguntas sobre:\n• Los tipos de servicios, operaciones e instrumentos financieros \ncon los que usted está familiarizado.\n• La naturaleza, frecuencia, volumen y periodo en el que usted ha \noperado previamente.\n• Su nivel de educación y su profesión actual o anterior.\nSi usted ya fuera cliente, puede ocurrir que la entidad disponga de \nesa información y no precise pedírsela de nuevo.\nLa entidad debe informarle del resultado del test de conveniencia \ny entregarle una copia del documento que recoja la evaluación \nrealizada.\n\nSus derechos como inversor MiFID\nSi usted no proporciona la información necesaria, la entidad no podrá \ndeterminar si el producto o servicio es adecuado para usted o no, por \nlo que le debe advertir de que la deficiencia de información le impide \ndeterminar si el servicio de inversión o el producto es adecuado. La \nadvertencia tendrá el siguiente contenido:\n“Le informamos de que dadas las características de esta operación XXX, \nla entidad ZZZ está obligada a evaluar la conveniencia de la misma para \nusted; es decir, evaluar si, a nuestro juicio, usted posee conocimientos \ny experiencia necesarios para comprender la naturaleza y riesgos del \ninstrumento sobre el que desea operar. Al no haber proporcionado \nlos datos necesarios para realizar dicha evaluación, usted pierde esta \nprotección establecida para los inversores minoristas. Al no realizar dicha \nevaluación, la entidad no puede formarse una opinión respecto a si esta \noperación es o no conveniente para usted.”\nSi usted solicita la compra de un producto complejo, su entidad \nademás deberá recabar la firma del texto anterior unida a una expresión \nmanuscrita que dirá: “Este es un producto complejo y por falta de \ninformación no ha podido ser evaluado como conveniente para mí.”\nCuando realizada la evaluación, la entidad considere que \nel servicio o producto no sea conveniente para usted, deberá \nadvertírselo. La advertencia tendrá el siguiente contenido:\n“Le informamos de que dadas las características de esta operación XXX, \nla entidad ZZZ está obligada a evaluar la conveniencia de la misma para \nusted. En nuestra opinión esta operación no es conveniente para usted. \nUna operación no resulta conveniente cuando el cliente carece de los \nconocimientos y experiencia necesarios para comprender la naturaleza y \nriesgos del instrumento financiero sobre el que va a operar”.\n\nSus derechos como inversor MiFID\nCuando la operación se realice sobre un instrumento complejo, la \nentidad deberá recabar su firma con el texto anterior, al que se le añadirá \nla expresión manuscrita siguiente:\n“Este producto es complejo y se considera no conveniente para mí.”\nSi usted ha sido advertido, bien de la imposibilidad de determinar si el \nproducto es adecuado o bien de que no es conveniente, es importante \nque se plantee si proceder con la compra del producto. Si pese a las \nadvertencias usted decide proseguir con la compra, la entidad podrá \ntramitar la operación.\nSólo cuando usted tome la iniciativa para contratar un producto \nconsiderado no complejo, su entidad le advertirá de que no tiene \nobligación de valorar si el producto es adecuado para usted y ejecutará \nsu orden de compra sin saber si el producto es conveniente o no. Este \nsupuesto se denomina sólo ejecución.\nEn el caso de que la entidad le preste el servicio por el canal telefónico, \nusted deberá repetir literalmente la expresión que corresponda, que \ndeberá ser grabada. En el caso de que la operación se tramite por \ninternet, deberá teclear la expresión que corresponda con carácter \nprevio a cursar la orden.\nAsesoramiento de inversiones\nEl asesoramiento de inversiones es la realización de recomendaciones \npersonalizadas, ya sea de forma puntual o continuada. Al asesorarle su \nentidad debe recomendarle los productos que mejor se ajusten a su \nsituación personal, para lo cual tendrá que analizar sus conocimientos \ny experiencia previa, así como sus objetivos de inversión y su situación\n\nSus derechos como inversor MiFID\nfinanciera. Sólo le recomendarán los productos que mejor se ajusten a su \nnivel de tolerancia al riesgo y capacidad para soportar pérdidas.\nEl conjunto de preguntas que le harán para obtener esta información es \nlo que se denomina evaluación de la idoneidad, que habitualmente se \nrealiza a través del denominado test de idoneidad.\nEl test de idoneidad pretende asegurar que las recomendaciones \npersonalizadas que le haga la entidad sean las más adecuadas \npara usted teniendo en cuenta su situación particular. Le \nformularán preguntas sobre:\n¥ Sus conocimientos y experiencia previos (test de \nconveniencia).\n¥ Su situación financiera, que podrá ser analizada con \ninformación sobre:\n• Su situación laboral, la fuente y nivel de sus ingresos \nregulares.\n• Su patrimonio, incluyendo activos y pasivos \nfinancieros, inversiones, inmuebles, liquidez...\n• Sus gastos y pagos periódicos, sus necesidades de \nliquidez, etc.\n¥ Sus objetivos de inversión, que podrán ser determinados con \npreguntas sobre:\n• El tiempo en el que se desea o se está dispuesto a \nmantener la inversión propuesta.\n• Su perfil y apetito por el riesgo \nSi usted no proporciona la información necesaria para que puedan \nevaluar la idoneidad, su entidad no podrá recomendarle servicios \no actividades de inversión o instrumentos financieros.\n\nSus derechos como inversor MiFID\nLa entidad deberá proporcionarle de forma previa a que exista ningún \ncompromiso de compra por escrito o a través de otro soporte duradero, \nuna descripción de cómo se ajusta la recomendación realizada a sus \ncaracterísticas y objetivos cada vez que emita una recomendación.\nLa entidad le puede solicitar que manifieste que no ha sido asesorado \nen una operación concreta (en el caso de que le preste un servicio sobre \nun producto complejo diferente al asesoramiento o gestión de carteras). \nPara ello, junto a su firma, deberá incluir la expresión “No he sido \nasesorado en esta operación”.\n¿Asesoramiento independiente o no independiente?\nUsted deberá ser informado de forma previa sobre si la entidad le \nestá prestando un servicio de asesoramiento independiente o no \nindependiente.\nLas entidades que le presten asesoramiento independiente, a la \nhora de hacer recomendaciones, no podrán considerar únicamente \ninstrumentos financieros emitidos por la propia entidad, una entidad \nde su grupo u otras con las que tengan participación en el capital, \nrelaciones de control o relaciones jurídicas, económicas o contractuales. \nEn conclusión, la entidad deberá evaluar una gama suficientemente \ndiversificada de instrumentos financieros disponibles en el mercado \nantes de emitirle una recomendación.\n\nSus derechos como inversor MiFID\nPor otro lado, cuando una entidad le preste asesoramiento dependiente \n(o no independiente) deberá ser informado de este hecho. La entidad \ntendrá en cuenta un rango restringido de productos a la hora de \nasesorarle.\nEn todo caso, las recomendaciones que le hagan deben ser siempre las \nmás idóneas para usted. \nAdemás, la entidad deberá informarle de forma previa si le realizará una \nevaluación periódica de idoneidad de los instrumentos financieros que le \nha recomendado.\nGestión de carteras\nCuando contrata la gestión de su cartera, usted está confiando en la \nentidad la selección de productos, la toma de decisiones de inversión \ny la ejecución de operaciones por su cuenta. En este caso, al igual que \nen el asesoramiento, la entidad debe asegurarse de que el servicio es \nadecuado a sus conocimientos y experiencia, objetivos de inversión y \nsituación financiera. Por tanto, también deberá efectuar la evaluación \nde la idoneidad o test de idoneidad. La entidad no podrá incluir en su \ncartera instrumentos financieros que no sean idóneos para usted.\nSi la entidad no dispone de la información necesaria para completar \ndicha evaluación o test de idoneidad no le podrá prestar el servicio de \ngestión de carteras.\nUsted como cliente deberá, al menos, entender los riesgos totales de su \ncartera y poseer conocimientos generales sobre los riesgos asociados \na cada tipo de instrumentos financiero que pueda ser incluido en la \ncartera.\n\nSus derechos como inversor MiFID\nEl siguiente diagrama y ejemplos prácticos resumen las diferentes situaciones \nque se pueden dar cuando usted acude a su entidad financiera para contratar \nun servicio de inversión sobre productos MiFID. \nEjemplo sólo ejecución: \nUsted acude a su sucursal y solicita por iniciativa propia la suscripción de una \nLetra del Tesoro.\nEjemplo test de conveniencia:\nUsted acude a su sucursal para informarse sobre un nuevo fondo ya que ha \nrecibido una llamada de la oficina ofreciéndoselo.\nEjemplo test de idoneidad:\nUsted dispone de unos ahorros que desea invertir. Acude a su sucursal y \nsolicita que le recomienden el producto que encaje con sus objetivos y \ncircunstancias personales.\n\nSus derechos como inversor MiFID\nIV. Parte 2: Durante y \ndespués de la inversión\n2.1 ¿Qué ocurre cuando da una orden a una \nentidad?\n¿Cómo se gestiona su orden?\nCuando usted ordena la compra o la venta de un producto financiero, la \nentidad debe ejecutar su orden de forma pronta y secuencial, es decir, lo \nantes posible y en el orden en el que la haya recibido. \nLa entidad deberá informarle si encuentra alguna dificultad que le impida \nla debida ejecución de su orden.\n¿Qué es la “mejor ejecución”?\nPara concluir la compra o la venta, su entidad debe ejecutar su orden \ntratando de conseguir el mejor resultado posible para usted. Lo que se \ndenomina “mejor ejecución”. \nA tal fin, su entidad debe identificar los centros de negociación más \nadecuados (bolsas de valores, otros sistemas organizados o entidades \nespecializadas), teniendo en cuenta una serie de factores como el \nprecio, los costes, la rapidez y la probabilidad de ejecución y liquidación, \nel volumen, la naturaleza de la operación y cualquier otro elemento \nrelevante para la ejecución de la orden.\n\nSus derechos como inversor MiFID\nDe éstos, los más importantes para usted, como inversor minorista, son \nel precio y los costes totales de ejecución, es decir, la cantidad total que \nusted deberá desembolsar (o que recibirá) por la operación, incluyendo \nel precio, todos los gastos y comisiones de ejecución, compensación y \nliquidación, incluso los que puedan ser abonados a otros intermediarios \nque intervengan en la operación.\nAntes de atender su orden, la entidad le habrá informado y recabado su \nprevio consentimiento a su política de ejecución.\nSi usted cree que su orden no se ha ejecutado en los mejores términos \nposibles, puede solicitar a la entidad que le justifique que la ejecución se \nha hecho de acuerdo con su política de ejecución.\nEn caso de que usted dé instrucciones específicas a su entidad sobre \ncómo quiere que ejecute su orden, éstas tendrán prioridad sobre la \npolítica de mejor ejecución que tenga establecida. Por ejemplo, si en su \norden usted especifica el mercado en el que desea que se ejecute, la \nentidad se atendrá a su petición por lo que podría perder la oportunidad \nde conseguir mejor precio en otro centro de negociación.\nComo minorista le interesa sobre todo el precio y los costes \ntotales de ejecución. Si cree que su orden no se ha ejecutado \nen los mejores términos, pida aclaraciones a su entidad\n\nSus derechos como inversor MiFID\n2.2 ¿Qué información va a recibir?\nSu entidad debe proporcionarle la información mínima necesaria para que \nusted pueda seguir la evolución de sus inversiones. \nEn caso de compra o de venta de productos financieros, una vez ejecutada \nla orden, deberá recibir una confirmación, antes del día siguiente al que se \nprodujo la ejecución, con información sobre las condiciones en las que se ha \nllevado a cabo (con carácter general, importe, fecha y hora de ejecución, tipo \nde orden, identificación del centro de ejecución y del instrumento financiero, \ny suma total de las comisiones y gastos repercutidos, incluyendo, si usted lo \nsolicita, un desglose de tales gastos y comisiones). \nEn caso de que usted haya contratado el servicio de gestión de su cartera la \nentidad debe remitirle información de forma general con carácter trimestral \nsobre la composición y valoración de su cartera, incluyendo datos sobre \ncada instrumento financiero, su valor de mercado o, en su defecto, el valor \nrazonable y el saldo de caja al principio y al final del periodo al que se refiere \nla información, así como el rendimiento de la cartera durante ese período. \nAdemás, la entidad deberá informarle:\n¥ de la cuantía total de los honorarios y gastos devengados durante \nel periodo al que se refiere la información. Siempre podrá pedir un \ndesglose más detallado que la entidad le deberá facilitar;\n¥ para cada operación ejecutada durante el período, de los datos \nsobre la ejecución de la orden, excepto si ya le han informado de ello \nsi usted ha elegido recibir información operación a operación.\n\nSus derechos como inversor MiFID\nEn el caso de que su cartera gestionada esté apalancada (es decir, si corre \nel riesgo de perder más dinero de lo invertido por usted en dicha cartera), la \nentidad le debe facilitar la información con carácter mensual. \nNo será necesario que su entidad le envíe el informe trimestral en caso de \nque la entidad le proporcione un sistema online accesible en el que usted \npueda conocer toda la información que debe proporcionarle, si bien para ello \nla entidad debe tener evidencia de que ha accedido a dicha información al \nmenos una vez durante el trimestre.\nSu entidad debe notificarle, con la suficiente antelación, \ncualquier cambio importante en la información suministrada a \nfin de que usted pueda actuar a tiempo si lo cree necesario.\nEs conveniente que conserve la documentación que reciba de \nsu entidad.\n\nSus derechos como inversor MiFID\nV. Parte 3: \nEn todo momento\nSu entidad debe organizarse y disponer de los medios que le permitan \ncumplir sus obligaciones y actuar de forma “honesta, imparcial, profesional \ny en el mejor interés del cliente”. Como inversor minorista, los aspectos que \nmás le pueden interesar son los siguientes:\n3.1 Conflictos de interés\nPor diversas razones, entre ellas la amplia gama de actividades que \ndesarrollan las entidades financieras, pueden surgir conflictos tanto entre los \nintereses de las entidades y los de sus clientes como entre los de diferentes \nclientes. Su entidad debe establecer medidas para evitar que estos conflictos \nle perjudiquen.\nAdemás, debe poner a su disposición la política que haya definido para la \ngestión de conflictos de interés y la prevención de posibles perjuicios. \n3.2 Custodia de las inversiones\nAl inicio de su relación, la entidad debe informarle sobre los mecanismos \nde protección que tenga a su disposición para el depósito y custodia de \nsus instrumentos financieros y efectivo. En todo caso, este servicio debe \nformalizarse en un contrato que regule los derechos y obligaciones de las \npartes.\nSu entidad evitará perjudicarle por conflictos de interés, \ncustodiará sus inversiones, le informará sobre los fondos de \ngarantía en caso de insolvencia y atenderá sus reclamaciones.\n\nSus derechos como inversor MiFID\nLa salvaguarda y custodia de sus instrumentos financieros y efectivo exige \nque sus valores y los del resto de clientes estén siempre identificados y \nseparados de los que pertenecen a la entidad. Si por razones de práctica \nhabitual o porque lo permita la normativa aplicable, sus instrumentos \nfinancieros fueran a estar depositados en una cuenta global de un tercero, \neste hecho debe quedar recogido en el contrato.\nLa entidad que custodie sus inversiones le enviará información sobre su \nestado al menos de forma trimestral.\n3.3 Fondos de garantía en caso de insolvencia\nEn determinados casos de insolvencia de la entidad, es posible que \nusted no pueda recuperar el efectivo o los instrumentos financieros que \nhubiera confiado a su entidad financiera. En este caso, podrá solicitar la \ncompensación al fondo de garantía o compensación al que se encuentra \nadherida. \nEl Fondo de Garantía de Inversiones (FOGAIN) ofrece una indemnización \na los inversores de sus entidades adheridas (empresas de servicios de \ninversión a excepción de las EAF, sociedades gestoras de instituciones de \ninversión colectiva y sociedades gestoras de entidades de tipo cerrado) en \ndeterminados supuestos de insolvencia de la entidad que presta el servicio \nde inversión, por el efectivo y valores depositados o confiados a la entidad, \ncon un máximo de 100.000€ por inversor. Para las entidades de crédito \nexiste el Fondo de Garantía de Depósitos que ofrece garantías equivalentes a \nlos clientes de dichas entidades.\n\nSus derechos como inversor MiFID\n3.4 Atención de sus reclamaciones\nSi tiene alguna queja por mal funcionamiento, demora o falta de atención \no si se siente perjudicado por la actuación de su entidad financiera, puede \nreclamar.\nPresentación de la reclamación ante el Servicio de Atención \nal Cliente o el Defensor del Cliente de la entidad\nSu entidad debe atender y resolver sus quejas y reclamaciones de \nforma pronta y razonable, de acuerdo con el procedimiento que haya \npublicado. También debe mantener evidencia de cada reclamación y de \nlas medidas adoptadas para su resolución.\nPara asegurar una correcta atención de las reclamaciones, las entidades \ndeben mantener un registro de todos los servicios y operaciones que \nrealicen durante un período mínimo de cinco años. En el caso de los \ncontratos con sus clientes, tienen que mantenerlos al menos mientras \ndure la relación. \nEs conveniente que usted también conserve los contratos que firme y, \nen general, toda la documentación que reciba de la entidad sobre las \noperaciones que realice.\nPresentación de la reclamación ante la CNMV.\nSi no recibe una respuesta de la entidad en el plazo de un mes o si esta \nno le resulta satisfactoria puede acudir al Servicio de Reclamaciones \nde la CNMV que se encarga de atender las consultas, quejas y \nreclamaciones de los inversores de forma rápida y gratuita.\n2º \npaso\n1er \npaso\n\nSus derechos como inversor MiFID\nVI. Conclusiones\nUno de los objetivos principales de la normativa derivada de la Mifid II es \nmejorar la protección del inversor minorista. Para ello trata de asegurar que \nlos inversores cuentan con toda la información necesaria para tomar sus \ndecisiones y comprender la naturaleza y riesgos de los productos y servicios \nde inversión. Para que estas exigencias funcionen, los inversores deben ser \nconscientes de su papel activo a la hora de realizar una inversión responsable. \nAntes de contratar productos o servicios de inversión, recuerde:\n¥ Asegúrese de que contrata con entidades autorizadas. Antes de invertir\no de contratar cualquier servicio compruebe que la entidad está inscrita\nen la CNMV y autorizada para prestar el servicio que le ofrece.\n¥ Solicite la información por escrito (o en un soporte que pueda conservar)\ntanto sobre las características, riesgos y costes de los productos o\nservicios que le ofrezcan como sobre las recomendaciones de inversión\nque le hagan.\n¥ Lea atentamente la información y si tiene dudas, resuélvalas. No firme\nningún documento sin aclarar todas sus dudas, o cuando entienda que\nalguna cláusula no responde a la realidad o le puede perjudicar.\n¥ Tómese el tiempo necesario. Su entidad le debe facilitar la información\ncon la suficiente antelación para que pueda decidir con conocimiento, sin\nprecipitación ni bajo presión.\n¥ Conserve la documentación. Le permitirá un mejor control y seguimiento\nde sus inversiones y, en caso de que se le presente algún problema, le\nfacilitará reclamar.\n¥ Cuanto mejor le conozca su entidad, mejor servicio le podrá prestar.\nSu entidad le solicitará información para asegurarse de que le ofrece\nlos productos y servicios que más le convienen. Facilítesela de modo\ncompleto y veraz.\n\nContáctanos por email\nEsta guía tiene como finalidad informar al público en general sobre distintos \naspectos relacionados con los mercados de valores. Por su naturaleza divulgativa \nno puede constituir un soporte para posteriores interpretaciones jurídicas, siendo \nla normativa vigente la única de aplicabilidad para estos fines. \n¿Necesitas más \ninformación?\nwww.cnmv.es",
+  "text_len": 36205,
+  "num_headings": 22,
+  "metadata": {
+    "producer": "iLovePDF",
+    "creation_date": "2026-06-05",
+    "mod_date": "2026-06-05"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "La protección del inversor (MiFID)",
+    "topic": "inversión",
+    "subtopic": "protección del inversor",
+    "difficulty": "intermedio",
+    "format": "PDF",
+    "summary": "Guía CNMV sobre la normativa MiFID y los derechos del inversor minorista",
+    "learning_objective": "Conocer la protección regulatoria del inversor"
+  },
+  "pdf_info": {
+    "n_pages": 32,
+    "body_size": 13.0,
+    "extractor": "pymupdf"
+  },
+  "deduped_from": null
+}

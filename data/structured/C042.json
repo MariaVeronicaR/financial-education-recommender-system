@@ -1,0 +1,155 @@
+{
+  "content_id": "C042",
+  "title": "CNMV - Decálogo para evitar chiringuitos financieros",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "CNMV - Decálogo para evitar chiringuitos financieros"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Consejo 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "Verifique que la entidad está autorizada y que la empresa no ha sido objeto de advertencia por parte de la CNMV ni de otros supervisores. En caso de duda, consúltenos.",
+      "links": [
+        {
+          "text": "Verifique que la entidad está autorizada",
+          "href": "https://www.cnmv.es/DOCPortal/Inversor/Decalogo/Consejo1.pdf",
+          "start": 0,
+          "end": 40
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Consejo 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Recuerde que los “chiringuitos” son peligrosos e intentan engañarle. Si sospecha, pregunte. Adopte una actitud activa. Haga preguntas sobre las características del servicio y de la inversión que se le estén proponiendo. Obtenga información por escrito.",
+      "links": [
+        {
+          "text": "Recuerde que los “chiringuitos” son peligrosos",
+          "href": "https://www.cnmv.es/DOCPortal/Inversor/Decalogo/C2_ChiringuitosPeligrosos.pdf",
+          "start": 0,
+          "end": 46
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Consejo 3"
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Esquemas piramidales en los que le pidan que también capte clientes.",
+        "Presión psicológica tendente a que adopte una decisión inmediata.",
+        "Mención o utilización del logo de la CNMV. Recuerde que la CNMV nunca le invitaría a realizar una inversión."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Consejo 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ojo al fraude a través de internet y redes sociales. No se deje engañar por la sofisticación de algunas páginas web. Manténgase alerta ante ofertas no solicitadas a través de sus perfiles de redes sociales. No se deje engañar por la afinidad de sus “seguidores” sociales.",
+      "links": [
+        {
+          "text": "Ojo al fraude a través de internet y redes sociales",
+          "href": "https://www.cnmv.es/DOCPortal/Inversor/Decalogo/C4_Internet_Redes.pdf",
+          "start": 0,
+          "end": 51
+        }
+      ]
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Asegúrese de que los productos que le ofrecen existen y contraste la información que le aportan sobre la cotización de los valores que quieren vender."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Perfil y educación del inversor"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Consejo 8"
+    },
+    {
+      "type": "paragraph",
+      "text": "Todos estamos expuestos a ser objeto de fraude. Desconfíe si no le solicitan información: los intermediarios financieros autorizados que le ofrezcan un producto deben evaluar su conveniencia (experiencia y conocimientos) y/o idoneidad (experiencia y conocimientos, situación financiera y objetivos de inversión) a través de un perfil o cuestionario.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Si no puede recuperar su dinero"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Consejo 9"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si no logra que le devuelvan su dinero, no continúe realizando aportaciones.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Denuncie"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Consejo 10"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ponga en conocimiento de la CNMV cualquier incidente sospechoso de fraude y denuncie lo ocurrido en la Policía, Guardia Civil o el Juzgado correspondiente.",
+      "links": []
+    }
+  ],
+  "links": [
+    {
+      "text": "Verifique que la entidad está autorizada",
+      "href": "https://www.cnmv.es/DOCPortal/Inversor/Decalogo/Consejo1.pdf",
+      "start": null,
+      "end": null
+    },
+    {
+      "text": "Recuerde que los “chiringuitos” son peligrosos",
+      "href": "https://www.cnmv.es/DOCPortal/Inversor/Decalogo/C2_ChiringuitosPeligrosos.pdf",
+      "start": null,
+      "end": null
+    },
+    {
+      "text": "Ojo al fraude a través de internet y redes sociales",
+      "href": "https://www.cnmv.es/DOCPortal/Inversor/Decalogo/C4_Internet_Redes.pdf",
+      "start": null,
+      "end": null
+    }
+  ],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:13:58.488283+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 8921,
+    "input_tokens": 2804,
+    "output_tokens": 3880
+  }
+}

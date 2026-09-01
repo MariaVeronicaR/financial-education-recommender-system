@@ -1,0 +1,91 @@
+{
+  "content_id": "C050",
+  "title": "Aprende a leer tu nómina: devengos, deducciones y salario neto",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Aprende a leer tu nómina: devengos, deducciones y salario neto"
+    },
+    {
+      "type": "paragraph",
+      "text": "La nómina es uno de esos documentos que muchas personas reciben, pero que pocas entienden del todo. Conocer bien sus componentes es clave para saber qué estás cobrando por tu trabajo tanto bruto como neto y qué impuestos y cotizaciones sociales estás pagando. Hoy te explicamos qué significa cada concepto.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La nómina es el recibo justificativo del salario que percibe una persona trabajadora y es emitido por la empresa donde trabaja. En ella se refleja el salario bruto y todos sus componentes, las deducciones aplicadas (impuestos, cotizaciones) y el salario neto o líquido, que es lo que finalmente se cobra. Lo habitual es que la nómina sea mensual, aunque si existen pagas extraordinarias, se emite una nómina independiente por cada una de ellas.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El salario bruto es la cantidad total de dinero que una persona recibe según su contrato antes de que se realicen deducciones, principalmente impuestos directos y las cotizaciones a la seguridad social que paga el trabajador. En cambio, el salario neto es el dinero que finalmente llega al trabajador.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estructura básica de una nómina"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque cada empresa puede utilizar un formato distinto, todas las nóminas deben adaptarse a la normativa vigente y contener tres partes fundamentales:",
+      "links": []
+    },
+    {
+      "type": "ordered_list",
+      "items": [
+        "Encabezado: incluye los datos de la empresa y del trabajador (nombre, NIF, categoría profesional, periodo de liquidación, etc.).",
+        "Cuerpo: es la parte más importante. Aquí aparecen: los devengos (ingresos brutos), las deducciones y el salario líquido a percibir.",
+        "Pie de nómina: contiene la fecha, así como el sello y la firma de la empresa y del trabajador."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Devengos: los ingresos brutos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los devengos son todas las cantidades que el trabajador genera antes de aplicar deducciones.",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Salario base",
+        "Complementos salariales: personales (antigüedad); asociados al puesto de trabajo (peligrosidad, nocturnidad); calidad y cantidad de trabajo (primas, bonus, horas extras, etc.); participación en beneficios; por residencia de la actividad laboral.",
+        "Beneficios en especie (como vales de comida, coche de empresa, seguro médico…)",
+        "Otros ingresos, como dietas, gastos de viaje y de representación."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Deducciones: lo que se descuenta de tu salario"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las deducciones reducen el salario bruto hasta llegar al salario neto.",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Cotizaciones a la Seguridad Social (a cargo del trabajador) que incluyen: contingencias comunes, desempleo, formación profesional y Mecanismo de Equidad Intergeneracional.",
+        "Retenciones de IRPF, que son los pagos anticipados del impuesto sobre la renta que recibe la Hacienda Pública.",
+        "Otras deducciones, que pueden ser cuotas sindicales, reembolso de anticipos de la empresa, aportaciones del trabajador a planes de pensiones…"
+      ]
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:14:17.149383+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 5347,
+    "input_tokens": 2529,
+    "output_tokens": 1525
+  }
+}

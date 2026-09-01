@@ -1,0 +1,20 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Artefactos del modelo (excluir por defecto)
+models/
+
+# FORZAR la inclusión de los artefactos entrenados de NeuMF-Profile para producción
+!models/
+!models/neumf_profile.pt
+!models/neumf_profile_features.json
+!models/neumf_profile_meta.json
+
+# Cachés de Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Configuración local (contiene credenciales)
+.env

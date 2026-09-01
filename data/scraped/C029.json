@@ -1,0 +1,113 @@
+{
+  "content_id": "C029",
+  "url": "https://clientebancario.bde.es/pcb/es/blog/como-en-el-padel-la-calma-gana-el-punto.html",
+  "source": "Portal Cliente Bancario BdE",
+  "host": "clientebancario.bde.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 36945
+  },
+  "title": "Tómate un tiempo antes de hacer click",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Tómate un tiempo antes de hacer click"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Tómate un tiempo antes de hacer click",
+      "start": 0,
+      "end": 1871,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Tómate un tiempo antes de hacer click"
+    },
+    {
+      "type": "paragraph",
+      "text": "09/07/2026\nAntes de completar cualquier operación bancaria digital, tómate un tiempo de reflexión. Esta será tu mejor defensa contra las estafas.\nEstamos acostumbrados a operar con el banco desde el teléfono, la app o la web de manera muy cómoda, pero, sobre todo, muy rápida. Y es, precisamente, esa rapidez la que nos vuelve muy vulnerables a errores y fraudes.\nTen en cuenta que la mayoría de las estafas no se producen por fallos técnicos, sino por la toma de decisiones precipitadas. Por eso, recuerda la regla de oro: antes de actuar, piensa dos veces… o tres.\nTe recomendamos que huyas de la urgencia y de la prisa. Los estafadores utilizan mensajes cargados de elementos metiéndonos prisa para que actúes sin reflexionar:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "“Tu cuenta será bloqueada”",
+        "“Verifica tus datos ahora mismo”",
+        "“Transferencia urgente”"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "El Banco de España advierte expresamente de que los fraudes más habituales se basan en generar urgencia y miedo para provocar decisiones rápidas sin verificación. Por ello, no accedas nunca a tu cuenta a través de enlaces recibidos por mensajes o correos. Una de las principales medidas de protección es acceder siempre a la banca digital a través de canales.\nPara evitar los fraudes, antes de hacer click en cualquier operación (transferencias, pagos, accesos a banca online), párate un momento y revisa:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "¿Estoy en la página oficial del banco?",
+        "¿He accedido desde un enlace o directamente desde la app/web?",
+        "¿Estoy introduciendo claves en un entorno seguro?",
+        "¿Conozco realmente al destinatario del dinero?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "El “doble check” también puede salvarte. Antes de confirmar cualquier operación, párate y pregúntate:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "¿Me están metiendo prisa?",
+        "¿Algo no encaja del todo?",
+        "¿Podría verificar esto por otra vía?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En caso de duda, nunca completes la operación. Contacta directamente con tu banco por canales oficiales."
+    }
+  ],
+  "text": "Tómate un tiempo antes de hacer click\n09/07/2026\nAntes de completar cualquier operación bancaria digital, tómate un tiempo de reflexión. Esta será tu mejor defensa contra las estafas.\nEstamos acostumbrados a operar con el banco desde el teléfono, la app o la web de manera muy cómoda, pero, sobre todo, muy rápida. Y es, precisamente, esa rapidez la que nos vuelve muy vulnerables a errores y fraudes.\nTen en cuenta que la mayoría de las estafas no se producen por fallos técnicos, sino por la toma de decisiones precipitadas. Por eso, recuerda la regla de oro: antes de actuar, piensa dos veces… o tres.\nTe recomendamos que huyas de la urgencia y de la prisa. Los estafadores utilizan mensajes cargados de elementos metiéndonos prisa para que actúes sin reflexionar:\n- “Tu cuenta será bloqueada”\n- “Verifica tus datos ahora mismo”\n- “Transferencia urgente”\nEl Banco de España advierte expresamente de que los fraudes más habituales se basan en generar urgencia y miedo para provocar decisiones rápidas sin verificación. Por ello, no accedas nunca a tu cuenta a través de enlaces recibidos por mensajes o correos. Una de las principales medidas de protección es acceder siempre a la banca digital a través de canales.\nPara evitar los fraudes, antes de hacer click en cualquier operación (transferencias, pagos, accesos a banca online), párate un momento y revisa:\n- ¿Estoy en la página oficial del banco?\n- ¿He accedido desde un enlace o directamente desde la app/web?\n- ¿Estoy introduciendo claves en un entorno seguro?\n- ¿Conozco realmente al destinatario del dinero?\nEl “doble check” también puede salvarte. Antes de confirmar cualquier operación, párate y pregúntate:\n- ¿Me están metiendo prisa?\n- ¿Algo no encaja del todo?\n- ¿Podría verificar esto por otra vía?\nEn caso de duda, nunca completes la operación. Contacta directamente con tu banco por canales oficiales.",
+  "text_len": 1871,
+  "num_headings": 1,
+  "metadata": {
+    "title": "Tómate un tiempo antes de hacer click",
+    "url": "https://clientebancario.bde.es/pcb/es/blog/como-en-el-padel-la-calma-gana-el-punto.html",
+    "hostname": "clientebancario.bde.es",
+    "description": "Tómate un tiempo antes de hacer click",
+    "sitename": "clientebancario.bde.es",
+    "date": "2026-07-09",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Blog del BdE: fraude o errores",
+    "topic": "fraude",
+    "subtopic": "casos prácticos",
+    "difficulty": "básico",
+    "format": "artículo blog",
+    "summary": "Reflexiones sobre casos reales de fraude y errores financieros",
+    "learning_objective": "Aprender de casos reales"
+  },
+  "deduped_from": null
+}

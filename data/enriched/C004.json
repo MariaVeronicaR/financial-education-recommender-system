@@ -1,0 +1,58 @@
+{
+  "content_id": "C004",
+  "tldr": "Todo producto de inversión conlleva un riesgo, y la relación entre rentabilidad y riesgo es directa: a mayor rentabilidad esperada, mayor riesgo. Antes de invertir hay que valorar si necesitarás el dinero a corto plazo, cuánto riesgo estás dispuesto a asumir y comparar la rentabilidad media de distintos productos en varias entidades. El proceso pasa por elegir un intermediario autorizado por la CNMV, seleccionar el producto, abrir una cuenta de valores y dar órdenes de compra o venta. Las principales alternativas son los fondos de inversión, la renta fija y las acciones, cada una con su propio perfil de riesgo y horizonte recomendado.",
+  "key_points": [
+    "Rentabilidad y riesgo van de la mano: a mayor rentabilidad esperada, mayor riesgo de sufrir pérdidas.",
+    "Antes de invertir, valora cuándo necesitarás el dinero, tu tolerancia al riesgo e infórmate de la rentabilidad media de varios productos y entidades.",
+    "Para invertir debes elegir un intermediario autorizado (verifícalo en el registro de la CNMV), elegir producto, abrir una cuenta de valores y dar órdenes.",
+    "Un fondo de inversión agrupa el capital de muchos partícipes y su riesgo depende de su política de inversión, que se detalla en el folleto o el DFI.",
+    "La renta fija ofrece rentabilidad conocida de antemano, mientras que las acciones no garantizan resultados y se recomiendan con horizonte de medio y largo plazo.",
+    "No existen gangas: un producto mucho más rentable que la media suele esconder un riesgo elevado."
+  ],
+  "quiz": [
+    {
+      "question": "Un producto de inversión te ofrece una rentabilidad muy superior a la media del mercado. ¿Qué deberías pensar?",
+      "options": [
+        "Que es una gran oportunidad para ganar dinero rápido sin riesgo",
+        "Que probablemente conlleva un riesgo elevado, ya que no suelen existir 'gangas'",
+        "Que está garantizado por la CNMV y no puedes perder dinero",
+        "Que es siempre la mejor opción porque asegura rentabilidad"
+      ],
+      "correct_index": 1,
+      "explanation": "El contenido advierte que no existen gangas: si te ofrecen un producto mucho más rentable que la media, puede haber un riesgo elevado.",
+      "concept_id": "C13"
+    },
+    {
+      "question": "Según el contenido, ¿cuál es el primer paso para empezar a invertir?",
+      "options": [
+        "Comprar acciones de una empresa conocida directamente",
+        "Abrir una cuenta de valores en cualquier entidad",
+        "Elegir un intermediario autorizado, comprobando que está registrado en la CNMV",
+        "Firmar la orden de compra del producto que más te guste"
+      ],
+      "correct_index": 2,
+      "explanation": "El proceso comienza eligiendo un intermediario autorizado (agencia o sociedad de valores, o entidad de crédito) y verificando su registro en la CNMV.",
+      "concept_id": "C12"
+    },
+    {
+      "question": "¿Qué caracteriza a un fondo de inversión según el contenido?",
+      "options": [
+        "Es un patrimonio formado por el capital de muchos inversores que una sociedad gestora invierte en una variedad de valores",
+        "Es un producto que siempre garantiza una rentabilidad fija conocida de antemano",
+        "Es un valor emitido por el Estado que paga cupones anuales",
+        "Es una parte del capital social de una empresa que convierte al inversor en socio copropietario"
+      ],
+      "correct_index": 0,
+      "explanation": "Un fondo de inversión agrega los capitales de los partícipes y una sociedad gestora los invierte en una variedad de valores según su política inversora.",
+      "concept_id": "C26"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 9452,
+    "input_tokens": 3647,
+    "output_tokens": 1169
+  }
+}

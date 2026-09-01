@@ -1,0 +1,594 @@
+{
+  "content_id": "C070",
+  "url": "https://www.cnmv.es/DocPortal/Publicaciones/Guias/LosFondosCotizadosEnBolsa(ETF).pdf",
+  "source": "CNMV",
+  "host": "www.cnmv.es",
+  "url_type": "pdf",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 684414
+  },
+  "title": "Los fondos de inversión y la inversión colectiva",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Cotizados en"
+    },
+    {
+      "level": 1,
+      "text": "II. Principales"
+    },
+    {
+      "level": 1,
+      "text": "características de los"
+    },
+    {
+      "level": 1,
+      "text": "III. ¿Qué tipos de ETF"
+    },
+    {
+      "level": 1,
+      "text": "IV. Los riesgos de"
+    },
+    {
+      "level": 1,
+      "text": "invertir en ETF"
+    },
+    {
+      "level": 1,
+      "text": "V. ¿Cómo se invierte"
+    },
+    {
+      "level": 1,
+      "text": "El DFI le ayudará a comprender"
+    },
+    {
+      "level": 1,
+      "text": "la naturaleza del fondo y los"
+    },
+    {
+      "level": 1,
+      "text": "riesgos de invertir en él. Recoge"
+    },
+    {
+      "level": 1,
+      "text": "toda la información necesaria y"
+    },
+    {
+      "level": 1,
+      "text": "relevante para que pueda tomar"
+    },
+    {
+      "level": 1,
+      "text": "una decisión fundada sobre la"
+    },
+    {
+      "level": 1,
+      "text": "conveniencia o no de invertir en"
+    },
+    {
+      "level": 1,
+      "text": "VI. Fiscalidad"
+    },
+    {
+      "level": 1,
+      "text": "VII. Recuerde"
+    },
+    {
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "level": 1,
+      "text": "información?"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Cotizados en",
+      "start": 11,
+      "end": 6440,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "II. Principales",
+      "start": 6440,
+      "end": 6544,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "características de los",
+      "start": 6544,
+      "end": 13309,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "III. ¿Qué tipos de ETF",
+      "start": 13309,
+      "end": 22972,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "IV. Los riesgos de",
+      "start": 22972,
+      "end": 23114,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "invertir en ETF",
+      "start": 23114,
+      "end": 25606,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "V. ¿Cómo se invierte",
+      "start": 25606,
+      "end": 27266,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "El DFI le ayudará a comprender",
+      "start": 27266,
+      "end": 27317,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "la naturaleza del fondo y los",
+      "start": 27317,
+      "end": 27349,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "riesgos de invertir en él. Recoge",
+      "start": 27349,
+      "end": 27384,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "toda la información necesaria y",
+      "start": 27384,
+      "end": 27417,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "relevante para que pueda tomar",
+      "start": 27417,
+      "end": 27449,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "una decisión fundada sobre la",
+      "start": 27449,
+      "end": 27480,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "conveniencia o no de invertir en",
+      "start": 27480,
+      "end": 34818,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VI. Fiscalidad",
+      "start": 34818,
+      "end": 35706,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VII. Recuerde",
+      "start": 35706,
+      "end": 39155,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "¿Necesitas más",
+      "start": 39155,
+      "end": 39213,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "información?",
+      "start": 39213,
+      "end": 39239,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)\nLos fondos"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cotizados en"
+    },
+    {
+      "type": "paragraph",
+      "text": "Bolsa (ETF)\nGuía"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nÍndice\nLos Fondos Cotizados\nen Bolsa (ETF)\nPrincipales características\nde los ETF\n¿Qué tipos de ETF existen?\nLos riesgos de invertir en ETF\n¿Cómo se invierte en ETF?\nFiscalidad\nRecuerde"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)\nI. ¿Qué son los fondos cotizados (ETF)?\nLos fondos de inversión cotizados, más conocidos por sus siglas en inglés, ETF,\nexchange-traded funds, son fondos de inversión cuya principal característica\nes que se negocian en mercados secundarios de valores. A diferencia de las\nparticipaciones de los fondos tradicionales, que se suscriben o reembolsan\na su valor liquidativo¹ (que se calcula tras el cierre de cada sesión), las\nparticipaciones en ETF pueden comprarse y venderse en un mercado\nsecundario, como las acciones o los bonos.\nAl igual que el resto de fondos de inversión, los fondos cotizados pueden\ninvertir en una amplia gama de activos que, en ocasiones, resultarían\ndifícilmente accesibles a los inversores, especialmente a los minoristas, como\nes el caso de los índices, las materias primas y los mercados emergentes. Por\notro lado, su cotización en los mercados secundarios permite a los inversores\nhabituados a operar en los mercados, comprar y vender de una manera\nsimilar a como se hace con otros activos cotizados.\nLos Fondos\nCotizados en\nBolsa (ETF)"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Entendido como el ratio entre el valor total de la cartera del fondo,\nneto de gastos, y el número de participaciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)\nUna particularidad de estos fondos es que, en muchos casos, tienen como\nobjetivo replicar el comportamiento de un determinado índice de referencia\n(por ejemplo, índices de renta variable: IBEX35®, EuroStoxx 50, Nasdaq 100, DJ\nIndustrial Average, etc., o también índices de renta fija).\nEl origen de los ETF se encuentra en la iniciativa que, a principios\nde los años 90, tuvo la Bolsa de Toronto al lanzar unos productos\ncotizados que replicaban índices bursátiles. Se pretendía\nsatisfacer la demanda de los inversores que querían acceder a\ncestas de acciones de manera sencilla y directa, sin tener que\nrecurrir a los fondos de inversión tradicionales o a los mercados\nde derivados. A Europa llegaron en el año 2000 de la mano de las\nBolsas de Fráncfort y Londres.\nEn España los primeros fondos cotizados ven la luz en 2006,\nal amparo del nuevo Reglamento de Instituciones de Inversión\nColectiva y fueron tres ETF referenciados al índice IBEX 35®.\nPosteriormente se inició una segunda etapa en el desarrollo\nde los ETF cuando se produjeron nuevas incorporaciones que\ncompletaban la oferta de subyacentes disponibles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)\n1.1 ¿Qué quiere decir que…?\n¥ Son fondos de inversión:\nLos ETF, al igual que el resto de fondos de inversión, son Instituciones de\nInversión Colectiva (IIC)2 de carácter financiero que pueden invertir en una\namplia variedad de clases de activos e instrumentos financieros. Se trata,\nen definitiva, de un patrimonio común, perteneciente a una pluralidad de\ninversores, llamados partícipes, que está gestionado y representado por una\nSociedad Gestora y donde los rendimientos individuales se establecen en\nfunción de los resultados colectivos.\nIgualmente, cuentan con una Entidad Depositaria, que es la encargada de\ncustodiar los valores o activos adquiridos por el fondo de inversión, así como\nde vigilar y supervisar la gestión que lleve a cabo la Sociedad Gestora, velando\npor el interés de los partícipes. No obstante, los ETF o fondos cotizados tienen\nciertas características que les hacen diferenciarse de los fondos tradicionales.\nAunque en este documento solo nos referiremos a los ETF en su forma de\nfondos, también se pueden encontrar ETF en forma de sociedades (SICAV\níndice cotizadas).\n¥ Su objetivo de inversión es replicar la evolución de un índice:\nDentro de la clasificación de los fondos de inversión, los ETF corresponden\na la categoría de los fondos indexados, es decir, aquellos cuya política de\ninversión es la de replicar la composición y el comportamiento del índice que\ntomen de referencia (índice de renta fija, de renta variable, de materias primas\no de divisas). Por ejemplo: un fondo índice sobre el IBEX 35 ® tendrá como\npolítica de inversión obtener una rentabilidad lo más parecida posible a la de\nese índice."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Las instituciones de inversión colectiva pueden ser fondos de inversión (FI) y\nsociedades de inversión de capital variable (SICAV). Tanto los FI como las SICAV son\npatrimonios formados por la agregación de capitales aportados por un número variable\nde personas (partícipes, en el caso de los FI, o accionistas, en el caso de las SICAV)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)\nAl frente de la gestión de los ETF se encuentra un profesional o Sociedad\nGestora que materializa las entradas de efectivo en la compra de diferentes\nactivos como acciones, bonos, derivados, etc., según la política inversora del\nfondo descrita en el folleto.\nExisten dos métodos para replicar la evolución del índice subyacente del ETF:\nla réplica directa o física y la réplica indirecta o sintética.\nLa réplica física consiste en la compra directa de los valores de las\nsociedades que pertenecen en cada momento al índice, todos o solo una\nmuestra (es posible la réplica con una muestra de valores y completar la\ncartera con derivados para obtener el mismo comportamiento que el índice).\nLos valores del fondo se ajustan periódicamente, replicando los cambios en\nla composición y peso de los valores del índice. El objetivo es conseguir que\nla composición y el peso de los valores de la cartera del fondo sean lo más\npróximos posibles a la del índice.\nMediante la réplica indirecta o sintética se persigue la rentabilidad del índice\na través de la utilización de instrumentos financieros derivados.\n¥ Sus participaciones se negocian en las bolsas de Valores:\nLas participaciones se negocian en mercados bursátiles electrónicos, con\nun funcionamiento similar al de las acciones, con información en tiempo\nreal y difusión automática de los precios y volúmenes a los que se están\nnegociando. De este modo, se puede conocer exactamente el precio al que\nestá cotizando la participación en el momento de dar la orden de compra o\nventa.\nEsto los diferencia de los fondos tradicionales, en los que el precio (valor\nliquidativo) se determina por el gestor a final del día."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. Principales"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "características de los"
+    },
+    {
+      "type": "paragraph",
+      "text": "ETF\n2.1. Accesibilidad\nLos fondos cotizados suelen tener importes mínimos de inversión reducidos,\npor lo que es posible acceder a ellos con pequeñas cantidades de dinero.\n2.2. Diversificación\nComo se ha comentado, una particularidad de los ETF es que tienen como\nobjetivo replicar el comportamiento de un determinado índice de referencia,\nya sea de renta variable, de renta fija, o de materias primas, por ejemplo. Es\nprecisamente su naturaleza de producto referenciado a una cesta o grupo\nde activos lo que permite invertir diversificando, evitando la concentración y\ntratando de gestionar, en cierta medida, el riesgo global de la inversión.\nDe este modo, los ETF ofrecen la posibilidad de participar en la evolución de\nlos principales mercados sin necesidad de invertir en todos y cada uno de los\nvalores que integran los índices de referencia.\nEjemplo\nMargarita Díaz desea invertir 10.000 € en un ETF del IBEX35®.\nRecordemos que es el índice selectivo de la bolsa española\ncompuesto por los principales valores y ponderados por su tamaño.\nSupongamos, por ejemplo, que en un momento determinado,\nSantander representa un 20 % del total del índice, Telefónica un 14 %,\nInditex un 12 %, BBVA un 11 %, Iberdrola un 8 % y así hasta el valor 35.\nHecha la compra en bolsa a través de un intermediario autorizado,\nMargarita Díaz posee participaciones de una cartera que replica la\ncomposición del IBEX35® por valor de 10.000 euros."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)\nEs decir, la compra de participaciones en el ETF, por importe de\n10.000 €, equivale a la inversión de 2.000 € (el 20 %) en acciones de\nSantander, 1.400 € (el 14 %), en acciones de Telefónica, 1.200 €\n(el 12 %), en acciones de Inditex, 1.100 € (el 11 %), en acciones de BBVA,\netc.\n2.3. Liquidez\nLas participaciones se negocian en tiempo real en el segmento de\nnegociación de fondos de inversión cotizados de la bolsa: el inversor puede\ninvertir y desinvertir en cualquier momento durante el horario de negociación\nbursátil, incluso varias veces al día. La operativa de compra y venta de\nparticipaciones, por tanto, es similar a la de las acciones negociadas en bolsa.\nAdemás, el ETF es un producto que cuenta con especialistas, entidades\nque fomentan la liquidez del producto, que mantienen precios de compra\ny venta a lo largo de toda la sesión bursátil; es decir, tienen la obligación de\nproporcionar liquidez a los fondos cotizados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)\nNo obstante lo anterior, existen los llamados Límites de Actuación, es decir,\nsupuestos en los que el especialista o creador de mercado queda exonerado\ntemporalmente de su actuación como tal en situaciones de alta volatilidad,\nen atención a las variaciones de precios del valor en cuestión respecto al\nprecio de la última subasta o al último precio negociado.. Esta exoneración\nse mantendrá hasta que la situación se haya normalizado y tendrá efecto\nexclusivo para la sesión en curso.\nMediante el mantenimiento de una horquilla de precios máxima para\nun determinado volumen, los especialistas permiten la realización de\nnegociaciones en el mercado secundario a precios en línea con el valor\nliquidativo indicativo del ETF. Adicionalmente, mediante su actuación en el\nmercado primario, los especialistas facilitan que el número de participaciones\ndel ETF disponibles en cada momento en el mercado sea el adecuado. Cada\nvalor que se negocie en este segmento deberá tener al menos un especialista.\nEn función de las características de cada ETF se establecerán los requisitos\nde presencia en el mercado que deberán cumplir los especialistas. Estos\nrequisitos hacen referencia a la horquilla máxima entre el precio de compra\ny el de venta de las posiciones que introduzca en el mercado el especialista,\nal importe efectivo mínimo asociado a las mencionadas posiciones y a su\npresencia en el mercado a lo largo de la sesión. La actuación simultánea de\nlos especialistas en el mercado primario y en el mercado secundario permite\nque el precio del fondo cotizado se mantenga en niveles cercanos a su valor\npatrimonial a través del arbitraje.\nPor otro lado, se puede interrumpir la contratación del fondo por la\nimposibilidad de calcular el índice o el valor liquidativo indicativo así como por\nla falta de comunicación en forma y plazo establecido de la composición de la\ncartera, de la cesta o del valor liquidativo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)\n2.4. Inmediatez y transparencia\nDurante el horario de negociación, la bolsa calcula y difunde un valor\nliquidativo indicativo estimado3, lo que permite al partícipe conocer en todo\nmomento cómo evoluciona su inversión.\nLas operaciones se realizan a los precios de compra y venta que ofrezcan las\ncontrapartidas en cada momento. El inversor tiene mayor certeza que en los\nfondos tradicionales sobre el precio al que se va a realizar la compra o venta,\nya que será muy parecido al último valor liquidativo indicativo publicado\nantes de la orden. Las ventas se liquidarán (mediante abono en la cuenta del\npartícipe) en los mismos plazos que las acciones.\n2.5. Dividendos\nAl margen de la eventual rentabilidad obtenida por el aumento del precio\ndel ETF, los partícipes cuentan con la posibilidad de recibir dividendos\n(prácticamente inexistente en los fondos tradicionales). Con carácter\nperiódico (anual, semestral...) el fondo cotizado podrá retribuir a los inversores\ncon los dividendos distribuidos por las sociedades que componen el índice\nde referencia. Sobre todo esto es habitual en el caso de los ETF que siguen\níndices de renta variable. El volumen total a abonar será la diferencia entre\nel valor liquidativo del fondo y el valor del índice de referencia. Este abono\npuede implicar el cobro de comisiones por parte del intermediario.\nNo existe una política común de reparto de dividendos en todos los ETF; cada\ngestora establece su propia política, que debe ser informada detalladamente\nen el DFI (documento con los datos fundamentales para el inversor).\nHay que tener en cuenta que, al igual que sucede con las acciones, el impacto\nsobre el ETF el día de pago del dividendo hará que caiga su valor liquidativo.\nAdemás, dicho dividendo lo cobrará quien tenga invertido en el ETF en la\nfecha de registro de asignación de derechos, también denominado record\ndate, independientemente de la fecha en la que lo haya comprado."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "El valor liquidativo indicativo estimado del fondo de inversión se difunde en diversos momentos de\nla sesión bursátil con el fin de que el inversor pueda compararlo y tome las decisiones oportunas.\nSe calcula multiplicando el valor liquidativo del día anterior a esa sesión por la variación que\nexperimente el índice en el momento del cálculo respecto al valor de cierre de la sesión anterior."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "III. ¿Qué tipos de ETF"
+    },
+    {
+      "type": "paragraph",
+      "text": "existen?\nA la hora de clasificar los ETF se pueden considerar diferentes criterios. El\ncriterio más generalizado es el que se basa en la política de inversión del\nfondo. De forma complementaria se puede establecer una categoría en\nfunción de la estrategia que sigue el fondo. Así, podemos definir:\nETF que sigue la evolución\ndel mercado\nETF inversos o de exposición\ninversa al mercado\nETF apalancados\n3.1. ETF que siguen la evolución del mercado.\nEn esta categoría se incluyen los ETF que replican el comportamiento del índice de\nreferencia. Como ya se ha explicado con anterioridad, esta réplica puede conseguirse\nmediante la compra de las acciones integrantes en la misma proporción con que\naparece en dicho índice (fondos cotizados físicos) o mediante la utilización de\ninstrumentos financieros derivados (fondos cotizados sintéticos). Si el índice sube,\nel valor del fondo subirá, y obtendrá beneficios. Por el contrario, ante movimientos a\nla baja del mercado, el valor del índice caerá y, por lo tanto, generará pérdidas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)\nEjemplo:\nPartiendo de que al comienzo del cálculo (Día 0) el valor del índice\nde mercado y del ETF es 100, simulamos un entorno de precios con\nfuertes variaciones diarias para que resulte más ilustrativo.\nTodos los días la variación del ETF es la misma que la del índice del\nmercado al que esté referenciado. Se mueven de forma conjunta, en el\nmismo sentido y cuantía similar (para no distorsionar el ejemplo no se\ntienen en cuenta el posible reparto de dividendos ni otros gastos).\nCuando el primer día el índice sube, el ETF también aumenta de valor\ny genera un beneficio de 5 €. Si por el contrario, como ocurre en el\nsegundo y tercer día, el índice cae, el ETF también lo hace y genera\npérdidas.\nPara calcular el resultado de cada día, se toma como referencia el valor\nliquidativo del cierre de la sesión anterior.\nEn el ejemplo, en el conjunto de los 4 días, ambos, el índice y el ETF,\nhan registrado una caída del 6,44 %, lo que ha generado una pérdida\ntotal de 6,44 €.\nNo obstante el ejemplo anterior, el valor liquidativo de un fondo\ncotizado puede ser distinto del valor de su índice de referencia, debido\na las comisiones y gastos que soporta el fondo y a los dividendos que\nabonan los valores en cartera al fondo cotizado.\nDía 0\nDía 1\nDía 2\nDía 3\nDía 4\nEvolución\ndiaria\n5 %\n-10 %\n-10 %\n10 %\nVALOR ÍNDICE\nMERCADO\n94,50\n85,05\n93,56\nResultado\ndiario ETF\n5,00 €\n-10,50 €\n-9,45 €\n8,51 €"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)\n3.2. ETF inversos o de exposición inversa al\nmercado.\nLos ETF inversos son aquellos que replican el comportamiento de un índice\ninverso, es decir, un índice cuya evolución es la contraria al movimiento del\nmercado, de modo que su rentabilidad será positiva cuando el índice pierda\nvalor y negativa cuando el índice incremente su cotización.\nPara identificar esta categoría de ETF, en su denominación se incluye la\npalabra inverso o short (en su terminología anglosajona).\nEs importante que el inversor sepa que, aunque no acude\ndirectamente a los mercados a comprar las acciones o los bonos\no los instrumentos derivados, está asumiendo ese mismo riesgo\na través de su ETF. Por ello, es imprescindible que el inversor\nconozca ese nivel de riesgo y decida antes de invertir si está\ndispuesto o no a asumirlo. No hay que olvidar que las inversiones\nen las que se materialice el patrimonio del fondo determinan el\nnivel de riesgo que asumen los partícipes y en algunas ocasiones\ntener acceso a valores de países emergentes, de sectores muy\nespecializados, de mercados restringidos, o denominados en\nmoneda distinta, conllevan la asunción de un riesgo adicional.\nEFT"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)\nEjemplo:\nPartiendo de que al comienzo del cálculo (Día 0) el valor del índice de\nmercado y del ETF es 100, simulamos un entorno de volatilidad con\nfuertes variaciones diarias para que resulte más ilustrativo:\nEn el ejemplo, el índice cae un 6,4 % en estas 4 sesiones, mientras que\nel ETF inverso ha subido un 3,5 %. ¿Por qué? Es sencillo, simplemente\nuna cuestión de cálculo. Todos los días la variación del ETF inverso\nes la misma que la del índice del mercado al que esté referenciado,\npero en sentido contrario. Sin embargo, una vez pasado el primer día,\nesta variación se aplica sobre bases distintas. Así, el Día 4 el índice del\nmercado sube un 10 % y el ETF inverso también cae un 10 % como está\nprevisto, pero mientras el primero sube desde 85,05, el ETF cae desde\n114,95. De este modo, al final del Día 4 la rentabilidad del ETF inverso,\nrespecto al Día 0, ha sido del 3,5 %.\nDía 0\nDía 1\nDía 2\nDía 3\nDía 4\nEvolución\ndiaria\n5 %\n-10 %\n-10 %\n10 %\nVALOR ÍNDICE\nMERCADO\n94,50\n85,05\n93,56\nValor ETF\nINVERSO\n104,50 €\n114,95 €\n103,46 €\nResultado\nposición ETF\nINVERSO\n-5,00 €\n9,50 €\n10,45 €\n11,50 €"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)\n3.3. ETF apalancados\nDentro de la categoría de los fondos cotizados sintéticos (aquellos que utilizan\ninstrumentos derivados para replicar el índice de referencia), se encuentran\nlos fondos apalancados, que son aquellos que replican el índice bursátil en\nuna determinada proporción o apalancamiento, de forma que las ganancias\no pérdidas del índice se incrementan según el grado de apalancamiento. En\nun ETF apalancado x 2, las ganancias y las pérdidas del índice subyacente se\nduplican con el ETF.\nSon, por tanto, ETF con los que se asume un mayor riesgo. Es conveniente\nhacer hincapié en que los ETF apalancados, al igual que los inversos, reflejan la\nevolución diaria del índice y no su evolución total para un plazo determinado.\nCada día se calcula la rentabilidad respecto al día anterior, no considerando\nsolo el valor inicial y final del periodo. Por tanto, en el caso de los ETF\napalancados, si el índice lleva ganado un 50 %, el ETF apalancado x 2 no\nganará exactamente el 100 %.\nPongamos un sencillo ejemplo teórico sin tener en cuenta costes ni\ndividendos: partiendo de que al comienzo del cálculo (Día 0) el valor\nde ambos es 100.\nDía 0\nDía 1\nDía 2\nDía 3\nEvolución\ndiaria\n+10 %\n+9 %\n16,6 %\nVALOR ÍNDICE\n119,9\nApalancado x2\n141,6\n94,6 €\nResultado\nposición ETF\napalancado x2\n+20 €\n+21,6 €\n-47,01 €"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)\nNormalmente, la estructura de rentabilidad y la utilización de\nderivados para lograr dicha rentabilidad conllevan algunos riesgos\nque pueden resultar de difícil asimilación y comprensión para\ndeterminados inversores.\nEl primer día el índice sube un 10 %; este valdrá 110 y el ETF apalancado x\n2, 120. El día 2 el índice sube un 9 % respecto del día anterior y vale 119,9;\nel ETF apalancado x 2, 141,6. Al tercer día, el índice baja un 16,6 % respecto\ndel día anterior y vuelve a valer 100, su valor inicial. En contraste, el ETF\napalancado x 2 acaba con un valor inferior (94,6). ¿Qué ha motivado este\ncomportamiento?. Partimos de la misma variación diaria del mercado\n(16,6 %), pero lo aplicamos a bases distintas (119,9 y 141,6). En este caso,\nprimero amplificamos la caída al multiplicarla por 2 y después la\ncalculamos sobre un valor superior: (16,6 % x 2) 141,6 = -47,01 €.\nPodemos observar cómo el día 2 se obtiene un resultado por\nencima del esperado. Sin embargo, no hay que olvidar que el efecto\napalancamiento funciona en ambos sentidos, cuando se gana y\ncuando se pierde. De esta forma, en el día 3, la pérdida también se\nproduce por un valor superior (47 es mayor que 19,9 x2).\nEstos ETF más sofisticados requieren un mayor conocimiento\npor parte del inversor y entrañan mayor riesgo que los ETF no\napalancados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)\nEl nombre de los ETF\nLa denominación de los ETF incorpora gran cantidad de información, que\nayuda al inversor a conocer sus características básicas. El resultado son\nnombres largos pero que contienen descripciones relevantes para los\ninversores: nombre de la gestora, índice de referencia, si son de estrategia\ninversa o apalancada, si cumplen o no la directiva UCITS o si tienen cubierto el\nriesgo de divisa.\nUnos ejemplos nos ayudarán a identificar correctamente los datos más\nrelevantes de los ETF:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "¿Quién es la Entidad Gestora? Gestora XYZ.",
+        "UCITS (Undertakings for Collective Investments in Transferable"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Securities Directive). Esto quiere decir que el ETF cumple la normativa\neuropea sobre fondos que regula los organismos de inversión\ncolectiva en valores mobiliarios."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "¿Cuál es Índice que replica? El EURO STOXX 50.",
+        "¿Es un ETF apalancado o inverso? No, en este caso el ETF elegido sigue"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "la tendencia de mercado, no es de estrategia ya que no se identifica\ncomo tal.\nNombre del ETF: Gestora XYZ UCITS ETF EURO STOXX 50."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Compartiría todos los datos anteriores y, además, el término DAILY"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "LEVERAGE nos indicaría que es un ETF de estrategia, apalancado\ndiario.\nEn el caso de los ETF españoles, el identificador para saber que están\nsometidos a la normativa europea no es UCITS, sino FI COTIZADO\nARMONIZADO.\nVeamos un ejemplo:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "¿Quién es la Entidad Gestora? Gestora ABC.",
+        "FI COTIZADO ARMONIZADO: Esto quiere decir que este ETF"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "español cumple la normativa europea sobre fondos que regula\nlos organismos de inversión colectiva en valores mobiliarios."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "¿Cuál es el Índice que replica? El IBEX 35.",
+        "¿Es un ETF apalancado o inverso? Ninguno de los dos, si lo"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "fuera, se identificaría como tal.\nEs aconsejable familiarizarse con estos términos para poder identificar el ETF\nsobre el que estamos obteniendo información.\nNombre del ETF:\nGestora XYZ UCITS ETF EURO STOXX 50 DAILY LEVERAGE.\nNombre del ETF:\nGestora ABC IBEX 35 ETF FI COTIZADO ARMONIZADO."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "IV. Los riesgos de"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "invertir en ETF"
+    },
+    {
+      "type": "paragraph",
+      "text": "Como cualquier otro producto de inversión, la inversión en ETF incorpora\nun riesgo, consecuencia principalmente de la evolución de los mercados\na los que se ha expuesto. Aunque el hecho de invertir en un índice ayuda a\ncontrolar los riesgos debido a la diversificación, el inversor no puede ignorar la\nposibilidad de sufrir pérdidas.\nComo se ha comentado, con carácter general, el objetivo de inversión de los\nfondos cotizados o ETF es reproducir la evolución de un índice y proporcionar\nsu misma rentabilidad. Pero, ¿existe una medida para evaluar la proximidad\ncon la que el fondo sigue al índice?. Sí. La forma más habitual consiste en\ncomparar ambas trayectorias y observar si se producen algunas desviaciones.\nEs lo que se conoce como Error de Seguimiento o Tracking Error (por su\ntraducción al inglés). Normalmente, el Tracking Error tiende a ser pequeño;\ncuanto mayor sea, indicará que menos fielmente sigue el ETF al índice.\nEste error de seguimiento puede provocar que el inversor final experimente\nun riesgo de mercado en su cartera.\nEl inversor minorista que invierte en fondos cotizados con el\nobjetivo de obtener la rentabilidad de un determinado índice\npuede encontrarse con que, finalmente, dicha rentabilidad sea\ndistinta de la esperada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)\nAlgunos fondos, por su política de inversión, pueden mantener en cartera\nvalores o contratos que incorporen un riesgo de crédito o contraparte:\nes la posibilidad de que el emisor o la contraparte no pueda hacer frente\na sus pagos o de que se produzca un retraso en los mismos. El riesgo de\ncontrapartida de los fondos cotizados afecta a aquellos ETF que utilizan\nderivados OTC, como los contratos de permutas financieras o swaps, para\nreplicar de manera sintética la rentabilidad de los activos de referencia.\nLos ETF que replican un índice denominado en una divisa diferente al euro\ntambién incorporan un riesgo derivado de las fluctuaciones de los tipos de\ncambio. Por ejemplo, si el índice de referencia cotiza en dólares mientras que\nsu ETF cotiza en euros, la evolución del tipo de cambio será un factor a tener\nen cuenta a la hora de invertir. Por ejemplo, para un inversor español, comprar\nun ETF en euros sobre el S&P 500 (calculado en dólares) implica asumir un\ndoble riesgo: por un lado, el del propio índice bursátil, y por otro, el del tipo\nde cambio, ya que una depreciación (apreciación) del dólar implicará una\npérdida (beneficio)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "V. ¿Cómo se invierte"
+    },
+    {
+      "type": "paragraph",
+      "text": "en EFT?\n5.1. Intermediarios\nLos ETF pueden adquirirse a través de los intermediarios financieros como\nbancos, cajas de ahorros, sociedades y agencias de valores, etc. En principio,\nlas sociedades gestoras también pueden comercializar los ETF, bien de forma\ndirecta o a través de agentes o representantes. Sin embargo, lo más frecuente\nes que se comercialicen a través de los intermediarios mencionados\n(entidades de crédito y empresas de servicios de inversión).\nSi bien hasta hace poco la forma más frecuente de transmitir órdenes de\ncompra o venta a los intermediarios era físicamente en la sucursal o bien\npor teléfono, hoy en día también se ha impuesto la operativa por internet.\nDe cualquier modo, conviene verificar en el registro público de la CNMV\n(www.cnmv.es) o en el Banco de España (www.bde.es) la autorización del\nintermediario para prestar este servicio de inversión.\n5.2. Aspectos a tener en cuenta antes de invertir\nLas obligaciones de información a los inversores sobre los fondos\ncotizados son menores que las de los fondos tradicionales. La\nadquisición en la bolsa de valores de participaciones en fondos\nde inversión cotizados está exenta de la obligación de entrega\ngratuita del documento con los datos fundamentales para el\ninversor (DFI) y del último informe semestral. En cualquier caso,\nprevia solicitud por parte del inversor, el intermediario deberá\nentregar el folleto y los últimos informes anual y trimestral\npublicados. Adicionalmente, la Sociedad Gestora deberá\nremitirle con carácter gratuito los sucesivos informes anuales y\nsemestrales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "El DFI le ayudará a comprender"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "la naturaleza del fondo y los"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "riesgos de invertir en él. Recoge"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "toda la información necesaria y"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "relevante para que pueda tomar"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "una decisión fundada sobre la"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "conveniencia o no de invertir en"
+    },
+    {
+      "type": "paragraph",
+      "text": "el fondo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)\nEl DFI incluye, entre otras informaciones, un dato indicativo del nivel de\nriesgo/rentabilidad del fondo cotizado en una escala de 1 a 7 niveles, de\npotencialmente menor rendimiento/menor riesgo (1) a potencialmente mayor\nrendimiento/mayor riesgo (7).\nEs importante tener en cuenta que la categoría 1 no significa que la inversión\nesté libre de riesgo, ya que cualquier producto de inversión incorpora riesgo.\n5.3. Horario de mercado\nLos ETF se negocian en el mercado electrónico bursátil en tiempo real, con\nla misma mecánica que rige para las acciones. La contratación general tiene\nun horario de 8:30 a 17:35, compuesto por un periodo de subasta de apertura\nentre las 8:30 y 9:00 horas y un periodo de mercado abierto entre 9:00 y\n17:35. La única diferencia respecto de las acciones es que su precio de cierre\nse determinará como el punto medio de la horquilla en ese momento y no\nmediante el proceso de subasta de cierre.\nDurante la subasta de apertura es posible introducir, modificar y cancelar\nórdenes, pero no se producen negociaciones. Este proceso permite mostrar\nen todo momento el precio de equilibrio al que, de finalizar en ese momento\nla subasta, se realizarían las operaciones. Finalizada la subasta, el precio\nasignado será el precio de apertura.\nPor tanto, el inversor debe consultar el DFI o folleto simplificado\npara poder adoptar una decisión de inversión fundada. Resulta\nesencial consultar en este documento los objetivos y la política\nde inversión del fondo cotizado, el perfil de riesgo, los gastos y las\ncomisiones aplicables, etc."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)\n5.4. Tipos de órdenes\nCon independencia de que cada intermediario autorizado pueda dar\nacceso a sus clientes a todas o solo a una parte de las órdenes, el sistema\nde negociación bursátil español admite 3 tipos de órdenes: limitadas, de\nmercado y por lo mejor.\nLas órdenes limitadas son las más generalizadas. Permiten fijar el precio de la\noperación, esto es, un precio máximo para la compra o mínimo para la venta.\nEs muy frecuente entre los inversores fijar un precio como límite: no quieren\nvender por debajo o comprar por encima de él (el máximo precio que se está\ndispuesto a pagar o el mínimo precio al que se está dispuesto a vender).\nUna orden limitada se puede ejecutar total o parcialmente si se encuentra\ncontrapartida a ese precio o a un precio mejor. Mientras no encuentre\ncontrapartida, quedará pendiente en el libro de órdenes.\nAnte la posibilidad de que las órdenes se ejecuten en distintos tramos a\ndistintos precios, el inversor debe informarse de las comisiones que generaría\nesta operativa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)\nPor su parte, en las órdenes de mercado no se especifica límite de precio,\npor lo que se negociará al mejor precio que ofrezca la parte contraria en el\nmomento en que se introduzca la orden. El riesgo para el inversor en este tipo\nde órdenes es que no controla el precio de ejecución. Si no puede ejecutarse\nen su totalidad contra la mejor orden del lado contrario, lo que reste se\nseguirá ejecutando a los siguientes precios ofrecidos, en tantos tramos como\nsea necesario hasta que se complete. Lo habitual es que las órdenes de\nmercado se ejecuten inmediatamente, aunque sea en partes. Cada ejecución\nparcial es una operación distinta, por lo que este tipo de orden puede\naumentar los costes para el inversor.\nEstas órdenes son útiles cuando el inversor está más interesado en realizar la\noperación que en tratar de obtener un precio favorable.\nLas órdenes por lo mejor son órdenes que se introducen sin precio. La\nnegociación se realiza al mejor precio de contrapartida en el momento en\nque se introducen. Si al mejor precio no hay volumen suficiente para atender\nla totalidad de la orden, la parte no satisfecha quedará limitada a ese precio\n(no podrá cruzarse a otro más desfavorable). La orden por lo mejor se utiliza\ncuando el inversor quiere asegurarse una ejecución inmediata, pero también\ndesea ejercer cierto control sobre el precio. El objetivo es que la orden no se\nejecute a varios precios.\n5.5. Gastos y comisiones\nLa operativa con ETF genera comisiones y gastos inherentes a su naturaleza:\nes un fondo de inversión pero se negocia como una acción, por lo que tendrá\ngastos adicionales derivados de la operativa bursátil. Antes de invertir y\noperar con ETF, el inversor debe analizar detenidamente los gastos directos e\nindirectos que va a soportar, ya que todos ellos inciden en la rentabilidad final\nde la inversión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)\n¥ Por ser un fondo de inversión: a diferencia del resto de fondos de\ninversión que pueden tener comisión de suscripción y reembolso,\nlos ETF no tienen estas dos clases de comisiones, pero sí se les\naplica la comisión de gestión y de depósito. Suelen ser reducidas,\ninferiores a las de los fondos tradicionales con similares políticas\nde inversión, y se imputan diariamente pro rata temporis al valor\nliquidativo de las participaciones del fondo.\nLa comisión de gestión puede establecerse en función del\npatrimonio del fondo, de sus rendimientos o resultados o de ambos\nelementos a la vez.\nVeámoslo con un ejemplo: el inversor Juan Pérez acaba de\ncomprar un ETF y se pregunta cómo aplicará hoy la Sociedad\nGestora las comisiones de gestión y depósito de un 0,3 %,\nque, según el folleto del emisor, están asociadas a este fondo\ncotizado. Suponiendo que el Valor Liquidativo es 39,90 €, se\nprorratea para calcular la comisión a imputar este día:\n¥ Por negociarse como una acción: el hecho de realizar las\ninversiones en ETF a través de un intermediario o entidad financiera\ngenerará unos gastos de intermediación. Además, la operativa\nbursátil está gravada con el canon de contratación y el canon de\nliquidación, que son independientes de la entidad con la que se\nopere, y dependen del valor efectivo de la operación.\nA modo de ejemplo y según un pequeño muestreo realizado\nentre los intermediarios más activos, la negociación bursátil por\nvalor de 3.000 € de efectivo, generaría unas comisiones de:\n39,90 € * 0,30 %/365= 0,00032795 €"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)\n¥ Por tratarse de valores cotizados, el inversor deberá tener abierta\nuna cuenta de valores en el intermediario, que implicará unos gastos\nde administración o custodia que se devengarán por la posición en\nvalores y por la entrada de nuevos títulos. A veces se cobran sobre\nel valor nominal de las acciones, otras, sobre el valor efectivo de\nlos títulos y otras, se establece un mínimo por valor o por mercado.\nSi, por ejemplo, se tiene una cartera de valores de 35.000 € y el\nintermediario cobra un 0,20 % anual sobre el valor efectivo de sus\ntítulos, estaríamos pagando 70 € al año por gastos de custodia.\n¥ En último lugar, se pueden añadir otros gastos adicionales por\noperaciones concretas, como el cobro de dividendos, aunque\nsiempre deberán aparecer claramente especificados en el contrato\nque se haya firmado al abrir la cuenta.\nLa información detallada sobre los gastos y comisiones del ETF se puede\nconsultar en el folleto que debe estar disponible en la web de la gestora y en\nla web de la CNMV (www.cnmv.es).\nGastos de\nintermediación\ny brokerage\n8,00 €\nCanon de\ncontratación\n2,45 €+0,024 %\n3,17 €\nCanon mínimo\nde liquidación\n0,10 €"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Fondos Cotizados en Bolsa (ETF)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VI. Fiscalidad"
+    },
+    {
+      "type": "paragraph",
+      "text": "En cualquier inversión, el aspecto fiscal es importante a la hora de elegir el\nproducto más adecuado. Aunque los ETF son fondos de inversión, en tanto\nen cuanto estén admitidos a negociación en la bolsa española, su tratamiento\nfiscal se aproxima al de las acciones, por lo que las ganancias patrimoniales\nno están sujetas a retención y se calculan como la diferencia entre el valor de\ntrasmisión o venta, menos el valor de adquisición.\nPor otra parte, las participaciones en fondos cotizados en España no pueden\nser objeto de traspaso, por lo que no es posible acogerse al régimen que\npermite a los partícipes en fondos tradicionales reembolsar en un fondo y\nsuscribir en otro con diferimiento de la tributación de las plusvalías.\n%\n$\n$\n$"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VII. Recuerde"
+    },
+    {
+      "type": "paragraph",
+      "text": "¥ Los ETF suelen ser fondos de renta variable, excepto aquellos que replican\níndices de renta fija o índices de materias primas, por lo que en general\npresentan una volatilidad similar a la que se da en los activos subyacentes\n(acciones constituyentes del índice que se replica) y resultan menos\nadecuados para inversores con un perfil de riesgo moderado.\nLos fondos cotizados que replican índices de renta variable asumen\nprincipalmente un riesgo de mercado. Por tanto, en situaciones de\nmercado adversas pueden registrarse pérdidas en la inversión realizada, al\nigual que sucede con la inversión en acciones.\n¥ Existe la posibilidad de que las operaciones de compra y venta se realicen\na un precio diferente del valor liquidativo indicativo publicado por la bolsa\nen la que se negocian, debido a que los especialistas introducen órdenes\nde compra y venta con un diferencial en los precios. Por tanto, lo normal es\nque el partícipe compre a precios superiores al valor liquidativo estimado\ny venda a precios inferiores, aunque en general la diferencia entre ambos\nserá muy reducida.\n¥ La operativa con fondos cotizados es similar a la de las acciones cotizadas\npor lo que el inversor podrá dar órdenes limitadas a un precio, órdenes\npor lo mejor y órdenes de mercado, y señalar, en su caso, diferentes\ncondiciones de ejecución.\n¥ El valor liquidativo de un fondo cotizado puede ser distinto del valor de\nsu índice de referencia, al igual que sucede con los fondos de inversión\ntradicionales, debido a las comisiones y gastos que soporta el fondo y\na los dividendos que abonan los valores en cartera al fondo cotizado.\nEsta última diferencia se elimina en las fechas en las que el ETF reparte\ndividendos a los partícipes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\n¥ Las obligaciones de información a los inversores son menores que en los\nfondos tradicionales, ya que no es exigible la entrega del documento con\nlos datos fundamentales para el inversor y el último informe semestral\nantes de la compra. Sin embargo, el inversor tiene derecho a solicitar en\ncualquier momento a su intermediario el folleto y el último informe anual y\ntrimestral publicado.\n¥ Como en cualquier otro fondo, el inversor debe consultar el folleto\ninformativo y el DFI para poder adoptar una decisión de inversión fundada.\nResulta esencial consultar en este documento la política de inversión, el\nperfil de riesgo, las comisiones aplicables, etc.\n¥ Invertir en ETF implica asumir dos tipos de gastos: por una parte, las\ncomisiones de gestión y depósito del propio fondo de inversión; y por otra,\nlos que debe soportar directamente el inversor a favor del intermediario\nen el que estén depositadas las participaciones (compra-venta,\nadministración y depósito, cobro de dividendos, traspaso…). Aunque las\ncomisiones de gestión y depósito suelen ser significativamente inferiores a\nlas soportadas por los partícipes de los fondos de inversión tradicionales,\nel coste añadido podría incidir de forma significativa en la rentabilidad final\nesperada de la inversión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contáctanos por email\nEsta guía tiene como finalidad informar al público en general sobre distintos\naspectos relacionados con los mercados de valores. Por su naturaleza divulgativa\nno puede constituir un soporte para posteriores interpretaciones jurídicas, siendo\nla normativa vigente la única de aplicabilidad para estos fines.\nEs un documento de la CNMV en colaboración con BME"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "información?"
+    },
+    {
+      "type": "paragraph",
+      "text": "www.cnmv.es"
+    }
+  ],
+  "text": "Los Fondos Cotizados en Bolsa (ETF)\nLos fondos\nCotizados en \nBolsa (ETF)\nGuía\n\nLos fondos de inversión y la inversión colectiva\nÍndice\nLos Fondos Cotizados \nen Bolsa (ETF) \nPrincipales características \nde los ETF\n¿Qué tipos de ETF existen? \nLos riesgos de invertir en ETF\n¿Cómo se invierte en ETF?\nFiscalidad\nRecuerde\n\nLos Fondos Cotizados en Bolsa (ETF)\nI. ¿Qué son los fondos cotizados (ETF)? \nLos fondos de inversión cotizados, más conocidos por sus siglas en inglés, ETF, \nexchange-traded funds, son fondos de inversión cuya principal característica \nes que se negocian en mercados secundarios de valores. A diferencia de las \nparticipaciones de los fondos tradicionales, que se suscriben o reembolsan \na su valor liquidativo¹ (que se calcula tras el cierre de cada sesión), las \nparticipaciones en ETF pueden comprarse y venderse en un mercado \nsecundario, como las acciones o los bonos.\nAl igual que el resto de fondos de inversión, los fondos cotizados pueden \ninvertir en una amplia gama de activos que, en ocasiones, resultarían \ndifícilmente accesibles a los inversores, especialmente a los minoristas, como \nes el caso de los índices, las materias primas y los mercados emergentes. Por \notro lado, su cotización en los mercados secundarios permite a los inversores \nhabituados a operar en los mercados, comprar y vender de una manera \nsimilar a como se hace con otros activos cotizados.\nLos Fondos \nCotizados en \nBolsa (ETF) \n1. \nEntendido como el ratio entre el valor total de la cartera del fondo, \nneto de gastos, y el número de participaciones.\n\nLos Fondos Cotizados en Bolsa (ETF)\nUna particularidad de estos fondos es que, en muchos casos, tienen como \nobjetivo replicar el comportamiento de un determinado índice de referencia \n(por ejemplo, índices de renta variable: IBEX35®, EuroStoxx 50, Nasdaq 100, DJ \nIndustrial Average, etc., o también índices de renta fija).\nEl origen de los ETF se encuentra en la iniciativa que, a principios \nde los años 90, tuvo la Bolsa de Toronto al lanzar unos productos \ncotizados que replicaban índices bursátiles. Se pretendía \nsatisfacer la demanda de los inversores que querían acceder a \ncestas de acciones de manera sencilla y directa, sin tener que \nrecurrir a los fondos de inversión tradicionales o a los mercados \nde derivados. A Europa llegaron en el año 2000 de la mano de las \nBolsas de Fráncfort y Londres.\nEn España los primeros fondos cotizados ven la luz en 2006, \nal amparo del nuevo Reglamento de Instituciones de Inversión \nColectiva y fueron tres ETF referenciados al índice IBEX 35®. \nPosteriormente se inició una segunda etapa en el desarrollo \nde los ETF cuando se produjeron nuevas incorporaciones que \ncompletaban la oferta de subyacentes disponibles.\n\nLos Fondos Cotizados en Bolsa (ETF)\n1.1 ¿Qué quiere decir que…?\n¥ Son fondos de inversión:\nLos ETF, al igual que el resto de fondos de inversión, son Instituciones de \nInversión Colectiva (IIC)2 de carácter financiero que pueden invertir en una \namplia variedad de clases de activos e instrumentos financieros. Se trata, \nen definitiva, de un patrimonio común, perteneciente a una pluralidad de \ninversores, llamados partícipes, que está gestionado y representado por una \nSociedad Gestora y donde los rendimientos individuales se establecen en \nfunción de los resultados colectivos. \nIgualmente, cuentan con una Entidad Depositaria, que es la encargada de \ncustodiar los valores o activos adquiridos por el fondo de inversión, así como \nde vigilar y supervisar la gestión que lleve a cabo la Sociedad Gestora, velando \npor el interés de los partícipes. No obstante, los ETF o fondos cotizados tienen \nciertas características que les hacen diferenciarse de los fondos tradicionales.\nAunque en este documento solo nos referiremos a los ETF en su forma de \nfondos, también se pueden encontrar ETF en forma de sociedades (SICAV \níndice cotizadas).\n¥ Su objetivo de inversión es replicar la evolución de un índice:\nDentro de la clasificación de los fondos de inversión, los ETF corresponden \na la categoría de los fondos indexados, es decir, aquellos cuya política de \ninversión es la de replicar la composición y el comportamiento del índice que \ntomen de referencia (índice de renta fija, de renta variable, de materias primas \no de divisas). Por ejemplo: un fondo índice sobre el IBEX 35 ® tendrá como \npolítica de inversión obtener una rentabilidad lo más parecida posible a la de \nese índice. \n2. \nLas instituciones de inversión colectiva pueden ser fondos de inversión (FI) y \nsociedades de inversión de capital variable (SICAV). Tanto los FI como las SICAV son \npatrimonios formados por la agregación de capitales aportados por un número variable \nde personas (partícipes, en el caso de los FI, o accionistas, en el caso de las SICAV).\n\nLos Fondos Cotizados en Bolsa (ETF)\nAl frente de la gestión de los ETF se encuentra un profesional o Sociedad \nGestora que materializa las entradas de efectivo en la compra de diferentes \nactivos como acciones, bonos, derivados, etc., según la política inversora del \nfondo descrita en el folleto. \nExisten dos métodos para replicar la evolución del índice subyacente del ETF: \nla réplica directa o física y la réplica indirecta o sintética. \nLa réplica física consiste en la compra directa de los valores de las \nsociedades que pertenecen en cada momento al índice, todos o solo una \nmuestra (es posible la réplica con una muestra de valores y completar la \ncartera con derivados para obtener el mismo comportamiento que el índice). \nLos valores del fondo se ajustan periódicamente, replicando los cambios en \nla composición y peso de los valores del índice. El objetivo es conseguir que \nla composición y el peso de los valores de la cartera del fondo sean lo más \npróximos posibles a la del índice.\nMediante la réplica indirecta o sintética se persigue la rentabilidad del índice \na través de la utilización de instrumentos financieros derivados.\n¥ Sus participaciones se negocian en las bolsas de Valores:\nLas participaciones se negocian en mercados bursátiles electrónicos, con \nun funcionamiento similar al de las acciones, con información en tiempo \nreal y difusión automática de los precios y volúmenes a los que se están \nnegociando. De este modo, se puede conocer exactamente el precio al que \nestá cotizando la participación en el momento de dar la orden de compra o \nventa.\nEsto los diferencia de los fondos tradicionales, en los que el precio (valor \nliquidativo) se determina por el gestor a final del día.\n\nLos Fondos Cotizados en Bolsa (ETF)\nII. Principales\ncaracterísticas de los\nETF\n2.1. Accesibilidad\nLos fondos cotizados suelen tener importes mínimos de inversión reducidos, \npor lo que es posible acceder a ellos con pequeñas cantidades de dinero.\n2.2. Diversificación\nComo se ha comentado, una particularidad de los ETF es que tienen como \nobjetivo replicar el comportamiento de un determinado índice de referencia, \nya sea de renta variable, de renta fija, o de materias primas, por ejemplo. Es \nprecisamente su naturaleza de producto referenciado a una cesta o grupo \nde activos lo que permite invertir diversificando, evitando la concentración y \ntratando de gestionar, en cierta medida, el riesgo global de la inversión.\nDe este modo, los ETF ofrecen la posibilidad de participar en la evolución de \nlos principales mercados sin necesidad de invertir en todos y cada uno de los \nvalores que integran los índices de referencia.\nEjemplo\nMargarita Díaz desea invertir 10.000 € en un ETF del IBEX35®. \nRecordemos que es el índice selectivo de la bolsa española \ncompuesto por los principales valores y ponderados por su tamaño. \nSupongamos, por ejemplo, que en un momento determinado, \nSantander representa un 20 % del total del índice, Telefónica un 14 %, \nInditex un 12 %, BBVA un 11 %, Iberdrola un 8 % y así hasta el valor 35.\nHecha la compra en bolsa a través de un intermediario autorizado, \nMargarita Díaz posee participaciones de una cartera que replica la \ncomposición del IBEX35® por valor de 10.000 euros.\n\nLos Fondos Cotizados en Bolsa (ETF)\nEs decir, la compra de participaciones en el ETF, por importe de \n10.000 €, equivale a la inversión de 2.000 € (el 20 %) en acciones de \nSantander, 1.400 € (el 14 %), en acciones de Telefónica, 1.200 € \n(el 12 %), en acciones de Inditex, 1.100 € (el 11 %), en acciones de BBVA, \netc.\n2.3. Liquidez\nLas participaciones se negocian en tiempo real en el segmento de \nnegociación de fondos de inversión cotizados de la bolsa: el inversor puede \ninvertir y desinvertir en cualquier momento durante el horario de negociación \nbursátil, incluso varias veces al día. La operativa de compra y venta de \nparticipaciones, por tanto, es similar a la de las acciones negociadas en bolsa.\nAdemás, el ETF es un producto que cuenta con especialistas, entidades \nque fomentan la liquidez del producto, que mantienen precios de compra \ny venta a lo largo de toda la sesión bursátil; es decir, tienen la obligación de \nproporcionar liquidez a los fondos cotizados.\n\nLos Fondos Cotizados en Bolsa (ETF)\nNo obstante lo anterior, existen los llamados Límites de Actuación, es decir, \nsupuestos en los que el especialista o creador de mercado queda exonerado \ntemporalmente de su actuación como tal en situaciones de alta volatilidad, \nen atención a las variaciones de precios del valor en cuestión respecto al \nprecio de la última subasta o al último precio negociado.. Esta exoneración \nse mantendrá hasta que la situación se haya normalizado y tendrá efecto \nexclusivo para la sesión en curso.\nMediante el mantenimiento de una horquilla de precios máxima para \nun determinado volumen, los especialistas permiten la realización de \nnegociaciones en el mercado secundario a precios en línea con el valor \nliquidativo indicativo del ETF. Adicionalmente, mediante su actuación en el \nmercado primario, los especialistas facilitan que el número de participaciones \ndel ETF disponibles en cada momento en el mercado sea el adecuado. Cada \nvalor que se negocie en este segmento deberá tener al menos un especialista. \nEn función de las características de cada ETF se establecerán los requisitos \nde presencia en el mercado que deberán cumplir los especialistas. Estos \nrequisitos hacen referencia a la horquilla máxima entre el precio de compra \ny el de venta de las posiciones que introduzca en el mercado el especialista, \nal importe efectivo mínimo asociado a las mencionadas posiciones y a su \npresencia en el mercado a lo largo de la sesión. La actuación simultánea de \nlos especialistas en el mercado primario y en el mercado secundario permite \nque el precio del fondo cotizado se mantenga en niveles cercanos a su valor \npatrimonial a través del arbitraje.\nPor otro lado, se puede interrumpir la contratación del fondo por la \nimposibilidad de calcular el índice o el valor liquidativo indicativo así como por \nla falta de comunicación en forma y plazo establecido de la composición de la \ncartera, de la cesta o del valor liquidativo.\n\nLos Fondos Cotizados en Bolsa (ETF)\n2.4. Inmediatez y transparencia\nDurante el horario de negociación, la bolsa calcula y difunde un valor \nliquidativo indicativo estimado3, lo que permite al partícipe conocer en todo \nmomento cómo evoluciona su inversión. \nLas operaciones se realizan a los precios de compra y venta que ofrezcan las \ncontrapartidas en cada momento. El inversor tiene mayor certeza que en los \nfondos tradicionales sobre el precio al que se va a realizar la compra o venta, \nya que será muy parecido al último valor liquidativo indicativo publicado \nantes de la orden. Las ventas se liquidarán (mediante abono en la cuenta del \npartícipe) en los mismos plazos que las acciones. \n2.5. Dividendos\nAl margen de la eventual rentabilidad obtenida por el aumento del precio \ndel ETF, los partícipes cuentan con la posibilidad de recibir dividendos \n(prácticamente inexistente en los fondos tradicionales). Con carácter \nperiódico (anual, semestral...) el fondo cotizado podrá retribuir a los inversores \ncon los dividendos distribuidos por las sociedades que componen el índice \nde referencia. Sobre todo esto es habitual en el caso de los ETF que siguen \níndices de renta variable. El volumen total a abonar será la diferencia entre \nel valor liquidativo del fondo y el valor del índice de referencia. Este abono \npuede implicar el cobro de comisiones por parte del intermediario. \nNo existe una política común de reparto de dividendos en todos los ETF; cada \ngestora establece su propia política, que debe ser informada detalladamente \nen el DFI (documento con los datos fundamentales para el inversor). \nHay que tener en cuenta que, al igual que sucede con las acciones, el impacto \nsobre el ETF el día de pago del dividendo hará que caiga su valor liquidativo. \nAdemás, dicho dividendo lo cobrará quien tenga invertido en el ETF en la \nfecha de registro de asignación de derechos, también denominado record \ndate, independientemente de la fecha en la que lo haya comprado.\n3. \nEl valor liquidativo indicativo estimado del fondo de inversión se difunde en diversos momentos de \nla sesión bursátil con el fin de que el inversor pueda compararlo y tome las decisiones oportunas. \nSe calcula multiplicando el valor liquidativo del día anterior a esa sesión por la variación que \nexperimente el índice en el momento del cálculo respecto al valor de cierre de la sesión anterior.\n\nLos Fondos Cotizados en Bolsa (ETF)\nIII. ¿Qué tipos de ETF \nexisten?\nA la hora de clasificar los ETF se pueden considerar diferentes criterios. El \ncriterio más generalizado es el que se basa en la política de inversión del \nfondo. De forma complementaria se puede establecer una categoría en \nfunción de la estrategia que sigue el fondo. Así, podemos definir:\nETF que sigue la evolución\ndel mercado\nETF inversos o de exposición\ninversa al mercado\nETF apalancados\n3.1. ETF que siguen la evolución del mercado.\nEn esta categoría se incluyen los ETF que replican el comportamiento del índice de \nreferencia. Como ya se ha explicado con anterioridad, esta réplica puede conseguirse \nmediante la compra de las acciones integrantes en la misma proporción con que \naparece en dicho índice (fondos cotizados físicos) o mediante la utilización de \ninstrumentos financieros derivados (fondos cotizados sintéticos). Si el índice sube, \nel valor del fondo subirá, y obtendrá beneficios. Por el contrario, ante movimientos a \nla baja del mercado, el valor del índice caerá y, por lo tanto, generará pérdidas.\n\nLos Fondos Cotizados en Bolsa (ETF)\nEjemplo:\nPartiendo de que al comienzo del cálculo (Día 0) el valor del índice \nde mercado y del ETF es 100, simulamos un entorno de precios con \nfuertes variaciones diarias para que resulte más ilustrativo.\nTodos los días la variación del ETF es la misma que la del índice del \nmercado al que esté referenciado. Se mueven de forma conjunta, en el \nmismo sentido y cuantía similar (para no distorsionar el ejemplo no se \ntienen en cuenta el posible reparto de dividendos ni otros gastos).\nCuando el primer día el índice sube, el ETF también aumenta de valor \ny genera un beneficio de 5 €. Si por el contrario, como ocurre en el \nsegundo y tercer día, el índice cae, el ETF también lo hace y genera \npérdidas.\nPara calcular el resultado de cada día, se toma como referencia el valor \nliquidativo del cierre de la sesión anterior.\nEn el ejemplo, en el conjunto de los 4 días, ambos, el índice y el ETF, \nhan registrado una caída del 6,44 %, lo que ha generado una pérdida \ntotal de 6,44 €.\nNo obstante el ejemplo anterior, el valor liquidativo de un fondo \ncotizado puede ser distinto del valor de su índice de referencia, debido \na las comisiones y gastos que soporta el fondo y a los dividendos que \nabonan los valores en cartera al fondo cotizado.\nDía 0\nDía 1\nDía 2\nDía 3\nDía 4\nEvolución \ndiaria\n5 %\n-10 %\n-10 %\n10 %\nVALOR ÍNDICE \nMERCADO\n94,50\n85,05\n93,56\nResultado \ndiario ETF\n5,00 €\n-10,50 €\n-9,45 €\n8,51 €\n\nLos Fondos Cotizados en Bolsa (ETF)\n3.2. ETF inversos o de exposición inversa al \nmercado.\nLos ETF inversos son aquellos que replican el comportamiento de un índice \ninverso, es decir, un índice cuya evolución es la contraria al movimiento del \nmercado, de modo que su rentabilidad será positiva cuando el índice pierda \nvalor y negativa cuando el índice incremente su cotización. \nPara identificar esta categoría de ETF, en su denominación se incluye la \npalabra inverso o short (en su terminología anglosajona).\nEs importante que el inversor sepa que, aunque no acude \ndirectamente a los mercados a comprar las acciones o los bonos \no los instrumentos derivados, está asumiendo ese mismo riesgo\na través de su ETF. Por ello, es imprescindible que el inversor\nconozca ese nivel de riesgo y decida antes de invertir si está\ndispuesto o no a asumirlo. No hay que olvidar que las inversiones\nen las que se materialice el patrimonio del fondo determinan el\nnivel de riesgo que asumen los partícipes y en algunas ocasiones\ntener acceso a valores de países emergentes, de sectores muy\nespecializados, de mercados restringidos, o denominados en\nmoneda distinta, conllevan la asunción de un riesgo adicional.\nEFT\n\nLos Fondos Cotizados en Bolsa (ETF)\nEjemplo: \nPartiendo de que al comienzo del cálculo (Día 0) el valor del índice de \nmercado y del ETF es 100, simulamos un entorno de volatilidad con \nfuertes variaciones diarias para que resulte más ilustrativo: \nEn el ejemplo, el índice cae un 6,4 % en estas 4 sesiones, mientras que \nel ETF inverso ha subido un 3,5 %. ¿Por qué? Es sencillo, simplemente \nuna cuestión de cálculo. Todos los días la variación del ETF inverso \nes la misma que la del índice del mercado al que esté referenciado, \npero en sentido contrario. Sin embargo, una vez pasado el primer día, \nesta variación se aplica sobre bases distintas. Así, el Día 4 el índice del \nmercado sube un 10 % y el ETF inverso también cae un 10 % como está \nprevisto, pero mientras el primero sube desde 85,05, el ETF cae desde \n114,95. De este modo, al final del Día 4 la rentabilidad del ETF inverso, \nrespecto al Día 0, ha sido del 3,5 %.\nDía 0\nDía 1\nDía 2\nDía 3\nDía 4\nEvolución \ndiaria\n5 %\n-10 %\n-10 %\n10 %\nVALOR ÍNDICE \nMERCADO\n94,50\n85,05\n93,56\nValor ETF \nINVERSO\n104,50 €\n114,95 €\n103,46 €\nResultado \nposición ETF \nINVERSO\n-5,00 €\n9,50 €\n10,45 €\n11,50 €\n\nLos Fondos Cotizados en Bolsa (ETF)\n3.3. ETF apalancados \nDentro de la categoría de los fondos cotizados sintéticos (aquellos que utilizan \ninstrumentos derivados para replicar el índice de referencia), se encuentran \nlos fondos apalancados, que son aquellos que replican el índice bursátil en \nuna determinada proporción o apalancamiento, de forma que las ganancias \no pérdidas del índice se incrementan según el grado de apalancamiento. En \nun ETF apalancado x 2, las ganancias y las pérdidas del índice subyacente se \nduplican con el ETF.\nSon, por tanto, ETF con los que se asume un mayor riesgo. Es conveniente \nhacer hincapié en que los ETF apalancados, al igual que los inversos, reflejan la \nevolución diaria del índice y no su evolución total para un plazo determinado. \nCada día se calcula la rentabilidad respecto al día anterior, no considerando \nsolo el valor inicial y final del periodo. Por tanto, en el caso de los ETF \napalancados, si el índice lleva ganado un 50 %, el ETF apalancado x 2 no \nganará exactamente el 100 %.\nPongamos un sencillo ejemplo teórico sin tener en cuenta costes ni \ndividendos: partiendo de que al comienzo del cálculo (Día 0) el valor \nde ambos es 100.\nDía 0\nDía 1\nDía 2\nDía 3\nEvolución \ndiaria\n+10 %\n+9 %\n16,6 %\nVALOR ÍNDICE\n119,9\nApalancado x2\n141,6\n94,6 €\nResultado \nposición ETF \napalancado x2\n+20 €\n+21,6 €\n-47,01 €\n\nLos Fondos Cotizados en Bolsa (ETF)\nNormalmente, la estructura de rentabilidad y la utilización de \nderivados para lograr dicha rentabilidad conllevan algunos riesgos \nque pueden resultar de difícil asimilación y comprensión para \ndeterminados inversores.\nEl primer día el índice sube un 10 %; este valdrá 110 y el ETF apalancado x \n2, 120. El día 2 el índice sube un 9 % respecto del día anterior y vale 119,9; \nel ETF apalancado x 2, 141,6. Al tercer día, el índice baja un 16,6 % respecto \ndel día anterior y vuelve a valer 100, su valor inicial. En contraste, el ETF \napalancado x 2 acaba con un valor inferior (94,6). ¿Qué ha motivado este \ncomportamiento?. Partimos de la misma variación diaria del mercado \n(16,6 %), pero lo aplicamos a bases distintas (119,9 y 141,6). En este caso, \nprimero amplificamos la caída al multiplicarla por 2 y después la \ncalculamos sobre un valor superior: (16,6 % x 2) 141,6 = -47,01 €.\nPodemos observar cómo el día 2 se obtiene un resultado por \nencima del esperado. Sin embargo, no hay que olvidar que el efecto \napalancamiento funciona en ambos sentidos, cuando se gana y \ncuando se pierde. De esta forma, en el día 3, la pérdida también se \nproduce por un valor superior (47 es mayor que 19,9 x2).\nEstos ETF más sofisticados requieren un mayor conocimiento \npor parte del inversor y entrañan mayor riesgo que los ETF no \napalancados.\n\nLos Fondos Cotizados en Bolsa (ETF)\nEl nombre de los ETF\nLa denominación de los ETF incorpora gran cantidad de información, que \nayuda al inversor a conocer sus características básicas. El resultado son \nnombres largos pero que contienen descripciones relevantes para los \ninversores: nombre de la gestora, índice de referencia, si son de estrategia \ninversa o apalancada, si cumplen o no la directiva UCITS o si tienen cubierto el \nriesgo de divisa.\nUnos ejemplos nos ayudarán a identificar correctamente los datos más \nrelevantes de los ETF:\n• ¿Quién es la Entidad Gestora? Gestora XYZ. \n• UCITS (Undertakings for Collective Investments in Transferable \nSecurities Directive). Esto quiere decir que el ETF cumple la normativa \neuropea sobre fondos que regula los organismos de inversión \ncolectiva en valores mobiliarios. \n• ¿Cuál es Índice que replica? El EURO STOXX 50.\n• ¿Es un ETF apalancado o inverso? No, en este caso el ETF elegido sigue \nla tendencia de mercado, no es de estrategia ya que no se identifica \ncomo tal.\nNombre del ETF: Gestora XYZ UCITS ETF EURO STOXX 50.\n\nLos Fondos Cotizados en Bolsa (ETF)\n• Compartiría todos los datos anteriores y, además, el término DAILY \nLEVERAGE nos indicaría que es un ETF de estrategia, apalancado \ndiario.\nEn el caso de los ETF españoles, el identificador para saber que están \nsometidos a la normativa europea no es UCITS, sino FI COTIZADO \nARMONIZADO. \nVeamos un ejemplo:\n• ¿Quién es la Entidad Gestora? Gestora ABC. \n• FI COTIZADO ARMONIZADO: Esto quiere decir que este ETF \nespañol cumple la normativa europea sobre fondos que regula \nlos organismos de inversión colectiva en valores mobiliarios. \n• ¿Cuál es el Índice que replica? El IBEX 35.\n• ¿Es un ETF apalancado o inverso? Ninguno de los dos, si lo \nfuera, se identificaría como tal. \nEs aconsejable familiarizarse con estos términos para poder identificar el ETF \nsobre el que estamos obteniendo información.\nNombre del ETF: \nGestora XYZ UCITS ETF EURO STOXX 50 DAILY LEVERAGE. \nNombre del ETF: \nGestora ABC IBEX 35 ETF FI COTIZADO ARMONIZADO.\n\nLos Fondos Cotizados en Bolsa (ETF)\nIV. Los riesgos de\ninvertir en ETF\nComo cualquier otro producto de inversión, la inversión en ETF incorpora \nun riesgo, consecuencia principalmente de la evolución de los mercados \na los que se ha expuesto. Aunque el hecho de invertir en un índice ayuda a \ncontrolar los riesgos debido a la diversificación, el inversor no puede ignorar la \nposibilidad de sufrir pérdidas.\nComo se ha comentado, con carácter general, el objetivo de inversión de los \nfondos cotizados o ETF es reproducir la evolución de un índice y proporcionar \nsu misma rentabilidad. Pero, ¿existe una medida para evaluar la proximidad \ncon la que el fondo sigue al índice?. Sí. La forma más habitual consiste en \ncomparar ambas trayectorias y observar si se producen algunas desviaciones. \nEs lo que se conoce como Error de Seguimiento o Tracking Error (por su \ntraducción al inglés). Normalmente, el Tracking Error tiende a ser pequeño; \ncuanto mayor sea, indicará que menos fielmente sigue el ETF al índice.\nEste error de seguimiento puede provocar que el inversor final experimente \nun riesgo de mercado en su cartera.\nEl inversor minorista que invierte en fondos cotizados con el \nobjetivo de obtener la rentabilidad de un determinado índice \npuede encontrarse con que, finalmente, dicha rentabilidad sea \ndistinta de la esperada.\n\nLos Fondos Cotizados en Bolsa (ETF)\nAlgunos fondos, por su política de inversión, pueden mantener en cartera \nvalores o contratos que incorporen un riesgo de crédito o contraparte: \nes la posibilidad de que el emisor o la contraparte no pueda hacer frente \na sus pagos o de que se produzca un retraso en los mismos. El riesgo de \ncontrapartida de los fondos cotizados afecta a aquellos ETF que utilizan \nderivados OTC, como los contratos de permutas financieras o swaps, para \nreplicar de manera sintética la rentabilidad de los activos de referencia.\nLos ETF que replican un índice denominado en una divisa diferente al euro \ntambién incorporan un riesgo derivado de las fluctuaciones de los tipos de \ncambio. Por ejemplo, si el índice de referencia cotiza en dólares mientras que \nsu ETF cotiza en euros, la evolución del tipo de cambio será un factor a tener \nen cuenta a la hora de invertir. Por ejemplo, para un inversor español, comprar \nun ETF en euros sobre el S&P 500 (calculado en dólares) implica asumir un \ndoble riesgo: por un lado, el del propio índice bursátil, y por otro, el del tipo \nde cambio, ya que una depreciación (apreciación) del dólar implicará una \npérdida (beneficio).\n\nLos Fondos Cotizados en Bolsa (ETF)\nV. ¿Cómo se invierte\nen EFT?\n5.1. Intermediarios\nLos ETF pueden adquirirse a través de los intermediarios financieros como \nbancos, cajas de ahorros, sociedades y agencias de valores, etc. En principio, \nlas sociedades gestoras también pueden comercializar los ETF, bien de forma \ndirecta o a través de agentes o representantes. Sin embargo, lo más frecuente \nes que se comercialicen a través de los intermediarios mencionados \n(entidades de crédito y empresas de servicios de inversión).\nSi bien hasta hace poco la forma más frecuente de transmitir órdenes de \ncompra o venta a los intermediarios era físicamente en la sucursal o bien \npor teléfono, hoy en día también se ha impuesto la operativa por internet. \nDe cualquier modo, conviene verificar en el registro público de la CNMV \n(www.cnmv.es) o en el Banco de España (www.bde.es) la autorización del \nintermediario para prestar este servicio de inversión.\n5.2. Aspectos a tener en cuenta antes de invertir\nLas obligaciones de información a los inversores sobre los fondos \ncotizados son menores que las de los fondos tradicionales. La \nadquisición en la bolsa de valores de participaciones en fondos \nde inversión cotizados está exenta de la obligación de entrega \ngratuita del documento con los datos fundamentales para el \ninversor (DFI) y del último informe semestral. En cualquier caso, \nprevia solicitud por parte del inversor, el intermediario deberá \nentregar el folleto y los últimos informes anual y trimestral \npublicados. Adicionalmente, la Sociedad Gestora deberá \nremitirle con carácter gratuito los sucesivos informes anuales y \nsemestrales.\n\nLos Fondos Cotizados en Bolsa (ETF)\nEl DFI le ayudará a comprender \nla naturaleza del fondo y los \nriesgos de invertir en él. Recoge \ntoda la información necesaria y \nrelevante para que pueda tomar \nuna decisión fundada sobre la \nconveniencia o no de invertir en \nel fondo.\n\nLos Fondos Cotizados en Bolsa (ETF)\nEl DFI incluye, entre otras informaciones, un dato indicativo del nivel de \nriesgo/rentabilidad del fondo cotizado en una escala de 1 a 7 niveles, de \npotencialmente menor rendimiento/menor riesgo (1) a potencialmente mayor \nrendimiento/mayor riesgo (7).\nEs importante tener en cuenta que la categoría 1 no significa que la inversión \nesté libre de riesgo, ya que cualquier producto de inversión incorpora riesgo.\n5.3. Horario de mercado\nLos ETF se negocian en el mercado electrónico bursátil en tiempo real, con \nla misma mecánica que rige para las acciones. La contratación general tiene \nun horario de 8:30 a 17:35, compuesto por un periodo de subasta de apertura \nentre las 8:30 y 9:00 horas y un periodo de mercado abierto entre 9:00 y \n17:35. La única diferencia respecto de las acciones es que su precio de cierre \nse determinará como el punto medio de la horquilla en ese momento y no \nmediante el proceso de subasta de cierre.\nDurante la subasta de apertura es posible introducir, modificar y cancelar \nórdenes, pero no se producen negociaciones. Este proceso permite mostrar \nen todo momento el precio de equilibrio al que, de finalizar en ese momento \nla subasta, se realizarían las operaciones. Finalizada la subasta, el precio \nasignado será el precio de apertura.\nPor tanto, el inversor debe consultar el DFI o folleto simplificado \npara poder adoptar una decisión de inversión fundada. Resulta \nesencial consultar en este documento los objetivos y la política \nde inversión del fondo cotizado, el perfil de riesgo, los gastos y las \ncomisiones aplicables, etc.\n\nLos Fondos Cotizados en Bolsa (ETF)\n5.4. Tipos de órdenes\nCon independencia de que cada intermediario autorizado pueda dar \nacceso a sus clientes a todas o solo a una parte de las órdenes, el sistema \nde negociación bursátil español admite 3 tipos de órdenes: limitadas, de \nmercado y por lo mejor.\nLas órdenes limitadas son las más generalizadas. Permiten fijar el precio de la \noperación, esto es, un precio máximo para la compra o mínimo para la venta. \nEs muy frecuente entre los inversores fijar un precio como límite: no quieren \nvender por debajo o comprar por encima de él (el máximo precio que se está \ndispuesto a pagar o el mínimo precio al que se está dispuesto a vender).\nUna orden limitada se puede ejecutar total o parcialmente si se encuentra \ncontrapartida a ese precio o a un precio mejor. Mientras no encuentre \ncontrapartida, quedará pendiente en el libro de órdenes.\nAnte la posibilidad de que las órdenes se ejecuten en distintos tramos a \ndistintos precios, el inversor debe informarse de las comisiones que generaría \nesta operativa.\n\nLos Fondos Cotizados en Bolsa (ETF)\nPor su parte, en las órdenes de mercado no se especifica límite de precio, \npor lo que se negociará al mejor precio que ofrezca la parte contraria en el \nmomento en que se introduzca la orden. El riesgo para el inversor en este tipo \nde órdenes es que no controla el precio de ejecución. Si no puede ejecutarse \nen su totalidad contra la mejor orden del lado contrario, lo que reste se \nseguirá ejecutando a los siguientes precios ofrecidos, en tantos tramos como \nsea necesario hasta que se complete. Lo habitual es que las órdenes de \nmercado se ejecuten inmediatamente, aunque sea en partes. Cada ejecución \nparcial es una operación distinta, por lo que este tipo de orden puede \naumentar los costes para el inversor. \nEstas órdenes son útiles cuando el inversor está más interesado en realizar la \noperación que en tratar de obtener un precio favorable.\nLas órdenes por lo mejor son órdenes que se introducen sin precio. La \nnegociación se realiza al mejor precio de contrapartida en el momento en \nque se introducen. Si al mejor precio no hay volumen suficiente para atender \nla totalidad de la orden, la parte no satisfecha quedará limitada a ese precio \n(no podrá cruzarse a otro más desfavorable). La orden por lo mejor se utiliza \ncuando el inversor quiere asegurarse una ejecución inmediata, pero también \ndesea ejercer cierto control sobre el precio. El objetivo es que la orden no se \nejecute a varios precios.\n5.5. Gastos y comisiones\nLa operativa con ETF genera comisiones y gastos inherentes a su naturaleza: \nes un fondo de inversión pero se negocia como una acción, por lo que tendrá \ngastos adicionales derivados de la operativa bursátil. Antes de invertir y \noperar con ETF, el inversor debe analizar detenidamente los gastos directos e \nindirectos que va a soportar, ya que todos ellos inciden en la rentabilidad final \nde la inversión.\n\nLos Fondos Cotizados en Bolsa (ETF)\n¥ Por ser un fondo de inversión: a diferencia del resto de fondos de\ninversión que pueden tener comisión de suscripción y reembolso,\nlos ETF no tienen estas dos clases de comisiones, pero sí se les\naplica la comisión de gestión y de depósito. Suelen ser reducidas,\ninferiores a las de los fondos tradicionales con similares políticas\nde inversión, y se imputan diariamente pro rata temporis al valor\nliquidativo de las participaciones del fondo.\nLa comisión de gestión puede establecerse en función del \npatrimonio del fondo, de sus rendimientos o resultados o de ambos \nelementos a la vez.\nVeámoslo con un ejemplo: el inversor Juan Pérez acaba de \ncomprar un ETF y se pregunta cómo aplicará hoy la Sociedad \nGestora las comisiones de gestión y depósito de un 0,3 %, \nque, según el folleto del emisor, están asociadas a este fondo \ncotizado. Suponiendo que el Valor Liquidativo es 39,90 €, se \nprorratea para calcular la comisión a imputar este día:\n¥ Por negociarse como una acción: el hecho de realizar las\ninversiones en ETF a través de un intermediario o entidad financiera\ngenerará unos gastos de intermediación. Además, la operativa\nbursátil está gravada con el canon de contratación y el canon de\nliquidación, que son independientes de la entidad con la que se\nopere, y dependen del valor efectivo de la operación.\nA modo de ejemplo y según un pequeño muestreo realizado \nentre los intermediarios más activos, la negociación bursátil por \nvalor de 3.000 € de efectivo, generaría unas comisiones de:\n39,90 € * 0,30 %/365= 0,00032795 €\n\nLos Fondos Cotizados en Bolsa (ETF)\n¥ Por tratarse de valores cotizados, el inversor deberá tener abierta \nuna cuenta de valores en el intermediario, que implicará unos gastos \nde administración o custodia que se devengarán por la posición en \nvalores y por la entrada de nuevos títulos. A veces se cobran sobre \nel valor nominal de las acciones, otras, sobre el valor efectivo de \nlos títulos y otras, se establece un mínimo por valor o por mercado. \nSi, por ejemplo, se tiene una cartera de valores de 35.000 € y el \nintermediario cobra un 0,20 % anual sobre el valor efectivo de sus \ntítulos, estaríamos pagando 70 € al año por gastos de custodia.\n¥ En último lugar, se pueden añadir otros gastos adicionales por \noperaciones concretas, como el cobro de dividendos, aunque \nsiempre deberán aparecer claramente especificados en el contrato \nque se haya firmado al abrir la cuenta.\nLa información detallada sobre los gastos y comisiones del ETF se puede \nconsultar en el folleto que debe estar disponible en la web de la gestora y en \nla web de la CNMV (www.cnmv.es).\nGastos de \nintermediación \ny brokerage\n8,00 €\nCanon de \ncontratación \n2,45 €+0,024 %\n3,17 €\nCanon mínimo \nde liquidación\n0,10 €\n\nLos Fondos Cotizados en Bolsa (ETF)\nVI. Fiscalidad\nEn cualquier inversión, el aspecto fiscal es importante a la hora de elegir el \nproducto más adecuado. Aunque los ETF son fondos de inversión, en tanto \nen cuanto estén admitidos a negociación en la bolsa española, su tratamiento \nfiscal se aproxima al de las acciones, por lo que las ganancias patrimoniales \nno están sujetas a retención y se calculan como la diferencia entre el valor de \ntrasmisión o venta, menos el valor de adquisición.\nPor otra parte, las participaciones en fondos cotizados en España no pueden \nser objeto de traspaso, por lo que no es posible acogerse al régimen que \npermite a los partícipes en fondos tradicionales reembolsar en un fondo y \nsuscribir en otro con diferimiento de la tributación de las plusvalías.\n%\n$\n$\n$\n\nLos fondos de inversión y la inversión colectiva\nVII. Recuerde\n¥ Los ETF suelen ser fondos de renta variable, excepto aquellos que replican \níndices de renta fija o índices de materias primas, por lo que en general \npresentan una volatilidad similar a la que se da en los activos subyacentes \n(acciones constituyentes del índice que se replica) y resultan menos \nadecuados para inversores con un perfil de riesgo moderado.\nLos fondos cotizados que replican índices de renta variable asumen \nprincipalmente un riesgo de mercado. Por tanto, en situaciones de \nmercado adversas pueden registrarse pérdidas en la inversión realizada, al \nigual que sucede con la inversión en acciones.\n¥ Existe la posibilidad de que las operaciones de compra y venta se realicen \na un precio diferente del valor liquidativo indicativo publicado por la bolsa \nen la que se negocian, debido a que los especialistas introducen órdenes \nde compra y venta con un diferencial en los precios. Por tanto, lo normal es \nque el partícipe compre a precios superiores al valor liquidativo estimado \ny venda a precios inferiores, aunque en general la diferencia entre ambos \nserá muy reducida.\n¥ La operativa con fondos cotizados es similar a la de las acciones cotizadas \npor lo que el inversor podrá dar órdenes limitadas a un precio, órdenes \npor lo mejor y órdenes de mercado, y señalar, en su caso, diferentes \ncondiciones de ejecución.\n¥ El valor liquidativo de un fondo cotizado puede ser distinto del valor de \nsu índice de referencia, al igual que sucede con los fondos de inversión \ntradicionales, debido a las comisiones y gastos que soporta el fondo y \na los dividendos que abonan los valores en cartera al fondo cotizado. \nEsta última diferencia se elimina en las fechas en las que el ETF reparte \ndividendos a los partícipes.\n\nLos fondos de inversión y la inversión colectiva\n¥ Las obligaciones de información a los inversores son menores que en los \nfondos tradicionales, ya que no es exigible la entrega del documento con \nlos datos fundamentales para el inversor y el último informe semestral \nantes de la compra. Sin embargo, el inversor tiene derecho a solicitar en \ncualquier momento a su intermediario el folleto y el último informe anual y \ntrimestral publicado.\n¥ Como en cualquier otro fondo, el inversor debe consultar el folleto \ninformativo y el DFI para poder adoptar una decisión de inversión fundada. \nResulta esencial consultar en este documento la política de inversión, el \nperfil de riesgo, las comisiones aplicables, etc.\n¥ Invertir en ETF implica asumir dos tipos de gastos: por una parte, las \ncomisiones de gestión y depósito del propio fondo de inversión; y por otra, \nlos que debe soportar directamente el inversor a favor del intermediario \nen el que estén depositadas las participaciones (compra-venta, \nadministración y depósito, cobro de dividendos, traspaso…). Aunque las \ncomisiones de gestión y depósito suelen ser significativamente inferiores a \nlas soportadas por los partícipes de los fondos de inversión tradicionales, \nel coste añadido podría incidir de forma significativa en la rentabilidad final \nesperada de la inversión.\n\nContáctanos por email\nEsta guía tiene como finalidad informar al público en general sobre distintos \naspectos relacionados con los mercados de valores. Por su naturaleza divulgativa \nno puede constituir un soporte para posteriores interpretaciones jurídicas, siendo \nla normativa vigente la única de aplicabilidad para estos fines. \nEs un documento de la CNMV en colaboración con BME \n¿Necesitas más \ninformación?\nwww.cnmv.es",
+  "text_len": 39239,
+  "num_headings": 18,
+  "metadata": {
+    "producer": "iLovePDF",
+    "creation_date": "2026-06-05",
+    "mod_date": "2026-06-05"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Los fondos cotizados en bolsa (ETF)",
+    "topic": "inversión",
+    "subtopic": "ETF",
+    "difficulty": "intermedio",
+    "format": "PDF",
+    "summary": "Qué son los ETF, cómo funcionan y sus principales características",
+    "learning_objective": "Comprender el producto ETF como vehículo de inversión"
+  },
+  "pdf_info": {
+    "n_pages": 31,
+    "body_size": 13.0,
+    "extractor": "pymupdf"
+  },
+  "deduped_from": null
+}

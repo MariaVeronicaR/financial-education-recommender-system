@@ -1,0 +1,57 @@
+{
+  "content_id": "C059",
+  "tldr": "EliBÁN cierra una serie de vídeos que funciona como guía práctica para elegir una hipoteca con criterio antes de firmar. El contenido resuelve dudas habituales como cómo pagar la vivienda y qué hacer si surgen problemas para abonar la cuota hipotecaria, invitando a profundizar en el Portal del Cliente Bancario.",
+  "key_points": [
+    "El contenido se presenta como una guía práctica para elegir una hipoteca con criterio antes de firmar.",
+    "Aborda cómo afrontar el pago de la vivienda cuando se contrata una hipoteca.",
+    "Explica qué hacer si se tienen problemas para abonar la cuota mensual de la hipoteca.",
+    "Anima a ampliar la información en el Portal del Cliente Bancario.",
+    "Forma parte de una serie de vídeos que resuelve dudas habituales sobre la contratación de hipotecas."
+  ],
+  "quiz": [
+    {
+      "question": "Según el contenido, ¿cuál es el enfoque principal de esta serie de vídeos sobre hipotecas?",
+      "options": [
+        "Elegir una hipoteca con criterio antes de firmar",
+        "Comparar tipos de interés compuesto",
+        "Invertir en fondos de inversión",
+        "Calcular la inflación de la vivienda"
+      ],
+      "correct_index": 0,
+      "explanation": "El contenido define la serie como una guía práctica para elegir con criterio la hipoteca antes de firmar.",
+      "concept_id": "C11"
+    },
+    {
+      "question": "¿Qué tipo de dudas habituales aborda el contenido respecto a la hipoteca?",
+      "options": [
+        "Cómo pagar la vivienda y qué hacer si hay problemas para abonar la cuota",
+        "Cómo solicitar una tarjeta de crédito",
+        "Cómo declarar impuestos al comprar acciones",
+        "Cómo abrir una cuenta en el extranjero"
+      ],
+      "correct_index": 0,
+      "explanation": "El vídeo aclara desde cómo pagar la vivienda hasta qué hacer si tuvieras problemas para abonar la cuota de la hipoteca.",
+      "concept_id": "C10"
+    },
+    {
+      "question": "¿Qué recomendación ofrece el contenido para quienes quieran profundizar en el tema de las hipotecas?",
+      "options": [
+        "Consultar el Portal del Cliente Bancario",
+        "Solicitar varios préstamos personales",
+        "Cambiar de banco cada año",
+        "Contratar un seguro de vida obligatorio"
+      ],
+      "correct_index": 0,
+      "explanation": "El contenido indica que se puede profundizar a través de los contenidos del Portal del Cliente Bancario.",
+      "concept_id": "C28"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5919,
+    "input_tokens": 1376,
+    "output_tokens": 1012
+  }
+}

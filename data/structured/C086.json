@@ -1,0 +1,141 @@
+{
+  "content_id": "C086",
+  "title": "Tus primeros pasos con la cadena de bloques (blockchain)",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Tus primeros pasos con la cadena de bloques (blockchain)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta cadena de bloques no se almacena en un solo lugar y por parte de una única entidad, sino que se replica en múltiples lugares y por parte de múltiples participantes o nodos, por lo que se trata de una forma segura de guardar información. Esto significa que, para alterar esta información, se necesitaría el permiso de la mayoría de estos participantes o nodos, lo cual hace muy difícil que se lleve a cabo de manera fraudulenta.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Cómo funciona una blockchain?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las transacciones que se realizan dentro de una cadena de bloques (blockchain) van quedando registradas en lo que se podría considerar un “libro contable (libro mayor)” digital. En cada uno de los bloques de la cadena queda registrado un conjunto de transacciones realizadas durante un período de tiempo (por ejemplo, en el caso de Bitcoin, unos 10 minutos). Una vez se lleva a cabo la verificación de ese conjunto de transacciones, el bloque que las contiene queda incorporado a la blockchain.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los bloques están encadenados entre sí mediante la utilización de criptografía y cada uno contiene, además de la citada lista de transacciones, un “hash”, que es un código alfanumérico, de longitud fija, generado mediante un algoritmo criptográfico, y que representa de forma única a un conjunto de datos (un documento, una imagen…). Cada bloque incluye el “hash” del bloque anterior, lo que hace que los bloques (y por tanto las transacciones que se contienen en dichos bloques) estén vinculados entre sí.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Cualquier cambio en un bloque anterior, invalida el “hash” del bloque siguiente. Además de lo anterior, en una blockchain no existe una entidad central que se encarga de almacenar este registro de transacciones, sino que existen múltiples participantes o nodos de la red que poseen una copia de este registro, de ahí que se considere una “red distribuida”.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Si bien esta tecnología es conocida por su uso en el ámbito de los criptoactivos, también se emplea en una amplia variedad de aplicaciones, como la verificación de la propiedad de activos, la gestión de cadenas de suministro o la votación en línea.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Inmutabilidad, resiliencia y trazabilidad"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un ejemplo de cómo una cadena de bloques puede utilizarse para proporcionar inmutabilidad, resiliencia y trazabilidad se puede ver en el sector alimentario.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Imaginemos una cadena de suministro de verduras donde cada lote es registrado en una blockchain desde el momento en que se planta hasta que se adquiere por parte del consumidor final. Cada vez que dichos lotes cambiaran de manos durante su producción y manufacturación, el registro se actualizaría de manera automática e inmutable, permitiendo su trazabilidad.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La inmutabilidad se refiere a la capacidad de la blockchain para evitar cambios no autorizados en los datos. Tal y como se ha comentado, la información registrada en la blockchain no se encuentra almacenada en un registro central, sino que múltiples copias de dicha información se encuentran almacenadas en los distintos nodos de la red (por ello la caracterización como “red distribuida”), lo que hace que sea difícil modificar la información de forma fraudulenta.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La resiliencia se refiere a la capacidad de la blockchain para continuar funcionando ante fallos o problemas. Al tratarse de una red distribuida formada por numerosos nodos que mantienen una copia del registro, si algún nodo de la red falla, los datos seguirían disponibles en otros nodos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por último, la trazabilidad implica que la información se va añadiendo en bloques, sin que sea posible modificar la información añadida a los bloques precedentes, lo que permite recorrer, en el ejemplo de las verduras, la cadena de bloques, de manera que los consumidores pueden saber exactamente el camino que ha recorrido su producto hasta llegar a sus manos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "De este modo, una blockchain es un registro inmutable, resiliente y trazable, es decir, una base de datos que sólo permite añadir registros, bajo consenso, y en la que todos los nodos participantes contribuyen para crear un sistema resistente a fallos o modificaciones fraudulentas.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Descubre las diferencias entre los distintos tipos de blockchains"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Cadena de bloques pública no permisionada (permissionless public blockchain)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Este fue el primer tipo de blockchain que existió, y se refiere a aquellas cuya información es accesible sin permiso a través de Internet. Este tipo blockchains mantienen sus datos e historial abiertos al público, así como su software y su desarrollo, de forma que cualquier persona puede participar en la misma como nodo y/o revisar, auditar, desarrollar o mejorar dichos datos. Ejemplos de este tipo de blockchains públicas no permisionadas son Bitcoin, Ethereum, Cardano, Solana o Polkadot.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Cadenas de bloques privada (permissioned blockchain)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Con la evolución de la tecnología de registro distribuido y su expansión, muchas empresas han desarrollado soluciones privadas, las cuales, generalmente, cuentan con los mismos elementos que una cadena de bloques pública, pero únicamente las personas autorizadas pueden acceder a la red y se necesita permiso para ser nodo y validar transacciones. Con carácter general, toda blockchain privada es, por definición, una red permisionada.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Existe una entidad central que gestiona la red y concede acceso a los usuarios, por tanto, la información incluida en los bloques no es pública.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ejemplos de tecnología de blockchain privadas son Hyperledger, Corda o Quorum.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Cadena de bloques híbrida (hybrid blockchain)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Serían las redes públicas permisionadas, esto es, una fusión entre las públicas y las privadas. En estas, la participación en la red es permisionada, es decir, el acceso a sus recursos está controlado por una o varias entidades. Sin embargo, el registro es accesible de forma pública, y cualquier persona puede explorar bloque a bloque todo lo que sucede en ella.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Este tipo de cadenas de bloques (blockchains) son muy útiles para gobiernos, organizaciones empresariales y grupos de empresas que deseen almacenar y compartir datos de forma segura, por ejemplo, en el sector sanitario, donde se han utilizado para almacenar los datos de sus líneas de producción de medicamentos. Este es el caso de la empresa farmacéutica Pfizer que desarrolló en 2017 un sistema basado en una cadena de bloques (blockchain) para garantizar la trazabilidad de sus vacunas y productos sanitarios. Otros ejemplos de redes públicas permisionadas incluyen Hedera o Alastria.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El objetivo de la aplicación de este modelo de blockchain es mantener un alto nivel de transparencia y confianza.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:29:29.893936+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 6324,
+    "input_tokens": 3258,
+    "output_tokens": 2422
+  }
+}

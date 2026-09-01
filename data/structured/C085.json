@@ -1,0 +1,579 @@
+{
+  "content_id": "C085",
+  "title": "Fiscalidad de los fondos de inversión en el IRPF (Enero/2026)",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "I. ¿Cómo tributan los fondos de inversión?"
+    },
+    {
+      "type": "paragraph",
+      "text": "En la gestión de las finanzas personales es conveniente conocer cuánto y cuándo hay que pagar por las rentas que se vayan generando, si en ese momento existe algún tipo de beneficio fiscal, qué gastos son fiscalmente deducibles o si se pueden compensar las pérdidas con las ganancias a la hora de declarar el impuesto.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta guía explica la fiscalidad de los fondos de inversión en el Impuesto sobre la Renta de las Personas Físicas (IRPF). Los fondos de inversión, como cualquier otro producto de inversión, están sujetos a tributación, pero tienen determinadas particularidades que conviene tener en cuenta a la hora de invertir en ellos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Para más información acerca de cómo funcionan los fondos de inversión se puede consultar la guía de la CNMV “Los fondos de inversión y la inversión colectiva”.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conceptos básicos sobre el IRPF"
+    },
+    {
+      "type": "paragraph",
+      "text": "En el IRPF se distinguen dos tipos de bases imponibles según el tipo de renta:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Base imponible general: compuesta fundamentalmente por los rendimientos del trabajo (salarios) y de actividades económicas así como los rendimientos de capital inmobiliario (p.ej. el alquiler de un piso) y los rendimientos de capital mobiliario que no tengan la consideración de renta del ahorro.",
+        "Base imponible del ahorro: es donde se integran la mayor parte de las rentas derivadas de la inversión en productos financieros (p.ej. dividendos e intereses)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A su vez dentro de la base del ahorro se diferencia entre:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Rendimientos del capital mobiliario: contraprestaciones o rendimientos generados por los bienes muebles que están dentro del patrimonio. Si se consideran los productos de inversión, los bienes muebles o mobiliarios serían, por ejemplo, las acciones, los bonos o los fondos, y los rendimientos del capital mobiliario serían los dividendos recibidos en efectivo por tener acciones o fondos, o los intereses recibidos por tener bonos.",
+        "Ganancias y pérdidas patrimoniales: para que haya ganancia o pérdida patrimonial es necesario que se modifique la composición del patrimonio (por la transmisión o incorporación de bienes al patrimonio) y que esta modificación haga variar el valor del mismo."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En el caso de los fondos, se produce ganancia patrimonial si el valor de reembolso es mayor que el valor de suscripción y se produce pérdida si el valor de reembolso es inferior al de adquisición.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Las rentas de los fondos de inversión se generan fundamentalmente en el momento de la venta de las participaciones del fondo por la diferencia entre el valor de reembolso (o venta) de las mismas y el valor de suscripción (o compra) y, en algunos casos, como en los fondos de reparto, también al recibir dividendos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La mayoría de los fondos de inversión que se comercializan en España son fondos de acumulación, ya que los rendimientos que generan los distintos activos que componen el fondo se acumulan en el mismo en vez de ser distribuidos vía dividendos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El resultado positivo o negativo que se obtiene al vender un fondo (total o parcialmente), a efectos del IRPF, tiene la consideración de ganancia o pérdida patrimonial (GPP) y se incluye en la base imponible del ahorro.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A la hora de invertir, la fiscalidad es uno de los aspectos sobre los que es recomendable informarse adecuadamente, ya que puede afectar a la rentabilidad final de la inversión. Además, hay que ser consciente de que la fiscalidad puede cambiar a lo largo del tiempo, incluso antes de la liquidación de la inversión.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En el momento de la venta, el intermediario financiero va a retener un 19%1 del importe de la ganancia en concepto de pago a cuenta de los impuestos que habrá que liquidar cuando se haga la declaración del impuesto. En caso de que exista una pérdida no se retendrá nada.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Una de las particularidades de los fondos de inversión es que no están sujetos a tributación hasta el momento en que se reembolsa el capital invertido con la venta de las participaciones. Como se expone en el apartado III de esta guía, otra característica propia de los fondos es el diferimiento fiscal que permite traspasar el dinero de un fondo a otro sin pagar impuestos en el momento del traspaso.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Solo se tributa por las ganancias generadas, no por el dinero total que se obtiene del reembolso (venta) del fondo de inversión. Por ejemplo, si se invierten en un fondo 1.000 euros y se vende por 1.200 euros, se tributa por la ganancia de 200 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Este porcentaje corresponde a 2025 y puede variar cada año. En la web de la Agencia Tributaria (www.aeat.es) se pueden consultar los datos actualizados.",
+      "links": []
+    },
+    {
+      "type": "highlight",
+      "text": "Si se mantienen las participaciones o se traspasa la inversión de un fondo a otro, no hay que pagar impuestos."
+    },
+    {
+      "type": "highlight",
+      "text": "Sólo hay que tributar cuando se venden definitivamente las participaciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "La ganancia o pérdida patrimonial se calcula por la diferencia positiva o negativa entre el valor liquidativo2 de las participaciones en el momento del reembolso (venta) y el valor liquidativo en el momento de la suscripción (compra), restando o sumando, respectivamente, los gastos asociados, esto es, aquellos directamente relacionados con la compra (como la comisión de suscripción) o con la venta (como la comisión de reembolso). Por tanto, fiscalmente se permite deducir estas comisiones del resultado obtenido.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El valor liquidativo es el precio unitario de la participación en un fondo de inversión. Se calcula dividendo el patrimonio del fondo entre el número de participaciones en circulación en ese momento.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En el caso de existir participaciones de un mismo fondo adquiridas en distintas fechas, para el cálculo de las ganancias o pérdidas por la venta de algunas de dichas participaciones se considera que las primeras participaciones que se adquirieron son las que primero se venden (criterio FIFO: First In, First Out).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Un aspecto a tener en cuenta es que el intermediario financiero puede cargar periódicamente comisiones por la administración y custodia de las participaciones. Estas comisiones se consideran gastos deducibles y se restan de los rendimientos del capital mobiliario (RCM)3. Sin embargo, en caso de haber contratado un servicio de gestión discrecional e individualizada de carteras, los importes pagados por este servicio no serán deducibles.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Estas comisiones las carga la entidad comercializadora si así lo indica el folleto del fondo (en el caso de fondos españoles) y se pueden deducir de los RCM obtenidos en el año aunque no haya habido venta de fondos en el periodo. No deben confundirse con las comisiones de gestión y depósito que la sociedad gestora y el depositario cargan directamente al fondo, que estarán deducidas del valor liquidativo del fondo (son comisiones implícitas).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. ¿Cómo se calcula la ganancia o pérdida patrimonial en la venta de un fondo?"
+    },
+    {
+      "type": "highlight",
+      "text": "Valor de reembolso - gastos de venta\nValor de suscripción + gastos de compra\nGanancia o pérdida patrimonial"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2.1. ¿Cuánto habrá que pagar?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Como se ha mencionado, las ganancias o las pérdidas generadas por la venta de los fondos se incorporan a la base imponible del ahorro. Allí se integrarán y compensarán junto con otras ganancias y pérdidas patrimoniales y, limitadamente, con los rendimientos del capital mobiliario obtenidos en el año (ver el apartado V de esta guía).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los tipos impositivos a aplicar a las ganancias obtenidas varían entre el 19% y el 30% según los siguientes tramos4:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Hasta 6.000 euros de ganancia, se aplica un 19%",
+        "Desde los 6.000 euros hasta los 50.000 euros, un 21%",
+        "Entre 50.000 euros y 200.000 euros, un 23%",
+        "Entre 200.000 euros y 300.000 euros, un 27%",
+        "Más de 300.000 euros, un 30%"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos porcentajes se aplican por tramos progresivamente. De modo que, por ejemplo, si el beneficio obtenido son 10.000 euros se aplicará un 19% por los primeros 6.000 euros y un 21% por los 4.000 euros restantes.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos porcentajes y tramos corresponden a 2025 y pueden variar cada año. Además, en País Vasco y Navarra son diferentes. En la web de la Agencia Tributaria (www.aeat.es) se pueden consultar los datos actualizados.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ejemplo 1. Venta de un fondo de inversión"
+    },
+    {
+      "type": "paragraph",
+      "text": "El 15 de abril se invierten 10.000 euros en el fondo A. El precio unitario de cada participación (valor liquidativo) en ese momento es de 10 euros. La compra implica unos costes de 150 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Dado que los costes de compra reducen la cantidad disponible para invertir a 9.850 euros (10.000 euros - 150 euros), se podrán adquirir 985 participaciones (9.850 euros / 10 euros cada participación).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El 7 de septiembre se reembolsan todas las participaciones siendo entonces el valor liquidativo de 11 euros y existiendo unos gastos de venta de 100 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La ganancia patrimonial sería:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Valor de reembolso descontados gastos de venta: (985 x 11 € -100 €) = 10.735 €",
+        "Valor de suscripción incluidos gastos de compra: - (9.850 € +150 €) = - 10.000 €",
+        "Ganancia = 735 €"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Cuánto habría que pagar?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Teniendo en cuenta los tipos y tramos impositivos mencionados, a los primeros 6.000 euros obtenidos les corresponde un tipo del 19%:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "19% x 735 € = 139,65 €",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Nota: en el momento de la venta del fondo la entidad financiera habrá retenido un 19% de esa ganancia (139,65 euros) como pago a cuenta del impuesto. Suponiendo que solo se hubiera realizado esta operación en el año, cuando se presente la declaración del impuesto no habrá que realizar ningún pago adicional, dado que el importe a pagar coincide con la retención practicada, pero sí habrá que declarar sobre la operación realizada.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ejemplo 2. Venta de participaciones de un fondo compradas en distintas fechas"
+    },
+    {
+      "type": "paragraph",
+      "text": "El 10 de enero un inversor suscribe 500 participaciones en el fondo B con un valor liquidativo de 10 euros y unos gastos de compra de 50 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El 15 de marzo adquiere otras 400 participaciones del fondo B a 9 euros con unos gastos asociados de 44 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Posteriormente, el 23 de octubre vende 600 participaciones a un valor de 8,5 euros y unos gastos de 55 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A la hora de la venta y para calcular el valor de adquisición hay que aplicar el método FIFO (se venden primero las participaciones más antiguas); esto quiere decir que las 600 participaciones vendidas se corresponden primero con las compradas el 10 de enero (500) y posteriormente con las de marzo (las 100 restantes).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La ganancia / pérdida patrimonial sería:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Valor de reembolso descontados gastos de venta: 600 participaciones x 8,5 € -55 € = 5.045 €",
+        "Valor de suscripción incluidos los gastos: 500 participaciones x 10 € + 50 € = -5.050 €",
+        "100 participaciones x 9 €+ 11 € de gastos(1) = -911 €",
+        "Pérdida= -916 €"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En este caso la entidad financiera no practicará retención alguna.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los 44 euros pagados en marzo se corresponden con la compra de 400 participaciones. Hay que calcular el importe prorrateado de las 100 unidades: 44€ / 400 participaciones x 100 participaciones = 11€).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2.2 ¿Qué pasa si hay pérdidas?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Toda inversión conlleva riesgos, por lo que no siempre es posible obtener beneficios. Si al vender las participaciones de un fondo se ha perdido parte del dinero invertido, esas pérdidas se pueden compensar con otras ganancias y, con ciertos límites, con los rendimientos del capital mobiliario y así reducir el importe final que habrá que pagar. En el apartado V de esta guía se explica el procedimiento de compensación.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "III. ¿Hay que tributar si se cambia de fondo?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un elemento relevante de la fiscalidad de los fondos es que los traspasos entre ellos no tributan ni están sujetos a retención.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El traspaso se articula mediante la suscripción de un nuevo fondo tras el reembolso total o parcial de las participaciones de otro fondo, sin que en ningún momento el importe derivado del reembolso quede a disposición del inversor. Las nuevas participaciones suscritas conservan el valor y la fecha de adquisición de las participaciones reembolsadas.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Las ganancias o pérdidas del reembolso de las antiguas participaciones no se computan en el IRPF. Es lo que se denomina “diferimiento fiscal”. De esta forma, es posible ajustar la cartera de inversión sin implicaciones fiscales.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando se reembolsen definitivamente las nuevas participaciones, para determinar la ganancia o pérdida patrimonial se tomará como valor y fecha de adquisición el de las participaciones originales.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Para más información sobre cómo realizar un traspaso véase la “Guía de traspasos entre fondos”.",
+      "links": []
+    },
+    {
+      "type": "highlight",
+      "text": "Si tras el reembolso total o parcial de las participaciones de un fondo se suscribe otro nuevo (traspaso) no hay que tributar en ese momento ni se retendrá ningún importe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Este diferimiento fiscal se aplica a los fondos de inversión españoles y a los constituidos en otro país comunitario que estén registrados en CNMV (UCITS con “pasaporte comunitario”), que son los que, con carácter general, comercializan las entidades financieras a inversores minoristas.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por el contrario, no se aplica a fondos de inversión cotizados (ETF, por sus siglas en ingles).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ejemplo 3. Traspaso de fondos"
+    },
+    {
+      "type": "paragraph",
+      "text": "El 15 de marzo se adquieren 1.000 participaciones del fondo C con un valor de adquisición de cada participación de 10 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Llegado el 15 de agosto se decide traspasar todas las participaciones del fondo C, cuyo valor liquidativo en esa fecha es de 12 euros, al fondo D que tiene un valor liquidativo de 5 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En el momento del traspaso la inversión en el fondo C asciende a: 1.000 participaciones x 12 euros = 12.000 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Dado que el valor liquidativo del fondo D es de 5 euros, se recibirán 2.400 participaciones (12.000 euros de inversión / 5 euros cada nueva participación).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A pesar de que el fondo C habría generado una ganancia a fecha de 15 de agosto de 2.000 euros (1.000 participaciones que han incrementado su valor desde los 10 euros iniciales a 12 euros, es decir, dos euros por fondo), no se computará a efectos fiscales. Tampoco habrá ningún tipo de retención.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Tras el traspaso, a efectos fiscales (*) se tendrán 2.400 participaciones de D que conservan el valor (10.000 euros) y fecha de adquisición (15 de marzo) de las participaciones originales del fondo C.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En el caso de traspasos entre distintas entidades financieras, la entidad de origen transfiere a la entidad de destino el capital y la información fiscal relativa a la operación, que incluye el detalle del valor y fecha de adquisición histórica de las participaciones.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "IV. Fondos con características especiales"
+    },
+    {
+      "type": "paragraph",
+      "text": "Existen algunos tipos de fondos que presentan ciertas especificidades desde el punto de vista fiscal. Es el caso de los fondos de reparto y de los fondos garantizados, ya que dependiendo de la forma de distribución del resultado o del tipo de garantía sobre el capital invertido, la tributación puede variar.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4.1 Fondos de reparto o de distribución"
+    },
+    {
+      "type": "paragraph",
+      "text": "Atendiendo a la política de distribución de resultados se puede distinguir entre fondos de acumulación y fondos de reparto5.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de acumulación o de capitalización son aquellos que no reparten dividendos entre sus partícipes sino que los rendimientos de los activos que componen el fondo se acumulan en el mismo. En el momento de la venta (desinversión) el partícipe tributará por la ganancia o pérdida generada (GPP) en función del valor liquidativo del fondo, como se ha explicado en el apartado II de esta guía.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sin embargo, en el caso de los fondos de reparto o de distribución se distribuyen dividendos entre los partícipes, en función de los resultados obtenidos por el fondo y de lo que establezca su reglamento. Estos dividendos se consideran rendimientos del capital mobiliario y deben incluirse en la base imponible del ahorro el año en que se reciben. Los tipos impositivos varían entre el 19% y 30% según diferentes tramos (ver apartado 2.1 de esta guía). Además, están sujetos a retención por lo que el intermediario financiero va a retener un 19% del importe de los dividendos como pago a cuenta del impuesto que habrá que liquidar cuando se haga la declaración.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta característica también puede encontrarse a nivel de las diferentes clases que emita el fondo.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4.2 Fondos garantizados"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos garantizados aseguran, en todo o en parte, la conservación del capital invertido al cabo de un plazo predeterminado. Su tributación depende del tipo de garantía (de si la recibe el fondo o el partícipe).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La garantía del fondo viene dada por una tercera entidad y puede ser:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Interna: es el fondo quien recibe el capital si no alcanza el valor liquidativo fijado como objetivo. El inversor solo lo percibirá a través del valor liquidativo de sus participaciones. Tributan como un fondo no garantizado (según lo explicado en el apartado II de esta guía). Es decir, no tributan hasta que no se reembolsen las participaciones.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Externa: el capital se entrega directamente al partícipe, que recibe en su cuenta la diferencia entre el valor liquidativo del fondo en la fecha de vencimiento de la garantía y el valor liquidativo garantizado, en caso de que este último sea superior. Al igual que ocurre con los dividendos recibidos en el caso de los fondos de reparto, esta cantidad sí tributa en el ejercicio económico en el que se percibe como rendimiento del capital mobiliario y está sujeta a una retención del 19%.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Para mayor información sobre este tipo de fondos se puede consultar https://www.cnmv.es/DocPortal/Publicaciones/Guias/G06_Fondos_IIC.pdf.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "V. ¿Cómo se integran los ingresos en el IRPF? Compensación de pérdidas con ganancias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Se ha explicado de forma aislada cómo afecta la fiscalidad a los distintos tipos de ingresos obtenidos al invertir en fondos. Se va a analizar ahora de forma conjunta para entender la aplicación práctica en el IRPF7.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los ingresos obtenidos al invertir en fondos van a formar parte de la base del ahorro. Para determinar la base del ahorro del período impositivo hay que calcular dos bloques:",
+      "links": []
+    },
+    {
+      "type": "highlight",
+      "text": "Se suman, por un lado, todos los rendimientos del capital mobiliario (RCM), tanto positivos como negativos, obtenidos en ese periodo, compensando estos entre sí.\nPor otro lado, se suman todas las pérdidas y todas las ganancias patrimoniales (GPP) de ese periodo, compensando así las ganancias con las pérdidas."
+    },
+    {
+      "type": "paragraph",
+      "text": "En este proceso de compensación hay que tener en cuenta la conocida como “norma anti-aplicación” que establece que no se computan como pérdidas patrimoniales las producidas en una venta si en los dos meses anteriores o posteriores a la venta con pérdidas se han comprado participaciones en el mismo fondo. Con esta norma se pretende evitar que los inversores realicen operaciones de venta generando pérdidas solo a efectos fiscales, permaneciendo el patrimonio constante. En este caso las pérdidas patrimoniales se integran a medida que se transmiten las participaciones que permanecen en el patrimonio.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Este apartado se refiere a los ingresos por fondos de inversión, pero estos cálculos se pueden aplicar a cualquier otra inversión que genere ganancias y pérdidas patrimoniales o rendimientos del capital mobiliario.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Una vez calculados los dos bloques, existe la posibilidad de realizar una compensación entre ellos, esto es, RCM con GPP. Si el saldo de alguno de los dos bloques es negativo y el otro es positivo se puede compensar el negativo hasta un límite del 25 % del positivo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El resto de importe negativo (que no se pueda compensar por sobrepasar el límite del 25 %) se podrá compensar en los próximos 4 años. Por ejemplo, si se ha perdido con la venta de participaciones en fondos de inversión o de acciones (bloque de GPP), esta pérdida se podría restar de lo ganado en dividendos (bloque de RCM) hasta un 25 % de esta ganancia y el resto del importe negativo podrá compensarse en los 4 años siguientes.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Una vez obtenida la base del ahorro, para calcular el impuesto a liquidar por todas las inversiones del año, hay que aplicar los tipos impositivos de la base del ahorro, que varían entre un 19% y un 30% según el tramo en el que se encuentre el inversor (ver apartado 2.1).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ejemplo 4. Compensación"
+    },
+    {
+      "type": "paragraph",
+      "text": "Se han realizado las siguientes operaciones con fondos de inversión en el año:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "El 7 de septiembre se venden participaciones del fondo A obteniendo un beneficio de 735 euros.",
+        "El 23 de octubre se reembolsan participaciones del fondo B con una pérdida de 916 euros.",
+        "Los gastos de custodia de los distintos fondos en el ejercicio han sido de 7 euros."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Adicionalmente, se han realizado las siguientes operaciones con otros productos financieros:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "El 16 de febrero se cobran 570 euros de dividendos derivados de la inversión en acciones de la compañía X.",
+        "El 23 de junio se vende parte de las acciones que se poseen de la empresa W lo que genera un beneficio de 1.000 euros.",
+        "El 5 de agosto se venden de nuevo acciones de la empresa W teniendo una pérdida de 2.590 euros.",
+        "El 7 de octubre se cobran unos dividendos derivados de las acciones en la compañía Z por importe de 114 euros.",
+        "Finalmente el 31 de diciembre se cobran intereses generados por un depósito bancario por importe de 23 euros."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Se procede a sumar y agrupar, por un lado, todas las ganancias y pérdidas patrimoniales (GPP) y, por otro lado, todos los rendimientos del capital mobiliario (RCM):",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Tras compensar internamente esos bloques, se obtiene un saldo positivo para los RCM mientras que el de las GPP es negativo.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Cuántas pérdidas se pueden compensar?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Se puede compensar el 25% de 700 euros: un importe de 175 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El resto de las pérdidas patrimoniales (1.771€ - 175€ = 1.596 €) se podrá compensar durante los próximos 4 años.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La base imponible del ahorro será: 700 € – 175 € = 525 €",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Y aplicando los tipos impositivos, el importe resultante a pagar será de 99,75 euros (19% de 525 euros).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Recuerda que…"
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Conviene tener en cuenta el componente fiscal en las decisiones de inversión y ahorro.",
+        "Los fondos de inversión no tributan hasta el momento de su reembolso.",
+        "La ganancia o pérdida patrimonial se calcula por diferencia entre el valor de reembolso y el valor de suscripción de las participaciones considerando también los gastos asociados. En caso de pérdidas, se pueden compensar con otras ganancias o, con ciertos límites, con rendimientos del capital mobiliario.",
+        "Una ventaja fiscal de los fondos de inversión es que los traspasos no están sujetos al pago de impuestos, por lo que se puede traspasar el dinero de un fondo a otro sin tributar."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta ficha tiene como finalidad informar al público en general sobre distintos aspectos fiscales relacionados con los fondos de inversión. Por su naturaleza divulgativa no puede constituir un soporte para posteriores interpretaciones jurídicas, siendo la normativa en vigor y los criterios manifestados por la Administración tributaria la única fuente a estos efectos.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:29:23.044664+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 50249,
+    "input_tokens": 8811,
+    "output_tokens": 15262
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "content_id": "C054",
+  "tldr": "El contenido introduce la digitalización de los servicios bancarios como una realidad creciente que aporta oportunidades pero también nuevos riesgos para los usuarios. Para hacer frente a esos riesgos, señala que el Portal del Cliente Bancario publica contenidos sobre fraude por internet y remite a los consejos de la Policía Nacional como referencia de protección.",
+  "key_points": [
+    "La digitalización de los servicios y productos bancarios es cada vez más habitual.",
+    "Como usuarios conviene conocer tanto las oportunidades como los nuevos riesgos de la banca digital.",
+    "El Portal del Cliente Bancario publica posts dedicados al fraude por internet.",
+    "Se remite a los consejos de la Policía Nacional como referencia para protegerse del fraude."
+  ],
+  "quiz": [
+    {
+      "question": "Según el texto, ¿qué tipo de contenido publica el Portal del Cliente Bancario?",
+      "options": [
+        "Posts relativos al fraude por internet",
+        "Recomendaciones para invertir en bolsa",
+        "Guías para declarar impuestos",
+        "Comparativas de hipotecas"
+      ],
+      "correct_index": 0,
+      "explanation": "El texto indica que el Portal del Cliente Bancario publica posts relativos al fraude por internet.",
+      "concept_id": "C15"
+    },
+    {
+      "question": "¿Por qué resulta útil conocer la digitalización de los servicios bancarios según el contenido?",
+      "options": [
+        "Porque permite conocer sus oportunidades y también los nuevos riesgos que pueden surgir",
+        "Porque elimina por completo cualquier riesgo financiero",
+        "Porque garantiza obtener mayores intereses en todas las cuentas",
+        "Porque solo es útil para usuarios jóvenes"
+      ],
+      "correct_index": 0,
+      "explanation": "El texto señala que conocer la digitalización es útil para aprovechar sus oportunidades y, a la vez, estar alerta ante los nuevos riesgos.",
+      "concept_id": "C28"
+    },
+    {
+      "question": "¿A qué fuente se remite el contenido como referencia de consejos contra el fraude?",
+      "options": [
+        "A la Policía Nacional",
+        "Al Banco Central Europeo",
+        "A una entidad privada de crédito",
+        "A un blog anónimo de usuarios"
+      ],
+      "correct_index": 0,
+      "explanation": "El contenido menciona expresamente los 'Consejos de la Policía Nacional' como referencia para protegerse del fraude.",
+      "concept_id": "C15"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 6558,
+    "input_tokens": 1285,
+    "output_tokens": 1229
+  }
+}

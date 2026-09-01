@@ -1,0 +1,58 @@
+{
+  "content_id": "C064",
+  "tldr": "Esta guía explica qué son las estafas y fraudes financieros, con especial atención a los «chiringuitos financieros» o entidades no autorizadas para prestar servicios de inversión. Detalla los principales tipos de estafa (suplantación de identidad, cuentas de trading financiadas, fraude del técnico informático, recovery rooms, criptoactivos falsos, esquemas Ponzi, phishing/smishing/vishing, pharming y fraudes en redes sociales) y ofrece recomendaciones para identificarlas y evitarlas. También indica qué hacer si se ha sido víctima: dejar de aportar dinero, avisar a la CNMV y denunciar ante la Policía, Guardia Civil o el Juzgado.",
+  "key_points": [
+    "Un chiringuito financiero ofrece servicios de inversión sin estar autorizado; verifica siempre en los registros de la CNMV, Banco de España o DGSPP antes de entregar dinero.",
+    "Las víctimas de chiringuitos no tienen cobertura de los Fondos de Garantía de Inversiones o de Depósitos, por lo que no pueden ser indemnizadas por el engaño.",
+    "Los tipos de estafa incluyen suplantación de identidad, cuentas de trading financiadas con cursos de pago, fraude del técnico informático, recovery rooms, criptoactivos falsos, esquemas Ponzi, phishing/smishing/vishing, pharming y fraudes en redes sociales.",
+    "Desconfía siempre de promesas de altas rentabilidades sin riesgo, ofertas no solicitadas y recomendaciones de «influencers financieros» o celebridades.",
+    "Si eres víctima, no sigas aportando dinero, ponlo en conocimiento de la CNMV y denuncia ante la Policía, Guardia Civil o el Juzgado, conservando toda la documentación.",
+    "Los criptoactivos no son instrumentos financieros regulados y quedan fuera de la protección de las normas españolas y de la UE sobre servicios financieros."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cuál es la característica principal que define a un «chiringuito financiero»?",
+      "options": [
+        "Que ofrece servicios de inversión sin estar autorizado para ello",
+        "Que cobra comisiones más altas que la media del mercado",
+        "Que solo opera a través de Internet y redes sociales",
+        "Que invierte exclusivamente en criptomonedas"
+      ],
+      "correct_index": 0,
+      "explanation": "Un chiringuito financiero es una entidad que presta servicios de inversión sin estar autorizada ni registrada ante los organismos supervisores, actuando al margen de la legalidad.",
+      "concept_id": "C15"
+    },
+    {
+      "question": "¿Por qué las víctimas de un chiringuito financiero no pueden ser indemnizadas por el engaño sufrido?",
+      "options": [
+        "Porque la CNMV no reconoce las inversiones en criptoactivos",
+        "Porque al no ser entidades autorizadas no tienen la cobertura de los Fondos de Garantía de Inversiones o de Depósitos",
+        "Porque los contratos firmados por Internet no tienen validez legal",
+        "Porque las pérdidas se consideran riesgo asumido del inversor"
+      ],
+      "correct_index": 1,
+      "explanation": "Al actuar al margen de la legalidad, las víctimas no tienen acceso a los mecanismos de protección del inversor como los Fondos de Garantía, que solo cubren a quienes contratan con entidades autorizadas.",
+      "concept_id": "C15"
+    },
+    {
+      "question": "Un correo electrónico que simula ser de tu banco te pide hacer clic en un enlace para «verificar» tus claves de acceso. ¿Qué tipo de estafa es?",
+      "options": [
+        "Pharming",
+        "Esquema Ponzi",
+        "Phishing",
+        "Recovery room"
+      ],
+      "correct_index": 2,
+      "explanation": "El phishing usa correos que parecen proceder de entidades legítimas para dirigirte a una web falsa y robar tus claves o datos personales. Ninguna entidad autorizada te pedirá tus claves por correo.",
+      "concept_id": "C15"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5840,
+    "input_tokens": 7871,
+    "output_tokens": 1050
+  }
+}

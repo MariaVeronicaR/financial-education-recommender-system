@@ -1,0 +1,57 @@
+{
+  "content_id": "C025",
+  "tldr": "Las comisiones bancarias son libres: los bancos pueden cobrar lo que decidan, salvo cuando una norma limita su importe (por ejemplo, en la cancelación anticipada de hipotecas o créditos al consumo). Son las cantidades que te adeudan como contraprestación por servicios como transferencias, cambio de divisas o administración de cuentas. Las entidades deben publicar trimestralmente la información sobre las comisiones más habituales para facilitar su comparación.",
+  "key_points": [
+    "Las comisiones bancarias son libres: el banco decide cuánto cobra, salvo que una norma limite su importe.",
+    "Existen límites legales en casos como la cancelación anticipada de hipotecas o créditos al consumo.",
+    "Las comisiones son la contraprestación que pagas por servicios como transferencias, divisas o administrar tu cuenta.",
+    "Los bancos deben publicar trimestralmente las comisiones más habituales para que puedas comparar.",
+    "Esa información debe estar disponible en su web y en sus establecimientos comerciales."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué significa que las comisiones bancarias sean 'libres'?",
+      "options": [
+        "Que el banco puede cobrar lo que decida, salvo cuando una norma limite su importe",
+        "Que el banco no puede cobrar ninguna comisión",
+        "Que el Gobierno fija siempre el importe de todas las comisiones",
+        "Que las comisiones son gratuitas para todos los clientes"
+      ],
+      "correct_index": 0,
+      "explanation": "Las comisiones son libres: el banco decide su importe, excepto en los casos en que una norma lo limita (como la cancelación anticipada de hipotecas o créditos al consumo).",
+      "concept_id": "C18"
+    },
+    {
+      "question": "¿Qué deben publicar los bancos trimestralmente según el contenido?",
+      "options": [
+        "La información sobre las comisiones habitualmente aplicadas a los servicios más frecuentes, para facilitar su comparación",
+        "El listado completo de todos sus clientes",
+        "Los salarios de sus directivos",
+        "Sus beneficios anuales detallados"
+      ],
+      "correct_index": 0,
+      "explanation": "Las entidades deben publicar en su web y en sus establecimientos la información sobre las comisiones más habituales para que el cliente pueda comparar.",
+      "concept_id": "C18"
+    },
+    {
+      "question": "¿Qué son exactamente las comisiones bancarias?",
+      "options": [
+        "Cantidades que el banco te adeuda como contraprestación por los servicios que presta",
+        "Impuestos que pagas al Estado por tener una cuenta",
+        "Los intereses que ganas por tus depósitos",
+        "Multas por usar mal la banca online"
+      ],
+      "correct_index": 0,
+      "explanation": "Las comisiones son las cantidades que los bancos te adeudan a cambio de servicios como transferencias, cambio de divisas o administrar tu cuenta.",
+      "concept_id": "C18"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 7125,
+    "input_tokens": 1582,
+    "output_tokens": 1063
+  }
+}

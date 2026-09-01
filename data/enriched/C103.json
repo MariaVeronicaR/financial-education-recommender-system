@@ -1,0 +1,58 @@
+{
+  "content_id": "C103",
+  "tldr": "Ser accionista de una compañía cotizada implica convertirse en copropietario proporcional de la sociedad y disfrutar de derechos económicos (dividendo, suscripción preferente, cuota de liquidación) y políticos (información, asistencia y voto en la Junta). Las cotizadas ofrecen ventajas como liquidez, valoración continua por el mercado y transparencia, aunque la inversión en acciones conlleva riesgos por la incertidumbre de su rentabilidad. La guía explica los órganos de gobierno (Junta general y Consejo de Administración), las operaciones que afectan al accionista (ampliaciones, fusiones, splits y opas) y el derecho a la información.",
+  "key_points": [
+    "Invertir en acciones convierte al inversor en copropietario proporcional de la sociedad, con una rentabilidad que no está fijada de antemano.",
+    "Los accionistas tienen derechos económicos (dividendo, suscripción preferente, cuota de liquidación) y políticos (información, asistencia y voto).",
+    "Las compañías cotizadas ofrecen liquidez, valoración continua por el mercado y transparencia frente a las no cotizadas.",
+    "La inversión en acciones conlleva riesgos: rentabilidad incierta y no predecible, y sin plazo de vencimiento.",
+    "La Junta general decide los asuntos clave (cuentas, dividendos, capital) mientras que el Consejo de Administración gestiona y dirige la sociedad.",
+    "En operaciones como ampliaciones de capital, fusiones u opas, el accionista dispone de derechos y alternativas para proteger su inversión."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué caracteriza a un accionista minoritario de una compañía cotizada?",
+      "options": [
+        "Tiene los mismos derechos que los accionistas de referencia, aunque su capacidad de influir en la gestión es escasa salvo que actúe de forma agrupada.",
+        "No tiene derecho a asistir ni a votar en la Junta general de accionistas.",
+        "Su rentabilidad está fijada de antemano por la compañía.",
+        "Puede exigir la liquidación de la sociedad en cualquier momento."
+      ],
+      "correct_index": 0,
+      "explanation": "Los accionistas minoritarios gozan de los mismos derechos que los de referencia, pero su influencia en la gestión es escasa o nula salvo que actúen agrupados.",
+      "concept_id": "C12"
+    },
+    {
+      "question": "¿Cuál es una ventaja principal de invertir en acciones de una compañía cotizada frente a una no cotizada?",
+      "options": [
+        "La liquidez, porque se negocian en un mercado regulado y basta dar una orden a un intermediario autorizado.",
+        "La rentabilidad está garantizada por el mercado.",
+        "La exención de comisiones y gastos de tramitación.",
+        "La valoración no depende en absoluto de la evolución de la cotización."
+      ],
+      "correct_index": 0,
+      "explanation": "Al cotizar en un mercado regulado, comprar o vender acciones es más fácil y rápido, aunque conlleva comisiones; en las no cotizadas hay que buscar contraparte por cuenta propia.",
+      "concept_id": "C12"
+    },
+    {
+      "question": "¿Por qué se considera arriesgada la inversión en acciones?",
+      "options": [
+        "Porque su rentabilidad no es conocida ni predecible y no tienen plazo de vencimiento, dependiendo de factores ajenos a la compañía.",
+        "Porque el Estado garantiza la devolución del capital invertido.",
+        "Porque siempre generan pérdidas a medio plazo.",
+        "Porque su evolución depende únicamente de los tipos de interés."
+      ],
+      "correct_index": 0,
+      "explanation": "Las acciones no tienen rentabilidad conocida ni predecible, no tienen vencimiento y su evolución depende de factores como la economía, los tipos de interés o la inflación, lo que genera incertidumbre.",
+      "concept_id": "C13"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 9117,
+    "input_tokens": 8969,
+    "output_tokens": 1711
+  }
+}

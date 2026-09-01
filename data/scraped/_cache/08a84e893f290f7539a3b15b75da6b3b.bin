@@ -1,0 +1,252 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><tittle>CNMV-Ir a C&oacute;mo se relacionan rentabilidad y riesgo</tittle>
+<meta content="es" name="language"/>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<meta content="Búsqueda Activa de Empleo,tutorial,curso" name="keywords"/>
+<link href="css/estilo.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+
+function mostrar(v1) {
+	var e = document.getElementById(v1);
+	e.className = 'txt_visible';
+}
+
+</script>
+</head>
+<body>
+<div class="contenedor_gral">
+  <div id="header"></div>
+  <div id="title" ><H1 class="titulo" tabindex="1">CNMV: Curso de decisiones de inversión</H1></div>
+  <div id="navigation" ><a title="Ir a Página Anterior" href="0301.htm" class="nav_back" tabindex="2">p&aacute;gina 
+    anterior</a> - <a title="Ir a Página Siguiente" href="0501.htm" class="nav_fordward" tabindex="3">p&aacute;gina 
+    siguiente&nbsp;</a></div>
+
+  <div id='menu_navigation'>
+	<ul id="navi">
+		<li><a title="Ir a Introducción" href="0001.htm">Introducci&oacute;n</a></li>
+		<li><a title="Ir a Objetivos" href="0101.htm">Objetivos</a></li>
+		<li>Las decisiones de inversión paso a paso</li>
+		
+      <li><a  href="020001.htm" title="Ir a Paso 1: Antes de invertir (1)" class="contenedor_gral_p">Paso 
+        1: Antes de invertir (1)</a></li>
+		
+      <li ><a title="Ir a Paso 1: Antes de invertir (2)"  href="020002.htm" class="contenedor_gral_p">Paso 
+        1: Antes de invertir (2)</a></li>
+		
+      <li><a  href="020003.htm" title="Ir a Paso 1: Antes de invertir (3)" class="contenedor_gral_p">Paso 
+        1: Antes de invertir (3)</a></li>
+		
+      <li><a  href="020004.htm" title="Ir a Paso 1: Antes de invertir (4)" class="contenedor_gral_p">Paso 
+        1: Antes de invertir (4)</a></li>
+		
+      <li><a  href="020005.htm" title="Ir a Paso 1: Antes de invertir (5)" class="contenedor_gral_p">Paso 
+        1: Antes de invertir (5)</a></li>
+		
+      <li><a  href="020006.htm" title="Ir a Paso 1: Antes de invertir (6)" class="contenedor_gral_p">Paso 
+        1: Antes de invertir (6)</a></li>
+		
+      <li><a  href="020101.htm" title="Ir a Paso 2: El momento de decidir (1)" class="contenedor_gral_p">Paso 
+        2: El momento de decidir (1)</a></li>
+		
+      <li><a title="Ir a Paso 2: El momento de decidir (2)"  href="020102.htm" class="contenedor_gral_p">Paso 
+        2: El momento de decidir (2)</a></li>
+		
+      <li><a  href="020103.htm" title="Ir a Paso 2: El momento de decidir (3)" class="contenedor_gral_p">Paso 
+        2: El momento de decidir (3)</a></li>
+		
+      <li><a  href="020104.htm" title="Ir a Paso 2: El momento de decidir (4)" class="contenedor_gral_p">Paso 
+        2: El momento de decidir (4)</a></li>
+		
+      <li><a  href="020201.htm" title="Ir a Paso 3: Cómo vigilar sus inversiones" class="contenedor_gral_p">Paso 
+        3: Cómo vigilar sus inversiones</a></li>
+		
+      <li><a title="Ir a Consejos para recordar"  href="020301.htm" class="contenedor_gral_p"A>Consejos 
+        para recordar</a></li>
+		
+      <li><a  href="020401.htm" title="Ir a Oficina de Atención al Inversor" class="contenedor_gral_p">Oficina 
+        de Atención al Inversor</a></li>
+		<li><a title="Ir a Conozca su perfil inversor"  href="0301.htm">Conozca su perfil inversor</a></li>
+		<li class="active"><a title="Ir a Cómo se relacionan rentabilidad y riesgo"  href="0401.htm">Cómo se relacionan rentabilidad y riesgo</a></li>
+		<li><a title="Ir a Panorámica de los productos de inversión"  href="0501.htm">Panorámica de los productos de inversión</a></li>
+		<li><a title="Ir a Resumen" href="0601.htm">Resumen</a></li>
+		<li><a title="Ir a Compruebe sus conocimientos" href="0701.htm">Compruebe sus conocimientos</a></li>
+		<li><a title="Ir a Fin de módulo" href="0801.htm">Fin de módulo</a></li>
+	</ul>
+   </div>
+
+    
+  <div id="content"> 
+    <table width="60%"  border="0" cellspacing="0" cellpadding="0">
+      <tr> 
+        <td><h2 tabindex="4">Ir a C&oacute;mo se relacionan rentabilidad y riesgo</h2>
+          <p tabindex="5" class="align-izda">El <strong>riesgo </strong>es la <strong>posibilidad</strong> 
+            de que <strong>nuestra inversi&oacute;n no produzca los resultados 
+            que esperamos</strong> e incluso, que perdamos parte o todo el capital 
+            que hemos invertido inicialmente. </p>
+          <p tabindex="6" class="align-izda">Una regla de oro que nunca hay que olvidar es 
+            que <strong>rentabilidad y riesgo son dos conceptos que van unidos</strong>: 
+            cuanta mayor sea la rentabilidad esperada de un producto mayor ser&aacute; 
+            el riesgo que asumamos. </p>
+          <p tabindex="7" class="align-izda"><strong>Desconfie de quien le ofrezca un producto 
+            con rentabilidad elevada y sin riesgo: esa combinaci&oacute;n no existe. 
+            </strong><br />
+          </p>
+          <blockquote> 
+            <p tabindex="8" class="align-izda"><span class="Estilo2"><img src="imagenes/topo.jpg" alt="" width="6" height="6" /> 
+              </span><span class="negrita"><strong>&iquest;Como se mide el riesgo?:</strong></span><span class="Estilo2"> 
+              </span> </p>
+            <p tabindex="9" class="align-izda">La forma habitual con la que, de forma gen&eacute;rica, 
+              <strong>se mide el riesgo es la volatilidad</strong>. Se trata de 
+              un <strong>c&aacute;lculo matem&aacute;tico que determina si el 
+              precio de un activo durante cierto per&iacute;odo de tiempo ha variado 
+              mucho respecto a su valor medio</strong>. </p>
+            <p tabindex="10" class="align-izda">Si un valor es muy vol&aacute;til habr&aacute; 
+              experimentado importantes cambios, por lo que ser&aacute; m&aacute;s 
+              dif&iacute;cil predecir su comportamiento y, en consecuencia, incorporar&aacute; 
+              mayor incertidumbre para el inversor. Por lo tanto, <strong>a mayor 
+              volatilidad, mayor riesgo</strong>. </p>
+            <p tabindex="11" class="align-izda">Ejemplo de medici&oacute;n del riesgo</p>
+            <p tabindex="12" class="align-izda"> Supongamos dos acciones A y B cuyo precio actual 
+              es de 100. En los &uacute;ltimos tres a&ntilde;os sus cotizaciones 
+              han sido:</p>
+            <p class="align-izda">&nbsp;</p>
+            <p tabindex="20" class="align-izda">El valor del activo &ldquo;A&rdquo; ha experimentado 
+              una gran desviaci&oacute;n respecto de su valor medio en 2005 (40-100= 
+              -60) y 2006 (160-100= +60), sin embargo la diferencia de los valores 
+              de &ldquo;B&rdquo; respecto a su valor medio ha sido mucho menor 
+              (+10 en 2005 y -10 en 2006). Si calcul&aacute;ramos la volatilidad 
+              de ambos valores, ver&iacute;amos que la de B es inferior a la de 
+              A, lo cual quiere decir que, en el caso de A, parece m&aacute;s 
+              probable que su valor en el futuro tenga importantes variaciones 
+              (para bien o para mal). Si este an&aacute;lisis lo hacemos desde 
+              el punto de vista de la rentabilidad, diremos que quien invierta 
+              en A puede esperar o una elevada ganancia o una elevada p&eacute;rdida; 
+              sin embargo quien lo haga en B asume (en teor&iacute;a) menos riesgo 
+              a cambio de la posibilidad de obtener una ganancia esperada inferior 
+              o de tener que soportar una&nbsp; p&eacute;rdida menor. Por tanto, 
+              si quiero tener la posibilidad de obtener una elevada rentabilidad, 
+              entre ambos activos, deber&iacute;a comprar el A, aunque siendo 
+              consciente de que ello supone la posibilidad de que tenga que asumir 
+              una elevada p&eacute;rdida.&nbsp;&nbsp; </p>
+            <p tabindex="21" class="align-izda">Este ejemplo es muy simple. En la pr&aacute;ctica, 
+              para calcular la volatilidad se utilizan mucho m&aacute;s que tres 
+              datos. No obstante no se preocupe, usted no tendr&aacute; que calcularla 
+              ya que, por lo general, ser&aacute; un valor que le proporcionar&aacute;n 
+              los diferentes intermediarios del mercado.</p>
+            <p tabindex="22" class="align-izda">Pero supongamos que conocemos la volatilidad 
+              de un determinado activo financiero, &iquest;c&oacute;mo podemos 
+              saber si es alta o baja?. Una opci&oacute;n ser&iacute;a compararla 
+              con la de otro activo. Para ello, tendremos que asegurarnos de que 
+              ambas se han calculado siguiendo el mismo m&eacute;todo y que se 
+              refieren al mismo per&iacute;odo de tiempo. Otra posibilidad &ndash;m&aacute;s 
+              sencilla-, es que este dato nos lo hayan &ldquo;traducido&rdquo;, 
+              as&iacute;, por ejemplo, en el caso de los fondos de inversi&oacute;n, 
+              su folleto informativo nos dice si la volatilidad (calculada de 
+              acuerdo con unos criterios fijados por la normativa) es alta, media 
+              o baja. En otras ocasiones el riesgo estar&aacute; expresado en 
+              t&eacute;rminos de probabilidad. Por ejemplo, nos pueden decir que 
+              en determinado producto hay un 10% de probabilidades de tener una 
+              p&eacute;rdida superior al 7% en un a&ntilde;o o dicho de otra forma, 
+              en un 90% de los casos perderemos como mucho un 7% de nuestra inversi&oacute;n 
+              inicial.</p>
+            <p class="align-izda">&nbsp;</p>
+            <p>&nbsp;</p>
+            <p tabindex="23" class="align-izda"><span class="Estilo2"><strong><img src="imagenes/topo.jpg" alt="" width="6" height="6" /> 
+              </strong></span><span class="negrita"><strong>Las dos vertientes 
+              del riesgo: </strong></span> </p>
+            <p tabindex="24" class="align-izda">Una persona puede estar dispuesta a realizar 
+              inversiones muy arriesgadas -con la esperanza de obtener una rentabilidad 
+              alta- y estar totalmente tranquila. Otras, sin embargo, no podr&aacute;n 
+              soportar la idea de que sus inversiones sufran el m&aacute;s m&iacute;nimo 
+              contratiempo, por lo que no le interesar&aacute; un producto que 
+              implique alguna posibilidad de p&eacute;rdida. Desde este punto 
+              de vista, el nivel de riesgo que cada inversor asuma debe permitirle 
+              sentirse c&oacute;modo con su decisi&oacute;n. Si pasamos las noches 
+              en vela preocupados por la evoluci&oacute;n de nuestras inversiones, 
+              est&aacute; claro que el nivel de riesgo que hemos asumido no es 
+              el adecuado para nosotros. </p>
+            <p tabindex="25" class="align-izda">Por otro lado tenemos el nivel de gasto que 
+              <em><strong>podemos</strong></em> asumir. <strong>Es necesario que 
+              el riesgo de nuestras inversiones est&eacute; en consonancia con 
+              nuestra situaci&oacute;n financiera y con nuestros objetivos</strong>. 
+            </p>
+            <p tabindex="26" class="align-izda">Si queremos tener una parte de nuestros ahorros 
+              disponibles para atender un pago dentro de tres meses, el nivel 
+              de riesgo que debemos asumir al invertir ser&aacute; muy bajo, ya 
+              que no podremos exponernos a que pasados los tres meses tengamos 
+              menos dinero y no podamos atender el pago.</p>
+            <p>&nbsp;</p>
+            <p tabindex="27" class="align-izda"> <span class="Estilo2"><strong><img src="imagenes/topo.jpg" alt="" width="6" height="6" /> 
+              </strong></span><span class="negrita"><strong>Tipos de riesgos financieros:</strong><strong></strong></span><strong><span class="Estilo3"> 
+              </span></strong></p>
+            <p tabindex="28" class="align-izda"><strong>Todos los activos financieros</strong>, 
+              en mayor o menor medida, <strong>incorporan alg&uacute;n tipo de 
+              riesgo</strong>. Su conocimiento es fundamental antes de invertir. 
+              A continuaci&oacute;n se detallan los <em>principales riesgos financieros</em> 
+              que se asocian a los distintos productos de inversi&oacute;n.</p>
+            <p tabindex="29" class="align-izda"><strong>Riesgo de precio:</strong> <strong>variaci&oacute;n 
+              en el precio</strong> causada bien por <strong>factores espec&iacute;ficos 
+              del t&iacute;tulo</strong> en particular o a su emisor, bien por 
+              <strong>factores gen&eacute;ricos</strong> que afectan a la evoluci&oacute;n 
+              de los precios en los mercados de valores (situaci&oacute;n econ&oacute;mica 
+              general, noticias de &iacute;ndole pol&iacute;tica...).</p>
+            <p tabindex="30" class="align-izda">Si invertimos en acciones de una determinada 
+              empresa, corremos el riesgo de que en el futuro esta empresa no 
+              logre los resultados esperados (porque los clientes dejan de comprar 
+              sus productos o servicios, porque tiene gastos extraordinarios&hellip;), 
+              y como consecuencia se produzca un descenso del precio de sus acciones 
+              en el mercado. </p>
+            <p tabindex="31" class="align-izda"><strong>Riesgo de tipo de inter&eacute;s:</strong> 
+              Las variaciones de tipo de inter&eacute;s afectan al precio de los 
+              valores de renta fija (tanto m&aacute;s cuanto mayor sea el plazo 
+              que reste para su vencimiento). Cuando los<strong> tipos de inter&eacute;s 
+              suben, el precio de la renta fija en cartera disminuye</strong> 
+              y a la inversa. </p>
+            <p tabindex="32" class="align-izda">Si poseo un bono a tipo fijo al que le quedan 
+              cinco a&ntilde;os para su vencimiento, un aumento de tipos de inter&eacute;s 
+              &ndash;suponiendo que el resto de factores permanecen constantes- 
+              tendr&aacute; como consecuencia una reducci&oacute;n en el precio 
+              de mercado del bono, por lo que si necesito deshacer mi inversi&oacute;n 
+              tendr&eacute; que hacerlo a un precio inferior al que ten&iacute;an 
+              antes de la subida de tipos. </p>
+            <p tabindex="33" class="align-izda"><strong>Riesgo de liquidez:</strong> Hace referencia 
+              a la <strong>posibilidad de deshacer la inversi&oacute;n a su valor 
+              de mercado</strong>. Una menor liquidez redundar&aacute;, si el 
+              resto de caracter&iacute;sticas permanecen iguales, en una mayor 
+              rentabilidad exigida. Algunos productos tienen liquidez restirngida 
+              a unas determinadas fechas o tienen establecidas comisiones. </p>
+            <p tabindex="36" class="align-izda">En casos de liquidez extrema, puede llegar a 
+              resultar imposible recuperar la inversi&oacute;n en el momento deseado.</p>
+            <p tabindex="37" class="align-izda">Con car&aacute;cter general, puede decirse que 
+              los valores cotizados son muy l&iacute;quidos ya que es f&aacute;cil 
+              venderlos a un valor cierto (la cotizaci&oacute;n que en ese momento 
+              tengan en el mercado). </p>
+            <p tabindex="38" class="align-izda">Por el contrario un inmueble es poco l&iacute;quido 
+              ya que hay mayor incertidumbre sobre cu&aacute;l es su verdadero 
+              valor, los costes asociados a la venta pueden ser significativos 
+              y si nos corre prisa venderlo, probablemente tendremos que rebajar 
+              el precio. </p>
+            <p tabindex="39" class="align-izda"><strong>Riesgo de divisa:</strong> Es posible 
+              que el valor de las inversiones se vea afectado por las variaciones 
+              en los <strong>tipos de cambio</strong>. </p>
+            <p tabindex="40" class="align-izda">Si un inversor espa&ntilde;ol adquiere acciones 
+              en d&oacute;lares, la depreciaci&oacute;n -p&eacute;rdida de valor- 
+              del d&oacute;lar frente al euro incidir&iacute;a de forma negativa 
+              en la rentabilidad final.</p>
+          </blockquote>
+          
+          </td>
+      </tr>
+    </table>
+    
+        </div>
+    
+  <div id="footer"><img src="imagenes/pie.jpg" alt="Imagen de pie de p&amp;aacute;gina: muestra los est&amp;aacute;ndares de accesibilidad que cumple la p&amp;aacute;gina web" width="1000" height="106" border="0" usemap="#Map2" class="borde0"> 
+    <map name="Map2" id="Map2">
+      <area shape="rect" coords="348,59,446,81" href="http://jigsaw.w3.org/css-validator/" target="_blank" alt="CSS v&aacute;lidas y revisadas con el revisor de CSS del W3C" />
+      <area shape="rect" coords="445,59,543,81" href="http://www.w3.org/WAI/WCAG1AA-Conformance" target="_blank" alt="Conforma el nivel Doble A de accesibilidad de acuerdo con las Directrices de Accesibilidad para el Contenido Web 1.0" />
+      <area shape="rect" coords="542,59,640,81" href="http://www.tawdis.net/" target="_blank" alt="Revisor autom&aacute;tico de la accesibilidad" />
+    </map>
+  </div>
+  </div></div></body></html>

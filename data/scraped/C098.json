@@ -1,0 +1,118 @@
+{
+  "content_id": "C098",
+  "url": "https://www.bde.es/webbe/es/estadisticas/recursos/glosario/conceptos/producto-interior-bruto.html",
+  "source": "Banco de España",
+  "host": "www.bde.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 279552
+  },
+  "title": "Glosario de estadísticas. Producto interior bruto",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Definición"
+    },
+    {
+      "level": 2,
+      "text": "Información adicional"
+    },
+    {
+      "level": 2,
+      "text": "Conceptos relacionados"
+    }
+  ],
+  "sections": [
+    {
+      "level": 2,
+      "heading": "Definición",
+      "start": 0,
+      "end": 178,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Información adicional",
+      "start": 178,
+      "end": 729,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Conceptos relacionados",
+      "start": 729,
+      "end": 794,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Definición"
+    },
+    {
+      "type": "paragraph",
+      "text": "Valor de la producción total de bienes y servicios de la economía, excluidos los consumos intermedios e incluidos los impuestos netos sobre producción e importaciones."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Información adicional"
+    },
+    {
+      "type": "paragraph",
+      "text": "El producto interior bruto (PIB) puede desagregarse por producto, gasto e ingresos. Los principales agregados del gasto que componen el PIB son el consumo final de los hogares, el consumo final de las Administraciones Públicas, la formación bruta de capital fijo, la variación de existencias, las importaciones y las exportaciones de bienes y servicios.\nEl PIB se estima en el marco de las Contabilidad Nacional, y se presenta en términos de precios corrientes y de índices de volumen (que descuentan el efecto de los precios)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conceptos relacionados"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fecha de actualización: septiembre de 2024"
+    }
+  ],
+  "text": "Definición\nValor de la producción total de bienes y servicios de la economía, excluidos los consumos intermedios e incluidos los impuestos netos sobre producción e importaciones.\nInformación adicional\nEl producto interior bruto (PIB) puede desagregarse por producto, gasto e ingresos. Los principales agregados del gasto que componen el PIB son el consumo final de los hogares, el consumo final de las Administraciones Públicas, la formación bruta de capital fijo, la variación de existencias, las importaciones y las exportaciones de bienes y servicios.\nEl PIB se estima en el marco de las Contabilidad Nacional, y se presenta en términos de precios corrientes y de índices de volumen (que descuentan el efecto de los precios).\nConceptos relacionados\nFecha de actualización: septiembre de 2024",
+  "text_len": 794,
+  "num_headings": 3,
+  "metadata": {
+    "title": "Glosario de estadísticas. Producto interior bruto",
+    "url": "https://www.bde.es/webbe/es/estadisticas/recursos/glosario/terminos-con-a/producto-interior-bruto.html",
+    "hostname": "bde.es",
+    "description": "Banco de España. Glosario de estadísticas. Producto interior bruto",
+    "sitename": "Banco de España",
+    "date": "2024-01-01",
+    "tags": [
+      "Estadísticas, Producto,interior,bruto"
+    ],
+    "image": "https://www.bde.es/f/webbe/INF/assets/images/logo/logo-negro.svg",
+    "pagetype": "website",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Glosario BdE: Producto Interior Bruto",
+    "topic": "contexto",
+    "subtopic": "PIB",
+    "difficulty": "intermedio",
+    "format": "glosario web",
+    "summary": "Definición técnica y componentes del Producto Interior Bruto (PIB) en el glosario oficial",
+    "learning_objective": "Conocer los componentes del cálculo del PIB"
+  },
+  "deduped_from": null
+}

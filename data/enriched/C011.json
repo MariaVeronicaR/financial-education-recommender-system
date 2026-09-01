@@ -1,0 +1,58 @@
+{
+  "content_id": "C011",
+  "tldr": "La cuenta bancaria es un producto operativo (corriente o libreta de ahorro) con liquidez total pero escasa o nula remuneración, pensado para gestionar ingresos y pagos del día a día. Antes de contratar una hay que comparar comisiones, descubiertos, saldos mínimos y operativa entre entidades. También se explican derechos del cliente: recibir extractos mensuales gratuitos, conocer el IBAN, condiciones de las transferencias (SEPA, urgentes, TIPS) y las precauciones frente al fraude en banca online. Los intereses tributan en el IRPF como rendimientos del ahorro.",
+  "key_points": [
+    "Las cuentas corrientes y libretas de ahorro son depósitos a la vista: permiten disponer del dinero en cualquier momento, pero apenas remuneran y suelen tener comisiones.",
+    "Antes de abrir una cuenta conviene comparar comisiones, coste de los descubiertos (números rojos), saldos mínimos y operativa permitida, incluida la banca online.",
+    "La entidad debe remitir al menos una vez al mes y gratis un extracto con saldo y movimientos; el cliente debe revisarlo para detectar cobros indebidos.",
+    "Las transferencias son mandatos de pago irrevocables: hay que introducir bien el IBAN y conocer que la disponibilidad de fondos no es inmediata (máximo al día hábil siguiente).",
+    "En banca online, nunca respondas a correos que pidan claves o contraseñas ni uses enlaces de correos no solicitados: es un fraude y tú serás responsable del mal uso de tus claves.",
+    "Los intereses de la cuenta tributan en el IRPF como rendimientos del ahorro, mientras que las comisiones y gastos de mantenimiento no son deducibles."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cuál es la característica principal de una cuenta corriente o libreta de ahorro como producto financiero?",
+      "options": [
+        "Es un producto pensado para el ahorro a largo plazo con alta rentabilidad",
+        "Es un producto operativo con liquidez total pero remuneración escasa o nula",
+        "Es un depósito a plazo fijo con penalización por retirar dinero",
+        "Es un producto que siempre está exento de comisiones de mantenimiento"
+      ],
+      "correct_index": 1,
+      "explanation": "Las cuentas a la vista dan liquidez total (puedes sacar el dinero en cualquier momento), pero son productos operativos de gestión diaria con remuneración escasa o nula, no pensados para ahorrar a largo plazo.",
+      "concept_id": "C08"
+    },
+    {
+      "question": "Antes de abrir una cuenta bancaria, ¿qué debes comprobar para evitar sorpresas en los costes?",
+      "options": [
+        "Únicamente el tipo de interés que pagará la cuenta",
+        "Las comisiones, el coste de los descubiertos, los saldos mínimos y la operativa permitida",
+        "Que el banco tenga oficina física cerca de tu casa",
+        "Que la cuenta no exija ningún documento de identificación"
+      ],
+      "correct_index": 1,
+      "explanation": "Hay que comparar comisiones y gastos, condiciones de los descubiertos (números rojos), saldos mínimos exigidos y qué operativas y comisiones adicionales tendrás, ya que son las principales fuentes de coste.",
+      "concept_id": "C18"
+    },
+    {
+      "question": "Recibes un correo que parece de tu banco pidiéndote que confirmes tu contraseña mediante un enlace. ¿Qué debes hacer?",
+      "options": [
+        "Entrar en el enlace y facilitar la clave para evitar el bloqueo de la cuenta",
+        "Responder al correo con tus datos pero solo si el banco lo solicita",
+        "No responder ni usar el enlace, porque se trata de un fraude",
+        "Llamar al número de teléfono que aparece en el propio correo"
+      ],
+      "correct_index": 2,
+      "explanation": "Nunca respondas a correos que pidan claves o contraseñas ni uses enlaces de correos no solicitados: aunque parezcan de tu entidad, son fraudes. Como cliente serás responsable del mal uso o pérdida de tus claves.",
+      "concept_id": "C15"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 12288,
+    "input_tokens": 8662,
+    "output_tokens": 1461
+  }
+}

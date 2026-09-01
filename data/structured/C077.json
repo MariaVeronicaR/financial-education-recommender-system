@@ -1,0 +1,55 @@
+{
+  "content_id": "C077",
+  "title": "Cálculo de la TAE de un préstamo",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cálculo de la TAE de un préstamo"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Calcula la TAE de tu préstamo"
+    },
+    {
+      "type": "paragraph",
+      "text": "A partir del importe, el plazo, el tipo de interés y las comisiones y otros gastos del préstamo, obtendrás su TAE. Se trata de una TAE “teórica” que reproduce el cálculo financiero sin tener en cuenta posibles limitaciones normativas.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Este simulador permite calcular la TAE si el tipo se modifica durante la vida del préstamo, y también distingue entre los gastos que pagues en origen y aquellos que pagues de forma periódica como por ejemplo un seguro. La TAE arrojada por este simulador es válida para los datos introducidos y las hipótesis mencionadas más abajo, pero podría diferir de la TAE ofertada por una entidad si en su oferta hubiese condiciones diferentes o adicionales a las aquí planteadas.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Puedes realizar varias simulaciones y comparar la TAE de cada una de ellas.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Este simulador es válido para aquellos préstamos en los que las comisiones y gastos que deben tenerse en cuenta para el cálculo de la tasa anual equivalente (TAE) de la operación se pagan tanto en el momento de su formalización como con carácter periódico. Este simulador parte de la hipótesis de que la amortización del préstamo se realiza por el sistema denominado francés (cuotas mensuales iguales) y de que la parte de la cuota a pagar cada mes en concepto de intereses, se calcula mediante la fórmula: (Capital pendiente x tipo de interés nominal anual) / 1200. Con el fin de que el simulador pueda aplicarse al mayor número posible de casos, en los cálculos se efectúan algunas simplificaciones como las siguientes:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Se considera que el cliente paga todos los gastos relacionados con el estudio, concesión y formalización del préstamo en la fecha de firma del contrato",
+        "Las cuotas se pagan mensualmente",
+        "Todos los meses del año tienen igual número de días",
+        "No existen periodos de carencia, y el primer pago se efectúa exactamente un mes después de haber formalizado el préstamo."
+      ]
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:26:31.172323+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 3412,
+    "input_tokens": 2213,
+    "output_tokens": 1302
+  }
+}

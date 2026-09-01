@@ -1,0 +1,56 @@
+{
+  "content_id": "C093",
+  "tldr": "La volatilidad es la medida genérica más habitual del riesgo en inversiones: un cálculo matemático que refleja cuánto varía el precio de un activo respecto a su valor medio en un período. A mayor volatilidad, mayor incertidumbre y riesgo, ya que es más difícil predecir el comportamiento futuro del activo. Además, el riesgo tiene dos vertientes (la comodidad personal del inversor y su capacidad financiera) y se manifiesta en varios tipos concretos: de precio, de tipo de interés, de liquidez y de divisa.",
+  "key_points": [
+    "La volatilidad mide cuánto se desvía el precio de un activo respecto a su valor medio en un período; a mayor volatilidad, mayor riesgo e incertidumbre.",
+    "Para interpretar si una volatilidad es alta o baja, debe compararse con otro activo calculado con el mismo método y período, o recurrir a clasificaciones como alta/media/baja de los fondos.",
+    "El nivel de riesgo asumido debe ajustarse a dos vertientes: la tolerancia personal (sentirse cómodo) y la situación financiera y objetivos del inversor.",
+    "Los principales riesgos financieros son: de precio, de tipo de interés, de liquidez y de divisa, presentes en mayor o menor medida en todos los activos."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué indica que un activo tenga una alta volatilidad?",
+      "options": [
+        "Que su precio se mantiene muy estable respecto a su valor medio, por lo que es fácil predecirlo",
+        "Que su precio ha variado mucho respecto a su valor medio, lo que dificulta predecir su comportamiento e implica más incertidumbre",
+        "Que su rentabilidad está garantizada y no existe posibilidad de pérdida",
+        "Que es un activo de renta fija con vencimiento a largo plazo"
+      ],
+      "correct_index": 1,
+      "explanation": "La volatilidad mide cuánto se desvía el precio respecto a su valor medio; cuanto mayor es la desviación, más difícil es predecir el comportamiento y mayor es el riesgo.",
+      "concept_id": "C25"
+    },
+    {
+      "question": "Un inversor tiene ahorros que necesitará para pagar un gasto dentro de tres meses. ¿Qué nivel de riesgo debería asumir al invertirlos?",
+      "options": [
+        "Un riesgo muy alto, para maximizar la rentabilidad en ese corto plazo",
+        "Un riesgo medio, aceptando posibles caídas temporales",
+        "Un riesgo muy bajo, porque no puede permitirse que, al llegar el pago, tenga menos dinero disponible",
+        "Da igual el riesgo, ya que el plazo no influye en la decisión"
+      ],
+      "correct_index": 2,
+      "explanation": "El riesgo de las inversiones debe estar en consonancia con la situación financiera y los objetivos; si se necesita el dinero pronto, no se puede exponer a una posible pérdida.",
+      "concept_id": "C13"
+    },
+    {
+      "question": "Si un inversor español compra acciones en dólares y el dólar se deprecia frente al euro, ¿qué tipo de riesgo está sufriendo?",
+      "options": [
+        "Riesgo de precio",
+        "Riesgo de tipo de interés",
+        "Riesgo de liquidez",
+        "Riesgo de divisa"
+      ],
+      "correct_index": 3,
+      "explanation": "El riesgo de divisa se refiere a que el valor de las inversiones se vea afectado por las variaciones en los tipos de cambio, como la depreciación del dólar frente al euro.",
+      "concept_id": "C13"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5586,
+    "input_tokens": 3090,
+    "output_tokens": 985
+  }
+}

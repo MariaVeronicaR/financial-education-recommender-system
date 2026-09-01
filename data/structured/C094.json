@@ -1,0 +1,56 @@
+{
+  "content_id": "C094",
+  "title": "Qué es la volatilidad en las inversiones: por qué suben y bajan los activos",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Seguramente habrás notado que los mercados financieros nunca se quedan quietos: a veces suben, otras bajan y en muchas ocasiones parecen impredecibles. A este comportamiento se le conoce como volatilidad. Aquí te platicamos más para que puedas entenderlo, pues es clave para tomar mejores decisiones financieras y de inversión.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La volatilidad es la variación en el precio de un activo a lo largo del tiempo. En términos simples, mide qué tanto sube o baja el valor de acciones, bonos, criptomonedas o incluso materias primas.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Si bien la volatilidad en un activo no es algo negativo por sí mismo, debes considerar que sí implica distintos niveles de riesgo, pues uno más volátil tiende a ser más riesgoso.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los precios de los activos cambian constantemente debido a diversos factores. Aquí te explicamos algunos de los principales:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "No todos los activos se comportan igual. Los de renta fija, como bonos, suelen ser menos volátiles, mientras que los activos de renta variable, como las acciones, presentan mayor volatilidad. Otro ejemplo son las criptomonedas, que son activos más riesgosos y típicamente altamente volátiles. Esto no necesariamente significa que un activo sea mejor que otro, pues eso depende de distintos factores (tanto del activo como de tu perfil de inversionista), pero sí implica que cada uno responde de manera distinta frente a los desarrollos del mercado.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Depende de cómo lo veas. Una bajada de precios puede significar una oportunidad para \"comprar barato\" y lograr una ganancia al vender más caro en el futuro, pero si el activo es volátil, su valor puede fluctuar mucho, lo cual es más riesgoso si tu objetivo es una inversión más previsible y estable. Independientemente de tu perfil de riesgo como inversionista o tus diferentes objetivos y plazos para lograrlos, lo importante es entender que la volatilidad es una característica natural de los mercados, no una anomalía.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunas estrategias útiles para manejarla incluyen:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los activos suben y bajan por múltiples factores y, si bien la volatilidad no se puede eliminar, sí se puede entender y gestionar con información y una estrategia adecuada.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:31:27.711932+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 4919,
+    "input_tokens": 2377,
+    "output_tokens": 1625
+  }
+}

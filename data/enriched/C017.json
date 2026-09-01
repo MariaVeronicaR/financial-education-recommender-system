@@ -1,0 +1,57 @@
+{
+  "content_id": "C017",
+  "tldr": "Las cuentas a la vista (corrientes o de ahorro) permiten depositar dinero con derecho a reembolso inmediato y sin penalización. Se diferencian por su soporte físico (la libreta en las de ahorro), pueden tener varios titulares y son contratos indefinidos que pueden cancelarse en cualquier momento. Su remuneración suele ser muy baja o nula, aunque puede mejorar al domiciliar ingresos o recibos, y existe la cuenta de pago básica para garantizar la inclusión financiera.",
+  "key_points": [
+    "Las cuentas a la vista garantizan el reembolso inmediato del dinero sin penalización.",
+    "La diferencia entre cuenta corriente y de ahorro es el soporte físico: la libreta en las de ahorro.",
+    "Las cuentas pueden tener uno o varios titulares y el contrato debe fijar cómo disponer del dinero.",
+    "Son contratos de carácter indefinido y pueden cancelarse en cualquier momento por el banco o el cliente.",
+    "La remuneración suele ser baja o nula, pero mejora si se domicilian ingresos o recibos o sin servicio de caja."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cuál es la diferencia principal entre una cuenta corriente y una cuenta de ahorro (libreta)?",
+      "options": [
+        "La cuenta de ahorro no permite retirar el dinero cuando se quiera",
+        "El soporte físico en el que se registra el dinero: la libreta en las de ahorro",
+        "La cuenta corriente siempre paga más intereses que la de ahorro",
+        "La cuenta de ahorro solo puede tener un titular"
+      ],
+      "correct_index": 1,
+      "explanation": "El texto indica que la diferencia entre ambas es su 'soporte físico': en las cuentas de ahorro el soporte es la libreta.",
+      "concept_id": "C08"
+    },
+    {
+      "question": "¿En qué consiste el 'servicio de caja' asociado a la cuenta corriente?",
+      "options": [
+        "En que el banco guarda físicamente el dinero en efectivo del cliente en una caja fuerte",
+        "En que el banco cobra una comisión fija por cada movimiento de la cuenta",
+        "En que el banco recibe ingresos y hace pagos en nombre del cliente siguiendo sus órdenes",
+        "En que el cliente puede retirar dinero sin límite en cualquier cajero del mundo"
+      ],
+      "correct_index": 2,
+      "explanation": "El servicio de caja consiste en que el banco gestiona ingresos y pagos en nombre del cliente, en cumplimiento de las órdenes que este formule.",
+      "concept_id": "C08"
+    },
+    {
+      "question": "Según el contenido, ¿cuándo puede resultar más favorable la remuneración de una cuenta a la vista?",
+      "options": [
+        "Cuando se cancela la cuenta antes de un año",
+        "Cuando la cuenta tiene varios titulares",
+        "Cuando se domicilian ingresos o recibos o se trata de cuentas sin servicio de caja",
+        "Cuando el banco guarda el dinero en una libreta física"
+      ],
+      "correct_index": 2,
+      "explanation": "El texto señala que la remuneración suele ser muy baja o nula, pero puede ser más favorable si se domicilian ingresos o recibos o si son cuentas sin servicio de caja.",
+      "concept_id": "C08"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 12694,
+    "input_tokens": 1808,
+    "output_tokens": 1014
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "content_id": "C051",
+  "tldr": "Este contenido explica los conceptos básicos de la Declaración de la Renta en España, centrados en el IRPF. Recorre desde qué ingresos se declaran (trabajo, capital, actividades económicas) hasta cómo se calcula el impuesto (base imponible, base liquidable, cuota íntegra y líquida). También aclara los beneficios fiscales (deducciones, reducciones, retenciones), cómo se presenta la declaración y qué significa que salga a pagar o a devolver.",
+  "key_points": [
+    "El IRPF es el impuesto que se paga por los ingresos obtenidos (salario, alquileres, inversiones, etc.).",
+    "La base imponible se calcula sumando ingresos y restando gastos o reducciones; la base liquidable es el resultado tras aplicar reducciones.",
+    "Las deducciones restan directamente del impuesto a pagar, mientras que las reducciones restan de la base antes de calcularlo.",
+    "Las retenciones son el dinero ya descontado de tu sueldo durante el año como pago anticipado del IRPF.",
+    "Si el impuesto calculado supera las retenciones la declaración sale a pagar; si pagaste de más, Hacienda te devuelve dinero."
+  ],
+  "quiz": [
+    {
+      "question": "Tienes un sueldo y además cobras alquiler por un piso que tienes. ¿Cómo clasificarías estos ingresos en la declaración de la renta?",
+      "options": [
+        "El sueldo es rendimiento del trabajo y el alquiler es rendimiento del capital inmobiliario.",
+        "Ambos son rendimientos del capital mobiliario.",
+        "El sueldo es rendimiento del capital mobiliario y el alquiler es rendimiento del trabajo.",
+        "Ambos son actividades económicas."
+      ],
+      "correct_index": 0,
+      "explanation": "El salario es un rendimiento del trabajo (ingresos por tu empleo), mientras que alquilar un inmueble genera rendimientos del capital inmobiliario.",
+      "concept_id": "C21"
+    },
+    {
+      "question": "¿Cuál es la diferencia clave entre una deducción y una reducción en el IRPF?",
+      "options": [
+        "La reducción se aplica a la cuota y la deducción a la base, son lo mismo en momentos distintos.",
+        "La deducción resta directamente del impuesto a pagar, mientras que la reducción se resta de la base imponible antes de calcularlo.",
+        "La deducción solo aplica a autónomos y la reducción a asalariados.",
+        "La reducción siempre es mayor que la deducción por ley."
+      ],
+      "correct_index": 1,
+      "explanation": "La deducción se resta de la cuota (el impuesto ya calculado), mientras que la reducción se resta de la base imponible antes de aplicar el tipo impositivo.",
+      "concept_id": "C21"
+    },
+    {
+      "question": "Al hacer tu declaración ves que el impuesto calculado es menor que las retenciones que ya te descontaron del sueldo. ¿Qué resultado tendrás?",
+      "options": [
+        "Resultado a pagar, porque siempre hay que pagar algo extra.",
+        "Resultado a devolver, porque pagaste más de lo que te correspondía durante el año.",
+        "No habrá resultado, solo se compensa con el año siguiente.",
+        "Resultado a pagar, porque las retenciones no cuentan para la declaración."
+      ],
+      "correct_index": 1,
+      "explanation": "Si las retenciones (lo ya descontado) superan el impuesto calculado, Hacienda te devuelve la diferencia: resultado a devolver.",
+      "concept_id": "C21"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 6016,
+    "input_tokens": 2144,
+    "output_tokens": 1142
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "content_id": "C050",
+  "tldr": "La nómina es el recibo que justifica el salario de un trabajador y se estructura en encabezado, cuerpo y pie. El salario bruto incluye todos los devengos (salario base, complementos, beneficios en especie) antes de aplicar deducciones, mientras que el salario neto es lo que realmente se cobra. Las principales deducciones son las cotizaciones a la Seguridad Social y las retenciones de IRPF.",
+  "key_points": [
+    "El salario bruto es la cantidad total según contrato antes de deducciones; el salario neto o líquido es lo que finalmente se cobra.",
+    "Toda nómina tiene tres partes: encabezado (datos de empresa y trabajador), cuerpo (devengos, deducciones y salario líquido) y pie (fecha, sello y firmas).",
+    "Los devengos son los ingresos brutos: salario base, complementos personales, del puesto, primas, horas extras, beneficios en especie y otros ingresos.",
+    "Las deducciones reducen el bruto hasta el neto e incluyen cotizaciones a la Seguridad Social, retenciones de IRPF y otras como cuotas sindicales o aportaciones a planes de pensiones."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué diferencia hay entre el salario bruto y el salario neto en una nómina?",
+      "options": [
+        "El bruto es lo que cobras y el neto lo que declara la empresa",
+        "El neto es el bruto menos las deducciones (impuestos y cotizaciones)",
+        "El bruto incluye solo las horas extra y el neto el salario base",
+        "Ambos son lo mismo, solo cambia la terminología según la empresa"
+      ],
+      "correct_index": 1,
+      "explanation": "El salario neto o líquido es el resultado de restar al salario bruto las deducciones, principalmente IRPF y cotizaciones a la Seguridad Social.",
+      "concept_id": "C21"
+    },
+    {
+      "question": "¿Qué parte de la nómina contiene los devengos, las deducciones y el salario líquido a percibir?",
+      "options": [
+        "El encabezado",
+        "El pie de nómina",
+        "El cuerpo",
+        "Los complementos salariales"
+      ],
+      "correct_index": 2,
+      "explanation": "El cuerpo es la parte más importante de la nómina, donde aparecen los devengos (ingresos brutos), las deducciones y el salario líquido.",
+      "concept_id": "C16"
+    },
+    {
+      "question": "¿Cuáles son las dos principales deducciones que reducen el salario bruto hasta el neto?",
+      "options": [
+        "La hipoteca y los seguros de la empresa",
+        "Las cotizaciones a la Seguridad Social y las retenciones de IRPF",
+        "El salario base y los complementos personales",
+        "Los vales de comida y el coche de empresa"
+      ],
+      "correct_index": 1,
+      "explanation": "Las deducciones principales son las cotizaciones a la Seguridad Social (contingencias comunes, desempleo, etc.) y las retenciones de IRPF, que son pagos anticipados del impuesto sobre la renta.",
+      "concept_id": "C21"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 4986,
+    "input_tokens": 1997,
+    "output_tokens": 955
+  }
+}

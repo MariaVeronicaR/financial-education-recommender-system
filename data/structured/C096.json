@@ -1,0 +1,81 @@
+{
+  "content_id": "C096",
+  "title": "Cómo nos afecta el tipo de cambio. Conoce nuestro conversor de divisas",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cómo nos afecta el tipo de cambio. Conoce nuestro conversor de divisas"
+    },
+    {
+      "type": "paragraph",
+      "text": "El tipo de cambio es la relación que existe entre el valor de dos divisas diferentes, es decir, el valor o precio de la moneda de un país en términos de otra moneda. El tipo de cambio es libre y fluctúa cada día.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Supongamos que hoy el tipo de cambio del euro frente al dólar USA es de 1,05$/€, esto quiere decir se puede intercambiar 1 euro por 1,05 dólares. Dado que el valor del euro varía continuamente:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Si el tipo de cambio del euro respecto al dólar aumenta, decimos que el euro se «aprecia» respecto al dólar y podremos comprar más dólares con un euro.",
+        "Si su valor baja, decimos que el euro se «deprecia» respecto al dólar y podremos comprar menos dólares con un euro."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Por tanto, cuando viajas o vives en el extranjero, realizas compras o inviertes en otras monedas, el tipo de cambio juega un papel importante en tus finanzas. Recuerda que en nuestra web está a tu disposición el conversor de divisas.",
+      "links": [
+        {
+          "text": "conversor de divisas",
+          "href": "https://www.bde.es/webbe/es/estadisticas/recursos/conversor-divisas.html",
+          "start": 212,
+          "end": 232
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Supongamos ahora que te vas a estudiar a EEUU, ¿qué debes saber?",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Lo primero, cuántos euros son un dólar y viceversa. Los cambios del euro se publican diariamente por el Banco Central Europeo con la consideración de cambios oficiales. Los puedes consultar en el BOE.",
+        "Si has presupuestado una suma de dinero en euros para el viaje, recuerda que la cantidad disponible en dólares variará en función del tipo de cambio.",
+        "Lo mismo ocurrirá con las compras u otros pagos, que te saldrán más caras o baratas según fluctúe nuestra divisa. Además, si usas servicios de cambio al retirar dinero en un cajero, realizar transferencias o pagar con tarjeta, recuerda que las entidades pueden aplicar comisiones por ellos.",
+        "Por último, si vas a cambiar moneda, recuerda que cada entidad puede variar el tipo de cambio. Es importante comparar los cambios y las comisiones para conseguir la mejor oferta."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En resumen, el tipo de cambio es un factor importante a considerar cuando estás en un país con una moneda diferente, así que mantente informado y planifica bien tus finanzas.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Te ayudamos con nuestro conversor de divisas.",
+      "links": []
+    }
+  ],
+  "links": [
+    {
+      "text": "conversor de divisas",
+      "href": "https://www.bde.es/webbe/es/estadisticas/recursos/conversor-divisas.html",
+      "start": null,
+      "end": null
+    }
+  ],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:31:43.780997+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 12983,
+    "input_tokens": 2367,
+    "output_tokens": 3871
+  }
+}

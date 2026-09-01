@@ -1,0 +1,56 @@
+{
+  "content_id": "C033",
+  "tldr": "El tipo de interés nominal se utiliza cuando el periodo de cálculo coincide con el de liquidación de intereses, mientras que el efectivo se usa cuando no coinciden. Este simulador permite obtener uno a partir del otro, ayudando a comparar operaciones con distintas frecuencias de liquidación y entender la diferencia real entre ambos tipos.",
+  "key_points": [
+    "El tipo nominal se aplica cuando el periodo de cálculo y el de liquidación de intereses coinciden.",
+    "El tipo efectivo se utiliza cuando esos periodos no coinciden, reflejando el coste o rendimiento real.",
+    "Con el simulador se puede calcular el tipo efectivo a partir del nominal y viceversa.",
+    "Distinguir entre nominal y efectivo es clave para comparar ofertas financieras de forma justa."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cuándo se utiliza el tipo de interés nominal en lugar del efectivo?",
+      "options": [
+        "Cuando el periodo de cálculo y el de liquidación de intereses coinciden",
+        "Cuando el periodo de liquidación es mensual y el de cálculo anual",
+        "Cuando la operación es a largo plazo",
+        "Cuando se quiere incluir comisiones en el cálculo"
+      ],
+      "correct_index": 0,
+      "explanation": "El contenido indica que el tipo nominal se usa cuando el periodo de cálculo y el de liquidación de intereses coinciden; si no coinciden, se emplea el efectivo.",
+      "concept_id": "C19"
+    },
+    {
+      "question": "¿Qué indica la diferencia entre el tipo nominal y el tipo efectivo en una operación financiera?",
+      "options": [
+        "Que los periodos de cálculo y liquidación de intereses no coinciden",
+        "Que la operación no tiene ningún coste",
+        "Que el tipo nominal es siempre más caro",
+        "Que los intereses se pagan por adelantado"
+      ],
+      "correct_index": 0,
+      "explanation": "El tipo efectivo se usa precisamente cuando los periodos de cálculo y liquidación no coinciden, lo que refleja el coste real de la operación.",
+      "concept_id": "C19"
+    },
+    {
+      "question": "¿Para qué sirve principalmente un simulador que calcula el tipo efectivo a partir del nominal y viceversa?",
+      "options": [
+        "Para comparar operaciones con distintas frecuencias de liquidación de intereses",
+        "Para calcular impuestos sobre los intereses",
+        "Para fijar el tipo de cambio de una moneda",
+        "Para eliminar las comisiones bancarias"
+      ],
+      "correct_index": 0,
+      "explanation": "Al poder pasar de nominal a efectivo y al revés, se pueden comparar operaciones que liquidan intereses en periodos distintos.",
+      "concept_id": "C19"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5181,
+    "input_tokens": 1286,
+    "output_tokens": 719
+  }
+}

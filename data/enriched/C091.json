@@ -1,0 +1,57 @@
+{
+  "content_id": "C091",
+  "tldr": "Este manual explica cómo organizar las finanzas personales mediante pasos sistemáticos: elaborar un balance de activos y pasivos como punto de partida, fijar objetivos realistas, y priorizar la salida de deudas. Para ello, propone distintas estrategias de amortización (bola de nieve, tsunami o atacar los intereses más altos) y distingue entre medios de inversión, financiación, ingreso y gasto. Por último, insiste en la necesidad de un control periódico y equilibrado de las finanzas, evitando tanto la obsesión como la dejadez, y apoyándose en herramientas adecuadas.",
+  "key_points": [
+    "El punto de partida de la planificación financiera es elaborar un balance con nuestros activos (ahorro, dinero, propiedades) y pasivos (deudas y pagos), proyectándolo al futuro.",
+    "Los objetivos personales deben ser realistas, alcanzables y coherentes, evaluando siempre el riesgo y el sacrificio que implican.",
+    "Salir de las deudas es prioritario y puede hacerse con estrategias como 'bola de nieve', 'tsunami' o eliminar primero las deudas con mayor tipo de interés.",
+    "Los medios para lograr objetivos se dividen en inversión, financiación, ingreso y gasto, y no deben confundirse con la estrategia elegida.",
+    "El control financiero debe ser periódico y equilibrado: ni obsesión ni dejadez, con herramientas que permitan corregir desviaciones."
+  ],
+  "quiz": [
+    {
+      "question": "Según el manual, ¿cuál es el primer paso para comenzar a organizar nuestras finanzas personales?",
+      "options": [
+        "Fijar de inmediato los objetivos a corto, medio y largo plazo",
+        "Elaborar un balance con nuestros activos y pasivos como punto de partida",
+        "Contratar un plan de pensiones",
+        "Eliminar todas las tarjetas de crédito"
+      ],
+      "correct_index": 1,
+      "explanation": "El texto indica que el punto de partida financiero consiste en elaborar un balance de nuestra situación económica, incluyendo activos y pasivos, antes de fijar objetivos.",
+      "concept_id": "C16"
+    },
+    {
+      "question": "Si quieres reducir tu deuda priorizando primero la que tiene el mayor tipo de interés, ¿qué estrategia estás aplicando?",
+      "options": [
+        "La estrategia 'bola de nieve'",
+        "La estrategia 'tsunami'",
+        "La estrategia de 'los tipos de interés más altos primero'",
+        "La estrategia de 'los intereses más bajos primero'"
+      ],
+      "correct_index": 2,
+      "explanation": "El manual describe que esta estrategia ordena las deudas según su tipo de interés y elimina primero las que pagan una mayor tasa.",
+      "concept_id": "C03"
+    },
+    {
+      "question": "Según el manual, ¿cuál es el enfoque correcto respecto al control periódico de nuestras finanzas personales?",
+      "options": [
+        "Revisarlas a diario para no perder detalle de cada gasto",
+        "Seguirlas solo cuando surja un problema económico",
+        "Mantener un seguimiento continuo y equilibrado, corrigiendo las desviaciones",
+        "Delegar todo el control en una herramienta automática sin revisarla"
+      ],
+      "correct_index": 2,
+      "explanation": "El texto señala que ni la obsesión ni la dejadez son adecuadas: lo correcto es un control periódico, con seguimiento continuo y mecanismos para corregir variaciones.",
+      "concept_id": "C16"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5323,
+    "input_tokens": 3064,
+    "output_tokens": 1001
+  }
+}

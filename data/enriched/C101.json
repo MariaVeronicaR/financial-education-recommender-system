@@ -1,0 +1,57 @@
+{
+  "content_id": "C101",
+  "tldr": "Los productos derivados son instrumentos financieros cuyo valor deriva de la evolución del precio de otro activo (el subyacente), y en los que las condiciones se fijan hoy pero la transacción se realiza en una fecha futura. Se usan como cobertura para reducir el riesgo de precio o como inversión especulativa, con riesgo de pérdida total si no se emplean como cobertura. Un futuro es un contrato a plazo estandarizado negociado en un mercado organizado que obliga a comprar o vender el subyacente, mientras que una opción otorga a su comprador el derecho (no la obligación) de comprar (call) o vender (put), con pérdida máxima limitada a la prima pagada.",
+  "key_points": [
+    "Un derivado es un instrumento financiero cuyo valor se deriva del precio de un activo subyacente (acciones, índices, divisas, materias primas, etc.), y su transacción se materializa en una fecha futura.",
+    "Los derivados se utilizan como cobertura para reducir el riesgo de precio o como inversión, aunque cuando no se usan como cobertura conllevan riesgo de pérdida total de la inversión.",
+    "Un futuro es un contrato a plazo estandarizado negociado en un mercado organizado que obliga a comprar o vender el subyacente a un precio fijado en una fecha de liquidación.",
+    "Una opción otorga a su comprador el derecho, pero no la obligación, de comprar (call) o vender (put) el subyacente; su pérdida máxima está limitada a la prima pagada.",
+    "El vendedor de una opción cobra la prima pero asume obligaciones y puede sufrir pérdidas ilimitadas, a diferencia del comprador."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué diferencia fundamental existe entre un contrato de futuro y un contrato a plazo (forward)?",
+      "options": [
+        "El futuro se negocia en un mercado organizado y tiene condiciones estandarizadas, mientras que el forward se adapta a las necesidades de las partes.",
+        "El forward se negocia en mercados organizados y el futuro no.",
+        "El futuro solo otorga un derecho y el forward obliga a comprar.",
+        "El forward es más arriesgado porque su precio no se fija en el momento del acuerdo."
+      ],
+      "correct_index": 0,
+      "explanation": "La diferencia clave es que el futuro se negocia en un mercado organizado con condiciones estandarizadas (importe, objeto y vencimiento), mientras que el forward se personaliza según las necesidades de las partes.",
+      "concept_id": "C12"
+    },
+    {
+      "question": "Un inversor compra una opción de compra (call) sobre unas acciones. ¿Cuál es su pérdida máxima?",
+      "options": [
+        "La prima pagada por la opción.",
+        "Ilimitada, igual que en un futuro.",
+        "El precio de ejercicio (strike).",
+        "La diferencia entre el precio de ejercicio y la cotización de la acción."
+      ],
+      "correct_index": 0,
+      "explanation": "El comprador de una opción solo tiene derechos y ninguna obligación, por lo que si no le interesa ejercerla, su pérdida máxima se limita a la prima que pagó por adquirir el derecho.",
+      "concept_id": "C13"
+    },
+    {
+      "question": "¿Cuál es la finalidad principal de una operación de cobertura con derivados?",
+      "options": [
+        "Reducir el riesgo de precio protegiéndose frente a movimientos adversos del activo.",
+        "Garantizar una rentabilidad ilimitada sobre la inversión.",
+        "Eliminar todas las comisiones del intermediario financiero.",
+        "Evitar el pago de impuestos sobre la inversión."
+      ],
+      "correct_index": 0,
+      "explanation": "La cobertura se usa cuando se posee un activo y se desea protección frente a movimientos adversos de su precio, reduciendo así el riesgo de precio.",
+      "concept_id": "C13"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 10649,
+    "input_tokens": 9756,
+    "output_tokens": 1763
+  }
+}

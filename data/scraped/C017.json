@@ -1,0 +1,256 @@
+{
+  "content_id": "C017",
+  "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/productosservici/cuentasdepositos/cuentascorriente/",
+  "source": "Portal Cliente Bancario BdE",
+  "host": "clientebancario.bde.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 43242
+  },
+  "title": "Cuentas corrientes, depósitos a la vista y libretas de ahorro",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Cuentas corrientes, depósitos a la vista y libretas de ahorro"
+    },
+    {
+      "level": 2,
+      "text": "Conceptos y características"
+    },
+    {
+      "level": 2,
+      "text": "Apertura"
+    },
+    {
+      "level": 2,
+      "text": "Titularidad y poder de disposición"
+    },
+    {
+      "level": 2,
+      "text": "Vida de la cuenta"
+    },
+    {
+      "level": 2,
+      "text": "Servicio de caja"
+    },
+    {
+      "level": 2,
+      "text": "Cancelación"
+    },
+    {
+      "level": 2,
+      "text": "Remuneración"
+    },
+    {
+      "level": 2,
+      "text": "Cuenta de pago basica"
+    },
+    {
+      "level": 2,
+      "text": "CONSULTAS FRECUENTES"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Cuentas corrientes, depósitos a la vista y libretas de ahorro",
+      "start": 0,
+      "end": 227,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Conceptos y características",
+      "start": 227,
+      "end": 396,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Apertura",
+      "start": 396,
+      "end": 521,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Titularidad y poder de disposición",
+      "start": 521,
+      "end": 742,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Vida de la cuenta",
+      "start": 742,
+      "end": 915,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Servicio de caja",
+      "start": 915,
+      "end": 1114,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Cancelación",
+      "start": 1114,
+      "end": 1226,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Remuneración",
+      "start": 1226,
+      "end": 1448,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Cuenta de pago basica",
+      "start": 1448,
+      "end": 1628,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "CONSULTAS FRECUENTES",
+      "start": 1628,
+      "end": 1967,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cuentas corrientes, depósitos a la vista y libretas de ahorro"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las cuentas a la vista pueden ser corrientes o de ahorro. La diferencia entre unas y otras es su “soporte físico”. En las cuentas de ahorro el soporte es la libreta."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conceptos y características"
+    },
+    {
+      "type": "paragraph",
+      "text": "En las cuentas a la vista el cliente deposita su dinero y tiene derecho a su reembolso inmediato en cuanto lo pida sin penalización alguna."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Apertura"
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de contratar la cuenta, el banco debe entregarnos información detallada sobre sus principales características."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Titularidad y poder de disposición"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las cuentas pueden tener uno o varios titulares. Si compartimos la titularidad con otra u otras personas, el contrato deberá establecer de forma clara la manera de disponer del dinero."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Vida de la cuenta"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las cuentas son normalmente, contratos de carácter indefinido, por lo que las circunstancias y condiciones podrán cambiar mientras la mantengamos abiertas."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Servicio de caja"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es un servicio asociado a la cuenta corriente que consiste en que el banco recibe ingresos y hace pagos en nombre del cliente, en cumplimiento de las órdenes que hayamos formulado."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cancelación"
+    },
+    {
+      "type": "paragraph",
+      "text": "La cuenta a la vista se puede cancelar en cualquier momento, por iniciativa del banco o del cliente."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Remuneración"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es el \"precio\" que nos paga la entidad por depositar dinero. Actualmente, suele ser muy baja o nula, si bien puede ser más favorable si se domicilian ingresos o recibos o si son cuentas sin servicio de caja."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cuenta de pago basica"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aquí encontrarás la información esencial de este tipo de cuentas, que tienen como objetivo garantizar la máxima inclusión financiera en toda la Unión Europea."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "CONSULTAS FRECUENTES"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "¿Puedo retirar efectivo de una oficina diferente a la de la apertura de la cuenta? Leer respuestasobre¿Puedo retirar efectivo de una oficina diferente a la de la apertura de la cuenta?",
+        "¿Cómo puedo trasladar mi cuenta de una entidad a otra? Leer respuestasobre¿Cómo puedo trasladar mi cuenta de una entidad a otra?"
+      ]
+    }
+  ],
+  "text": "Cuentas corrientes, depósitos a la vista y libretas de ahorro\nLas cuentas a la vista pueden ser corrientes o de ahorro. La diferencia entre unas y otras es su “soporte físico”. En las cuentas de ahorro el soporte es la libreta.\nConceptos y características\nEn las cuentas a la vista el cliente deposita su dinero y tiene derecho a su reembolso inmediato en cuanto lo pida sin penalización alguna.\nApertura\nAntes de contratar la cuenta, el banco debe entregarnos información detallada sobre sus principales características.\nTitularidad y poder de disposición\nLas cuentas pueden tener uno o varios titulares. Si compartimos la titularidad con otra u otras personas, el contrato deberá establecer de forma clara la manera de disponer del dinero.\nVida de la cuenta\nLas cuentas son normalmente, contratos de carácter indefinido, por lo que las circunstancias y condiciones podrán cambiar mientras la mantengamos abiertas.\nServicio de caja\nEs un servicio asociado a la cuenta corriente que consiste en que el banco recibe ingresos y hace pagos en nombre del cliente, en cumplimiento de las órdenes que hayamos formulado.\nCancelación\nLa cuenta a la vista se puede cancelar en cualquier momento, por iniciativa del banco o del cliente.\nRemuneración\nEs el \"precio\" que nos paga la entidad por depositar dinero. Actualmente, suele ser muy baja o nula, si bien puede ser más favorable si se domicilian ingresos o recibos o si son cuentas sin servicio de caja.\nCuenta de pago basica\nAquí encontrarás la información esencial de este tipo de cuentas, que tienen como objetivo garantizar la máxima inclusión financiera en toda la Unión Europea.\nCONSULTAS FRECUENTES\n- ¿Puedo retirar efectivo de una oficina diferente a la de la apertura de la cuenta? Leer respuestasobre¿Puedo retirar efectivo de una oficina diferente a la de la apertura de la cuenta?\n- ¿Cómo puedo trasladar mi cuenta de una entidad a otra? Leer respuestasobre¿Cómo puedo trasladar mi cuenta de una entidad a otra?",
+  "text_len": 1967,
+  "num_headings": 10,
+  "metadata": {
+    "title": "Cuentas corrientes, depósitos a la vista y libretas de ahorro",
+    "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/productosservici/cuentasdepositos/cuentascorriente/",
+    "hostname": "clientebancario.bde.es",
+    "description": "Cuentas corrientes, depósitos a la vista y libretas de ahorro",
+    "sitename": "clientebancario.bde.es",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": true,
+  "csv_meta": {
+    "title": "Cuentas corrientes, depósitos a la vista y libretas de ahorro",
+    "topic": "cuentas bancarias",
+    "subtopic": "cuentas",
+    "difficulty": "básico",
+    "format": "artículo web",
+    "summary": "Características y diferencias entre cuentas y libretas de ahorro",
+    "learning_objective": "Elegir el producto de cuenta adecuado"
+  },
+  "deduped_from": null
+}

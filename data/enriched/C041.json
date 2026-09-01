@@ -1,0 +1,57 @@
+{
+  "content_id": "C041",
+  "tldr": "Al diseñar una cartera de inversiones hay que mantener una perspectiva global: el horizonte temporal no solo aplica a cada producto, sino al conjunto, porque se tienen objetivos a distintos plazos. Una cartera equilibrada combina activos con diferentes riesgos, y cuanto más lejano o menos importante sea un objetivo, más riesgo se puede asumir. La diversificación (repartir el capital entre varios activos) reduce el riesgo total sin renunciar necesariamente a la rentabilidad, como ilustra el ejemplo de invertir en 100 compañías en lugar de en una sola.",
+  "key_points": [
+    "El horizonte temporal debe considerarse tanto para cada producto individual como para la cartera en su conjunto.",
+    "Una cartera equilibrada combina instrumentos con diferentes características y niveles de riesgo para cubrir objetivos a corto, medio y largo plazo.",
+    "Cuanto más lejano o menos importante sea un objetivo, mayor riesgo podrás permitirte en las inversiones destinadas a cubrirlo.",
+    "La diversificación consiste en repartir la inversión entre varios activos y ayuda a controlar el riesgo.",
+    "Con diversificación se puede lograr la misma rentabilidad potencial que con un único producto, pero asumiendo menos riesgo."
+  ],
+  "quiz": [
+    {
+      "question": "Según el contenido, ¿por qué conviene tener en cuenta el horizonte temporal de la cartera en su conjunto y no solo el de cada producto?",
+      "options": [
+        "Porque todos los productos de una cartera deben tener el mismo plazo de vencimiento.",
+        "Porque la cartera debe permitir disponer del capital a medida que se necesite para distintos objetivos.",
+        "Porque así se garantiza una rentabilidad más alta en todos los plazos.",
+        "Porque el horizonte temporal solo importa para productos de largo plazo."
+      ],
+      "correct_index": 1,
+      "explanation": "El texto explica que el conjunto de inversiones debe permitir disponer del capital según se necesite, por lo que el horizonte temporal se aplica a la cartera en su conjunto, no solo a cada producto.",
+      "concept_id": "C12"
+    },
+    {
+      "question": "Según el contenido, ¿qué relación hay entre el plazo de un objetivo y el nivel de riesgo que se puede asumir?",
+      "options": [
+        "A más corto plazo o más importante el objetivo, mayor riesgo se puede permitir.",
+        "El riesgo permitido es el mismo independientemente del plazo del objetivo.",
+        "A más lejano o menos importante el objetivo, mayor riesgo se puede permitir en las inversiones destinadas a cubrirlo.",
+        "Solo se puede asumir riesgo en objetivos de corto plazo."
+      ],
+      "correct_index": 2,
+      "explanation": "El contenido señala que cuanto más lejano o menos importante sea un objetivo, mayor nivel de riesgo podrás permitirte en las inversiones destinadas a cubrirlo.",
+      "concept_id": "C13"
+    },
+    {
+      "question": "En el ejemplo del contenido, ¿por qué invertir 10.000 € en 100 compañías diferentes supone asumir menos riesgo que invertirlos en una sola?",
+      "options": [
+        "Porque se garantiza una rentabilidad más alta al repartir el capital.",
+        "Porque la quiebra de una sola compañía tendría un efecto poco significativo sobre el total de la inversión.",
+        "Porque diversificar elimina por completo la posibilidad de perder dinero.",
+        "Porque las 100 compañías siempre se comportan de forma idéntica."
+      ],
+      "correct_index": 1,
+      "explanation": "El texto indica que si una de las 100 compañías quiebra, el impacto sobre el total es poco significativo, reduciendo así el riesgo total asumido.",
+      "concept_id": "C14"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 4986,
+    "input_tokens": 1869,
+    "output_tokens": 875
+  }
+}

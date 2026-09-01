@@ -1,0 +1,58 @@
+{
+  "content_id": "C003",
+  "tldr": "La devolución de la renta o la paga extra son ingresos extraordinarios que conviene integrar en la planificación financiera en lugar de gastarlos de golpe. Las recomendaciones incluyen no gastar todo de una vez, priorizar un fondo de emergencia, poner nombre al ahorro, invertir si no se necesita el dinero a corto plazo y convertir la planificación en un hábito. Así se combina el disfrute presente con la construcción de objetivos futuros y una mayor estabilidad financiera.",
+  "key_points": [
+    "Un ingreso extraordinario (paga extra o devolución de la renta) es una oportunidad para reforzar el ahorro y la inversión, no un premio para gastar por completo.",
+    "Priorizar la creación o refuerzo de un fondo de emergencia ayuda a evitar endeudarse ante imprevistos.",
+    "Ahorrar es más fácil cuando se asigna un objetivo concreto, como una vivienda, estudios o la jubilación.",
+    "Si no se necesita el dinero a corto plazo, conviene invertirlo porque la inflación hace perder poder adquisitivo al dinero inmovilizado en una cuenta corriente.",
+    "La planificación financiera debe convertirse en un hábito diario mediante presupuesto, objetivos claros y revisiones periódicas.",
+    "El ahorro debe ser una decisión consciente al cobrar, no simplemente lo que sobra a final de mes."
+  ],
+  "quiz": [
+    {
+      "question": "Según el contenido, ¿cómo debería considerarse la devolución de la renta o la paga extra?",
+      "options": [
+        "Un imprevisto o un premio que puede gastarse libremente",
+        "Un recurso que conviene integrar en la planificación financiera",
+        "Un ingreso que siempre debe invertirse en el mercado",
+        "Un dinero que solo debe destinarse al ocio estival"
+      ],
+      "correct_index": 1,
+      "explanation": "El texto señala que estos ingresos no son imprevistos ni un premio, sino recursos que conviene integrar en la planificación financiera.",
+      "concept_id": "C16"
+    },
+    {
+      "question": "¿Cuál es la principal razón que da el contenido para invertir el dinero que no se necesite a corto plazo?",
+      "options": [
+        "Porque la cuenta corriente cobra comisiones muy altas",
+        "Porque los impuestos sobre el ahorro son menores",
+        "Porque la inflación hace perder poder adquisitivo al dinero inmovilizado",
+        "Porque invertir siempre garantiza mayores rentabilidades sin riesgo"
+      ],
+      "correct_index": 2,
+      "explanation": "El contenido explica que mantener el dinero durante años en una cuenta corriente hace que pierda poder adquisitivo por el efecto de la inflación.",
+      "concept_id": "C07"
+    },
+    {
+      "question": "Según las recomendaciones, ¿qué papel juega el fondo de emergencia en la planificación financiera?",
+      "options": [
+        "Sirve para financiar las vacaciones de verano",
+        "Es el único destino recomendado para cualquier ingreso extra",
+        "Ayuda a evitar endeudarse cuando surge un gasto inesperado",
+        "Sustituye por completo a la inversión a largo plazo"
+      ],
+      "correct_index": 2,
+      "explanation": "El contenido indica que contar con un fondo de emergencia ayuda a evitar endeudarse cuando surge un gasto inesperado.",
+      "concept_id": "C02"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5822,
+    "input_tokens": 2351,
+    "output_tokens": 823
+  }
+}

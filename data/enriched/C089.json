@@ -1,0 +1,57 @@
+{
+  "content_id": "C089",
+  "tldr": "La inflación reduce el poder adquisitivo del dinero con el tiempo, por lo que ahorros e inversiones deben rendir por encima de ella para mantener tu capacidad de compra. Cuando la inflación es alta, los bancos centrales suelen subir los tipos de interés, lo que encarece los préstamos a tipo variable. Es clave conocer estos efectos para proteger tu dinero y adaptar tus decisiones financieras.",
+  "key_points": [
+    "La inflación es el aumento generalizado de los precios: con el mismo dinero comprarás menos en el futuro.",
+    "Afecta a ahorros, inversiones, préstamos, planes de pensiones, seguros y otros productos financieros.",
+    "Para mantener tu poder adquisitivo, tus ahorros e inversiones deben generar rendimientos superiores a la inflación.",
+    "Cuando la inflación es alta, los bancos centrales suelen subir los tipos de interés para controlarla.",
+    "Si tienes préstamos a tipo variable, la subida de tipos puede aumentar el coste de tu préstamo y tus pagos mensuales."
+  ],
+  "quiz": [
+    {
+      "question": "Si la inflación anual es del 4% y tu ahorro rinde un 2%, ¿qué ocurre con tu poder adquisitivo?",
+      "options": [
+        "Aumenta, porque estás ganando intereses",
+        "Se mantiene igual, ya que el dinero sigue en el banco",
+        "Disminuye, porque tu rendimiento no supera la inflación",
+        "No se ve afectado mientras no gastes el dinero"
+      ],
+      "correct_index": 2,
+      "explanation": "Para mantener el poder adquisitivo, el rendimiento debe superar la tasa de inflación; con un 2% frente al 4%, estás perdiendo capacidad de compra en términos reales.",
+      "concept_id": "C07"
+    },
+    {
+      "question": "¿Cuál es la razón principal por la que los bancos centrales suelen subir los tipos de interés cuando la inflación es alta?",
+      "options": [
+        "Para aumentar los beneficios de los bancos comerciales",
+        "Para controlar la inflación",
+        "Para reducir el coste de los préstamos a los ciudadanos",
+        "Para incentivar el gasto de los consumidores"
+      ],
+      "correct_index": 1,
+      "explanation": "Según el contenido, los bancos centrales suben los tipos de interés precisamente para controlar la inflación cuando esta es alta.",
+      "concept_id": "C07"
+    },
+    {
+      "question": "Tienes una hipoteca a tipo variable y el banco central sube los tipos de interés. ¿Qué es lo más probable que ocurra?",
+      "options": [
+        "Tu cuota mensual se mantenga igual durante toda la vida del préstamo",
+        "El coste de tu préstamo aumente y suban tus pagos mensuales",
+        "Tu préstamo se cancele automáticamente",
+        "El banco te devuelva parte de los intereses pagados"
+      ],
+      "correct_index": 1,
+      "explanation": "La subida de tipos suele encarecer los préstamos a tipo variable, aumentando el coste del préstamo y los pagos mensuales.",
+      "concept_id": "C10"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 4765,
+    "input_tokens": 1695,
+    "output_tokens": 934
+  }
+}

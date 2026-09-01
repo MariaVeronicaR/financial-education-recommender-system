@@ -1,0 +1,51 @@
+{
+  "content_id": "C098",
+  "title": "Glosario de estadísticas. Producto interior bruto",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Definición"
+    },
+    {
+      "type": "paragraph",
+      "text": "Valor de la producción total de bienes y servicios de la economía, excluidos los consumos intermedios e incluidos los impuestos netos sobre producción e importaciones.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Información adicional"
+    },
+    {
+      "type": "paragraph",
+      "text": "El producto interior bruto (PIB) puede desagregarse por producto, gasto e ingresos. Los principales agregados del gasto que componen el PIB son el consumo final de los hogares, el consumo final de las Administraciones Públicas, la formación bruta de capital fijo, la variación de existencias, las importaciones y las exportaciones de bienes y servicios.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El PIB se estima en el marco de las Contabilidad Nacional, y se presenta en términos de precios corrientes y de índices de volumen (que descuentan el efecto de los precios).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conceptos relacionados"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fecha de actualización: septiembre de 2024",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:32:02.804737+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 1694,
+    "input_tokens": 1934,
+    "output_tokens": 455
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "content_id": "C001",
+  "url": "https://www.finanzasparatodos.es/como-elaborar-un-presupuesto",
+  "source": "Finanzas para Todos",
+  "host": "www.finanzasparatodos.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 59268
+  },
+  "title": "¿Cómo elaborar un presupuesto? - Finanzas para todos",
+  "headings": [
+    {
+      "level": 1,
+      "text": "¿Cómo elaborar tu presupuesto?"
+    },
+    {
+      "level": 2,
+      "text": "Razones para elaborar tu presupuesto personal o plan financiero:"
+    },
+    {
+      "level": 2,
+      "text": "¿Cómo elaborar un presupuesto?"
+    },
+    {
+      "level": 3,
+      "text": "Para gestionar mejor tu presupuesto, te recomendamos:"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "¿Cómo elaborar tu presupuesto?",
+      "start": 0,
+      "end": 30,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Razones para elaborar tu presupuesto personal o plan financiero:",
+      "start": 30,
+      "end": 526,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "¿Cómo elaborar un presupuesto?",
+      "start": 526,
+      "end": 3333,
+      "found": true
+    },
+    {
+      "level": 3,
+      "heading": "Para gestionar mejor tu presupuesto, te recomendamos:",
+      "start": 3333,
+      "end": 5280,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Cómo elaborar tu presupuesto?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Razones para elaborar tu presupuesto personal o plan financiero:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suena complicado, pero es todo lo contrario. Crear presupuestos es un hábito muy beneficioso que nos permite llevar un control y saber:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "¿En qué se nos va el dinero?",
+        "Priorizar gastos",
+        "Reducir o eliminar deudas",
+        "Ahorrar un poco todos los meses",
+        "Acumular para un fondo de emergencia",
+        "Vivir dentro de nuestras posibilidades, con tranquilidad",
+        "Hacer previsiones de futuro.",
+        "Llevar un seguimiento y control para no desviarnos"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Cómo elaborar un presupuesto?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque cada caso es un mundo, estos son algunos de los objetivos financieros más aconsejables:\n1\nIngresos:\nEmpezamos por poner en una lista todas las entradas de dinero. Las más importantes suelen ser la nómina o la pensión en caso de jubilados, pero no te olvides de otros posibles ingresos como pensiones alimenticias, intereses de cuentas bancarias, subvenciones, trabajos extras y percepciones de sistemas de previsión social.\nGastos:\nLos gastos son todas las salidas de dinero. Para saber realmente en qué situación estamos, hay que incluir todos los gastos actuales, desde la vivienda hasta los pequeños desembolsos diarios, o bien aproximaciones de los mismos. Y no debe olvidar otros gastos ocasionales como vacaciones, regalos de cumpleaños y compras de Navidad, o gastos imprevistos que puedan surgir.\nHay que identificar y apuntar todos los gastos, por pequeños que sean.\n2\nLa clave está en priorizar.\nHay que clasificarlos en las siguientes categorías:\nGastos fijos obligatorios: como la hipoteca o alquiler de la casa, los gastos de comunidad y las cuotas de otros préstamos. Hay que pagarlos y su importe no suele ser negociable ni varía mucho mes a mes. Si no se abonan al banco dentro de los plazos establecidos, se podrán aplicar gastos adicionales de demora, aumentando cada vez más la deuda y la cantidad a pagar.\nGastos variables necesarios: comida, ropa, electricidad, etc. Son gastos necesarios para vivir pero con los que podemos ahorrar si hacemos un uso racional o haciendo pequeños recortes: comparar precios, comprar marcas más económicas, andar o utilizar transporte público en vez de pagar gasolina y parking, coger el autobús o metro en vez de un taxi, etc.\nGastos discrecionales: todos los demás gastos que, en caso de necesidad, se podrían reducir o eliminar. Suelen ser gastos para cosas que nos suelen gustar, pero que no son realmente imprescindibles.\nCuando hay que recortar, deben ser los primeros. Todos podemos identificar gastos superfluos que podríamos utilizar para otros fines más productivos.\n3\nEs posible que tengas que hacer ajustes ya que las cantidades presupuestadas para ciertos gastos posiblemente no resulten realistas. A lo mejor el gasto en otros conceptos es menor de lo que pensabas. Es normal revisar varias veces el presupuesto para que se ajuste a la realidad con objetivos alcanzables.\nSi tus ingresos aumentan, no dejes que tus gastos aumenten por igual importe.\nRevisa el IPC (índices de precios al consumo). Recuerda que, en caso de inflación, aumentaría el coste de la vida. Una tasa anual de inflación del 3% mantenido en el tiempo, significaría que todo costaría el doble dentro de 24 años. Es decir, dentro de 24 años se necesitaría el doble de dinero para mantener el mismo nivel de vida que se disfruta hoy."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Para gestionar mejor tu presupuesto, te recomendamos:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sé sincero sobre cuánto te gastas al mes. Coteja las cifras con la realidad.\nSi vives en pareja o tienes familia, involúcralos en el presupuesto.\nSe metódico y clasifica, ordena y guarda tus papeles y documentos.\nBusca un sistema para hacer un seguimiento de los gastos que resulte cómodo para todos: apunta los gastos en una agenda, calendario o en algún programa de ordenador.\nApunta en el calendario las fechas de los vencimientos de pagos: contribución, impuestos de circulación, pólizas de seguros, cuotas de préstamos y todos los recibos domiciliados. Esta previsión te evitará sorpresas y penalizaciones por demoras o por saldo negativo\nComprueba los movimientos de cuentas, los recibos domiciliados y los resúmenes de tarjetas de crédito de forma regular y contacta con tu entidad de crédito si no entiendes un apunte o si crees que hay un error.\nControla regularmente tu presupuesto: mide tus gastos y repasa tus cuentas bancarias con frecuencia. Si es necesario, haz los ajustes oportunos para hacer frente a algún imprevisto\nAunque no es un gasto fijo obligatorio, en el caso de que sea posible, es muy útil destinar todos los meses una cantidad de dinero al ahorro. Es decir, asumir la obligación de pagarte una cantidad fija cada mes antes de presupuestar otros conceptos variables y no tan necesarios. De este modo podremos ahorrar sin darnos cuenta.\nApuntar los ingresos y los gastos permite prever cuándo necesitarás emplear fondos adicionales procedentes del ahorro o de préstamos e identificar qué gastos podrías reducir o aplazar hasta un momento de mayor desahogo económico.\nHERRAMIENTA\nAhorrar para disfrutar\nEsta herramienta permite conocer cuánto se puede ahorrar en un tiempo determinado si eliminamos o reducimos gastos. Introduzca al menos un concepto de gasto y su ahorro mensual.\nTen en cuenta que hasta los recortes más pequeños pueden significar grandes ahorros."
+    }
+  ],
+  "text": "¿Cómo elaborar tu presupuesto?\nRazones para elaborar tu presupuesto personal o plan financiero:\nSuena complicado, pero es todo lo contrario. Crear presupuestos es un hábito muy beneficioso que nos permite llevar un control y saber:\n- ¿En qué se nos va el dinero?\n- Priorizar gastos\n- Reducir o eliminar deudas\n- Ahorrar un poco todos los meses\n- Acumular para un fondo de emergencia\n- Vivir dentro de nuestras posibilidades, con tranquilidad\n- Hacer previsiones de futuro.\n- Llevar un seguimiento y control para no desviarnos\n¿Cómo elaborar un presupuesto?\nAunque cada caso es un mundo, estos son algunos de los objetivos financieros más aconsejables:\n1\nIngresos:\nEmpezamos por poner en una lista todas las entradas de dinero. Las más importantes suelen ser la nómina o la pensión en caso de jubilados, pero no te olvides de otros posibles ingresos como pensiones alimenticias, intereses de cuentas bancarias, subvenciones, trabajos extras y percepciones de sistemas de previsión social.\nGastos:\nLos gastos son todas las salidas de dinero. Para saber realmente en qué situación estamos, hay que incluir todos los gastos actuales, desde la vivienda hasta los pequeños desembolsos diarios, o bien aproximaciones de los mismos. Y no debe olvidar otros gastos ocasionales como vacaciones, regalos de cumpleaños y compras de Navidad, o gastos imprevistos que puedan surgir.\nHay que identificar y apuntar todos los gastos, por pequeños que sean.\n2\nLa clave está en priorizar.\nHay que clasificarlos en las siguientes categorías:\nGastos fijos obligatorios: como la hipoteca o alquiler de la casa, los gastos de comunidad y las cuotas de otros préstamos. Hay que pagarlos y su importe no suele ser negociable ni varía mucho mes a mes. Si no se abonan al banco dentro de los plazos establecidos, se podrán aplicar gastos adicionales de demora, aumentando cada vez más la deuda y la cantidad a pagar.\nGastos variables necesarios: comida, ropa, electricidad, etc. Son gastos necesarios para vivir pero con los que podemos ahorrar si hacemos un uso racional o haciendo pequeños recortes: comparar precios, comprar marcas más económicas, andar o utilizar transporte público en vez de pagar gasolina y parking, coger el autobús o metro en vez de un taxi, etc.\nGastos discrecionales: todos los demás gastos que, en caso de necesidad, se podrían reducir o eliminar. Suelen ser gastos para cosas que nos suelen gustar, pero que no son realmente imprescindibles.\nCuando hay que recortar, deben ser los primeros. Todos podemos identificar gastos superfluos que podríamos utilizar para otros fines más productivos.\n3\nEs posible que tengas que hacer ajustes ya que las cantidades presupuestadas para ciertos gastos posiblemente no resulten realistas. A lo mejor el gasto en otros conceptos es menor de lo que pensabas. Es normal revisar varias veces el presupuesto para que se ajuste a la realidad con objetivos alcanzables.\nSi tus ingresos aumentan, no dejes que tus gastos aumenten por igual importe.\nRevisa el IPC (índices de precios al consumo). Recuerda que, en caso de inflación, aumentaría el coste de la vida. Una tasa anual de inflación del 3% mantenido en el tiempo, significaría que todo costaría el doble dentro de 24 años. Es decir, dentro de 24 años se necesitaría el doble de dinero para mantener el mismo nivel de vida que se disfruta hoy.\nPara gestionar mejor tu presupuesto, te recomendamos:\nSé sincero sobre cuánto te gastas al mes. Coteja las cifras con la realidad.\nSi vives en pareja o tienes familia, involúcralos en el presupuesto.\nSe metódico y clasifica, ordena y guarda tus papeles y documentos.\nBusca un sistema para hacer un seguimiento de los gastos que resulte cómodo para todos: apunta los gastos en una agenda, calendario o en algún programa de ordenador.\nApunta en el calendario las fechas de los vencimientos de pagos: contribución, impuestos de circulación, pólizas de seguros, cuotas de préstamos y todos los recibos domiciliados. Esta previsión te evitará sorpresas y penalizaciones por demoras o por saldo negativo\nComprueba los movimientos de cuentas, los recibos domiciliados y los resúmenes de tarjetas de crédito de forma regular y contacta con tu entidad de crédito si no entiendes un apunte o si crees que hay un error.\nControla regularmente tu presupuesto: mide tus gastos y repasa tus cuentas bancarias con frecuencia. Si es necesario, haz los ajustes oportunos para hacer frente a algún imprevisto\nAunque no es un gasto fijo obligatorio, en el caso de que sea posible, es muy útil destinar todos los meses una cantidad de dinero al ahorro. Es decir, asumir la obligación de pagarte una cantidad fija cada mes antes de presupuestar otros conceptos variables y no tan necesarios. De este modo podremos ahorrar sin darnos cuenta.\nApuntar los ingresos y los gastos permite prever cuándo necesitarás emplear fondos adicionales procedentes del ahorro o de préstamos e identificar qué gastos podrías reducir o aplazar hasta un momento de mayor desahogo económico.\nHERRAMIENTA\nAhorrar para disfrutar\nEsta herramienta permite conocer cuánto se puede ahorrar en un tiempo determinado si eliminamos o reducimos gastos. Introduzca al menos un concepto de gasto y su ahorro mensual.\nTen en cuenta que hasta los recortes más pequeños pueden significar grandes ahorros.",
+  "text_len": 5280,
+  "num_headings": 4,
+  "metadata": {
+    "title": "¿Cómo elaborar un presupuesto? - Finanzas para todos",
+    "url": "https://www.finanzasparatodos.es/como-elaborar-un-presupuesto?mdrv=www.finanzasparatodos.es",
+    "hostname": "finanzasparatodos.es",
+    "sitename": "finanzasparatodos.es",
+    "date": "2024-01-01",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": true,
+  "csv_meta": {
+    "title": "Cómo elaborar un presupuesto",
+    "topic": "planificación",
+    "subtopic": "presupuesto",
+    "difficulty": "básico",
+    "format": "artículo web",
+    "summary": "Aprende a organizar tus ingresos y gastos para tener unas finanzas equilibradas",
+    "learning_objective": "Saber planificar ingresos y gastos mensuales"
+  },
+  "deduped_from": null
+}

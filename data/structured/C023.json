@@ -1,0 +1,78 @@
+{
+  "content_id": "C023",
+  "title": "Hipotecas",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Hipotecas"
+    },
+    {
+      "type": "paragraph",
+      "text": "El préstamo hipotecario nos permite disponer de una importante cantidad de dinero, habitualmente, para comprar una vivienda o rehabilitarla. Esta es una decisión financiera muy importante, por lo que conviene tener muy claro qué es y qué modalidades nos ofrece un préstamo hipotecario.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Contratar una hipoteca"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si estamos interesados en la contratación de una hipoteca, debemos analizar la oferta que nos propongan, compararla con otras del mercado y sopesar nuestras necesidades y posibilidades de afrontar los pagos durante un periodo largo de tiempo.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Modificar la hipoteca"
+    },
+    {
+      "type": "paragraph",
+      "text": "Teniendo en cuenta que una hipoteca es un producto de larga duración, las condiciones financieras, incluso las normas que la regulan, podrán cambiar durante el tiempo que esté viva.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Otros temas relacionados con la hipoteca"
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante la vida de la hipoteca y hasta su vencimiento podrían surgir diversas situaciones que conviene conocer.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hipotecas especiales"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las hipotecas pueden adaptarse a tus particularidades: si eres joven o ya has cumplido 65 años, pregunta por productos específicos para ti.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "CONSULTAS FRECUENTES"
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Redondeo del tipo de interés de una hipoteca",
+        "¿Puede mi entidad atender otras deudas con el dinero ingresado para pagar la cuota de mi hipoteca?"
+      ]
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:11:14.624365+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 3122,
+    "input_tokens": 2155,
+    "output_tokens": 900
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "content_id": "C088",
+  "tldr": "La inflación es el aumento sostenido y generalizado de los precios, que hace que el dinero pierda valor con el tiempo. Se mide mediante el IPC (en la zona euro, el IAPC armonizado), que pondera los bienes y servicios según los hábitos de consumo de las familias. Para que los ahorros no pierdan valor, su rentabilidad debe superar la tasa de inflación, y por eso el BCE busca la estabilidad de precios con un objetivo de inflación del 2%.",
+  "key_points": [
+    "La inflación es un aumento sostenido y generalizado de los precios que hace que el dinero pierda valor con el paso del tiempo.",
+    "Se mide con el IPC, que en la zona euro es el IAPC, un índice armonizado que permite comparar la inflación entre países.",
+    "Los bienes y servicios que más se consumen tienen más peso en el índice, por lo que influyen más en la medición.",
+    "Para que los ahorros no pierdan valor con la inflación, su rentabilidad debe ser superior a la tasa de inflación.",
+    "La estabilidad de precios (inflación baja, estable y predecible) facilita organizar las finanzas y es el objetivo del BCE, fijado en un 2% a medio plazo."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué consecuencia tiene directamente la inflación sobre el dinero que guardamos?",
+      "options": [
+        "Hace que nuestro dinero pierda valor, es decir, que con cada euro podamos comprar menos que antes.",
+        "Hace que nuestro dinero gane valor, permitiendo comprar más bienes con el mismo importe.",
+        "No tiene ningún efecto sobre el poder de compra del dinero.",
+        "Solo afecta al dinero en efectivo, nunca al dinero que está en el banco."
+      ],
+      "correct_index": 0,
+      "explanation": "La inflación implica un aumento sostenido y generalizado de los precios, por lo que el dinero pierde valor: con cada euro se pueden comprar menos bienes o servicios que antes.",
+      "concept_id": "C07"
+    },
+    {
+      "question": "¿Por qué la variación del precio de la electricidad influye más en el IAPC que la variación del precio de la mantequilla?",
+      "options": [
+        "Porque la electricidad es un bien importado y la mantequilla no.",
+        "Porque el gasto habitual de las familias en electricidad es mucho mayor, y los bienes más consumidos tienen más peso en el índice.",
+        "Porque la electricidad siempre sube de precio y la mantequilla siempre baja.",
+        "Porque el IAPC solo incluye la electricidad y no la mantequilla."
+      ],
+      "correct_index": 1,
+      "explanation": "El IAPC pondera los bienes y servicios según los hábitos de consumo de las familias: cuanto mayor es el gasto habitual, más influye su variación de precio en el índice.",
+      "concept_id": "C07"
+    },
+    {
+      "question": "Si la inflación anual es del 3% y una inversión ofrece una rentabilidad del 2%, ¿qué ocurre con tus ahorros?",
+      "options": [
+        "Ganan poder de compra, porque la rentabilidad es positiva.",
+        "Pierden valor, porque la rentabilidad no supera la tasa de inflación.",
+        "Mantienen exactamente el mismo valor, ya que ambas cifras son positivas.",
+        "Se duplican, porque la rentabilidad se suma a la inflación."
+      ],
+      "correct_index": 1,
+      "explanation": "Para que los ahorros no pierdan valor con la inflación, la rentabilidad debe ser superior a la tasa de inflación; si es inferior (2% frente a 3%), los ahorros pierden poder de compra.",
+      "concept_id": "C07"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5382,
+    "input_tokens": 1962,
+    "output_tokens": 979
+  }
+}

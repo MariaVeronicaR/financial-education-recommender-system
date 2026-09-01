@@ -1,0 +1,58 @@
+{
+  "content_id": "C028",
+  "tldr": "La digitalización de la banca trae oportunidades pero también nuevos riesgos de fraude por internet. El Portal del Cliente Bancario del Banco de España reúne contenidos y consejos, entre ellos los de la Policía Nacional, para detectar estafas telemáticas. La clave es desconfiar de mensajes urgentes, no compartir claves ni pinchar enlaces sospechosos y, ante la duda, contactar siempre con la entidad por el canal oficial.",
+  "key_points": [
+    "Los bancos nunca piden tus contraseñas, códigos SMS o claves de verificación por teléfono, correo o mensajería.",
+    "Desconfía de mensajes urgentes: los estafadores usan la presión y el miedo para que actúes sin pensar.",
+    "No te fíes del número que aparece en pantalla, ya que pueden suplantar números oficiales; ante la duda, cuelga y llama tú por el canal oficial.",
+    "Accede a tu banco siempre desde la app oficial o escribiendo la dirección web, nunca desde enlaces de SMS, correos o buscadores.",
+    "Si una oferta parece demasiado buena para ser verdad, lo más probable es que sea un fraude.",
+    "Ante cualquier sospecha, bloquea tus tarjetas, contacta con tu banco y denuncia a la Policía Nacional."
+  ],
+  "quiz": [
+    {
+      "question": "Recibes un SMS que parece de tu banco avisando de un 'movimiento sospechoso' con un enlace para 'verificar' tu cuenta. ¿Cuál es la actitud más segura?",
+      "options": [
+        "Pulsar el enlace cuanto antes para evitar el bloqueo de la cuenta",
+        "No pinchar el enlace y acceder a tu banco desde la app oficial o escribiendo la web tú mismo",
+        "Responder al SMS con tus datos para aclarar el problema",
+        "Llamar al número que aparece en el propio mensaje"
+      ],
+      "correct_index": 1,
+      "explanation": "Los bancos no envían este tipo de comunicaciones por SMS con enlaces; hay que entrar siempre por el canal oficial y no pinchar enlaces de mensajes inesperados.",
+      "concept_id": "C15"
+    },
+    {
+      "question": "Un estafador te llama haciéndose pasar por tu banco y te pide el código de verificación que acabas de recibir por SMS 'para anular una operación fraudulenta'. ¿Qué deberías hacer?",
+      "options": [
+        "Facilitárselo rápido, porque el banco necesita confirmar tu identidad",
+        "Preguntarle cuánto tiempo tardará en resolverse",
+        "Colgar y llamar tú a la entidad usando el número oficial que consta en tu contrato o app",
+        "Enviarle el código por correo electrónico como prueba de seguridad"
+      ],
+      "correct_index": 2,
+      "explanation": "Ningún banco legítimo te pide códigos o claves por teléfono. Ante la mínima duda, cuelga y llama tú al número oficial de la entidad.",
+      "concept_id": "C15"
+    },
+    {
+      "question": "¿Por qué los estafadores usan mensajes con urgencia o miedo ('su cuenta será bloqueada', 'ha habido un cargo no reconocido')?",
+      "options": [
+        "Porque es la forma legal de avisar a los clientes de problemas reales",
+        "Para que actúes sin pensar y facilites datos o dinero antes de verificar la información",
+        "Porque quieren ayudarte a proteger mejor tu cuenta",
+        "Para comprobar que tu conexión a internet funciona correctamente"
+      ],
+      "correct_index": 1,
+      "explanation": "La presión y el miedo buscan provocar una reacción automática. Detenerte unos minutos y verificar por el canal oficial evita la mayoría de las estafas.",
+      "concept_id": "C15"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 17885,
+    "input_tokens": 16427,
+    "output_tokens": 1134
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "content_id": "C074",
+  "title": "Calculadora de jubilación",
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Esta herramienta te ayudará en la planificación de tu jubilación permitiéndote conocer cuánto dinero podrás obtener al mes y al año, si comienzas a invertir anualmente una determinada cantidad de dinero.",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Después de la jubilación, el número de años que han de durar los ahorros acumulados.",
+        "Cantidad de dinero ya ahorrada para la jubilación.",
+        "Tipo de interés que reciben tus ahorros antes de la jubilación.",
+        "Tipo de interés que reciben tus ahorros después de la jubilación.",
+        "Tipo de interés que reciben de tus ahorros después de la jubilación."
+      ]
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:26:24.579156+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 2895,
+    "input_tokens": 2013,
+    "output_tokens": 932
+  }
+}

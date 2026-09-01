@@ -1,0 +1,326 @@
+{
+  "content_id": "C070",
+  "title": "Los Fondos Cotizados en Bolsa (ETF)",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "I. ¿Qué son los fondos cotizados (ETF)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión cotizados, más conocidos por sus siglas en inglés, ETF, exchange-traded funds, son fondos de inversión cuya principal característica es que se negocian en mercados secundarios de valores. A diferencia de las participaciones de los fondos tradicionales, que se suscriben o reembolsan a su valor liquidativo¹ (que se calcula tras el cierre de cada sesión), las participaciones en ETF pueden comprarse y venderse en un mercado secundario, como las acciones o los bonos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Al igual que el resto de fondos de inversión, los fondos cotizados pueden invertir en una amplia gama de activos que, en ocasiones, resultarían difícilmente accesibles a los inversores, especialmente a los minoristas, como es el caso de los índices, las materias primas y los mercados emergentes. Por otro lado, su cotización en los mercados secundarios permite a los inversores habituados a operar en los mercados, comprar y vender de una manera similar a como se hace con otros activos cotizados.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "¹ Entendido como el ratio entre el valor total de la cartera del fondo, neto de gastos, y el número de participaciones.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Una particularidad de estos fondos es que, en muchos casos, tienen como objetivo replicar el comportamiento de un determinado índice de referencia (por ejemplo, índices de renta variable: IBEX35®, EuroStoxx 50, Nasdaq 100, DJ Industrial Average, etc., o también índices de renta fija).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El origen de los ETF se encuentra en la iniciativa que, a principios de los años 90, tuvo la Bolsa de Toronto al lanzar unos productos cotizados que replicaban índices bursátiles. Se pretendía satisfacer la demanda de los inversores que querían acceder a cestas de acciones de manera sencilla y directa, sin tener que recurrir a los fondos de inversión tradicionales o a los mercados de derivados. A Europa llegaron en el año 2000 de la mano de las Bolsas de Fráncfort y Londres.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En España los primeros fondos cotizados ven la luz en 2006, al amparo del nuevo Reglamento de Instituciones de Inversión Colectiva y fueron tres ETF referenciados al índice IBEX 35®. Posteriormente se inició una segunda etapa en el desarrollo de los ETF cuando se produjeron nuevas incorporaciones que completaban la oferta de subyacentes disponibles.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1.1 ¿Qué quiere decir que…?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¥ Son fondos de inversión: Los ETF, al igual que el resto de fondos de inversión, son Instituciones de Inversión Colectiva (IIC)² de carácter financiero que pueden invertir en una amplia variedad de clases de activos e instrumentos financieros. Se trata, en definitiva, de un patrimonio común, perteneciente a una pluralidad de inversores, llamados partícipes, que está gestionado y representado por una Sociedad Gestora y donde los rendimientos individuales se establecen en función de los resultados colectivos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Igualmente, cuentan con una Entidad Depositaria, que es la encargada de custodiar los valores o activos adquiridos por el fondo de inversión, así como de vigilar y supervisar la gestión que lleve a cabo la Sociedad Gestora, velando por el interés de los partícipes. No obstante, los ETF o fondos cotizados tienen ciertas características que les hacen diferenciarse de los fondos tradicionales.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque en este documento solo nos referiremos a los ETF en su forma de fondos, también se pueden encontrar ETF en forma de sociedades (SICAV índice cotizadas).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "² Las instituciones de inversión colectiva pueden ser fondos de inversión (FI) y sociedades de inversión de capital variable (SICAV). Tanto los FI como las SICAV son patrimonios formados por la agregación de capitales aportados por un número variable de personas (partícipes, en el caso de los FI, o accionistas, en el caso de las SICAV).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "¥ Su objetivo de inversión es replicar la evolución de un índice: Dentro de la clasificación de los fondos de inversión, los ETF corresponden a la categoría de los fondos indexados, es decir, aquellos cuya política de inversión es la de replicar la composición y el comportamiento del índice que tomen de referencia (índice de renta fija, de renta variable, de materias primas o de divisas). Por ejemplo: un fondo índice sobre el IBEX 35 ® tendrá como política de inversión obtener una rentabilidad lo más parecida posible a la de ese índice.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Al frente de la gestión de los ETF se encuentra un profesional o Sociedad Gestora que materializa las entradas de efectivo en la compra de diferentes activos como acciones, bonos, derivados, etc., según la política inversora del fondo descrita en el folleto.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Existen dos métodos para replicar la evolución del índice subyacente del ETF: la réplica directa o física y la réplica indirecta o sintética.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La réplica física consiste en la compra directa de los valores de las sociedades que pertenecen en cada momento al índice, todos o solo una muestra (es posible la réplica con una muestra de valores y completar la cartera con derivados para obtener el mismo comportamiento que el índice). Los valores del fondo se ajustan periódicamente, replicando los cambios en la composición y peso de los valores del índice. El objetivo es conseguir que la composición y el peso de los valores de la cartera del fondo sean lo más próximos posibles a la del índice.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Mediante la réplica indirecta o sintética se persigue la rentabilidad del índice a través de la utilización de instrumentos financieros derivados.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "¥ Sus participaciones se negocian en las bolsas de Valores: Las participaciones se negocian en mercados bursátiles electrónicos, con un funcionamiento similar al de las acciones, con información en tiempo real y difusión automática de los precios y volúmenes a los que se están negociando. De este modo, se puede conocer exactamente el precio al que está cotizando la participación en el momento de dar la orden de compra o venta.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Esto los diferencia de los fondos tradicionales, en los que el precio (valor liquidativo) se determina por el gestor a final del día.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. Principales características de los ETF"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2.1. Accesibilidad"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos cotizados suelen tener importes mínimos de inversión reducidos, por lo que es posible acceder a ellos con pequeñas cantidades de dinero.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2.2. Diversificación"
+    },
+    {
+      "type": "paragraph",
+      "text": "Como se ha comentado, una particularidad de los ETF es que tienen como objetivo replicar el comportamiento de un determinado índice de referencia, ya sea de renta variable, de renta fija, o de materias primas, por ejemplo. Es precisamente su naturaleza de producto referenciado a una cesta o grupo de activos lo que permite invertir diversificando, evitando la concentración y tratando de gestionar, en cierta medida, el riesgo global de la inversión.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "De este modo, los ETF ofrecen la posibilidad de participar en la evolución de los principales mercados sin necesidad de invertir en todos y cada uno de los valores que integran los índices de referencia.",
+      "links": []
+    },
+    {
+      "type": "highlight",
+      "text": "Ejemplo: Margarita Díaz desea invertir 10.000 € en un ETF del IBEX35®. Recordemos que es el índice selectivo de la bolsa española compuesto por los principales valores y ponderados por su tamaño. Supongamos, por ejemplo, que en un momento determinado, Santander representa un 20 % del total del índice, Telefónica un 14 %, Inditex un 12 %, BBVA un 11 %, Iberdrola un 8 % y así hasta el valor 35. Hecha la compra en bolsa a través de un intermediario autorizado, Margarita Díaz posee participaciones de una cartera que replica la composición del IBEX35® por valor de 10.000 euros."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es decir, la compra de participaciones en el ETF, por importe de 10.000 €, equivale a la inversión de 2.000 € (el 20 %) en acciones de Santander, 1.400 € (el 14 %), en acciones de Telefónica, 1.200 € (el 12 %), en acciones de Inditex, 1.100 € (el 11 %), en acciones de BBVA, etc.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2.3. Liquidez"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las participaciones se negocian en tiempo real en el segmento de negociación de fondos de inversión cotizados de la bolsa: el inversor puede invertir y desinvertir en cualquier momento durante el horario de negociación bursátil, incluso varias veces al día. La operativa de compra y venta de participaciones, por tanto, es similar a la de las acciones negociadas en bolsa.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Además, el ETF es un producto que cuenta con especialistas, entidades que fomentan la liquidez del producto, que mantienen precios de compra y venta a lo largo de toda la sesión bursátil; es decir, tienen la obligación de proporcionar liquidez a los fondos cotizados.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "No obstante lo anterior, existen los llamados Límites de Actuación, es decir, supuestos en los que el especialista o creador de mercado queda exonerado temporalmente de su actuación como tal en situaciones de alta volatilidad, en atención a las variaciones de precios del valor en cuestión respecto al precio de la última subasta o al último precio negociado. Esta exoneración se mantendrá hasta que la situación se haya normalizado y tendrá efecto exclusivo para la sesión en curso.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Mediante el mantenimiento de una horquilla de precios máxima para un determinado volumen, los especialistas permiten la realización de negociaciones en el mercado secundario a precios en línea con el valor liquidativo indicativo del ETF. Adicionalmente, mediante su actuación en el mercado primario, los especialistas facilitan que el número de participaciones del ETF disponibles en cada momento en el mercado sea el adecuado. Cada valor que se negocie en este segmento deberá tener al menos un especialista. En función de las características de cada ETF se establecerán los requisitos de presencia en el mercado que deberán cumplir los especialistas. Estos requisitos hacen referencia a la horquilla máxima entre el precio de compra y el de venta de las posiciones que introduzca en el mercado el especialista, al importe efectivo mínimo asociado a las mencionadas posiciones y a su presencia en el mercado a lo largo de la sesión. La actuación simultánea de los especialistas en el mercado primario y en el mercado secundario permite que el precio del fondo cotizado se mantenga en niveles cercanos a su valor patrimonial a través del arbitraje.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por otro lado, se puede interrumpir la contratación del fondo por la imposibilidad de calcular el índice o el valor liquidativo indicativo así como por la falta de comunicación en forma y plazo establecido de la composición de la cartera, de la cesta o del valor liquidativo.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2.4. Inmediatez y transparencia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante el horario de negociación, la bolsa calcula y difunde un valor liquidativo indicativo estimado³, lo que permite al partícipe conocer en todo momento cómo evoluciona su inversión.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "³ El valor liquidativo indicativo estimado del fondo de inversión se difunde en diversos momentos de la sesión bursátil con el fin de que el inversor pueda compararlo y tome las decisiones oportunas. Se calcula multiplicando el valor liquidativo del día anterior a esa sesión por la variación que experimente el índice en el momento del cálculo respecto al valor de cierre de la sesión anterior.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Las operaciones se realizan a los precios de compra y venta que ofrezcan las contrapartidas en cada momento. El inversor tiene mayor certeza que en los fondos tradicionales sobre el precio al que se va a realizar la compra o venta, ya que será muy parecido al último valor liquidativo indicativo publicado antes de la orden. Las ventas se liquidarán (mediante abono en la cuenta del partícipe) en los mismos plazos que las acciones.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2.5. Dividendos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Al margen de la eventual rentabilidad obtenida por el aumento del precio del ETF, los partícipes cuentan con la posibilidad de recibir dividendos (prácticamente inexistente en los fondos tradicionales). Con carácter periódico (anual, semestral...) el fondo cotizado podrá retribuir a los inversores con los dividendos distribuidos por las sociedades que componen el índice de referencia. Sobre todo esto es habitual en el caso de los ETF que siguen índices de renta variable. El volumen total a abonar será la diferencia entre el valor liquidativo del fondo y el valor del índice de referencia. Este abono puede implicar el cobro de comisiones por parte del intermediario.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "No existe una política común de reparto de dividendos en todos los ETF; cada gestora establece su propia política, que debe ser informada detalladamente en el DFI (documento con los datos fundamentales para el inversor).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay que tener en cuenta que, al igual que sucede con las acciones, el impacto sobre el ETF el día de pago del dividendo hará que caiga su valor liquidativo. Además, dicho dividendo lo cobrará quien tenga invertido en el ETF en la fecha de registro de asignación de derechos, también denominado record date, independientemente de la fecha en la que lo haya comprado.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "III. ¿Qué tipos de ETF existen?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A la hora de clasificar los ETF se pueden considerar diferentes criterios. El criterio más generalizado es el que se basa en la política de inversión del fondo. De forma complementaria se puede establecer una categoría en función de la estrategia que sigue el fondo. Así, podemos definir:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "ETF que sigue la evolución del mercado",
+        "ETF inversos o de exposición inversa al mercado",
+        "ETF apalancados"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3.1. ETF que siguen la evolución del mercado."
+    },
+    {
+      "type": "paragraph",
+      "text": "En esta categoría se incluyen los ETF que replican el comportamiento del índice de referencia. Como ya se ha explicado con anterioridad, esta réplica puede conseguirse mediante la compra de las acciones integrantes en la misma proporción con que aparece en dicho índice (fondos cotizados físicos) o mediante la utilización de instrumentos financieros derivados (fondos cotizados sintéticos). Si el índice sube, el valor del fondo subirá, y obtendrá beneficios. Por el contrario, ante movimientos a la baja del mercado, el valor del índice caerá y, por lo tanto, generará pérdidas.",
+      "links": []
+    },
+    {
+      "type": "highlight",
+      "text": "Ejemplo: Partiendo de que al comienzo del cálculo (Día 0) el valor del índice de mercado y del ETF es 100, simulamos un entorno de precios con fuertes variaciones diarias para que resulte más ilustrativo. Todos los días la variación del ETF es la misma que la del índice del mercado al que esté referenciado. Se mueven de forma conjunta, en el mismo sentido y cuantía similar (para no distorsionar el ejemplo no se tienen en cuenta el posible reparto de dividendos ni otros gastos). Cuando el primer día el índice sube, el ETF también aumenta de valor y genera un beneficio de 5 €. Si por el contrario, como ocurre en el segundo y tercer día, el índice cae, el ETF también lo hace y genera pérdidas. Para calcular el resultado de cada día, se toma como referencia el valor liquidativo del cierre de la sesión anterior. En el ejemplo, en el conjunto de los 4 días, ambos, el índice y el ETF, han registrado una caída del 6,44 %, lo que ha generado una pérdida total de 6,44 €."
+    },
+    {
+      "type": "paragraph",
+      "text": "No obstante el ejemplo anterior, el valor liquidativo de un fondo cotizado puede ser distinto del valor de su índice de referencia, debido a las comisiones y gastos que soporta el fondo y a los dividendos que abonan los valores en cartera al fondo cotizado.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3.2. ETF inversos o de exposición inversa al mercado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los ETF inversos son aquellos que replican el comportamiento de un índice inverso, es decir, un índice cuya evolución es la contraria al movimiento del mercado, de modo que su rentabilidad será positiva cuando el índice pierda valor y negativa cuando el índice incremente su cotización.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Para identificar esta categoría de ETF, en su denominación se incluye la palabra inverso o short (en su terminología anglosajona).",
+      "links": []
+    },
+    {
+      "type": "warning",
+      "text": "Es importante que el inversor sepa que, aunque no acude directamente a los mercados a comprar las acciones o los bonos o los instrumentos derivados, está asumiendo ese mismo riesgo a través de su ETF. Por ello, es imprescindible que el inversor conozca ese nivel de riesgo y decida antes de invertir si está dispuesto o no a asumirlo. No hay que olvidar que las inversiones en las que se materialice el patrimonio del fondo determinan el nivel de riesgo que asumen los partícipes y en algunas ocasiones tener acceso a valores de países emergentes, de sectores muy especializados, de mercados restringidos, o denominados en moneda distinta, conllevan la asunción de un riesgo adicional.",
+      "level": "important"
+    },
+    {
+      "type": "highlight",
+      "text": "Ejemplo: Partiendo de que al comienzo del cálculo (Día 0) el valor del índice de mercado y del ETF es 100, simulamos un entorno de volatilidad con fuertes variaciones diarias para que resulte más ilustrativo: En el ejemplo, el índice cae un 6,4 % en estas 4 sesiones, mientras que el ETF inverso ha subido un 3,5 %. ¿Por qué? Es sencillo, simplemente una cuestión de cálculo. Todos los días la variación del ETF inverso es la misma que la del índice del mercado al que esté referenciado, pero en sentido contrario. Sin embargo, una vez pasado el primer día, esta variación se aplica sobre bases distintas. Así, el Día 4 el índice del mercado sube un 10 % y el ETF inverso también cae un 10 % como está previsto, pero mientras el primero sube desde 85,05, el ETF cae desde 114,95. De este modo, al final del Día 4 la rentabilidad del ETF inverso, respecto al Día 0, ha sido del 3,5 %."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3.3. ETF apalancados"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dentro de la categoría de los fondos cotizados sintéticos (aquellos que utilizan instrumentos derivados para replicar el índice de referencia), se encuentran los fondos apalancados, que son aquellos que replican el índice bursátil en una determinada proporción o apalancamiento, de forma que las ganancias o pérdidas del índice se incrementan según el grado de apalancamiento. En un ETF apalancado x 2, las ganancias y las pérdidas del índice subyacente se duplican con el ETF.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Son, por tanto, ETF con los que se asume un mayor riesgo. Es conveniente hacer hincapié en que los ETF apalancados, al igual que los inversos, reflejan la evolución diaria del índice y no su evolución total para un plazo determinado. Cada día se calcula la rentabilidad respecto al día anterior, no considerando solo el valor inicial y final del periodo. Por tanto, en el caso de los ETF apalancados, si el índice lleva ganado un 50 %, el ETF apalancado x 2 no ganará exactamente el 100 %.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pongamos un sencillo ejemplo teórico sin tener en cuenta costes ni dividendos: partiendo de que al comienzo del cálculo (Día 0) el valor de ambos es 100.",
+      "links": []
+    },
+    {
+      "type": "warning",
+      "text": "Normalmente, la estructura de rentabilidad y la utilización de derivados para lograr dicha rentabilidad conllevan algunos riesgos que pueden resultar de difícil asimilación y comprensión para determinados inversores.",
+      "level": "info"
+    },
+    {
+      "type": "paragraph",
+      "text": "El primer día el índice sube un 10 %; este valdrá 110 y el ETF apalancado x 2, 120. El día 2 el índice sube un 9 % respecto del día anterior y vale 119,9; el ETF apalancado x 2, 141,6. Al tercer día, el índice baja un 16,6 % respecto del día anterior y vuelve a valer 100, su valor inicial. En contraste, el ETF apalancado x 2 acaba con un valor inferior (94,6). ¿Qué ha motivado este comportamiento? Partimos de la misma variación diaria del mercado (16,6 %), pero lo aplicamos a bases distintas (119,9 y 141,6). En este caso, primero amplificamos la caída al multiplicarla por 2 y después la calculamos sobre un valor superior: (16,6 % x 2) 141,6 = -47,01 €.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Podemos observar cómo el día 2 se obtiene un resultado por encima del esperado. Sin embargo, no hay que olvidar que el efecto apalancamiento funciona en ambos sentidos, cuando se gana y cuando se pierde. De esta forma, en el día 3, la pérdida también se produce por un valor superior (47 es mayor que 19,9 x2).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos ETF más sofisticados requieren un mayor conocimiento por parte del inversor y entrañan mayor riesgo que los ETF no apalancados.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "El nombre de los ETF"
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:26:11.020410+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 37606,
+    "input_tokens": 10110,
+    "output_tokens": 16000
+  }
+}

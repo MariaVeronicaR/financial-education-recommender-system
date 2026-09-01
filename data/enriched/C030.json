@@ -1,0 +1,56 @@
+{
+  "content_id": "C030",
+  "tldr": "El Banco de España publica un vídeo educativo protagonizado por la detective Sara Gómez que investiga el fraude por internet. El material, de nivel básico, tiene como objetivo que el público joven aprenda a reconocer los patrones típicos del fraude digital para protegerse en sus operaciones bancarias y compras online.",
+  "key_points": [
+    "El vídeo forma parte de la sección de educación financiera del Banco de España.",
+    "Su protagonista, la detective Sara Gómez, investiga casos de fraude cometido por internet.",
+    "El objetivo principal es aprender a reconocer los patrones de fraude digital.",
+    "Está pensado como material de nivel básico para el público general y joven."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cuál es el objetivo principal del vídeo de la detective Sara Gómez?",
+      "options": [
+        "Enseñar a invertir en bolsa",
+        "Ayudar a reconocer patrones de fraude digital",
+        "Explicar cómo pedir una hipoteca",
+        "Promocionar productos bancarios"
+      ],
+      "correct_index": 1,
+      "explanation": "El material busca que el usuario aprenda a reconocer los patrones típicos del fraude por internet, que es el objetivo de aprendizaje indicado.",
+      "concept_id": "C15"
+    },
+    {
+      "question": "¿En qué ámbito se centra la investigación de la detective Sara Gómez?",
+      "options": [
+        "El fraude cometido por internet",
+        "El fraude fiscal en empresas",
+        "El fraude en efectivo en cajeros",
+        "El fraude en el mercado inmobiliario"
+      ],
+      "correct_index": 0,
+      "explanation": "El título y la descripción indican que Sara Gómez investiga el fraude por internet, es decir, el fraude digital.",
+      "concept_id": "C15"
+    },
+    {
+      "question": "¿Qué nivel de dificultad tiene este material educativo sobre fraude online?",
+      "options": [
+        "Avanzado",
+        "Intermedio",
+        "Básico",
+        "Profesional"
+      ],
+      "correct_index": 2,
+      "explanation": "El catálogo del sistema lo clasifica con dificultad básica, pensado para que cualquier persona pueda comprender los conceptos iniciales del fraude digital.",
+      "concept_id": "C28"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5170,
+    "input_tokens": 1641,
+    "output_tokens": 807
+  }
+}

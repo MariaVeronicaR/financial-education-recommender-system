@@ -1,0 +1,372 @@
+{
+  "content_id": "C107",
+  "title": "Persuasión digital para inversores",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "I. Introducción"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las nuevas formas de consumo a través de medios digitales han traído grandes ventajas para los consumidores y las empresas. Se han reducido fricciones y costes, se ha aumentado la transparencia y la comparabilidad y se ha facilitado el acceso a un mercado global. Sin embargo, el rápido crecimiento en este ámbito también presenta riesgos para el bienestar de los consumidores. Aunque hay muchas similitudes con el entorno offline, los consumidores pueden comportarse de forma diferente en un entorno online: pueden actuar más rápido, tener períodos de atención más cortos, enfocar su atención de manera muy limitada e ignorar grandes cantidades de contenido, así como confiar más en recomendaciones de desconocidos. La naturaleza de los entornos online puede inducir comportamientos más impulsivos, fomentar decisiones poco reflexivas y conducir a una exposición publicitaria más intensa y prolongada que en contextos offline.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En este sentido, en el entorno digital se utilizan numerosas técnicas de persuasión diseñadas para captar la atención de los consumidores, persuadirlos y guiarlos a tomar determinadas decisiones comerciales. En ocasiones, dichas técnicas pueden ser una herramienta poderosa que genera resultados positivos para el consumidor, pero en otros casos pueden producir perjuicios al llevar al consumidor a tomar decisiones que van en contra de sus propios intereses. Estas técnicas se conocen como Prácticas de Captación Digital (Digital Engagement Practices).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En el ámbito de la inversión, también se observan este tipo de prácticas. Los avances tecnológicos están cambiando la forma en que los inversores minoristas interactúan con los servicios y productos financieros, facilitando su participación en los mercados de capital. La aparición de brokers online, aplicaciones móviles o plataformas de trading, entre otros, ha hecho que la inversión en los mercados de valores sea más accesible que nunca para los inversores minoristas con una interacción física mínima. De manera similar, se observa un uso creciente de estas soluciones tecnológicas, así como de las redes sociales en general, para promover la adquisición de productos financieros diversos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Todo ello ha conllevado no solo que los inversores tengan acceso a una variedad de productos mucho más amplia, desde activos de poco riesgo hasta los de mayor riesgo, sino también que esta clase de activos esté disponible para públicos de todo tipo a los que hasta hace poco tiempo les resultaba más difícil el acceso como, por ejemplo, los jóvenes. Dado que el uso de estas plataformas es cada vez más frecuente, es preciso tener conocimiento de sus características de diseño y, en particular de las prácticas de captación digital a las que se ha hecho referencia anteriormente, y el impacto que podrían tener en las decisiones de inversión. Este tipo de prácticas puede mejorar la experiencia de usuario y actuar en beneficio del inversor, pero también podría aumentar la interacción de los usuarios en las plataformas, incentivar una mayor frecuencia de operaciones y, eventualmente, promover la asunción de riesgos de manera inconsistente con los objetivos de inversión que el inversor se haya fijado previamente. En la presente Guía se analizarán las diferencias entre las herramientas de captación o persuasión1 tradicionales y las digitales, se recogerán las principales técnicas de captación digital utilizadas actualmente en el ámbito de la inversión por plataformas, aplicaciones y webs destinadas a este fin, y, finalmente, se facilitarán algunas estrategias para mitigar sus efectos en la toma de decisiones de inversión.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En la presente Guía, se utilizarán indistintamente los términos “técnicas de persuasión” y “técnicas de captación” para referirse al conjunto de prácticas en entornos digitales que pueden condicionar el comportamiento del inversor.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La presente Guía tiene la finalidad de dotar al inversor de un conocimiento práctico sobre las técnicas de captación digital, de manera que pueda identificarlas y protegerse frente a ellas de forma efectiva. Esta función informativa y preventiva contribuye a la autoprotección del inversor y actúa como complemento de la protección legal prevista en la normativa vigente, la cual constituye un elemento esencial para la salvaguarda de los derechos e intereses del inversor y establece el marco de actuación que las entidades deben respetar en el ámbito sus actividades y servicios.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. Persuasión tradicional vs. persuasión digital"
+    },
+    {
+      "type": "paragraph",
+      "text": "La persuasión es la capacidad de influir en las decisiones y el comportamiento de las personas. Con la persuasión se pretende modificar las actitudes, creencias, intenciones, motivaciones o comportamientos de una persona o grupo, apelando a una combinación de razón, emoción y credibilidad. A diferencia de la manipulación, que a menudo busca un beneficio exclusivo del persuasor e involucra engaño o coerción, la persuasión busca un cambio de conducta en el receptor para llevarle de su situación inicial a otra situación en la que se muestra interesado y toma acción.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En la persuasión tradicional, entendida como aquella que se ejerce a través de canales presenciales o analógicos como, por ejemplo, llamadas telefónicas, presentaciones físicas, eventos, reuniones, prensa, etc., la esencia es la interacción humana y el tipo de contenido facilitado suele ser más analítico. Esto permite que el consumidor o el inversor active procesos de evaluación más racionales: compare datos, haga preguntas o solicite más información entre otros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por el contrario, en la persuasión digital, entendida como aquella que opera mediante plataformas online que combinan datos, automatización y diseño de interfaces y contenidos para influir en el usuario, entran en juego técnicas como la segmentación algorítmica, los mensajes personalizados, el uso de pruebas sociales digitales (reseñas, testimonios, seguidores) y dinámicas de urgencia creadas a través de anuncios, correos o mensajes en redes sociales, que permiten un alcance masivo y un impacto inmediato, pero también reducen la capacidad del usuario o inversor para evaluar la autenticidad del emisor, la veracidad de la información y la conveniencia de la oportunidad y, por tanto, para tomar decisiones reflexivas y racionales.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A continuación, se muestra un cuadro con las principales diferencias entre ambas formas de persuasión:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Canal. Persuasión tradicional: Comunicación directa (llamadas, reuniones) o por medios unidireccionales (televisión, radio, prensa, discursos). Alcance limitado por tiempo y espacio. Persuasión digital: Comunicación interactiva y multicanal (redes sociales, apps, correo, publicidad segmentada). Alcance global y constante, con múltiples puntos de contacto.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ruta cognitiva (Petty & Cacioppo)2. Persuasión tradicional: Predomina la ruta central: el receptor analiza cuidadosamente la información y evalúa argumentos. Se basa en análisis crítico y deliberado de la información. Persuasión digital: Predomina la ruta periférica: el receptor responde a señales externas (imágenes, notificaciones, diseño). Se toman decisiones rápidas, a menudo sin un análisis profundo del contenido.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Principios aplicables (Cialdini)³. Persuasión tradicional: Aplicados directamente por personas: simpatía, autoridad, reciprocidad, compromiso, escasez, aprobación social. Persuasión digital: Integrados en el diseño digital: likes (aprobación social), verificación (autoridad), promociones (reciprocidad), notificaciones de urgencia (escasez).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Control del mensaje. Persuasión tradicional: El emisor controla el contenido: el mensaje es único para todos. Persuasión digital: Los algoritmos personalizan el mensaje según comportamiento, perfil y preferencias de cada usuario.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Atención. Persuasión tradicional: Limitada en número de receptores, pero concentrada en la interacción (lectura, discurso, spot publicitario). Persuasión digital: Fragmentada y continua: scroll infinito, notificaciones, multitarea. El usuario recibe estímulos constantemente.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Según el Modelo de la Probabilidad de Elaboración –ELM– de Petty y Cacioppo (1986).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Robert Cialdini, psicólogo estadounidense considerado uno de los principales expertos mundiales en influencia y comportamiento persuasivo, formuló seis principios fundamentales que explican cómo las personas pueden ser guiadas en sus decisiones. Estos principios son: reciprocidad, que impulsa al sujeto a devolver favores o atenciones recibidas; compromiso y coherencia, que impulsa a actuar de forma consistente con compromisos previamente adquiridos; aprobación social, que lleva al sujeto a seguir lo que hace la mayoría o personas similares a este; simpatía, que incrementa la influencia de quienes resultan cercanos o agradables; autoridad, que hace que se confíe en figuras expertas o reconocidas; y escasez, que genera urgencia cuando algo se percibe como limitado o exclusivo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Refuerzo y recompensa. Persuasión tradicional: Recompensas sociales o simbólicas: aplausos, reconocimiento, aprobación del grupo o del interlocutor. Persuasión digital: Recompensas inmediatas y variables (notificaciones, puntos, seguidores).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Emoción. Persuasión tradicional: Apelación moderada y explícita, generalmente ligada a narrativa o discurso. Persuasión digital: Emoción amplificada mediante algoritmos: contenido viral, alertas personalizadas, interacción constante para generar engagement.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Implicación de sesgos cognitivos. Persuasión tradicional: Aprovechados de forma general y colectiva: autoridad, escasez, prueba social, etc. Persuasión digital: Individualizados, amplificados y automatizados, aumentando la vulnerabilidad del usuario a decisiones impulsivas.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Retroalimentación. Persuasión tradicional: Lenta o diferida: encuestas, ventas, respuestas físicas u opiniones formales. Persuasión digital: Instantánea: métricas de interacción, clics, tiempo en pantalla, conversiones y comentarios en tiempo real.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Arquitectura de elección (nudge). Persuasión tradicional: Limitada al contexto físico (presentación de opciones). Persuasión digital: Interfaces digitales diseñadas para guiar decisiones: botones preseleccionados, ofertas personalizadas, formularios simplificados.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Medición del impacto. Persuasión tradicional: Basada en resultados visibles (ventas, encuestas, opinión pública). Persuasión digital: Basada en analítica de comportamiento en tiempo real: clics, tasa de conversión, retención, mapas de calor, microinteracciones.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Rol del receptor. Persuasión tradicional: Público o consumidor relativamente pasivo. La persuasión se ejerce a través del contacto directo y el contenido. Persuasión digital: Usuario activo, pero constantemente influido por el diseño, los algoritmos y la personalización de la información; toma decisiones rápidas sobre la base de estímulos digitales.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En resumen, en la persuasión tradicional, la influencia se construye mediante el contacto directo, exposiciones personales o medios convencionales, en contextos en los que el receptor suele disponer de más tiempo para evaluar argumentos, interpretar señales de autoridad o simpatía y tomar decisiones basadas en información relativamente estable. La atención tiende a ser más sostenida, las emociones están más contenidas y los sesgos cognitivos operan de forma amplia y no personalizada.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En cambio, la persuasión digital funciona en entornos online altamente dinámicos, en los que los algoritmos adaptan los mensajes a cada persona, intensifican emociones y ofrecen recompensas inmediatas, y promueven decisiones rápidas a través de notificaciones, contenido viral y diseños de interfaz muy estimulantes. La retroalimentación es casi instantánea, los sesgos se amplifican y se ajustan al perfil de cada usuario, y la influencia se vuelve más rápida, masiva y difícil de detectar o contrastar.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "III. ¿Qué son las técnicas de captación digital?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las técnicas de captación digital, un término acuñado por la U.S. Securities and Exchange Commission (SEC), son las herramientas que incluyen técnicas conductuales, marketing diferenciado, gamificación, elementos de diseño o características de diseño que captan la atención de manera intencional o no intencional de los inversores minoristas en plataformas digitales. Aunque más adelante se analizarán detenidamente, son ejemplos de estas prácticas de captación digital, entre otros, las notificaciones emergentes o notificaciones push frecuentes con noticias del mercado, los diseños de interfaz que llaman la atención sobre determinada información o las herramientas de redes sociales que permiten a los usuarios interactuar.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Las técnicas de captación digital tienen su base en las ciencias del comportamiento y su objetivo es influir en la manera de proceder del consumidor o inversor. En el ámbito de la inversión, la utilización de este tipo de técnicas por parte de aplicaciones móviles, brokers online, plataformas de trading, etc., puede tener como objetivos, entre otros, captar y retener al inversor, incentivar la toma de determinadas decisiones o fomentar la realización de un mayor número de operaciones.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por tanto, estas técnicas de captación digital forman parte de la interfaz que esté manejando el usuario y modelan el contacto de este con el propietario de la aplicación o plataforma. En consecuencia, estas técnicas son elementos clave para la comunicación entre ambos y tienen especial trascendencia en lo que a la interacción o los procesos de contratación con los usuarios se refiere.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "IV. Más allá de la persuasión digital: los patrones oscuros"
+    },
+    {
+      "type": "paragraph",
+      "text": "El diseño de las interfaces digitales no es solo estético; afecta directamente a cómo se recibe la información y cómo se actúa. Una buena interfaz facilita la experiencia del usuario y ayuda a tomar decisiones con mayor claridad.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sin embargo, no todas las técnicas de captación digital son neutrales e inocuas. En ocasiones, estas prácticas pueden estar encaminadas a influir de manera más o menos sutil en el comportamiento del usuario, de tal manera que sus decisiones no sean del todo racionales o coherentes con sus preferencias y favorezcan en último término el interés de la plataforma, web o aplicación.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Además, hay que tener en cuenta que el contexto digital en el que se observan estas prácticas es el ámbito donde más expuesto está el usuario y más acusada es su vulnerabilidad. A la tradicional asimetría informativa, en la que el propietario de la web o de la aplicación conoce mejor que el usuario el producto o servicio que comercializa, se suma el acceso que tiene a una gran cantidad de datos generados por la propia actividad online del usuario.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Todos estos factores abren la puerta a que algunos proveedores empleen diseños que intencionadamente buscan confundir o perjudicar al usuario en beneficio de la propia plataforma, web o aplicación. Este tipo de diseños engañosos son los denominados patrones oscuros o dark patterns⁴.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El concepto de dark pattern fue acuñado por Harry Brignull en 2010. Lo hizo en su página web https://www.deceptive.design/ (inicialmente darkpatterns.org). En este sitio web se recoge desde entonces una categorización de deceptive designs, así como nuevas técnicas o prácticas que resultan engañosas y que se van incorporando como consecuencia de «denuncias informales» de usuarios. Este término ha sido ya reconocido por el legislador europeo en la actualidad hasta el punto de que todas las normas comunitarias que se han publicado en los últimos años en las que el diseño de las interfaces de usuario puede tener alguna relevancia incluyen una referencia más o menos directa al fenómeno. En la actualidad hay una preocupación evidente por parte de la Unión Europea por abordar y reducir el impacto en el mercado digital de este tipo de técnicas.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los patrones oscuros son técnicas basadas en el conocimiento sobre el comportamiento humano para implementar características o pasos engañosos que no se alinean con lo que es mejor para el usuario. Por tanto, en el ámbito de los patrones oscuros, la interfaz puede ser utilizada no solo para facilitar la experiencia de usuario, sino para inducir conductas no deseadas o no consentidas conscientemente por este. Su objetivo no es ayudar al usuario a tomar decisiones informadas, sino incentivar determinados comportamientos, aumentar el tiempo de uso, dificultar la salida o fomentar opciones que favorecen a la plataforma.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos patrones pueden adoptar formas muy variadas: destacar visualmente la opción más rentable para la empresa, esconder o complicar el acceso a información relevante, obligar a seguir múltiples pasos para cancelar un servicio, plantear preguntas de forma sesgada para obtener determinadas respuestas, etc.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los patrones oscuros pueden socavar la autonomía del usuario, dificultar la toma de decisiones racionales y aumentar la probabilidad de actuaciones impulsivas o perjudiciales.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por tanto, las prácticas de captación digital pueden plantear riesgos para los inversores cuando, como en el caso de los patrones oscuros, rozan la manipulación. Las herramientas de persuasión, entre las que se encuentran las prácticas de captación digital, no son legítimas o ilegítimas en sí. Su legitimidad dependerá de la finalidad con la que se utilicen. Un intento de persuasión es legítimo y justificable si ayuda al inversor a tomar decisiones más informadas, siempre que dicha persuasión no altere sus preferencias ni le lleve a tomar decisiones que de otro modo no habría tomado. Por el contrario, ese intento de persuasión constituirá una mala práctica y, en consecuencia, un patrón oscuro, si pretende dirigir, engañar, coaccionar o manipular al inversor para que tome decisiones contrarias a su mejor interés, todo ello sin perjuicio de que dicha práctica pueda constituir un incumplimiento de la normativa aplicable.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "V. ¿Cómo funcionan las prácticas de captación digital?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las prácticas de captación digital, tanto las utilizadas con fines legítimos como los patrones oscuros a los que se ha hecho referencia anteriormente, conforman entornos de decisión intencionalmente diseñados para guiar las elecciones de los usuarios. Este tipo de prácticas configuran los contextos en los que las personas eligen, influyendo en la probabilidad de que tomen determinadas decisiones. Este modo en el que se presentan las distintas opciones es lo que se denomina “arquitectura de la elección”, siendo las prácticas de captación digital manifestaciones específicas de esta arquitectura de la elección en el entorno digital.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Las plataformas, webs o aplicaciones, mediante el diseño de sus interfaces, algoritmos de recomendación y sistemas de notificaciones, construyen entornos de elección en los que cada elemento de diseño contribuye a moldear el comportamiento de los usuarios.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En los entornos digitales, esta arquitectura de la elección se materializa en elementos como:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "la disposición visual de botones y menús,",
+        "la preconfiguración de opciones de privacidad,",
+        "la jerarquización de la información,",
+        "la utilización de mensajes persuasivos que acompañan las decisiones (confirmaciones, advertencias, recompensas)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Cada una de estas elecciones de diseño constituye una forma de “acicate conductual” (nudge), que orienta las acciones de un usuario en un determinado sentido que le beneficia. El problema surge cuando estos “acicates” dejan de ser beneficiosos para el usuario para transformarse en mecanismos de manipulación encubierta, es decir, en “acicates oscuros” (dark nudges).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En el contexto de la arquitectura de la elección, la efectividad de las prácticas de captación digital se basa en:",
+      "links": []
+    },
+    {
+      "type": "ordered_list",
+      "items": [
+        "Mecanismos psicológicos: Las prácticas de captación digital aprovechan la manera en que las personas piensan y sienten para influir en sus decisiones en entornos digitales. Este tipo de prácticas explotan ciertos sesgos cognitivos y atajos mentales (heurísticos) que facilitan la toma de decisiones rápida, automática y sin control consciente. Activan así el llamado pensamiento automático (Sistema 15), favoreciendo respuestas impulsivas, la elección de opciones predeterminadas y una mayor susceptibilidad a estímulos breves o emocionales.",
+        "Diseño persuasivo de las webs, aplicaciones y plataformas: La denominada “tecnología persuasiva” (en inglés, captology), desarrollada por B.J. Fogg6, es aquella diseñada para cambiar actitudes o comportamientos a través de la mediación tecnológica, sin recurrir a coerción o engaño explícito. Su modelo conductual (Fogg Behaviour Model) sostiene que el comportamiento se produce cuando convergen tres elementos: Motivación, deseo o interés del usuario; Habilidad o facilidad con la que puede ejecutar la acción; y Disparador o estímulo (trigger) que activa la conducta. Las plataformas digitales son capaces de influir simultáneamente en estas tres variables: pueden aumentar la motivación mediante recompensas o validación social; pueden reducir el esfuerzo con interfaces simplificadas o automatizaciones; y pueden generar disparadores constantes, como notificaciones, banners o recordatorios.",
+        "Personalización algorítmica mediante el uso de datos: Consiste en el uso de sistemas automatizados (inteligencia artificial, machine learning, minería de datos) para adaptar los contenidos, interfaces y recomendaciones que recibe cada usuario, en función de su comportamiento, historial y perfil digital. De esta manera, este tipo de sistemas aprenden de las interacciones del usuario (clics, búsquedas, tiempo de permanencia, ubicación, etc.) para configurar un entorno digital personalizado en el que las opciones que se presentan no son casuales, sino el resultado de un cálculo orientado a objetivos específicos (atención, retención, conversión). Con este tipo de prácticas, la arquitectura de la elección pasa de ser un entorno estático y universal, a ser dinámico y personalizado."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Daniel Kahneman, psicólogo y Premio Nobel de Economía en 2002, estudió cómo las personas toman decisiones bajo incertidumbre. Propuso que el pensamiento humano opera mediante dos sistemas complementarios: el Sistema 1, rápido, automático, intuitivo y emocional, que utiliza atajos mentales; y el Sistema 2, lento, deliberado y analítico, que permite evaluar información de manera crítica y razonada. Ambos sistemas interactúan constantemente, pero muchas decisiones cotidianas están fuertemente influenciadas por el Sistema 1, lo que puede hacer al usuario más vulnerable a errores y decisiones poco racionales.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "B.J. Fogg es un psicólogo estadounidense y experto en comportamiento humano, diseño de interacción y persuasión digital, conocido por sus investigaciones sobre cómo la tecnología puede influir en la conducta de las personas. Es fundador del Behavior Design Lab en la Universidad de Stanford y autor del libro “Persuasive Technology: Using Computers to Change What We Think and Do” (2003), donde introduce el concepto de captología (captology), que estudia cómo los sistemas tecnológicos pueden diseñarse para cambiar hábitos y comportamientos humanos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En conjunto, estos mecanismos configuran una arquitectura digital de las elecciones basada en la psicología del comportamiento y la psicología social. Las plataformas, webs y aplicaciones estructuran entornos persuasivos que modelan la conducta del usuario, aumentando su interacción con ella y llevando a la toma de determinadas decisiones.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VI. Prácticas de captación digital más habituales en el ámbito de la inversión"
+    },
+    {
+      "type": "paragraph",
+      "text": "Al categorizar las distintas prácticas de captación digital, conviene identificar tres ámbitos principales de influencia:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Estructura de la elección: la forma en que se presenta la información necesaria para tomar una decisión.",
+        "Información de la elección: el contenido y el encuadre de las distintas opciones disponibles.",
+        "Presión para la elección: los elementos que guían al usuario hacia una decisión alineada con sus propias intenciones."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Estructura de la elección:",
+      "links": []
+    },
+    {
+      "type": "ordered_list",
+      "items": [
+        "Opciones predeterminadas",
+        "Clasificaciones",
+        "Precios divididos",
+        "Sobrecarga de elección *",
+        "Manipulación sensorial*",
+        "Fricción injustificada (sludge)*"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Información de la elección:",
+      "links": []
+    },
+    {
+      "type": "ordered_list",
+      "items": [
+        "Precio por goteo (drip pricing)*",
+        "Enmarcado (framing)",
+        "Lenguaje complejo*",
+        "Sobrecarga de información*"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Presión para la elección:",
+      "links": []
+    },
+    {
+      "type": "ordered_list",
+      "items": [
+        "Afirmaciones de escasez y popularidad",
+        "Avisos y recordatorios",
+        "Mensajeros",
+        "Compromiso",
+        "Retroalimentación",
+        "Personalización"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A continuación, se presenta una clasificación de las prácticas de captación digital según el ámbito en el que inciden. La mayoría de estas técnicas pueden utilizarse de manera beneficiosa para el usuario y, de hecho, con frecuencia se aplican así. Sin embargo, la literatura académica indica que algunas prácticas son casi siempre perjudiciales y entrarían dentro del concepto de patrón oscuro, mientras que otras solo resultan dañinas en determinadas circunstancias.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En la siguiente tabla se muestran las prácticas de captación digital más habituales en el ámbito de la inversión. Las técnicas señaladas con un asterisco se consideran patrones oscuros por la literatura académica existente en esta materia.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "A. Prácticas de captación relacionadas con la estructura de la elección"
+    },
+    {
+      "type": "paragraph",
+      "text": "En el ámbito digital, las plataformas y aplicaciones pueden influir en nuestras decisiones mediante la forma en que se estructuran las opciones disponibles. Esto incluye decidir qué alternativas se muestran o destacan, cuánto esfuerzo requiere evaluar cada opción, cómo se ordenan o clasifican los productos o servicios, y qué ocurre después de que el usuario realiza su elección.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:41:47.453446+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 39696,
+    "input_tokens": 9498,
+    "output_tokens": 16000
+  }
+}

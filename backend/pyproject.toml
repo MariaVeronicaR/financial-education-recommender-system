@@ -1,0 +1,34 @@
+[project]
+name = "tfm-reco-servicio"
+version = "0.1.0"
+description = "Servicio de recomendación (motor de IA) del TFM de educación financiera"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.30",
+    "pydantic>=2.7",
+    "pydantic-settings>=2.3",
+    "numpy>=1.26",
+    "pandas>=2.2",
+    "python-multipart>=0.0.9",
+]
+
+[project.optional-dependencies]
+ml = [
+    "torch>=2.2",
+    "scikit-learn>=1.4",
+]
+neo4j = [
+    "neo4j>=5.20",
+]
+dev = [
+    "pytest>=8.2",
+    "httpx>=0.27",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.setuptools]
+packages = ["app"]

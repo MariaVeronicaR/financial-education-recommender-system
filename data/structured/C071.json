@@ -1,0 +1,31 @@
+{
+  "content_id": "C071",
+  "title": "Presupuestador - Finanzas para todos",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Mi presupuesto"
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta herramienta te ayudará en la planificación de tu jubilación permitiéndote conocer cuánto dinero podrás obtener al mes y al año, si comienzas a invertir anualmente una determinada cantidad de dinero.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Resultados"
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:26:14.437194+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 2900,
+    "input_tokens": 2002,
+    "output_tokens": 601
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "content_id": "C114",
+  "title": "Glosario - Curso Criptoactivos y Blockchain",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Glosario"
+    },
+    {
+      "type": "glossary",
+      "entries": [
+        {
+          "term": "Altcoins",
+          "definition": "Criptoactivos alternativos a Bitcoin."
+        },
+        {
+          "term": "Aplicación descentralizada (dApp)",
+          "definition": "Tipo de aplicación cuyo funcionamiento no depende de uno o varios servidores centrales, sino que funciona de manera automática y descentralizada a través de contratos inteligentes (smart contracts)."
+        },
+        {
+          "term": "Bitcoin",
+          "definition": "Primer criptoactivo, creado en el año 2009 y por medio del cual se desarrolló la primera cadena de bloques (blockchain)."
+        },
+        {
+          "term": "Bloque",
+          "definition": "Conjunto de transacciones que se añaden a la cadena."
+        },
+        {
+          "term": "Cadena de bloques (blockchain)",
+          "definition": "Registro basado en tecnologías de registro distribuido (TRD) en el que los datos se almacenan en bloques encadenados mediante criptografía."
+        },
+        {
+          "term": "Cadena de bloques híbrida",
+          "definition": "Un tipo de cadena de bloques (blockchain) que combina características de las públicas y privadas, donde la participación en la red es privada (requiere de una autorización) pero los datos y el historial están abiertos al público."
+        },
+        {
+          "term": "Cadena de bloques privada",
+          "definition": "Un tipo de cadena de bloques (blockchain) en la que existe una entidad central que concede acceso a los usuarios y controla los permisos y las funciones que pueden desarrollar."
+        },
+        {
+          "term": "Cadena de bloques pública",
+          "definition": "Un tipo de cadena de bloques (blockchain) que es accesible sin permiso a través de Internet, con datos e historial abiertos al público."
+        },
+        {
+          "term": "Cadena Lateral (sidechain)",
+          "definition": "Las soluciones de sidechain, como Polygon, crean una red secundaria que se ejecuta en paralelo con la red Ethereum y realiza transacciones fuera de la cadena principal."
+        },
+        {
+          "term": "Contratos inteligentes (Smart Contracts)",
+          "definition": "Programas informáticos almacenados en una cadena de bloques (blockchain) que se ejecutan automáticamente cuando se cumplen unas condiciones establecidas previamente."
+        },
+        {
+          "term": "Criptoactivo",
+          "definition": "Representación digital de un valor o de un derecho que puede transferirse y almacenarse electrónicamente, mediante una cadena de bloques (blockchain), u otra tecnología de registro distribuido."
+        },
+        {
+          "term": "Criptografía",
+          "definition": "Técnica matemática que permite cifrar la información para que no sea accesible por receptores no autorizados."
+        },
+        {
+          "term": "dApp",
+          "definition": "Abreviatura de \"aplicación descentralizada\", es una aplicación que funciona en una red blockchain y permite a los usuarios interactuar directamente entre sí, sin intermediarios, utilizando smart contracts y criptoactivos."
+        },
+        {
+          "term": "DeFi",
+          "definition": "Acrónimo de Finanzas Descentralizadas (Decentralized Finance), se refiere a la creación y uso de aplicaciones descentralizadas (Dapps) que tratan de replicar las funciones del sistema financiero tradicional de manera automatizada por medio de contrataos inteligentes (smart contracts)."
+        },
+        {
+          "term": "Dinero",
+          "definition": "Conjunto de instrumentos que la sociedad emplea como unidad de cuenta, depósito de valor y medio de pago."
+        },
+        {
+          "term": "Dirección",
+          "definition": "Es una dirección asociada a una clave pública, utilizada para recibir y enviar transacciones."
+        },
+        {
+          "term": "Escalabilidad",
+          "definition": "Capacidad de un sistema de crecer y adaptarse a un aumento en el uso o demanda."
+        },
+        {
+          "term": "Finanzas Descentralizadas (Decentralized Finance o DeFi)",
+          "definition": "Término que hace referencia al ecosistema de distintas funciones financieras construido sobre la blockchain y cuya principal característica es que no requiere de la existencia de una entidad central para garantizar su correcto funcionamiento."
+        },
+        {
+          "term": "Función hash",
+          "definition": "Función matemática basada en criptografía asimétrica que convierte cualquier dato (input), con independencia de su tamaño en un conjunto de caracteres de longitud fija (output o el hash), de forma que es imposible inferir nada del input a partir del output. Por ejemplo, se puede calcular el hash del Quijote obteniendo un hash determinado, y si se cambia una sola letra del libro y se vuelve a calcular la función hash, el resultado sería completamente diferente."
+        },
+        {
+          "term": "Fundación Ethereum",
+          "definition": "Organización sin ánimo de lucro dedicada a ofrecer apoyo a Ethereum y a las tecnologías relacionadas. Ofrece apoyo a los desarrolladores, tanto financiero como tecnológico."
+        },
+        {
+          "term": "Gas de Ethereum",
+          "definition": "El gas es la unidad que mide la cantidad de esfuerzo computacional necesario para ejecutar una operación en Ethereum. Cada transacción requiere ciertos recursos computacionales, por lo que se aplica un determinado nivel de \"gas\"."
+        },
+        {
+          "term": "Hash",
+          "definition": "Código alfanumérico único de longitud fija, generado mediante un algoritmo criptográfico, que identifica un conjunto de datos (un documento, una imagen…) y que se utiliza para enlazar los diferentes bloques de una cadena de bloques."
+        },
+        {
+          "term": "Inmutabilidad",
+          "definition": "Capacidad de una cadena de bloques para evitar cambios no autorizados en los datos."
+        },
+        {
+          "term": "Lenguaje de programación Turing-Completo",
+          "definition": "Es aquel lenguaje de programación que tiene un nivel computacional similar a lo que se conoce como Máquina de Turing Universal. Se trata de la característica de un lenguaje de programación para resolver cualquier problema computacional e implementar estructuras complejas, como bucles e iteraciones."
+        },
+        {
+          "term": "Máquina Virtual de Ethereum (Ethereum Virtual Machine)",
+          "definition": "La máquina virtual de Ethereum es el software encargado de ejecutar los smart contracts de la red."
+        },
+        {
+          "term": "Mecanismo de consenso",
+          "definition": "Método mediante el cual los nodos se aseguran de que los datos almacenados en una cadena de bloques (blockchain) son válidos y no han sido modificados de forma no autorizada."
+        },
+        {
+          "term": "Mineros o nodos validadores",
+          "definition": "Un tipo de participante de la red encargado de verificar las transacciones que se proponen para su registro en la red y crear nuevos bloques en una cadena de bloques (blockchain). Reciben recompensas por su trabajo en forma de criptoactivos. Habitualmente nos referimos a estos nodos validadores como mineros en las blockchains que utilizan consensos de prueba de trabajo, como bitcoin."
+        },
+        {
+          "term": "Monedas Digitales de Bancos Centrales (Central Banks Digital Currencies o CBDCs)",
+          "definition": "Son monedas digitales emitidas por parte de un banco central. Son similares al dinero fiduciario (como el dólar o el euro), pero están diseñadas para ser utilizadas en un entorno digital y pueden ser transferidas y almacenadas en dispositivos electrónicos."
+        },
+        {
+          "term": "Monedero (wallet)",
+          "definition": "Es un software o dispositivo físico que almacena las claves privadas asociadas a una clave pública (y direcciones) en una cadena de bloques, como Bitcoin o Ethereum, y permite realizar transacciones al firmarlas digitalmente."
+        },
+        {
+          "term": "Monederos alojados (hosted wallets)",
+          "definition": "En este caso, el monedero del cliente de criptoactivos lo custodia un proveedor de servicios sobre criptoactivos, que puede ser una plataforma de intercambio (Exchange), siendo esta entidad la que conoce las claves privadas del monedero (Wallet)."
+        },
+        {
+          "term": "Monederos calientes (hot wallets)",
+          "definition": "Es un tipo de monedero (software) que está conectado a internet y es más versátil para realizar operaciones diarias"
+        },
+        {
+          "term": "Monederos fríos (cold wallets)",
+          "definition": "Es un tipo de monedero (físico) que no está permanentemente conectado a internet y ofrece mayor seguridad para almacenar criptoactivos."
+        },
+        {
+          "term": "Nodos",
+          "definition": "Participantes en una cadena de bloques (blockchain), que almacenan una copia completa de dicha cadena de bloques (blockchain) y contribuyen a crear un sistema resistente a ataques informáticos, fallos o falsificaciones."
+        },
+        {
+          "term": "Nodos de la red",
+          "definition": "Dispositivos conectados a una cadena de bloques (blockchain) que almacenan una copia de dicha cadena de bloques (blockchain), pueden transmitir transacciones para su validación, y en el caso de ser validadores o mineros, participar en el proceso de validación de transacciones y creación de nuevos bloques."
+        },
+        {
+          "term": "Plataforma de intercambio de criptoactivos (exchange)",
+          "definition": "Plataforma online donde los usuarios pueden intercambiar criptoactivos."
+        },
+        {
+          "term": "Precio del Gas",
+          "definition": "El precio es la cantidad de ether que se paga por cada unidad de Gas. Esta comisión determinará la prioridad de la transacción. Si se ofrece un pago mayor por unidad de Gas, como una especie de propina, más rápida será la validación."
+        },
+        {
+          "term": "Protocolo de consenso",
+          "definition": "Conjunto de reglas que los participantes de una red deben seguir para llegar a un acuerdo que permita determinar qué transacciones son válidas y qué transacciones no lo son."
+        },
+        {
+          "term": "Prueba de Participación (Proof of Stake o PoS)",
+          "definition": "Es un protocolo de consenso que utiliza el tiempo de participación de los nodos en la cadena de bloques (blockchain) y la posesión de un determinado criptoactivo para determinar quién puede validar las transacciones y agregar nuevos bloques a la cadena de bloques (blockchain)."
+        },
+        {
+          "term": "Reglamento MiCA",
+          "definition": "Primera regulación europea de mercados de Criptoactivos, que es directamente aplicable en España desde junio de 2024, en relación con las monedas estables\" y desde diciembre de 2024 para los demás criptoactivos y los servicios sobre criptoactivos y que afecta a todos los criptoactivos que no sean instrumentos financieros."
+        },
+        {
+          "term": "Resiliencia",
+          "definition": "Capacidad de una cadena de bloques para continuar funcionando ante fallos o problemas."
+        },
+        {
+          "term": "Solidity",
+          "definition": "Solidity es el lenguaje de programación que se utiliza para desarrollar aplicaciones y smart contracts sobre la red de Ethereum. Se trata de un lenguaje de programación, similar a JavaScript o C++."
+        },
+        {
+          "term": "Tecnología de Registro Distribuido",
+          "definition": "Tecnología que permite el funcionamiento de repositorios de información que mantienen registros de operaciones, se comparten entre diferentes nodos y están sincronizados entre sí, utilizando un mecanismo de consenso."
+        },
+        {
+          "term": "The Merge",
+          "definition": "The Merge o La Fusión es el proceso que permitió a Ethereum pasar de un protocolo de prueba de trabajo (PoW) basado en minería a uno de prueba de participación (PoS). El evento tuvo lugar el día 15 de septiembre de 2022."
+        },
+        {
+          "term": "Trazabilidad",
+          "definition": "Capacidad de una cadena de bloques para permitir el seguimiento de un producto."
+        },
+        {
+          "term": "Web 1.0",
+          "definition": "Conocida como la web estática, fue la primera versión de la World Wide Web. Se caracterizó por ser unidireccional, donde los usuarios podían acceder a información pero no interactuar con ella."
+        },
+        {
+          "term": "Web 2.0",
+          "definition": "La evolución de la Web 1.0 y se centra en la interacción social y el contenido generado por los usuarios, lo que permite una experiencia más dinámica y personalizada."
+        },
+        {
+          "term": "Web 3.0",
+          "definition": "Conocida como la web descentralizada es la próxima evolución de la Web. Se basa en tecnologías como blockchain, criptoactivos y smart contracts para ofrecer una experiencia de usuario más segura, privada y descentralizada."
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:42:55.668593+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 16849,
+    "input_tokens": 4205,
+    "output_tokens": 5593
+  }
+}

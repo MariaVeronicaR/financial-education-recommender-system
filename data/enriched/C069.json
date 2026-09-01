@@ -1,0 +1,57 @@
+{
+  "content_id": "C069",
+  "tldr": "Los fondos de inversión son instituciones de inversión colectiva: un patrimonio sin personalidad jurídica formado por las aportaciones de muchos partícipes, gestionado por una sociedad gestora y custodiado por una entidad depositaria. La unidad de inversión es la participación, cuyo precio es el valor liquidativo, y la rentabilidad se calcula por la variación de ese valor entre la suscripción y el reembolso. Implican riesgos (mercado, crédito, divisa, liquidez, etc.), aunque la diversificación ayuda a controlarlos, y existen múltiples tipos según su vocación inversora, incluidos los garantizados, que solo aseguran el capital bajo ciertas condiciones.",
+  "key_points": [
+    "Un fondo de inversión es un patrimonio sin personalidad jurídica formado por los capitales aportados por un colectivo de partícipes.",
+    "La sociedad gestora decide las inversiones y administra el fondo, mientras la entidad depositaria custodia los activos y controla a la gestora.",
+    "El valor liquidativo es el precio de cada participación: patrimonio total dividido entre el número de participaciones en circulación.",
+    "La rentabilidad se calcula como la variación porcentual del valor liquidativo entre la suscripción y el reembolso, y puede ser positiva o negativa.",
+    "Los fondos garantizados solo aseguran el capital (total o parcial) si se mantiene la inversión hasta el vencimiento de la garantía; reembolsar antes puede conllevar penalizaciones o pérdidas."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué papel desempeñan la sociedad gestora y la entidad depositaria en un fondo de inversión?",
+      "options": [
+        "La gestora custodia los valores y el depositario decide en qué activos invertir.",
+        "La gestora decide las inversiones y administra el fondo; el depositario custodia los activos y controla a la gestora.",
+        "Ambas gestionan por igual el patrimonio y reparten las plusvalías entre los partícipes cada año.",
+        "La gestora solo elabora el folleto y el depositario solo cobra las comisiones de suscripción."
+      ],
+      "correct_index": 1,
+      "explanation": "La sociedad gestora adopta las decisiones de inversión y administra el fondo, mientras que la entidad depositaria custodia el patrimonio y ejerce funciones de control sobre la gestora en beneficio de los partícipes.",
+      "concept_id": "C26"
+    },
+    {
+      "question": "El valor liquidativo de una participación de un fondo se calcula como:",
+      "options": [
+        "El patrimonio total del fondo dividido entre el número de participaciones en circulación.",
+        "La suma de todas las aportaciones de los partícipes menos las comisiones de gestión.",
+        "El precio de compra de cada participación más la rentabilidad acumulada del año.",
+        "El valor de mercado de los activos dividido entre el número de partícipes del fondo."
+      ],
+      "correct_index": 0,
+      "explanation": "El valor liquidativo se obtiene dividiendo el patrimonio total del fondo entre el número de participaciones en circulación en cada momento; su variación determina la rentabilidad del partícipe.",
+      "concept_id": "C26"
+    },
+    {
+      "question": "¿Cuál de las siguientes afirmaciones sobre los fondos garantizados es correcta?",
+      "options": [
+        "Garantizan la conservación del capital en cualquier momento en que el partícipe decida reembolsar.",
+        "Solo tienen derecho a la garantía los partícipes que mantienen su inversión hasta la fecha de vencimiento de la garantía.",
+        "Siempre aseguran una rentabilidad fija adicional al capital invertido.",
+        "Permiten reembolsar sin penalización en cualquier momento durante el plazo de garantía."
+      ],
+      "correct_index": 1,
+      "explanation": "La garantía solo se hace efectiva si el partícipe mantiene su inversión hasta el vencimiento de la garantía; reembolsar antes supone recibir el valor liquidativo de la fecha y, en general, pagar comisión de reembolso.",
+      "concept_id": "C13"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 12741,
+    "input_tokens": 9114,
+    "output_tokens": 1147
+  }
+}

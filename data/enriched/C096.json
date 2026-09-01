@@ -1,0 +1,57 @@
+{
+  "content_id": "C096",
+  "tldr": "El tipo de cambio es el precio de una moneda en términos de otra y fluctúa diariamente. Cuando viajas, estudias o compras en el extranjero, este valor determina cuánto poder de compra tienes: si el euro se aprecia, obtienes más dólares por cada euro, y si se deprecia, menos. Además, las entidades pueden aplicar comisiones por cambiar divisa, por lo que conviene comparar y planificar bien tus finanzas.",
+  "key_points": [
+    "El tipo de cambio es la relación de valor entre dos divisas y varía cada día.",
+    "Si el euro se aprecia frente al dólar, con un euro compras más dólares; si se deprecia, compras menos.",
+    "La cantidad que presupuestas en euros se convierte en más o menos dólares según fluctúe el tipo de cambio.",
+    "Retirar dinero, transferir o pagar con tarjeta en el extranjero puede implicar comisiones adicionales.",
+    "Cada entidad aplica su propio tipo de cambio y comisiones, por lo que conviene comparar antes de cambiar moneda."
+  ],
+  "quiz": [
+    {
+      "question": "Si el tipo de cambio del euro frente al dólar pasa de 1,05 $/€ a 1,15 $/€, ¿qué está ocurriendo?",
+      "options": [
+        "El euro se deprecia frente al dólar",
+        "El euro se aprecia frente al dólar",
+        "El dólar se aprecia frente al euro",
+        "El tipo de cambio se mantiene estable"
+      ],
+      "correct_index": 1,
+      "explanation": "Un tipo de cambio más alto significa que con cada euro obtienes más dólares, por lo que el euro gana valor (se aprecia) frente al dólar.",
+      "concept_id": "C17"
+    },
+    {
+      "question": "Tienes un presupuesto fijo de 1.000 € para un viaje a EE. UU. ¿Cómo afecta el tipo de cambio a tu dinero?",
+      "options": [
+        "Tu presupuesto en euros aumenta o disminuye según el tipo de cambio",
+        "La cantidad de dólares que obtienes cambia según la fluctuación del tipo de cambio",
+        "El tipo de cambio solo afecta a las transferencias, no a los pagos",
+        "Siempre obtendrás exactamente el mismo número de dólares por tus euros"
+      ],
+      "correct_index": 1,
+      "explanation": "Tu presupuesto en euros es fijo, pero la cantidad de dólares que consigues a cambio variará según el tipo de cambio vigente en cada momento.",
+      "concept_id": "C17"
+    },
+    {
+      "question": "¿Qué debes tener en cuenta además del tipo de cambio al pagar o retirar dinero en el extranjero?",
+      "options": [
+        "Que las entidades pueden aplicar comisiones por el cambio de divisa",
+        "Que el tipo de cambio es idéntico en todas las entidades",
+        "Que las comisiones solo se aplican en efectivo, nunca con tarjeta",
+        "Que el Banco Central Europeo fija un tipo fijo para todo el año"
+      ],
+      "correct_index": 0,
+      "explanation": "Al retirar dinero, transferir o pagar con tarjeta, las entidades pueden cobrar comisiones por el cambio de divisa, por lo que conviene comparar.",
+      "concept_id": "C18"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 4055,
+    "input_tokens": 1799,
+    "output_tokens": 868
+  }
+}

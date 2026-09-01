@@ -1,0 +1,92 @@
+{
+  "content_id": "C052",
+  "url": "https://www.finanzasparatodos.es/estos-son-los-principales-seguros-que-puedes-contratar",
+  "source": "CNMV",
+  "host": "www.finanzasparatodos.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 46642
+  },
+  "title": "Estos son los principales seguros que puedes contratar",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Estos son los principales seguros que puedes contratar"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Estos son los principales seguros que puedes contratar",
+      "start": 0,
+      "end": 4347,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Estos son los principales seguros que puedes contratar"
+    },
+    {
+      "type": "paragraph",
+      "text": "18/10/2024\nLos contratos de seguro son acuerdos en los que una compañía aseguradora se compromete a indemnizar a una persona o entidad (asegurado) frente a ciertos riesgos a cambio del pago de una prima. Existen varios tipos de contratos de seguro, dependiendo del tipo de riesgo que se cubra y de las necesidades del asegurado. Te contamos cuáles son los tipos más comunes.\nSeguro de vida. El seguro de vida es un contrato por el que, a cambio de la prima, la entidad aseguradora paga la prestación estipulada si fallece el asegurado (seguro de fallecimiento) o si vive en una fecha determinada (seguro de supervivencia). También se puede contratar un seguro mixto, en el que los beneficiarios reciben el pago de la prestación en caso de fallecimiento del asegurado, o bien al vencimiento del seguro si en esa fecha vive el asegurado.\nDecesos. Es un tipo de seguro en el que, a cambio de una prima, el asegurador se compromete a prestar al asegurado los servicios funerarios pactados, cuando el fallecimiento del asegurado suceda dentro del plazo cubierto en la póliza. Habitualmente son seguros anuales que se renuevan automáticamente y solo el tomador puede oponerse a la prórroga del contrato.\nMultirriesgo del hogar. Es el contrato de seguro con el que se cubren los daños causados al inmueble o a los bienes que contiene, derivados de una amplia variedad de riesgos, como un incendio, un robo, daños por agua, etc. Este tipo de contratos se ofrecen para hogares, comunidades de propietarios, comercios y empresas.\nAccidentes. Este seguro cubre la situación de invalidez temporal o permanente o muerte del asegurado cuando su origen sea un accidente, es decir la lesión corporal que deriva de una causa violenta, súbita, externa y ajena a la intencionalidad del asegurado. Puedes contratar un seguro exclusivamente de accidentes o que esta garantía se incluya en otros seguros, como el de vida, automóviles, etc.\nSeguros de salud. La aseguradora paga ciertas cantidades y/o gastos de asistencia sanitaria en caso de enfermedad del asegurado y dependiendo del tipo de contrato. Estos pueden ser de tres tipos: seguros de asistencia sanitaria de cuadro médico, de reembolso de gastos o de indemnización.\nAutomóviles. En el seguro que cubre la responsabilidad del conductor del vehículo por los daños que cause a las personas o en los bienes con motivo de la circulación y es de contratación obligatoria. También se pueden contratar otras garantías voluntarias como la rotura de lunas, el robo del vehículo, los daños propios del vehículo, etc. Cuando al seguro obligatorio se le incluye la garantía de daños del vehículo suele denominarse seguro a todo riesgo y, si no se incluye, seguro a terceros.\nResponsabilidad civil. Dentro de los límites establecidos en la ley y la póliza, el seguro de responsabilidad civil obliga al asegurador a cubrir los daños y perjuicios que su asegurado le cause a un tercero y de cuyas consecuencias sea civilmente responsable. Hay seguros de responsabilidad civil que son obligatorios, como el seguro obligatorio del automóvil.\nDefensa jurídica. Por el seguro de defensa jurídica, el asegurador se obliga, dentro de los límites pactados, a hacerse cargo de los gastos en que puedas incurrir como asegurado como consecuencia de tu intervención en un procedimiento administrativo, judicial o arbitral, y a prestarte los servicios de asistencia jurídica judicial y extrajudicial derivados de la cobertura del seguro.\nSeguros de asistencia de viajes. Este tipo de seguros pueden incluir coberturas muy diversas: asistencia médica; traslado y repatriación del asegurado accidentado, enfermo o fallecido; anulación del viaje; demoras del medio de transporte contratado; pérdidas de equipaje y robos, etc.\nSeguros de protección de pagos. Son seguros que garantizan que el asegurador abonará una indemnización si el asegurado se encuentra en una situación de incapacidad temporal o de desempleo, para que pueda hacer frente a las cuotas de un préstamo. Se pueden comercializar de forma independiente o como una cobertura adicional de otro seguro vinculado a un préstamo.\nTienes más información en la web de la Dirección General de Seguros y Fondos de Pensiones, dependiente del Ministerio de Economía, Comercio y Empresa.\nCategorías",
+      "links": [
+        {
+          "text": "más información",
+          "href": "https://dgsfp.mineco.gob.es/es/gaspar/Paginas/default.aspx?nombreModulo=guiacontratacionGuiaSeguros_gr=Principales%20tipos%20de%20contrato%20de%20seguro",
+          "start": 4107,
+          "end": 4122
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Seguros y jubilación",
+        "Hogar"
+      ]
+    }
+  ],
+  "text": "Estos son los principales seguros que puedes contratar\n18/10/2024\nLos contratos de seguro son acuerdos en los que una compañía aseguradora se compromete a indemnizar a una persona o entidad (asegurado) frente a ciertos riesgos a cambio del pago de una prima. Existen varios tipos de contratos de seguro, dependiendo del tipo de riesgo que se cubra y de las necesidades del asegurado. Te contamos cuáles son los tipos más comunes.\nSeguro de vida. El seguro de vida es un contrato por el que, a cambio de la prima, la entidad aseguradora paga la prestación estipulada si fallece el asegurado (seguro de fallecimiento) o si vive en una fecha determinada (seguro de supervivencia). También se puede contratar un seguro mixto, en el que los beneficiarios reciben el pago de la prestación en caso de fallecimiento del asegurado, o bien al vencimiento del seguro si en esa fecha vive el asegurado.\nDecesos. Es un tipo de seguro en el que, a cambio de una prima, el asegurador se compromete a prestar al asegurado los servicios funerarios pactados, cuando el fallecimiento del asegurado suceda dentro del plazo cubierto en la póliza. Habitualmente son seguros anuales que se renuevan automáticamente y solo el tomador puede oponerse a la prórroga del contrato.\nMultirriesgo del hogar. Es el contrato de seguro con el que se cubren los daños causados al inmueble o a los bienes que contiene, derivados de una amplia variedad de riesgos, como un incendio, un robo, daños por agua, etc. Este tipo de contratos se ofrecen para hogares, comunidades de propietarios, comercios y empresas.\nAccidentes. Este seguro cubre la situación de invalidez temporal o permanente o muerte del asegurado cuando su origen sea un accidente, es decir la lesión corporal que deriva de una causa violenta, súbita, externa y ajena a la intencionalidad del asegurado. Puedes contratar un seguro exclusivamente de accidentes o que esta garantía se incluya en otros seguros, como el de vida, automóviles, etc.\nSeguros de salud. La aseguradora paga ciertas cantidades y/o gastos de asistencia sanitaria en caso de enfermedad del asegurado y dependiendo del tipo de contrato. Estos pueden ser de tres tipos: seguros de asistencia sanitaria de cuadro médico, de reembolso de gastos o de indemnización.\nAutomóviles. En el seguro que cubre la responsabilidad del conductor del vehículo por los daños que cause a las personas o en los bienes con motivo de la circulación y es de contratación obligatoria. También se pueden contratar otras garantías voluntarias como la rotura de lunas, el robo del vehículo, los daños propios del vehículo, etc. Cuando al seguro obligatorio se le incluye la garantía de daños del vehículo suele denominarse seguro a todo riesgo y, si no se incluye, seguro a terceros.\nResponsabilidad civil. Dentro de los límites establecidos en la ley y la póliza, el seguro de responsabilidad civil obliga al asegurador a cubrir los daños y perjuicios que su asegurado le cause a un tercero y de cuyas consecuencias sea civilmente responsable. Hay seguros de responsabilidad civil que son obligatorios, como el seguro obligatorio del automóvil.\nDefensa jurídica. Por el seguro de defensa jurídica, el asegurador se obliga, dentro de los límites pactados, a hacerse cargo de los gastos en que puedas incurrir como asegurado como consecuencia de tu intervención en un procedimiento administrativo, judicial o arbitral, y a prestarte los servicios de asistencia jurídica judicial y extrajudicial derivados de la cobertura del seguro.\nSeguros de asistencia de viajes. Este tipo de seguros pueden incluir coberturas muy diversas: asistencia médica; traslado y repatriación del asegurado accidentado, enfermo o fallecido; anulación del viaje; demoras del medio de transporte contratado; pérdidas de equipaje y robos, etc.\nSeguros de protección de pagos. Son seguros que garantizan que el asegurador abonará una indemnización si el asegurado se encuentra en una situación de incapacidad temporal o de desempleo, para que pueda hacer frente a las cuotas de un préstamo. Se pueden comercializar de forma independiente o como una cobertura adicional de otro seguro vinculado a un préstamo.\nTienes más información en la web de la Dirección General de Seguros y Fondos de Pensiones, dependiente del Ministerio de Economía, Comercio y Empresa.\nCategorías\n- Seguros y jubilación\n- Hogar",
+  "text_len": 4347,
+  "num_headings": 1,
+  "metadata": {
+    "title": "Estos son los principales seguros que puedes contratar",
+    "url": "https://www.finanzasparatodos.es/estos-son-los-principales-seguros-que-puedes-contratar",
+    "hostname": "finanzasparatodos.es",
+    "description": "Estos son los principales seguros que puedes contratar",
+    "sitename": "finanzasparatodos.es",
+    "date": "2024-10-18",
+    "tags": [
+      "Estos son los principales seguros que puedes contratar"
+    ],
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Seguros: tipos y coberturas principales",
+    "topic": "riesgo",
+    "subtopic": "seguros",
+    "difficulty": "intermedio",
+    "format": "artículo web",
+    "summary": "Qué cubren los principales tipos de seguros (hogar, vida, coche, salud)",
+    "learning_objective": "Elegir el seguro adecuado a cada necesidad"
+  },
+  "deduped_from": null
+}

@@ -1,0 +1,72 @@
+{
+  "content_id": "C033",
+  "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/podemosayudarte/simuladores/calculo_tipo_interes_efectivo.html",
+  "source": "Portal Cliente Bancario BdE",
+  "host": "clientebancario.bde.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 28754
+  },
+  "title": "Cálculo del tipo de interés efectivo",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Cálculo del tipo de interés efectivo"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Cálculo del tipo de interés efectivo",
+      "start": 0,
+      "end": 328,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cálculo del tipo de interés efectivo"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Quieres calcular el tipo efectivo a partir del tipo nominal y viceversa?\nCuando el periodo de tiempo de cálculo y el de liquidación de intereses coincide, se utiliza el tipo de interés nominal y cuando no el tipo de interés efectivo. Con este simulador puedes obtener uno a partir del otro."
+    }
+  ],
+  "text": "Cálculo del tipo de interés efectivo\n¿Quieres calcular el tipo efectivo a partir del tipo nominal y viceversa?\nCuando el periodo de tiempo de cálculo y el de liquidación de intereses coincide, se utiliza el tipo de interés nominal y cuando no el tipo de interés efectivo. Con este simulador puedes obtener uno a partir del otro.",
+  "text_len": 328,
+  "num_headings": 1,
+  "metadata": {
+    "title": "Cálculo del tipo de interés efectivo",
+    "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/podemosayudarte/simuladores/calculo_tipo_interes_efectivo.html",
+    "hostname": "clientebancario.bde.es",
+    "description": "Cálculo del tipo de interés efectivo",
+    "sitename": "clientebancario.bde.es",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": true,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Tipo de interés efectivo de una operación",
+    "topic": "interés",
+    "subtopic": "cálculo financiero",
+    "difficulty": "intermedio",
+    "format": "simulador",
+    "summary": "Calcula el tipo de interés efectivo de una operación",
+    "learning_objective": "Entender la diferencia entre tipo nominal y efectivo"
+  },
+  "deduped_from": null
+}

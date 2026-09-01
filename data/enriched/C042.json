@@ -1,0 +1,57 @@
+{
+  "content_id": "C042",
+  "tldr": "La CNMV ofrece un decálogo para detectar 'chiringuitos financieros', entidades no autorizadas que intentan engañar a los inversores. Las señales de alerta incluyen la presión para decidir de inmediato, los esquemas piramidales, el uso indebido del logo de la CNMV y las ofertas no solicitadas por redes sociales. Los intermediarios legítimos siempre evalúan tu perfil de inversor, y ante cualquier sospecha o pérdida de dinero conviene denunciar ante la CNMV y las autoridades.",
+  "key_points": [
+    "Verifica siempre que la entidad esté autorizada y consulta las advertencias de la CNMV y otros supervisores.",
+    "Desconfía de la presión psicológica para decidir de inmediato, los esquemas piramidales y el uso del logo de la CNMV para dar credibilidad.",
+    "Mantente alerta ante ofertas no solicitadas por internet y redes sociales, y contrasta que los productos y sus cotizaciones existan realmente.",
+    "Los intermediarios autorizados deben evaluar tu perfil (conveniencia e idoneidad) mediante un cuestionario; si no lo hacen, sospecha.",
+    "Si no recuperas tu dinero, deja de aportar y denuncia el fraude ante la CNMV, la Policía, la Guardia Civil o el Juzgado."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cuál de las siguientes es una señal de alerta típica de un chiringuito financiero?",
+      "options": [
+        "Que te pidan completar un cuestionario sobre tu experiencia y objetivos de inversión",
+        "Que te presionen para tomar una decisión de inversión de forma inmediata",
+        "Que te informen por escrito de todas las características del producto",
+        "Que verifiquen que la entidad está autorizada por la CNMV"
+      ],
+      "correct_index": 1,
+      "explanation": "La presión psicológica para que decidas de inmediato es una táctica clásica de los chiringuitos; los intermediarios legítimos te dan tiempo y toda la información por escrito.",
+      "concept_id": "C15"
+    },
+    {
+      "question": "¿Por qué deberías desconfiar de una entidad que te ofrece una inversión sin pedirte ningún dato sobre tu perfil?",
+      "options": [
+        "Porque sin tus datos no pueden calcular la rentabilidad exacta",
+        "Porque los intermediarios autorizados deben evaluar la conveniencia e idoneidad del producto para ti",
+        "Porque la CNMV exige que compartas tus datos con terceros",
+        "Porque necesitan tu perfil para poder cobrarte comisiones más altas"
+      ],
+      "correct_index": 1,
+      "explanation": "Los intermediarios autorizados están obligados a evaluar tu experiencia, conocimientos, situación financiera y objetivos mediante un cuestionario; si no lo hacen, es una señal de fraude.",
+      "concept_id": "C15"
+    },
+    {
+      "question": "Según el decálogo de la CNMV, ¿qué debes hacer si no logras recuperar tu dinero de una inversión sospechosa?",
+      "options": [
+        "Seguir aportando más dinero para recuperar lo invertido",
+        "Esperar en silencio a que la entidad devuelva el dinero",
+        "Dejar de realizar aportaciones y denunciar el fraude ante la CNMV y las autoridades",
+        "Reclamar únicamente a través de las redes sociales"
+      ],
+      "correct_index": 2,
+      "explanation": "Si no recuperas tu dinero, no continúes aportando y pon el caso en conocimiento de la CNMV, además de denunciarlo en la Policía, Guardia Civil o Juzgado.",
+      "concept_id": "C15"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5419,
+    "input_tokens": 2081,
+    "output_tokens": 1183
+  }
+}

@@ -1,0 +1,157 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><tittle>
+<link href="css/estilo.css" rel="stylesheet" type="text/css" />
+CNMV-El momento de decidir</tittle>
+<meta content="es" name="language"/>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"/>
+<meta content="Búsqueda Activa de Empleo,tutorial,curso" name="keywords"/>
+<link href="css/estilo.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+
+function mostrar(v1) {
+	var e = document.getElementById(v1);
+	e.className = 'txt_visible';
+}
+
+</script>
+</head>
+<body>
+<div class="contenedor_gral">
+  <div id="header"></div>
+  <div id="title" ><H1 class="titulo" tabindex="1">CNMV: Curso de decisiones de inversión</H1></div>
+  <div id="navigation" ><a title="Ir a Página Anterior" href="020101.htm" class="nav_back" tabindex="2">p&aacute;gina 
+    anterior</a> - <a title="Ir a Página Siguiente" href="020103.htm" class="nav_fordward" tabindex="3">p&aacute;gina 
+    siguiente&nbsp;</a></div>
+
+  <div id='menu_navigation'>
+	<ul id="navi">
+		<li><a title="Ir a Introducción" href="0001.htm">Introducci&oacute;n</a></li>
+		<li><a title="Ir a Objetivos" href="0101.htm">Objetivos</a></li>
+		<li>Las decisiones de inversión paso a paso</li>
+		
+      <li><a  href="020001.htm" title="Ir a Paso 1: Antes de invertir (1)" class="contenedor_gral_p">Paso 
+        1: Antes de invertir (1)</a></li>
+		
+      <li ><a title="Ir a Paso 1: Antes de invertir (2)"  href="020002.htm" class="contenedor_gral_p">Paso 
+        1: Antes de invertir (2)</a></li>
+		
+      <li><a  href="020003.htm" title="Ir a Paso 1: Antes de invertir (3)" class="contenedor_gral_p">Paso 
+        1: Antes de invertir (3)</a></li>
+		
+      <li><a  href="020004.htm" title="Ir a Paso 1: Antes de invertir (4)" class="contenedor_gral_p">Paso 
+        1: Antes de invertir (4)</a></li>
+		
+      <li><a  href="020005.htm" title="Ir a Paso 1: Antes de invertir (5)" class="contenedor_gral_p">Paso 
+        1: Antes de invertir (5)</a></li>
+		
+      <li><a  href="020006.htm" title="Ir a Paso 1: Antes de invertir (6)" class="contenedor_gral_p">Paso 
+        1: Antes de invertir (6)</a></li>
+		
+      <li class="active"><a  href="020101.htm" title="Ir a Paso 2: El momento de decidir (1)" class="contenedor_gral_p">Paso 
+        2: El momento de decidir (1)</a></li>
+		
+      <li><a title="Ir a Paso 2: El momento de decidir (2)"  href="020102.htm" class="contenedor_gral_p">Paso 
+        2: El momento de decidir (2)</a></li>
+		
+      <li><a  href="020103.htm" title="Ir a Paso 2: El momento de decidir (3)" class="contenedor_gral_p">Paso 
+        2: El momento de decidir (3)</a></li>
+		
+      <li><a  href="020104.htm" title="Ir a Paso 2: El momento de decidir (4)" class="contenedor_gral_p">Paso 
+        2: El momento de decidir (4)</a></li>
+		
+      <li><a  href="020201.htm" title="Ir a Paso 3: Cómo vigilar sus inversiones" class="contenedor_gral_p">Paso 
+        3: Cómo vigilar sus inversiones</a></li>
+		
+      <li><a title="Ir a Consejos para recordar"  href="020301.htm" class="contenedor_gral_p"A>Consejos 
+        para recordar</a></li>
+		
+      <li><a  href="020401.htm" title="Ir a Oficina de Atención al Inversor" class="contenedor_gral_p">Oficina 
+        de Atención al Inversor</a></li>
+		<li><a title="Ir a Conozca su perfil inversor"  href="0301.htm">Conozca su perfil inversor</a></li>
+		<li><a title="Ir a Cómo se relacionan rentabilidad y riesgo"  href="0401.htm">Cómo se relacionan rentabilidad y riesgo</a></li>
+		<li><a title="Ir a Panorámica de los productos de inversión"  href="0501.htm">Panorámica de los productos de inversión</a></li>
+		<li><a title="Ir a Resumen" href="0601.htm">Resumen</a></li>
+		<li><a title="Ir a Compruebe sus conocimientos" href="0701.htm">Compruebe sus conocimientos</a></li>
+		<li><a title="Ir a Fin de módulo" href="0801.htm">Fin de módulo</a></li>
+	</ul>
+   </div>
+
+    
+  <div id="content"> 
+    <table width="60%"  border="0" cellspacing="0" cellpadding="0">
+      <tr> 
+        <td><h2 tabindex="4" >El momento de decidir (2)</h2>
+          <p tabindex="5"  class="align-izda"><strong>La importancia de diversificar </strong></p>
+          <blockquote> 
+            <p tabindex="6"  class="align-izda">Al dise&ntilde;ar su cartera (conjunto de las 
+              inversiones realizadas por una persona), recuerde que el conjunto 
+              de sus inversiones debe permitirle disponer del capital a medida 
+              que lo necesite. Es decir, conviene mantener una <strong>perspectiva 
+              global de sus inversiones</strong>. </p>
+            <p  tabindex="7"  class="align-izda">Esto nos lleva a matizar la anterior definici&oacute;n 
+              de <strong>horizonte temporal</strong>: no s&oacute;lo debe tenerse 
+              en cuenta el de cada producto individual, sino el de la cartera 
+              en su conjunto. <br />
+            </p>
+            <p  tabindex="8" class="align-izda">Puesto que usted tiene necesidades y objetivos 
+              que cubrir a distintos plazos, una <strong>cartera equilibrada</strong> 
+              contendr&aacute; instrumentos con diferentes caracter&iacute;sticas 
+              y nivel de riesgo. </p>
+            <p  tabindex="9" class="align-izda">Por ejemplo, si desea comprar un veh&iacute;culo 
+              dentro de tres meses (corto plazo), reformar la vivienda dentro 
+              de dos a&ntilde;os (medio plazo) o acumular un capital para su jubilaci&oacute;n 
+              dentro de veinte a&ntilde;os (largo plazo), su cartera deber&aacute; 
+              incluir aquellos activos que le permitan ir atendiendo cada uno 
+              de estos prop&oacute;sitos.</p>
+            <p  tabindex="10" class="align-izda"> Recuerde que cuanto m&aacute;s lejano o menos 
+              importante sea un objetivo, mayor ser&aacute; el nivel de riesgo 
+              que podr&aacute; permitirse en las inversiones destinadas a cubrirlo: 
+              no es lo mismo invertir para comprar la primera vivienda dentro 
+              de dos a&ntilde;os que hacerlo para realizar un viaje de placer 
+              despu&eacute;s de la jubilaci&oacute;n.</p>
+            <p  tabindex="11" class="align-izda">La combinaci&oacute;n de distintos tipos de 
+              activos con caracter&iacute;sticas y comportamientos diferentes 
+              conduce a un concepto fundamental para cualquier inversor: la <strong><em>diversificaci&oacute;n</em></strong>. 
+              La capacidad de diversificar podr&aacute; estar limitada por los 
+              recursos disponibles para invertir, pero es necesario tenerla en 
+              cuenta. Como avisa la sabidur&iacute;a popular,<strong><em> &ldquo;no 
+              conviene poner todos los huevos en la misma cesta&rdquo;</em></strong>.<br />
+            </p>
+            <p  tabindex="12" class="align-izda">La <strong>diversificaci&oacute;n</strong> 
+              <strong>ayuda a controlar el riesgo que se asume al invertir</strong>. 
+              Al invertir en varios productos (es decir, al diversificar) se puede 
+              conseguir una combinaci&oacute;n que, con un riesgo menor, ofrezca 
+              la posibilidad de lograr la misma rentabilidad que ofrezca un &uacute;nico 
+              producto. </p>
+            <p  tabindex="13" class="align-izda">Ejemplo de diversificaci&oacute;n: Suponga 
+              que invierte 10.000 &euro; en la compra de t&iacute;tulos de una 
+              compa&ntilde;&iacute;a que cotiza en bolsa. Si la compa&ntilde;&iacute;a 
+              quiebra, es probable que pierda toda su inversi&oacute;n. </p>
+            <p tabindex="14" class="align-izda">Sin embargo, si invierte esa misma cantidad 
+              a partes iguales en 100 compa&ntilde;&iacute;as diferentes, el hecho 
+              de que una de ellas quebrara no tendr&iacute;a un efecto demasiado 
+              significativo en el total de la inversi&oacute;n. Ha asumido un 
+              riesgo menor, al reducir el impacto de las p&eacute;rdidas individuales 
+              de cada activo.</p>
+            <p tabindex="15"  class="align-izda"><strong>Mediante la <em>diversificaci&oacute;n</em> 
+              se reduce el riesgo que se asume al invertir. </strong><br />
+            </p>
+            <p  class="align-izda"></p>
+            <p  class="centrar"><img tabindex="16" src="imagenes/020102.jpg" alt="Imagen de un mu&ntilde;eco tomando la decisi&oacute;n de tomar diferentes caminos." width="369" height="246" /></p>
+          </blockquote>
+          
+          </td>
+      </tr>
+    </table>
+    
+        </div>
+    
+  <div id="footer"><img src="imagenes/pie.jpg" alt="Imagen de pie de p&amp;aacute;gina: muestra los est&amp;aacute;ndares de accesibilidad que cumple la p&amp;aacute;gina web" width="1000" height="106" border="0" usemap="#Map2" class="borde0"> 
+    <map name="Map2" id="Map2">
+      <area shape="rect" coords="348,59,446,81" href="http://jigsaw.w3.org/css-validator/" target="_blank" alt="CSS v&aacute;lidas y revisadas con el revisor de CSS del W3C" />
+      <area shape="rect" coords="445,59,543,81" href="http://www.w3.org/WAI/WCAG1AA-Conformance" target="_blank" alt="Conforma el nivel Doble A de accesibilidad de acuerdo con las Directrices de Accesibilidad para el Contenido Web 1.0" />
+      <area shape="rect" coords="542,59,640,81" href="http://www.tawdis.net/" target="_blank" alt="Revisor autom&aacute;tico de la accesibilidad" />
+    </map>
+  </div>
+  </div></div></body></html>

@@ -1,0 +1,57 @@
+{
+  "content_id": "C023",
+  "tldr": "La hipoteca es un préstamo que nos permite disponer de una gran cantidad de dinero, normalmente para comprar o rehabilitar una vivienda, y es una decisión financiera muy importante. Al contratarla conviene comparar ofertas y valorar nuestra capacidad de pago a largo plazo, ya que es un producto de larga duración cuyas condiciones pueden cambiar. Además, existen hipotecas especiales adaptadas a colectivos como jóvenes o mayores de 65 años.",
+  "key_points": [
+    "La hipoteca es un préstamo que suele destinarse a comprar o rehabilitar una vivienda.",
+    "Antes de contratar una hipoteca hay que comparar ofertas y analizar nuestra capacidad de afrontar los pagos a largo plazo.",
+    "Al ser un producto de larga duración, sus condiciones financieras y las normas que la regulan pueden cambiar durante su vida.",
+    "Durante la vida de la hipoteca pueden surgir situaciones que conviene conocer hasta su vencimiento.",
+    "Existen hipotecas especiales adaptadas a perfiles como jóvenes o personas mayores de 65 años."
+  ],
+  "quiz": [
+    {
+      "question": "¿Para qué se utiliza habitualmente un préstamo hipotecario?",
+      "options": [
+        "Para comprar o rehabilitar una vivienda",
+        "Para financiar unas vacaciones",
+        "Para pagar gastos diarios de consumo",
+        "Para invertir en criptomonedas"
+      ],
+      "correct_index": 0,
+      "explanation": "El texto indica que la hipoteca permite disponer de una importante cantidad de dinero, habitualmente para comprar una vivienda o rehabilitarla.",
+      "concept_id": "C11"
+    },
+    {
+      "question": "¿Qué debe hacer alguien interesado en contratar una hipoteca antes de firmar?",
+      "options": [
+        "Firmar la primera oferta que reciba sin más trámites",
+        "Comparar la oferta con otras del mercado y valorar su capacidad de pago a largo plazo",
+        "Aceptar siempre la cuota mensual más baja sin revisar el resto",
+        "Contratar sin analizar las condiciones porque son todas iguales"
+      ],
+      "correct_index": 1,
+      "explanation": "El contenido recomienda analizar la oferta, compararla con otras del mercado y sopesar las necesidades y posibilidades de afrontar los pagos durante un periodo largo de tiempo.",
+      "concept_id": "C11"
+    },
+    {
+      "question": "¿Por qué se considera que una hipoteca es un producto de larga duración en cuanto a sus condiciones?",
+      "options": [
+        "Porque sus condiciones y las normas que la regulan pueden cambiar mientras está viva",
+        "Porque el tipo de interés nunca puede modificarse",
+        "Porque una vez firmada no se puede modificar de ninguna forma",
+        "Porque solo puede durar un máximo de un año"
+      ],
+      "correct_index": 0,
+      "explanation": "El texto señala que, al ser un producto de larga duración, las condiciones financieras e incluso las normas que la regulan pueden cambiar durante el tiempo que la hipoteca esté viva.",
+      "concept_id": "C11"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 6249,
+    "input_tokens": 1603,
+    "output_tokens": 844
+  }
+}

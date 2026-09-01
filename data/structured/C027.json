@@ -1,0 +1,63 @@
+{
+  "content_id": "C027",
+  "title": "Tabla de los tipos de referencia oficiales del mercado hipotecario",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Tabla de los tipos de referencia oficiales del mercado hipotecario"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pinchando en cada valor se accede al BOE en que fue publicado",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Tipos oficiales de referencia del mercado hipotecario (Año 2026)",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Tipo medio de los préstamos hipotecarios a más de 3 años para adquisición de vivienda libre (del conjunto de entidades de crédito)",
+        "Tipo de rendimiento interno en el mercado secundario (de la Deuda Pública de plazo entre 2 y 6 años)",
+        "Tipo interbancario (Míbor a un año)",
+        "Euríbor (a 1 semana, 1 mes, 3 meses, 6 meses y 1 año)",
+        "Tipo medio de los préstamos hipotecarios (entidades de crédito de la zona euro)",
+        "Permuta de intereses / Interest rate swap (IRS a 5 años)",
+        "Euro short-term rate (€STR) (a 1 semana, 1 mes, 3 meses, 6 meses y 1 año)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ene: Tipo medio préstamos hipotecarios 2,762; Tipo rendimiento interno 2,403; Míbor 2,245; Euríbor 1 semana 1,895, 1 mes 1,961, 3 meses 2,028, 6 meses 2,137, 1 año 2,245; Tipo medio zona euro 3,370; IRS 5 años 2,540; €STR 1 semana 1,934, 1 mes 1,933, 3 meses 1,934, 6 meses 1,937, 1 año 2,125",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Feb: Tipo medio préstamos hipotecarios 2,819; Tipo rendimiento interno 2,397; Míbor 2,221; Euríbor 1 semana 1,890, 1 mes 1,952, 3 meses 2,011, 6 meses 2,144, 1 año 2,221; Tipo medio zona euro 3,370; IRS 5 años 2,458; €STR 1 semana 1,933, 1 mes 1,932, 3 meses 1,935, 6 meses 1,938, 1 año 2,063",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Mar: Tipo medio préstamos hipotecarios 2,840; Tipo rendimiento interno 2,488; Míbor 2,565; Euríbor 1 semana 1,900, 1 mes 1,933, 3 meses 2,109, 6 meses 2,322, 1 año 2,565; Tipo medio zona euro 3,370; IRS 5 años 2,741; €STR 1 semana 1,931, 1 mes 1,933, 3 meses 1,936, 6 meses 1,939, 1 año 2,011",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Abr: Tipo medio préstamos hipotecarios 2,882; Tipo rendimiento interno 2,722; Míbor 2,747; Euríbor 1 semana 1,907, 1 mes 1,971, 3 meses 2,175, 6 meses 2,454, 1 año 2,747; Tipo medio zona euro 3,360; IRS 5 años 2,842; €STR 1 semana 1,933, 1 mes 1,933, 3 meses 1,936, 6 meses 1,940, 1 año 1,975",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:13:05.914743+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 45605,
+    "input_tokens": 6386,
+    "output_tokens": 16000
+  }
+}

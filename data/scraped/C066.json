@@ -1,0 +1,597 @@
+{
+  "content_id": "C066",
+  "url": "https://www.cnmv.es/DocPortal/Publicaciones/Guias/FinfluencersActuarConResponsabilidad.pdf",
+  "source": "CNMV",
+  "host": "www.cnmv.es",
+  "url_type": "pdf",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 629609
+  },
+  "title": "Finfluencers: cómo actuar con responsabilidad",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Finfluencers:"
+    },
+    {
+      "level": 1,
+      "text": "cómo actuar con"
+    },
+    {
+      "level": 1,
+      "text": "responsabilidad"
+    },
+    {
+      "level": 1,
+      "text": "II. ¿Qué es una"
+    },
+    {
+      "level": 1,
+      "text": "recomendación"
+    },
+    {
+      "level": 1,
+      "text": "de inversión?"
+    },
+    {
+      "level": 1,
+      "text": "III. ¿Qué normativa"
+    },
+    {
+      "level": 1,
+      "text": "IV. ¿Quién puede elaborar"
+    },
+    {
+      "level": 1,
+      "text": "recomendaciones de"
+    },
+    {
+      "level": 1,
+      "text": "V. Abuso de mercado"
+    },
+    {
+      "level": 1,
+      "text": "¿Cuáles son los riesgos?"
+    },
+    {
+      "level": 1,
+      "text": "VI. Asesoramiento en"
+    },
+    {
+      "level": 1,
+      "text": "materia de inversión"
+    },
+    {
+      "level": 1,
+      "text": "VII. Promoción de"
+    },
+    {
+      "level": 1,
+      "text": "productos o servicios"
+    },
+    {
+      "level": 1,
+      "text": "VIII. Criptoactivos"
+    },
+    {
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "level": 1,
+      "text": "información?"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Finfluencers:",
+      "start": 0,
+      "end": 13,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "cómo actuar con",
+      "start": 13,
+      "end": 30,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "responsabilidad",
+      "start": 30,
+      "end": 1762,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "II. ¿Qué es una",
+      "start": 1762,
+      "end": 1808,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "recomendación",
+      "start": 1808,
+      "end": 1823,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "de inversión?",
+      "start": 1823,
+      "end": 3923,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "III. ¿Qué normativa",
+      "start": 3923,
+      "end": 5898,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "IV. ¿Quién puede elaborar",
+      "start": 5898,
+      "end": 5943,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "recomendaciones de",
+      "start": 5943,
+      "end": 11682,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "V. Abuso de mercado",
+      "start": 11682,
+      "end": 11781,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "¿Cuáles son los riesgos?",
+      "start": 11781,
+      "end": 14798,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VI. Asesoramiento en",
+      "start": 14798,
+      "end": 14855,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "materia de inversión",
+      "start": 14855,
+      "end": 16022,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VII. Promoción de",
+      "start": 16022,
+      "end": 16057,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "productos o servicios",
+      "start": 16057,
+      "end": 17163,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VIII. Criptoactivos",
+      "start": 17163,
+      "end": 18272,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "¿Necesitas más",
+      "start": 18272,
+      "end": 18299,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "información?",
+      "start": 18299,
+      "end": 18324,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Finfluencers: cómo actuar con responsabilidad"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Finfluencers:"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "cómo actuar con"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "responsabilidad"
+    },
+    {
+      "type": "paragraph",
+      "text": "Guía"
+    },
+    {
+      "type": "paragraph",
+      "text": "Finfluencers: cómo actuar con responsabilidad\nÍndice\nResumen\n¿Qué es una recomendación\nde inversión?\n¿Qué normativa aplica?\n¿Quién puede elaborar\nrecomendaciones de inversión?\nAbuso de mercado\n¿Cuáles son los riesgos?\nAsesoramiento en materia\nde inversión\nPromoción de productos\no servicios financieros\nCriptoactivos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Finfluencers: cómo actuar con responsabilidad\nFinfluencers:\ncómo actuar con\nresponsabilidad\nI. Resumen\nInternet ha facilitado el acceso de los inversores a los mercados financieros.\nLas redes sociales son plataformas en las que estos inversores difunden,\ncomparten y discuten contenidos sobre los mercados y sus estrategias de\ninversión.\nEn algunos casos, esa información puede constituir una recomendación de\ninversión y está sujeta a unas normas que tienen un doble objetivo:\nPresentación de las recomendaciones de una manera\nobjetiva, clara y precisa sin inducir a error al público en\ngeneral.\nRevelación de intereses o conflictos de intereses, para\nque puedan ser valorados por los destinatarios de la\nrecomendación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finfluencers: cómo actuar con responsabilidad\nNo debe confundirse una recomendación de inversión con la prestación\nde un servicio de asesoramiento de inversión con carácter personalizado.\nEste servicio solamente puede ser prestado por las entidades o personas\nautorizadas para este fin.\nPor otra parte, antes de promocionar productos, plataformas o aplicaciones\nde inversión debe verificase siempre previamente si la empresa o plataforma\nestá autorizada.\nAdemás, la información transmitida sobre los productos o servicios\nfinancieros debe ser verdadera, justa, clara y no engañosa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finfluencers: cómo actuar con responsabilidad"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. ¿Qué es una"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "recomendación"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "de inversión?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Reglamento europeo sobre el abuso de mercado define como\nrecomendación de inversión toda información destinada a canales de\ndistribución o al público en la que se sugiera una estrategia de inversión,\nde forma explícita o implícita, en relación con uno o varios instrumentos\nfinancieros o con los emisores. También constituye una recomendación de\ninversión una opinión sobre el valor o precio actual o futuro de un instrumento\nfinanciero.\nPor tanto, cualquier vídeo, ‘post’ u otro tipo de comunicación pública,\nincluidas las que se difunden en redes sociales, en la que una persona da\nconsejos o ideas, directa o indirectamente, sobre la compra o venta de un\ninstrumento financiero o sobre cómo crear una cartera de instrumentos\nfinancieros, puede constituir una recomendación de inversión. También,\ncualquier mensaje público que contenga una opinión sobre el precio futuro\nde un instrumento financiero. Es preciso analizar individualmente cada\ncomunicación para determinar si puede ser calificada como recomendación\nde inversión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finfluencers: cómo actuar con responsabilidad\nDebes tener cuidado cuando compartes contenido\nen redes sociales sobre el valor o el precio de un\ninstrumento financiero o si recomiendas una estrategia\nde inversión. Podrías estar emitiendo una recomendación\nde inversión.\nRecuerda: aunque estés utilizando un lenguaje sencillo,\nno técnico, esto no significa que no estés publicando\nuna recomendación de inversión.\nSi publicas una comunicación con fines educativos\n(por ejemplo, para ilustrar teorías económicas o\nestrategias de valoración), es aconsejable utilizar datos\nhistóricos y ejemplos del pasado para evitar que los\ninversores basen sus decisiones de inversión en dicha\ninformación.\nAsegúrate de que evitas recomendar una estrategia de\ninversión o expresar valoraciones sobre el precio o valor\npresente o futuro de un instrumento financiero o de\nun emisor, si no quieres tener que estar pendiente de\ncumplir con los requisitos que la legislación exige a los\nque publican recomendaciones de inversión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finfluencers: cómo actuar con responsabilidad"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "III. ¿Qué normativa"
+    },
+    {
+      "type": "paragraph",
+      "text": "aplica?\nLa normativa sobre el abuso de mercado1 establece un conjunto de requisitos\npara la correcta presentación de recomendaciones de inversión. Su objetivo\nes mejorar la integridad del mercado y la protección de los inversores\nmediante:\n¥ La presentación objetiva de las recomendaciones de inversión y la difusión\nadecuada de los posibles conflictos de intereses.\n¥ La prohibición de cualquier actividad que pudiera constituir abuso\nde mercado, es decir, manipulación de mercado, uso de información\nprivilegiada y comunicación ilícita de información privilegiada.\nCon ello se persigue que los inversores, antes de tomar una decisión de\ninversión basada en opiniones de ‘influencers’, puedan conocer y evaluar:\n¥ La credibilidad de la recomendación y su grado de objetividad.\n¥ Cualquier interés de quien realiza la recomendación sobre el instrumento\nfinanciero o el emisor al que se refiere la opinión.\nCuando publiques una recomendación de inversión en las redes\nsociales, debes cumplir con los requisitos establecidos en la\nnormativa de abuso de mercado y tener en cuenta que difundir\ninformación falsa o engañosa en las redes sociales o revelar\nselectivamente información privilegiada puede ser sancionado."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "REGLAMENTO (UE) n.° 596/2014 DEL PARLAMENTO EUROPEO Y DEL CONSEJO de 16 de abril de 2014 sobre el abuso\nde mercado (Reglamento sobre abuso de mercado) y Reglamento Delegado (UE) 2016/958 de la Comisión, de 9 de\nmarzo de 2016, por el que se completa el Reglamento (UE) n.° 596/2014 del Parlamento Europeo y del Consejo en\nlo que respecta a las normas técnicas de regulación relativas a las medidas técnicas aplicables a la presentación\nobjetiva de las recomendaciones de inversión o información de otro tipo en las que se recomiende o sugiera una\nestrategia de inversión y a la comunicación de intereses particulares o indicaciones de conflictos de intereses."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finfluencers: cómo actuar con responsabilidad"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "IV. ¿Quién puede elaborar"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "recomendaciones de"
+    },
+    {
+      "type": "paragraph",
+      "text": "inversión?\nCualquier persona puede publicar recomendaciones de inversión.\nSin embargo, las obligaciones de información a las que está sujeta depende\ndel tipo de persona.\nLa regulación establece unos requisitos generales básicos que se aplican a\ntodo el mundo y unos requisitos adicionales que se aplican a profesionales\ny a expertos. Los expertos son aquellas personas que frecuentemente\nrealizan recomendaciones y afirman poseer experiencia o conocimientos\nen el ámbito financiero o son percibidas como tales por los inversores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finfluencers: cómo actuar con responsabilidad\nRequisitos generales\nLos requisitos generales son de obligado cumplimiento para cualquier\npersona que elabore recomendaciones de inversión. Estos son algunos de\nestos requisitos:\nIncluir la identificación de las personas que elaboran la\nrecomendación de inversión: el nombre y el cargo de todas\nlas personas físicas que participen en su elaboración.\nIncluir la fecha y hora de la recomendación.\nGarantizar la presentación objetiva de las recomendaciones:\nlos hechos deben distinguirse claramente de las\ninterpretaciones, estimaciones y opiniones.\nGarantizar que todas las fuentes de información son fiables\ny si existiera alguna duda sobre la fiabilidad de la fuente,\ndeberá indicarse claramente.\nComunicar cualquier interés o conflicto de interés de\nuna manera clara y visible dentro de la recomendación,\nindependientemente del formato. Cuando se hacen\nrecomendaciones a través de diferentes canales de redes\nsociales, cada una de ellas debe incluir una declaración de\nintereses o conflictos de intereses.\nEl listado completo de requisitos generales está detallado\nen los artículos 2, 3 y 5 del Reglamento Delegado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finfluencers: cómo actuar con responsabilidad\nIncluir si la recomendación ha sido modificada después\nde haber sido comunicado al emisor al que se refiere la\nrecomendación.\nSi posee una posición larga o corta neta que sobrepase el\n5% del capital social total emitido por el emisor a que se\nrefiere la recomendación.\nLa duración de la inversión a la que se refiere la\nrecomendación y cualquier advertencia adecuada de riesgo.\nUn resumen de cualquier base de valoración o\nmetodología y de las hipótesis subyacentes utilizadas.\nUna referencia a la frecuencia prevista de las actualizaciones\na la recomendación.\nEl listado completo de requisitos adicionales está detallado\nen los artículos 4 y 6 del Reglamento Delegado.\nRequisitos adicionales\nLos requisitos adicionales de información son de obligado cumplimiento\npara los que son profesionales y expertos. Los más destacados son:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Finfluencers: cómo actuar con responsabilidad\nUna forma de dar cumplimiento a estos requisitos sería adjuntando a la\nrecomendación un enlace que permita descargar un documento,\nun disclaimer, que detalle la información a la que se refieren los requisitos\ngenerales y adicionales, siempre que el enlace sea claramente visible y\nde acceso inmediato para el inversor. Este disclaimer debería actualizarse\nconforme se vayan emitiendo nuevas recomendaciones.\nEn la siguiente tabla se resumen los requisitos generales y adicionales para\nprofesionales y expertos:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Finfluencers: cómo actuar con responsabilidad\nRequisitos\nadicionales\nRequisitos\ngenerales\nPROFESIONAL\nAnalista Independiente\nCualquier otra persona cuya actividad\nprincipal sea elaborar recomendaciones\nde inversión\nEmpresas de Inversión y Entidades de Crédito\nCualquier persona física que trabaje para las\ncategorías anteriores en virtud de un contrato\nlaboral o de otro modo"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Aunque no hay una definición en la normativa europea,"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "habitualmente se consideran analistas independientes a\naquellos analistas que no trabajan para empresas de inversión."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Normalmente, realizan un análisis objetivo sin la influencia de"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "sus empleadores y su remuneración puede variar en función\ndel análisis realizado y de su experiencia."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Pueden trabajar para firmas independientes o por cuenta"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "propia y, a menudo, venden sus informes a sus clientes\nmediante una suscripción.\nIndicadores a tener en consideración para su identificación:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "La elaboración de recomendaciones de inversión es"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "predominante en comparación con sus otras actividades."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Debe existir una relación contractual, ya sea laboral o de"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "otro tipo."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "La magnitud de los ingresos procedentes de la elaboración"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "de recomendaciones de inversión."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "El número de seguidores o visualizaciones en conjunto,"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ya que suelen ser los principales impulsores de los ingresos\nde los influencers.\nNota: no necesariamente tienen que estar empleados en el\nsector financiero, ni tener experiencia financiera o elaborar\nanálisis estructurados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finfluencers: cómo actuar con responsabilidad\nRequisitos\nadicionales\nRequisitos\ngenerales\nNO PROFESIONAL\nExperto\nNo experto"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Persona que propone de manera repetida decisiones de"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "inversión y que afirma poseer experiencia o conocimientos en\nel ámbito financiero o presenta su recomendación de un modo\nque hace pensar razonablemente a otras personas que posee\nexperiencia o conocimientos en el ámbito financiero."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "A diferencia de los profesionales, la actividad principal"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "de los expertos no tiene por qué ser la elaboración de\nrecomendaciones de inversión, ni ser analistas independientes,\nni trabajar para una empresa de inversión o una entidad de\ncrédito."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Cualquier persona que no es un profesional o un experto."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ten en cuenta que las obligaciones a las que podrías estar sujeto\nal emitir recomendaciones pueden variar según la categoría del\ncuadro anterior en la que encajes.\nRecuerda: las prohibiciones de uso de información privilegiada,\nmanipulación de mercado y comunicación ilícita de información\nprivilegiada se aplican a todos, independientemente de su\ncategoría."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finfluencers: cómo actuar con responsabilidad"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "V. Abuso de mercado"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Cuáles son los riesgos?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las comunicaciones publicadas en redes sociales pueden conllevar\nriesgos relacionados con el abuso de mercado, es decir, de manipulación\nde mercado, de uso de información privilegiada2 y comunicación ilícita de\ninformación privilegiada3.\nPuede producirse manipulación de mercado cuando las comunicaciones:\nTransmitan o puedan transmitir señales falsas o engañosas en\ncuanto a la oferta, la demanda o el precio de un instrumento\nfinanciero.\nFijen o puedan fijar el precio en un nivel anormal o artificial,\nincluyendo a través de la difusión de rumores cuando el autor\nde la difusión sepa o debiera saber que la información era falsa\no engañosa.\nPara que se produzca manipulación de mercado, no es necesario que quienes\npublican un mensaje realicen operaciones sobre el instrumento financiero\nal que se refiere dicho mensaje. Una comunicación de información falsa o\nengañosa al público podría por sí sola constituir manipulación de mercado.\nNo indicar los conflictos de intereses relativos a los instrumentos financieros\na los que se refiere una recomendación de inversión podría considerarse\ncomo un indicador de transmisión de señales falsas o engañosas o fijación\ndel precio en un nivel artificial con el fin de obtener un beneficio del impacto\nde la comunicación el precio de tales instrumentos."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "El art. 8(1) de MAR establece que las operaciones con información privilegiada son las realizadas por una persona\nque dispone de información privilegiada y que la utiliza adquiriendo, transmitiendo o cediendo, por cuenta propia\no de terceros, directa o indirectamente, los instrumentos financieros a los que se refiere esa información."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "El art. 10(1) de MAR estable que existe comunicación ilícita de información privilegiada cuando una persona posee\ninformación privilegiada y la revela a cualquier otra persona, excepto cuando dicha revelación se produce en el\nnormal ejercicio de su trabajo, profesión o funciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finfluencers: cómo actuar con responsabilidad\nLa manipulación de mercado puede llevarse a cabo en una mayor escala,\npor ejemplo, difundiendo información a través de las redes sociales para\nprovocar una reacción en otros usuarios. Es importante tener en cuenta\nque grupos de personas, conectados a través de redes sociales, podrían\nintentar que los inversores promuevan o ejecuten acciones coordinadas con\nel fin de influir artificialmente en el precio de determinados instrumentos\nfinancieros. Esto podría constituir manipulación de mercado, especialmente\nsi los responsables se benefician posteriormente del impacto en el precio\ncomo consecuencia de las operaciones de los inversores influenciados por\nlas redes sociales.\nAlgunas publicaciones pueden conllevar riesgos de manipulación\nde mercado, uso de información privilegiada o comunicación ilícita\nde información privilegiada.\nInfórmate, mantente alerta y aléjate de publicaciones\nsospechosas e invitaciones a participar en estrategias destinadas\na crear tendencias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finfluencers: cómo actuar con responsabilidad"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VI. Asesoramiento en"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "materia de inversión"
+    },
+    {
+      "type": "paragraph",
+      "text": "La emisión de recomendaciones de inversión dirigidas al público en general\n(como, por ejemplo, a través de las redes sociales) no debe confundirse con\nla prestación del servicio de asesoramiento en materia de inversión, que\nimplica realizar recomendaciones personalizadas. Este servicio solo puede\nser prestado por las entidades o personas autorizadas para ello, que tienen\nobligación de recabar información sobre los conocimientos y experiencia\ndel cliente, así como información sobre su situación financiera y objetivos de\ninversión.\nSi deseas prestar el servicio de asesoramiento personalizado\nen materia de inversión necesitarás una autorización concedida\npor tu autoridad nacional competente (en el caso de España,\nla CNMV). Por lo tanto, si no tienes autorización para prestar\nasesoramiento en materia de inversión, no des recomendaciones\npersonalizadas sobre qué comprar, vender o mantener. Publicar\nmensajes de exenciones de responsabilidad, tipo «Esto no es\nasesoramiento en materia de inversión» no te protegerá en estos\ncasos, ni evita que tengas que cumplir con la normativa aplicable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finfluencers: cómo actuar con responsabilidad"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VII. Promoción de"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "productos o servicios"
+    },
+    {
+      "type": "paragraph",
+      "text": "financieros\nAlgunas inversiones promocionadas por finfluencers, como Forex, futuros,\nciertas iniciativas de ‘crowdfunding’ o criptomonedas, pueden implicar un\nriesgo muy alto, incluida la posibilidad de perder el 100 % de la inversión. Es\nimportante que el finfluencer entienda las características de los productos\nque está promocionando.\nTambién es importante que recabe información sobre la empresa o\nplataforma sobre la que vaya a publicar información.\nLa información factual que transmita el finfluencer debe ser verdadera, justa,\nclara y no engañosa. Y las opiniones deben presentarse de manera objetiva.\nDestaca los riesgos de los productos o servicios financieros, no\nsolo las expectativas de beneficios. No aumentes la presión, ni\ncrees urgencia diciendo cosas como “gana dinero rápido”.\nLa promoción de productos, plataformas o aplicaciones\nsospechosas puede meterte en problemas. Por lo tanto, verifica\nsiempre si la empresa o plataforma está autorizada antes de\npublicar sobre ella. Si no, podrías ser cómplice de una estafa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finfluencers: cómo actuar con responsabilidad"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VIII. Criptoactivos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque la Regulación de la Unión Europea sobre mercados de criptoactivos\n(MiCA) no establece un régimen de recomendaciones de inversión como el\nde la normativa sobre el abuso de mercado para instrumentos financieros\ntradicionales, la actividad en redes sociales sobre estos productos puede ser\nanalizada por la CNMV en casos de difusión de información falsa o engañosa\nen supuestos de posible abuso de mercado.\nLas comunicaciones sobre criptoactivos en redes sociales\nson también objeto de monitorización por parte de la CNMV y\nde las demás autoridades nacionales de la Unión Europea; no\ndebes utilizar las redes sociales para difundir información falsa\no engañosa sobre criptomonedas. Puedes ser objeto de un\nexpediente sancionador por abuso de mercado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contáctanos por email\nEsta guía tiene como finalidad informar al público en general sobre distintos\naspectos relacionados con los mercados de valores. Por su naturaleza\ndivulgativa no puede constituir un soporte para posteriores interpretaciones\njurídicas, siendo la normativa en vigor la única fuente a estos efectos."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "información?"
+    },
+    {
+      "type": "paragraph",
+      "text": "www.cnmv.es"
+    }
+  ],
+  "text": "Finfluencers: cómo actuar con responsabilidad\nFinfluencers: \ncómo actuar con \nresponsabilidad\nGuía\n\nFinfluencers: cómo actuar con responsabilidad\nÍndice\nResumen\n¿Qué es una recomendación \nde inversión?\n¿Qué normativa aplica?\n¿Quién puede elaborar \nrecomendaciones de inversión?\nAbuso de mercado \n¿Cuáles son los riesgos? \nAsesoramiento en materia \nde inversión \nPromoción de productos \no servicios financieros\nCriptoactivos\n\nFinfluencers: cómo actuar con responsabilidad\nFinfluencers: \ncómo actuar con \nresponsabilidad\nI. Resumen\nInternet ha facilitado el acceso de los inversores a los mercados financieros. \nLas redes sociales son plataformas en las que estos inversores difunden, \ncomparten y discuten contenidos sobre los mercados y sus estrategias de \ninversión.\nEn algunos casos, esa información puede constituir una recomendación de \ninversión y está sujeta a unas normas que tienen un doble objetivo:\nPresentación de las recomendaciones de una manera \nobjetiva, clara y precisa sin inducir a error al público en \ngeneral.\nRevelación de intereses o conflictos de intereses, para \nque puedan ser valorados por los destinatarios de la \nrecomendación.\n\nFinfluencers: cómo actuar con responsabilidad\nNo debe confundirse una recomendación de inversión con la prestación \nde un servicio de asesoramiento de inversión con carácter personalizado. \nEste servicio solamente puede ser prestado por las entidades o personas \nautorizadas para este fin.\nPor otra parte, antes de promocionar productos, plataformas o aplicaciones \nde inversión debe verificase siempre previamente si la empresa o plataforma \nestá autorizada.\nAdemás, la información transmitida sobre los productos o servicios \nfinancieros debe ser verdadera, justa, clara y no engañosa.\n\nFinfluencers: cómo actuar con responsabilidad\nII. ¿Qué es una \nrecomendación \nde inversión?\nEl Reglamento europeo sobre el abuso de mercado define como \nrecomendación de inversión toda información destinada a canales de \ndistribución o al público en la que se sugiera una estrategia de inversión, \nde forma explícita o implícita, en relación con uno o varios instrumentos \nfinancieros o con los emisores. También constituye una recomendación de \ninversión una opinión sobre el valor o precio actual o futuro de un instrumento \nfinanciero.\nPor tanto, cualquier vídeo, ‘post’ u otro tipo de comunicación pública, \nincluidas las que se difunden en redes sociales, en la que una persona da \nconsejos o ideas, directa o indirectamente, sobre la compra o venta de un \ninstrumento financiero o sobre cómo crear una cartera de instrumentos \nfinancieros, puede constituir una recomendación de inversión. También, \ncualquier mensaje público que contenga una opinión sobre el precio futuro \nde un instrumento financiero. Es preciso analizar individualmente cada \ncomunicación para determinar si puede ser calificada como recomendación \nde inversión.\n\nFinfluencers: cómo actuar con responsabilidad\nDebes tener cuidado cuando compartes contenido \nen redes sociales sobre el valor o el precio de un \ninstrumento financiero o si recomiendas una estrategia \nde inversión. Podrías estar emitiendo una recomendación \nde inversión. \nRecuerda: aunque estés utilizando un lenguaje sencillo, \nno técnico, esto no significa que no estés publicando \nuna recomendación de inversión.\nSi publicas una comunicación con fines educativos \n(por ejemplo, para ilustrar teorías económicas o \nestrategias de valoración), es aconsejable utilizar datos \nhistóricos y ejemplos del pasado para evitar que los \ninversores basen sus decisiones de inversión en dicha \ninformación. \nAsegúrate de que evitas recomendar una estrategia de \ninversión o expresar valoraciones sobre el precio o valor \npresente o futuro de un instrumento financiero o de \nun emisor, si no quieres tener que estar pendiente de \ncumplir con los requisitos que la legislación exige a los \nque publican recomendaciones de inversión.\n\nFinfluencers: cómo actuar con responsabilidad\nIII. ¿Qué normativa \naplica?\nLa normativa sobre el abuso de mercado1 establece un conjunto de requisitos \npara la correcta presentación de recomendaciones de inversión. Su objetivo \nes mejorar la integridad del mercado y la protección de los inversores \nmediante:\n¥ La presentación objetiva de las recomendaciones de inversión y la difusión \nadecuada de los posibles conflictos de intereses.\n¥ La prohibición de cualquier actividad que pudiera constituir abuso \nde mercado, es decir, manipulación de mercado, uso de información \nprivilegiada y comunicación ilícita de información privilegiada.\nCon ello se persigue que los inversores, antes de tomar una decisión de \ninversión basada en opiniones de ‘influencers’, puedan conocer y evaluar:\n¥ La credibilidad de la recomendación y su grado de objetividad.\n¥ Cualquier interés de quien realiza la recomendación sobre el instrumento\nfinanciero o el emisor al que se refiere la opinión.\nCuando publiques una recomendación de inversión en las redes \nsociales, debes cumplir con los requisitos establecidos en la \nnormativa de abuso de mercado y tener en cuenta que difundir \ninformación falsa o engañosa en las redes sociales o revelar \nselectivamente información privilegiada puede ser sancionado.\n1. \nREGLAMENTO (UE) n.° 596/2014 DEL PARLAMENTO EUROPEO Y DEL CONSEJO de 16 de abril de 2014 sobre el abuso \nde mercado (Reglamento sobre abuso de mercado) y Reglamento Delegado (UE) 2016/958 de la Comisión, de 9 de \nmarzo de 2016, por el que se completa el Reglamento (UE) n.° 596/2014 del Parlamento Europeo y del Consejo en \nlo que respecta a las normas técnicas de regulación relativas a las medidas técnicas aplicables a la presentación \nobjetiva de las recomendaciones de inversión o información de otro tipo en las que se recomiende o sugiera una \nestrategia de inversión y a la comunicación de intereses particulares o indicaciones de conflictos de intereses.\n\nFinfluencers: cómo actuar con responsabilidad\nIV. ¿Quién puede elaborar \nrecomendaciones de \ninversión?\nCualquier persona puede publicar recomendaciones de inversión. \nSin embargo, las obligaciones de información a las que está sujeta depende \ndel tipo de persona.\nLa regulación establece unos requisitos generales básicos que se aplican a \ntodo el mundo y unos requisitos adicionales que se aplican a profesionales \ny a expertos. Los expertos son aquellas personas que frecuentemente \nrealizan recomendaciones y afirman poseer experiencia o conocimientos \nen el ámbito financiero o son percibidas como tales por los inversores.\n\nFinfluencers: cómo actuar con responsabilidad\nRequisitos generales\nLos requisitos generales son de obligado cumplimiento para cualquier \npersona que elabore recomendaciones de inversión. Estos son algunos de \nestos requisitos:\nIncluir la identificación de las personas que elaboran la \nrecomendación de inversión: el nombre y el cargo de todas \nlas personas físicas que participen en su elaboración.\nIncluir la fecha y hora de la recomendación.\nGarantizar la presentación objetiva de las recomendaciones: \nlos hechos deben distinguirse claramente de las \ninterpretaciones, estimaciones y opiniones.\nGarantizar que todas las fuentes de información son fiables \ny si existiera alguna duda sobre la fiabilidad de la fuente, \ndeberá indicarse claramente.\nComunicar cualquier interés o conflicto de interés de \nuna manera clara y visible dentro de la recomendación, \nindependientemente del formato. Cuando se hacen \nrecomendaciones a través de diferentes canales de redes \nsociales, cada una de ellas debe incluir una declaración de \nintereses o conflictos de intereses.\nEl listado completo de requisitos generales está detallado \nen los artículos 2, 3 y 5 del Reglamento Delegado.\n\nFinfluencers: cómo actuar con responsabilidad\nIncluir si la recomendación ha sido modificada después \nde haber sido comunicado al emisor al que se refiere la \nrecomendación.\nSi posee una posición larga o corta neta que sobrepase el \n5% del capital social total emitido por el emisor a que se \nrefiere la recomendación.\nLa duración de la inversión a la que se refiere la \nrecomendación y cualquier advertencia adecuada de riesgo.\nUn resumen de cualquier base de valoración o \nmetodología y de las hipótesis subyacentes utilizadas.\nUna referencia a la frecuencia prevista de las actualizaciones \na la recomendación.\nEl listado completo de requisitos adicionales está detallado \nen los artículos 4 y 6 del Reglamento Delegado.\nRequisitos adicionales\nLos requisitos adicionales de información son de obligado cumplimiento \npara los que son profesionales y expertos. Los más destacados son:\n\nFinfluencers: cómo actuar con responsabilidad\nUna forma de dar cumplimiento a estos requisitos sería adjuntando a la \nrecomendación un enlace que permita descargar un documento, \nun disclaimer, que detalle la información a la que se refieren los requisitos \ngenerales y adicionales, siempre que el enlace sea claramente visible y \nde acceso inmediato para el inversor. Este disclaimer debería actualizarse \nconforme se vayan emitiendo nuevas recomendaciones.\nEn la siguiente tabla se resumen los requisitos generales y adicionales para \nprofesionales y expertos:\n\nFinfluencers: cómo actuar con responsabilidad\nRequisitos \nadicionales\nRequisitos \ngenerales\nPROFESIONAL\nAnalista Independiente\nCualquier otra persona cuya actividad \nprincipal sea elaborar recomendaciones \nde inversión\nEmpresas de Inversión y Entidades de Crédito\nCualquier persona física que trabaje para las \ncategorías anteriores en virtud de un contrato \nlaboral o de otro modo\n• Aunque no hay una definición en la normativa europea, \nhabitualmente se consideran analistas independientes a \naquellos analistas que no trabajan para empresas de inversión. \n• Normalmente, realizan un análisis objetivo sin la influencia de \nsus empleadores y su remuneración puede variar en función \ndel análisis realizado y de su experiencia. \n• Pueden trabajar para firmas independientes o por cuenta \npropia y, a menudo, venden sus informes a sus clientes \nmediante una suscripción.\nIndicadores a tener en consideración para su identificación:\n• La elaboración de recomendaciones de inversión es \npredominante en comparación con sus otras actividades.\n• Debe existir una relación contractual, ya sea laboral o de \notro tipo.\n• La magnitud de los ingresos procedentes de la elaboración \nde recomendaciones de inversión. \n• El número de seguidores o visualizaciones en conjunto, \nya que suelen ser los principales impulsores de los ingresos \nde los influencers.\nNota: no necesariamente tienen que estar empleados en el \nsector financiero, ni tener experiencia financiera o elaborar \nanálisis estructurados.\n\nFinfluencers: cómo actuar con responsabilidad\nRequisitos \nadicionales\nRequisitos \ngenerales\nNO PROFESIONAL\nExperto\nNo experto\n• Persona que propone de manera repetida decisiones de \ninversión y que afirma poseer experiencia o conocimientos en \nel ámbito financiero o presenta su recomendación de un modo \nque hace pensar razonablemente a otras personas que posee \nexperiencia o conocimientos en el ámbito financiero. \n• A diferencia de los profesionales, la actividad principal \nde los expertos no tiene por qué ser la elaboración de \nrecomendaciones de inversión, ni ser analistas independientes, \nni trabajar para una empresa de inversión o una entidad de \ncrédito.\n• Cualquier persona que no es un profesional o un experto.\nTen en cuenta que las obligaciones a las que podrías estar sujeto \nal emitir recomendaciones pueden variar según la categoría del \ncuadro anterior en la que encajes. \nRecuerda: las prohibiciones de uso de información privilegiada, \nmanipulación de mercado y comunicación ilícita de información \nprivilegiada se aplican a todos, independientemente de su \ncategoría.\n\nFinfluencers: cómo actuar con responsabilidad\nV. Abuso de mercado \n¿Cuáles son los riesgos?\nLas comunicaciones publicadas en redes sociales pueden conllevar \nriesgos relacionados con el abuso de mercado, es decir, de manipulación \nde mercado, de uso de información privilegiada2 y comunicación ilícita de \ninformación privilegiada3.\nPuede producirse manipulación de mercado cuando las comunicaciones:\nTransmitan o puedan transmitir señales falsas o engañosas en \ncuanto a la oferta, la demanda o el precio de un instrumento \nfinanciero.\nFijen o puedan fijar el precio en un nivel anormal o artificial, \nincluyendo a través de la difusión de rumores cuando el autor \nde la difusión sepa o debiera saber que la información era falsa \no engañosa.\nPara que se produzca manipulación de mercado, no es necesario que quienes \npublican un mensaje realicen operaciones sobre el instrumento financiero \nal que se refiere dicho mensaje. Una comunicación de información falsa o \nengañosa al público podría por sí sola constituir manipulación de mercado.\nNo indicar los conflictos de intereses relativos a los instrumentos financieros \na los que se refiere una recomendación de inversión podría considerarse \ncomo un indicador de transmisión de señales falsas o engañosas o fijación \ndel precio en un nivel artificial con el fin de obtener un beneficio del impacto \nde la comunicación el precio de tales instrumentos.\n2. \nEl art. 8(1) de MAR establece que las operaciones con información privilegiada son las realizadas por una persona \nque dispone de información privilegiada y que la utiliza adquiriendo, transmitiendo o cediendo, por cuenta propia \no de terceros, directa o indirectamente, los instrumentos financieros a los que se refiere esa información.\n3. \nEl art. 10(1) de MAR estable que existe comunicación ilícita de información privilegiada cuando una persona posee \ninformación privilegiada y la revela a cualquier otra persona, excepto cuando dicha revelación se produce en el \nnormal ejercicio de su trabajo, profesión o funciones.\n\nFinfluencers: cómo actuar con responsabilidad\nLa manipulación de mercado puede llevarse a cabo en una mayor escala, \npor ejemplo, difundiendo información a través de las redes sociales para \nprovocar una reacción en otros usuarios. Es importante tener en cuenta \nque grupos de personas, conectados a través de redes sociales, podrían \nintentar que los inversores promuevan o ejecuten acciones coordinadas con \nel fin de influir artificialmente en el precio de determinados instrumentos \nfinancieros. Esto podría constituir manipulación de mercado, especialmente \nsi los responsables se benefician posteriormente del impacto en el precio \ncomo consecuencia de las operaciones de los inversores influenciados por \nlas redes sociales. \nAlgunas publicaciones pueden conllevar riesgos de manipulación \nde mercado, uso de información privilegiada o comunicación ilícita \nde información privilegiada.\nInfórmate, mantente alerta y aléjate de publicaciones \nsospechosas e invitaciones a participar en estrategias destinadas \na crear tendencias.\n\nFinfluencers: cómo actuar con responsabilidad\nVI. Asesoramiento en \nmateria de inversión\nLa emisión de recomendaciones de inversión dirigidas al público en general \n(como, por ejemplo, a través de las redes sociales) no debe confundirse con \nla prestación del servicio de asesoramiento en materia de inversión, que \nimplica realizar recomendaciones personalizadas. Este servicio solo puede \nser prestado por las entidades o personas autorizadas para ello, que tienen \nobligación de recabar información sobre los conocimientos y experiencia \ndel cliente, así como información sobre su situación financiera y objetivos de \ninversión. \nSi deseas prestar el servicio de asesoramiento personalizado \nen materia de inversión necesitarás una autorización concedida \npor tu autoridad nacional competente (en el caso de España, \nla CNMV). Por lo tanto, si no tienes autorización para prestar \nasesoramiento en materia de inversión, no des recomendaciones \npersonalizadas sobre qué comprar, vender o mantener. Publicar \nmensajes de exenciones de responsabilidad, tipo «Esto no es \nasesoramiento en materia de inversión» no te protegerá en estos \ncasos, ni evita que tengas que cumplir con la normativa aplicable.\n\nFinfluencers: cómo actuar con responsabilidad\nVII. Promoción de \nproductos o servicios \nfinancieros\nAlgunas inversiones promocionadas por finfluencers, como Forex, futuros, \nciertas iniciativas de ‘crowdfunding’ o criptomonedas, pueden implicar un \nriesgo muy alto, incluida la posibilidad de perder el 100 % de la inversión. Es \nimportante que el finfluencer entienda las características de los productos \nque está promocionando. \nTambién es importante que recabe información sobre la empresa o \nplataforma sobre la que vaya a publicar información.\nLa información factual que transmita el finfluencer debe ser verdadera, justa, \nclara y no engañosa. Y las opiniones deben presentarse de manera objetiva.\nDestaca los riesgos de los productos o servicios financieros, no \nsolo las expectativas de beneficios. No aumentes la presión, ni \ncrees urgencia diciendo cosas como “gana dinero rápido”. \nLa promoción de productos, plataformas o aplicaciones \nsospechosas puede meterte en problemas. Por lo tanto, verifica \nsiempre si la empresa o plataforma está autorizada antes de \npublicar sobre ella. Si no, podrías ser cómplice de una estafa.\n\nFinfluencers: cómo actuar con responsabilidad\nVIII. Criptoactivos\nAunque la Regulación de la Unión Europea sobre mercados de criptoactivos \n(MiCA) no establece un régimen de recomendaciones de inversión como el \nde la normativa sobre el abuso de mercado para instrumentos financieros \ntradicionales, la actividad en redes sociales sobre estos productos puede ser \nanalizada por la CNMV en casos de difusión de información falsa o engañosa \nen supuestos de posible abuso de mercado.\nLas comunicaciones sobre criptoactivos en redes sociales \nson también objeto de monitorización por parte de la CNMV y \nde las demás autoridades nacionales de la Unión Europea; no \ndebes utilizar las redes sociales para difundir información falsa \no engañosa sobre criptomonedas. Puedes ser objeto de un \nexpediente sancionador por abuso de mercado.\n\nContáctanos por email\nEsta guía tiene como finalidad informar al público en general sobre distintos\naspectos relacionados con los mercados de valores. Por su naturaleza\ndivulgativa no puede constituir un soporte para posteriores interpretaciones\njurídicas, siendo la normativa en vigor la única fuente a estos efectos. \n¿Necesitas más \ninformación?\nwww.cnmv.es",
+  "text_len": 18324,
+  "num_headings": 18,
+  "metadata": {
+    "producer": "iLovePDF",
+    "creation_date": "2026-05-28",
+    "mod_date": "2026-05-28"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": true,
+  "csv_meta": {
+    "title": "Finfluencers: cómo actuar con responsabilidad",
+    "topic": "fraude",
+    "subtopic": "redes sociales",
+    "difficulty": "básico",
+    "format": "PDF",
+    "summary": "Riesgos de seguir consejos de inversión de influencers en redes sociales",
+    "learning_objective": "Evaluar críticamente los consejos financieros en redes sociales"
+  },
+  "pdf_info": {
+    "n_pages": 19,
+    "body_size": 13.0,
+    "extractor": "pymupdf"
+  },
+  "deduped_from": null
+}

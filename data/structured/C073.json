@@ -1,0 +1,25 @@
+{
+  "content_id": "C073",
+  "title": "Mis ahorros - Finanzas para todos",
+  "blocks": [
+    {
+      "type": "glossary",
+      "entries": [
+        {
+          "term": "Tasa impositiva",
+          "definition": "Tasa impositiva a la que están sujetos los rendimientos obtenidos por el capital. Al hacer la declaración de la renta en la base imponible del ahorro los primeros 6.000 euros recibidos en tributan al 19%, los siguientes 44.000 al 21%. Los próximos 150.000 lo hacen al 23% y lo que exceda de 200.000 euros al 26%."
+        }
+      ]
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:26:21.175095+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 1713,
+    "input_tokens": 1791,
+    "output_tokens": 304
+  }
+}

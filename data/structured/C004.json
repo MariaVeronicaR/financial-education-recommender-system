@@ -1,0 +1,267 @@
+{
+  "content_id": "C004",
+  "title": "Renta fija, acciones y fondos de inversión",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Productos de inversión"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Dinero que crece"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Consejos básicos de salud financiera – 10"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Quieres rentabilizar tu ahorro?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si has ahorrado un dinero, es normal que busques colocarlo en algún producto que te ofrezca una rentabilidad atractiva para que crezca con el tiempo. Pero, además, puedes desear que ese producto tenga otras cualidades, como que sea líquido (fácil de vender), que tenga ventajas fiscales o que invierta con fines de sostenibilidad. En todo caso, debes saber que todo producto de inversión tiene un riesgo. Es importante conocer los riesgos y elegir conscientemente.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de invertir:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Piensa si vas a necesitar ese dinero en breve o si, por el contrario, no lo vas a utilizar durante un largo período.",
+        "Considera el riesgo que estás dispuesto a asumir. INVERTIR NO ES UN JUEGO. Riesgo significa que puedes obtener menos de lo que esperas o incluso tener pérdidas o perder toda la inversión.",
+        "Infórmate de la rentabilidad media de los diferentes productos ofrecidos en varias entidades."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ten en cuenta que:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Rentabilidad y riesgo van de la mano. A mayor rentabilidad, mayor riesgo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "No existen gangas. Si te ofrecen un producto mucho más rentable que la media, puede haber un riesgo elevado.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "QUIERO INVERTIR. ¿CÓMO LO HAGO?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos son los pasos que tienes que dar:",
+      "links": []
+    },
+    {
+      "type": "ordered_list",
+      "items": [
+        "Elegir un intermediario autorizado: una agencia o sociedad de valores, o entidad de crédito (banco o caja). Comprueba en el registro de la CNMV que está autorizado para prestar servicios de inversión.",
+        "Elegir el producto. Te pueden ofrecer varios productos, según tus preferencias. Deben explicarte previamente las características y riesgos y darte toda la información completa. No te precipites en tus decisiones, tómate tu tiempo y recaba información de varias entidades antes de decidirte.",
+        "Si pides recomendación a la entidad, ésta tiene obligación de asegurarse de que los productos son adecuados para tus objetivos, nivel de renta, conocimientos y experiencia en los mercados de valores y para el riesgo que deseas asumir.",
+        "Abrir una cuenta de valores. A través de ella, te abonarán los intereses, los dividendos, te cobrarán las comisiones correspondientes, etc.",
+        "Dar al intermediario las órdenes de compra o de venta. Tienes que firmar la orden que desees dar."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "¿QUÉ PRODUCTO ELIJO?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las principales alternativas son:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Fondos de inversión",
+        "Renta fija",
+        "Acciones"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Además, existen productos derivados cuyo rendimiento viene determinado por la evolución de otros activos o de índices. Son productos complejos de riesgo elevado y, por tanto, sólo recomendables para inversores que comprenden su funcionamiento y están dispuestos a tolerar ese mayor riesgo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los productos estructurados tienen parte de renta fija o variable y parte de un derivado. También son complejos y pueden tener un riesgo alto.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "FONDOS DE INVERSIÓN"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un fondo de inversión es un patrimonio formado por la agregación de capitales aportados por un número variable de inversores (los partícipes). Una sociedad gestora invierte el dinero del fondo en una variedad de valores, que pueden ser acciones de distintas empresas, renta fija, derivados, etc., en distintas proporciones, según la política inversora del fondo. La rentabilidad del fondo será la rentabilidad del conjunto de valores.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El nivel de riesgo de un fondo dependerá de su política de inversión. Esta y otras cuestiones importantes como las comisiones que se van a cobrar pueden consultarse en el folleto informativo o datos fundamentales para el inversor (DFI).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Existen diferentes tipos de fondos según el tipo de activos en los que invierten (política de inversión). Entre otros:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Fondos monetarios: Invierten en valores a corto plazo y no incluyen ni renta variable ni productos en divisas.",
+        "Renta fija: No invierten en renta variable.",
+        "Renta variable: Invierten más del 75% en renta variable.",
+        "Fondos mixtos: Según la proporción de renta fija y variable son de “renta fija mixta” o de “renta variable mixta”.",
+        "Garantizados: Aseguran una cierta rentabilidad en una fecha futura determinada, fuera de la cual la garantía no es aplicable.",
+        "Gestión pasiva: replican o reproducen un índice (como los fondos cotizados–ETF). También se incluyen los que persiguen un objetivo concreto de rentabilidad no garantizado.",
+        "Retorno absoluto: persiguen rentabilidades positivas a medio plazo con independencia de la evolución del mercado.",
+        "Globales: son los fondos cuya política no encaja en ninguna de las vocaciones anteriores."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Es importante leer las comunicaciones que recibas de tu entidad respeto al fondo porque pueden incluir información sobre cambios en las comisiones o en la política de inversión.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "RENTA FIJA"
+    },
+    {
+      "type": "paragraph",
+      "text": "Con carácter general, los productos de renta fija pagan una rentabilidad conocida de antemano o derivada de una fórmula y devuelven el principal invertido en un plazo determinado.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La renta fija pública (deuda pública) son valores emitidos por el Estado y otros organismos públicos. Las Letras del Tesoro se emiten a corto plazo y al descuento. Los bonos y obligaciones del Estado se emiten a medio y largo plazo y pagan cupones (interés) anuales.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La renta fija privada son pagarés, bonos u obligaciones emitidos por empresas del sector privado. También hay bonos y obligaciones “convertibles”, que durante un periodo pagan cupones y luego se convierten en acciones.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "LAS ACCIONES (RENTA VARIABLE)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una acción representa una parte del capital social de una sociedad anónima. El inversor que compra acciones de una empresa se convierte en socio copropietario de parte del negocio.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los accionistas pueden obtener rendimientos de dos formas: recibiendo dividendos (los beneficios que se reparten) y vendiendo las acciones por un precio mayor al de compra.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La rentabilidad de las acciones no se conoce de antemano porque depende de la marcha de la empresa y de las variaciones de su precio en el mercado (“la bolsa”). Esta incertidumbre es lo que hace que sean inversiones con riesgo.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "EL MERCADO Y EL RIESGO"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "¿QUÉ ES EL RIESGO?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El riesgo de un activo de inversión es la posibilidad de conseguir menos dinero de lo que se esperaba, o incluso de perder lo invertido. ¿A qué se puede deber esta situación?",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Puede que el emisor del activo no pueda pagar sus deudas o, incluso, quiebre.",
+        "Puede que el precio del activo varíe en el mercado."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "El riesgo de variación del precio en el mercado depende, entre otras cosas, de que haya muchos compradores o pocos. Para algunos activos, suele haber poca demanda. Por otro lado, también depende de la situación financiera o económica del momento.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Cualquier activo negociable tiene el riesgo de que su precio en un momento dado sea inferior al de compra.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Un ejemplo:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Imaginemos que hoy dispones de 1 000 € y decides comprar 50 acciones de una empresa, a un precio de 20 € cada una.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Al cabo de un mes la cotización de tus acciones ha caído hasta los 18 € por acción. Por lo tanto, en ese momento la valoración de tu inversión es de 900 €. Si vendieras, perderías 100 €, pero hay rumores de que el precio de las acciones bajará todavía más. ¿Qué vas a hacer? ¿Confías en una futura recuperación del mercado? ¿O, por el contrario, tienes miedo de seguir perdiendo y te decides a vender tus acciones?",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Han pasado 4 años desde la compra inicial y cada acción se cotiza a 27 €. ¿Venderás ahora? Habrás ganado 350 €, un 35 % sobre tu inversión inicial. Quizás quieras seguir conservando tus acciones a la espera de resultados aún mejores.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A los 5 años de haber llevado a cabo la inversión decides vender definitivamente porque necesitas el dinero. En ese momento las acciones valen 24 €, con lo que obtendrás finalmente 1200 €. Así pues, habrás ganado 200 € en estos 5 años, menos que si lo hubieses vendido un año antes.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ten en cuenta que:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La renta fija tiene un plazo de vencimiento, pero si queremos vender los valores antes de ese momento, podría ser que valieran menos que lo que pagamos. Cuando deseamos invertir en renta fija, es mejor elegir un producto cuyo plazo sea parecido al periodo en el que queremos mantener ese ahorro.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Si decides invertir en acciones, es más adecuado hacerlo con un horizonte de medio y largo plazo. A corto plazo, puede ser una inversión arriesgada por la posibilidad de que se produzcan importantes variaciones de precio.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:04:36.985171+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 16463,
+    "input_tokens": 4225,
+    "output_tokens": 5807
+  }
+}

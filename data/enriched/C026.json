@@ -1,0 +1,57 @@
+{
+  "content_id": "C026",
+  "tldr": "El tipo de interés es lo que pagamos a un banco por prestarnos dinero o lo que nos paga por depositar nuestros ahorros. La diferencia clave está entre el TIN (precio puro de la operación) y la TAE, que además incluye gastos y comisiones. Las entidades fijan sus tipos con libertad pero deben informar al Banco de España, y existen tipos oficiales de referencia usados sobre todo en hipotecas.",
+  "key_points": [
+    "El tipo de interés es el coste de pedir dinero prestado o la remuneración por depositar dinero en el banco.",
+    "El TIN (tipo de interés nominal) es el precio que la entidad cobra o paga por la operación.",
+    "La TAE (tasa anual equivalente) añade al TIN los gastos y comisiones asociados al producto.",
+    "Las entidades de crédito fijan sus tipos libremente, pero deben informar de ellos al Banco de España.",
+    "Existen tipos de interés oficiales de referencia, utilizados sobre todo en el mercado hipotecario."
+  ],
+  "quiz": [
+    {
+      "question": "Dos préstamos ofrecen el mismo TIN, pero uno tiene una TAE más alta. ¿Qué significa esto?",
+      "options": [
+        "Que ese préstamo tiene más gastos y comisiones asociados",
+        "Que ese préstamo paga más intereses al banco por el mismo dinero",
+        "Que la TAE siempre es más baja cuando el TIN es igual",
+        "Que ese préstamo es más barato en total"
+      ],
+      "correct_index": 0,
+      "explanation": "La TAE incluye, además del TIN, los gastos y comisiones. Con el mismo TIN, una TAE más alta indica más costes adicionales.",
+      "concept_id": "C19"
+    },
+    {
+      "question": "¿Cuál es la diferencia fundamental entre el TIN y la TAE?",
+      "options": [
+        "El TIN es anual y la TAE es mensual",
+        "La TAE incluye el TIN más los gastos y comisiones del producto",
+        "El TIN lo fija el Banco de España y la TAE la entidad",
+        "La TAE solo se aplica a depósitos y el TIN solo a préstamos"
+      ],
+      "correct_index": 1,
+      "explanation": "La TAE es una medida más completa: suma al TIN los gastos y comisiones asociados a la operación.",
+      "concept_id": "C19"
+    },
+    {
+      "question": "¿Qué papel tienen los tipos de interés de referencia, como los oficiales?",
+      "options": [
+        "Son obligatorios para todas las operaciones de crédito al consumo",
+        "Sirven de base para calcular los intereses en operaciones financieras, sobre todo hipotecarias",
+        "Los fija cada entidad según su conveniencia sin límite",
+        "Solo se usan para remunerar depósitos bancarios"
+      ],
+      "correct_index": 1,
+      "explanation": "Los tipos de referencia son públicos y oficiales, y se utilizan principalmente como base para calcular intereses en el mercado hipotecario.",
+      "concept_id": "C19"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5396,
+    "input_tokens": 1549,
+    "output_tokens": 863
+  }
+}

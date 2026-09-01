@@ -1,0 +1,217 @@
+{
+  "content_id": "C058",
+  "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/productosservici/serviciospago/tarjetas/",
+  "source": "Portal Cliente Bancario BdE",
+  "host": "clientebancario.bde.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 37140
+  },
+  "title": "Tarjetas",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Tarjetas"
+    },
+    {
+      "level": 2,
+      "text": "Concepto y características"
+    },
+    {
+      "level": 2,
+      "text": "Tipos de tarjetas"
+    },
+    {
+      "level": 2,
+      "text": "Contratación"
+    },
+    {
+      "level": 2,
+      "text": "Cancelación de la tarjeta"
+    },
+    {
+      "level": 2,
+      "text": "Uso fraudulento"
+    },
+    {
+      "level": 2,
+      "text": "Formas de pago y sus intereses"
+    },
+    {
+      "level": 2,
+      "text": "CONSULTAS FRECUENTES"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Tarjetas",
+      "start": 0,
+      "end": 228,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Concepto y características",
+      "start": 228,
+      "end": 410,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Tipos de tarjetas",
+      "start": 410,
+      "end": 665,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Contratación",
+      "start": 665,
+      "end": 799,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Cancelación de la tarjeta",
+      "start": 799,
+      "end": 879,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Uso fraudulento",
+      "start": 879,
+      "end": 981,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Formas de pago y sus intereses",
+      "start": 981,
+      "end": 1048,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "CONSULTAS FRECUENTES",
+      "start": 1048,
+      "end": 1473,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Tarjetas"
+    },
+    {
+      "type": "paragraph",
+      "text": "El uso de las tarjetas es muy común para realizar pagos en comercio o extraer dinero en efectivo. Es importante conocer los derechos y obligaciones que adquirimos al contratar una tarjeta, ya sea de débito o de crédito."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Concepto y características"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las tarjetas son instrumentos de pago emitidos por una entidad financiera o un comercio que permiten realizar un pago sin disponer de dinero en efectivo."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tipos de tarjetas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Existe una gran variedad de tarjetas con distintas denominaciones comerciales y diferentes funcionalidades. Conocer sus principales características te ayudará a contratar la que más te conviene en función de los servicios que te ofrezca."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Contratación"
+    },
+    {
+      "type": "paragraph",
+      "text": "Como con cualquier otro contrato hay que prestar atención a las condiciones de la tarjeta y conservar la documentación."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cancelación de la tarjeta"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ya no deseo seguir usando mi tarjeta, ¿qué debo hacer?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Uso fraudulento"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Qué pasa cuando se pierde o nos roban una tarjeta, y es utilizada fraudulentamente?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Formas de pago y sus intereses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cómo se pagan y qué intereses tienen"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "CONSULTAS FRECUENTES"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "¿Cuáles son las principales recomendaciones de seguridad para evitar el uso fraudulento de una tarjeta? Leer respuestasobre¿Cuáles son las principales recomendaciones de seguridad para evitar el uso fraudulento de una tarjeta?",
+        "¿Qué se debe saber antes de contratar una tarjeta de crédito tipo revolving? Leer respuestasobre¿Qué se debe saber antes de contratar una tarjeta de crédito tipo revolving?"
+      ]
+    }
+  ],
+  "text": "Tarjetas\nEl uso de las tarjetas es muy común para realizar pagos en comercio o extraer dinero en efectivo. Es importante conocer los derechos y obligaciones que adquirimos al contratar una tarjeta, ya sea de débito o de crédito.\nConcepto y características\nLas tarjetas son instrumentos de pago emitidos por una entidad financiera o un comercio que permiten realizar un pago sin disponer de dinero en efectivo.\nTipos de tarjetas\nExiste una gran variedad de tarjetas con distintas denominaciones comerciales y diferentes funcionalidades. Conocer sus principales características te ayudará a contratar la que más te conviene en función de los servicios que te ofrezca.\nContratación\nComo con cualquier otro contrato hay que prestar atención a las condiciones de la tarjeta y conservar la documentación.\nCancelación de la tarjeta\nYa no deseo seguir usando mi tarjeta, ¿qué debo hacer?\nUso fraudulento\n¿Qué pasa cuando se pierde o nos roban una tarjeta, y es utilizada fraudulentamente?\nFormas de pago y sus intereses\nCómo se pagan y qué intereses tienen\nCONSULTAS FRECUENTES\n- ¿Cuáles son las principales recomendaciones de seguridad para evitar el uso fraudulento de una tarjeta? Leer respuestasobre¿Cuáles son las principales recomendaciones de seguridad para evitar el uso fraudulento de una tarjeta?\n- ¿Qué se debe saber antes de contratar una tarjeta de crédito tipo revolving? Leer respuestasobre¿Qué se debe saber antes de contratar una tarjeta de crédito tipo revolving?",
+  "text_len": 1473,
+  "num_headings": 8,
+  "metadata": {
+    "title": "Tarjetas",
+    "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/productosservici/serviciospago/tarjetas/",
+    "hostname": "clientebancario.bde.es",
+    "description": "Tarjetas",
+    "sitename": "clientebancario.bde.es",
+    "date": "2020-01-01",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Decálogo del buen uso de la tarjeta",
+    "topic": "tarjetas",
+    "subtopic": "buenas prácticas",
+    "difficulty": "básico",
+    "format": "artículo web",
+    "summary": "Recomendaciones para usar la tarjeta con seguridad y responsabilidad",
+    "learning_objective": "Usar la tarjeta de forma responsable"
+  },
+  "deduped_from": "C019"
+}

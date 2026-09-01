@@ -1,0 +1,57 @@
+{
+  "content_id": "C099",
+  "tldr": "El PIB (producto interior bruto) es el valor monetario de todos los bienes y servicios finales producidos en un país durante un periodo, sin importar si los productores son locales o extranjeros. Un PIB positivo indica crecimiento económico que estimula la inversión y el empleo, mientras que dos trimestres consecutivos negativos suponen recesión. Existen el PIB nominal (con precios del periodo, afectado por la inflación), el PIB real (con precios constantes) y el PIB per cápita (riqueza media por habitante).",
+  "key_points": [
+    "El PIB mide el valor monetario de los bienes y servicios finales producidos dentro de un país en un periodo determinado.",
+    "Un PIB en crecimiento estimula la inversión y la creación de empleo; dos trimestres seguidos negativos implican recesión.",
+    "El PIB nominal usa precios del periodo (afectado por la inflación), mientras que el PIB real usa precios constantes.",
+    "El PIB per cápita divide el PIB entre los habitantes y refleja la riqueza media, aunque no muestra el reparto desigual.",
+    "El cálculo lo realizan instituciones como el INE en España o Eurostat a nivel europeo, y excluye economía sumergida y autoconsumo."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué implica para la economía de un país que su PIB lleve dos trimestres consecutivos con cifras negativas?",
+      "options": [
+        "Que se encuentra en una situación de recesión económica",
+        "Que su economía está creciendo a un ritmo moderado",
+        "Que ha eliminado por completo la inflación",
+        "Que el empleo está aumentando de forma sostenida"
+      ],
+      "correct_index": 0,
+      "explanation": "El contenido indica que dos trimestres consecutivos con PIB negativo significan que la nación atraviesa una recesión, a diferencia del crecimiento que estimula empleo e inversión.",
+      "concept_id": "C20"
+    },
+    {
+      "question": "Un país quiere comparar su producción real sin que la subida de precios distorsione el resultado. ¿Qué tipo de PIB debería utilizar?",
+      "options": [
+        "El PIB nominal, porque usa los precios vigentes del periodo",
+        "El PIB real, porque emplea precios constantes y elimina la influencia de la inflación",
+        "El PIB per cápita, porque se divide entre los habitantes",
+        "El PIB de la balanza comercial, porque resta importaciones a exportaciones"
+      ],
+      "correct_index": 1,
+      "explanation": "El PIB real usa precios constantes, eliminando el efecto de la variación de precios, a diferencia del nominal que sí se ve afectado por la inflación.",
+      "concept_id": "C20"
+    },
+    {
+      "question": "Según el contenido, ¿por qué el PIB per cápita puede generar debate a pesar de reflejar la riqueza de un país?",
+      "options": [
+        "Porque no incluye los servicios públicos en su cálculo",
+        "Porque solo contabiliza las exportaciones del país",
+        "Porque obvia el reparto desigual de la riqueza entre la población",
+        "Porque se calcula siempre con precios constantes"
+      ],
+      "correct_index": 2,
+      "explanation": "El artículo señala que el PIB per cápita es una cifra debatible porque obvia el reparto desigual de la riqueza, aunque refleje el nivel medio de riqueza.",
+      "concept_id": "C20"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 4616,
+    "input_tokens": 2324,
+    "output_tokens": 898
+  }
+}

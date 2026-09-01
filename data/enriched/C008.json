@@ -1,0 +1,57 @@
+{
+  "content_id": "C008",
+  "tldr": "El endeudamiento es casi inevitable en algún momento de la vida, pero puede poner en riesgo la tranquilidad financiera si no se gestiona bien, llegando incluso a embargos o ficheros de morosos. Para endeudarse de forma saludable conviene conocer los costes reales (interés, TAE, comisiones y gastos), distinguir los tipos de deuda y comprobar antes si realmente necesitamos el préstamo. La regla clave es que las cuotas de deuda no deberían superar el 15-20% de los ingresos mensuales (hipoteca aparte), y hay que desconfiar de mitos como que el crédito mejora la vida sin coste o que la entidad siempre renegociará las condiciones.",
+  "key_points": [
+    "El impago de un préstamo puede acarrear embargos y la inclusión en ficheros de morosos como ASNEF o RAI.",
+    "La TAE indica el coste total anual del préstamo (interés + gastos y comisiones) y sirve para comparar ofertas, aunque no es fiable para comparar tipos fijos con variables ni plazos distintos.",
+    "Existen varios tipos de endeudamiento: hipotecario, préstamos personales y al consumo, descubiertos en cuenta, tarjetas de crédito y créditos rápidos (estos últimos con intereses muy altos).",
+    "Las cuotas de deuda no deberían superar el 15-20% de los ingresos mensuales (hipoteca aparte) y, sumando la hipoteca, deberían ser inferiores al 40%.",
+    "Es falso que el crédito mejore el nivel de vida sin coste, que la entidad asuma la responsabilidad si no pagamos o que siempre podamos renegociar las condiciones pactadas."
+  ],
+  "quiz": [
+    {
+      "question": "Según el contenido, ¿qué proporción de tus ingresos mensuales NO deberían superar los pagos de tus deudas, sin contar la hipoteca?",
+      "options": [
+        "El 15-20% de los ingresos mensuales",
+        "El 40% de los ingresos mensuales",
+        "El 50% de los ingresos mensuales",
+        "El 10% de los ingresos mensuales"
+      ],
+      "correct_index": 0,
+      "explanation": "El contenido indica que las cuotas mensuales de deuda no deberían exceder del 15-20% de los ingresos (hipoteca aparte); el 40% se refiere al límite sumando la hipoteca.",
+      "concept_id": "C03"
+    },
+    {
+      "question": "¿Para qué sirve principalmente la TAE (Tasa Anual Equivalente) de un préstamo?",
+      "options": [
+        "Para conocer el coste total anual del préstamo, incluyendo interés, gastos y comisiones, y comparar ofertas",
+        "Para saber solo el tipo de interés fijo que se aplica cada mes",
+        "Para calcular cuánto dinero podemos pedir prestado sin endeudarnos",
+        "Para conocer el plazo máximo de devolución del préstamo"
+      ],
+      "correct_index": 0,
+      "explanation": "La TAE indica el coste total anual del préstamo (interés + gastos y comisiones) y es útil para comparar productos, aunque no es aconsejable comparar con ella tipos fijos frente a variables ni plazos distintos.",
+      "concept_id": "C19"
+    },
+    {
+      "question": "¿Cuál de estas afirmaciones es un FALSO mito sobre el crédito según el contenido?",
+      "options": [
+        "Si no podemos pagar, la entidad siempre está obligada a renegociar las condiciones cambiando el interés o aplazando pagos",
+        "El impago de un préstamo puede llevar a embargos o a ficheros de morosos",
+        "Las tarjetas de cuota fija suelen tener tipos de interés más altos que los préstamos personales",
+        "El ratio de deuda/ingresos se calcula dividiendo la deuda mensual entre los ingresos mensuales"
+      ],
+      "correct_index": 0,
+      "explanation": "Es falso que las entidades tengan obligación de renegociar: al firmar el contrato nos comprometemos por escrito a devolver el dinero en unas condiciones especificadas.",
+      "concept_id": "C03"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 10386,
+    "input_tokens": 3461,
+    "output_tokens": 1292
+  }
+}

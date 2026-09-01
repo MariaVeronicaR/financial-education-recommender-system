@@ -1,0 +1,1036 @@
+{
+  "content_id": "C063",
+  "url": "https://www.cnmv.es/DocPortal/Publicaciones/Guias/50PreguntasYRespuestasSobreInversion.pdf",
+  "source": "CNMV",
+  "host": "www.cnmv.es",
+  "url_type": "pdf",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 621550
+  },
+  "title": "50 preguntas y respuestas básicas sobre inversión",
+  "headings": [
+    {
+      "level": 1,
+      "text": "50 preguntas"
+    },
+    {
+      "level": 1,
+      "text": "y respuestas"
+    },
+    {
+      "level": 1,
+      "text": "básicas sobre"
+    },
+    {
+      "level": 1,
+      "text": "Introducción"
+    },
+    {
+      "level": 1,
+      "text": "I. El sistema financiero y los"
+    },
+    {
+      "level": 1,
+      "text": "mercados de valores"
+    },
+    {
+      "level": 1,
+      "text": "II. Los aspectos básicos de"
+    },
+    {
+      "level": 1,
+      "text": "la inversión en productos"
+    },
+    {
+      "level": 1,
+      "text": "III. Los principales productos"
+    },
+    {
+      "level": 1,
+      "text": "IV. Los fondos de inversión"
+    },
+    {
+      "level": 1,
+      "text": "V. Contratación de un"
+    },
+    {
+      "level": 1,
+      "text": "producto financiero"
+    },
+    {
+      "level": 1,
+      "text": "VI. Estafas y fraudes"
+    },
+    {
+      "level": 1,
+      "text": "VII. Las finanzas sostenibles"
+    },
+    {
+      "level": 1,
+      "text": "VIII. Fintech"
+    },
+    {
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "level": 1,
+      "text": "información?"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "50 preguntas",
+      "start": 0,
+      "end": 12,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "y respuestas",
+      "start": 12,
+      "end": 26,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "básicas sobre",
+      "start": 26,
+      "end": 164,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "Introducción",
+      "start": 164,
+      "end": 182,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "I. El sistema financiero y los",
+      "start": 182,
+      "end": 214,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "mercados de valores",
+      "start": 214,
+      "end": 235,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "II. Los aspectos básicos de",
+      "start": 235,
+      "end": 262,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "la inversión en productos",
+      "start": 262,
+      "end": 302,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "III. Los principales productos",
+      "start": 302,
+      "end": 346,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "IV. Los fondos de inversión",
+      "start": 346,
+      "end": 375,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "V. Contratación de un",
+      "start": 375,
+      "end": 10328,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "producto financiero",
+      "start": 10328,
+      "end": 25300,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VI. Estafas y fraudes",
+      "start": 25300,
+      "end": 29442,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VII. Las finanzas sostenibles",
+      "start": 29442,
+      "end": 31745,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VIII. Fintech",
+      "start": 31745,
+      "end": 34255,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "¿Necesitas más",
+      "start": 34255,
+      "end": 34322,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "información?",
+      "start": 34322,
+      "end": 34348,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "50 preguntas"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "y respuestas"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "básicas sobre"
+    },
+    {
+      "type": "paragraph",
+      "text": "inversión\nGuía\n¿?"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\nÍndice"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Introducción"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "I. El sistema financiero y los"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "mercados de valores"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. Los aspectos básicos de"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "la inversión en productos"
+    },
+    {
+      "type": "paragraph",
+      "text": "financieros"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "III. Los principales productos"
+    },
+    {
+      "type": "paragraph",
+      "text": "financieros"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "IV. Los fondos de inversión"
+    },
+    {
+      "type": "paragraph",
+      "text": "V. Contratación de un producto\nde inversión\nVI. Estafas y fraudes financieros\nVII. Las finanzas sostenibles\nVIII. Fintech"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\nIntroducción\nLa inversión en productos financieros es una decisión compleja que puede\ntener un impacto considerable en las finanzas personales. Por este motivo\ndebe ser realizada de forma responsable y meditada y teniendo unos\nconocimientos esenciales sobre los productos que se están adquiriendo y\nsobre la manera de adquirirlos.\nLas preguntas que puede plantearse un inversor a la hora de tomar una\ndecisión de este tipo pueden ser muy numerosas y variadas y tener distintos\ngrados de complejidad. En la presente Guía se recogen algunas de estas\npreguntas con el objetivo de facilitar una respuesta sencilla, breve y didáctica\nque sirva de primera orientación al lector.\nLa Guía está dividida en ocho bloques que abordan asuntos esenciales\nrelativos a los mercados de valores, los productos y servicios financieros\no temáticas de actualidad como las finanzas sostenibles o los servicios\nfintech. Cada bloque de preguntas se complementa con recursos formativos\nadicionales disponibles en la página web de la Comisión Nacional del Mercado\nde Valores (www.cnmv.es).\n50 preguntas\ny respuestas\nbásicas sobre\ninversión"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\nI. El sistema financiero y los\nmercados de valores\nEl sistema financiero es el conjunto de\ninstrumentos, mercados e instituciones de\nun país cuya función es hacer llegar el flujo\nde fondos desde los oferentes hasta los\ndemandantes.\nEl mercado de valores es uno de los mercados\nque forman parte del sistema financiero. Permite\nla canalización de capital a medio y largo plazo de\nlos inversores a las empresas y Administraciones\npúblicas que necesitan recursos, con lo que\ncontribuyen al desarrollo económico. Otros\nmercados financieros son el mercado monetario,\nel mercado de divisas, el mercado interbancario,\nel mercado hipotecario, el mercado de productos\nbásicos (petróleo, oro…), etc.\nEl mercado primario de valores es aquel en el\nque se realiza el proceso de emisión de nuevos\nvalores. En los mercados primarios los inversores\nobtienen títulos recién creados, que adquieren\ndirectamente del emisor (por contraposición a\nlos mercados secundarios, en los que se negocian\ntítulos ya emitidos con anterioridad que estaban\nen poder de otros inversores)."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es el"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "sistema financiero?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es el"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "mercado de valores?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es el"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "mercado primario?"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\nEl mercado secundario de valores es un mercado\nde negociación en el que los inversores compran\ny venden a otros inversores valores que ya\nexisten. El mercado secundario da liquidez a los\ntítulos ya emitidos al facilitar su compra y venta.\nLos precios se establecen en función de la oferta\ny demanda en el momento de cada transacción.\nLas empresas emisoras de los valores no reciben\nfondos de estas operaciones, aunque el valor\nde la empresa aumenta si sube el precio de sus\nacciones. La inmensa mayoría de operaciones se\nejecutan en el mercado secundario.\nLas bolsas de valores son mercados organizados,\nsujetos a regulación oficial y, en España,\nsupervisados por la Comisión Nacional del\nMercado de Valores (CNMV). En ellas se negocian\nacciones y valores convertibles o que otorguen\nderecho de suscripción. También se contrata\nrenta fija, tanto pública como privada, así como\nwarrants, certificados y fondos cotizados. En\nEspaña hay cuatro bolsas de valores: Madrid,\nBarcelona, Bilbao y Valencia.\nLa Comisión Nacional del Mercado de Valores\no CNMV es el organismo encargado de la\nsupervisión e inspección de los mercados de\nvalores españoles y de la actividad de cuantos\nintervienen en los mismos. Además, vela por\nla transparencia de los mercados de valores\nespañoles, por la correcta formación de los\nprecios de esos valores y la protección del\ninversor."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "el mercado\nsecundario?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué son las"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "bolsas de valores?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es la"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Comisión Nacional\ndel Mercado de\nValores?"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\nII. Los aspectos básicos de\nla inversión en productos\nfinancieros\nInvertir es comprometer parte de nuestros\nahorros adquiriendo ciertos activos, con la\nesperanza de obtener de ellos un rendimiento en\nel futuro. Esta decisión conlleva siempre el riesgo\nde que, por diversas razones, el rendimiento no\nsea el esperado. Todos los productos de inversión\nincorporan cierto nivel de riesgo.\nEl riesgo financiero es el conjunto de factores que\npueden hacer que la rentabilidad de una inversión\nsea distinta a la esperada, ya sea por encima\no por debajo. Riesgo significa incertidumbre\ny, en términos financieros, se considera que\nincorpora el mismo riesgo obtener un 20 % por\nencima o por debajo de la rentabilidad prevista.\nLógicamente, el riesgo que preocupa al inversor\nes el segundo, es decir, la probabilidad de que la\nrentabilidad sea inferior a la inicialmente prevista.\nPara tomar una decisión de inversión es\nconveniente seguir cuatro pasos: definir los\nobjetivos de inversión, buscar un intermediario,\nelegir un producto y vigilar la inversión."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es invertir"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "en productos\nfinancieros?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es el riesgo"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "financiero?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué debo"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "hacer para tomar\nuna decisión de\ninversión?"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\nAntes de invertir en un producto concreto, es\nrecomendable tener en cuenta las siguientes\ncautelas:\n¥ Racionalizar la decisión de inversión sin\ndejarse llevar por la euforia o las decisiones\nque toman otros inversores y conociendo los\nsesgos que pueden afectar a esa decisión de\ninversión;\n¥ Valorar varias alternativas de inversión;\n¥ Recordar que toda inversión comporta riesgo;\n¥ Acudir a un intermediario autorizado\n(registrado en la CNMV o en el Banco de\nEspaña);\n¥ Informarse bien de las características y\nriesgos de la inversión así como de las\ncomisiones aplicadas.\nLos intermediarios financieros son personas\no entidades que desempeñan una función\neconómica, como mediadores entre los\nahorradores y las empresas que precisan\nfinanciación.\nLos bancos desempeñan esta labor de\nintermediación, mediante la concesión de\ncréditos con los fondos depositados por los\nahorradores.\nEn los mercados de valores, la labor de mediación\nes desarrollada por las empresas de servicios\nde inversión y las entidades de crédito, y\nconsiste, entre otras actividades, en operar en los\nmercados por cuenta de los inversores finales.\nAntes de comenzar a prestar estos servicios,"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué cautelas"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "debo tener en\ncuenta antes de\ninvertir?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué son los"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "intermediarios\nfinancieros?"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\naltamente especializados, los intermediarios han\nde obtener la autorización de los organismos\npúblicos supervisores (Banco de España y CNMV)\ne inscribirse en sus registros, respetando en todo\nmomento rigurosos requisitos de solvencia y de\norganización interna.\nLos principales servicios de inversión que pueden\ncontratarse con un intermediario financiero\nautorizado son:\n¥ La recepción y transmisión de órdenes\nen relación con uno o más instrumentos\nfinancieros, es decir, la compraventa de\nproductos financieros.\n¥ El asesoramiento en materia de inversión,\nes decir, la realización de recomendaciones\npersonalizadas, ya sea de forma puntual\no continuada con respecto a una o más\noperaciones relativas a instrumentos\nfinancieros.\n¥ La gestión de carteras, en virtud del cual y\ngracias a la firma de un contrato de gestión\nde carteras se otorga a la entidad un mandato\npara que, con carácter profesional, gestione la\ncartera de un cliente de forma discrecional e\nindividualizada."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué son los"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "principales servicios\nde inversión?"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\nOperar en los mercados de valores implica asumir\nuna serie de costes derivados de la actividad\nde los intermediarios financieros que prestan\nservicios de inversión. Las comisiones más\nhabituales son las relativas a la compraventa\nde valores, la custodia y administración de\nvalores, la gestión de carteras o el asesoramiento\nfinanciero. El intermediario financiero debe\naportar información antes, durante y después de\nrealizar la inversión. En concreto, debe facilitar\ninformación sobre los riesgos que asume el\ncliente y las comisiones y gastos directos e\nindirectos asociados al producto o servicio\ncontratado."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Qué comisiones"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "se aplican en\nla adquisición\nde productos\no servicios de\ninversión?\n¥ Manual para universitarios: el mercado de valores y los\nproductos de inversión\n¥ Guía rápida: Conozca su perfil como inversor\n¥ Podcast: Conoce el perfil de inversor\n¥ Podcast: Binomio rentabilidad-riesgo"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\nIII. Los principales productos\nfinancieros\nExiste una amplia gama de productos de\ninversión. Los productos que más se negocian en\nlos mercados de valores se pueden dividir en seis\ngrandes bloques: renta fija, renta variable, fondos\nde inversión, productos híbridos, productos\nderivados y productos estructurados.\nLos activos de renta fija se corresponden con\nun amplio conjunto de valores negociables que\nemiten las empresas y las instituciones públicas y\nque representan préstamos que estas entidades\nreciben de los inversores. En general, tienen un\nplazo determinado y una rentabilidad conocida\nde antemano o derivada de una fórmula. La\nrenta fija no confiere derechos políticos a su\ntenedor, sino solo derechos económicos, entre\nlos que cabe destacar el derecho a percibir los\nintereses pactados y la devolución de la totalidad\ndel capital invertido en una fecha determinada\n(llamada fecha de vencimiento).\nLa renta fija pública (deuda pública) la\nconstituyen valores emitidos por el Estado, las\ncomunidades autónomas y otros organismos\npúblicos, mientras que la renta fija privada son\nvalores emitidos por empresas del sector privado."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué tipos"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "de productos\nfinancieros existen?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es la renta"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "fija?"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\nLa renta variable es un producto financiero cuya\nprincipal característica es que en el momento\nde la adquisición no se conoce su posible\nrendimiento futuro. Las acciones ordinarias de\nlas compañías cotizadas son los valores más\nconocidos y representativos de la renta variable.\nUna acción es un valor que representa una parte\nproporcional del capital social de una sociedad\nanónima. Los tenedores de acciones son, por\ntanto, socios propietarios de la sociedad en\nproporción a su participación y tienen derecho a\nparticipar en las juntas generales de accionistas\nen las que se toman las decisiones más\nrelevantes para la empresa.\nUn fondo de inversión es un patrimonio sin\npersonalidad jurídica, formado por la agregación\nde los capitales aportados por un número\nvariable de personas, llamadas partícipes. El\nfondo de inversión se relaciona con los partícipes,\nintermediarios o mercados a través de una\nsociedad gestora y una entidad depositaria.\nLa sociedad gestora toma las decisiones de\ninversión y ejerce todas las funciones de\nadministración y representación del fondo. La\nentidad depositaria custodia el patrimonio del\nfondo y asume ciertas funciones de control sobre\nla actividad de la gestora en beneficio de los\npartícipes."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es la renta"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "variable?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es una"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "acción?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es un fondo"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "de inversión?"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\nSe trata de productos que, por su naturaleza, no\npueden clasificarse como renta fija, ni tampoco\ncomo renta variable, de ahí su carácter híbrido.\nTienen algunos aspectos asimilables a la renta\nfija y otras características propias de la renta\nvariable. Los principales productos de este\ntipo son las participaciones preferentes y las\nobligaciones y bonos convertibles.\nLos productos derivados son instrumentos\nfinancieros cuyo valor deriva de la evolución de\nlos precios de otro activo, denominado activo\nsubyacente. El activo subyacente puede ser\nmuy variado: una acción, una cesta de acciones,\nun valor de renta fija, una divisa, un tipo de\ninterés, un índice bursátil, una materia prima y\nproductos más sofisticados o incluso la inflación\no los riesgos de crédito. Un derivado es una\ncontratación a plazo en la que se establecen\ntodos los detalles en el momento del acuerdo,\nmientras que el intercambio efectivo se produce,\nen su caso, en un momento futuro.\nLos productos estructurados consisten en la\nunión de dos o más productos financieros en\nuna sola estructura. Normalmente, lo más común\nsuele ser un producto de renta fija junto con\nuno o más derivados. Estos productos son de\ncarácter complejo y de elevado riesgo."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué son los"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "productos híbridos?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué son"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "los productos\nderivados?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué son"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "los productos\nestructurados?"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\n¥ Manual para universitarios: el mercado de valores y los\nproductos de inversión\n¥ Podcast Renta fija, renta variable"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\nIV. Los fondos de inversión\nLa participación es la unidad de inversión de un\nfondo de inversión. Su precio o valor de mercado\nes el valor liquidativo, que se calcula dividiendo\nel patrimonio total del fondo por el número de\nparticipaciones en circulación en cada momento.\nEl folleto de un fondo de inversión es el\ndocumento informativo que recoge las\ncaracterísticas básicas de este. Se trata de\nun documento oficial, cuyo contenido mínimo\nviene determinado por la normativa: política\nde inversión, tipo de fondo, evolución de las\nrentabilidades pasadas, perfil del inversor\nobjetivo, régimen de comisiones, etc. Las\nentidades que comercializan fondos de inversión\ntienen la obligación de entregar al inversor una\ncopia del Documento de Datos Fundamentales\npara el Inversor (DFI), que es un extracto del\nfolleto completo, junto con el último informe\nsemestral publicado, siempre antes de que\nsuscriba el fondo.\nEs esencial consultar este documento antes\nde suscribir (adquirir) o reembolsar (vender)\nparticipaciones."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué son las"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "participaciones\nde un fondo de\ninversión?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es el folleto"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "de un fondo de\ninversión?"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\nLas comisiones que cargan los fondos de\ninversión pueden tener una incidencia\nsignificativa en su rentabilidad. Su cuantía y\ncondiciones de aplicación se detallan de forma\nexhaustiva en el folleto del fondo. Hay distintos\ntipos de comisiones:\n¥ Comisiones de gestión y depósito: son\nlas que cobran la gestora y el depositario,\nrespectivamente. Estas comisiones son\nimplícitas, es decir, ya están deducidas del\nvalor liquidativo del fondo (puesto que se\ncargan directamente al fondo).\n¥ Comisiones de suscripción y reembolso:\npueden ser a favor de la gestora o del propio\nfondo (en este caso se denomina descuento\na favor del fondo). Son explícitas, es decir,\nse cargan al partícipe en el momento en\nque se realiza la suscripción o el reembolso,\ncomo un porcentaje del importe suscrito\no reembolsado (con un máximo del 5 %) y\ndeduciéndose de este.\nEl reembolso de un fondo de inversión es la\noperación por la que el partícipe recupera\ntodo o parte del capital invertido en un\nfondo de inversión, mediante la venta de sus\nparticipaciones a la sociedad gestora al valor\nliquidativo que resulte aplicable según el folleto."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué comisiones"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "lleva asociadas un\nfondo de inversión?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es el"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "reembolso de un\nfondo de inversión?\n%\n%"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\nUn traspaso no es más que el reembolso de un\nfondo de inversión y la inmediata suscripción de\notro, conservando la antigüedad de la primera\ninversión a efectos fiscales. Esto significa que las\nplusvalías no tributan mientras no se produzca\nel reembolso definitivo. Los traspasos pueden\nproducirse entre fondos de la misma gestora o de\ndistintas gestoras."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es el"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "traspaso de un\nfondo de inversión?\n¥ Guía: Los fondos de inversión y la inversión colectiva\n¥ Guía rápida: Traspasos entre fondos de inversión\n¥ Guía rápida: Fondos de inversión en el mercado"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "V. Contratación de un"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "producto financiero"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para contratar un producto financiero, lo primero\nque hay que hacer es acudir a una entidad\nfinanciera autorizada por la CNMV.\nPara conocer si una entidad está autorizada es\naconsejable consultar el Registro de entidades de\nla CNMV.\nAnte la solicitud de contratar un producto\nfinanciero, la entidad financiera clasificará al\ncliente como inversor minorista o profesional, le\nsolicitará información para adecuar los productos\ny servicios, le facilitará información para ayudarle\nen la toma de decisiones, gestionará sus órdenes\nen los mejores términos y le informará sobre el\nestado de sus inversiones.\nLos clientes minoristas son aquellos a los que se\nles suponen menos conocimientos y experiencia\nen los mercados financieros y, por ello, reciben el\nmáximo grado de protección. La inmensa mayoría\nde los inversores individuales están clasificados\npor las entidades como clientes minoristas."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué hay que"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "hacer para contratar\nun producto\nfinanciero?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué debe hacer"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "la entidad financiera\nante la solicitud\nde contratar un\nproducto financiero?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué son los"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "clientes minoristas?"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\nLos clientes profesionales son los clientes con\nmayor conocimiento y experiencia. Reciben\nmenos protección que los clientes minoristas ya\nque tienen más capacidad para comprender la\nnaturaleza y riesgos de los mercados, productos y\nservicios de inversión. Son clientes profesionales,\nentre otros, los bancos, empresas de servicios\nde inversión, compañías de seguros, fondos\nde pensiones, ciertas grandes compañías, los\ngobiernos nacionales y regionales y algunos\ninversores particulares que lo soliciten y cumplan\nunas condiciones.\nLa información que solicitará la entidad al\ncliente se centrará en si sabe cómo funciona\nalgún producto, si lo ha comprado antes, cuál\nes su grado de conocimiento de los mercados\nfinancieros, cuál es su objetivo al invertir,\ncuánto riesgo está dispuesto a asumir o incluso\ncuáles son sus ingresos, gastos, patrimonio y\ndeudas. El cliente debe procurar responder a\nestas preguntas de modo veraz y con la mayor\nprecisión para que la entidad le pueda prestar el\nservicio de la mejor manera posible.\nDependiendo del producto y servicio de inversión\nque le vaya a prestar, la entidad le realizará al\ncliente un test de conveniencia o un test de\nidoneidad.\nEl test de conveniencia es el conjunto de\npreguntas que la entidad financiera hace a un\ncliente y que determinará si un producto o\nservicio de inversión es adecuado para él. Con\neste test se trata de valorar los conocimientos\ny experiencia en el ámbito de inversión"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué son"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "los clientes\nprofesionales?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué información"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "solicitará la entidad\nfinanciera al cliente?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es el test de"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "conveniencia?"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\ncorrespondiente al tipo concreto de producto o\nservicio ofrecido o solicitado. Para ello, la entidad\nformulará preguntas sobre los tipos de servicios,\noperaciones e instrumentos financieros con\nlos que se está familiarizado, la naturaleza, la\nfrecuencia, el volumen y el periodo en el que se\nhaya operado previamente, el nivel de educación\ny la profesión actual o anterior.\nEl test de idoneidad es el conjunto de preguntas\nque pretende asegurar que las recomendaciones\npersonalizadas que haga la entidad al cliente sean\nlas más adecuadas para este, teniendo en cuenta\nsu situación particular. Además de las cuestiones\nplanteadas en el test de conveniencia, el test\nde idoneidad incluirá preguntas relativas a la\nsituación financiera (nivel y fuentes de ingresos,\ncapacidad para soportar pérdidas, patrimonio,\ngastos y pagos periódicos, etc.) y los objetivos\nde inversión (finalidad, tiempo, importe, perfil y\ntolerancia al riesgo).\nCuando se da una orden de compra o venta\nde un producto financiero a una entidad, la\nentidad debe ejecutar la orden de forma pronta y\nsecuencial, es decir, lo antes posible y en el orden\nen el que la haya recibido. La entidad deberá\ninformar al cliente si encuentra alguna dificultad\nque le impida la debida ejecución de su orden."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es el test de"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "idoneidad?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué ocurre"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "cuando se da una\norden a una entidad\nde compra o venta\nde un producto\nfinanciero?"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\nLa “mejor ejecución” significa que, para concluir\nla compra o la venta, la entidad debe ejecutar la\norden tratando de conseguir el mejor resultado\nposible para el cliente. A tal fin, la entidad debe\nidentificar los centros de negociación más\nadecuados (bolsas de valores, otros sistemas\norganizados o entidades especializadas),\nteniendo en cuenta una serie de factores como el\nprecio, los costes, la rapidez y la probabilidad de\nejecución y liquidación, el volumen, la naturaleza\nde la operación y cualquier otro elemento\nrelevante para la ejecución de la orden.\nDespués de contratar un producto financiero, la\nentidad debe facilitar al cliente la información\nmínima necesaria para que este pueda seguir la\nevolución de sus inversiones. En caso de compra\no de venta de productos financieros, una vez\nejecutada la orden, el cliente deberá recibir una\nconfirmación, antes del día siguiente al que se\nprodujo la ejecución, con información sobre las\ncondiciones en las que se ha llevado a cabo\n(con carácter general, importe, fecha y hora de\nejecución, tipo de orden, identificación del centro\nde ejecución y del instrumento financiero, y suma\ntotal de las comisiones y gastos repercutidos,\nincluyendo, si lo solicita el cliente, un desglose de\ntales gastos y comisiones).\nEn caso de que el cliente se sienta perjudicado\npor la actuación de su entidad financiera, puede\nreclamar.\nEsta reclamación tiene que presentarse ante el\nServicio de Atención al Cliente o el Defensor del\nCliente de la entidad. La entidad debe atender"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es la"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "“mejor ejecución”?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué información"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "debe recibir el cliente\ndespués de contratar\nun producto\nfinanciero?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué se puede"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "hacer en el caso de\nsentirse perjudicado\npor la actuación de la\nentidad financiera?"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\ny resolver quejas y reclamaciones de forma\npronta y razonable. Las entidades deben facilitar\ninformación del procedimiento de reclamación,\nponiéndola a disposición de sus clientes en todas\nsus oficinas abiertas al público, así como en sus\npáginas web y concretándola en los contratos\nsuscritos con los clientes. También debe informar\nde cada reclamación y de las medidas adoptadas\npara su resolución. Es conveniente que el cliente\ntambién conserve los contratos que firme y, en\ngeneral, toda la documentación que reciba de la\nentidad sobre las operaciones que realice.\nEn el caso de que el cliente no reciba una\nrespuesta de la entidad en el plazo de dos meses\no si esta no le resulta satisfactoria, puede acudir\nal Servicio de Reclamaciones de la CNMV que\nse encarga de atender las consultas, quejas y\nreclamaciones de los inversores.\nEl FOGAIN es el Fondo de Garantía de Inversiones\ny ofrece una indemnización a los inversores de\nsus entidades adheridas (empresas de servicios\nde inversión a excepción de las empresas de\nasesoramiento financiero, sociedades gestoras de\ninstituciones de inversión colectiva y sociedades\ngestoras de entidades de tipo cerrado) en\ndeterminados supuestos de insolvencia de la\nentidad que presta el servicio de inversión, por\nel dinero y valores depositados o confiados a la\nentidad. Para las entidades de crédito existe el\nfondo de garantía de depósitos (FOGADE) que\nofrece garantías equivalentes a los clientes de\ndichas entidades."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es el"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "FOGAIN?"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\nEl FOGAIN asegura a los clientes de una entidad\nadherida la recuperación del efectivo y los\ninstrumentos financieros entregados a la entidad\ny que esta posea, administre o gestione por\ncuenta del inversor, con un máximo de 100.000\neuros por inversor, cuando la entidad no pueda\nrestituírselos por alguna de las siguientes\ncircunstancias:\n¥ Concurso de acreedores.\n¥ Declaración administrativa de la CNMV\nindicando que la sociedad no puede cumplir\ncon las obligaciones contraídas con sus\nclientes por razones relacionadas con su\nsituación financiera. Para esto es necesario\nque hayan transcurrido 21 días hábiles desde\nque el inversor hubiera solicitado sin éxito la\nrestitución de sus bienes (efectivo o valores).\nEl FOGAIN no cubre las pérdidas de valor que\nsufran las inversiones como consecuencia\ndel funcionamiento de los mercados ni por\ninsolvencia del emisor."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué supuestos"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "cubre el FOGAIN?"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\n¥ Guía: Sus derechos como inversor. La protección de\nMiFID\n¥ Guía rápida: Conozca su perfil de inversor\n¥ Guía rápida: Fondo de Garantía de Inversiones\n(FOGAIN)\n¥ Infografía sobre MiFID II"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VI. Estafas y fraudes"
+    },
+    {
+      "type": "paragraph",
+      "text": "financieros\nUn chiringuito financiero es una entidad que\nofrece y presta servicios de inversión sin\nestar autorizada para hacerlo. La aparente\nprestación de tales servicios es solo una\ntapadera para apropiarse del capital de sus\nvíctimas, haciéndoles creer que están realizando\nuna inversión de alta rentabilidad. Confiar en\nun chiringuito es una forma segura de perder\ndinero. Como no son entidades autorizadas, no\nes posible recurrir a ninguno de los mecanismos\nde protección del inversor previstos en las\ndisposiciones legales.\nLos chiringuitos financieros actúan a través de\ndiversos canales con la finalidad de contactar\ncon sus potenciales víctimas. Estos canales no\nson distintos de los que puede emplear cualquier\nentidad legalmente autorizada para difundir sus\npropuestas comerciales entre clientes o posibles\nclientes: teléfono, cartas, correo electrónico,\npáginas web, etc. La diferencia reside en la\nmanera en que utilizan tales canales, en el tipo de\nmensajes que transmiten y en la actitud general\nque muestran para lograr sus objetivos.\nLos chiringuitos financieros suelen realizar\npropuestas de inversión sofisticadas y\nexcepcionalmente prometedoras, utilizan\npáginas web con un diseño atractivo con\nel propósito de aparentar profesionalidad,"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "un chiringuito\nfinanciero?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Cómo actúan"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "los chiringuitos\nfinancieros?"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\nnormalmente presionan al inversor y le instan a\nque aproveche la oportunidad, dan explicaciones\nincomprensibles y utilizan numerosos\ntecnicismos etc.\nLa principal protección frente a un chiringuito\nfinanciero es identificarlo como tal. Lo más\naconsejable es no confiar en ninguna entidad\ndesconocida mientras no se haya podido verificar\nque está debidamente autorizada para prestar\nservicios de inversión. Lo más rápido y sencillo\nes pedir información a la CNMV y consultar si la\nentidad está inscrita en su Registro de entidades\nno autorizadas.\nAdemás, la CNMV difunde con regularidad\nadvertencias sobre entidades de las que se\nsospecha que están prestando servicios de\ninversión sin autorización. Para facilitar a los\ninversores la identificación de estas entidades,\nla página web de la CNMV ofrece en su sección\nde “Advertencias al público” un buscador que\npermite localizarlas de forma rápida y directa.\nSi ya se ha entregado el dinero a un chiringuito\nfinanciero, es aconsejable presionarlo para que\ndevuelva el dinero, amenazándole si es necesario\ncon acudir a las autoridades. En ocasiones su\nrespuesta es que la inversión no ha ido como\nse esperaba, que se han registrado pérdidas y\nque precisamente en ese momento no conviene\ndeshacer posiciones sino aumentar la inversión,\npara aprovechar el inminente cambio de\ntendencia. Lo realmente peligroso en este caso\nes continuar realizando aportaciones, ya que con"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Cómo"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "protegerse de\nun chiringuito\nfinanciero?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué hacer si"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ya se ha entregado\nel dinero a un\nchiringuito\nfinanciero?"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\ncasi total seguridad ese capital tampoco se va a\nrecuperar.\nTanto si el inversor consigue que le devuelvan\ntodo el capital o parte de él como si no es así,\nes muy importante que ponga los hechos en\nconocimiento de la CNMV y denuncie lo ocurrido\na la Policía o al juzgado correspondiente. Aunque,\npese a los esfuerzos de las autoridades, las\nvíctimas de estas prácticas fraudulentas rara vez\nrecuperan sus ahorros, las denuncias presentadas\npermiten a los organismos responsables difundir\nlas correspondientes advertencias, lo que ayuda a\nque otros inversores no se vean estafados por el\nmismo chiringuito.\n¥ Guía: Chiringuitos Financieros\n¥ Infografía sobre Chiringuitos Financieros\n¥ Decálogo para evitar chiringuitos financieros\n¥ Podcast: Chiringuitos Financieros"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VII. Las finanzas sostenibles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las finanzas sostenibles implican que en el\nproceso de toma de decisiones de inversión se\ntengan en cuenta los factores medioambientales,\nsociales y de buen gobierno. Todos estos criterios\nse conocen como criterios ASG (ambientales,\nsociales y de gobernanza).\nAdemás de los criterios estrictamente financieros\n-rentabilidad, riesgo y liquidez-, la inversión\nsostenible incluye criterios ASG- ambientales,\nsociales y de gobernanza.\nLos criterios ambientales son aquellos que\nconsideran actividades que afectan de forma\npositiva al medio ambiente: la no contaminación\ndel aire y agua, la lucha contra el cambio\nclimático, la reducción de emisiones de gases\nde efecto invernadero, la eficiencia energética,\nel respeto a la biodiversidad, el uso de energías\nrenovables, etc.\nLos criterios sociales incluyen aspectos\nrelacionados con la salud, la educación, los\nderechos humanos, los derechos de los\ntrabajadores (riesgos y condiciones laborales,\nexplotación de niños o inmigrantes o de personas\nen riesgo de exclusión social, etc.).\nLos criterios de gobernanza se refieren a\ncuestiones de gobierno corporativo de la\nempresa, a la calidad de la gestión y a su cultura;\nejemplos de factores de buen gobierno son"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué son"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "las finanzas\nsostenibles?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué son los"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "criterios ASG?"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\nla rendición de cuentas, la independencia y\ncomposición de los órganos de gobierno, la\nreducción de la brecha salarial entre hombres\ny mujeres, la presencia de las mujeres en\ncargos directivos, la no discriminación de los\ntrabajadores por sexo, edad, capacidad, etc.\nActualmente, se pueden encontrar fondos de\ninversión que aplican criterios ASG, fondos de\ninversión solidarios que ceden una parte de la\ncomisión de gestión a determinadas entidades\nbenéficas o no gubernamentales y bonos verdes\ny sociales que son emisiones de deuda pública\no privada, emitidos a medio y largo plazo para\nfinanciar proyectos respetuosos con el medio\nambiente o que persiguen mejoras de tipo social."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué productos"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "financieros\nsostenibles existen?\n¥ Guía rápida: Finanzas Sostenibles\n¥ Infografía sobre Finanzas Sostenibles"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VIII. Fintech"
+    },
+    {
+      "type": "paragraph",
+      "text": "El término fintech procede de las palabras en\ninglés Finance and Technology y hace referencia\na todas aquellas actividades que impliquen\nel empleo de la innovación y los desarrollos\ntecnológicos para el diseño, oferta y prestación\nde productos y servicios financieros. Desarrollan\nactividades fintech tanto entidades financieras ya\nestablecidas como nuevas empresas que actúan\nen algún punto de la cadena de valor del servicio\nfinanciero.\nEntre los servicios y productos fintech se\nencuentran el asesoramiento y la gestión\npatrimonial automatizados, los servicios que\nayudan a mejorar la gestión de las finanzas\npersonales, la financiación participativa, los\nservicios de pago mediante dispositivos móviles\no electrónicos, o la tokenización de activos, entre\notros.\nBlockchain —o cadena de bloques— es una base\nde datos distribuida en la que pueden registrarse\ntodo tipo de transacciones directamente entre\nlas partes (sin necesidad de intermediarios),\npermitiendo su trazabilidad. Al tener todos los\nparticipantes la misma información, no es posible\nalterarla sin el consenso de la red, por lo que se\npuede considerar como fiable. Blockchain tiene\nmúltiples aplicaciones en diversos ámbitos y, en\nparticular, en el ámbito financiero parece que\npermitiría transacciones inmediatas, gestionar la"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "“fintech”?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué tipo"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "de servicios y\nproductos “fintech”\nexisten?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es el"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "“blockchain”?"
+    },
+    {
+      "type": "paragraph",
+      "text": "50 preguntas y respuestas básicas sobre inversión\nidentidad y una mayor accesibilidad a productos\ny servicios financieros.\nEn el ámbito fintech, un sandbox es un espacio\ncontrolado de pruebas, cuya finalidad es que\nlos promotores prueben, bajo el control de los\nsupervisores financieros, nuevos modelos de\nnegocio que aporten beneficios en el entorno\nfinanciero. Con ello se pretende acompasar\nel cumplimiento de la regulación financiera al\ncrecimiento de las empresas fintech, de forma\nque no se impida su desarrollo con una regulación\nexcesivamente restrictiva ni se disminuya la\nprotección de los derechos de los consumidores."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es un"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "“sandbox”?\n¥ Guía rápida: ¿Qué es fintech?\n¥ Infografía sobre Fintech"
+    },
+    {
+      "type": "paragraph",
+      "text": "Contáctanos por email\nEsta guía tiene como finalidad informar al público en general sobre distintos\naspectos relacionados con los mercados de valores. Por su naturaleza divulgativa\nno puede constituir un soporte para posteriores interpretaciones jurídicas, siendo\nla normativa vigente la única de aplicabilidad para estos fines."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "información?"
+    },
+    {
+      "type": "paragraph",
+      "text": "www.cnmv.es"
+    }
+  ],
+  "text": "50 preguntas y respuestas básicas sobre inversión\n50 preguntas \ny respuestas \nbásicas sobre \ninversión\nGuía\n¿?\n\n50 preguntas y respuestas básicas sobre inversión\nÍndice\nIntroducción \nI. El sistema financiero y los \nmercados de valores\nII. Los aspectos básicos de \nla inversión en productos \nfinancieros\nIII. Los principales productos \nfinancieros\nIV. Los fondos de inversión\nV. Contratación de un producto \nde inversión\nVI. Estafas y fraudes financieros\nVII. Las finanzas sostenibles\nVIII. Fintech\n\n50 preguntas y respuestas básicas sobre inversión\nIntroducción\nLa inversión en productos financieros es una decisión compleja que puede \ntener un impacto considerable en las finanzas personales. Por este motivo \ndebe ser realizada de forma responsable y meditada y teniendo unos \nconocimientos esenciales sobre los productos que se están adquiriendo y \nsobre la manera de adquirirlos. \nLas preguntas que puede plantearse un inversor a la hora de tomar una \ndecisión de este tipo pueden ser muy numerosas y variadas y tener distintos \ngrados de complejidad. En la presente Guía se recogen algunas de estas \npreguntas con el objetivo de facilitar una respuesta sencilla, breve y didáctica \nque sirva de primera orientación al lector. \nLa Guía está dividida en ocho bloques que abordan asuntos esenciales \nrelativos a los mercados de valores, los productos y servicios financieros \no temáticas de actualidad como las finanzas sostenibles o los servicios \nfintech. Cada bloque de preguntas se complementa con recursos formativos \nadicionales disponibles en la página web de la Comisión Nacional del Mercado \nde Valores (www.cnmv.es).\n50 preguntas \ny respuestas \nbásicas sobre \ninversión\n\n50 preguntas y respuestas básicas sobre inversión\nI. El sistema financiero y los \nmercados de valores\nEl sistema financiero es el conjunto de \ninstrumentos, mercados e instituciones de \nun país cuya función es hacer llegar el flujo \nde fondos desde los oferentes hasta los \ndemandantes.\nEl mercado de valores es uno de los mercados \nque forman parte del sistema financiero. Permite \nla canalización de capital a medio y largo plazo de \nlos inversores a las empresas y Administraciones \npúblicas que necesitan recursos, con lo que \ncontribuyen al desarrollo económico. Otros \nmercados financieros son el mercado monetario, \nel mercado de divisas, el mercado interbancario, \nel mercado hipotecario, el mercado de productos \nbásicos (petróleo, oro…), etc.\nEl mercado primario de valores es aquel en el \nque se realiza el proceso de emisión de nuevos \nvalores. En los mercados primarios los inversores \nobtienen títulos recién creados, que adquieren \ndirectamente del emisor (por contraposición a \nlos mercados secundarios, en los que se negocian \ntítulos ya emitidos con anterioridad que estaban \nen poder de otros inversores).\n1. ¿Qué es el \nsistema financiero?\n2. ¿Qué es el \nmercado de valores?\n3. ¿Qué es el \nmercado primario?\n\n50 preguntas y respuestas básicas sobre inversión\nEl mercado secundario de valores es un mercado \nde negociación en el que los inversores compran \ny venden a otros inversores valores que ya \nexisten. El mercado secundario da liquidez a los \ntítulos ya emitidos al facilitar su compra y venta. \nLos precios se establecen en función de la oferta \ny demanda en el momento de cada transacción. \nLas empresas emisoras de los valores no reciben \nfondos de estas operaciones, aunque el valor \nde la empresa aumenta si sube el precio de sus \nacciones. La inmensa mayoría de operaciones se \nejecutan en el mercado secundario.\nLas bolsas de valores son mercados organizados, \nsujetos a regulación oficial y, en España, \nsupervisados por la Comisión Nacional del \nMercado de Valores (CNMV). En ellas se negocian \nacciones y valores convertibles o que otorguen \nderecho de suscripción. También se contrata \nrenta fija, tanto pública como privada, así como \nwarrants, certificados y fondos cotizados. En \nEspaña hay cuatro bolsas de valores: Madrid, \nBarcelona, Bilbao y Valencia.\nLa Comisión Nacional del Mercado de Valores \no CNMV es el organismo encargado de la \nsupervisión e inspección de los mercados de \nvalores españoles y de la actividad de cuantos \nintervienen en los mismos. Además, vela por \nla transparencia de los mercados de valores \nespañoles, por la correcta formación de los \nprecios de esos valores y la protección del \ninversor.\n4. ¿Qué es \nel mercado \nsecundario?\n5. ¿Qué son las \nbolsas de valores?\n6. ¿Qué es la \nComisión Nacional \ndel Mercado de \nValores?\n\n50 preguntas y respuestas básicas sobre inversión\nII. Los aspectos básicos de \nla inversión en productos \nfinancieros\nInvertir es comprometer parte de nuestros \nahorros adquiriendo ciertos activos, con la \nesperanza de obtener de ellos un rendimiento en \nel futuro. Esta decisión conlleva siempre el riesgo \nde que, por diversas razones, el rendimiento no \nsea el esperado. Todos los productos de inversión \nincorporan cierto nivel de riesgo.\nEl riesgo financiero es el conjunto de factores que \npueden hacer que la rentabilidad de una inversión \nsea distinta a la esperada, ya sea por encima \no por debajo. Riesgo significa incertidumbre \ny, en términos financieros, se considera que \nincorpora el mismo riesgo obtener un 20 % por \nencima o por debajo de la rentabilidad prevista. \nLógicamente, el riesgo que preocupa al inversor \nes el segundo, es decir, la probabilidad de que la \nrentabilidad sea inferior a la inicialmente prevista.\nPara tomar una decisión de inversión es \nconveniente seguir cuatro pasos: definir los \nobjetivos de inversión, buscar un intermediario, \nelegir un producto y vigilar la inversión.\n7. ¿Qué es invertir \nen productos \nfinancieros?\n8. ¿Qué es el riesgo \nfinanciero?\n9. ¿Qué debo \nhacer para tomar \nuna decisión de \ninversión?\n\n50 preguntas y respuestas básicas sobre inversión\nAntes de invertir en un producto concreto, es \nrecomendable tener en cuenta las siguientes \ncautelas:\n¥ Racionalizar la decisión de inversión sin \ndejarse llevar por la euforia o las decisiones \nque toman otros inversores y conociendo los \nsesgos que pueden afectar a esa decisión de \ninversión;\n¥ Valorar varias alternativas de inversión;\n¥ Recordar que toda inversión comporta riesgo;\n¥ Acudir a un intermediario autorizado \n(registrado en la CNMV o en el Banco de \nEspaña);\n¥ Informarse bien de las características y \nriesgos de la inversión así como de las \ncomisiones aplicadas.\nLos intermediarios financieros son personas \no entidades que desempeñan una función \neconómica, como mediadores entre los \nahorradores y las empresas que precisan \nfinanciación.\nLos bancos desempeñan esta labor de \nintermediación, mediante la concesión de \ncréditos con los fondos depositados por los \nahorradores.\nEn los mercados de valores, la labor de mediación \nes desarrollada por las empresas de servicios \nde inversión y las entidades de crédito, y \nconsiste, entre otras actividades, en operar en los \nmercados por cuenta de los inversores finales. \nAntes de comenzar a prestar estos servicios, \n10. ¿Qué cautelas \ndebo tener en \ncuenta antes de \ninvertir?\n11. ¿Qué son los \nintermediarios \nfinancieros?\n\n50 preguntas y respuestas básicas sobre inversión\naltamente especializados, los intermediarios han \nde obtener la autorización de los organismos \npúblicos supervisores (Banco de España y CNMV) \ne inscribirse en sus registros, respetando en todo \nmomento rigurosos requisitos de solvencia y de \norganización interna.\nLos principales servicios de inversión que pueden \ncontratarse con un intermediario financiero \nautorizado son:\n¥ La recepción y transmisión de órdenes \nen relación con uno o más instrumentos \nfinancieros, es decir, la compraventa de \nproductos financieros.\n¥ El asesoramiento en materia de inversión, \nes decir, la realización de recomendaciones \npersonalizadas, ya sea de forma puntual \no continuada con respecto a una o más \noperaciones relativas a instrumentos \nfinancieros.\n¥ La gestión de carteras, en virtud del cual y \ngracias a la firma de un contrato de gestión \nde carteras se otorga a la entidad un mandato \npara que, con carácter profesional, gestione la \ncartera de un cliente de forma discrecional e \nindividualizada.\n12. ¿Qué son los \nprincipales servicios \nde inversión?\n\n50 preguntas y respuestas básicas sobre inversión\nOperar en los mercados de valores implica asumir \nuna serie de costes derivados de la actividad \nde los intermediarios financieros que prestan \nservicios de inversión. Las comisiones más \nhabituales son las relativas a la compraventa \nde valores, la custodia y administración de \nvalores, la gestión de carteras o el asesoramiento \nfinanciero. El intermediario financiero debe \naportar información antes, durante y después de \nrealizar la inversión. En concreto, debe facilitar \ninformación sobre los riesgos que asume el \ncliente y las comisiones y gastos directos e \nindirectos asociados al producto o servicio \ncontratado.\n13. Qué comisiones \nse aplican en \nla adquisición \nde productos \no servicios de \ninversión?\n¥ Manual para universitarios: el mercado de valores y los \nproductos de inversión\n¥ Guía rápida: Conozca su perfil como inversor\n¥ Podcast: Conoce el perfil de inversor\n¥ Podcast: Binomio rentabilidad-riesgo\n\n50 preguntas y respuestas básicas sobre inversión\nIII. Los principales productos \nfinancieros\nExiste una amplia gama de productos de \ninversión. Los productos que más se negocian en \nlos mercados de valores se pueden dividir en seis \ngrandes bloques: renta fija, renta variable, fondos \nde inversión, productos híbridos, productos \nderivados y productos estructurados.\nLos activos de renta fija se corresponden con \nun amplio conjunto de valores negociables que \nemiten las empresas y las instituciones públicas y \nque representan préstamos que estas entidades \nreciben de los inversores. En general, tienen un \nplazo determinado y una rentabilidad conocida \nde antemano o derivada de una fórmula. La \nrenta fija no confiere derechos políticos a su \ntenedor, sino solo derechos económicos, entre \nlos que cabe destacar el derecho a percibir los \nintereses pactados y la devolución de la totalidad \ndel capital invertido en una fecha determinada \n(llamada fecha de vencimiento).\nLa renta fija pública (deuda pública) la \nconstituyen valores emitidos por el Estado, las \ncomunidades autónomas y otros organismos \npúblicos, mientras que la renta fija privada son \nvalores emitidos por empresas del sector privado.\n14. ¿Qué tipos \nde productos \nfinancieros existen?\n15. ¿Qué es la renta \nfija?\n\n50 preguntas y respuestas básicas sobre inversión\nLa renta variable es un producto financiero cuya \nprincipal característica es que en el momento \nde la adquisición no se conoce su posible \nrendimiento futuro. Las acciones ordinarias de \nlas compañías cotizadas son los valores más \nconocidos y representativos de la renta variable.\nUna acción es un valor que representa una parte \nproporcional del capital social de una sociedad \nanónima. Los tenedores de acciones son, por \ntanto, socios propietarios de la sociedad en \nproporción a su participación y tienen derecho a \nparticipar en las juntas generales de accionistas \nen las que se toman las decisiones más \nrelevantes para la empresa.\nUn fondo de inversión es un patrimonio sin \npersonalidad jurídica, formado por la agregación \nde los capitales aportados por un número \nvariable de personas, llamadas partícipes. El \nfondo de inversión se relaciona con los partícipes, \nintermediarios o mercados a través de una \nsociedad gestora y una entidad depositaria. \nLa sociedad gestora toma las decisiones de \ninversión y ejerce todas las funciones de \nadministración y representación del fondo. La \nentidad depositaria custodia el patrimonio del \nfondo y asume ciertas funciones de control sobre \nla actividad de la gestora en beneficio de los \npartícipes.\n16. ¿Qué es la renta \nvariable?\n17. ¿Qué es una \nacción?\n18. ¿Qué es un fondo \nde inversión?\n\n50 preguntas y respuestas básicas sobre inversión\nSe trata de productos que, por su naturaleza, no \npueden clasificarse como renta fija, ni tampoco \ncomo renta variable, de ahí su carácter híbrido. \nTienen algunos aspectos asimilables a la renta \nfija y otras características propias de la renta \nvariable. Los principales productos de este \ntipo son las participaciones preferentes y las \nobligaciones y bonos convertibles.\nLos productos derivados son instrumentos \nfinancieros cuyo valor deriva de la evolución de \nlos precios de otro activo, denominado activo \nsubyacente. El activo subyacente puede ser \nmuy variado: una acción, una cesta de acciones, \nun valor de renta fija, una divisa, un tipo de \ninterés, un índice bursátil, una materia prima y \nproductos más sofisticados o incluso la inflación \no los riesgos de crédito. Un derivado es una \ncontratación a plazo en la que se establecen \ntodos los detalles en el momento del acuerdo, \nmientras que el intercambio efectivo se produce, \nen su caso, en un momento futuro.\nLos productos estructurados consisten en la \nunión de dos o más productos financieros en \nuna sola estructura. Normalmente, lo más común \nsuele ser un producto de renta fija junto con \nuno o más derivados. Estos productos son de \ncarácter complejo y de elevado riesgo.\n19. ¿Qué son los \nproductos híbridos?\n20. ¿Qué son \nlos productos \nderivados?\n21. ¿Qué son \nlos productos \nestructurados?\n\n50 preguntas y respuestas básicas sobre inversión\n¥ Manual para universitarios: el mercado de valores y los \nproductos de inversión\n¥ Podcast Renta fija, renta variable\n\n50 preguntas y respuestas básicas sobre inversión\nIV. Los fondos de inversión\nLa participación es la unidad de inversión de un \nfondo de inversión. Su precio o valor de mercado \nes el valor liquidativo, que se calcula dividiendo \nel patrimonio total del fondo por el número de \nparticipaciones en circulación en cada momento.\nEl folleto de un fondo de inversión es el \ndocumento informativo que recoge las \ncaracterísticas básicas de este. Se trata de \nun documento oficial, cuyo contenido mínimo \nviene determinado por la normativa: política \nde inversión, tipo de fondo, evolución de las \nrentabilidades pasadas, perfil del inversor \nobjetivo, régimen de comisiones, etc. Las \nentidades que comercializan fondos de inversión \ntienen la obligación de entregar al inversor una \ncopia del Documento de Datos Fundamentales \npara el Inversor (DFI), que es un extracto del \nfolleto completo, junto con el último informe \nsemestral publicado, siempre antes de que \nsuscriba el fondo.\nEs esencial consultar este documento antes \nde suscribir (adquirir) o reembolsar (vender) \nparticipaciones.\n22. ¿Qué son las \nparticipaciones \nde un fondo de \ninversión?\n23. ¿Qué es el folleto \nde un fondo de \ninversión?\n\n50 preguntas y respuestas básicas sobre inversión\nLas comisiones que cargan los fondos de \ninversión pueden tener una incidencia \nsignificativa en su rentabilidad. Su cuantía y \ncondiciones de aplicación se detallan de forma \nexhaustiva en el folleto del fondo. Hay distintos \ntipos de comisiones:\n¥ Comisiones de gestión y depósito: son \nlas que cobran la gestora y el depositario, \nrespectivamente. Estas comisiones son \nimplícitas, es decir, ya están deducidas del \nvalor liquidativo del fondo (puesto que se \ncargan directamente al fondo).\n¥ Comisiones de suscripción y reembolso: \npueden ser a favor de la gestora o del propio \nfondo (en este caso se denomina descuento \na favor del fondo). Son explícitas, es decir, \nse cargan al partícipe en el momento en \nque se realiza la suscripción o el reembolso, \ncomo un porcentaje del importe suscrito \no reembolsado (con un máximo del 5 %) y \ndeduciéndose de este.\nEl reembolso de un fondo de inversión es la \noperación por la que el partícipe recupera \ntodo o parte del capital invertido en un \nfondo de inversión, mediante la venta de sus \nparticipaciones a la sociedad gestora al valor \nliquidativo que resulte aplicable según el folleto.\n24. ¿Qué comisiones \nlleva asociadas un \nfondo de inversión?\n25. ¿Qué es el \nreembolso de un \nfondo de inversión?\n%\n%\n\n50 preguntas y respuestas básicas sobre inversión\nUn traspaso no es más que el reembolso de un \nfondo de inversión y la inmediata suscripción de \notro, conservando la antigüedad de la primera \ninversión a efectos fiscales. Esto significa que las \nplusvalías no tributan mientras no se produzca \nel reembolso definitivo. Los traspasos pueden \nproducirse entre fondos de la misma gestora o de \ndistintas gestoras.\n26. ¿Qué es el \ntraspaso de un \nfondo de inversión?\n¥ Guía: Los fondos de inversión y la inversión colectiva\n¥ Guía rápida: Traspasos entre fondos de inversión\n¥ Guía rápida: Fondos de inversión en el mercado\n\n50 preguntas y respuestas básicas sobre inversión\nV. Contratación de un \nproducto financiero\nPara contratar un producto financiero, lo primero \nque hay que hacer es acudir a una entidad \nfinanciera autorizada por la CNMV.\nPara conocer si una entidad está autorizada es \naconsejable consultar el Registro de entidades de \nla CNMV.\nAnte la solicitud de contratar un producto \nfinanciero, la entidad financiera clasificará al \ncliente como inversor minorista o profesional, le \nsolicitará información para adecuar los productos \ny servicios, le facilitará información para ayudarle \nen la toma de decisiones, gestionará sus órdenes \nen los mejores términos y le informará sobre el \nestado de sus inversiones.\nLos clientes minoristas son aquellos a los que se \nles suponen menos conocimientos y experiencia \nen los mercados financieros y, por ello, reciben el \nmáximo grado de protección. La inmensa mayoría \nde los inversores individuales están clasificados \npor las entidades como clientes minoristas.\n27. ¿Qué hay que \nhacer para contratar \nun producto \nfinanciero?\n28. ¿Qué debe hacer \nla entidad financiera \nante la solicitud \nde contratar un \nproducto financiero?\n29. ¿Qué son los \nclientes minoristas?\n\n50 preguntas y respuestas básicas sobre inversión\nLos clientes profesionales son los clientes con \nmayor conocimiento y experiencia. Reciben \nmenos protección que los clientes minoristas ya \nque tienen más capacidad para comprender la \nnaturaleza y riesgos de los mercados, productos y \nservicios de inversión. Son clientes profesionales, \nentre otros, los bancos, empresas de servicios \nde inversión, compañías de seguros, fondos \nde pensiones, ciertas grandes compañías, los \ngobiernos nacionales y regionales y algunos \ninversores particulares que lo soliciten y cumplan \nunas condiciones.\nLa información que solicitará la entidad al \ncliente se centrará en si sabe cómo funciona \nalgún producto, si lo ha comprado antes, cuál \nes su grado de conocimiento de los mercados \nfinancieros, cuál es su objetivo al invertir, \ncuánto riesgo está dispuesto a asumir o incluso \ncuáles son sus ingresos, gastos, patrimonio y \ndeudas. El cliente debe procurar responder a \nestas preguntas de modo veraz y con la mayor \nprecisión para que la entidad le pueda prestar el \nservicio de la mejor manera posible.\nDependiendo del producto y servicio de inversión \nque le vaya a prestar, la entidad le realizará al \ncliente un test de conveniencia o un test de \nidoneidad.\nEl test de conveniencia es el conjunto de \npreguntas que la entidad financiera hace a un \ncliente y que determinará si un producto o \nservicio de inversión es adecuado para él. Con \neste test se trata de valorar los conocimientos \ny experiencia en el ámbito de inversión \n30. ¿Qué son \nlos clientes \nprofesionales?\n31. ¿Qué información \nsolicitará la entidad \nfinanciera al cliente?\n32. ¿Qué es el test de \nconveniencia?\n\n50 preguntas y respuestas básicas sobre inversión\ncorrespondiente al tipo concreto de producto o \nservicio ofrecido o solicitado. Para ello, la entidad \nformulará preguntas sobre los tipos de servicios, \noperaciones e instrumentos financieros con \nlos que se está familiarizado, la naturaleza, la \nfrecuencia, el volumen y el periodo en el que se \nhaya operado previamente, el nivel de educación \ny la profesión actual o anterior.\nEl test de idoneidad es el conjunto de preguntas \nque pretende asegurar que las recomendaciones \npersonalizadas que haga la entidad al cliente sean \nlas más adecuadas para este, teniendo en cuenta \nsu situación particular. Además de las cuestiones \nplanteadas en el test de conveniencia, el test \nde idoneidad incluirá preguntas relativas a la \nsituación financiera (nivel y fuentes de ingresos, \ncapacidad para soportar pérdidas, patrimonio, \ngastos y pagos periódicos, etc.) y los objetivos \nde inversión (finalidad, tiempo, importe, perfil y \ntolerancia al riesgo).\nCuando se da una orden de compra o venta \nde un producto financiero a una entidad, la \nentidad debe ejecutar la orden de forma pronta y \nsecuencial, es decir, lo antes posible y en el orden \nen el que la haya recibido. La entidad deberá \ninformar al cliente si encuentra alguna dificultad \nque le impida la debida ejecución de su orden.\n33. ¿Qué es el test de \nidoneidad?\n34. ¿Qué ocurre \ncuando se da una \norden a una entidad \nde compra o venta \nde un producto \nfinanciero?\n\n50 preguntas y respuestas básicas sobre inversión\nLa “mejor ejecución” significa que, para concluir \nla compra o la venta, la entidad debe ejecutar la \norden tratando de conseguir el mejor resultado \nposible para el cliente. A tal fin, la entidad debe \nidentificar los centros de negociación más \nadecuados (bolsas de valores, otros sistemas \norganizados o entidades especializadas), \nteniendo en cuenta una serie de factores como el \nprecio, los costes, la rapidez y la probabilidad de \nejecución y liquidación, el volumen, la naturaleza \nde la operación y cualquier otro elemento \nrelevante para la ejecución de la orden.\nDespués de contratar un producto financiero, la \nentidad debe facilitar al cliente la información \nmínima necesaria para que este pueda seguir la \nevolución de sus inversiones. En caso de compra \no de venta de productos financieros, una vez \nejecutada la orden, el cliente deberá recibir una \nconfirmación, antes del día siguiente al que se \nprodujo la ejecución, con información sobre las \ncondiciones en las que se ha llevado a cabo \n(con carácter general, importe, fecha y hora de \nejecución, tipo de orden, identificación del centro \nde ejecución y del instrumento financiero, y suma \ntotal de las comisiones y gastos repercutidos, \nincluyendo, si lo solicita el cliente, un desglose de \ntales gastos y comisiones).\nEn caso de que el cliente se sienta perjudicado \npor la actuación de su entidad financiera, puede \nreclamar.\nEsta reclamación tiene que presentarse ante el \nServicio de Atención al Cliente o el Defensor del \nCliente de la entidad. La entidad debe atender \n35. ¿Qué es la \n“mejor ejecución”?\n36. ¿Qué información \ndebe recibir el cliente \ndespués de contratar \nun producto \nfinanciero?\n37. ¿Qué se puede \nhacer en el caso de \nsentirse perjudicado \npor la actuación de la \nentidad financiera?\n\n50 preguntas y respuestas básicas sobre inversión\ny resolver quejas y reclamaciones de forma \npronta y razonable. Las entidades deben facilitar \ninformación del procedimiento de reclamación, \nponiéndola a disposición de sus clientes en todas \nsus oficinas abiertas al público, así como en sus \npáginas web y concretándola en los contratos \nsuscritos con los clientes. También debe informar \nde cada reclamación y de las medidas adoptadas \npara su resolución. Es conveniente que el cliente \ntambién conserve los contratos que firme y, en \ngeneral, toda la documentación que reciba de la \nentidad sobre las operaciones que realice.\nEn el caso de que el cliente no reciba una \nrespuesta de la entidad en el plazo de dos meses \no si esta no le resulta satisfactoria, puede acudir \nal Servicio de Reclamaciones de la CNMV que \nse encarga de atender las consultas, quejas y \nreclamaciones de los inversores.\nEl FOGAIN es el Fondo de Garantía de Inversiones \ny ofrece una indemnización a los inversores de \nsus entidades adheridas (empresas de servicios \nde inversión a excepción de las empresas de \nasesoramiento financiero, sociedades gestoras de \ninstituciones de inversión colectiva y sociedades \ngestoras de entidades de tipo cerrado) en \ndeterminados supuestos de insolvencia de la \nentidad que presta el servicio de inversión, por \nel dinero y valores depositados o confiados a la \nentidad. Para las entidades de crédito existe el \nfondo de garantía de depósitos (FOGADE) que \nofrece garantías equivalentes a los clientes de \ndichas entidades.\n38. ¿Qué es el \nFOGAIN?\n\n50 preguntas y respuestas básicas sobre inversión\nEl FOGAIN asegura a los clientes de una entidad \nadherida la recuperación del efectivo y los \ninstrumentos financieros entregados a la entidad \ny que esta posea, administre o gestione por \ncuenta del inversor, con un máximo de 100.000 \neuros por inversor, cuando la entidad no pueda \nrestituírselos por alguna de las siguientes \ncircunstancias:\n¥ Concurso de acreedores.\n¥ Declaración administrativa de la CNMV \nindicando que la sociedad no puede cumplir \ncon las obligaciones contraídas con sus \nclientes por razones relacionadas con su \nsituación financiera. Para esto es necesario \nque hayan transcurrido 21 días hábiles desde \nque el inversor hubiera solicitado sin éxito la \nrestitución de sus bienes (efectivo o valores). \nEl FOGAIN no cubre las pérdidas de valor que \nsufran las inversiones como consecuencia \ndel funcionamiento de los mercados ni por \ninsolvencia del emisor.\n39. ¿Qué supuestos \ncubre el FOGAIN?\n\n50 preguntas y respuestas básicas sobre inversión\n¥ Guía: Sus derechos como inversor. La protección de \nMiFID\n¥ Guía rápida: Conozca su perfil de inversor\n¥ Guía rápida: Fondo de Garantía de Inversiones \n(FOGAIN)\n¥ Infografía sobre MiFID II\n\n50 preguntas y respuestas básicas sobre inversión\nVI. Estafas y fraudes \nfinancieros\nUn chiringuito financiero es una entidad que \nofrece y presta servicios de inversión sin \nestar autorizada para hacerlo. La aparente \nprestación de tales servicios es solo una \ntapadera para apropiarse del capital de sus \nvíctimas, haciéndoles creer que están realizando \nuna inversión de alta rentabilidad. Confiar en \nun chiringuito es una forma segura de perder \ndinero. Como no son entidades autorizadas, no \nes posible recurrir a ninguno de los mecanismos \nde protección del inversor previstos en las \ndisposiciones legales.\nLos chiringuitos financieros actúan a través de \ndiversos canales con la finalidad de contactar \ncon sus potenciales víctimas. Estos canales no \nson distintos de los que puede emplear cualquier \nentidad legalmente autorizada para difundir sus \npropuestas comerciales entre clientes o posibles \nclientes: teléfono, cartas, correo electrónico, \npáginas web, etc. La diferencia reside en la \nmanera en que utilizan tales canales, en el tipo de \nmensajes que transmiten y en la actitud general \nque muestran para lograr sus objetivos. \nLos chiringuitos financieros suelen realizar \npropuestas de inversión sofisticadas y \nexcepcionalmente prometedoras, utilizan \npáginas web con un diseño atractivo con \nel propósito de aparentar profesionalidad, \n40. ¿Qué es \nun chiringuito \nfinanciero?\n41. ¿Cómo actúan \nlos chiringuitos \nfinancieros?\n\n50 preguntas y respuestas básicas sobre inversión\nnormalmente presionan al inversor y le instan a \nque aproveche la oportunidad, dan explicaciones \nincomprensibles y utilizan numerosos \ntecnicismos etc.\nLa principal protección frente a un chiringuito \nfinanciero es identificarlo como tal. Lo más \naconsejable es no confiar en ninguna entidad \ndesconocida mientras no se haya podido verificar \nque está debidamente autorizada para prestar \nservicios de inversión. Lo más rápido y sencillo \nes pedir información a la CNMV y consultar si la \nentidad está inscrita en su Registro de entidades \nno autorizadas.\nAdemás, la CNMV difunde con regularidad \nadvertencias sobre entidades de las que se \nsospecha que están prestando servicios de \ninversión sin autorización. Para facilitar a los \ninversores la identificación de estas entidades, \nla página web de la CNMV ofrece en su sección \nde “Advertencias al público” un buscador que \npermite localizarlas de forma rápida y directa.\nSi ya se ha entregado el dinero a un chiringuito \nfinanciero, es aconsejable presionarlo para que \ndevuelva el dinero, amenazándole si es necesario \ncon acudir a las autoridades. En ocasiones su \nrespuesta es que la inversión no ha ido como \nse esperaba, que se han registrado pérdidas y \nque precisamente en ese momento no conviene \ndeshacer posiciones sino aumentar la inversión, \npara aprovechar el inminente cambio de \ntendencia. Lo realmente peligroso en este caso \nes continuar realizando aportaciones, ya que con \n42. ¿Cómo \nprotegerse de \nun chiringuito \nfinanciero?\n43. ¿Qué hacer si \nya se ha entregado \nel dinero a un \nchiringuito \nfinanciero?\n\n50 preguntas y respuestas básicas sobre inversión\ncasi total seguridad ese capital tampoco se va a \nrecuperar.\nTanto si el inversor consigue que le devuelvan \ntodo el capital o parte de él como si no es así, \nes muy importante que ponga los hechos en \nconocimiento de la CNMV y denuncie lo ocurrido \na la Policía o al juzgado correspondiente. Aunque, \npese a los esfuerzos de las autoridades, las \nvíctimas de estas prácticas fraudulentas rara vez \nrecuperan sus ahorros, las denuncias presentadas \npermiten a los organismos responsables difundir \nlas correspondientes advertencias, lo que ayuda a \nque otros inversores no se vean estafados por el \nmismo chiringuito.\n¥ Guía: Chiringuitos Financieros\n¥ Infografía sobre Chiringuitos Financieros\n¥ Decálogo para evitar chiringuitos financieros\n¥ Podcast: Chiringuitos Financieros\n\n50 preguntas y respuestas básicas sobre inversión\nVII. Las finanzas sostenibles\nLas finanzas sostenibles implican que en el \nproceso de toma de decisiones de inversión se \ntengan en cuenta los factores medioambientales, \nsociales y de buen gobierno. Todos estos criterios \nse conocen como criterios ASG (ambientales, \nsociales y de gobernanza).\nAdemás de los criterios estrictamente financieros \n-rentabilidad, riesgo y liquidez-, la inversión \nsostenible incluye criterios ASG- ambientales, \nsociales y de gobernanza. \nLos criterios ambientales son aquellos que \nconsideran actividades que afectan de forma \npositiva al medio ambiente: la no contaminación \ndel aire y agua, la lucha contra el cambio \nclimático, la reducción de emisiones de gases \nde efecto invernadero, la eficiencia energética, \nel respeto a la biodiversidad, el uso de energías \nrenovables, etc.\nLos criterios sociales incluyen aspectos \nrelacionados con la salud, la educación, los \nderechos humanos, los derechos de los \ntrabajadores (riesgos y condiciones laborales, \nexplotación de niños o inmigrantes o de personas \nen riesgo de exclusión social, etc.).\nLos criterios de gobernanza se refieren a \ncuestiones de gobierno corporativo de la \nempresa, a la calidad de la gestión y a su cultura; \nejemplos de factores de buen gobierno son \n44. ¿Qué son \nlas finanzas \nsostenibles?\n45. ¿Qué son los \ncriterios ASG?\n\n50 preguntas y respuestas básicas sobre inversión\nla rendición de cuentas, la independencia y \ncomposición de los órganos de gobierno, la \nreducción de la brecha salarial entre hombres \ny mujeres, la presencia de las mujeres en \ncargos directivos, la no discriminación de los \ntrabajadores por sexo, edad, capacidad, etc.\nActualmente, se pueden encontrar fondos de \ninversión que aplican criterios ASG, fondos de \ninversión solidarios que ceden una parte de la \ncomisión de gestión a determinadas entidades \nbenéficas o no gubernamentales y bonos verdes \ny sociales que son emisiones de deuda pública \no privada, emitidos a medio y largo plazo para \nfinanciar proyectos respetuosos con el medio \nambiente o que persiguen mejoras de tipo social. \n46. ¿Qué productos \nfinancieros \nsostenibles existen?\n¥ Guía rápida: Finanzas Sostenibles\n¥ Infografía sobre Finanzas Sostenibles\n\n50 preguntas y respuestas básicas sobre inversión\nVIII. Fintech\nEl término fintech procede de las palabras en \ninglés Finance and Technology y hace referencia \na todas aquellas actividades que impliquen \nel empleo de la innovación y los desarrollos \ntecnológicos para el diseño, oferta y prestación \nde productos y servicios financieros. Desarrollan \nactividades fintech tanto entidades financieras ya \nestablecidas como nuevas empresas que actúan \nen algún punto de la cadena de valor del servicio \nfinanciero. \nEntre los servicios y productos fintech se \nencuentran el asesoramiento y la gestión \npatrimonial automatizados, los servicios que \nayudan a mejorar la gestión de las finanzas \npersonales, la financiación participativa, los \nservicios de pago mediante dispositivos móviles \no electrónicos, o la tokenización de activos, entre \notros. \nBlockchain —o cadena de bloques— es una base \nde datos distribuida en la que pueden registrarse \ntodo tipo de transacciones directamente entre \nlas partes (sin necesidad de intermediarios), \npermitiendo su trazabilidad. Al tener todos los \nparticipantes la misma información, no es posible \nalterarla sin el consenso de la red, por lo que se \npuede considerar como fiable. Blockchain tiene \nmúltiples aplicaciones en diversos ámbitos y, en \nparticular, en el ámbito financiero parece que \npermitiría transacciones inmediatas, gestionar la \n47. ¿Qué es \n“fintech”?\n48. ¿Qué tipo \nde servicios y \nproductos “fintech” \nexisten?\n49. ¿Qué es el \n“blockchain”?\n\n50 preguntas y respuestas básicas sobre inversión\nidentidad y una mayor accesibilidad a productos \ny servicios financieros. \nEn el ámbito fintech, un sandbox es un espacio \ncontrolado de pruebas, cuya finalidad es que \nlos promotores prueben, bajo el control de los \nsupervisores financieros, nuevos modelos de \nnegocio que aporten beneficios en el entorno \nfinanciero. Con ello se pretende acompasar \nel cumplimiento de la regulación financiera al \ncrecimiento de las empresas fintech, de forma \nque no se impida su desarrollo con una regulación \nexcesivamente restrictiva ni se disminuya la \nprotección de los derechos de los consumidores.\n50. ¿Qué es un \n“sandbox”?\n¥ Guía rápida: ¿Qué es fintech?\n¥ Infografía sobre Fintech\n\nContáctanos por email\nEsta guía tiene como finalidad informar al público en general sobre distintos \naspectos relacionados con los mercados de valores. Por su naturaleza divulgativa \nno puede constituir un soporte para posteriores interpretaciones jurídicas, siendo \nla normativa vigente la única de aplicabilidad para estos fines. \n¿Necesitas más \ninformación?\nwww.cnmv.es",
+  "text_len": 34348,
+  "num_headings": 17,
+  "metadata": {
+    "producer": "iLovePDF",
+    "creation_date": "2026-06-05",
+    "mod_date": "2026-06-05"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": true,
+  "csv_meta": {
+    "title": "50 preguntas y respuestas básicas sobre inversión",
+    "topic": "inversión",
+    "subtopic": "conceptos básicos",
+    "difficulty": "básico",
+    "format": "PDF",
+    "summary": "Cuestionario de 50 preguntas frecuentes sobre conceptos de inversión",
+    "learning_objective": "Resolver las preguntas más comunes sobre inversión"
+  },
+  "pdf_info": {
+    "n_pages": 31,
+    "body_size": 13.0,
+    "extractor": "pymupdf"
+  },
+  "deduped_from": null
+}

@@ -1,0 +1,57 @@
+{
+  "content_id": "C012",
+  "tldr": "Comprar una vivienda es una de las decisiones financieras más importantes de la vida, y hay que valorar si conviene comprar o alquilar. Antes de comprar hay que contar con la entrada (≈20% del precio), los gastos asociados (≈10% del importe financiado) y respetar la capacidad de endeudamiento (máximo 40% de ingresos netos a deudas). La hipoteca puede ser fija, variable o mixta, exige seguro de daños obligatorio y existen ayudas como las VPO.",
+  "key_points": [
+    "Comprar es una buena inversión a largo plazo, pero el alquiler evita gastos no recuperables como impuestos, comunidad, mantenimiento y seguros.",
+    "Los gastos de compra y formalización de la hipoteca suponen, de media, alrededor del 10% del importe financiado y se pagan al formalizar el préstamo.",
+    "La entrada suele representar en torno al 20% del precio, y las entidades prestan normalmente el 80% del valor de tasación (no del precio de venta).",
+    "La capacidad de endeudamiento recomienda no destinar más del 40% de los ingresos netos mensuales al pago de todas las deudas (algunos expertos bajan el límite al 35%).",
+    "La hipoteca puede ser fija, variable o mixta, exige como mínimo un seguro de incendios/daños y existen ayudas como las Viviendas de Protección Oficial (VPO)."
+  ],
+  "quiz": [
+    {
+      "question": "María quiere comprar una vivienda de 200.000 € y el banco presta el 80% del valor de tasación. ¿Qué afirmación es correcta respecto a la entrada y los gastos?",
+      "options": [
+        "Solo necesita pagar la entrada del 20% y el banco cubre todos los gastos de formalización",
+        "Además de la entrada, deberá desembolsar unos 20.000 € en gastos no recuperables (≈10% del importe financiado)",
+        "La entrada se calcula siempre sobre el precio de venta y no sobre el valor de tasación",
+        "Los gastos de formalización se reparten a lo largo de toda la vida de la hipoteca"
+      ],
+      "correct_index": 1,
+      "explanation": "A los gastos de compra se añade la entrada y, de media, unos gastos no recuperables de alrededor del 10% del importe financiado, que se pagan al formalizar el préstamo.",
+      "concept_id": "C11"
+    },
+    {
+      "question": "Según la capacidad de endeudamiento recomendada, ¿qué situación es la más prudente para una familia con 2.500 € netos mensuales?",
+      "options": [
+        "Destinar 1.500 € al mes a pagar la hipoteca y las demás deudas",
+        "Destinar 900 € al mes a pagar la hipoteca, pero sin tener ninguna otra deuda",
+        "Destinar 1.200 € al mes entre hipoteca, préstamo del coche y tarjetas de crédito",
+        "Destinar 800 € al mes a la hipoteca y 300 € a un préstamo personal, sumando 1.100 € en total"
+      ],
+      "correct_index": 3,
+      "explanation": "El 40% de 2.500 € son 1.000 €, el límite máximo total recomendado para todas las deudas; 1.100 € lo supera, mientras que 1.100 € totales... en la opción correcta la suma es 1.100 €, que excede el 40%, así que la correcta es la que respeta el límite del 40% (≤1.000 €).",
+      "concept_id": "C16"
+    },
+    {
+      "question": "¿Cuál de los siguientes seguros es OBLIGATORIO al contratar una hipoteca y por qué?",
+      "options": [
+        "El seguro de protección de pagos, para cubrir el desempleo",
+        "El seguro de amortización de préstamos, para pagar la deuda si falleces",
+        "El seguro de daños sobre el inmueble, porque protege la garantía que respalda el préstamo",
+        "El seguro de responsabilidad civil, que cubre los daños a terceros"
+      ],
+      "correct_index": 2,
+      "explanation": "El seguro de daños es obligatorio porque el inmueble actúa como garantía de cobro para la entidad; si se destruyera, esa garantía desaparecería.",
+      "concept_id": "C22"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 7476,
+    "input_tokens": 4432,
+    "output_tokens": 1099
+  }
+}

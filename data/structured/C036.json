@@ -1,0 +1,60 @@
+{
+  "content_id": "C036",
+  "title": "CNMV: Curso de decisiones de inversión",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conozca su perfil inversor"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "¿Qué es su perfil inversor?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El perfil de un inversor se define por la relación que existe entre los riesgos que está dispuesto a asumir y los rendimientos que espera obtener. Así podríamos hablar de inversores con un perfil conservador, medio y agresivo. Si no estamos dispuestos a perder nada de nuestro dinero en circunstancia alguna, seríamos catalogados como un inversor conservador. En este caso deberíamos estar dispuestos a aceptar un rendimiento bajo, ya que, como hemos dicho, riesgo y rentabilidad están directamente relacionadas.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "¿Por qué es tan importante conocer su perfil?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Determinar el perfil del inversor es el punto de partida para la toma de decisiones. Si conocemos nuestro perfil podremos saber si un producto nos conviene o no. Una vez que conozcamos nuestro perfil debemos ser capaces de encontrar un producto apropiado para ese perfil: debemos ser conscientes del nivel de riesgo que asumimos en cada producto que contratemos. Un riesgo inadecuado, ya sea porque no hayamos determinado correctamente nuestro perfil, o porque conociendo nuestro perfil los productos no encajen en él, puede provocarnos más de un disgusto.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ejemplo: Supongamos un inversor conservador, es decir que no quiere arriesgar nada de su capital. A este inversor le ofrecen un fondo de inversión de renta fija a largo plazo y lo contrata pensando que su valor nunca puede caer. Sin embargo, se produce una subida de tipos de interés que afecta negativamente al valor de sus participaciones en el fondo y cuando le llega a su casa una carta del banco informándole del valor actual de su fondo, obaserva con sorpresa que tiene menos dinero del que invirtió inicialmente. No ha ocurrido nada raro con este fondo, el problema es que el inversor no sabía donde metía el dinero.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Tenga en cuenta que..."
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Conocer el perfil del inversor no es sencillo, ya que implica valorar elementos subjetivos, difíciles de cuantificar que quizá ni el propio inversor conozca con certeza (¿sabemos exactamente hasta qué punto estamos dispuestos a arriesgar nuestro dinero?).",
+        "No se puede hablar de una clasificación exacta, con perfiles absolutos en los que un inversor encaje a la perfección.",
+        "El paso del tiempo (horizonte temporal), los cambios en nuestra situación financiera y lo que nos va sucediendo (por ejemplo una mala experiencia bursátil), hacen que nuestro perfil pueda ir variando.",
+        "El perfil suele definirse en términos globales. El hecho de ser catalogado como inversor conservador no quiere decir que no se puedan invertir parte de los ahorros en productos destinados a inversores más agresivos."
+      ]
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:13:41.813335+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 6110,
+    "input_tokens": 2503,
+    "output_tokens": 1864
+  }
+}

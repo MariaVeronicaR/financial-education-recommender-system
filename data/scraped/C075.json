@@ -1,0 +1,113 @@
+{
+  "content_id": "C075",
+  "url": "https://www.finanzasparatodos.es/herramientas/mi-valor-neto",
+  "source": "Finanzas para Todos",
+  "host": "www.finanzasparatodos.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 53001
+  },
+  "title": "Mi valor neto -",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Mi valor neto"
+    },
+    {
+      "level": 2,
+      "text": "Resultados"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Mi valor neto",
+      "start": 0,
+      "end": 141,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Resultados",
+      "start": 141,
+      "end": 553,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Mi valor neto"
+    },
+    {
+      "type": "paragraph",
+      "text": "{{ title }}\n{{ summary }}\n{{ category.title }}\n{{ category.total }}"
+    },
+    {
+      "type": "paragraph",
+      "text": "Collapse"
+    },
+    {
+      "type": "paragraph",
+      "text": "{{ category.title }}\n{{ category.total }}"
+    },
+    {
+      "type": "paragraph",
+      "text": "Collapse"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Resultados"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Total Activo {{ formatCurrencyNumber(totalSaving) }}",
+        "Total Pasivo {{ formatCurrencyNumber(totalBills) }}",
+        "Valor Neto: {{ formatCurrencyNumber(totalDifference) }}"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "{{ footerInfo }}"
+    }
+  ],
+  "text": "Mi valor neto\n{{ title }}\n{{ summary }}\n                   {{ category.title }}\n                  {{ category.total }}\n                   \n                  Collapse\n                \n                \n                   {{ category.title }}\n                  {{ category.total }}\n                   \n                  Collapse\n                \n                Resultados\n- Total Activo {{ formatCurrencyNumber(totalSaving) }}\n- Total Pasivo {{ formatCurrencyNumber(totalBills) }}\n- Valor Neto: {{ formatCurrencyNumber(totalDifference) }}\n{{ footerInfo }}",
+  "text_len": 553,
+  "num_headings": 2,
+  "metadata": {
+    "title": "Mi valor neto -",
+    "url": "https://www.finanzasparatodos.es/herramientas/mi-valor-neto",
+    "hostname": "finanzasparatodos.es",
+    "sitename": "finanzasparatodos.es",
+    "date": "2024-01-01",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": true,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Calculadora de patrimonio neto",
+    "topic": "planificación",
+    "subtopic": "herramienta patrimonio",
+    "difficulty": "intermedio",
+    "format": "calculadora",
+    "summary": "Calculadora para estimar el patrimonio neto (activos menos pasivos)",
+    "learning_objective": "Conocer la situación patrimonial real del hogar"
+  },
+  "deduped_from": null
+}

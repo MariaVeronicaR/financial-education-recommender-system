@@ -1,0 +1,57 @@
+{
+  "content_id": "C095",
+  "tldr": "Un tipo de cambio expresa el precio de una moneda en términos de otra, como el valor del euro frente al dólar (p. ej. 1,14 $/€). Este valor varía continuamente: si el euro sube se dice que se aprecia y permite comprar más dólares con un euro; si baja, se deprecia y compra menos dólares.",
+  "key_points": [
+    "El tipo de cambio indica el valor o precio de una moneda expresado en otra moneda.",
+    "En 2020, el tipo de cambio medio del euro frente al dólar era de 1,14 $/€, es decir, con 1 euro se podían comprar 1,14 dólares.",
+    "El valor del euro varía de forma continua en el tiempo.",
+    "Si el euro sube frente al dólar se dice que se aprecia, permitiendo comprar más dólares con un euro.",
+    "Si el euro baja frente al dólar se dice que se deprecia, permitiendo comprar menos dólares con un euro."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué indica un tipo de cambio de 1,14 $/€?",
+      "options": [
+        "Que con 1 dólar se pueden comprar 1,14 euros",
+        "Que con 1 euro se pueden comprar 1,14 dólares",
+        "Que con 1,14 euros se puede comprar 1 dólar",
+        "Que el euro y el dólar valen exactamente lo mismo"
+      ],
+      "correct_index": 1,
+      "explanation": "El tipo de cambio se expresa como moneda por euro (1,14 $/€), por lo que con 1 euro se obtienen 1,14 dólares.",
+      "concept_id": "C17"
+    },
+    {
+      "question": "Si el euro se aprecia frente al dólar, ¿qué ocurre?",
+      "options": [
+        "Con 1 euro se pueden comprar menos dólares",
+        "El euro se vuelve más débil frente al dólar",
+        "Con 1 euro se pueden comprar más dólares",
+        "El dólar sube de valor frente al euro"
+      ],
+      "correct_index": 2,
+      "explanation": "Cuando el euro se aprecia, su valor aumenta y con 1 euro se pueden comprar más dólares.",
+      "concept_id": "C17"
+    },
+    {
+      "question": "Decimos que el euro se deprecia frente al dólar cuando...",
+      "options": [
+        "su valor baja y con 1 euro se compran menos dólares",
+        "su valor sube y con 1 euro se compran más dólares",
+        "el tipo de cambio se mantiene estable",
+        "el dólar deja de tener valor"
+      ],
+      "correct_index": 0,
+      "explanation": "La depreciación significa que el euro se debilita, por lo que con 1 euro se pueden comprar menos dólares.",
+      "concept_id": "C17"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 3535,
+    "input_tokens": 1403,
+    "output_tokens": 734
+  }
+}

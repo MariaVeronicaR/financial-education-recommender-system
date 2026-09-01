@@ -1,0 +1,972 @@
+<!DOCTYPE html>
+
+<html lang="es" class="no-js">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta charset="utf-8">
+	<meta id="metaViewport" name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>	
+	
+	<script type="text/javascript">
+		var clieban = {};
+		clieban.assetPath = '/f/webcb/INF/assets/';
+	</script>
+
+	<script type='text/javascript'>const env = "PROD";</script>
+	<script type='text/javascript'>var isMgmt = false;</script>
+	
+	
+
+
+	
+		<link media="all" type="text/css" rel="stylesheet" href="/s/vap_pcb/assets/css/bde-clieban-vendor.css" /><link media="all" type="text/css" rel="stylesheet" href="/s/vap_pcb/assets/css/bde-clieban.css" /><!--[if IE 9]><link media="all" type="text/css" rel="stylesheet" href="/s/vap_pcb/assets/css/bde-clieban-ie9.css" /><![endif]--><link media="print" type="text/css" rel="stylesheet" href="/s/vap_pcb/assets/css/bde-clieban-print.css" /><script src="/s/vap_pcb/assets/js/bde-clieban-vendor.js" type="text/javascript"> </script><script src="/s/vap_pcb/assets/js/bde-clieban-plugins.js" type="text/javascript"> </script><script src="/s/vap_pcb/assets/js/bde-clieban.js" type="text/javascript"> </script><script src="/s/vap_pcb/assets/js/aviso_cookies.js" type="text/javascript"> </script><link rel="shortcut icon" type="image/x-icon" href="/f/webcb/INF/assets/images/favicon.ico" />
+<title>Hipotecas - Cliente Bancario, Banco de España</title><link href="https://clientebancario.bde.es/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/" rel="canonical" /><meta name="description" lang="es" content="Hipotecas" />
+
+
+	
+	
+
+
+	<script src="/f/webcb/INF/assets/js/locale/i18n_es.js"></script>
+
+</head>
+<body>
+	<div class="wrapper" id="wrapper">
+		
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+<header class="header">
+	<div class="header-top bgfluid0">
+		<div class="container">
+			
+			<a href="http://www.bde.es/bde/es/" title="Banco de España Eurosistema" class="mainLogo">
+  <span class="sr-only">Ir a la página de inicio del Banco de España</span><i class="icon-logo-banco"></i></a><div class="infoBlock col-sm-8 hidden-xs pull-right">
+  <div class="languageTelBlock">
+    <div id="om-3" class="language om">
+      <a data-text-xs="Idioma" class="langSelected collapsed toggleMenuContent icon-flecha_idioma" aria-controls="languageSelector" aria-expanded="false" data-toggle="collapse" href="#languageSelector">
+        <span class="visible-xs">Idioma</span>
+        <span class="hidden-xs">Español</span>
+      </a>
+      <ul id="languageSelector" data-toggle="langSelected" class="languageSelector collapse">
+        <li>
+          <a href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/" hreflang="es" lang="es">
+            <abbr lang="es" title="Español">Español</abbr>
+          </a>
+        </li>
+        <li>
+          <a href="/pcb/en/menu-horizontal/productosservici/financiacion/hipotecas/" hreflang="en" lang="en">
+            <abbr lang="en" title="English">English</abbr>
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div id="om-1" class="telephones om">
+      <span class="visible-xs">Contacto</span>
+      <span class="text">
+        <span data-tel="900545454" class="tel tel-mobile">900.545.454 </span>/<span class="tel"> 913.388.830</span>
+      </span>
+      <span class="telDecorator button"><i class="icon-contacto_telf"></i></span>
+    </div>
+  </div>
+  <div class="searchBlock">
+    <form name="formulario_buscar" aria-labelledby="searchButton" data-toggle="launchSearch" class="searchForm pull-right hidden om" id="om-0" method="get" action="/pcb/es/home/buscador/">
+      <input value="es" name="lang" id="languajeValueAddSearch" type="hidden" />
+      <input value="1" name="page" id="page" type="hidden" />
+      <div class="input-group pull-right">
+        <label for="searchField" class="sr-only">Caja de búsqueda</label>
+        <input autocomplete="off" onkeyup="document.forms[0].searchterm.value = document.forms[0].searchField.value" placeholder="Buscar por..." id="searchField" class="form-control" name="searchterm" type="text" />
+        <span class="input-group-btn">
+          <button type="submit" class="btn searchButton btn-link button"><i class="icon-lupa_buscador"></i>
+            <span class="sr-only">Buscar en el Portal del Cliente Bancario</span>
+          </button>
+          <button type="button" data-container="searchBlock" class="btn closeButton btn-link toggleTrigger button"><i class="icon-x_cerrar_buscar"></i>
+            <span class="sr-only">Cerrar el buscador</span>
+          </button>
+        </span>
+      </div>
+    </form>
+    <a data-autofocus="#searchField" id="searchButton" aria-expanded="true" title="Mostrar Caja de Búsqueda" data-container="searchBlock" data-toggle="searchForm" class="launchSearch searchButton toggleTrigger button" href="#"><i class="icon-lupa_buscador"></i>
+      <span class="sr-only">Mostrar Caja de Búsqueda</span>
+    </a>
+  </div>
+</div>
+
+			
+		</div>
+	</div>
+	<div class="header-logo bgfluid1">
+		<div class="container">
+			
+			<a class="logo" href="/pcb/es/">
+  <span class="sr-only">Cliente Bancario del Banco de España Eurosistema, ir a inicio</span><i class="icon-logo_portal"></i></a><div class="hidden-xs pull-right reclamacionBlock">
+  <a class="reclamacion om" id="x68e8" title="Reclamación Online" target="_blank" href="https://sedeelectronica.bde.es/sede/es/tramites/reclamaciones-transparencia-buenas-practicas-p104.html?opcion_tramitacion=ciudadanos%2Felectronico%2Fpresentar-nueva-reclamacion">Reclamación Online<i class="icon-consultas"></i></a>
+  <a class="reclamacion om" id="xe5c8" title="Consultas online" target="_blank" href="https://sedeelectronica.bde.es/sede/es/tramites/reclamaciones-transparencia-buenas-practicas-p104.html?opcion_tramitacion=ciudadanos%2Felectronico%2Fpresentar-nueva-consulta">Consultas online<i class="icon-consultas"></i></a>
+</div>
+
+			
+		</div>
+	</div>
+</header>
+<nav class="menu bgfluid2" id="menu">
+	<div class="container">
+		
+		<ul class="menu-list">
+  <li class="menu-fullsubopen">
+    <a href="#" class="menu-link">Productos y servicios bancarios<span class="sr-only">Mostrar menú</span>
+    </a>
+    <ul>
+      <li>
+        <span>Financiación</span>
+        <ul>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/" target="_self">Hipotecas</a>
+          </li>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/financiacion/deudores-hipotecarios-sin-recursos/" target="_self">Deudores hipotecarios en dificultades</a>
+          </li>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/financiacion/prestamopersonal/" target="_self">Préstamo personal y crédito al consumo</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <span>Servicios de pago</span>
+        <ul>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/serviciospago/tarjetas/" target="_self">Tarjetas</a>
+          </li>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/serviciospago/traspasostransfe/" target="_self">Traspasos y transferencias</a>
+          </li>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/serviciospago/Adeudos_domiciliados.html" target="_self">Adeudos domiciliados</a>
+          </li>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/serviciospago/Cajeros.html" target="_self">Cajeros</a>
+          </li>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/serviciospago/Dinero_electronico.html" target="_self">Dinero electrónico</a>
+          </li>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/serviciospago/retirada_ingresos_efectivo.html" target="_self">Retirada e ingresos en efectivo</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <span>Cuentas y depósitos</span>
+        <ul>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/cuentasdepositos/cuentascorriente/" target="_self">Cuentas corrientes, depósitos a la vista y libretas de ahorro</a>
+          </li>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/cuentasdepositos/depositosplazo/" target="_self">Depósitos a plazo</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <span>Efectivo y cheques</span>
+        <ul>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/efectivocheques/cheques/" target="_self">Cheques</a>
+          </li>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/efectivocheques/efectivo.html" target="_self">Efectivo</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/avales/" target="_self">Avales</a>
+      </li>
+      <li>
+        <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/herencias/" target="_self">Herencias</a>
+      </li>
+    </ul>
+  </li>
+  <li class="menu-fullsubopen">
+    <a href="#" class="menu-link">Podemos ayudarte<span class="sr-only">Mostrar menú</span>
+    </a>
+    <ul>
+      <li>
+        <span>Consultas y reclamaciones</span>
+        <ul>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/podemosayudarte/consultasreclama/comorealizarconsulta/" target="_self">Cómo realizar una consulta</a>
+          </li>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/podemosayudarte/consultasreclama/comorealizarrecl/" target="_self">Cómo realizar una reclamación</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a class="menu-link" href="https://www.bde.es/wbe/es/publicaciones/informes-memorias-anuales/memoria-reclamaciones/criterio-buenas-practicas-bancarias/compendio-de-criterios-de-buenas-practicas-bancarias.html" target="_blank">Compendio de criterios de buenas prácticas</a>
+      </li>
+      <li>
+        <a class="menu-link" href="https://app.bde.es/hnb_www/" target="_blank">Aplicación EncuenTRA</a>
+      </li>
+      <li>
+        <a class="menu-link" href="/pcb/es/menu-horizontal/podemosayudarte/simuladores/" target="_self">Simuladores: calcula la cuota, la rentabilidad, la TAE y mucho más</a>
+      </li>
+      <li>
+        <a class="menu-link" href="/pcb/es/menu-horizontal/podemosayudarte/cirbe/" target="_self">CIRBE</a>
+      </li>
+      <li>
+        <a class="menu-link" href="/pcb/es/menu-horizontal/podemosayudarte/entidades/" target="_self">Entidades</a>
+      </li>
+      <li>
+        <a class="menu-link" href="/pcb/es/menu-horizontal/podemosayudarte/tiposinteres/" target="_self">Tipos de interés</a>
+      </li>
+      <li>
+        <a class="menu-link" href="/pcb/es/menu-horizontal/podemosayudarte/comisiones/" target="_self">Comisiones</a>
+      </li>
+      <li>
+        <a class="menu-link" href="/pcb/es/menu-horizontal/podemosayudarte/pymesautonomos/" target="_self">Pymes y autónomos</a>
+      </li>
+      <li>
+        <a class="menu-link" href="https://www.bde.es/wbe/es/para-ciudadano/" target="_blank">Servicios del Banco de España para la ciudadanía</a>
+      </li>
+    </ul>
+  </li>
+  <li class="menu-fullsubopen">
+    <a href="#" class="menu-link">Educación financiera<span class="sr-only">Mostrar menú</span>
+    </a>
+    <ul>
+      <li>
+        <a class="menu-link" href="https://www.bde.es/wbe/es/areas-actuacion/educacion-financiera/" target="_blank">Qué es la educación financiera</a>
+      </li>
+      <li>
+        <a class="menu-link" href="/pcb/es/menu-horizontal/actualidadeducac/educacion-financiera/" target="_self">Educación financiera para el cliente bancario</a>
+      </li>
+      <li>
+        <a class="menu-link" href="/pcb/es/menu-horizontal/actualidadeducac/videos?videos=/webcb/Videos/Destacados" target="_self">Vídeos</a>
+      </li>
+      <li>
+        <a class="menu-link" href="/pcb/es/menu-horizontal/actualidadeducac/podcasts?podcasts=/webcb/Podcasts/Destacados" target="_self">Podcasts</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a class="menu-link" href="/pcb/es/blog/" target="_self">Blog<span class="sr-only">Mostrar menú</span>
+    </a>
+  </li>
+</ul>
+
+		
+	</div>
+</nav>
+
+	
+	
+
+		
+		
+
+
+	
+		<nav class="breadcrumbs bgfluid0">
+  <div class="container">
+    <ol class="breadcrumbs-list">
+      <li>
+        <a class="breadcrumbs-link" href="/pcb/es/">Inicio</a>
+      </li>
+      <li>
+        <span>Productos y servicios bancarios</span>
+      </li>
+      <li>
+        <span>Financiación</span>
+      </li>
+      <li class="last">
+        <span>Hipotecas</span>
+      </li>
+    </ol>
+  </div>
+</nav>
+
+
+	
+	
+
+
+		<div class="content" id="content">
+			
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+	<div class="row row-flex-column">
+		<div class="col-md-9 col-flex-column col-centro">
+			
+				<div class="page-title">
+  <h1>Hipotecas</h1><p>El pr&eacute;stamo hipotecario&nbsp;nos&nbsp;permite disponer de una importante cantidad de dinero, habitualmente, para comprar&nbsp;una vivienda o rehabilitarla. Esta&nbsp;es una decisi&oacute;n financiera muy importante, por lo que conviene tener muy claro qu&eacute; es y qu&eacute; modalidades nos ofrece un pr&eacute;stamo hipotecario.</p></div>
+
+			
+			<div class="product">
+				
+					<div class="product-item column2">
+  <h2 class="product-item--header">Contratar una hipoteca</h2>
+  <div class="content-itd content-itd--line">
+    <div class="image-wrapper">
+      <img class="content-itd--image" alt="" src="/f/webcb/RCL/ProductosServiciosBancarios/Financiacion/Hipotecas/PrimerosPasosContratacion/Primerospasos265x158.jpg" />
+    </div>
+    <div class="content-itd--description">
+      <p>Si estamos interesados en la contratación de una hipoteca, debemos analizar la oferta que nos propongan, compararla con otras del mercado y sopesar nuestras necesidades y posibilidades de afrontar los pagos durante un periodo largo de tiempo.
+
+
+</p>
+    </div>
+  </div>
+  <ul class="product-item--list column2">
+    <li>
+      <a aria-label=" - Contratación de la hipoteca" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/guia-textual/primerospasoscon/Contratacion_de_la_hipoteca.html" class="product-item--link">Contratación de la hipoteca</a>
+    </li>
+    <li>
+      <a aria-label=" - Préstamo o crédito hipotecario" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/guia-textual/primerospasoscon/Prestamo_o_credito_hipotecario.html" class="product-item--link">Préstamo o crédito hipotecario</a>
+    </li>
+    <li>
+      <a aria-label=" - Hipoteca a tipo fijo o variable" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/guia-textual/primerospasoscon/Hipoteca_a_tipo_2ada24e53ab1d51.html" class="product-item--link">Hipoteca a tipo fijo o variable</a>
+    </li>
+    <li>
+      <a aria-label=" - Plazo de amortización" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/guia-textual/primerospasoscon/Plazo_de_amortizacion.html" class="product-item--link">Plazo de amortización</a>
+    </li>
+    <li>
+      <a aria-label=" - Período de carencia" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/guia-textual/primerospasoscon/Periodo_de_carencia.html" class="product-item--link">Período de carencia</a>
+    </li>
+    <li>
+      <a aria-label=" - Productos vinculados al préstamo" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/guia-textual/primerospasoscon/Productos_vincu_68ea24e53ab1d51.html" class="product-item--link">Productos vinculados al préstamo</a>
+    </li>
+    <li>
+      <a aria-label=" - Cuota hipotecaria" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/guia-textual/primerospasoscon/Cuota_hipotecaria.html" class="product-item--link">Cuota hipotecaria</a>
+    </li>
+    <li>
+      <a aria-label=" - Gastos asociados a la hipoteca" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/guia-textual/primerospasoscon/Gastos_asociados_a_la_hipoteca.html" class="product-item--link">Gastos asociados a la hipoteca</a>
+    </li>
+    <li>
+      <a aria-label=" - Seguros hipotecarios" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/guia-textual/primerospasoscon/Seguros_hipotecarios.html" class="product-item--link">Seguros hipotecarios</a>
+    </li>
+  </ul>
+</div><div class="product-item column2">
+  <h2 class="product-item--header">Modificar la hipoteca</h2>
+  <div class="content-itd ">
+    <div class="content-itd--description">
+      <p>Teniendo en cuenta que una hipoteca es un producto de larga duración, las condiciones financieras, incluso las normas que la regulan, podrán cambiar durante el tiempo que esté viva. </p>
+    </div>
+  </div>
+  <ul class="product-item--list column2">
+    <li>
+      <a aria-label=" - Novación o cambio en las condiciones" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/guia-textual/vidahipoteca/Novacion_o_camb_d1cc24e53ab1d51.html" class="product-item--link">Novación o cambio en las condiciones</a>
+    </li>
+    <li>
+      <a aria-label=" - Subrogación o cambio de banco" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/guia-textual/vidahipoteca/Subrogacion_o_cambio_de_banco.html" class="product-item--link">Subrogación o cambio de banco</a>
+    </li>
+    <li>
+      <a aria-label=" - Amortización parcial anticipada" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/guia-textual/vidahipoteca/Amortizacion_pa_b3dc24e53ab1d51.html" class="product-item--link">Amortización parcial anticipada</a>
+    </li>
+    <li>
+      <a aria-label=" - Cancelación anticipada" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/guia-textual/vidahipoteca/Cancelacion_anticipada.html" class="product-item--link">Cancelación anticipada</a>
+    </li>
+    <li>
+      <a aria-label=" - Reembolso anticipado" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/guia-textual/vidahipoteca/Reembolso_anticipado.html" class="product-item--link">Reembolso anticipado</a>
+    </li>
+    <li>
+      <a aria-label=" - Vencimiento anticipado" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/guia-textual/vidahipoteca/Vencimiento_anticipado.html" class="product-item--link">Vencimiento anticipado</a>
+    </li>
+  </ul>
+</div><div class="product-item column2">
+  <h2 class="product-item--header">Otros temas relacionados con la hipoteca</h2>
+  <div class="content-itd content-itd--line">
+    <div class="image-wrapper">
+      <img class="content-itd--image" alt="" src="/f/webcb/RCL/ProductosServiciosBancarios/Financiacion/Hipotecas/CancelarHipoteca/611185590.jpg" />
+    </div>
+    <div class="content-itd--description">
+      <p>Durante la vida de la hipoteca y hasta su vencimiento podrían surgir diversas situaciones que conviene conocer.</p>
+    </div>
+  </div>
+  <ul class="product-item--list column2">
+    <li>
+      <a aria-label=" - Qué hacer si no puedo pagar la hipoteca" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/guia-textual/cancelarhipoteca/Que_hacer_si_no_1cec24e53ab1d51.html" class="product-item--link">Qué hacer si no puedo pagar la hipoteca</a>
+    </li>
+    <li>
+      <a aria-label=" - Hipoteca titulizada o cedida a un tercero" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/guia-textual/cancelarhipoteca/Hipoteca_tituli_30dc24e53ab1d51.html" class="product-item--link">Hipoteca titulizada o cedida a un tercero</a>
+    </li>
+    <li>
+      <a aria-label=" - Venta del inmueble con hipoteca" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/guia-textual/cancelarhipoteca/Venta_del_inmue_4518fc6da67be51.html" class="product-item--link">Venta del inmueble con hipoteca</a>
+    </li>
+    <li>
+      <a aria-label=" - Cancelación registral de la hipoteca" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/guia-textual/cancelarhipoteca/Cancelacion_reg_98ec24e53ab1d51.html" class="product-item--link">Cancelación registral de la hipoteca</a>
+    </li>
+  </ul>
+</div><div class="product-item column2">
+  <h2 class="product-item--header">Hipotecas especiales</h2>
+  <div class="content-itd ">
+    <div class="content-itd--description">
+      <p>Las hipotecas pueden adaptarse a tus particularidades: si eres joven o ya has cumplido 65 años, pregunta por productos específicos para ti.</p>
+    </div>
+  </div>
+  <ul class="product-item--list column2">
+    <li>
+      <a aria-label=" - Hipoteca multidivisa" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/guia-textual/hipotecasespecia/Hipoteca_multidivisa.html" class="product-item--link">Hipoteca multidivisa</a>
+    </li>
+    <li>
+      <a aria-label=" - Hipoteca inversa" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/guia-textual/hipotecasespecia/Hipoteca_inversa.html" class="product-item--link">Hipoteca inversa</a>
+    </li>
+    <li>
+      <a aria-label=" - Hipotecas subvencionadas" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/guia-textual/hipotecasespecia/Hipotecas_subvencionadas.html" class="product-item--link">Hipotecas subvencionadas</a>
+    </li>
+  </ul>
+</div>
+
+				
+			</div>
+		</div>
+		<div class="col-md-3 col-flex-column col-rel-der">
+			<div class="related">
+				
+				
+					
+												
+					
+				
+					
+												
+					
+				
+					
+												
+					
+				
+					
+				
+				
+					<ul class="related-list" id="related">
+						
+							<li class="related-item related-simulators">
+  <h2 data-id="related-simulators" class="related-header">Usa nuestros simuladores</h2>
+  <div id="related-simulators" class="related-body">
+    <ul class="related-body--list related-simulators">
+      <li class="icon-simulador_tae_hipoteca">
+        <a href="/pcb/es/menu-horizontal/podemosayudarte/simuladores/calculo-de-la-tae-de-un-prestamo-hipotecario.html" class="related-link">Cálculo de la TAE de un préstamo hipotecario</a>
+      </li>
+      <li class="icon-simulador_cuota">
+        <a href="/pcb/es/menu-horizontal/podemosayudarte/simuladores/simulador_prestamo_hipotecario_personal.html" class="related-link">Cuota a pagar en un préstamo (hipotecario o personal)</a>
+      </li>
+    </ul>
+    <div class="related-footer">
+      <a href="/pcb/es/menu-horizontal/podemosayudarte/simuladores/" class="related-link" title="Acceso a Más simuladores">Más simuladores</a>
+    </div>
+  </div>
+</li>
+
+						
+							<li class="related-item">
+  <h2 data-id="related-interest-rates" class="related-header">Tipos de interés</h2>
+  <div id="related-interest-rates" class="related-body">
+    <ul class="related-body--list ">
+      <li>
+        <a href="/pcb/es/menu-horizontal/podemosayudarte/tiposinteres/guia_textual/tiposinteresreferenciaotrostiposfrecuentes/tabla_tipos_referencia_oficiales_mercado_hipotecario.html" class="related-link">Tabla de los tipos de referencia oficiales del mercado hipotecario</a>
+      </li>
+    </ul>
+    <div class="related-footer">
+      <a href="?producto=/webcb/ServiciosProductosBancarios/Financiacion/Hipotecas" class="related-link" title="Acceso a Más tipos de interés">Más tipos de interés</a>
+    </div>
+  </div>
+</li>
+
+						
+							<li class="related-item">
+  <h2 data-id="related-commissions" class="related-header">Comisiones</h2>
+  <div id="related-commissions" class="related-body">
+    <ul class="related-body--list ">
+      <li>
+        <a href="/pcb/es/menu-horizontal/podemosayudarte/comisiones/comisionesproductosbancarios/comision-de-apertura-de-un-prestamo.html" class="related-link">Comisión de apertura de un préstamo</a>
+      </li>
+      <li>
+        <a href="/pcb/es/menu-horizontal/podemosayudarte/comisiones/comisionesproductosbancarios/comision_mantenimiento_cuenta_vinculada_hipoteca.html" class="related-link">Comisión de mantenimiento en cuentas vinculadas a hipotecas</a>
+      </li>
+    </ul>
+    <div class="related-footer">
+      <a href="?producto=/webcb/ServiciosProductosBancarios/Financiacion/Hipotecas" class="related-link" title="Acceso a Más comisiones">Más comisiones</a>
+    </div>
+  </div>
+</li>
+
+						
+							
+
+						
+					</ul>
+				
+			</div>
+		</div>	
+	</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+	
+		
+		
+			
+
+		
+	
+
+	
+		
+		
+			<div class="container">
+  <div class="faqs">
+    <h2 class="faqs-header">CONSULTAS FRECUENTES</h2>
+    <ul class="faqs-list">
+      <li><p><strong>Redondeo&nbsp;del tipo de inter&eacute;s de una&nbsp;hipoteca</strong></p>
+        <a href="/pcb/es/menu-horizontal/podemosayudarte/consultasreclama/consultasreclama/?collapse=780a8f5029d60610VgnVCM10000064de14acRCRD#heading-780a8f5029d60610VgnVCM10000064de14acRCRD">Leer respuesta<span class="sr-only">sobre<p><strong>Redondeo&nbsp;del tipo de inter&eacute;s de una&nbsp;hipoteca</strong></p></span>
+        </a>
+      </li>
+      <li><p><strong>&iquest;Puede mi entidad atender otras deudas con el dinero ingresado para pagar la cuota de mi hipoteca?</strong></p>
+        <a href="/pcb/es/menu-horizontal/podemosayudarte/consultasreclama/consultasreclama/?collapse=2cc2c9c14ae8b610VgnVCM10000064de14acRCRD#heading-2cc2c9c14ae8b610VgnVCM10000064de14acRCRD">Leer respuesta<span class="sr-only">sobre<p><strong>&iquest;Puede mi entidad atender otras deudas con el dinero ingresado para pagar la cuota de mi hipoteca?</strong></p></span>
+        </a>
+      </li>
+    </ul>
+    <div class="faqs-footer">
+      <a href="/pcb/es/menu-horizontal/podemosayudarte/consultasreclama/consultasreclama/?producto=/webcb/ServiciosProductosBancarios/Financiacion/Hipotecas">Más consultas</a>
+    </div>
+  </div>
+</div>
+
+		
+	
+
+	
+		
+		
+			<div class="container">
+  <div class="interest">
+    <h2 class="interest-header">TE PUEDE INTERESAR</h2>
+    <div class="interest-list" id="carousel-interest">
+      <span class="interest-item"><a class="interest-link" 
+				href="/pcb/es/blog/seguro-hipotecas.html" title="¿Puede imponerme el banco su seguro con la hipoteca?" >
+        <div class="image-wrapper">
+          <img alt="" src="/f/webcb/RCL/ActualidadEducacionFinanciera/Blog/novedades/Seguro-Hipoteca-270x141.jpg" />
+        </div>
+        <span class="interest-title">¿Puede imponerme el banco su seguro con la hipoteca?</span></a></span>
+      <span class="interest-item"><a class="interest-link" 
+				href="/pcb/es/blog/que-gastos-te-toca-pagar-cuando-contratas-una-hipoteca-.html" title="¿Qué gastos te toca pagar cuando contratas una hipoteca?" >
+        <div class="image-wrapper">
+          <img alt="" src="/f/webcb/RCL/ActualidadEducacionFinanciera/Blog/novedades/Gastos-hipoteca-2021-270x141.jpg" />
+        </div>
+        <span class="interest-title">¿Qué gastos te toca pagar cuando contratas una hipoteca?</span></a></span>
+      <span class="interest-item"><a class="interest-link" 
+				href="/pcb/es/blog/simulador-de-calculo-de-la-tae-de-una-hipoteca.html" title="Simulador de cálculo de la TAE de una hipoteca" >
+        <div class="image-wrapper">
+          <img alt="" src="/f/webcb/RCL/ActualidadEducacionFinanciera/Blog/novedades/Simulador-TAE-hipoteca-270x141.jpg" />
+        </div>
+        <span class="interest-title">Simulador de cálculo de la TAE de una hipoteca</span></a></span>
+      <span class="interest-item"><a class="interest-link" 
+				href="/pcb/es/blog/apoyo-para-el-pago-de-las-hipotecas.html" title="Medidas para aliviar el pago de las hipotecas" >
+        <div class="image-wrapper">
+          <img alt="" src="/f/webcb/RCL/ActualidadEducacionFinanciera/Blog/novedades/Apoyo_pago_hipotecas-270x141.jpg" />
+        </div>
+        <span class="interest-title">Medidas para aliviar el pago de las hipotecas</span></a></span>
+    </div>
+    <div class="interest-footer">
+      <a href="/pcb/es/blog/?blog=" class="interest-link"> Más publicaciones</a>
+    </div>
+  </div>
+</div>
+
+		
+	
+
+	
+		
+			<div class="bgfluid-image1">
+				<div class="container">
+					<div xmlns:commonutilities="xalan://es.bde.vcm.common.CommonUtilities" class="container">
+  <div class="commentBlock commentBlock-line">
+    <div class="headerRating">
+      <div class="row">
+        <div id="social-links" class="social col-sm-4">
+          <ul>
+            <li>
+              <a title="Compartir por correo" href="mailto:?subject=Portal&#160;del&#160;Cliente&#160;Bancario:&#160;Hipotecas&#160;&amp;body=Hipotecas&#160;:%0D%0Ahttps%3A%2F%2Fclientebancario.bde.es%2Fpcb%2Fes%2Fmenu-horizontal%2Fproductosservici%2Ffinanciacion%2Fhipotecas%2F">
+                <span class="sr-only">Compartir por correo</span><i class="icon-sobre_email"></i></a>
+            </li>
+            <li>
+              <a title="Compartir en ... Facebook" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fclientebancario.bde.es%2Fpcb%2Fes%2Fmenu-horizontal%2Fproductosservici%2Ffinanciacion%2Fhipotecas%2F" target="_blank">
+                <span class="sr-only">Compartir en ... Facebook</span><i class="icon-facebook"></i></a>
+            </li>
+            <li>
+              <a title="Compartir en ... Twitter" href="http://twitter.com/share?url=https%3A%2F%2Fclientebancario.bde.es%2Fpcb%2Fes%2Fmenu-horizontal%2Fproductosservici%2Ffinanciacion%2Fhipotecas%2F" target="_blank">
+                <span class="sr-only">Compartir en ... Twitter</span><i class="icon-twitter"></i></a>
+            </li>
+            <li>
+              <a title="Compartir en ... Linkedin" href="http://www.linkedin.com/cws/share?url=https%3A%2F%2Fclientebancario.bde.es%2Fpcb%2Fes%2Fmenu-horizontal%2Fproductosservici%2Ffinanciacion%2Fhipotecas%2F" target="_blank">
+                <span class="sr-only">Compartir en ... Linkedin</span><i class="icon-linkedin"></i></a>
+            </li>
+          </ul>
+        </div>
+        <div class="rating col-sm-8" id="ratingBlock">
+          <span class="title">¿Te ha parecido útil esta información?</span>
+          <div class="ratingIcons">
+            <a data-valuation="ok" title="Marcar la información como útil" class="ratingIcons-link" href="#"><i class="icon-mano_ok sel"></i>
+              <span class="sr-only">Marcar la información como útil</span>
+            </a>
+            <a data-valuation="ko" title="Marcar la información como poco útil" class="ratingIcons-link" href="#"><i class="icon-mano_no_ok"></i>
+              <span class="sr-only">Marcar la información como poco útil</span>
+            </a>
+          </div>
+          <span class="title hidden" id="ratingOK">Hemos registrado su valoración, muchas gracias por su participación.</span>
+        </div>
+        <div class="rating col-sm-8 hidden" id="ratingBlockOnError">
+          <span class="title">El servicio de valoración no se encuentra disponible en estos momentos, disculpe las molestias.</span>
+        </div>
+      </div>
+    </div>
+    <form aria-expanded="false" id="commentsForm" method="post" class="commentsForm collapse" action="https://app.bde.es/gnt_seg/verifyRecaptcha.action">
+      <input value="https%3A%2F%2Fclientebancario.bde.es%2Fpcb%2Fes%2Fmenu-horizontal%2Fproductosservici%2Ffinanciacion%2Fhipotecas%2F" name="url" type="hidden" />
+      <input value="" id="commnets_valuation" name="commnets_valuation" type="hidden" />
+      <div class="form-group">
+        <label class="title" for="comments-text">Añade un comentario:</label><textarea id="comments-text" class="form-control" rows="3" name="comentario" maxlength="512"></textarea>
+        <span id="msg-comentario" class="help-block">Longitud máxima del comentario 512 caracteres.</span>
+        <span style="display:none;" id="msg-error" class="errorText" />
+      </div>
+      <div data-sitekey="6LfCdTUpAAAAAGH15aDbIkT55DNnxulLaxJZ1YzS" class="g-recaptcha"> </div>
+      <span style="display:none;" id="captchaErrorText" class="errorText">Captcha Obligatorio</span>
+      <div class="buttons">
+        <button class="cancelButton btn btn-default" type="reset">cancelar</button>
+        <button class="successButton btn btn-default" type="submit">enviar</button>
+      </div>
+      <span style="display:none;" id="ErrorText" class="errorText">Error en el formulario, por favor revise los campos marcados en rojo</span>
+      <p class="block-suggestions__form__google__terms hide-if-error">Este formulario está protegido por reCAPTCHA. Más información en sus enlaces de política de privacidad y términos de uso.</p>
+    </form>
+    <script type="text/javascript">
+				function getINVALID_CHAR_PREFIX() {
+					var CHAR_PREFIX = 'El carácter &quot;';
+					 return CHAR_PREFIX;
+				}
+				
+				function getINVALID_CHAR_SUFFIX() {
+					var CHAR_SUFFIX = '&quot; no está permitido';
+					 return CHAR_SUFFIX;
+				}
+				
+				function getWhiteList() {
+					var whiteList = 'abcdefghijklmnñopqrstuvwxyzABCDEFGHIJKLMNÑOPQRSTUVWXYZ0123456789_ !¡@#$%^&amp;*()+=[{]}\',.¿?/\&quot;;:ºª€-ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüŽÍŠšŽ\r\n';
+					return whiteList;
+				}
+							
+				
+					var captchaLoaded = false;
+					
+					function encodeSubmitURL() {
+						let formulario = document.getElementById('commentsForm');
+						if (formulario[0]) {
+							let notEncodedURL = window.location.href;
+							let encodedURL = btoa(notEncodedURL);
+							//seteamos la URL codificada
+							formulario[0].value = encodedURL;
+						}
+					}
+					
+					function processError() {
+						$('#ratingBlock').css('display','none');
+						$('#commentsForm').css('display','none');
+						$('#ratingBlockOnError').removeClass('hidden');
+					}
+					function validarFrm(){
+						const whitelist = new Set("\u0022" + getWhiteList() + "\u0022");
+						var sVal = jQuery('#comments-text').val();
+						for (const iChar of sVal) {
+							if (!whitelist.has(iChar)) {
+								$('#msg-comentario').css('display','none');
+								jQuery('#msg-error').html(getINVALID_CHAR_PREFIX() + iChar + getINVALID_CHAR_SUFFIX());
+								jQuery('#comments-text').focus();
+								$('#msg-error').show();
+								$('#ErrorText').show();   
+								return false;
+							}
+						}
+						jQuery('#msg-error').html('');
+						return true;
+					}	
+					
+					function getGoogleCaptchaJS() {
+						// Obtenemos el fichero de captcha de google desde aquí para asegurar que
+						// se carga al final y que todos los elementos esten construidos en el DOM
+						var script = document.createElement('script');
+						script.src = 'https://www.google.com/recaptcha/api.js';
+						script.onerror = function() {
+						  console.log('Error al recuperar api.js desde google.com');
+						};	
+						script.async = false;	
+						document.body.appendChild(script);
+					}	
+					
+					$('a.ratingIcons-link').click(function() {
+						encodeSubmitURL();
+						getGoogleCaptchaJS();
+					});
+					
+					//$("#comments-text").on("input", function() {
+					//	$(".successButton").prop("disabled", !$(this).val().trim());
+					//});
+					
+					
+					var frm = $('#commentsForm');
+					frm.submit(function (e) {
+						e.preventDefault();
+						var validar = validarFrm();
+						//if(validarFrm()){
+							$.ajax({
+								accepts: { json: 'application/json' },
+								type: frm.attr('method'),
+								url: frm.attr('action'),
+								xhrFields: {
+									withCredentials: true
+								},
+								data: frm.serialize(),
+								success: function (data) {
+									$('#captchaErrorText').css('display','none');
+									if (data.isCaptchaOk != true) {
+										$('#captchaErrorText').show();	
+										$('#ErrorText').show();                	
+									} else if (data.isDatosProcesados != true) {
+										processError();
+									} else if (validar){
+										$('#commentsForm').css('display','none');
+										$('#ratingOK').removeClass('hidden');
+									}
+								},
+								error: function () {
+									if (data.isCaptchaOk != true) {
+										$('#captchaErrorText').show();	
+										$('#ErrorText').show();                	
+									}
+									if(validar){
+										processError();
+									}
+								},
+								dataType: 'json'
+							});				        
+						//}
+					});		
+				</script>
+  </div>
+</div>
+
+				</div>
+			</div>
+		
+		
+	
+
+
+ 
+		</div>
+		
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+<footer class="footer">
+  	<div class="footer-social bgfluid1">
+  		<div class="container">
+			
+			<div class="footer-social--wrapper">
+  <ul class="footer-social--list">
+    <li>
+      <a class="icon-twitter" target="_blank" href="https://twitter.com/BancoDeEspana" title="twitter">
+        <span class="sr-only">twitter</span>
+      </a>
+    </li>
+    <li>
+      <a class="icon-flickr" target="_blank" href="https://www.flickr.com/photos/bde_fotos/albums" title="flickr">
+        <span class="sr-only">flickr</span>
+      </a>
+    </li>
+    <li>
+      <a class="icon-youtube" target="_blank" href="http://www.youtube.com/user/bdeeuro" title="youtube">
+        <span class="sr-only">youtube</span>
+      </a>
+    </li>
+    <li>
+      <a class="icon-linkedin" target="_blank" href="https://www.linkedin.com/company/banco-de-espana" title="linkedin">
+        <span class="sr-only">linkedin</span>
+      </a>
+    </li>
+    <li>
+      <a class="icon-rss" target="_self" href="/pcb/es/blog/index.rss.html" title="rss">
+        <span class="sr-only">rss</span>
+      </a>
+    </li>
+  </ul>
+  <div class="boton_suscripcion">
+    <a href="/pcb/es/blog/otros/suscripciones/" class="buttonCB button1" target="_self">RECIBIR ALERTAS</a>
+  </div>
+</div>
+
+			
+  		</div>
+  	</div>
+   	<div class="footer-quicklinks bgfluid3">
+   		<div class="container">
+   			<div class="row">
+   				<div class="col-sm-8 col-md-7 hidden-xs">
+   					<div class="row">
+   						<div class="col-xs-6">
+							
+							<ul id="footer-products" class="footer-products">
+  <li class="">
+    <a aria-label="footer-products-Hipotecas" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/">Hipotecas</a>
+  </li>
+  <li class="">
+    <a aria-label="footer-products-Préstamos" href="/pcb/es/menu-horizontal/productosservici/financiacion/prestamopersonal/">Préstamos</a>
+  </li>
+  <li class="">
+    <a aria-label="footer-products-Tarjetas" href="/pcb/es/menu-horizontal/productosservici/serviciospago/tarjetas/">Tarjetas</a>
+  </li>
+  <li class="">
+    <a aria-label="footer-products-Cheques" href="/pcb/es/menu-horizontal/productosservici/efectivocheques/cheques/">Cheques</a>
+  </li>
+  <li class="">
+    <a aria-label="footer-products-Cajeros" href="/pcb/es/menu-horizontal/productosservici/serviciospago/Cajeros.html">Cajeros</a>
+  </li>
+  <li class="">
+    <a aria-label="footer-products-Transferencias" href="/pcb/es/menu-horizontal/productosservici/serviciospago/traspasostransfe/">Transferencias</a>
+  </li>
+</ul>
+
+							
+						</div>
+						<div class="col-xs-6">
+							
+							<ul class="footer-products">
+  <li>
+    <a href="/pcb/es/menu-horizontal/podemosayudarte/simuladores/">Simuladores</a>
+  </li>
+  <li>
+    <a href="/pcb/es/menu-horizontal/podemosayudarte/tiposinteres/">Tipos de interés</a>
+  </li>
+</ul>
+
+							
+						</div>
+					</div>
+				</div>
+       			<div class="col-sm-4 col-md-5">
+					
+					<div class="footer-featured">
+  <h2 class="footer-featured--title">Enlaces destacados</h2>
+  <ul class="footer-featured--list">
+    <li>
+      <a target="_blank" href="http://www.bde.es/bde/es/" class="icon-enlaces_destacados_flecha">Banco de España</a>
+    </li>
+    <li>
+      <a target="_blank" href="http://www.bde.es/bde/es/secciones/servicios/Particulares_y_e/Central_de_Infor/Central_de_Info_04db72d6c1fd821.html" class="icon-enlaces_destacados_flecha">Central de Información de Riesgos (CIRBE)</a>
+    </li>
+    <li>
+      <a target="_blank" href="https://finance.ec.europa.eu/consumer-finance-and-payments/retail-financial-services/financial-dispute-resolution-network-fin-net_es" class="icon-enlaces_destacados_flecha">FIN-NET</a>
+    </li>
+    <li>
+      <a target="_blank" href="https://www.bde.es/bde/es/secciones/servicios/Particulares_y_e/Registros_de_Ent/" class="icon-enlaces_destacados_flecha">Registro de Entidades</a>
+    </li>
+    <li>
+      <a href="#error" class="footer-featured--more icon-mas_icon">Más enlaces de interés</a>
+    </li>
+  </ul>
+</div>
+
+					
+       			</div>
+			</div>			
+		</div>
+	</div>
+   	<div class="footer-links bgfluid3">
+   		<div class="container">
+			
+			<div class="row">
+  <div class="col-sm-12 col-md-9 hidden-xs">
+    <ul id="om-4" class="footer-links--list om">
+      <li>
+        <a target="_self" href="/pcb/es/pie-de-pagina/copyright/mapaweb/">Mapa web</a>
+      </li>
+      <li>
+        <a target="_self" href="/pcb/es/pie-de-pagina/copyright/avisolegal/">Aviso legal </a>
+      </li>
+      <li>
+        <a target="_blank" href="https://www.bde.es/bde/es/Pie/Acces/">Accesibilidad</a>
+      </li>
+      <li>
+        <a target="_blank" href="https://www.bde.es/bde/es/Pie/privacidad/Politica_de_privacidad.html">Política de privacidad</a>
+      </li>
+      <li>
+        <a target="_blank" href="https://www.bde.es/bde/es/Pie/politica-de-cookies/politica-de-cookies.html">Política de cookies</a>
+      </li>
+      <li>
+        <a target="_blank" href="https://sedeelectronica.bde.es/sede/es/tramites/reclamaciones-transparencia-buenas-practicas-p104.html?opcion_tramitacion=ciudadanos%2Felectronico%2Fpresentar-nueva-consulta">Consultas</a>
+      </li>
+    </ul>
+  </div>
+  <div class="col-sm-12 col-md-3">
+    <div class="footer-copy">
+      <span class="footer-copy--text">© Banco de España</span>
+    </div>
+  </div>
+</div>
+
+				
+		</div>
+	</div>	
+</footer>
+	
+	
+
+
+	</div>
+	
+	
+
+
+</body>
+</html>
+
+
+
+
+
+

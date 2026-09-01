@@ -1,0 +1,413 @@
+{
+  "content_id": "C101",
+  "title": "Opciones y Futuros",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "I. Introducción"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque no nos demos cuenta, las opciones y los futuros están frecuentemente presentes en la vida diaria de los ciudadanos que, de forma intuitiva, realizan distintas valoraciones de este tipo de contratos. Nos referimos a casos tan cercanos y habituales como pactar un precio diferido en la compraventa de una vivienda o suscribir un seguro sobre nuestra casa o nuestro coche.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sin embargo, cuando se habla de opciones y futuros referidos a los mercados financieros, en muchas ocasiones se consideran algo alejado de nuestra realidad, cuando muchos inversores, sin operar directamente sobre ellos, tienen o han podido tener entre sus activos este tipo de contratos. En particular, ha podido ocurrir si han encomendado la gestión de carteras a un profesional estableciendo un límite en el riesgo agregado de la inversión o han suscrito fondos de inversión garantizados.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El papel que juegan estos instrumentos en la gestión de inversiones es fundamental. Los resultados que ofrecen muchos productos financieros que se pueden encontrar en el mercado se consiguen con frecuencia comprando, vendiendo o realizando múltiples estrategias en el mercado de derivados. Por ello es importante conocer los conceptos principales, su funcionamiento básico y cómo se transfiere el riesgo entre los participantes en el mercado, con independencia de que el inversor decida o no operar directamente con opciones y futuros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por otro lado, la equivalencia genérica de «opciones y futuros igual a riesgo ilimitado» no es rigurosamente cierta. Como veremos en las siguientes páginas, el comprador de opciones constituye la excepción, pues, al haber adquirido un derecho, su pérdida máxima será el precio pagado por el mismo y, por tanto, el porcentaje que esto suponga sobre la totalidad de sus inversiones. Es decir, se trata de la única posición donde la pérdida máxima está acotada a priori.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El objetivo de esta guía destinada al público en general es explicar de forma intuitiva y a través de ejemplos, los conceptos básicos de los contratos de opción y futuro, sin entrar en las sofisticadas estrategias de carteras que por sí solas o en combinación con otros productos se pueden llevar a cabo. Incluso para quien no actúe en este mercado, quizá esta guía le pueda ayudar a comprender mejor la gestión de carteras que le lleva a cabo su intermediario o cómo se consiguen los resultados descritos en el folleto informativo de un fondo de inversión que el inversor pretende suscribir.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. ¿Qué son los productos derivados y qué tipos podemos encontrar?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los subyacentes utilizados pueden ser muy variados: acciones, cestas de acciones, valores de renta fija, divisas, tipos de interés, índices bursátiles, materias primas y productos más sofisticados, incluso la inflación o los riesgos de crédito.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero ¿qué se esconde detrás de esta definición? El quid de la cuestión radica en la forma en que se deriva el precio y en la naturaleza de la transacción a la que da lugar este instrumento. Es decir, cómo y cuándo se lleva a cabo el intercambio del activo por su valor o precio en dinero.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En las operaciones habituales de contado o spot, al igual que cuando vamos al supermercado, el intercambio del producto por su precio se realiza en el momento del acuerdo. Sin embargo, un derivado es un pacto cuyos términos se fijan hoy pero, y aquí está la diferencia, la transacción se hace en una fecha futura.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta idea de acordar una compraventa que se materializará al cabo de un cierto tiempo tiene tanta antigüedad como el comercio mismo; en los mercados financieros holandeses del siglo XVII ya se negociaban contratos derivados cuyo activo eran los bulbos de los tulipanes.",
+      "links": []
+    },
+    {
+      "type": "highlight",
+      "text": "Los productos derivados son instrumentos financieros cuyo valor deriva de la evolución de los precios de otro activo denominado activo subyacente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Paralelamente, en Japón se desarrollaban los primeros mercados organizados en los que se concertaban contratos que conllevaban la entrega futura de arroz. El hecho de poder conocer cuál sería el precio a cobrar o pagar por una cosecha permitía afrontar el futuro con mayor tranquilidad tanto al productor como al comprador. En estos ejemplos, tanto los bulbos como el arroz son el activo subyacente.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "No es hasta el siglo XIX cuando nace en Chicago el primer mercado de derivados moderno, en el que aún hoy en día se negocian contratos cuyos activos son el trigo y el maíz. Con posterioridad se ampliaron a otros subyacentes y se crearon en otros países mercados organizados sobre mercancías. En 1973, también en Chicago, se creó el primer contrato que permitía asegurar un tipo de cambio para una fecha futura; es, pues, el nacimiento del derivado financiero. A éste le siguieron otros derivados que permiten la compraventa de activos financieros como acciones, bonos, índices, tipos de interés, etc., en un momento posterior a la fecha del acuerdo.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tipos de productos derivados"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque esta guía va a desarrollar los aspectos relativos a opciones y futuros, a efectos de ofrecer una visión general de los productos derivados existentes, en el siguiente cuadro se muestran algunos de los de mayor difusión indicando las entidades autorizadas a tramitar su contratación y el organismo sobre el que recae la competencia de supervisión.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Productos derivados negociados en mercados regulados: futuros y opciones financieras (ej: MEFF) y warrants. Entidades a través de las que se puede contratar: sociedades y agencias de valores, ESI extranjeras autorizadas, entidades de crédito nacionales, entidades de crédito extranjeras autorizadas. Supervisor: CNMV.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Productos derivados OTC (Over the Counter): productos negociados OTC: contratos a plazo (forwards), FRAs (Forward rate agreement), permutas financieras (swaps), opciones. Entidades a través de las que se puede contratar: sociedades y agencias de valores, ESI extranjeras autorizadas, entidades de crédito nacionales, entidades de crédito extranjeras autorizadas. Supervisor: CNMV.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Productos estructurados negociados en mercados regulados: certificados, turbowarrants. Entidades a través de las que se puede contratar: sociedades y agencias de valores, ESI extranjeras autorizadas, entidades de crédito nacionales, entidades de crédito extranjeras autorizadas. Supervisor: CNMV.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Otros productos no negociables: de naturaleza mixta, contratos financieros atípicos (CFAs). Entidades a través de las que se puede contratar: entidades de crédito nacionales, entidades de crédito extranjeras autorizadas. Supervisor: CNMV.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "III. ¿Para qué sirven los productos derivados?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ya sabemos que un derivado es un tipo de contratación a plazo en el que todos los detalles se establecen en el momento del acuerdo, mientras que el intercambio efectivo se produce en un momento del futuro. Pero, ¿qué ventaja aporta respecto a que esa compraventa se realice de manera inmediata? La respuesta es que el comprador y el vendedor conocen con certeza la cantidad que se pagará y recibirá por el producto en la fecha acordada. La incertidumbre sobre cómo se moverá el precio del activo es el llamado riesgo de precio, que todo inversor asume bien cuando posee ya ese activo y una caída de su valor le produce pérdidas (fig. 1), o bien cuando en lugar de realizar su compra hoy, prefiere esperar un tiempo creyendo que su precio va a caer y finalmente evoluciona al alza (fig. 2), teniendo que pagar más que si lo hubiera adquirido al principio. Este riesgo se observa muy bien en el mercado de acciones.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Si se decide comprar acciones de la empresa X para venderlas más caras en un futuro, existe el riesgo de que su precio baje incurriendo en pérdidas. Por otro lado, si lo que se quiere es comprar las mismas acciones esperando a que los precios sean inferiores, existe el riesgo de que éstos sigan subiendo y haya que desembolsar más dinero en el futuro.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los contratos de derivados se pueden utilizar para reducir el riesgo de precio mediante las llamadas operaciones de cobertura. En estas operaciones se posee el activo y se desea protección frente a movimientos adversos de precio. Además, los contratos de derivados se pueden utilizar como una inversión más, en la que el inversor apuesta por la dirección y amplitud del recorrido que va a tomar el precio de un activo durante un período determinado.",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Decide comprar hoy.",
+        "RIESGO: caída de la cotización.",
+        "Decide esperar y comprar en un momento futuro.",
+        "RIESGO: subida de la cotización."
+      ]
+    },
+    {
+      "type": "warning",
+      "text": "No debe olvidarse que los derivados son productos sofisticados que cuando no son utilizados como cobertura conllevan riesgo de pérdida total de la inversión.",
+      "level": "important"
+    },
+    {
+      "type": "paragraph",
+      "text": "Por lo tanto, invertir en ellos requiere no sólo conocimientos específicos, tanto de su funcionamiento como de los sistemas de negociación, sino en su caso, contar con predisposición a asumir riesgos elevados y tener capacidad para afrontarlos, además de dedicarles el tiempo necesario para realizar su seguimiento.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "IV. ¿Qué es un futuro?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Antecedentes: los contratos a plazo o forward"
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de explicar las características de los contratos de futuros, es conveniente fijarse en su antecedente; los llamados contratos a plazo o contratos forward. Para definir qué es un contrato a plazo, utilizaremos un ejemplo práctico:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Supongamos que la señora Gómez recibe la noticia de que en nueve meses su familia contará con un miembro más. Tras la alegría del primer momento, cae en la cuenta de que el reducido apartamento en el que residen se les quedará pequeño y decide que es el momento de comprar una casa más grande. Unos días después llega a un acuerdo para pagar 180.000 euros por un nuevo piso.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En una de las conversaciones que mantiene con el vendedor le hace saber que en realidad el piso no lo necesita hasta dentro de nueve meses, pero que, con el fuerte crecimiento de los precios que se está produciendo en el mercado inmobiliario, prefiere comprarlo ahora. Ante esto el vendedor le responde que no tiene ningún inconveniente en entregar el piso dentro de nueve meses. De este modo, se presenta la posibilidad de firmar hoy un contrato en el que la trasmisión del piso se realice dentro de nueve meses, pero fijando hoy su precio. Este tipo de contrato se conoce como contrato a plazo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta idea no disgusta a la señora Gómez, pero le preocupa que el vendedor intente fijar en el contrato el precio de la vivienda incrementado en el 17% de revalorización que se espera para los próximos nueve meses. Si el vendedor tomase esta decisión, el precio que figuraría en el contrato sería de 210.600 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Debería la señora Gómez aceptar ese precio? La respuesta es No. ¿Por qué? La señora Gómez tiene la posibilidad de:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "comprar la casa ahora y pagar 180.000 euros",
+        "firmar un contrato a plazo."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Si decidiera comprar hoy la casa, debería pedir prestado los 180.000 euros. Suponiendo que por esta operación el banco le cobra un 2% anual, al cabo de los nueve meses habrá pagado 2.700 euros en concepto de intereses.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por lo tanto, si el vendedor pretendiese reflejar en el contrato un precio superior a 182.700 euros, la señora Gómez optaría por comprar la casa al contado, es decir hoy (pidiendo el dinero prestado), ya que ese sería su coste al cabo de nueve meses.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Sería este el precio adecuado para el vendedor? Si está dispuesto a vender la casa hoy, recibirá 180.000 euros que podría invertir en un activo sin riesgo, en el que suponiendo que invierta al 2% anual, obtendría 2.700 euros en concepto de intereses.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por lo tanto, el precio de equilibrio para ambos bajo estos supuestos es de 182.700 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio del piso = 180.000 × (1 + 0,17) = 210.600 euros (el precio actual más el incremento esperado)",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Intereses = 180.000 × 0.02 × 9/12 = 2.700 euros",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero, ¿hay algún factor más que deba considerarse para el cálculo?, ¿qué ocurre con los gastos y posibles rendimientos que genere la casa desde hoy hasta la fecha de liquidación del contrato? Parece lógico pensar que el vendedor repercutirá en el precio a plazo todos aquellos gastos que la vivienda ocasione, y a su vez que el comprador descuente todos los rendimientos que se puedan generar.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Siguiendo con el ejemplo, el vendedor observa que mantener la casa 9 meses más le supondrá un desembolso en concepto de gastos de comunidad de 540 euros, cantidad que si vendiese la casa hoy no tendría que abonar.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por lo tanto desde su punto de vista el precio debe ser:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "182.700 euros + 540 euros = 183.240 euros",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Este razonamiento convence plenamente a la señora Gómez, pero argumenta que si bien esto es cierto, no lo es menos que el vendedor también puede obtener un ingreso si alquila la casa durante nueve meses, y considera que este rendimiento ha de ser descontado del precio a plazo. De no ser así, prefiere comprar la casa hoy y, puesto que no la necesita hasta dentro de nueve meses, alquilarla e ingresar por este concepto, pongamos por caso, 1.700 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Llega el momento de firmar el contrato y se tienen en cuenta las matizaciones que ambas partes han expuesto. Calculan, pues, el precio que han acordado que aparezca en su contrato a plazo:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El resultado final es que la señora Gómez ha firmado un contrato que le obliga a comprar la vivienda, independientemente de cuál sea su precio en el mercado, dentro de nueve meses, a cambio de pagar en esa fecha 181.540 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por su parte, el vendedor se ha obligado a vender la vivienda, independientemente de cuál sea su precio en el mercado, dentro de nueve meses, a un precio equivalente en términos financieros al que estaba dispuesto a venderlo hoy.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ahora bien, ¿qué ocurrirá pasados los nueve meses? Ese día la señora Gómez y el vendedor llevan a cabo la transacción en los términos que hace nueve meses pactaron. La señora Gómez entrega 181.540 euros y recibe a cambio su nueva vivienda en propiedad, ingresando el vendedor el importe pactado.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio de la vivienda hoy 180.000 euros",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Inversión/financiación al 2% + 2.700 euros",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Gastos de comunidad + 540 euros",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ingreso por alquiler – 1.700 euros",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "181.540 euros",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero también puede ocurrir que una de las contrapartes incumpla la obligación adquirida y ello repercuta en un grave perjuicio económico para la otra parte. Este riesgo se conoce como riesgo de contrapartida o de insolvencia y está presente en cualquier transacción económica. Además, este riesgo se acentúa a medida que el plazo entre la fecha de contratación y de liquidación (fecha en la que se entrega el activo o mercadería), es mayor.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Si en el ejemplo el vendedor no entregara la vivienda en la fecha acordada, esto provocaría (independientemente de las acciones legales que la señora Gómez emprenda) que tendría que adquirir la casa al precio que esté en el mercado ese día. Esta circunstancia puede dar lugar a un quebranto que corresponderá a la diferencia entre el precio pactado en el contrato y el que la casa tenga en el mercado (siempre que el precio de mercado en ese momento sea mayor que el establecido en el contrato).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El vendedor está sometido al mismo riesgo en el caso de que la señora Gómez no compre al precio pactado, e implicaría que el vendedor debería buscar un nuevo comprador. El quebranto se pondrá de manifiesto en el caso de que el nuevo comprador sólo esté dispuesto a pagar un precio inferior al pactado con la señora Gómez.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Visto el ejemplo anterior, se puede comprender intuitivamente qué es un contrato a plazo y cómo se establece su precio, pudiendo a continuación definir los futuros financieros.",
+      "links": []
+    },
+    {
+      "type": "highlight",
+      "text": "Un futuro es un contrato a plazo negociado en un mercado organizado, por el que las partes acuerdan la compraventa de una cantidad concreta de un valor (activo subyacente) en una fecha futura predeterminada (fecha de liquidación), a un precio convenido de antemano (precio de futuro). Es decir, se trata de contratos a plazo cuyo objeto son instrumentos de naturaleza financiera (valores, índices, préstamos o depósitos...) o «commodities» (es decir, mercancías como productos agrícolas, materias primas...)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por lo tanto, la diferencia entre un contrato forward como el mostrado en el ejemplo y un contrato de futuro, radica fundamentalmente en que en el contrato forward los contratantes fijan las condiciones del acuerdo según sus necesidades, mientras que en el contrato de futuro las condiciones que lo rigen están estandarizadas. A modo de ejemplo, la compra de un contrato a plazo podría asimilarse a encargar un traje a medida mientras que un futuro sería equivalente a comprar en un gran almacén con tallaje fijo y sin posibilidad de arreglo.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sus características principales:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las características operativas que definen e identifican los futuros son:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Las condiciones de los contratos están estandarizadas por lo que se refiere a su importe nominal, objeto y fecha de vencimiento.",
+        "Se negocian en mercados organizados, por tanto pueden ser comprados o vendidos en cualquier momento de la sesión de negociación sin necesidad de esperar a la fecha de vencimiento.",
+        "Tanto para comprar como para vender futuros, los intervinientes han de aportar garantías, es decir, un importe determinado en función de las posiciones abiertas que mantengan como señal del cumplimiento de su compromiso, de forma que mitiga el riesgo de contrapartida."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "El inversor en futuros debe tener en cuenta que es posible realizar la venta de un futuro sin haberlo comprado antes, ya que lo que se vende es la posición en el contrato por el que el vendedor asume una obligación. Esto es lo que en el mercado se llama «abrir posiciones cortas» o «ponerse corto».",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Precio teórico de un futuro"
+    },
+    {
+      "type": "paragraph",
+      "text": "La formación del precio de un futuro es similar al del precio del contrato a plazo. Así, el precio de un contrato de futuros sobre una acción se forma a partir del precio de la misma, capitalizado hasta la fecha de vencimiento, y restando a ese importe el valor del dividendo capitalizado hasta la fecha de vencimiento.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por ejemplo, para conocer el precio del contrato de futuro a tres meses de una acción de la sociedad XYZ que cotiza en la bolsa a 45 euros, que no reparte dividendo y sabiendo que el tipo de interés del mercado a ese plazo es el 2,5%, bastaría con utilizar la siguiente fórmula:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La señora Gómez y el vendedor, para calcular el precio que debían fijar en su contrato sumaban la financiación y los posibles gastos (como el de comunidad) y restaban los ingresos por alquiler. Trasladándolo al cálculo real del precio de un futuro, la financiación y los posibles gastos serían equivalentes a determinar el valor de la inversión realizada hoy en la fecha de vencimiento, mientras que los ingresos por alquiler serían equivalentes a los dividendos que pudieran recibirse durante ese período.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La diferencia existente entre el precio de la acción dentro de tres meses y su precio hoy se conoce como el coste neto de financiación.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio futuro = Precio de cotización × [1 + (r × t/360)] – D × [1 + (r´ × t´/360)]",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Donde:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "r = tipo de interés de mercado para t días,",
+        "t = nº de días desde hoy hasta el vencimiento del contrato,",
+        "D = dividendo a percibir,",
+        "r' = tipo de interés de mercado para t' días,",
+        "t' = nº de días que median entre la fecha de pago del dividendo y el día de vencimiento del contrato."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Precio futuro = 45 × [1 + (0,025 × 90/360)] –0 = 45,28 euros",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Es conveniente señalar que este coste neto de financiación podrá ser positivo o negativo dependiendo de si el rendimiento por dividendos es menor o mayor que el coste de financiación.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Compra de un contrato de futuros"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una vez calculado el precio teórico del futuro sobre XYZ, si se piensa que el precio de las acciones de XYZ va a tener una fuerte revalorización de hoy a tres meses, se presentan dos alternativas:",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:34:01.847419+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 44654,
+    "input_tokens": 10447,
+    "output_tokens": 16000
+  }
+}

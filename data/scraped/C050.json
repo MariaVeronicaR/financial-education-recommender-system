@@ -1,0 +1,185 @@
+{
+  "content_id": "C050",
+  "url": "https://www.finanzasparatodos.es/aprende-a-leer-tu-nomina-devengos-deducciones-y-salario-neto",
+  "source": "Finanzas para Todos",
+  "host": "www.finanzasparatodos.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 47050
+  },
+  "title": "Aprende a leer tu nómina: devengos, deducciones y salario neto",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Aprende a leer tu nómina: devengos, deducciones y salario neto"
+    },
+    {
+      "level": 2,
+      "text": "Estructura básica de una nómina"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Aprende a leer tu nómina: devengos, deducciones y salario neto",
+      "start": 0,
+      "end": 1127,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Estructura básica de una nómina",
+      "start": 1127,
+      "end": 2828,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Aprende a leer tu nómina: devengos, deducciones y salario neto"
+    },
+    {
+      "type": "paragraph",
+      "text": "19/02/2026\nLa nómina es uno de esos documentos que muchas personas reciben, pero que pocas entienden del todo. Conocer bien sus componentes es clave para saber qué estás cobrando por tu trabajo tanto bruto como neto y qué impuestos y cotizaciones sociales estás pagando. Hoy te explicamos qué significa cada concepto.\nLa nómina es el recibo justificativo del salario que percibe una persona trabajadora y es emitido por la empresa donde trabaja. En ella se refleja el salario bruto y todos sus componentes, las deducciones aplicadas (impuestos, cotizaciones) y el salario neto o líquido, que es lo que finalmente se cobra. Lo habitual es que la nómina sea mensual, aunque si existen pagas extraordinarias, se emite una nómina independiente por cada una de ellas.\nEl salario bruto es la cantidad total de dinero que una persona recibe según su contrato antes de que se realicen deducciones, principalmente impuestos directos y las cotizaciones a la seguridad social que paga el trabajador. En cambio, el salario neto es el dinero que finalmente llega al trabajador."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Estructura básica de una nómina"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque cada empresa puede utilizar un formato distinto, todas las nóminas deben adaptarse a la normativa vigente y contener tres partes fundamentales:"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Encabezado"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Incluye los datos de la empresa y del trabajador (nombre, NIF, categoría profesional, periodo de liquidación, etc.)."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Cuerpo"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Es la parte más importante. Aquí aparecen:\nLos devengos (ingresos brutos).\nLas deducciones.\nEl salario líquido a percibir."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Pie de nómina"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Contiene la fecha, así como el sello y la firma de la empresa y del trabajador.\nDevengos: los ingresos brutos\nLos devengos son todas las cantidades que el trabajador genera antes de aplicar deducciones."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Salario base",
+        "Complementos salariales:"
+      ]
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Personales (antigüedad)",
+        "Asociados al puesto de trabajo (peligrosidad, nocturnidad)",
+        "Calidad y cantidad de trabajo (primas, bonus, horas extras, etc.)",
+        "Participación en beneficios",
+        "Por residencia de la actividad laboral",
+        ""
+      ]
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Beneficios en especie (como vales de comida, coche de empresa, seguro médico…)",
+        "Otros ingresos, como dietas, gastos de viaje y de representación."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Deducciones: lo que se descuenta de tu salario\nLas deducciones reducen el salario bruto hasta llegar al salario neto."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Cotizaciones a la Seguridad Social (a cargo del trabajador) que incluyen",
+        "Contingencias comunes.",
+        "Desempleo.",
+        "Formación profesional.",
+        "Mecanismo de Equidad Intergeneracional.",
+        "Retenciones de IRPF, que son los pagos anticipados del impuesto sobre la renta que recibe la Hacienda Pública.",
+        "Otras deducciones, que pueden ser cuotas sindicales, reembolso de anticipos de la empresa, aportaciones del trabajador a planes de pensiones…"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Categorías"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Planificación y presupuesto"
+      ]
+    }
+  ],
+  "text": "Aprende a leer tu nómina: devengos, deducciones y salario neto\n19/02/2026\nLa nómina es uno de esos documentos que muchas personas reciben, pero que pocas entienden del todo. Conocer bien sus componentes es clave para saber qué estás cobrando por tu trabajo tanto bruto como neto y qué impuestos y cotizaciones sociales estás pagando. Hoy te explicamos qué significa cada concepto.\nLa nómina es el recibo justificativo del salario que percibe una persona trabajadora y es emitido por la empresa donde trabaja. En ella se refleja el salario bruto y todos sus componentes, las deducciones aplicadas (impuestos, cotizaciones) y el salario neto o líquido, que es lo que finalmente se cobra. Lo habitual es que la nómina sea mensual, aunque si existen pagas extraordinarias, se emite una nómina independiente por cada una de ellas.\nEl salario bruto es la cantidad total de dinero que una persona recibe según su contrato antes de que se realicen deducciones, principalmente impuestos directos y las cotizaciones a la seguridad social que paga el trabajador. En cambio, el salario neto es el dinero que finalmente llega al trabajador.\nEstructura básica de una nómina\nAunque cada empresa puede utilizar un formato distinto, todas las nóminas deben adaptarse a la normativa vigente y contener tres partes fundamentales:\n1. Encabezado\nIncluye los datos de la empresa y del trabajador (nombre, NIF, categoría profesional, periodo de liquidación, etc.).\n2. Cuerpo\nEs la parte más importante. Aquí aparecen:\nLos devengos (ingresos brutos).\nLas deducciones.\nEl salario líquido a percibir.\n3. Pie de nómina\nContiene la fecha, así como el sello y la firma de la empresa y del trabajador.\nDevengos: los ingresos brutos\nLos devengos son todas las cantidades que el trabajador genera antes de aplicar deducciones.\n- Salario base\n- Complementos salariales:\n\t\n  - Personales (antigüedad)\n  - Asociados al puesto de trabajo (peligrosidad, nocturnidad)\n  - Calidad y cantidad de trabajo (primas, bonus, horas extras, etc.)\n  - Participación en beneficios\n  - Por residencia de la actividad laboral\n- \n\t\n  - Beneficios en especie (como vales de comida, coche de empresa, seguro médico…)\n  - Otros ingresos, como dietas, gastos de viaje y de representación.\nDeducciones: lo que se descuenta de tu salario\nLas deducciones reducen el salario bruto hasta llegar al salario neto.\n- Cotizaciones a la Seguridad Social (a cargo del trabajador) que incluyen\n- Contingencias comunes.\n- Desempleo.\n- Formación profesional.\n- Mecanismo de Equidad Intergeneracional.\n- Retenciones de IRPF, que son los pagos anticipados del impuesto sobre la renta que recibe la Hacienda Pública.\n- Otras deducciones, que pueden ser cuotas sindicales, reembolso de anticipos de la empresa, aportaciones del trabajador a planes de pensiones…\nCategorías\n- Planificación y presupuesto",
+  "text_len": 2828,
+  "num_headings": 2,
+  "metadata": {
+    "title": "Aprende a leer tu nómina: devengos, deducciones y salario neto",
+    "url": "https://www.finanzasparatodos.es/aprende-a-leer-tu-nomina-devengos-deducciones-y-salario-neto?fbclid=PAb21jcAQEXMFleHRuA2FlbQIxMQBzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAafalZgA3DK1obbETcbCCF_xEVLEk6sg8Kp82si-wCjzq0uDNXf6BSH7oZMzsg_aem_1Dy2GuACj8SuQFtfCNRxNQ",
+    "hostname": "finanzasparatodos.es",
+    "description": "Aprende a leer tu nómina: devengos, deducciones y salario neto",
+    "sitename": "finanzasparatodos.es",
+    "date": "2026-02-19",
+    "tags": [
+      "Aprende a leer tu nómina: devengos, deducciones y salario neto"
+    ],
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Cómo leer una nómina",
+    "topic": "planificación",
+    "subtopic": "nómina",
+    "difficulty": "básico",
+    "format": "artículo web",
+    "summary": "Aprende a entender los conceptos de una nómina y las deducciones comunes",
+    "learning_objective": "Interpretar correctamente la nómina mensual"
+  },
+  "deduped_from": null
+}

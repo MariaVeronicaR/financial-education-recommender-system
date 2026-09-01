@@ -1,0 +1,57 @@
+{
+  "content_id": "C087",
+  "tldr": "Esta guía de la CNMV, basada en el marco de la IOSCO, establece las competencias básicas que todo inversor minorista debería desarrollar para tomar decisiones de inversión más conscientes e informadas. El marco abarca siete áreas (desde conceptos básicos de inversión hasta estafas financieras) y cada una se trabaja en tres dimensiones: conocimientos, comportamientos y habilidades, y actitudes y motivaciones. Su objetivo es servir de punto de partida para acercarse al mundo de la inversión de forma responsable.",
+  "key_points": [
+    "El marco de competencias se basa en los trabajos de la IOSCO y cubre siete áreas de contenido para el inversor minorista.",
+    "Cada área se divide en tres dimensiones: conocimientos, comportamientos y habilidades, y actitudes y motivaciones.",
+    "Antes de invertir es esencial entender la relación entre riesgo y rentabilidad, el efecto del interés compuesto y las ventajas de la diversificación.",
+    "La protección del inversor incluye conocer sus derechos, verificar que las entidades estén registradas y poder presentar quejas ante la CNMV.",
+    "Los sesgos emocionales y cognitivos pueden alejar las decisiones de la racionalidad, y las ofertas de 'bajo riesgo y alta rentabilidad' no existen."
+  ],
+  "quiz": [
+    {
+      "question": "Según la guía, ¿en qué tres dimensiones se dividen las competencias de cada área para el inversor?",
+      "options": [
+        "Conocimientos, comportamientos y habilidades, y actitudes y motivaciones",
+        "Ahorro, inversión y especulación",
+        "Rentabilidad, riesgo y liquidez",
+        "Renta fija, renta variable y derivados"
+      ],
+      "correct_index": 0,
+      "explanation": "El marco divide cada área en tres dimensiones: conocimientos, comportamientos y habilidades, y actitudes y motivaciones, que cubren desde la información hasta los mecanismos psicológicos internos.",
+      "concept_id": "C28"
+    },
+    {
+      "question": "Un inversor debe entender la relación entre riesgo y rentabilidad potencial. ¿Qué implica correctamente esa relación?",
+      "options": [
+        "A mayor rentabilidad potencial esperada, mayor es el riesgo asumido",
+        "Los productos con menor riesgo siempre ofrecen mayor rentabilidad",
+        "La rentabilidad pasada garantiza la rentabilidad futura",
+        "El riesgo solo depende de la cantidad invertida"
+      ],
+      "correct_index": 0,
+      "explanation": "La guía señala que es esencial entender la relación entre riesgo y rentabilidad potencial: a mayor rentabilidad esperada, mayor riesgo, y el rendimiento pasado no garantiza el futuro.",
+      "concept_id": "C13"
+    },
+    {
+      "question": "Ante una oferta de inversión que promete 'bajo riesgo y alta rentabilidad', ¿qué actitud recomienda la guía?",
+      "options": [
+        "Cuestionarla, ya que las inversiones de bajo riesgo y alta rentabilidad no existen",
+        "Aceptarla de inmediato por tratarse de una oportunidad única",
+        "Invertir solo una pequeña cantidad para probar",
+        "Compartirla con otros inversores para validarla"
+      ],
+      "correct_index": 0,
+      "explanation": "El área de estafas y fraudes advierte que las inversiones de 'bajo riesgo y alta rentabilidad' no existen y que hay que cuestionar las ofertas que parecen demasiado buenas para ser verdad.",
+      "concept_id": "C15"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 6153,
+    "input_tokens": 5698,
+    "output_tokens": 1217
+  }
+}

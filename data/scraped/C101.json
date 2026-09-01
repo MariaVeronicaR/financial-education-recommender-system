@@ -1,0 +1,1265 @@
+{
+  "content_id": "C101",
+  "url": "https://www.cnmv.es/DocPortal/Publicaciones/Guias/OpcionesYFuturos.pdf",
+  "source": "CNMV",
+  "host": "www.cnmv.es",
+  "url_type": "pdf",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 1311705
+  },
+  "title": "Opciones y Futuros",
+  "headings": [
+    {
+      "level": 1,
+      "text": "I. Introducción"
+    },
+    {
+      "level": 1,
+      "text": "II. ¿Qué son los"
+    },
+    {
+      "level": 1,
+      "text": "productos derivados"
+    },
+    {
+      "level": 1,
+      "text": "y qué tipos podemos"
+    },
+    {
+      "level": 1,
+      "text": "III. ¿Para qué sirven los"
+    },
+    {
+      "level": 1,
+      "text": "productos derivados?"
+    },
+    {
+      "level": 1,
+      "text": "No debe olvidarse que los"
+    },
+    {
+      "level": 1,
+      "text": "derivados son productos"
+    },
+    {
+      "level": 1,
+      "text": "sofisticados que cuando no"
+    },
+    {
+      "level": 1,
+      "text": "son utilizados como cobertura"
+    },
+    {
+      "level": 1,
+      "text": "conllevan riesgo de pérdida total"
+    },
+    {
+      "level": 1,
+      "text": "de la inversión."
+    },
+    {
+      "level": 1,
+      "text": "requiere no sólo conocimientos"
+    },
+    {
+      "level": 1,
+      "text": "funcionamiento como de los"
+    },
+    {
+      "level": 1,
+      "text": "predisposición a asumir riesgos"
+    },
+    {
+      "level": 1,
+      "text": "elevados y tener capacidad"
+    },
+    {
+      "level": 1,
+      "text": "dedicarles el tiempo necesario"
+    },
+    {
+      "level": 1,
+      "text": "para realizar su seguimiento."
+    },
+    {
+      "level": 1,
+      "text": "IV. ¿Qué es un futuro?"
+    },
+    {
+      "level": 1,
+      "text": "las opciones?"
+    },
+    {
+      "level": 1,
+      "text": "VI. Antes de invertir..."
+    },
+    {
+      "level": 1,
+      "text": "VII. ¿En qué consiste el"
+    },
+    {
+      "level": 1,
+      "text": "efecto apalancamiento?"
+    },
+    {
+      "level": 1,
+      "text": "VIII. Futuros y opciones"
+    },
+    {
+      "level": 1,
+      "text": "como cobertura y como"
+    },
+    {
+      "level": 1,
+      "text": "IX. Recomendaciones"
+    },
+    {
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "level": 1,
+      "text": "información?"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "I. Introducción",
+      "start": 385,
+      "end": 2933,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "II. ¿Qué son los",
+      "start": 2933,
+      "end": 2983,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "productos derivados",
+      "start": 2983,
+      "end": 3004,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "y qué tipos podemos",
+      "start": 3004,
+      "end": 6990,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "III. ¿Para qué sirven los",
+      "start": 6990,
+      "end": 7112,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "productos derivados?",
+      "start": 7112,
+      "end": 9032,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "No debe olvidarse que los",
+      "start": 9032,
+      "end": 9087,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "derivados son productos",
+      "start": 9087,
+      "end": 9112,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "sofisticados que cuando no",
+      "start": 9112,
+      "end": 9140,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "son utilizados como cobertura",
+      "start": 9140,
+      "end": 9171,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "conllevan riesgo de pérdida total",
+      "start": 9171,
+      "end": 9206,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "de la inversión.",
+      "start": 9206,
+      "end": 9256,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "requiere no sólo conocimientos",
+      "start": 9256,
+      "end": 9313,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "funcionamiento como de los",
+      "start": 9313,
+      "end": 9395,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "predisposición a asumir riesgos",
+      "start": 9395,
+      "end": 9430,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "elevados y tener capacidad",
+      "start": 9430,
+      "end": 9486,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "dedicarles el tiempo necesario",
+      "start": 9486,
+      "end": 9519,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "para realizar su seguimiento.",
+      "start": 9519,
+      "end": 9569,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "IV. ¿Qué es un futuro?",
+      "start": 9569,
+      "end": 23446,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "las opciones?",
+      "start": 23446,
+      "end": 50225,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VI. Antes de invertir...",
+      "start": 50225,
+      "end": 57775,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VII. ¿En qué consiste el",
+      "start": 57775,
+      "end": 57905,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "efecto apalancamiento?",
+      "start": 57905,
+      "end": 60557,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VIII. Futuros y opciones",
+      "start": 60557,
+      "end": 60623,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "como cobertura y como",
+      "start": 60623,
+      "end": 65436,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "IX. Recomendaciones",
+      "start": 65436,
+      "end": 66646,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "¿Necesitas más",
+      "start": 66646,
+      "end": 66677,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "información?",
+      "start": 66677,
+      "end": 66703,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nOpciones\n& Futuros\nGuía"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nÍndice\nIntroducción\n¿Qué son los productos\nderivados y qué tipos\npodemos encontrar?\n¿Para qué sirven los productos\nderivados?\n¿Qué es un futuro?\n¿Qué son las opciones?\nAntes de invertir\n¿En qué consiste el efecto\napalancamiento?\nFuturos y opciones como\ncobertura y como inversión\nRecomendaciones finales"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "I. Introducción"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque no nos demos cuenta, las opciones y los futuros están\nfrecuentemente presentes en la vida diaria de los ciudadanos que, de\nforma intuitiva, realizan distintas valoraciones de este tipo de contratos.\nNos referimos a casos tan cercanos y habituales como pactar un precio\ndiferido en la compraventa de una vivienda o suscribir un seguro sobre\nnuestra casa o nuestro coche.\nSin embargo, cuando se habla de opciones y futuros referidos a los mercados\nfinancieros, en muchas ocasiones se consideran algo alejado de nuestra\nrealidad, cuando muchos inversores, sin operar directamente sobre ellos,\ntienen o han podido tener entre sus activos este tipo de contratos. En\nparticular, ha podido ocurrir si han encomendado la gestión de carteras a un\nprofesional estableciendo un límite en el riesgo agregado de la inversión o han\nsuscrito fondos de inversión garantizados.\nEl papel que juegan estos instrumentos en la gestión de inversiones es\nfundamental. Los resultados que ofrecen muchos productos financieros que\nse pueden encontrar en el mercado se consiguen con frecuencia comprando,\nvendiendo o realizando múltiples estrategias en el mercado de derivados.\nPor ello es importante conocer los conceptos principales, su funcionamiento\nbásico y cómo se transfiere el riesgo entre los participantes en el mercado,\ncon independencia de que el inversor decida o no operar directamente con\nopciones y futuros.\nOpciones y\nFuturos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nPor otro lado, la equivalencia genérica de «opciones y futuros igual a riesgo\nilimitado» no es rigurosamente cierta. Como veremos en las siguientes\npáginas, el comprador de opciones constituye la excepción, pues, al haber\nadquirido un derecho, su pérdida máxima será el precio pagado por el\nmismo y, por tanto, el porcentaje que esto suponga sobre la totalidad de sus\ninversiones. Es decir, se trata de la única posición donde la pérdida máxima\nestá acotada a priori.\nEl objetivo de esta guía destinada al público en general es explicar de forma\nintuitiva y a través de ejemplos, los conceptos básicos de los contratos de\nopción y futuro, sin entrar en las sofisticadas estrategias de carteras que\npor sí solas o en combinación con otros productos se pueden llevar a cabo.\nIncluso para quien no actúe en este mercado, quizá esta guía le pueda\nayudar a comprender mejor la gestión de carteras que le lleva a cabo su\nintermediario o cómo se consiguen los resultados descritos en el folleto\ninformativo de un fondo de inversión que el inversor pretende suscribir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. ¿Qué son los"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "productos derivados"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "y qué tipos podemos"
+    },
+    {
+      "type": "paragraph",
+      "text": "encontrar?\nLos subyacentes utilizados pueden ser muy variados: acciones, cestas de\nacciones, valores de renta fija, divisas, tipos de interés, índices bursátiles,\nmaterias primas y productos más sofisticados, incluso la inflación o los\nriesgos de crédito.\nPero ¿qué se esconde detrás de esta definición? El quid de la cuestión radica\nen la forma en que se deriva el precio y en la naturaleza de la transacción a\nla que da lugar este instrumento. Es decir, cómo y cuándo se lleva a cabo el\nintercambio del activo por su valor o precio en dinero.\nEn las operaciones habituales de contado o spot, al igual que cuando vamos\nal supermercado, el intercambio del producto por su precio se realiza en el\nmomento del acuerdo. Sin embargo, un derivado es un pacto cuyos términos\nse fijan hoy pero, y aquí está la diferencia, la transacción se hace en una fecha\nfutura.\nEsta idea de acordar una compraventa que se materializará al cabo de\nun cierto tiempo tiene tanta antigüedad como el comercio mismo; en los\nmercados financieros holandeses del siglo XVII ya se negociaban contratos\nderivados cuyo activo eran los bulbos de los tulipanes.\nLos productos derivados son instrumentos financieros cuyo valor\nderiva de la evolución de los precios de otro activo denominado\nactivo subyacente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nParalelamente, en Japón se desarrollaban los primeros mercados organizados\nen los que se concertaban contratos que conllevaban la entrega futura de\narroz. El hecho de poder conocer cuál sería el precio a cobrar o pagar por una\ncosecha permitía afrontar el futuro con mayor tranquilidad tanto al productor\ncomo al comprador. En estos ejemplos, tanto los bulbos como el arroz son el\nactivo subyacente.\nNo es hasta el siglo XIX cuando nace en Chicago el primer mercado de\nderivados moderno, en el que aún hoy en día se negocian contratos cuyos\nactivos son el trigo y el maíz. Con posterioridad se ampliaron a otros\nsubyacentes y se crearon en otros países mercados organizados sobre\nmercancías. En 1973, también en Chicago, se creó el primer contrato que\npermitía asegurar un tipo de cambio para una fecha futura; es, pues, el\nnacimiento del derivado financiero. A éste le siguieron otros derivados que\npermiten la compraventa de activos financieros como acciones, bonos,\níndices, tipos de interés, etc., en un momento posterior a la fecha del acuerdo.\nTipos de productos derivados\nAunque esta guía va a desarrollar los aspectos relativos a opciones y futuros,\na efectos de ofrecer una visión general de los productos derivados existentes,\nen el siguiente cuadro se muestran algunos de los de mayor difusión\nindicando las entidades autorizadas a tramitar su contratación y el organismo\nsobre el que recae la competencia de supervisión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nSupervisor\nTipo\nCategoría\nEntidades a través de las\nque se puede contratar"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "MEFF Sociedad Rectora del Mercado de Productos Derivados"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Empresas de servicios de inversión."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Over the Counter"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Forward rate agreement.\nProductos\nderivados\nNegociados en mercados\nregulados:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Futuros y opciones\nfinancieras (ej: MEFF)1"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Warrants"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sociedades y Agencias de\nvalores"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ESI2 extranjeras autorizadas"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Entidades de crédito\nnacionales"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Entidades de crédito\nextranjeras autorizadas\nCNMV\nProductos\nDerivados\nOTC\nProductos negociados\nOTC3:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Contratos a plazo\n(forwards)"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "FRAs4."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Permutas Financieras\n(swaps)."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones\n..."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sociedades y Agencias de\nvalores."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ESI extranjeras autorizadas"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Entidades de crédito\nnacionales"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Entidades de crédito\nextranjeras autorizadas\nCNMV\nProductos\nEstructurados\nNegociados en mercados\nregulados:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Certificados."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Turbowarrants\n..."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sociedades y Agencias de\nvalores."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ESIs extranjeras autorizadas"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Entidades de crédito\nnacionales"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Entidades de crédito\nextranjeras autorizadas\nCNMV\nOtros productos\nno negociables"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "De naturaleza mixta"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Contratos financieros\nAtípicos (CFAs)"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Entidades de crédito\nnacionales"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Entidades de crédito\nextranjeras autorizadas\nCNMV"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "III. ¿Para qué sirven los"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "productos derivados?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ya sabemos que un derivado es un tipo de contratación a plazo en el que\ntodos los detalles se establecen en el momento del acuerdo, mientras que el\nintercambio efectivo se produce en un momento del futuro. Pero, ¿qué ventaja\naporta respecto a que esa compraventa se realice de manera inmediata?\nLa respuesta es que el comprador y el vendedor conocen con certeza la\ncantidad que se pagará y recibirá por el producto en la fecha acordada.\nLa incertidumbre sobre cómo se moverá el precio del activo es el llamado\nriesgo de precio, que todo inversor asume bien cuando posee ya ese activo\ny una caída de su valor le produce pérdidas (fig. 1), o bien cuando en lugar de\nrealizar su compra hoy, prefiere esperar un tiempo creyendo que su precio va\na caer y finalmente evoluciona al alza (fig. 2), teniendo que pagar más que si lo\nhubiera adquirido al principio. Este riesgo se observa muy bien en el mercado\nde acciones.\nSi se decide comprar acciones de la empresa X para venderlas más\ncaras en un futuro, existe el riesgo de que su precio baje incurriendo\nen pérdidas. Por otro lado, si lo que se quiere es comprar las mismas\nacciones esperando a que los precios sean inferiores, existe el riesgo\nde que éstos sigan subiendo y haya que desembolsar más dinero en el\nfuturo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nLos contratos de derivados se pueden utilizar para reducir el riesgo de precio\nmediante las llamadas operaciones de cobertura. En estas operaciones se\nposee el activo y se desea protección frente a movimientos adversos de precio.\nAdemás, los contratos de derivados se pueden utilizar como una inversión más,\nen la que el inversor apuesta por la dirección y amplitud del recorrido que va a\ntomar el precio de un activo durante un período determinado."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Decide comprar hoy."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "RIESGO: caída de la cotización."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Decide esperar y comprar en un momento futuro."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "RIESGO: subida de la cotización."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "No debe olvidarse que los"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "derivados son productos"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "sofisticados que cuando no"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "son utilizados como cobertura"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "conllevan riesgo de pérdida total"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "de la inversión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Por lo tanto, invertir en ellos"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "requiere no sólo conocimientos"
+    },
+    {
+      "type": "paragraph",
+      "text": "específicos, tanto de su"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "funcionamiento como de los"
+    },
+    {
+      "type": "paragraph",
+      "text": "sistemas de negociación,\nsino en su caso, contar con"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "predisposición a asumir riesgos"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "elevados y tener capacidad"
+    },
+    {
+      "type": "paragraph",
+      "text": "para afrontarlos, además de"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "dedicarles el tiempo necesario"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "para realizar su seguimiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "IV. ¿Qué es un futuro?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Antecedentes: los contratos a plazo o forward\nAntes de explicar las características de los contratos de futuros, es\nconveniente fijarse en su antecedente; los llamados contratos a plazo o\ncontratos forward. Para definir qué es un contrato a plazo, utilizaremos un\nejemplo práctico:\nSupongamos que la señora Gómez recibe la noticia de que en nueve\nmeses su familia contará con un miembro más. Tras la alegría del primer\nmomento, cae en la cuenta de que el reducido apartamento en el\nque residen se les quedará pequeño y decide que es el momento de\ncomprar una casa más grande. Unos días después llega a un acuerdo\npara pagar 180.000 euros por un nuevo piso.\nEn una de las conversaciones que mantiene con el vendedor le hace\nsaber que en realidad el piso no lo necesita hasta dentro de nueve\nmeses, pero que, con el fuerte crecimiento de los precios que se está\nproduciendo en el mercado inmobiliario, prefiere comprarlo ahora.\nAnte esto el vendedor le responde que no tiene ningún inconveniente en\nentregar el piso dentro de nueve meses. De este modo, se presenta la\nposibilidad de firmar hoy un contrato en el que la trasmisión del piso se\nrealice dentro de nueve meses, pero fijando hoy su precio. Este tipo de\ncontrato se conoce como contrato a plazo.\nEsta idea no disgusta a la señora Gómez, pero le preocupa que\nel vendedor intente fijar en el contrato el precio de la vivienda\nincrementado en el 17% de revalorización que se espera para los\npróximos nueve meses.\nSi el vendedor tomase esta decisión, el precio que figuraría en el\ncontrato sería de 210.600 euros."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\n¿Debería la señora Gómez aceptar ese precio? La respuesta es No.\n¿Por qué?\nLa señora Gómez tiene la posibilidad de:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "comprar la casa ahora y pagar 180.000 euros",
+        "firmar un contrato a plazo."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Si decidiera comprar hoy la casa, debería pedir prestado los 180.000\neuros. Suponiendo que por esta operación el banco le cobra un 2%\nanual, al cabo de los nueve meses habrá pagado 2.700 euros en\nconcepto de intereses.\nPor lo tanto, si el vendedor pretendiese reflejar en el contrato un precio\nsuperior a 182.700 euros, la señora Gómez optaría por comprar la casa al\ncontado, es decir hoy (pidiendo el dinero prestado), ya que ese sería su\ncoste al cabo de nueve meses.\n¿Sería este el precio adecuado para el vendedor?\nSi está dispuesto a vender la casa hoy, recibirá 180.000 euros que podría\ninvertir en un activo sin riesgo, en el que suponiendo que invierta al 2%\nanual, obtendría 2.700 euros en concepto de intereses.\nPor lo tanto, el precio de equilibrio para ambos bajo estos supuestos es\nde 182.700 euros.\nPrecio del piso = 180.000 × (1 + 0,17) = 210.600 euros\n(el precio actual más el incremento esperado)\nIntereses = 180.000 × 0.02 × 9/12 = 2.700 euros"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nPero, ¿hay algún factor más que deba considerarse para el cálculo?,\n¿qué ocurre con los gastos y posibles rendimientos que genere la\ncasa desde hoy hasta la fecha de liquidación del contrato?\nParece lógico pensar que el vendedor repercutirá en el precio a plazo\ntodos aquellos gastos que la vivienda ocasione, y a su vez que el\ncomprador descuente todos los rendimientos que se puedan generar.\nSiguiendo con el ejemplo, el vendedor observa que mantener la casa\n9 meses más le supondrá un desembolso en concepto de gastos de\ncomunidad de 540 euros, cantidad que si vendiese la casa hoy no\ntendría que abonar.\nPor lo tanto desde su punto de vista el precio debe ser:\nEste razonamiento convence plenamente a la señora Gómez, pero\nargumenta que si bien esto es cierto, no lo es menos que el vendedor\ntambién puede obtener un ingreso si alquila la casa durante nueve\n182.700 euros + 540 euros = 183.240 euros"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nmeses, y considera que este rendimiento ha de ser descontado del\nprecio a plazo. De no ser así, prefiere comprar la casa hoy y, puesto que\nno la necesita hasta dentro de nueve meses, alquilarla e ingresar por este\nconcepto, pongamos por caso, 1.700 euros.\nLlega el momento de firmar el contrato y se tienen en cuenta las\nmatizaciones que ambas partes han expuesto. Calculan, pues, el precio\nque han acordado que aparezca en su contrato a plazo:\nEl resultado final es que la señora Gómez ha firmado un contrato que le\nobliga a comprar la vivienda, independientemente de cuál sea su precio\nen el mercado, dentro de nueve meses, a cambio de pagar en esa fecha\n181.540 euros.\nPor su parte, el vendedor se ha obligado a vender la vivienda,\nindependientemente de cuál sea su precio en el mercado, dentro de\nnueve meses, a un precio equivalente en términos financieros al que\nestaba dispuesto a venderlo hoy.\nAhora bien, ¿qué ocurrirá pasados los nueve meses?\nEse día la señora Gómez y el vendedor llevan a cabo la transacción\nen los términos que hace nueve meses pactaron. La señora Gómez\nentrega 181.540 euros y recibe a cambio su nueva vivienda en propiedad,\ningresando el vendedor el importe pactado.\nPrecio de la vivienda hoy 180.000 euros\nInversión/financiación al 2% + 2.700 euros\nGastos de comunidad + 540 euros\nIngreso por alquiler – 1.700 euros\n181.540 euros"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nPero también puede ocurrir que una de las contrapartes incumpla la\nobligación adquirida y ello repercuta en un grave perjuicio económico\npara la otra parte. Este riesgo se conoce como riesgo de contrapartida\no de insolvencia y está presente en cualquier transacción económica.\nAdemás, este riesgo se acentúa a medida que el plazo entre la fecha\nde contratación y de liquidación (fecha en la que se entrega el activo o\nmercadería), es mayor.\nSi en el ejemplo el vendedor no entregara la vivienda en la fecha\nacordada, esto provocaría (independientemente de las acciones legales\nque la señora Gómez emprenda) que tendría que adquirir la casa al\nprecio que esté en el mercado ese día. Esta circunstancia puede dar\nlugar a un quebranto que corresponderá a la diferencia entre el precio\npactado en el contrato y el que la casa tenga en el mercado (siempre\nque el precio de mercado en ese momento sea mayor que el establecido\nen el contrato).\nEl vendedor está sometido al mismo riesgo en el caso de que la señora\nGómez no compre al precio pactado, e implicaría que el vendedor\ndebería buscar un nuevo comprador. El quebranto se pondrá de\nmanifiesto en el caso de que el nuevo comprador sólo esté dispuesto a\npagar un precio inferior al pactado con la señora Gómez.\nVisto el ejemplo anterior, se puede comprender intuitivamente qué es un\ncontrato a plazo y cómo se establece su precio, pudiendo a continuación\ndefinir los futuros financieros.\nUn futuro es un contrato a plazo negociado en un mercado organizado, por\nel que las partes acuerdan la compraventa de una cantidad concreta de un\nvalor (activo subyacente) en una fecha futura predeterminada (fecha de\nliquidación), a un precio convenido de antemano (precio de futuro). Es decir,\nse trata de contratos a plazo cuyo objeto son instrumentos de naturaleza\nfinanciera (valores, índices, préstamos o depósitos...) o «commodities» (es\ndecir, mercancías como productos agrícolas, materias primas...)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nPor lo tanto, la diferencia entre un contrato forward como el mostrado en\nel ejemplo y un contrato de futuro, radica fundamentalmente en que en el\ncontrato forward los contratantes fijan las condiciones del acuerdo según\nsus necesidades, mientras que en el contrato de futuro las condiciones que\nlo rigen están estandarizadas. A modo de ejemplo, la compra de un contrato\na plazo podría asimilarse a encargar un traje a medida mientras que un\nfuturo sería equivalente a comprar en un gran almacén con tallaje fijo y sin\nposibilidad de arreglo.\nSus características principales:\nLas características operativas que definen e identifican los futuros son:\nLas condiciones de los contratos están estandarizadas por lo que\nse refiere a su importe nominal, objeto y fecha de vencimiento.\nSe negocian en mercados organizados, por tanto pueden ser\ncomprados o vendidos en cualquier momento de la sesión de\nnegociación sin necesidad de esperar a la fecha de vencimiento.\nTanto para comprar como para vender futuros, los intervinientes\nhan de aportar garantías, es decir, un importe determinado en\nfunción de las posiciones abiertas que mantengan como señal\ndel cumplimiento de su compromiso, de forma que mitiga el\nriesgo de contrapartida."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nEl inversor en futuros debe tener en cuenta que es posible realizar la venta de\nun futuro sin haberlo comprado antes, ya que lo que se vende es la posición\nen el contrato por el que el vendedor asume una obligación. Esto es lo que en\nel mercado se llama «abrir posiciones cortas» o «ponerse corto».\nPrecio teórico de un futuro\nLa formación del precio de un futuro es similar al del precio del contrato a\nplazo. Así, el precio de un contrato de futuros sobre una acción se forma a\npartir del precio de la misma, capitalizado hasta la fecha de vencimiento, y\nrestando a ese importe el valor del dividendo capitalizado hasta la fecha de\nvencimiento.\nPor ejemplo, para conocer el precio del contrato de futuro a tres meses\nde una acción de la sociedad XYZ que cotiza en la bolsa a 45 euros, que\nno reparte dividendo y sabiendo que el tipo de interés del mercado a\nese plazo es el 2,5%, bastaría con utilizar la siguiente fórmula:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nLa señora Gómez y el vendedor, para calcular el precio que debían fijar\nen su contrato sumaban la financiación y los posibles gastos (como\nel de comunidad) y restaban los ingresos por alquiler. Trasladándolo\nal cálculo real del precio de un futuro, la financiación y los posibles\ngastos serían equivalentes a determinar el valor de la inversión realizada\nhoy en la fecha de vencimiento, mientras que los ingresos por alquiler\nserían equivalentes a los dividendos que pudieran recibirse durante ese\nperíodo.\nLa diferencia existente entre el precio de la acción dentro de tres meses\ny su precio hoy se conoce como el coste neto de financiación.\nPrecio futuro =\nPrecio de cotización × [1 + (r × t/360)] – D × [1 + (r´ × t´/360)]\nDonde:\n¥ r = tipo de interés de mercado para t días,\n¥ t = nº de días desde hoy hasta el vencimiento del contrato,\n¥ D = dividendo a percibir,\n¥ r’ = tipo de interés de mercado para t’ días,\n¥ t’ = nº de días que median entre la fecha de pago del\ndividendo y el día de vencimiento del contrato.\nPrecio futuro =\n45 × [1 + (0,025 × 90/360)] –0 = 45,28 euros"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nEs conveniente señalar que este coste neto de financiación podrá ser\npositivo o negativo dependiendo de si el rendimiento por dividendos es\nmenor o mayor que el coste de financiación.\nCompra de un contrato de futuros\nUna vez calculado el precio teórico del futuro sobre XYZ, si se piensa que\nel precio de las acciones de XYZ va a tener una fuerte revalorización de\nhoy a tres meses, se presentan dos alternativas:"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Comprar la acción hoy pagando 45 euros.",
+        "Comprar un contrato de futuros sobre dicha acción con"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "vencimiento tres meses y por el que deberá pagar el día de\nvencimiento 45,28 euros.\nSi se elige la segunda alternativa y, recordando que el contrato de\nfuturos obliga a comprar al precio pactado (45,28 en este caso) el día\nde vencimiento, el beneficio o pérdida se producirá por comparación\ndel precio de las acciones de XYZ el día de vencimiento y el precio del\ncontrato de futuros.\nSuponiendo que el día de vencimiento las acciones de XYZ cotizan a 50\neuros, se obtendrá un beneficio de 4,72 euros (50 – 45,28). Por otro lado,\nsi la acción cotizase a 35 euros se habría incurrido en una pérdida de\n10,28, pues se ha asumido la obligación de pagar 45,28 euros por algo\nque en el mercado vale ese día 35 euros."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nPrecio de XYZ el\ndía de vencimiento (1)\nPrecio del Contrato\nde futuros (2)\nBeneficio/\nPérdida (1-2)\n41,28\n45,28\n-4\n42,28\n45,28\n-3\n43,28\n45,28\n-2\n44,28\n45,28\n-1\n45,28\n45,28\n46,28\n45,28\n47,28\n45,28\n48,28\n45,28\n49,28\n45,28\nEl siguiente cuadro representa posibles valores de la acción XYZ el día\nde vencimiento y el resultado que genera la posesión del contrato de\nfuturos.\nLa representación gráfica sería:\nPor tanto, el contrato de futuros comprado genera beneficios si el activo subyacente, en el\nejemplo anterior las acciones de XYZ, cotiza por encima del precio de compra del contrato\nde futuros (45, 28)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nPrecio de XYZ el\ndía de vencimiento (1)\nPrecio del Contrato\nde futuros (2)\nBeneficio/\nPérdida (1-2)\n41,28\n45,28\n-4\n42,28\n45,28\n-3\n43,28\n45,28\n-2\n44,28\n45,28\n-1\n45,28\n45,28\n46,28\n45,28\n47,28\n45,28\n48,28\n45,28\n49,28\n45,28\nVenta de un contrato de futuros\nPor otro lado, si las expectativas son bajistas, es decir, si se cree que el\nprecio de la acciones de XYZ va a caer de hoy a tres meses, se debería\nvender el contrato de futuros con vencimiento dentro de tres meses. El\nresultado que generaría esa posición el día de vencimiento, en relación a\nlas posibles cotizaciones de la acción y el precio al que se ha asumido la\nobligación de vender, serían:\nEl vendedor de un futuro tendrá una posición de pérdidas y beneficios simétrica a la\ndescrita para el comprador (ver gráfico). Puede observarse que las pérdidas pueden ser\nilimitadas cuando el precio de la acción cotiza por encima de 45,28."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nEn la web de MEFF se pueden consultar los KID (Key Investor Document\n(cursiva) o Documentos con Datos Fundamentales para el inversor, que\nincluye información sobre la naturaleza, riesgos, costes y potenciales pérdidas\ny ganancias de estos productos. Antes de comprar o vender un futuro es\nimprescindible conocer las características concretas de cada contrato.\nEn el Mercado Español Regulado de Futuros y Opciones (MEFF) pueden\nnegociarse en la actualidad los siguientes contratos de futuro con subyacente\nfinanciero:\n¥ Futuros sobre índices (entre los que destacan el futuro sobre\nIBEX 35 y el futuro sobre MiniIBEX 35).\n¥ Futuros sobre el bono a 10 años.\n¥ Futuros sobre acciones.\n¥ Futuros sobre dividendos de acciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nV. ¿Qué son"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "las opciones?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La señora Gómez de nuestro ejemplo recibe una herencia valorada en\n3.000 euros el día siguiente a la firma de su contrato de futuros sobre\nla casa. Como el precio de compra de la vivienda lo tiene previamente\ngarantizado gracias al contrato que ha firmado, decide emplear este\ndinero con el que no contaba en unas tranquilas vacaciones.\nSiempre había querido realizar un crucero y consultando en varias\nagencias de viajes encuentra uno que se adapta a sus deseos para\ndentro de tres meses. En la agencia le ofrecen las siguientes alternativas:"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Fijar el precio en 3.000 euros, pagando ahora 300 euros"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "en concepto de señal y el resto una semana antes del\nviaje (si finalmente no realiza el crucero, perdería la señal)."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Pagar 3.500 euros la semana antes del viaje sin"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "necesidad de desembolsar señal alguna.\nLa señora Gómez no sabe si dentro de tres meses deseará realmente\nrealizar el crucero debido a su estado y tampoco tiene la posibilidad\nde gastar más de 3.000 euros. Por ello, le resulta interesante adquirir\nel derecho, pero no la obligación, a realizar el crucero por 3.000 euros\npagando 300 en el momento actual (aun arriesgándose a perderlos).\nPor su parte, la agencia de viajes ingresa los 300 euros de la señora\nGómez y asume la obligación de ofrecerle el crucero cuando llegue el\nmomento, previo pago del precio fijo de los 2.700 euros restantes.\nLa señora Gómez está realizando una operación a plazo en la que,\na diferencia de los futuros, no se deriva una obligación para el\ncomprador. Habría comprado una opción3, es decir, un derecho que le\notorga diferentes posibilidades:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nSi llegada la fecha del viaje decide buscar en otras agencias y no\nencuentra nada más barato, por haber pagado 300 euros podrá\nconservar el que tenía.\nSi encontrara un viaje idéntico más económico (2.000 euros),\npodría comprarlo, aun perdiendo los 300 de señal. El coste total\nserían 2.300, pero habría tenido la oportunidad de ejercer la otra\nalternativa y en caso contrario los 300 euros fueron un «seguro de\ncompra».\nSi la agencia de viajes ha subido el precio a 4.000 euros y la señora\nGómez no desea viajar, podría vender por 600 euros su derecho al\nviaje a otra persona que pudiera interesarle, ganando la diferencia.\nLa señora Gómez ganaría 300 euros y la otra persona pagaría 3.300.\nUna opción es un contrato que otorga a su comprador el derecho,\npero no la obligación, a comprar (opción call) o vender (opción\nput) una determinada cuantía del activo subyacente, a un precio\ndeterminado llamado precio de ejercicio o strike, en un período de\ntiempo estipulado o vencimiento.\nEl comprador de una opción tiene el derecho, pero no la\nobligación, de comprar o vender (según el tipo) al vencimiento;\nPor el contrario, el venderdor de la opción está obligado a comprar\n(opcion call) o vender (opción put) si el comprador decide ejercer\nsu derecho."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En los mercados de opciones, a diferencia de este ejemplo,\nla prima no se descuenta del precio final\n2700 + 600 = 3.300 euros\n4000 - 3300 = 700 euros ahorrados respecto\nal precio de mercado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nEn opciones, al ser contratos y no valores, no es necesario comprar primero\npara posteriormente vender, sino que es posible vender primero y en su\ncaso luego comprar. Por ello es fundamental distinguir entre la situación del\ncomprador y la del vendedor.\nLlegada la fecha de vencimiento, el comprador decidirá si le interesa o no\nejercer su derecho, en función de la diferencia entre el precio fijado para\nla operación (precio de ejercicio o strike) y el precio que en ese momento\ntenga el subyacente en el mercado de contado (en el caso de acciones, su\ncotización).\nEl precio de la opción es lo que el comprador paga por obtener ese\nderecho y se denomina prima. La prima es realmente el objeto de\nnegociación. El comprador de opciones sólo tiene derechos y ninguna\nobligación, por tanto sus pérdidas están limitadas a la prima pagada —\ncon esta posición ha vendido el riesgo a un tercero—. Por el contrario, el\nvendedor de opciones cobra la prima, pero sólo tiene obligaciones y asume la\nposibilidad de tener que soportar pérdidas ilimitadas. Por tanto, el vendedor\nde la opción siempre se queda con la prima, se ejerza o no la opción e\nindependientemente de las pérdidas finales que le pueda ocasionar el haber\ncomprado el riesgo a otro agente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nTipos de Opciones\nSegún el derecho que otorgan:\n¥ Opciones de compra o call\nEl comprador adquiere el derecho, aunque no la obligación, a comprar\nel subyacente a un precio determinado en la fecha de vencimiento\nestablecida, mientras que el vendedor de call asume la obligación de\nvender el subyacente al precio pactado si el comprador decide ejercer\nsu derecho y a cambio recibe la prima.\nCuando un inversor compra una opción call espera que el valor del\nsubyacente suba en los mercados; es decir, tiene expectativas alcistas.\nSi llegada la fecha de vencimiento, su apuesta resulta acertada y el\nprecio del subyacente es superior al precio de ejercicio fijado en el\ncontrato, le interesará ejercer la opción, ya que puede comprar el activo\nsubyacente más barato. Por el contrario, si el precio no sube como\nesperaba y el precio de ejercicio es mayor que el del subyacente, no\nejercerá la opción y perderá la inversión realizada, es decir, la prima.\nEn nuestro ejemplo, la señora Gómez finalmente decide no realizar\nel viaje y opta por invertir el dinero. Para ello consulta con su\nsobrina, quien le indica que invierta en opciones y le explica su\nfuncionamiento.\nLas acciones de la sociedad XYZ cotizan actualmente a 5 euros.\nExisten expectativas alcistas y se espera que dentro de un mes\nsu precio sea de 6 euros. La señora Gómez compra una opción de\ncompra call sobre estas acciones que le da el derecho a comprarlas\na 5,5 euros en la fecha de vencimiento, pagando una prima de 0,5\neuros.\n¿Cuándo debería la señora Gómez ejercer el derecho que le\notorga esta opción de compra?\nEn todos aquellos casos en los que la cotización de las acciones de\nXYZ en la fecha de vencimiento sea superior.\na)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nSi en la fecha de vencimiento las acciones de XYZ cotizan a 5\neuros: no se ejercería el derecho. No tendría sentido pagar las\nacciones a 5,5 euros cuando en el mercado de contado cotizan\na 5. En este caso, se perdería la prima pagada en el momento\nde formalización del contrato, los 0,5 euros por cada una de las\nopciones.\nSi en la fecha de vencimiento XYZ cotiza a 6 euros: se ejercería\nel derecho. De esta forma se compraría a 5,5 euros las acciones\ncuyo precio es superior. ¿Cuál será el resultado de la operación\nen este caso?\nSi en la fecha de vencimiento las acciones de XYZ cotizan a 6,5\neuros: se ejercería el derecho.\nDe esta forma se comprarían a 5,5 euros acciones cuyo precio es\nsuperior. ¿Cuál será el resultado de la operación en este caso?\nHasta ahora se ha mostrado cómo afecta la operativa con opciones\nal comprador de la opción call. Es conveniente también observar qué\nsucede con su contrapartida, el vendedor de call.\nResultado de la compra-venta:\n0,5 euros de beneficio (6-5,5).\nCoste de la operación: 0,5 euros.\nResultado total: 0.\nResultado de la compra-venta:\n1 euro de beneficio (6,5-5,5).\nCoste de la operación: 0,5 euros.\nResultado total: 0,5 euros."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nEn un primer momento, puede resultar difícil asumir que se puede\nvender una opción (ya sea de compra o de venta) sin haberla comprado\npreviamente, por lo que siempre hay que recordar que lo que realmente\nse vende es un contrato en el que se asume una obligación.\nEs similar a cuando se compra un seguro de automóvil. La compañía\naseguradora, en este caso, estaría vendiendo al tomador de la póliza el\nderecho a que su coche sea reparado en caso de accidente, al tiempo\nque asume la obligación de pagar la reparación. El vendedor de la opción\nactuaría de un modo similar a la aseguradora, pero en este caso el objeto\ndel contrato no es la reparación del coche sino el activo subyacente,\nrecibiendo del comprador la prima en el momento de formalización del\ncontrato.\nVolviendo al ejemplo anterior, el vendedor de la opción recibiría la\nprima y a cambio de este ingreso, en la fecha de vencimiento, está\nasumiendo la obligación de entregar las acciones de XYZ al precio\nde ejercicio (en todos los casos en que el comprador decida ejercer\nsu derecho).\nA medida que el precio de las acciones de XYZ sea mayor en el momento\ndel vencimiento, menos ventajosa será la operación para el vendedor de\nla opción call, ya que tiene la obligación de entregar al precio de ejercicio\nunas acciones que en ese momento pueden tener un precio muy\nsuperior, debiendo asumir las pérdidas ocasionadas.\nLa venta de un call supone ganancias limitadas y posibilidad de pérdidas\nilimitadas y viceversa en la compra.\nCompra-Venta de call"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\n¥ Opción de venta o put\nEn una opción de venta u opción put, el comprador tiene el derecho\naunque no la obligación de vender el subyacente a un precio fijado, en\nla fecha de vencimiento. El vendedor de put asume la obligación de\ncomprar el subyacente al precio pactado si el comprador decide ejercer\nsu derecho, y a cambio recibe la prima que paga el comprador.\nLa compra de una opción put está justificada cuando el inversor tiene\nexpectativas bajistas. Si el precio del subyacente disminuye, le\ninteresará ejercer la opción y vender al precio de ejercicio, que es\nsuperior. En caso contrario, no la ejercerá y perderá la prima.\nSi hay expectativas bajistas sobre XYZ, el inversor puede tomar la\ndecisión de comprar una opción put. Es decir, si en el momento\nactual cotiza a 5 euros, se esperará que en el plazo de un mes su\ncotización podría estar en torno a 4 euros.\nBajo este supuesto, una buena alternativa sería establecer en la fecha\nactual un contrato que garantizase un precio de venta para la fecha de\nvencimiento, por ejemplo 4,5 euros. La compra de la put, al igual que la\ncompra de call, supone en el momento de formalización del contrato el\npago de la prima (consideremos una put de precio de ejercicio 5 con una\nprima de 0,5 euros). Pagando esta prima se obtiene el derecho a decidir\nsi se quieren vender las acciones de XYZ a 5 euros en el momento del\nvencimiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nUna vez pagada la prima, ¿cuándo será conveniente ejercer este\nderecho? En todos aquellos casos en los que la cotización de XYZ en el\nmercado de contado y en la fecha de vencimiento sea inferior a 5 euros.\nEl vendedor de la put, a cambio de ingresar la prima en el momento de\nformalización de la operación, estará obligado a comprar las acciones a\n5 euros en todos los casos en los que el comprador ejerza su opción.\nCotización de XYZ\nen la fecha de\nvencimiento\nEjercicio de\nla opción\nResultado\nde la operación\n3,50\nSí\n1,00\n4,00\nSí\n4,50\nSí\n5,00\nIndiferente\n-0,50\n5,50\nNo\n-0,50\n6,00\nNo\n-0,50\n7,00\nNo\n-0,50"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nCompra-Venta de Put\nA continuación se resumen las cuatro posiciones básicas en opciones:\nEl vendedor de opciones asume mucho más riesgo que el comprador, ya\nque sus posibilidades de pérdidas son ilimitadas (si el comprador desea\nejercer su derecho, está obligado a comprar o vender), y el importe de\nlas ganancias es la prima.\nPrima\nAceptación\nExpectativas\nBeneficios\nPérdidas\nCompra\nde Call\nPaga\nDerecho\nAlcista\nIlimitados\nLimitadas\n(la prima)\nVenta\nde Call\nIngresa\nObligación\nBajista\nLimitados\n(la prima)\nIlimitadas\nCompra\nde put\nPaga\nDerecho\nBajista\nIlimitados\nLimitadas\n(la prima)\nVenta\nde put\nIngresa\nObligación\nAlcista\nLimitados\n(la prima)\nIlimitadas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nEn función del momento en el que pueden ejercerse:\nLa opción europea sólo puede ejercerse en la fecha de vencimiento\nmientras que la opción americana puede ejercerse en cualquier momento\nhasta la fecha de vencimiento.\nEn el caso de MEFF, la opciones cuyo subyacente es el futuro Mini Ibex 35\nson de tipo europeo, y las opciones cuyo subyacente son acciones pueden\nser de tipo europeo o de tipo americano.\nEl Precio de la Opción: la prima\nLa prima es el precio de la opción que paga el comprador y que ingresa el\nvendedor.\nEl precio de una opción tiene dos componentes: el valor intrínseco y el valor\nextrínseco (generalmente denominado valor temporal).\nb)\nPrima = Valor in trínseco + Valor temporal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nDe forma intuitiva y utilizando un ejemplo, supongamos que se quiere\nvender un caballo de carreras y se opta por subastarlo. El precio\nde salida de la subasta podría establecerse comprobando el precio\nmedio de los caballos de la misma raza y edad, pero que no posean\ncondiciones necesarias para participar en la alta competición; esto sería\nequivalente al valor intrínseco. Por otra parte, tras la subasta, se obtendrá\nun precio que será superior al precio de salida. La diferencia entre\nambos, reflejará las expectativas de que el caballo pueda ganar alguna\ncarrera a lo largo de su vida, de que no sufra enfermedades y de todos\naquellos factores que puedan influir en su éxito o fracaso. Esta diferencia\nsería asimilable al valor temporal."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "El valor intrínseco (V.I.)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En cada momento, el valor intrínseco de la opción es la diferencia entre el\nprecio del subyacente en el mercado y el precio de ejercicio.\nEl valor intrínseco es, por tanto, cuánto vale la opción si se ejercita el\nderecho en este momento. Veamos otro ejemplo:\nSupongamos que en una papelería se venden bolígrafos a 1 euro y que es\nposible negociar opciones call sobre bolígrafos.\nSi el precio del bolígrafo hoy es de 1 euro, ¿cuánto estaría dispuesto\na pagar por tener derecho a comprar hoy un bolígrafo a 0,9 euros?\nLógicamente lo máximo que estaría dispuesto a pagar serán 0,1 euros.\nPagar más no sería racional, así en el momento en el que el precio de\neste call iguala o supera los 0,1 euros, se podría ir directamente a la\ntienda a comprar el bolígrafo.\nY ¿cuánto estaría dispuesto a pagar por tener derecho a comprar hoy\nun bolígrafo a 1,10 euros?\nSi este derecho sólo es válido hoy, el precio que estaría dispuesto a\npagar será cero euros.\nPues bien, en ambos casos se ha obtenido el valor intrínseco de ambas\nopciones call, la primera con un precio de ejercicio de 0,9 euros y la\nsegunda con uno de 1,10."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nDe este modo, el valor intrínseco se calcula teniendo en cuenta el precio\nde ejercicio de la opción y el precio del activo subyacente (en este\ncaso, el precio de los bolígrafos). Por tanto, el valor intrínseco es siempre\nconocido y su cálculo es realmente sencillo. Para opciones call será igual\nal precio del activo subyacente menos el precio de ejercicio de la opción\ny si el resultado es negativo se toma el valor cero (no tiene ningún valor).\nPara las opciones put se calcula como el precio de ejercicio menos el\nprecio del activo subyacente y, del mismo modo, si esta diferencia es\nnegativa carece de valor."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "El valor extrínseco o temporal (V.T.)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Continuando con el ejemplo, se puede hacer la siguiente pregunta:\n¿cuánto se estaría dispuesto a pagar por tener derecho a comprar\nun bolígrafo a 1,10 euros dentro de un año? Quizá habrá quien esté\ndispuesto a pagar una determinada cantidad positiva porque ¿y si\nresulta que dentro de un año los bolígrafos han subido a 1,25 euros?\nDe este modo, entra en escena el valor temporal, es decir, el posible\naumento de valor intrínseco que una opción puede experimentar por\ntener un período de vigencia. Puede observarse cómo en este caso no\nse trata de datos ciertos ya que no se conoce cuál será el precio de los\nbolígrafos dentro de un año, a lo sumo podrá estimarse. Lo que existe es\nla posibilidad de que el precio pueda variar, tanto al alza como a la baja\n(existe incertidumbre).\nEs importante observar que según el activo del que se trate, el posible\naumento de valor intrínseco será más o menos probable. Esto queda de\nValor intrínseco = Precio del subyacente – precio de ejercicio (call)\nValor intrínseco = Precio de ejercicio – precio del subyacente (put)\n(siempre mayor o igual a cero)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nmanifiesto, por ejemplo comparando una opción call sobre el bolígrafo\nantes mencionado, y una opción call sobre petróleo. Como el precio del\npetróleo es mucho más volátil que el de los bolígrafos, el valor temporal\ny por tanto la prima de la opción, será mayor en el caso del call sobre\npetróleo.\nLa volatilidad4 del activo subyacente es uno de los parámetros que\nafecta al valor de las opciones, concretamente al valor temporal. Cuanto\nmayor es la volatilidad mayor es el valor de las opciones, tanto call como\nput.\nTambién puede analizarse el efecto del tiempo sobre el valor de las\nopciones. Si fuera posible negociar opciones call sobre bolígrafos a un\nmes o a un año, ¿cuál de las dos tendrá un valor superior? Lógicamente\nla de un año de plazo, ya que a igualdad de volatilidad (estamos hablando\ndel mismo activo subyacente, el bolígrafo), la posibilidad de que el valor\nintrínseco aumente es mayor en un año que en un mes.\n4.\nTasa de variación del precio del subyacente"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nEl tiempo que media hasta el vencimiento es uno de los parámetros\nque afecta al valor de las opciones, concretamente al valor temporal,\nsiendo éste cero en la fecha de ejercicio. Cuanto mayor es el plazo\nrestante hasta el vencimiento, mayor es el valor de las opciones, tanto\ncall como put, ya que la probabilidad de que el precio evolucione en el\nsentido esperado se incrementa.\nEl valor temporal dependerá además del tiempo a vencimiento, de la\nvolatilidad, del tipo de interés a corto plazo y de los dividendos.\nPor otro lado, las opciones emitidas pueden encontrarse en alguna de las\nsiguientes situaciones:\nOpciones «dentro del dinero» —in the money—: son las opciones\nque, si se ejercen en ese momento, proporcionan beneficios\na su poseedor. Es decir, el precio del ejercicio es inferior al del\nsubyacente en una opción call y superior en una put. Tienen valor\nintrínseco positivo.\nOpciones «en el dinero» —at the money—: el precio de ejercicio\ny el del subyacente son prácticamente coincidentes, de manera\nque ejercer las opciones en ese momento no implicaría ningún\nbeneficio. Sólo tienen valor temporal.\nOpciones «fuera del dinero» —out of the money—: son las que\nno se ejercerían, por estar el precio de ejercicio por encima (en\nuna call) o por debajo (en una put) del precio del subyacente. No\ntienen ningún valor intrínseco.\nA lo largo de su vida, una opción puede ir cambiando de una a otra\nsituación, debido a las continuas variaciones de precio del activo\nsubyacente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nVariables que influyen en la prima y su efecto\nLa formación del precio depende fundamentalmente de los siguientes\nfactores: el precio del subyacente, el precio de ejercicio, la volatilidad del\nsubyacente, el tipo de interés, los dividendos que en su caso genere el\nsubyacente antes de la fecha de ejercicio, y el tiempo que resta hasta la fecha\nde vencimiento de la opción.\nEl precio del subyacente y el precio de ejercicio.\nAnteriormente se ha mostrado cómo la relación entre ambos\ndetermina el valor intrínseco de la opción. El valor intrínseco varía\ndebido a las fluctuaciones del precio del subyacente en los mercados,\npuesto que el precio de ejercicio es constante durante toda la vida de\nla opción. Así, una opción puede estar in the money un día y out of the\nmoney al día siguiente.\nLa volatilidad del subyacente mide la variabilidad de los precios de\néste (el riesgo de mercado). Los incrementos de volatilidad producen\naumentos de las primas, tanto para opciones call como put.\nEsto se debe a que si el precio de un valor fluctúa mucho, es más difícil\nprever cuál será su cotización cuando llegue la fecha de vencimiento, y\nel abanico de posibles precios que se pueda esperar en ese momento\nserá más amplio que en un subyacente que presente reducidas\nvariaciones de su precio (el caso extremo sería el de una acción cuya\ncotización fuera siempre la misma, ya que tendría volatilidad cero). Por\ntanto, a mayor fluctuación del precio del subyacente, la posibilidad de\nque éste pudiera evolucionar a favor del comprador de la opción es\nmayor y el vendedor exigirá una prima más alta por ella, ya sea call o\nput. Evidentemente la volatilidad de un activo varía en el tiempo y en\nalgunos períodos más que en otros.\nEn el caso de que la volatilidad se reduzca, su efecto se dejaría notar\nen forma de bajada de la prima de las opciones. Podría ocurrir, además,\nque incluso si se ha acertado con la dirección en la que se va a\nmover el subyacente, el hecho de que la volatilidad se haya reducido\nprovoque que el comprador de la opción vea como baja su precio y su"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nposición entre en pérdidas.\nCuando se habla de volatilidad o variabilidad de precios, es importante\nconocer si se refiere al pasado o al presente y futuro (que es lo\nrelevante para valorar opciones):\n¥ Volatilidad histórica: es la que ha habido en el pasado, por lo que\nno necesariamente tiene porqué repetirse en el futuro.\n¥ Volatilidad implícita: es la que refleja las expectativas actuales del\nmercado sobre la volatilidad que tendrá el subyacente.\nEstimar la volatilidad del activo subyacente es la cuestión clave en\nla valoración de opciones ya que es el único factor que no se conoce.\nLos intermediarios pueden ofrecer su propia estimación subjetiva de\neste dato. Para ello suelen analizar la volatilidad histórica (cómo han\nfluctuado los precios en el pasado) y la volatilidad implícita (cómo\nestima el mercado que van a fluctuar los precios en el futuro). Sin\nembargo no es posible predecir con certeza el comportamiento futuro\nde los precios, de hecho, negociar opciones implica apostar por una\ndeterminada volatilidad, que es lo que fundamenta su existencia.\nEn general suele decirse que la volatilidad está alta si la volatilidad\nimplícita es superior a la histórica y que está baja en el caso contrario.\nEl tipo de interés (al mismo plazo que el vencimiento de la opción) es\ntal vez el factor con menos incidencia en la valoración de opciones.\nPuesto que el movimiento de los tipos afecta al coste de financiación,\nuna subida de éstos disminuye el valor actual del precio de ejercicio,\npor lo que la prima de una opción call aumentará mientras que el valor\nde la put se reducirá. Suele utilizarse el tipo de interés libre de riesgo\n(en general, el de las letras del Tesoro).\nLos dividendos de las acciones influyen en el precio de la opción en\nla medida en que el reparto de dividendos disminuye la cotización.\nAl reducirse el valor del subyacente, baja el precio de la opción call\ny aumenta en el caso de la put. Por tanto, el precio de las opciones\nreacciona a las expectativas del mercado sobre el pago de dividendos\ndel subyacente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nLa importancia del tiempo restante hasta la fecha de ejercicio ha\npodido comprobarse anteriormente. De hecho, cuanto mayor sea éste,\nmayor valor temporal tendrá la opción ya que hay más posibilidades\nde que el precio del subyacente evolucione en el sentido que espera el\ncomprador. El valor temporal es nulo en la fecha de vencimiento.\nEn consecuencia, el efecto de estos factores ha de analizarse\nconjuntamente. Así, es posible que a pesar de que la evolución del precio del\nsubyacente sea favorable, el valor de la prima se reduzca como consecuencia\nde la evolución desfavorable de alguno o algunos de los restantes factores o\nviceversa.\nResumen del efecto de los distintos factores en el valor de la opción\nExisten distintos métodos de valoración que manejan los efectos de estas\nvariables; el más conocido es el elaborado por Black & Scholes en 1973.\nA mayor...\nOpción call\nOpción put\nPrecio del subyacente\nh\ni\nPrecio de ejercicio\ni\nh\nVolatilidad\nh\nh\nTipo de interés\nh\ni\nDividendos\ni\nh\nTiempo hasta el vencimiento\nh\nh"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nPor supuesto, un inversor no tiene necesariamente que calcular el valor de la\nprima. La prima se negocia en el mercado y los intermediarios en opciones\ntienen herramientas para valorar opciones y calcular sus «precios teóricos».\nSegún estos precios teóricos sean superiores o inferiores a los del mercado,\nse dice que la opción está cara o barata, respectivamente.\nAdemás de saber qué variables influyen en la determinación del precio\n(prima), es interesante conocer cuánto influye en el mismo cada una de\nellas. Las sensibilidades del precio de la opción ante las variaciones de\nestos factores se representan a través de letras griegas. Esta información\nes posible encontrarla en los sitios web de distintos intermediarios\nespecializados, e interpretar las más relevantes, ayudará sin duda al inversor\nen su toma de decisiones:\nDelta: indica cómo variaría la prima ante las variaciones en el\nprecio del subyacente. Matemáticamente es la primera derivada y\nse interpreta como la cuantía del cambio producido en la prima al\nmodificarse en una unidad el precio de contado del subyacente. Si se\nha comprado una opción, delta indicará cuánto puede subir o bajar\nen función de los movimientos de la cotización del subyacente. Es\ndecir, la velocidad de cambio de la prima frente a las fluctuaciones del\nprecio del subyacente.\nGamma: mide la variación de Delta al producirse modificaciones\nen el precio del subyacente. Es la segunda derivada del valor de la\nprima respecto al precio del subyacente y mide por tanto la tasa de\nvariación de Delta, es decir, la aceleración con la que varía la prima\nante una unidad de variación del precio del subyacente.\nVega: indica cuánto varía la prima ante cambios en la volatilidad.\nPuede utilizarse para comprobar cuánto subirá o bajará el precio de la\nopción ante variaciones de ésta.\nTheta: mide la variación de la prima por efecto del paso del tiempo.\nSuponiendo que el resto de los factores permanecieran constantes, el\npaso del tiempo hace que se vaya reduciendo el valor de las primas,"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nlo que resulta negativo para el comprador y positivo para el vendedor\nde opciones. La velocidad con la que la prima pierde valor aumenta a\nmedida que se aproxima la fecha de vencimiento.\nEn la actualidad, es posible negociar opciones sobre las acciones de las\nprincipales sociedades cotizadas. Estos subyacentes se caracterizan por su\nelevada liquidez y capitalización.\nEstos contratos de opciones pueden tener distintos vencimiento, y además,\npueden ser de estilo americano o europeo.\nTambién se pueden contratar opciones sobre IBEX 35 en las que el\nsubyacente es un Futuro Mini IBEX 35 del mismo vencimiento que la opción.\nAl igual que las opciones sobre acciones, las opciones sobre el Ibex pueden\ntener distintos vencimientos y son de tipo europeo.\nEl nominal es de 100 acciones por contrato, por lo que el\nprecio de un contrato de opciones sobre acciones con\nuna Prima de 1,55 euros sería: 100 × 1,55 = 155 euros."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VI. Antes de invertir..."
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Cómo comprar y vender opciones y futuros?\nLos productos derivados, al igual que otros productos financieros negociables,\nse pueden comprar y vender en el mercado secundario sin esperar a su\nvencimiento. En España el único mercado oficial de derivados es MEFF\n(Mercado Regulado de Futuros y Opciones), mercado que está integrado\ndentro del Holding Bolsas y Mercados Españoles (BME).\nPara comprar o vender contratos —abrir posiciones en el mercado— es\nnecesario hacerlo a través de un intermediario financiero miembro del\nmercado. Únicamente las entidades financieras que cumplen determinados\nrequisitos, y con las que MEFF tiene suscrito un contrato, tienen la capacidad\nde canalizar e introducir las órdenes cursadas por sus clientes directamente\nal mercado.\nAntes de elegir el intermediario a través del que va a cursar las órdenes,\ndeben consultarse entre otros aspectos las tarifas y demás servicios que se\nofrecen. Es de vital importancia disponer de información en tiempo real —\nespecialmente si es vendedor de opciones— y contar con herramientas que\nden la posibilidad de realizar las operaciones de forma rápida y sencilla. Una\nvez elegido el intermediario, deberá firmarse el correspondiente contrato.\nComo se ha puesto de manifiesto, la operativa con productos derivados\nlleva asociados derechos y obligaciones por parte de los contratantes con\nsu correspondiente riesgo de contrapartida (riesgo de que alguna de las\npartes no cumpla con su compromiso). Para evitar este riesgo cualquier\noperación que se realiza en el mercado ha de registrarse en una entidad de\ncontrapartida central, entidad que garantiza a compradores y vendedores\nque en todo momento podrán llevar a cabo las operaciones pactadas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nLa función de la entidad de contrapartida central1 es asegurar a ambas partes\nque podrán comprar y vender el activo el día de vencimiento. Para cumplir\nestos compromisos se convierte ella misma y de forma simultánea en la parte\nvendedora para quien haya adoptado el compromiso de comprador en el\ncontrato derivado, y en parte compradora ante quien lo haya hecho como\nvendedor (actúa de contrapartida). Jurídicamente se interpone entre los dos\ny, llegado el día de la transacción, se responsabiliza de realizar la transferencia\ndel activo por su precio, entregando a cada uno lo que estaba pactado. Esta\nentrega puede realizarse en dinero si la liquidación se realiza por diferencias o\nbien en activos si se produce por entrega física.\nEn nuestro ejemplo de la compra de la casa por la señora Gómez, si\nla señora Gómez no pudiese llevar a cabo la compra al cabo de los 9\nmeses, la entidad de contrapartida central tendría que actuar como\ncompradora y tendría que pagar al vendedor de la casa el importe\npactado en el contrato. Por otra parte, si fuese el vendedor quien se\nechara atrás en el momento de la entrega la vivienda, la entidad de\ncontrapartida central tendría que vender a la señora Gómez una casa de\ncaracterísticas idénticas a las pactadas en el contrato.\nGracias a la entidad de contrapartida central las dos partes llevan a cabo sus\noperaciones respectivas, independientemente de si una de ellas cumple o no\ncon lo pactado."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Las operaciones negociadas en MEFF se registran en BME Clearing,\nentidad de contrapartida central perteneciente al grupo BME."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\n¿Qué son las garantías?\nAl ser la entidad de contrapartida central quien asume el riesgo de\ncontrapartida de compradores y vendedores, deberá utilizar una serie\nde mecanismos para gestionarlo y no acabar asumiendo las pérdidas\ngeneradas por posibles incumplimientos. Para ello dispone de las siguientes\nherramientas:\nLiquidaciones diarias de pérdidas y ganancias: cada día las posiciones\nabiertas en contratos de futuros se valoran a los precios de cierre,\nabonando las ganancias y cargando las pérdidas que se generen el\nmismo día. En caso de que el cliente no pueda hacer frente a ellas, la\nentidad de contrapartida central deshace las posiciones para que la\nposible pérdida máxima en la que incurra sea la de un día.\nA continuación, y utilizando como ejemplo el contrato de futuro sobre\nIBEX 35 que vence el tercer viernes de cada mes, se muestra cómo se\nrealiza esta liquidación.\nEste contrato puede negociarse hasta el día de vencimiento y cotiza con\nuna fluctuación mínima de 1 punto. El multiplicador se utiliza para saber a\ncuántos euros equivale cada punto y en este caso es 10. Por lo tanto, la\nliquidación de pérdidas y ganancias se calcula de la siguiente forma:\nSi se realiza la compra de 1 Futuro de IBEX 35 a 10.000 y el\nprecio de liquidación a final de sesión es 10.020, se obtiene\nuna diferencia de 20 puntos que aplicándoles el multiplicador\nequivalen a\n200 euros (10.020 – 10.000) × 10 = + 200 euros.\nSi el precio de liquidación al final de la sesión hubiera sido 9.980,\nse produciría una liquidación negativa de\n200 euros (9.980 – 10.000) × 10 = –200 euros."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nPara realizar estos mismos cálculos con Mini IBEX 35, bono a 10 años y\nfuturos sobre acciones, es imprescindible comprobar con anterioridad las\ncondiciones generales de estos productos ya que en ellas se determina cómo\nse hace la liquidación de pérdidas y ganancias.\nDepósito de garantías: por cada posición abierta que implique\nobligaciones (compra y venta de contratos de futuros y venta\nde opciones), y ante la posibilidad de sufrir fuertes pérdidas por\nmovimientos adversos de los precios durante la sesión de mercado, la\nentidad de contrapartida central exige a los intermediarios depositar\nantes del inicio de la sesión del día siguiente un importe en efectivo\no en otro activo2. Esta cantidad es variable en función de cada tipo\nde contrato y del activo subyacente, devolviéndose cuando hayan\ndesaparecido las obligaciones ante la entidad de contrapartida central.\nEn general, los intermediarios se lo solicitan a los inversores el día\nanterior.\nLas garantías mínimas que deben depositarse están establecidas\npor la entidad de contrapartida central, aunque posteriormente cada\nintermediario puede incrementarlas en un porcentaje determinado. No\ntodos exigen las mismas garantías a sus clientes, por lo que antes de\ncomenzar a operar debe compararse cuánto exige cada uno de ellos.\nEs este un aspecto muy importante a tener en cuenta, ya que cuantas\nmás garantías deban depositarse, mayor parte del patrimonio disponible\npasará a estar inmovilizado.\nA continuación, se resume la secuencia de pasos desde que se cursa\nuna orden a un Miembro de MEFF, hasta que la entidad de contrapartida\ncentral comunica al Miembro, y éste a su cliente, las cantidades que\ndeben ser abonadas o cargadas por las liquidaciones diarias y por los\ndepósitos de garantías."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Generalmente acciones o bonos del Estado"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\n¿Qué significa cerrar la posición?\nCerrar la posición es dejar de tener posiciones ante la entidad de\ncontrapartida central, tanto en derechos como en obligaciones.\nPara ello, si se ha abierto una posición como comprador, se deberá tomar una\nposición como vendedor sobre un contrato de las mismas características, o\nviceversa; realizando tantas operaciones como se precise."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VII. ¿En qué consiste el"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "efecto apalancamiento?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El efecto apalancamiento es la relación que existe entre el resultado de la\ninversión y el capital invertido.\nLos inversores en productos derivados deben tener siempre presente\nel importante efecto multiplicativo, tanto de las minusvalías como de\nlas plusvalías, en el caso en que se prevea errónea o correctamente la\ntendencia de las cotizaciones. No debe olvidarse nunca que a mayor efecto\napalancamiento, se está asumiendo un mayor riesgo y por tanto una mayor\nposibilidad de pérdidas si se ha previsto erróneamente la tendencia.\nEn el caso de los futuros, por su evolución de carácter simétrico respecto a la\ngeneración de pérdidas o ganancias, el efecto multiplicativo que se produce\nes el mismo en ambos casos pero en sentido inverso. En consecuencia,\nse debe vigilar constantemente las posiciones dado que si la tendencia\nevoluciona en contra de lo previsto, las pérdidas pueden ser ilimitadas.\nPor otro lado, en la compra de opciones el desembolso es la prima, por lo que\nel riesgo que se asume es la pérdida de la totalidad de la misma. A cambio y\ndebido a este efecto apalancamiento, con pequeñas inversiones se pueden\nobtener altas rentabilidades.\nEfecto apalancamiento =\nResultado inversión\nCapital invertido"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nEs posible observar el efecto apalancamiento comparando los resultados\nde la compra de acciones de una empresa cualquiera, con la compra de\nopciones call cuyo subyacente sean estas mismas acciones:\nSi la señora Gómez, continuando con el estudio sobre sus posibles\ninversiones, decidiera comprar 100 acciones de la compañía XYZ a 11,5 euros\ny, adicionalmente, comprar opciones call sobre dicha compañía con precio de\nejercicio 11,5 euros a 0,89 € por contrato, podría comprobar cómo influye el\nefecto apalancamiento de la compra de opciones:\nSi se mantienen posiciones vendedoras de opciones, se percibe la prima y\nse depositan las garantías asumiendo un riesgo ilimitado.\nDel efecto apalancamiento se deduce la importancia que tiene\npara los inversores que utilizan estos productos con carácter\nespeculativo o de inversión, realizar un seguimiento riguroso y\nexhaustivo de sus posiciones, teniendo siempre presente el grado\nde asunción de riesgo que en cada momento están tomando.\nSi XYZ sube a 13 euros\nResultado por la compra de acciones = (13 – 11,5)/11,5 = 13,04%\nResultado de operar con opciones = (13 – 11,50 – 0,89)/0,89 = 68,54%\nSi XYZ baja a 10 euros\nResultado por la compra de acciones = (10 – 11,5)/11,5 = –13,04%\n(pierde lo que el mercado baje).\nResultado de operar con opciones = –100% al no ejercer la opción\nperdería la totalidad de la prima (–0,89 €)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VIII. Futuros y opciones"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "como cobertura y como"
+    },
+    {
+      "type": "paragraph",
+      "text": "inversión\nFuturos y opciones como cobertura\nLa cobertura es una estrategia por la que se intenta reducir el riesgo de\nprecio de una determinada cartera, es decir, la posible pérdida producida por\nmovimientos desfavorables de los precios. Para realizar una cobertura debe\ntomarse una posición de sentido contrario a la que se desea cubrir, de manera\nque los resultados de ambas se compensen mutuamente, manteniendo al\nconjunto indiferente a los movimientos de precios de mercado.\nBásicamente se trata de que la posible pérdida que pudiera sufrir una cartera\nde renta variable, se vea compensada con la ganancia obtenida en derivados.\nCobertura con futuros\nPara cubrir una cartera de renta variable con futuros se debe vender\nun número de contratos equivalente a nuestra posición. A través del\nsiguiente ejemplo, es posible comprobar de forma simplificada cómo\npueden utilizarse los futuros para cubrir una cartera:\nSupongamos que la señora Gómez tiene 100 acciones de la\ncompañía XYZ que cotizan a 11,50 euros en el mercado y teme\nuna caída en su precio. Una forma de cubrir este riesgo de precio\nconsiste en vender un contrato de futuro sobre XYZ a un precio\nde 11,57 euros. Las posiciones resultantes a día de vencimiento\nserían las siguientes:\na)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nCobertura con opciones\nEn general, cubrir una cartera con opciones puede asimilarse a la compra\nde un seguro. Para eliminar el riesgo de que la cartera baje, se paga\nuna prima en opciones que proporcionarán ganancias suficientes para\ncompensar esta pérdida.\nEn el caso de que la señora Gómez decida cubrir su cartera\ncon opciones, tendrá que decidirse por una de las siguientes\nposibilidades:"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Cobertura con opciones de venta put",
+        "Cobertura con opciones de compra call"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "b)\nActivo a\nvencimiento\nResultado\npor posición en\nContado\nResultado\npor posición en\nFuturo\nRESULTADO\nTOTAL\n11,00\n-50\n+57\n+7\n11,50\n+7\n+7\n12,00\n+50\n-43\n+7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Cobertura con opciones de venta put"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Si se tienen en cartera 100 acciones de la empresa XYZ y se quiere\nconstruir la cobertura con opciones put, comprará una opción put\ncuyo precio de ejercicio sea lo más cercano al precio actual de la\nacción.\nLa posición resultante es una curva con beneficio potencial ilimitado\ny, sin embargo, pérdidas máximas limitadas a la prima pagada. El\nsiguiente gráfico muestra esta estrategia.\nPut protectora"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Cobertura con opciones de compra call"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Supone la venta de un número equivalente de opciones de compra\ncall al número de acciones que se poseen en la cartera. En el\nejemplo, la señora Gómez es propietaria de 100 acciones de XYZ,\ncon lo cual debería vender un contrato (el nominal de un contrato es\n100 acciones) por el que recibirá la prima correspondiente:\nGenera un flujo de dinero inmediato derivado de la venta de las\nopciones (prima que se percibe).\nRetrasa la entrada en pérdidas por bajadas en el precio de la acción,\nya que empezará a perder cuando la caída sea superior al importe\nde la prima cobrada. Esta cobertura, por lo tanto, solamente cubre\npérdidas hasta ese momento.\nProporciona una rentabilidad adicional si las acciones se mantienen\nestables.\nCall cubierta"
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros\nFuturos y opciones como inversión\nEn los capítulos anteriores se ha puesto de manifiesto cómo es posible operar\ncon opciones y futuros independientemente de si el subyacente evoluciona\nal alza o a la baja. Por tanto, de acuerdo con las expectativas existentes\nsobre la evolución del activo subyacente, el inversor podrá utilizar opciones o\ncontratos de futuro para intentar obtener un beneficio de estos movimientos.\nEn líneas generales y sin entrar al detalle en las sofisticadas estrategias que\npueden llevarse a cabo con estos instrumentos, la utilización de opciones y\nfuturos como inversión podría resumirse así:\nSi las expectativas sobre un determinado subyacente son alcistas,\npodrían comprarse o bien contratos de futuro o bien opciones call\nsobre el mismo.\nIgualmente, si se espera que la tendencia del subyacente va a ser\nbajista, la estrategia con futuros sería vender contratos sobre ese\nsubyacente, y con opciones comprar put.\nSi se espera que el subyacente apenas fluctúe, la alternativa a seguir\npodría ser vender opciones e ingresar la prima correspondiente (sin\nolvidar que las posibles pérdidas con\nesta posición son ilimitadas).\nDebe tenerse presente que al ser contratos estandarizados, es preciso buscar\naquel que más se adecue a las necesidades de la operación que se pretende,\neligiendo aquellos en los que tanto los precios de ejercicio como los plazos de\nvencimiento se adapten a la estrategia de inversión planificada. De este modo\nse intentará aprovechar el efecto apalancamiento que estos instrumentos\npermiten para obtener un beneficio, en caso de acertar con la tendencia."
+    },
+    {
+      "type": "paragraph",
+      "text": "Opciones y Futuros"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "IX. Recomendaciones"
+    },
+    {
+      "type": "paragraph",
+      "text": "finales\nA lo largo de los capítulos anteriores se han mostrado las características\ngenerales de los productos derivados y su funcionamiento en el mercado.\nAunque intuitivamente pueda comprenderse sin dificultad el funcionamiento,\nes importante tener presente su elevado grado de sofisticación, tanto en\nel cálculo de precios como en la variedad de estrategias que se pueden\nconstruir. Por ello, el inversor que empieza a operar en este mercado, debe\nrealizar un esfuerzo en dominar los conceptos fundamentales y la operativa,\nasí como dedicar tiempo a la formación e información.\nLa inversión en estos productos requiere conocimientos,\npredisposición al riesgo y una vigilancia constante de la\nposición.\nEs muy importante conocer sus características y\nfuncionamiento antes de invertir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contáctanos por email\nEsta guía tiene como finalidad informar al público en general sobre distintos\naspectos relacionados con los mercados de valores. Por su naturaleza divulgativa\nno puede constituir un soporte para posteriores interpretaciones jurídicas, siendo\nla normativa vigente la única de aplicabilidad para estos fines."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "información?"
+    },
+    {
+      "type": "paragraph",
+      "text": "www.cnmv.es"
+    }
+  ],
+  "text": "Opciones y Futuros\nOpciones \n& Futuros\nGuía\n\nOpciones y Futuros\nÍndice\nIntroducción\n¿Qué son los productos \nderivados y qué tipos \npodemos encontrar?\n¿Para qué sirven los productos \nderivados?\n¿Qué es un futuro?\n¿Qué son las opciones?\nAntes de invertir \n¿En qué consiste el efecto \napalancamiento? \nFuturos y opciones como \ncobertura y como inversión\nRecomendaciones finales\n\nOpciones y Futuros\nI. Introducción\nAunque no nos demos cuenta, las opciones y los futuros están \nfrecuentemente presentes en la vida diaria de los ciudadanos que, de\nforma intuitiva, realizan distintas valoraciones de este tipo de contratos.\nNos referimos a casos tan cercanos y habituales como pactar un precio \ndiferido en la compraventa de una vivienda o suscribir un seguro sobre \nnuestra casa o nuestro coche.\nSin embargo, cuando se habla de opciones y futuros referidos a los mercados \nfinancieros, en muchas ocasiones se consideran algo alejado de nuestra \nrealidad, cuando muchos inversores, sin operar directamente sobre ellos, \ntienen o han podido tener entre sus activos este tipo de contratos. En \nparticular, ha podido ocurrir si han encomendado la gestión de carteras a un \nprofesional estableciendo un límite en el riesgo agregado de la inversión o han \nsuscrito fondos de inversión garantizados.\nEl papel que juegan estos instrumentos en la gestión de inversiones es \nfundamental. Los resultados que ofrecen muchos productos financieros que \nse pueden encontrar en el mercado se consiguen con frecuencia comprando, \nvendiendo o realizando múltiples estrategias en el mercado de derivados. \nPor ello es importante conocer los conceptos principales, su funcionamiento \nbásico y cómo se transfiere el riesgo entre los participantes en el mercado, \ncon independencia de que el inversor decida o no operar directamente con \nopciones y futuros. \nOpciones y \nFuturos\n\nOpciones y Futuros\nPor otro lado, la equivalencia genérica de «opciones y futuros igual a riesgo \nilimitado» no es rigurosamente cierta. Como veremos en las siguientes \npáginas, el comprador de opciones constituye la excepción, pues, al haber \nadquirido un derecho, su pérdida máxima será el precio pagado por el \nmismo y, por tanto, el porcentaje que esto suponga sobre la totalidad de sus \ninversiones. Es decir, se trata de la única posición donde la pérdida máxima \nestá acotada a priori.\nEl objetivo de esta guía destinada al público en general es explicar de forma \nintuitiva y a través de ejemplos, los conceptos básicos de los contratos de \nopción y futuro, sin entrar en las sofisticadas estrategias de carteras que \npor sí solas o en combinación con otros productos se pueden llevar a cabo. \nIncluso para quien no actúe en este mercado, quizá esta guía le pueda \nayudar a comprender mejor la gestión de carteras que le lleva a cabo su \nintermediario o cómo se consiguen los resultados descritos en el folleto \ninformativo de un fondo de inversión que el inversor pretende suscribir.\n\nOpciones y Futuros\nII. ¿Qué son los \nproductos derivados \ny qué tipos podemos \nencontrar?\nLos subyacentes utilizados pueden ser muy variados: acciones, cestas de \nacciones, valores de renta fija, divisas, tipos de interés, índices bursátiles, \nmaterias primas y productos más sofisticados, incluso la inflación o los \nriesgos de crédito. \nPero ¿qué se esconde detrás de esta definición? El quid de la cuestión radica \nen la forma en que se deriva el precio y en la naturaleza de la transacción a \nla que da lugar este instrumento. Es decir, cómo y cuándo se lleva a cabo el \nintercambio del activo por su valor o precio en dinero. \nEn las operaciones habituales de contado o spot, al igual que cuando vamos \nal supermercado, el intercambio del producto por su precio se realiza en el \nmomento del acuerdo. Sin embargo, un derivado es un pacto cuyos términos \nse fijan hoy pero, y aquí está la diferencia, la transacción se hace en una fecha \nfutura.\nEsta idea de acordar una compraventa que se materializará al cabo de \nun cierto tiempo tiene tanta antigüedad como el comercio mismo; en los \nmercados financieros holandeses del siglo XVII ya se negociaban contratos \nderivados cuyo activo eran los bulbos de los tulipanes. \nLos productos derivados son instrumentos financieros cuyo valor \nderiva de la evolución de los precios de otro activo denominado \nactivo subyacente.\n\nOpciones y Futuros\nParalelamente, en Japón se desarrollaban los primeros mercados organizados \nen los que se concertaban contratos que conllevaban la entrega futura de \narroz. El hecho de poder conocer cuál sería el precio a cobrar o pagar por una \ncosecha permitía afrontar el futuro con mayor tranquilidad tanto al productor \ncomo al comprador. En estos ejemplos, tanto los bulbos como el arroz son el \nactivo subyacente.\nNo es hasta el siglo XIX cuando nace en Chicago el primer mercado de \nderivados moderno, en el que aún hoy en día se negocian contratos cuyos \nactivos son el trigo y el maíz. Con posterioridad se ampliaron a otros \nsubyacentes y se crearon en otros países mercados organizados sobre \nmercancías. En 1973, también en Chicago, se creó el primer contrato que \npermitía asegurar un tipo de cambio para una fecha futura; es, pues, el \nnacimiento del derivado financiero. A éste le siguieron otros derivados que \npermiten la compraventa de activos financieros como acciones, bonos, \níndices, tipos de interés, etc., en un momento posterior a la fecha del acuerdo.\nTipos de productos derivados \nAunque esta guía va a desarrollar los aspectos relativos a opciones y futuros, \na efectos de ofrecer una visión general de los productos derivados existentes, \nen el siguiente cuadro se muestran algunos de los de mayor difusión \nindicando las entidades autorizadas a tramitar su contratación y el organismo \nsobre el que recae la competencia de supervisión.\n\nOpciones y Futuros\nSupervisor\nTipo\nCategoría\nEntidades a través de las\nque se puede contratar\n1. \nMEFF Sociedad Rectora del Mercado de Productos Derivados\n2. \nEmpresas de servicios de inversión. \n3. \nOver the Counter\n4. \nForward rate agreement.\nProductos \nderivados\nNegociados en mercados\nregulados: \n• \nFuturos y opciones \nfinancieras (ej: MEFF)1 \n• \nWarrants \n• \nSociedades y Agencias de\nvalores\n• \nESI2 extranjeras autorizadas \n• \nEntidades de crédito \nnacionales\n• \nEntidades de crédito \nextranjeras autorizadas\nCNMV\nProductos\nDerivados \nOTC\nProductos negociados \nOTC3: \n• \nContratos a plazo \n(forwards) \n• \nFRAs4. \n• \nPermutas Financieras \n(swaps). \n• \nOpciones\n...\n• \nSociedades y Agencias de \nvalores.\n• \nESI extranjeras autorizadas\n• \nEntidades de crédito \nnacionales\n• \nEntidades de crédito \nextranjeras autorizadas\nCNMV\nProductos \nEstructurados\nNegociados en mercados\nregulados: \n• \nCertificados.\n• \nTurbowarrants\n...\n• \nSociedades y Agencias de \nvalores.\n• \nESIs extranjeras autorizadas \n• \nEntidades de crédito \nnacionales \n• \nEntidades de crédito \nextranjeras autorizadas\nCNMV\nOtros productos \nno negociables\n• \nDe naturaleza mixta\n• \nContratos financieros \nAtípicos (CFAs)\n• \nEntidades de crédito \nnacionales\n• \nEntidades de crédito \nextranjeras autorizadas\nCNMV\n\nOpciones y Futuros\nIII. ¿Para qué sirven los \nproductos derivados?\nYa sabemos que un derivado es un tipo de contratación a plazo en el que \ntodos los detalles se establecen en el momento del acuerdo, mientras que el \nintercambio efectivo se produce en un momento del futuro. Pero, ¿qué ventaja \naporta respecto a que esa compraventa se realice de manera inmediata? \nLa respuesta es que el comprador y el vendedor conocen con certeza la \ncantidad que se pagará y recibirá por el producto en la fecha acordada. \nLa incertidumbre sobre cómo se moverá el precio del activo es el llamado \nriesgo de precio, que todo inversor asume bien cuando posee ya ese activo \ny una caída de su valor le produce pérdidas (fig. 1), o bien cuando en lugar de \nrealizar su compra hoy, prefiere esperar un tiempo creyendo que su precio va \na caer y finalmente evoluciona al alza (fig. 2), teniendo que pagar más que si lo \nhubiera adquirido al principio. Este riesgo se observa muy bien en el mercado \nde acciones. \nSi se decide comprar acciones de la empresa X para venderlas más \ncaras en un futuro, existe el riesgo de que su precio baje incurriendo \nen pérdidas. Por otro lado, si lo que se quiere es comprar las mismas \nacciones esperando a que los precios sean inferiores, existe el riesgo \nde que éstos sigan subiendo y haya que desembolsar más dinero en el \nfuturo.\n\nOpciones y Futuros\nLos contratos de derivados se pueden utilizar para reducir el riesgo de precio \nmediante las llamadas operaciones de cobertura. En estas operaciones se \nposee el activo y se desea protección frente a movimientos adversos de precio. \nAdemás, los contratos de derivados se pueden utilizar como una inversión más, \nen la que el inversor apuesta por la dirección y amplitud del recorrido que va a \ntomar el precio de un activo durante un período determinado.\n• \nDecide comprar hoy.\n• \nRIESGO: caída de la cotización.\n• \nDecide esperar y comprar en un momento futuro.\n• \nRIESGO: subida de la cotización.\n\nOpciones y Futuros\nNo debe olvidarse que los \nderivados son productos \nsofisticados que cuando no \nson utilizados como cobertura \nconllevan riesgo de pérdida total \nde la inversión.\nPor lo tanto, invertir en ellos \nrequiere no sólo conocimientos \nespecíficos, tanto de su \nfuncionamiento como de los \nsistemas de negociación, \nsino en su caso, contar con \npredisposición a asumir riesgos \nelevados y tener capacidad \npara afrontarlos, además de \ndedicarles el tiempo necesario \npara realizar su seguimiento.\n\nOpciones y Futuros\nIV. ¿Qué es un futuro?\nAntecedentes: los contratos a plazo o forward\nAntes de explicar las características de los contratos de futuros, es \nconveniente fijarse en su antecedente; los llamados contratos a plazo o \ncontratos forward. Para definir qué es un contrato a plazo, utilizaremos un \nejemplo práctico:\nSupongamos que la señora Gómez recibe la noticia de que en nueve \nmeses su familia contará con un miembro más. Tras la alegría del primer \nmomento, cae en la cuenta de que el reducido apartamento en el \nque residen se les quedará pequeño y decide que es el momento de \ncomprar una casa más grande. Unos días después llega a un acuerdo \npara pagar 180.000 euros por un nuevo piso. \nEn una de las conversaciones que mantiene con el vendedor le hace \nsaber que en realidad el piso no lo necesita hasta dentro de nueve \nmeses, pero que, con el fuerte crecimiento de los precios que se está \nproduciendo en el mercado inmobiliario, prefiere comprarlo ahora. \nAnte esto el vendedor le responde que no tiene ningún inconveniente en \nentregar el piso dentro de nueve meses. De este modo, se presenta la \nposibilidad de firmar hoy un contrato en el que la trasmisión del piso se \nrealice dentro de nueve meses, pero fijando hoy su precio. Este tipo de \ncontrato se conoce como contrato a plazo. \nEsta idea no disgusta a la señora Gómez, pero le preocupa que \nel vendedor intente fijar en el contrato el precio de la vivienda \nincrementado en el 17% de revalorización que se espera para los \npróximos nueve meses. \nSi el vendedor tomase esta decisión, el precio que figuraría en el \ncontrato sería de 210.600 euros.\n\nOpciones y Futuros\n¿Debería la señora Gómez aceptar ese precio? La respuesta es No. \n¿Por qué? \nLa señora Gómez tiene la posibilidad de: \n• comprar la casa ahora y pagar 180.000 euros\n• firmar un contrato a plazo. \nSi decidiera comprar hoy la casa, debería pedir prestado los 180.000 \neuros. Suponiendo que por esta operación el banco le cobra un 2% \nanual, al cabo de los nueve meses habrá pagado 2.700 euros en \nconcepto de intereses. \nPor lo tanto, si el vendedor pretendiese reflejar en el contrato un precio \nsuperior a 182.700 euros, la señora Gómez optaría por comprar la casa al \ncontado, es decir hoy (pidiendo el dinero prestado), ya que ese sería su \ncoste al cabo de nueve meses. \n¿Sería este el precio adecuado para el vendedor? \nSi está dispuesto a vender la casa hoy, recibirá 180.000 euros que podría \ninvertir en un activo sin riesgo, en el que suponiendo que invierta al 2% \nanual, obtendría 2.700 euros en concepto de intereses. \nPor lo tanto, el precio de equilibrio para ambos bajo estos supuestos es \nde 182.700 euros.\nPrecio del piso = 180.000 × (1 + 0,17) = 210.600 euros\n(el precio actual más el incremento esperado)\nIntereses = 180.000 × 0.02 × 9/12 = 2.700 euros\n\nOpciones y Futuros\nPero, ¿hay algún factor más que deba considerarse para el cálculo?, \n¿qué ocurre con los gastos y posibles rendimientos que genere la \ncasa desde hoy hasta la fecha de liquidación del contrato? \nParece lógico pensar que el vendedor repercutirá en el precio a plazo \ntodos aquellos gastos que la vivienda ocasione, y a su vez que el \ncomprador descuente todos los rendimientos que se puedan generar. \nSiguiendo con el ejemplo, el vendedor observa que mantener la casa \n9 meses más le supondrá un desembolso en concepto de gastos de \ncomunidad de 540 euros, cantidad que si vendiese la casa hoy no \ntendría que abonar. \nPor lo tanto desde su punto de vista el precio debe ser:\nEste razonamiento convence plenamente a la señora Gómez, pero \nargumenta que si bien esto es cierto, no lo es menos que el vendedor \ntambién puede obtener un ingreso si alquila la casa durante nueve \n182.700 euros + 540 euros = 183.240 euros\n\nOpciones y Futuros\nmeses, y considera que este rendimiento ha de ser descontado del \nprecio a plazo. De no ser así, prefiere comprar la casa hoy y, puesto que \nno la necesita hasta dentro de nueve meses, alquilarla e ingresar por este \nconcepto, pongamos por caso, 1.700 euros.\nLlega el momento de firmar el contrato y se tienen en cuenta las \nmatizaciones que ambas partes han expuesto. Calculan, pues, el precio \nque han acordado que aparezca en su contrato a plazo:\nEl resultado final es que la señora Gómez ha firmado un contrato que le \nobliga a comprar la vivienda, independientemente de cuál sea su precio \nen el mercado, dentro de nueve meses, a cambio de pagar en esa fecha \n181.540 euros. \nPor su parte, el vendedor se ha obligado a vender la vivienda, \nindependientemente de cuál sea su precio en el mercado, dentro de \nnueve meses, a un precio equivalente en términos financieros al que \nestaba dispuesto a venderlo hoy. \nAhora bien, ¿qué ocurrirá pasados los nueve meses? \nEse día la señora Gómez y el vendedor llevan a cabo la transacción \nen los términos que hace nueve meses pactaron. La señora Gómez \nentrega 181.540 euros y recibe a cambio su nueva vivienda en propiedad, \ningresando el vendedor el importe pactado. \nPrecio de la vivienda hoy 180.000 euros\nInversión/financiación al 2% + 2.700 euros\nGastos de comunidad + 540 euros\nIngreso por alquiler – 1.700 euros\n 181.540 euros\n\nOpciones y Futuros\nPero también puede ocurrir que una de las contrapartes incumpla la \nobligación adquirida y ello repercuta en un grave perjuicio económico \npara la otra parte. Este riesgo se conoce como riesgo de contrapartida \no de insolvencia y está presente en cualquier transacción económica. \nAdemás, este riesgo se acentúa a medida que el plazo entre la fecha \nde contratación y de liquidación (fecha en la que se entrega el activo o \nmercadería), es mayor. \nSi en el ejemplo el vendedor no entregara la vivienda en la fecha \nacordada, esto provocaría (independientemente de las acciones legales \nque la señora Gómez emprenda) que tendría que adquirir la casa al \nprecio que esté en el mercado ese día. Esta circunstancia puede dar \nlugar a un quebranto que corresponderá a la diferencia entre el precio \npactado en el contrato y el que la casa tenga en el mercado (siempre \nque el precio de mercado en ese momento sea mayor que el establecido \nen el contrato). \nEl vendedor está sometido al mismo riesgo en el caso de que la señora \nGómez no compre al precio pactado, e implicaría que el vendedor \ndebería buscar un nuevo comprador. El quebranto se pondrá de \nmanifiesto en el caso de que el nuevo comprador sólo esté dispuesto a \npagar un precio inferior al pactado con la señora Gómez. \nVisto el ejemplo anterior, se puede comprender intuitivamente qué es un \ncontrato a plazo y cómo se establece su precio, pudiendo a continuación \ndefinir los futuros financieros. \nUn futuro es un contrato a plazo negociado en un mercado organizado, por \nel que las partes acuerdan la compraventa de una cantidad concreta de un \nvalor (activo subyacente) en una fecha futura predeterminada (fecha de \nliquidación), a un precio convenido de antemano (precio de futuro). Es decir, \nse trata de contratos a plazo cuyo objeto son instrumentos de naturaleza \nfinanciera (valores, índices, préstamos o depósitos...) o «commodities» (es \ndecir, mercancías como productos agrícolas, materias primas...).\n\nOpciones y Futuros\nPor lo tanto, la diferencia entre un contrato forward como el mostrado en \nel ejemplo y un contrato de futuro, radica fundamentalmente en que en el \ncontrato forward los contratantes fijan las condiciones del acuerdo según \nsus necesidades, mientras que en el contrato de futuro las condiciones que \nlo rigen están estandarizadas. A modo de ejemplo, la compra de un contrato \na plazo podría asimilarse a encargar un traje a medida mientras que un \nfuturo sería equivalente a comprar en un gran almacén con tallaje fijo y sin \nposibilidad de arreglo.\nSus características principales: \nLas características operativas que definen e identifican los futuros son: \nLas condiciones de los contratos están estandarizadas por lo que \nse refiere a su importe nominal, objeto y fecha de vencimiento. \nSe negocian en mercados organizados, por tanto pueden ser \ncomprados o vendidos en cualquier momento de la sesión de \nnegociación sin necesidad de esperar a la fecha de vencimiento. \nTanto para comprar como para vender futuros, los intervinientes \nhan de aportar garantías, es decir, un importe determinado en \nfunción de las posiciones abiertas que mantengan como señal \ndel cumplimiento de su compromiso, de forma que mitiga el \nriesgo de contrapartida.\n\nOpciones y Futuros\nEl inversor en futuros debe tener en cuenta que es posible realizar la venta de \nun futuro sin haberlo comprado antes, ya que lo que se vende es la posición \nen el contrato por el que el vendedor asume una obligación. Esto es lo que en \nel mercado se llama «abrir posiciones cortas» o «ponerse corto».\nPrecio teórico de un futuro\nLa formación del precio de un futuro es similar al del precio del contrato a \nplazo. Así, el precio de un contrato de futuros sobre una acción se forma a \npartir del precio de la misma, capitalizado hasta la fecha de vencimiento, y \nrestando a ese importe el valor del dividendo capitalizado hasta la fecha de \nvencimiento.\nPor ejemplo, para conocer el precio del contrato de futuro a tres meses \nde una acción de la sociedad XYZ que cotiza en la bolsa a 45 euros, que \nno reparte dividendo y sabiendo que el tipo de interés del mercado a \nese plazo es el 2,5%, bastaría con utilizar la siguiente fórmula:\n\nOpciones y Futuros\nLa señora Gómez y el vendedor, para calcular el precio que debían fijar \nen su contrato sumaban la financiación y los posibles gastos (como \nel de comunidad) y restaban los ingresos por alquiler. Trasladándolo \nal cálculo real del precio de un futuro, la financiación y los posibles \ngastos serían equivalentes a determinar el valor de la inversión realizada \nhoy en la fecha de vencimiento, mientras que los ingresos por alquiler \nserían equivalentes a los dividendos que pudieran recibirse durante ese \nperíodo. \nLa diferencia existente entre el precio de la acción dentro de tres meses \ny su precio hoy se conoce como el coste neto de financiación. \nPrecio futuro = \nPrecio de cotización × [1 + (r × t/360)] – D × [1 + (r´ × t´/360)]\nDonde: \n¥ r = tipo de interés de mercado para t días, \n¥ t = nº de días desde hoy hasta el vencimiento del contrato, \n¥ D = dividendo a percibir, \n¥ r’ = tipo de interés de mercado para t’ días, \n¥ t’ = nº de días que median entre la fecha de pago del \ndividendo y el día de vencimiento del contrato. \nPrecio futuro = \n45 × [1 + (0,025 × 90/360)] –0 = 45,28 euros\n\nOpciones y Futuros\nEs conveniente señalar que este coste neto de financiación podrá ser \npositivo o negativo dependiendo de si el rendimiento por dividendos es \nmenor o mayor que el coste de financiación. \nCompra de un contrato de futuros\nUna vez calculado el precio teórico del futuro sobre XYZ, si se piensa que \nel precio de las acciones de XYZ va a tener una fuerte revalorización de \nhoy a tres meses, se presentan dos alternativas: \n1. Comprar la acción hoy pagando 45 euros. \n2. Comprar un contrato de futuros sobre dicha acción con \nvencimiento tres meses y por el que deberá pagar el día de \nvencimiento 45,28 euros. \nSi se elige la segunda alternativa y, recordando que el contrato de \nfuturos obliga a comprar al precio pactado (45,28 en este caso) el día \nde vencimiento, el beneficio o pérdida se producirá por comparación \ndel precio de las acciones de XYZ el día de vencimiento y el precio del \ncontrato de futuros. \nSuponiendo que el día de vencimiento las acciones de XYZ cotizan a 50 \neuros, se obtendrá un beneficio de 4,72 euros (50 – 45,28). Por otro lado, \nsi la acción cotizase a 35 euros se habría incurrido en una pérdida de \n10,28, pues se ha asumido la obligación de pagar 45,28 euros por algo \nque en el mercado vale ese día 35 euros.\n\nOpciones y Futuros\nPrecio de XYZ el \ndía de vencimiento (1)\nPrecio del Contrato \nde futuros (2)\nBeneficio/\nPérdida (1-2)\n41,28 \n45,28 \n-4\n42,28\n45,28 \n-3\n43,28 \n45,28\n-2\n44,28 \n45,28\n-1\n45,28 \n45,28 \n46,28 \n45,28 \n47,28 \n45,28 \n48,28 \n45,28 \n49,28 \n45,28 \nEl siguiente cuadro representa posibles valores de la acción XYZ el día \nde vencimiento y el resultado que genera la posesión del contrato de \nfuturos. \nLa representación gráfica sería:\nPor tanto, el contrato de futuros comprado genera beneficios si el activo subyacente, en el \nejemplo anterior las acciones de XYZ, cotiza por encima del precio de compra del contrato \nde futuros (45, 28).\n\nOpciones y Futuros\nPrecio de XYZ el \ndía de vencimiento (1)\nPrecio del Contrato \nde futuros (2)\nBeneficio/\nPérdida (1-2)\n41,28 \n45,28 \n-4\n42,28\n45,28 \n-3\n43,28 \n45,28\n-2\n44,28 \n45,28\n-1\n45,28 \n45,28 \n46,28 \n45,28 \n47,28 \n45,28 \n48,28 \n45,28 \n49,28 \n45,28 \nVenta de un contrato de futuros\nPor otro lado, si las expectativas son bajistas, es decir, si se cree que el \nprecio de la acciones de XYZ va a caer de hoy a tres meses, se debería \nvender el contrato de futuros con vencimiento dentro de tres meses. El \nresultado que generaría esa posición el día de vencimiento, en relación a \nlas posibles cotizaciones de la acción y el precio al que se ha asumido la \nobligación de vender, serían: \nEl vendedor de un futuro tendrá una posición de pérdidas y beneficios simétrica a la \ndescrita para el comprador (ver gráfico). Puede observarse que las pérdidas pueden ser \nilimitadas cuando el precio de la acción cotiza por encima de 45,28.\n\nOpciones y Futuros\nEn la web de MEFF se pueden consultar los KID (Key Investor Document \n(cursiva) o Documentos con Datos Fundamentales para el inversor, que \nincluye información sobre la naturaleza, riesgos, costes y potenciales pérdidas \ny ganancias de estos productos. Antes de comprar o vender un futuro es \nimprescindible conocer las características concretas de cada contrato.\nEn el Mercado Español Regulado de Futuros y Opciones (MEFF) pueden \nnegociarse en la actualidad los siguientes contratos de futuro con subyacente \nfinanciero:\n¥ Futuros sobre índices (entre los que destacan el futuro sobre\nIBEX 35 y el futuro sobre MiniIBEX 35).\n¥ Futuros sobre el bono a 10 años.\n¥ Futuros sobre acciones.\n¥ Futuros sobre dividendos de acciones.\n\nOpciones y Futuros\nV. ¿Qué son \nlas opciones?\nLa señora Gómez de nuestro ejemplo recibe una herencia valorada en \n3.000 euros el día siguiente a la firma de su contrato de futuros sobre \nla casa. Como el precio de compra de la vivienda lo tiene previamente \ngarantizado gracias al contrato que ha firmado, decide emplear este \ndinero con el que no contaba en unas tranquilas vacaciones. \nSiempre había querido realizar un crucero y consultando en varias \nagencias de viajes encuentra uno que se adapta a sus deseos para \ndentro de tres meses. En la agencia le ofrecen las siguientes alternativas: \n1. Fijar el precio en 3.000 euros, pagando ahora 300 euros \nen concepto de señal y el resto una semana antes del \nviaje (si finalmente no realiza el crucero, perdería la señal). \n2. Pagar 3.500 euros la semana antes del viaje sin \nnecesidad de desembolsar señal alguna. \nLa señora Gómez no sabe si dentro de tres meses deseará realmente \nrealizar el crucero debido a su estado y tampoco tiene la posibilidad \nde gastar más de 3.000 euros. Por ello, le resulta interesante adquirir \nel derecho, pero no la obligación, a realizar el crucero por 3.000 euros \npagando 300 en el momento actual (aun arriesgándose a perderlos). \nPor su parte, la agencia de viajes ingresa los 300 euros de la señora \nGómez y asume la obligación de ofrecerle el crucero cuando llegue el \nmomento, previo pago del precio fijo de los 2.700 euros restantes. \nLa señora Gómez está realizando una operación a plazo en la que, \na diferencia de los futuros, no se deriva una obligación para el \ncomprador. Habría comprado una opción3, es decir, un derecho que le \notorga diferentes posibilidades:\n\nOpciones y Futuros\nSi llegada la fecha del viaje decide buscar en otras agencias y no \nencuentra nada más barato, por haber pagado 300 euros podrá \nconservar el que tenía. \nSi encontrara un viaje idéntico más económico (2.000 euros), \npodría comprarlo, aun perdiendo los 300 de señal. El coste total \nserían 2.300, pero habría tenido la oportunidad de ejercer la otra \nalternativa y en caso contrario los 300 euros fueron un «seguro de \ncompra». \nSi la agencia de viajes ha subido el precio a 4.000 euros y la señora \nGómez no desea viajar, podría vender por 600 euros su derecho al \nviaje a otra persona que pudiera interesarle, ganando la diferencia. \nLa señora Gómez ganaría 300 euros y la otra persona pagaría 3.300.\nUna opción es un contrato que otorga a su comprador el derecho, \npero no la obligación, a comprar (opción call) o vender (opción \nput) una determinada cuantía del activo subyacente, a un precio \ndeterminado llamado precio de ejercicio o strike, en un período de \ntiempo estipulado o vencimiento. \nEl comprador de una opción tiene el derecho, pero no la \nobligación, de comprar o vender (según el tipo) al vencimiento; \nPor el contrario, el venderdor de la opción está obligado a comprar \n(opcion call) o vender (opción put) si el comprador decide ejercer \nsu derecho.\n3. \nEn los mercados de opciones, a diferencia de este ejemplo, \nla prima no se descuenta del precio final\n2700 + 600 = 3.300 euros\n4000 - 3300 = 700 euros ahorrados respecto \nal precio de mercado.\n\nOpciones y Futuros\nEn opciones, al ser contratos y no valores, no es necesario comprar primero \npara posteriormente vender, sino que es posible vender primero y en su \ncaso luego comprar. Por ello es fundamental distinguir entre la situación del \ncomprador y la del vendedor.\nLlegada la fecha de vencimiento, el comprador decidirá si le interesa o no \nejercer su derecho, en función de la diferencia entre el precio fijado para \nla operación (precio de ejercicio o strike) y el precio que en ese momento \ntenga el subyacente en el mercado de contado (en el caso de acciones, su \ncotización). \nEl precio de la opción es lo que el comprador paga por obtener ese \nderecho y se denomina prima. La prima es realmente el objeto de \nnegociación. El comprador de opciones sólo tiene derechos y ninguna \nobligación, por tanto sus pérdidas están limitadas a la prima pagada —\ncon esta posición ha vendido el riesgo a un tercero—. Por el contrario, el \nvendedor de opciones cobra la prima, pero sólo tiene obligaciones y asume la \nposibilidad de tener que soportar pérdidas ilimitadas. Por tanto, el vendedor \nde la opción siempre se queda con la prima, se ejerza o no la opción e \nindependientemente de las pérdidas finales que le pueda ocasionar el haber \ncomprado el riesgo a otro agente.\n\nOpciones y Futuros\nTipos de Opciones\nSegún el derecho que otorgan:\n¥ Opciones de compra o call \nEl comprador adquiere el derecho, aunque no la obligación, a comprar \nel subyacente a un precio determinado en la fecha de vencimiento \nestablecida, mientras que el vendedor de call asume la obligación de \nvender el subyacente al precio pactado si el comprador decide ejercer \nsu derecho y a cambio recibe la prima. \nCuando un inversor compra una opción call espera que el valor del \nsubyacente suba en los mercados; es decir, tiene expectativas alcistas. \nSi llegada la fecha de vencimiento, su apuesta resulta acertada y el \nprecio del subyacente es superior al precio de ejercicio fijado en el \ncontrato, le interesará ejercer la opción, ya que puede comprar el activo \nsubyacente más barato. Por el contrario, si el precio no sube como \nesperaba y el precio de ejercicio es mayor que el del subyacente, no \nejercerá la opción y perderá la inversión realizada, es decir, la prima.\nEn nuestro ejemplo, la señora Gómez finalmente decide no realizar \nel viaje y opta por invertir el dinero. Para ello consulta con su \nsobrina, quien le indica que invierta en opciones y le explica su \nfuncionamiento. \nLas acciones de la sociedad XYZ cotizan actualmente a 5 euros. \nExisten expectativas alcistas y se espera que dentro de un mes \nsu precio sea de 6 euros. La señora Gómez compra una opción de \ncompra call sobre estas acciones que le da el derecho a comprarlas \na 5,5 euros en la fecha de vencimiento, pagando una prima de 0,5 \neuros. \n¿Cuándo debería la señora Gómez ejercer el derecho que le \notorga esta opción de compra? \nEn todos aquellos casos en los que la cotización de las acciones de \nXYZ en la fecha de vencimiento sea superior. \na)\n\nOpciones y Futuros\nSi en la fecha de vencimiento las acciones de XYZ cotizan a 5 \neuros: no se ejercería el derecho. No tendría sentido pagar las \nacciones a 5,5 euros cuando en el mercado de contado cotizan \na 5. En este caso, se perdería la prima pagada en el momento \nde formalización del contrato, los 0,5 euros por cada una de las \nopciones. \nSi en la fecha de vencimiento XYZ cotiza a 6 euros: se ejercería \nel derecho. De esta forma se compraría a 5,5 euros las acciones \ncuyo precio es superior. ¿Cuál será el resultado de la operación \nen este caso?\nSi en la fecha de vencimiento las acciones de XYZ cotizan a 6,5 \neuros: se ejercería el derecho. \nDe esta forma se comprarían a 5,5 euros acciones cuyo precio es \nsuperior. ¿Cuál será el resultado de la operación en este caso?\nHasta ahora se ha mostrado cómo afecta la operativa con opciones \nal comprador de la opción call. Es conveniente también observar qué \nsucede con su contrapartida, el vendedor de call.\nResultado de la compra-venta: \n0,5 euros de beneficio (6-5,5).\nCoste de la operación: 0,5 euros.\nResultado total: 0.\nResultado de la compra-venta: \n1 euro de beneficio (6,5-5,5). \nCoste de la operación: 0,5 euros.\nResultado total: 0,5 euros.\n\nOpciones y Futuros\nEn un primer momento, puede resultar difícil asumir que se puede \nvender una opción (ya sea de compra o de venta) sin haberla comprado \npreviamente, por lo que siempre hay que recordar que lo que realmente \nse vende es un contrato en el que se asume una obligación.\nEs similar a cuando se compra un seguro de automóvil. La compañía \naseguradora, en este caso, estaría vendiendo al tomador de la póliza el \nderecho a que su coche sea reparado en caso de accidente, al tiempo \nque asume la obligación de pagar la reparación. El vendedor de la opción \nactuaría de un modo similar a la aseguradora, pero en este caso el objeto \ndel contrato no es la reparación del coche sino el activo subyacente, \nrecibiendo del comprador la prima en el momento de formalización del \ncontrato. \nVolviendo al ejemplo anterior, el vendedor de la opción recibiría la \nprima y a cambio de este ingreso, en la fecha de vencimiento, está \nasumiendo la obligación de entregar las acciones de XYZ al precio \nde ejercicio (en todos los casos en que el comprador decida ejercer \nsu derecho).\nA medida que el precio de las acciones de XYZ sea mayor en el momento \ndel vencimiento, menos ventajosa será la operación para el vendedor de \nla opción call, ya que tiene la obligación de entregar al precio de ejercicio \nunas acciones que en ese momento pueden tener un precio muy \nsuperior, debiendo asumir las pérdidas ocasionadas. \nLa venta de un call supone ganancias limitadas y posibilidad de pérdidas \nilimitadas y viceversa en la compra.\nCompra-Venta de call\n\nOpciones y Futuros\n¥ Opción de venta o put\nEn una opción de venta u opción put, el comprador tiene el derecho \naunque no la obligación de vender el subyacente a un precio fijado, en \nla fecha de vencimiento. El vendedor de put asume la obligación de \ncomprar el subyacente al precio pactado si el comprador decide ejercer \nsu derecho, y a cambio recibe la prima que paga el comprador.\nLa compra de una opción put está justificada cuando el inversor tiene \nexpectativas bajistas. Si el precio del subyacente disminuye, le \ninteresará ejercer la opción y vender al precio de ejercicio, que es \nsuperior. En caso contrario, no la ejercerá y perderá la prima. \nSi hay expectativas bajistas sobre XYZ, el inversor puede tomar la \ndecisión de comprar una opción put. Es decir, si en el momento \nactual cotiza a 5 euros, se esperará que en el plazo de un mes su \ncotización podría estar en torno a 4 euros. \nBajo este supuesto, una buena alternativa sería establecer en la fecha \nactual un contrato que garantizase un precio de venta para la fecha de \nvencimiento, por ejemplo 4,5 euros. La compra de la put, al igual que la \ncompra de call, supone en el momento de formalización del contrato el \npago de la prima (consideremos una put de precio de ejercicio 5 con una \nprima de 0,5 euros). Pagando esta prima se obtiene el derecho a decidir \nsi se quieren vender las acciones de XYZ a 5 euros en el momento del \nvencimiento.\n\nOpciones y Futuros\nUna vez pagada la prima, ¿cuándo será conveniente ejercer este \nderecho? En todos aquellos casos en los que la cotización de XYZ en el \nmercado de contado y en la fecha de vencimiento sea inferior a 5 euros. \nEl vendedor de la put, a cambio de ingresar la prima en el momento de \nformalización de la operación, estará obligado a comprar las acciones a \n5 euros en todos los casos en los que el comprador ejerza su opción.\nCotización de XYZ \nen la fecha de \nvencimiento\nEjercicio de \nla opción\nResultado \nde la operación\n3,50 \nSí\n1,00\n4,00\nSí \n4,50 \nSí\n5,00\nIndiferente\n-0,50\n5,50 \nNo\n-0,50\n6,00 \nNo \n-0,50\n7,00 \nNo\n-0,50\n\nOpciones y Futuros\nCompra-Venta de Put\nA continuación se resumen las cuatro posiciones básicas en opciones:\nEl vendedor de opciones asume mucho más riesgo que el comprador, ya \nque sus posibilidades de pérdidas son ilimitadas (si el comprador desea \nejercer su derecho, está obligado a comprar o vender), y el importe de \nlas ganancias es la prima.\nPrima\nAceptación\nExpectativas\nBeneficios\nPérdidas\nCompra \nde Call \nPaga\nDerecho\nAlcista\nIlimitados\nLimitadas \n(la prima)\nVenta \nde Call\nIngresa\nObligación\nBajista\nLimitados\n(la prima)\nIlimitadas \nCompra \nde put\nPaga\nDerecho\nBajista\nIlimitados\nLimitadas\n(la prima) \nVenta \nde put\nIngresa\nObligación\nAlcista\nLimitados\n(la prima)\nIlimitadas\n\nOpciones y Futuros\nEn función del momento en el que pueden ejercerse: \nLa opción europea sólo puede ejercerse en la fecha de vencimiento \nmientras que la opción americana puede ejercerse en cualquier momento \nhasta la fecha de vencimiento. \nEn el caso de MEFF, la opciones cuyo subyacente es el futuro Mini Ibex 35 \nson de tipo europeo, y las opciones cuyo subyacente son acciones pueden \nser de tipo europeo o de tipo americano. \nEl Precio de la Opción: la prima\nLa prima es el precio de la opción que paga el comprador y que ingresa el \nvendedor.\nEl precio de una opción tiene dos componentes: el valor intrínseco y el valor \nextrínseco (generalmente denominado valor temporal).\nb)\nPrima = Valor in trínseco + Valor temporal\n\nOpciones y Futuros\nDe forma intuitiva y utilizando un ejemplo, supongamos que se quiere \nvender un caballo de carreras y se opta por subastarlo. El precio \nde salida de la subasta podría establecerse comprobando el precio \nmedio de los caballos de la misma raza y edad, pero que no posean \ncondiciones necesarias para participar en la alta competición; esto sería \nequivalente al valor intrínseco. Por otra parte, tras la subasta, se obtendrá \nun precio que será superior al precio de salida. La diferencia entre \nambos, reflejará las expectativas de que el caballo pueda ganar alguna \ncarrera a lo largo de su vida, de que no sufra enfermedades y de todos \naquellos factores que puedan influir en su éxito o fracaso. Esta diferencia \nsería asimilable al valor temporal. \n• El valor intrínseco (V.I.)\nEn cada momento, el valor intrínseco de la opción es la diferencia entre el \nprecio del subyacente en el mercado y el precio de ejercicio. \nEl valor intrínseco es, por tanto, cuánto vale la opción si se ejercita el \nderecho en este momento. Veamos otro ejemplo:\nSupongamos que en una papelería se venden bolígrafos a 1 euro y que es \nposible negociar opciones call sobre bolígrafos.\nSi el precio del bolígrafo hoy es de 1 euro, ¿cuánto estaría dispuesto \na pagar por tener derecho a comprar hoy un bolígrafo a 0,9 euros? \nLógicamente lo máximo que estaría dispuesto a pagar serán 0,1 euros. \nPagar más no sería racional, así en el momento en el que el precio de \neste call iguala o supera los 0,1 euros, se podría ir directamente a la \ntienda a comprar el bolígrafo. \nY ¿cuánto estaría dispuesto a pagar por tener derecho a comprar hoy \nun bolígrafo a 1,10 euros? \nSi este derecho sólo es válido hoy, el precio que estaría dispuesto a \npagar será cero euros.\nPues bien, en ambos casos se ha obtenido el valor intrínseco de ambas \nopciones call, la primera con un precio de ejercicio de 0,9 euros y la \nsegunda con uno de 1,10.\n\nOpciones y Futuros\nDe este modo, el valor intrínseco se calcula teniendo en cuenta el precio \nde ejercicio de la opción y el precio del activo subyacente (en este \ncaso, el precio de los bolígrafos). Por tanto, el valor intrínseco es siempre \nconocido y su cálculo es realmente sencillo. Para opciones call será igual \nal precio del activo subyacente menos el precio de ejercicio de la opción \ny si el resultado es negativo se toma el valor cero (no tiene ningún valor). \nPara las opciones put se calcula como el precio de ejercicio menos el \nprecio del activo subyacente y, del mismo modo, si esta diferencia es \nnegativa carece de valor. \n• El valor extrínseco o temporal (V.T.)\nContinuando con el ejemplo, se puede hacer la siguiente pregunta: \n¿cuánto se estaría dispuesto a pagar por tener derecho a comprar \nun bolígrafo a 1,10 euros dentro de un año? Quizá habrá quien esté \ndispuesto a pagar una determinada cantidad positiva porque ¿y si \nresulta que dentro de un año los bolígrafos han subido a 1,25 euros?\nDe este modo, entra en escena el valor temporal, es decir, el posible \naumento de valor intrínseco que una opción puede experimentar por \ntener un período de vigencia. Puede observarse cómo en este caso no \nse trata de datos ciertos ya que no se conoce cuál será el precio de los \nbolígrafos dentro de un año, a lo sumo podrá estimarse. Lo que existe es \nla posibilidad de que el precio pueda variar, tanto al alza como a la baja \n(existe incertidumbre).\nEs importante observar que según el activo del que se trate, el posible \naumento de valor intrínseco será más o menos probable. Esto queda de \nValor intrínseco = Precio del subyacente – precio de ejercicio (call) \nValor intrínseco = Precio de ejercicio – precio del subyacente (put) \n(siempre mayor o igual a cero)\n\nOpciones y Futuros\nmanifiesto, por ejemplo comparando una opción call sobre el bolígrafo \nantes mencionado, y una opción call sobre petróleo. Como el precio del \npetróleo es mucho más volátil que el de los bolígrafos, el valor temporal \ny por tanto la prima de la opción, será mayor en el caso del call sobre \npetróleo.\nLa volatilidad4 del activo subyacente es uno de los parámetros que \nafecta al valor de las opciones, concretamente al valor temporal. Cuanto \nmayor es la volatilidad mayor es el valor de las opciones, tanto call como \nput.\nTambién puede analizarse el efecto del tiempo sobre el valor de las \nopciones. Si fuera posible negociar opciones call sobre bolígrafos a un \nmes o a un año, ¿cuál de las dos tendrá un valor superior? Lógicamente \nla de un año de plazo, ya que a igualdad de volatilidad (estamos hablando \ndel mismo activo subyacente, el bolígrafo), la posibilidad de que el valor \nintrínseco aumente es mayor en un año que en un mes.\n4.\nTasa de variación del precio del subyacente\n\nOpciones y Futuros\nEl tiempo que media hasta el vencimiento es uno de los parámetros \nque afecta al valor de las opciones, concretamente al valor temporal, \nsiendo éste cero en la fecha de ejercicio. Cuanto mayor es el plazo \nrestante hasta el vencimiento, mayor es el valor de las opciones, tanto \ncall como put, ya que la probabilidad de que el precio evolucione en el \nsentido esperado se incrementa.\nEl valor temporal dependerá además del tiempo a vencimiento, de la \nvolatilidad, del tipo de interés a corto plazo y de los dividendos.\nPor otro lado, las opciones emitidas pueden encontrarse en alguna de las \nsiguientes situaciones:\nOpciones «dentro del dinero» —in the money—: son las opciones \nque, si se ejercen en ese momento, proporcionan beneficios \na su poseedor. Es decir, el precio del ejercicio es inferior al del \nsubyacente en una opción call y superior en una put. Tienen valor \nintrínseco positivo. \nOpciones «en el dinero» —at the money—: el precio de ejercicio \ny el del subyacente son prácticamente coincidentes, de manera \nque ejercer las opciones en ese momento no implicaría ningún \nbeneficio. Sólo tienen valor temporal. \nOpciones «fuera del dinero» —out of the money—: son las que \nno se ejercerían, por estar el precio de ejercicio por encima (en \nuna call) o por debajo (en una put) del precio del subyacente. No \ntienen ningún valor intrínseco.\nA lo largo de su vida, una opción puede ir cambiando de una a otra \nsituación, debido a las continuas variaciones de precio del activo \nsubyacente.\n\nOpciones y Futuros\nVariables que influyen en la prima y su efecto\nLa formación del precio depende fundamentalmente de los siguientes \nfactores: el precio del subyacente, el precio de ejercicio, la volatilidad del \nsubyacente, el tipo de interés, los dividendos que en su caso genere el \nsubyacente antes de la fecha de ejercicio, y el tiempo que resta hasta la fecha \nde vencimiento de la opción.\nEl precio del subyacente y el precio de ejercicio. \nAnteriormente se ha mostrado cómo la relación entre ambos \ndetermina el valor intrínseco de la opción. El valor intrínseco varía \ndebido a las fluctuaciones del precio del subyacente en los mercados, \npuesto que el precio de ejercicio es constante durante toda la vida de \nla opción. Así, una opción puede estar in the money un día y out of the \nmoney al día siguiente. \nLa volatilidad del subyacente mide la variabilidad de los precios de \néste (el riesgo de mercado). Los incrementos de volatilidad producen \naumentos de las primas, tanto para opciones call como put.\nEsto se debe a que si el precio de un valor fluctúa mucho, es más difícil \nprever cuál será su cotización cuando llegue la fecha de vencimiento, y \nel abanico de posibles precios que se pueda esperar en ese momento \nserá más amplio que en un subyacente que presente reducidas \nvariaciones de su precio (el caso extremo sería el de una acción cuya \ncotización fuera siempre la misma, ya que tendría volatilidad cero). Por \ntanto, a mayor fluctuación del precio del subyacente, la posibilidad de \nque éste pudiera evolucionar a favor del comprador de la opción es \nmayor y el vendedor exigirá una prima más alta por ella, ya sea call o \nput. Evidentemente la volatilidad de un activo varía en el tiempo y en \nalgunos períodos más que en otros. \nEn el caso de que la volatilidad se reduzca, su efecto se dejaría notar \nen forma de bajada de la prima de las opciones. Podría ocurrir, además, \nque incluso si se ha acertado con la dirección en la que se va a \nmover el subyacente, el hecho de que la volatilidad se haya reducido \nprovoque que el comprador de la opción vea como baja su precio y su\n\nOpciones y Futuros\nposición entre en pérdidas.\nCuando se habla de volatilidad o variabilidad de precios, es importante \nconocer si se refiere al pasado o al presente y futuro (que es lo \nrelevante para valorar opciones): \n¥ Volatilidad histórica: es la que ha habido en el pasado, por lo que \nno necesariamente tiene porqué repetirse en el futuro.\n¥ Volatilidad implícita: es la que refleja las expectativas actuales del \nmercado sobre la volatilidad que tendrá el subyacente.\nEstimar la volatilidad del activo subyacente es la cuestión clave en \nla valoración de opciones ya que es el único factor que no se conoce. \nLos intermediarios pueden ofrecer su propia estimación subjetiva de \neste dato. Para ello suelen analizar la volatilidad histórica (cómo han \nfluctuado los precios en el pasado) y la volatilidad implícita (cómo \nestima el mercado que van a fluctuar los precios en el futuro). Sin \nembargo no es posible predecir con certeza el comportamiento futuro \nde los precios, de hecho, negociar opciones implica apostar por una \ndeterminada volatilidad, que es lo que fundamenta su existencia. \nEn general suele decirse que la volatilidad está alta si la volatilidad \nimplícita es superior a la histórica y que está baja en el caso contrario.\nEl tipo de interés (al mismo plazo que el vencimiento de la opción) es \ntal vez el factor con menos incidencia en la valoración de opciones. \nPuesto que el movimiento de los tipos afecta al coste de financiación, \nuna subida de éstos disminuye el valor actual del precio de ejercicio, \npor lo que la prima de una opción call aumentará mientras que el valor \nde la put se reducirá. Suele utilizarse el tipo de interés libre de riesgo \n(en general, el de las letras del Tesoro).\nLos dividendos de las acciones influyen en el precio de la opción en \nla medida en que el reparto de dividendos disminuye la cotización. \nAl reducirse el valor del subyacente, baja el precio de la opción call \ny aumenta en el caso de la put. Por tanto, el precio de las opciones \nreacciona a las expectativas del mercado sobre el pago de dividendos \ndel subyacente.\n\nOpciones y Futuros\nLa importancia del tiempo restante hasta la fecha de ejercicio ha \npodido comprobarse anteriormente. De hecho, cuanto mayor sea éste, \nmayor valor temporal tendrá la opción ya que hay más posibilidades \nde que el precio del subyacente evolucione en el sentido que espera el \ncomprador. El valor temporal es nulo en la fecha de vencimiento. \nEn consecuencia, el efecto de estos factores ha de analizarse \nconjuntamente. Así, es posible que a pesar de que la evolución del precio del \nsubyacente sea favorable, el valor de la prima se reduzca como consecuencia \nde la evolución desfavorable de alguno o algunos de los restantes factores o \nviceversa. \nResumen del efecto de los distintos factores en el valor de la opción\nExisten distintos métodos de valoración que manejan los efectos de estas \nvariables; el más conocido es el elaborado por Black & Scholes en 1973. \n A mayor... \n Opción call \nOpción put \nPrecio del subyacente \nh\ni\nPrecio de ejercicio \ni\nh\nVolatilidad \nh\nh\nTipo de interés \nh\ni\nDividendos \ni\nh\nTiempo hasta el vencimiento \nh\nh\n\nOpciones y Futuros\nPor supuesto, un inversor no tiene necesariamente que calcular el valor de la \nprima. La prima se negocia en el mercado y los intermediarios en opciones \ntienen herramientas para valorar opciones y calcular sus «precios teóricos». \nSegún estos precios teóricos sean superiores o inferiores a los del mercado, \nse dice que la opción está cara o barata, respectivamente.\nAdemás de saber qué variables influyen en la determinación del precio \n(prima), es interesante conocer cuánto influye en el mismo cada una de \nellas. Las sensibilidades del precio de la opción ante las variaciones de \nestos factores se representan a través de letras griegas. Esta información \nes posible encontrarla en los sitios web de distintos intermediarios \nespecializados, e interpretar las más relevantes, ayudará sin duda al inversor \nen su toma de decisiones:\nDelta: indica cómo variaría la prima ante las variaciones en el \nprecio del subyacente. Matemáticamente es la primera derivada y \nse interpreta como la cuantía del cambio producido en la prima al \nmodificarse en una unidad el precio de contado del subyacente. Si se \nha comprado una opción, delta indicará cuánto puede subir o bajar \nen función de los movimientos de la cotización del subyacente. Es \ndecir, la velocidad de cambio de la prima frente a las fluctuaciones del \nprecio del subyacente. \nGamma: mide la variación de Delta al producirse modificaciones \nen el precio del subyacente. Es la segunda derivada del valor de la \nprima respecto al precio del subyacente y mide por tanto la tasa de \nvariación de Delta, es decir, la aceleración con la que varía la prima \nante una unidad de variación del precio del subyacente. \nVega: indica cuánto varía la prima ante cambios en la volatilidad. \nPuede utilizarse para comprobar cuánto subirá o bajará el precio de la \nopción ante variaciones de ésta. \nTheta: mide la variación de la prima por efecto del paso del tiempo. \nSuponiendo que el resto de los factores permanecieran constantes, el \npaso del tiempo hace que se vaya reduciendo el valor de las primas,\n\nOpciones y Futuros\nlo que resulta negativo para el comprador y positivo para el vendedor \nde opciones. La velocidad con la que la prima pierde valor aumenta a \nmedida que se aproxima la fecha de vencimiento. \nEn la actualidad, es posible negociar opciones sobre las acciones de las \nprincipales sociedades cotizadas. Estos subyacentes se caracterizan por su \nelevada liquidez y capitalización. \nEstos contratos de opciones pueden tener distintos vencimiento, y además, \npueden ser de estilo americano o europeo. \nTambién se pueden contratar opciones sobre IBEX 35 en las que el \nsubyacente es un Futuro Mini IBEX 35 del mismo vencimiento que la opción. \nAl igual que las opciones sobre acciones, las opciones sobre el Ibex pueden \ntener distintos vencimientos y son de tipo europeo. \nEl nominal es de 100 acciones por contrato, por lo que el \nprecio de un contrato de opciones sobre acciones con \nuna Prima de 1,55 euros sería: 100 × 1,55 = 155 euros.\n\nOpciones y Futuros\nVI. Antes de invertir...\n¿Cómo comprar y vender opciones y futuros?\nLos productos derivados, al igual que otros productos financieros negociables, \nse pueden comprar y vender en el mercado secundario sin esperar a su \nvencimiento. En España el único mercado oficial de derivados es MEFF \n(Mercado Regulado de Futuros y Opciones), mercado que está integrado \ndentro del Holding Bolsas y Mercados Españoles (BME).\nPara comprar o vender contratos —abrir posiciones en el mercado— es \nnecesario hacerlo a través de un intermediario financiero miembro del \nmercado. Únicamente las entidades financieras que cumplen determinados \nrequisitos, y con las que MEFF tiene suscrito un contrato, tienen la capacidad \nde canalizar e introducir las órdenes cursadas por sus clientes directamente \nal mercado.\nAntes de elegir el intermediario a través del que va a cursar las órdenes, \ndeben consultarse entre otros aspectos las tarifas y demás servicios que se \nofrecen. Es de vital importancia disponer de información en tiempo real —\nespecialmente si es vendedor de opciones— y contar con herramientas que \nden la posibilidad de realizar las operaciones de forma rápida y sencilla. Una \nvez elegido el intermediario, deberá firmarse el correspondiente contrato.\nComo se ha puesto de manifiesto, la operativa con productos derivados \nlleva asociados derechos y obligaciones por parte de los contratantes con \nsu correspondiente riesgo de contrapartida (riesgo de que alguna de las \npartes no cumpla con su compromiso). Para evitar este riesgo cualquier \noperación que se realiza en el mercado ha de registrarse en una entidad de \ncontrapartida central, entidad que garantiza a compradores y vendedores \nque en todo momento podrán llevar a cabo las operaciones pactadas.\n\nOpciones y Futuros\nLa función de la entidad de contrapartida central1 es asegurar a ambas partes\nque podrán comprar y vender el activo el día de vencimiento. Para cumplir \nestos compromisos se convierte ella misma y de forma simultánea en la parte \nvendedora para quien haya adoptado el compromiso de comprador en el \ncontrato derivado, y en parte compradora ante quien lo haya hecho como \nvendedor (actúa de contrapartida). Jurídicamente se interpone entre los dos \ny, llegado el día de la transacción, se responsabiliza de realizar la transferencia \ndel activo por su precio, entregando a cada uno lo que estaba pactado. Esta \nentrega puede realizarse en dinero si la liquidación se realiza por diferencias o \nbien en activos si se produce por entrega física. \nEn nuestro ejemplo de la compra de la casa por la señora Gómez, si \nla señora Gómez no pudiese llevar a cabo la compra al cabo de los 9 \nmeses, la entidad de contrapartida central tendría que actuar como \ncompradora y tendría que pagar al vendedor de la casa el importe \npactado en el contrato. Por otra parte, si fuese el vendedor quien se \nechara atrás en el momento de la entrega la vivienda, la entidad de \ncontrapartida central tendría que vender a la señora Gómez una casa de \ncaracterísticas idénticas a las pactadas en el contrato. \nGracias a la entidad de contrapartida central las dos partes llevan a cabo sus \noperaciones respectivas, independientemente de si una de ellas cumple o no \ncon lo pactado.\n1. \nLas operaciones negociadas en MEFF se registran en BME Clearing, \nentidad de contrapartida central perteneciente al grupo BME.\n\nOpciones y Futuros\n¿Qué son las garantías? \nAl ser la entidad de contrapartida central quien asume el riesgo de \ncontrapartida de compradores y vendedores, deberá utilizar una serie \nde mecanismos para gestionarlo y no acabar asumiendo las pérdidas \ngeneradas por posibles incumplimientos. Para ello dispone de las siguientes \nherramientas: \nLiquidaciones diarias de pérdidas y ganancias: cada día las posiciones \nabiertas en contratos de futuros se valoran a los precios de cierre, \nabonando las ganancias y cargando las pérdidas que se generen el \nmismo día. En caso de que el cliente no pueda hacer frente a ellas, la \nentidad de contrapartida central deshace las posiciones para que la \nposible pérdida máxima en la que incurra sea la de un día. \nA continuación, y utilizando como ejemplo el contrato de futuro sobre \nIBEX 35 que vence el tercer viernes de cada mes, se muestra cómo se \nrealiza esta liquidación. \nEste contrato puede negociarse hasta el día de vencimiento y cotiza con \nuna fluctuación mínima de 1 punto. El multiplicador se utiliza para saber a \ncuántos euros equivale cada punto y en este caso es 10. Por lo tanto, la \nliquidación de pérdidas y ganancias se calcula de la siguiente forma:\nSi se realiza la compra de 1 Futuro de IBEX 35 a 10.000 y el \nprecio de liquidación a final de sesión es 10.020, se obtiene \nuna diferencia de 20 puntos que aplicándoles el multiplicador \nequivalen a\n200 euros (10.020 – 10.000) × 10 = + 200 euros.\nSi el precio de liquidación al final de la sesión hubiera sido 9.980, \nse produciría una liquidación negativa de \n200 euros (9.980 – 10.000) × 10 = –200 euros.\n\nOpciones y Futuros\nPara realizar estos mismos cálculos con Mini IBEX 35, bono a 10 años y \nfuturos sobre acciones, es imprescindible comprobar con anterioridad las \ncondiciones generales de estos productos ya que en ellas se determina cómo \nse hace la liquidación de pérdidas y ganancias. \nDepósito de garantías: por cada posición abierta que implique \nobligaciones (compra y venta de contratos de futuros y venta \nde opciones), y ante la posibilidad de sufrir fuertes pérdidas por \nmovimientos adversos de los precios durante la sesión de mercado, la \nentidad de contrapartida central exige a los intermediarios depositar \nantes del inicio de la sesión del día siguiente un importe en efectivo \no en otro activo2. Esta cantidad es variable en función de cada tipo \nde contrato y del activo subyacente, devolviéndose cuando hayan \ndesaparecido las obligaciones ante la entidad de contrapartida central. \nEn general, los intermediarios se lo solicitan a los inversores el día \nanterior. \nLas garantías mínimas que deben depositarse están establecidas \npor la entidad de contrapartida central, aunque posteriormente cada \nintermediario puede incrementarlas en un porcentaje determinado. No \ntodos exigen las mismas garantías a sus clientes, por lo que antes de \ncomenzar a operar debe compararse cuánto exige cada uno de ellos. \nEs este un aspecto muy importante a tener en cuenta, ya que cuantas \nmás garantías deban depositarse, mayor parte del patrimonio disponible \npasará a estar inmovilizado. \nA continuación, se resume la secuencia de pasos desde que se cursa \nuna orden a un Miembro de MEFF, hasta que la entidad de contrapartida \ncentral comunica al Miembro, y éste a su cliente, las cantidades que \ndeben ser abonadas o cargadas por las liquidaciones diarias y por los \ndepósitos de garantías. \n2. \nGeneralmente acciones o bonos del Estado\n\nOpciones y Futuros\n¿Qué significa cerrar la posición?\nCerrar la posición es dejar de tener posiciones ante la entidad de \ncontrapartida central, tanto en derechos como en obligaciones. \nPara ello, si se ha abierto una posición como comprador, se deberá tomar una \nposición como vendedor sobre un contrato de las mismas características, o \nviceversa; realizando tantas operaciones como se precise.\n\nOpciones y Futuros\nVII. ¿En qué consiste el\nefecto apalancamiento?\nEl efecto apalancamiento es la relación que existe entre el resultado de la \ninversión y el capital invertido. \nLos inversores en productos derivados deben tener siempre presente \nel importante efecto multiplicativo, tanto de las minusvalías como de \nlas plusvalías, en el caso en que se prevea errónea o correctamente la \ntendencia de las cotizaciones. No debe olvidarse nunca que a mayor efecto \napalancamiento, se está asumiendo un mayor riesgo y por tanto una mayor \nposibilidad de pérdidas si se ha previsto erróneamente la tendencia. \nEn el caso de los futuros, por su evolución de carácter simétrico respecto a la \ngeneración de pérdidas o ganancias, el efecto multiplicativo que se produce \nes el mismo en ambos casos pero en sentido inverso. En consecuencia, \nse debe vigilar constantemente las posiciones dado que si la tendencia \nevoluciona en contra de lo previsto, las pérdidas pueden ser ilimitadas. \nPor otro lado, en la compra de opciones el desembolso es la prima, por lo que \nel riesgo que se asume es la pérdida de la totalidad de la misma. A cambio y \ndebido a este efecto apalancamiento, con pequeñas inversiones se pueden \nobtener altas rentabilidades.\nEfecto apalancamiento = \nResultado inversión \nCapital invertido\n\nOpciones y Futuros\nEs posible observar el efecto apalancamiento comparando los resultados \nde la compra de acciones de una empresa cualquiera, con la compra de \nopciones call cuyo subyacente sean estas mismas acciones: \nSi la señora Gómez, continuando con el estudio sobre sus posibles \ninversiones, decidiera comprar 100 acciones de la compañía XYZ a 11,5 euros \ny, adicionalmente, comprar opciones call sobre dicha compañía con precio de \nejercicio 11,5 euros a 0,89 € por contrato, podría comprobar cómo influye el \nefecto apalancamiento de la compra de opciones: \nSi se mantienen posiciones vendedoras de opciones, se percibe la prima y \nse depositan las garantías asumiendo un riesgo ilimitado. \nDel efecto apalancamiento se deduce la importancia que tiene \npara los inversores que utilizan estos productos con carácter \nespeculativo o de inversión, realizar un seguimiento riguroso y \nexhaustivo de sus posiciones, teniendo siempre presente el grado \nde asunción de riesgo que en cada momento están tomando. \nSi XYZ sube a 13 euros \nResultado por la compra de acciones = (13 – 11,5)/11,5 = 13,04% \nResultado de operar con opciones = (13 – 11,50 – 0,89)/0,89 = 68,54% \nSi XYZ baja a 10 euros \nResultado por la compra de acciones = (10 – 11,5)/11,5 = –13,04% \n(pierde lo que el mercado baje).\nResultado de operar con opciones = –100% al no ejercer la opción \nperdería la totalidad de la prima (–0,89 €).\n\nOpciones y Futuros\nVIII. Futuros y opciones \ncomo cobertura y como \ninversión\nFuturos y opciones como cobertura\nLa cobertura es una estrategia por la que se intenta reducir el riesgo de \nprecio de una determinada cartera, es decir, la posible pérdida producida por \nmovimientos desfavorables de los precios. Para realizar una cobertura debe \ntomarse una posición de sentido contrario a la que se desea cubrir, de manera \nque los resultados de ambas se compensen mutuamente, manteniendo al \nconjunto indiferente a los movimientos de precios de mercado.\nBásicamente se trata de que la posible pérdida que pudiera sufrir una cartera \nde renta variable, se vea compensada con la ganancia obtenida en derivados.\nCobertura con futuros\nPara cubrir una cartera de renta variable con futuros se debe vender \nun número de contratos equivalente a nuestra posición. A través del \nsiguiente ejemplo, es posible comprobar de forma simplificada cómo \npueden utilizarse los futuros para cubrir una cartera: \nSupongamos que la señora Gómez tiene 100 acciones de la \ncompañía XYZ que cotizan a 11,50 euros en el mercado y teme \nuna caída en su precio. Una forma de cubrir este riesgo de precio \nconsiste en vender un contrato de futuro sobre XYZ a un precio \nde 11,57 euros. Las posiciones resultantes a día de vencimiento \nserían las siguientes: \na)\n\nOpciones y Futuros\nCobertura con opciones \nEn general, cubrir una cartera con opciones puede asimilarse a la compra \nde un seguro. Para eliminar el riesgo de que la cartera baje, se paga \nuna prima en opciones que proporcionarán ganancias suficientes para \ncompensar esta pérdida. \nEn el caso de que la señora Gómez decida cubrir su cartera \ncon opciones, tendrá que decidirse por una de las siguientes \nposibilidades: \n1. Cobertura con opciones de venta put\n2. Cobertura con opciones de compra call \nb)\nActivo a \nvencimiento\nResultado \npor posición en \n Contado \nResultado \npor posición en\nFuturo \nRESULTADO \nTOTAL\n11,00\n-50\n+57\n+7\n11,50 \n+7\n+7\n12,00 \n+50\n-43\n+7\n\nOpciones y Futuros\n1. Cobertura con opciones de venta put\nSi se tienen en cartera 100 acciones de la empresa XYZ y se quiere \nconstruir la cobertura con opciones put, comprará una opción put \ncuyo precio de ejercicio sea lo más cercano al precio actual de la \nacción.\nLa posición resultante es una curva con beneficio potencial ilimitado \ny, sin embargo, pérdidas máximas limitadas a la prima pagada. El \nsiguiente gráfico muestra esta estrategia.\nPut protectora\n\nOpciones y Futuros\n2. Cobertura con opciones de compra call\nSupone la venta de un número equivalente de opciones de compra \ncall al número de acciones que se poseen en la cartera. En el \nejemplo, la señora Gómez es propietaria de 100 acciones de XYZ, \ncon lo cual debería vender un contrato (el nominal de un contrato es \n100 acciones) por el que recibirá la prima correspondiente:\nGenera un flujo de dinero inmediato derivado de la venta de las \nopciones (prima que se percibe).\nRetrasa la entrada en pérdidas por bajadas en el precio de la acción, \nya que empezará a perder cuando la caída sea superior al importe \nde la prima cobrada. Esta cobertura, por lo tanto, solamente cubre \npérdidas hasta ese momento.\nProporciona una rentabilidad adicional si las acciones se mantienen \nestables.\nCall cubierta\n\nOpciones y Futuros\nFuturos y opciones como inversión\nEn los capítulos anteriores se ha puesto de manifiesto cómo es posible operar \ncon opciones y futuros independientemente de si el subyacente evoluciona \nal alza o a la baja. Por tanto, de acuerdo con las expectativas existentes \nsobre la evolución del activo subyacente, el inversor podrá utilizar opciones o \ncontratos de futuro para intentar obtener un beneficio de estos movimientos.\nEn líneas generales y sin entrar al detalle en las sofisticadas estrategias que \npueden llevarse a cabo con estos instrumentos, la utilización de opciones y \nfuturos como inversión podría resumirse así:\nSi las expectativas sobre un determinado subyacente son alcistas, \npodrían comprarse o bien contratos de futuro o bien opciones call \nsobre el mismo. \nIgualmente, si se espera que la tendencia del subyacente va a ser \nbajista, la estrategia con futuros sería vender contratos sobre ese \nsubyacente, y con opciones comprar put. \nSi se espera que el subyacente apenas fluctúe, la alternativa a seguir \npodría ser vender opciones e ingresar la prima correspondiente (sin \nolvidar que las posibles pérdidas con \nesta posición son ilimitadas). \nDebe tenerse presente que al ser contratos estandarizados, es preciso buscar \naquel que más se adecue a las necesidades de la operación que se pretende, \neligiendo aquellos en los que tanto los precios de ejercicio como los plazos de \nvencimiento se adapten a la estrategia de inversión planificada. De este modo \nse intentará aprovechar el efecto apalancamiento que estos instrumentos \npermiten para obtener un beneficio, en caso de acertar con la tendencia.\n\nOpciones y Futuros\nIX. Recomendaciones \nfinales\nA lo largo de los capítulos anteriores se han mostrado las características \ngenerales de los productos derivados y su funcionamiento en el mercado. \nAunque intuitivamente pueda comprenderse sin dificultad el funcionamiento, \nes importante tener presente su elevado grado de sofisticación, tanto en \nel cálculo de precios como en la variedad de estrategias que se pueden \nconstruir. Por ello, el inversor que empieza a operar en este mercado, debe \nrealizar un esfuerzo en dominar los conceptos fundamentales y la operativa, \nasí como dedicar tiempo a la formación e información.\nLa inversión en estos productos requiere conocimientos, \npredisposición al riesgo y una vigilancia constante de la \nposición.\nEs muy importante conocer sus características y \nfuncionamiento antes de invertir.\n\nContáctanos por email\nEsta guía tiene como finalidad informar al público en general sobre distintos \naspectos relacionados con los mercados de valores. Por su naturaleza divulgativa \nno puede constituir un soporte para posteriores interpretaciones jurídicas, siendo \nla normativa vigente la única de aplicabilidad para estos fines. \n¿Necesitas más \ninformación?\nwww.cnmv.es",
+  "text_len": 66703,
+  "num_headings": 28,
+  "metadata": {
+    "producer": "iLovePDF",
+    "creation_date": "2026-06-05",
+    "mod_date": "2026-06-05"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": true,
+  "csv_meta": {
+    "title": "Opciones y futuros financieros",
+    "topic": "inversión",
+    "subtopic": "derivados",
+    "difficulty": "avanzado",
+    "format": "PDF",
+    "summary": "Guía CNMV sobre productos derivados: opciones y futuros y su mecánica",
+    "learning_objective": "Comprender qué son los derivados y su riesgo"
+  },
+  "pdf_info": {
+    "n_pages": 55,
+    "body_size": 13.0,
+    "extractor": "pymupdf"
+  },
+  "deduped_from": null
+}

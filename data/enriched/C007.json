@@ -1,0 +1,57 @@
+{
+  "content_id": "C007",
+  "tldr": "Decidir entre comprar o alquilar una vivienda requiere valorar cuánto tiempo se residirá en ella y las implicaciones financieras de la hipoteca. Comprar puede ser una buena inversión a largo plazo, pero exige ahorros para la entrada (a partir del 20% de la tasación) y que las cuotas de deuda no superen el 40% de los ingresos mensuales. Alquilar ofrece flexibilidad y evita gastos de propiedad, aunque no genera patrimonio. Antes de decidir, conviene comparar hipotecas usando la TAE, simular cuotas y conocer ayudas públicas como la VPO, ayudas al alquiler y el alquiler con opción a compra.",
+  "key_points": [
+    "Comprar una vivienda puede ser una buena inversión a largo plazo, pero depende del precio de compra y de las expectativas de revalorización.",
+    "Alquilar aporta flexibilidad (tamaño, lugar, precio) y evita gastos de propiedad como seguros, impuestos, mantenimiento y comunidad.",
+    "Las cuotas mensuales destinadas a pagar deudas no deberían superar el 40% de los ingresos mensuales; las entidades suelen exigir que la hipoteca no supere el 30-35%.",
+    "Las entidades no suelen prestar más del 80% del valor de tasación, por lo que se necesita ahorro para la entrada y los gastos de formalización.",
+    "La TAE es el indicador clave para comparar hipotecas porque incluye intereses, comisiones, gastos y el coste de productos vinculados."
+  ],
+  "quiz": [
+    {
+      "question": "Según el contenido, ¿qué límite de endeudamiento recomiendan los expertos para las cuotas mensuales destinadas a pagar deudas?",
+      "options": [
+        "No superar el 20% de los ingresos mensuales",
+        "No superar el 40% de los ingresos mensuales",
+        "No superar el 60% de los ingresos mensuales",
+        "No superar el 80% de los ingresos mensuales"
+      ],
+      "correct_index": 1,
+      "explanation": "Los expertos coinciden en que la totalidad de las cuotas mensuales destinadas a pagar deudas no debería superar el 40% de los ingresos mensuales, dejando al menos un 60% para gastos y ahorro.",
+      "concept_id": "C16"
+    },
+    {
+      "question": "¿Por qué la TAE es el elemento fundamental a la hora de comparar hipotecas?",
+      "options": [
+        "Porque solo refleja el tipo de interés nominal del préstamo",
+        "Porque incluye intereses, comisiones, gastos y el coste de productos vinculados",
+        "Porque indica el importe máximo que el banco prestará",
+        "Porque determina la entrada mínima que hay que aportar"
+      ],
+      "correct_index": 1,
+      "explanation": "La TAE es fundamental porque, además de los intereses, tiene en cuenta las comisiones y gastos del préstamo, así como el coste de otros productos que la entidad pueda exigir, permitiendo comparar opciones reales.",
+      "concept_id": "C19"
+    },
+    {
+      "question": "En el alquiler con opción a compra, ¿cuál es su principal ventaja para el inquilino?",
+      "options": [
+        "No tener que pagar ninguna entrada ni gastos de formalización",
+        "Que todo o parte del alquiler pagado se deduce del precio pactado si se ejerce la compra",
+        "Que el precio de la vivienda siempre queda fijado por debajo del de mercado",
+        "Que no es necesario obtener una hipoteca para comprar la vivienda"
+      ],
+      "correct_index": 1,
+      "explanation": "La gran ventaja es que todo o parte del dinero desembolsado en concepto de alquiler se deduce del precio pactado al ejercer la opción de compra, ayudando a quienes aún no tienen suficiente ahorro para la entrada.",
+      "concept_id": "C11"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 10755,
+    "input_tokens": 3738,
+    "output_tokens": 1205
+  }
+}

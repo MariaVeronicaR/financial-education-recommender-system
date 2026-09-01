@@ -1,0 +1,66 @@
+{
+  "content_id": "C026",
+  "title": "Tipos de interés",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Tipos de interés"
+    },
+    {
+      "type": "paragraph",
+      "text": "El tipo de interés, o simplemente interés, es lo que pagamos a un banco a cambio de que nos preste dinero, o lo que nos paga el banco por depositar nuestro dinero.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cuestiones generales"
+    },
+    {
+      "type": "paragraph",
+      "text": "Conocer los conceptos y el funcionamiento de los tipos de interés nos resultará útil para saber lo que nos va a costar un préstamo o lo que ganaremos con los depósitos que tengamos en el banco.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "El TIN, la TAE y el TEDR"
+    },
+    {
+      "type": "paragraph",
+      "text": "La diferencia entre el TIN (tipo de interés nominal) y la TAE (tasa anual equivalente), es que el TIN es el precio que la entidad cobra por prestar o que paga por depositar. La TAE incluye además del TIN, los gastos y comisiones asociados a los productos.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tipos de interés aplicados por las entidades"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las entidades de crédito tienen libertad para decidir sus tipos de interés, pero también la obligación de informar a efectos estadísticos al Banco de España, de los tipos de interés que se aplican a diversos tipos de operaciones activas y pasivas.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tipos de interés de referencia y otros tipos frecuentes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Existe una serie de tipos de interés oficiales y otros tipos públicos que sirven de referencia para el cálculo de los intereses en operaciones financieras, principalmente en el mercado hipotecario.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:11:29.116254+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 2983,
+    "input_tokens": 2093,
+    "output_tokens": 901
+  }
+}

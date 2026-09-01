@@ -1,0 +1,34 @@
+{
+  "content_id": "C075",
+  "title": "Mi valor neto",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Mi valor neto"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Resultados"
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Total Activo {{ formatCurrencyNumber(totalSaving) }}",
+        "Total Pasivo {{ formatCurrencyNumber(totalBills) }}",
+        "Valor Neto: {{ formatCurrencyNumber(totalDifference) }}"
+      ]
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:26:27.250998+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 2159,
+    "input_tokens": 1816,
+    "output_tokens": 382
+  }
+}

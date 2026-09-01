@@ -1,0 +1,57 @@
+{
+  "content_id": "C022",
+  "tldr": "Desde 2012 existe en España el Código de Buenas Prácticas (CBP), un mecanismo voluntario al que se adhieren las entidades para aliviar la carga hipotecaria de deudores vulnerables que cumplan ciertos requisitos económicos y cuya vivienda sea la habitual. Las medidas se aplican de forma sucesiva: primero la reestructuración de la deuda y, si no es viable, la rebaja del capital o la dación en pago. Desde 2022 existe además un nuevo CBP para hacer frente a la subida de tipos de interés, con plazos de aplicación hasta 2025 (o 2026 en zonas afectadas por la DANA).",
+  "key_points": [
+    "La adhesión de la entidad al Código de Buenas Prácticas es voluntaria y solo obliga a aplicar sus medidas a partir de esa adhesión.",
+    "Para beneficiarse, el deudor debe cumplir requisitos de capacidad económica y la vivienda hipotecada debe ser la habitual.",
+    "Las medidas se aplican en orden: reestructuración de la deuda, y si no es viable, rebaja del capital o dación en pago.",
+    "El CBP se recoge en el Real Decreto-ley 6/2012 y se ha modificado en 5 ocasiones ampliando sus supuestos y ventajas.",
+    "El nuevo CBP de 2022 para el alivio de la subida de tipos aplicaba hasta finales de noviembre de 2025 (o mayo de 2026 en zonas afectadas por la DANA)."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué condición es necesaria para que una entidad esté obligada a aplicar las medidas del Código de Buenas Prácticas?",
+      "options": [
+        "Que el deudor lo solicite por escrito a cualquier entidad",
+        "Que la entidad se haya adherido voluntariamente al Código",
+        "Que la hipoteca supere un importe mínimo fijado por ley",
+        "Que el banco sea una entidad pública"
+      ],
+      "correct_index": 1,
+      "explanation": "La adhesión al Código de Buenas Prácticas es voluntaria; solo a partir de la adhesión la entidad queda obligada a aplicar sus medidas.",
+      "concept_id": "C11"
+    },
+    {
+      "question": "Según el Código de Buenas Prácticas, ¿cuál es el orden correcto de aplicación de las medidas para el deudor vulnerable?",
+      "options": [
+        "Dación en pago primero y, si no es posible, reestructuración de la deuda",
+        "Rebaja del capital antes que la reestructuración de la deuda",
+        "Reestructuración de la deuda y, si es inviable, rebaja del capital o dación en pago",
+        "Alquiler de la vivienda antes de cualquier otra medida"
+      ],
+      "correct_index": 2,
+      "explanation": "Las medidas son de aplicación sucesiva: primero la reestructuración de la deuda; si es inviable, la rebaja del capital o la dación en pago.",
+      "concept_id": "C03"
+    },
+    {
+      "question": "¿Qué caracteriza al nuevo Código de Buenas Prácticas creado en 2022 para deudores hipotecarios en riesgo de vulnerabilidad?",
+      "options": [
+        "Su adhesión era obligatoria para todas las entidades",
+        "Sustituyó por completo al Código original de 2012",
+        "Buscaba aliviar la subida de los tipos de interés y su aplicación era voluntaria",
+        "Solo se aplicaba a viviendas no habituales"
+      ],
+      "correct_index": 2,
+      "explanation": "El nuevo CBP de 2022 se creó para aliviar la subida de los tipos de interés, con medidas aplicables hasta finales de 2025 (o 2026 en zonas de la DANA) y adhesión voluntaria.",
+      "concept_id": "C10"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 9053,
+    "input_tokens": 1998,
+    "output_tokens": 1005
+  }
+}

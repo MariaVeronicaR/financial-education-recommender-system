@@ -1,0 +1,56 @@
+{
+  "content_id": "C024",
+  "tldr": "EliBÁN cierra su serie sobre hipotecas resolviendo las dudas más habituales a la hora de contratar una. El vídeo explica desde cómo pagar la vivienda hasta qué hacer si tienes problemas para abonar la cuota hipotecaria, convirtiéndose en una guía práctica para elegir tu hipoteca con criterio antes de firmar.",
+  "key_points": [
+    "La serie de eliBÁN funciona como una guía práctica para elegir hipoteca con criterio antes de firmar.",
+    "Se resuelven dudas sobre cómo pagar la vivienda al contratar una hipoteca.",
+    "El contenido también explica qué hacer si surgen problemas para abonar la cuota mensual de la hipoteca.",
+    "Se puede profundizar más a través de los contenidos del Portal del Cliente Bancario."
+  ],
+  "quiz": [
+    {
+      "question": "Según el contenido, ¿cuál es el objetivo principal de esta guía de eliBÁN sobre hipotecas?",
+      "options": [
+        "Ayudarte a elegir tu hipoteca con criterio antes de firmarla",
+        "Comparar los tipos de interés de todos los bancos",
+        "Explicar cómo vender una vivienda con hipoteca",
+        "Calcular la cuota exacta de tu hipoteca"
+      ],
+      "correct_index": 0,
+      "explanation": "El contenido indica que la serie se convierte en una guía práctica para elegir con criterio tu hipoteca antes de firmar.",
+      "concept_id": "C11"
+    },
+    {
+      "question": "¿Qué tipo de dudas resuelve el vídeo de eliBÁN en este capítulo?",
+      "options": [
+        "Solo cómo negociar el tipo de interés con el banco",
+        "Desde cómo pagar la vivienda hasta qué hacer si no puedes abonar la cuota",
+        "Únicamente cómo reclamar comisiones bancarias",
+        "Cómo invertir el dinero ahorrado tras contratar la hipoteca"
+      ],
+      "correct_index": 1,
+      "explanation": "El vídeo aborda dudas que van desde cómo pagar la vivienda hasta qué hacer si tuvieras problemas para abonar la cuota de la hipoteca.",
+      "concept_id": "C11"
+    },
+    {
+      "question": "¿Qué deberías hacer si tuvieras problemas para pagar la cuota de tu hipoteca, según el enfoque de esta guía?",
+      "options": [
+        "Ignorar el pago hasta que el banco contacte contigo",
+        "Vender la vivienda inmediatamente sin consultar",
+        "Buscar información y orientación práctica, como la que ofrece eliBÁN y el Portal del Cliente Bancario",
+        "Contratar otra hipoteca para pagar la primera"
+      ],
+      "correct_index": 2,
+      "explanation": "El contenido recomienda profundizar en los contenidos del Portal del Cliente Bancario para resolver estas dudas de forma práctica y con criterio.",
+      "concept_id": "C28"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 4800,
+    "input_tokens": 1374,
+    "output_tokens": 812
+  }
+}

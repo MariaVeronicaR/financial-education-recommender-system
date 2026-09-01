@@ -1,0 +1,139 @@
+{
+  "content_id": "C112",
+  "title": "Las Finanzas Descentralizadas (DeFi)",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Las Finanzas Descentralizadas (DeFi)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ecosistema DeFi"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Qué son las Finanzas Descentralizadas (DeFi)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las Finanzas Descentralizadas (Decentralised Finance o DeFi) son aplicaciones que se ejecutan en una cadena de bloques (blockchain) y que pretenden replicar la dinámica de la prestación de servicios y productos financieros tradicionales, pero en un entorno abierto, descentralizado y automatizado, eliminando la necesidad de intermediarios financieros tradicionales y contrapartes centralizadas.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Las finanzas descentralizadas se basan en contratos inteligentes (smart contracts) para establecer acuerdos que se ejecutan automáticamente sobre redes no permisionadas. Esto permite la realización de operaciones financieras, por ejemplo, préstamos o inversiones, sin necesidad de la participación de entidades intermediarias.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Origen"
+    },
+    {
+      "type": "paragraph",
+      "text": "El origen de las Finanzas Descentralizadas (DeFI) se encuentra en la aparición de los contratos inteligentes (smart contracts) de Ethereum en el año 2013.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La aparición de estos contratos inteligentes (smart contracts) permite la creación de Aplicaciones descentralizadas (Dapps), también conocidas como protocolos, cuyo funcionamiento es igual que una aplicación tradicional (los usuarios no notan ninguna diferencia en su utilización), pero la gestión interna se lleva a cabo de manera automática a través de estos contratos inteligentes. Esto supone un cambio importante, ya que elimina la necesidad de que exista una autoridad central de confianza encargada de llevar a cabo la gestión de la aplicación.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Características de las Aplicaciones Descentralizadas (Dapps)"
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Una Aplicación Descentralizada (Dapp) debe tener código abierto y funcionar de manera autónoma.",
+        "Toda la información debe mantenerse en una cadena de bloques (blockchain) pública no permisionada.",
+        "Las Aplicaciones Descentralizadas (Dapps) pueden tener asociado un criptoactivo para acceder a los servicios y/o recompensar a los participantes."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En el bloque 4 se detallan las diferencias entre las dApps y aplicaciones centralizadas tradicionales y se clasifican los distintos tipos de dApps que existen.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Las Finanzas Descentralizadas (DeFi)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En el mundo financiero tradicional, las personas acuden a las instituciones financieras para depositar su dinero, pedir un préstamo, realizar inversiones, abrir una cuenta de ahorro, realizar transferencias… Estas instituciones financieras implementan importantes medidas de seguridad y cuentan con estrictos procedimientos y políticas para evitar casos de fraude y proteger el dinero que sus clientes tienen depositado en sus cuentas. No obstante, los clientes dependen de la entidad financiera para la realización de actividades de depósito, inversión o para realizar transferencias.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sin embargo, en el caso de las Finanzas Descentralizadas (DeFi) en lugar de realizar estas actividades financieras a través de un intermediario financiero, las actividades financieras se realizan de manera directa entre contrapartes.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Lo fundamental aquí es que se trata de un proceso P2P, ya que los intermediarios financieros son reemplazados por contratos inteligentes (smart contracts) que funcionan y se ejecutan de manera autónoma de acuerdo con las premisas que se hayan establecido previamente.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Características de DeFi"
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Desintermediación: las Finanzas Descentralizadas (DeFi) utilizan contratos inteligentes (smart contracts) para la ejecución automática de órdenes en la cadena de bloques (blockchain), por tanto, no se requiere la presencia de una entidad que actúe como intermediaria financiera.",
+        "Automatización: se utilizan contratos inteligentes (smart contracts) para automatizar las transacciones, lo que permite la creación de sistemas programables."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sin embargo, también es importante tener en cuenta que DeFi todavía se encuentra en sus primeras etapas y existen muchos riesgos y desafíos que deben abordarse.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Usos de DeFi"
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Plataforma de préstamo: Un usuario puede pedir un préstamo, y para ello bloquea una determinada cantidad de criptoactivos en un contrato inteligente (smart contract) en un protocolo de finanzas descentralizadas (DeFi). Estos criptoactivos funcionan como garantía (colateral) para la solicitud del préstamo, que serán otros criptoactivos, y permanecerán bloqueados hasta que el préstamo sea devuelto.",
+        "Exchanges Descentralizados (DEX): Funcionan a través de pools de liquidez (Liquidity Pools), cuya función es garantizar que existen suficientes criptoactivos en la plataforma de intercambio (exchange) como para que los diferentes usuarios puedan intercambiar unos criptoactivos por otros sin necesidad de que exista en el mercado una contraparte interesada en realizar exactamente la misma transacción. Podrían encontrarse similitudes entre estas operativas y las realizadas de forma tradicional por los market makers (creadores de mercado) en el mercado financiero tradicional, que son las entidades que aportan liquidez al sistema para garantizar que las transacciones se pueden realizar en el tiempo, la forma, y por la cantidad deseada por parte de cada parte. En el caso de las plataformas descentralizadas (DEX), en lugar de existir una entidad que garantiza esa liquidez del sistema, existen estos pools de liquidez (liquidity pools), que mantienen una cierta cantidad de criptoactivos para que se puedan realizar las transacciones deseadas.",
+        "Los usuarios que ofrezcan sus criptoactivos para que formen parte de estos pools de liquidez (liquidity pools), reciben una compensación.",
+        "Monedas estables (Stablecoins): En las finanzas descentralizadas es útil contar con una unidad de cuenta que mantenga un valor estable, no como la mayoría de criptoactivos, cuya volatilidad es muy grande. Como se plantea en el bloque dos, las monedas estables (stablecoins) buscan precisamente mantener su valor a la par con una moneda de curso legal y así cumplir con las tres funciones del dinero, como son: poder utilizarse como medio de pago en aquellos lugares en los que se acepte como tal, como depósito de valor y como unidad de cuenta.",
+        "Inicialmente, las monedas estables (stablecoins) surgieron como alternativa para poder cambiar posiciones entre diferentes criptoactivos sin tener que cambiar dichos criptoactivos por moneda de curso legal y luego volver a comprar criptoactivos, con las implicaciones que ello tiene en cuanto a comisiones y tiempos de intercambio."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Riesgos del DeFi"
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Descentralización incompleta: aunque las Finanzas Descentralizadas (DeFi) se presentan como completamente descentralizadas, puede haber áreas donde la centralización todavía existe. Algunos protocolos incorporan funcionalidades que permiten suspender el funcionamiento de la plataforma en caso de necesidad.",
+        "Riesgos de seguridad: algunos proyectos de Finanzas Descentralizadas (DeFi) han experimentado graves problemas de seguridad, lo que muestra la necesidad de actuar con especial cautela y responsabilidad cuando se utilice alguna de estas aplicaciones.",
+        "Dependencia de terceros (“Oráculos”): El funcionamiento de algunos proyectos de DeFI requiere que un tercero aporte o verifique alguna condición o dato (por ejemplo, un determinado tipo de interés en un momento dado) para que el Smart contract se ejecute en un sentido o en otro. Estos terceros, denominados oráculos, pueden ser objeto de ataques o problemas de seguridad que comprometan la integridad o fiabilidad de esos datos."
+      ]
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:42:16.997975+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 9118,
+    "input_tokens": 3443,
+    "output_tokens": 2940
+  }
+}

@@ -1,0 +1,534 @@
+{
+  "content_id": "C105",
+  "title": "¿Qué significa invertir en bolsa?",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "I. ¿Qué es la bolsa?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La bolsa es un mercado o punto de encuentro entre vendedores y compradores de acciones y de otros activos financieros. Cumple una función esencial en la economía de un país, al canalizar fondos desde los inversores que buscan rentabilizar sus ahorros, hacia las empresas que necesitan financiación para llevar a cabo sus proyectos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Las empresas necesitan fondos para su lanzamiento y expansión. Una opción de financiación para sociedades anónimas es la emisión de acciones, que son títulos que representan una parte alícuota del capital social de la sociedad. Las empresas pueden vender sus acciones a inversores, quienes se convierten en accionistas, es decir, propietarios de un porcentaje del negocio, en la parte proporcional de sus acciones.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La bolsa refleja las expectativas empresariales y, por lo tanto, la situación económica general de un país y del mundo entero.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En las bolsas de valores, las acciones (renta variable) son la gran protagonista, aunque también se negocian otros activos financieros como títulos de renta fija (bonos y obligaciones), tanto pública como privada, así como warrants, fondos cotizados (ETF) y valores convertibles o que otorguen derecho de suscripción. Consulta las guías dedicadas a estos valores para más información.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. Mercado primario y mercado secundario"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando las empresas ofrecen al público la suscripción de sus acciones a través de una Oferta Pública de Suscripción de Acciones (OPS), se habla de mercado primario o de emisión. Es el proceso mediante el cual los títulos nacen o se venden al público por primera vez y las empresas reciben el dinero de los inversores.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Posteriormente, los accionistas pueden recuperar su dinero vendiendo sus acciones a otros inversores. También pueden comprar acciones de otras empresas a inversores que desean venderlas. En este mercado secundario, las empresas emisoras no reciben fondos, sino que la negociación (compra y venta) se realiza entre inversores. La inmensa mayoría de operaciones se ejecutan en el mercado secundario.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Las bolsas de valores son mercados organizados, sujetos a regulación oficial. En España, coexisten cuatro bolsas de valores tradicionales (Madrid, Barcelona, Bilbao y Valencia, integradas en el holding BME) y un sistema continuo de contratación para todas ellas, la plataforma informática SIBE (Sistema de Interconexión Bursátil Español). En España se calcula el índice IBEX tomando como referencia los 35 valores con más negociación bursátil de estas cuatro bolsas.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La Comisión Nacional del Mercado de Valores (CNMV) es el organismo encargado de la supervisión e inspección de los mercados de valores españoles y de la actividad de cuantos intervienen en los mismos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Para más información, consulta nuestra Guía rápida: Las Ofertas Públicas de Acciones (OPV/OPS).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "III. ¿Qué es una sociedad cotizada?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una sociedad cotizada, es decir una empresa que cotiza en bolsa, es aquella cuyas acciones están admitidas a negociación en un mercado secundario regulado como el de la Bolsa de Madrid, la Bolsa de Nueva York, la Bolsa de Tokio, etc. También hay empresas que cotizan en dos o más mercados bursátiles. Cada bolsa de valores tiene requisitos de acceso distintos, pero en general, se exige un capital social mínimo, la existencia de un consejo de administración y transparencia en la información financiera y no financiera que se pone a disposición del público.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La inversión en acciones de una sociedad cotizada ofrece importantes ventajas frente a la inversión en acciones no cotizadas:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Liquidez: Puesto que se negocian en un mercado regulado, para comprar o vender acciones basta con transmitir a un intermediario autorizado la orden correspondiente. Aunque esta operativa conlleva ciertos gastos, se cruzan muchos miles de órdenes en tiempo real, por lo que está prácticamente garantizado encontrar una contraparte para la operación, es decir, otro inversor que quiere vender o comprar. En cambio, si la compañía no cotiza es el propio inversor quien debe buscar una contraparte, lo que complica y puede encarecer notablemente la operación, y es posible que no pueda desprenderse fácilmente de sus acciones cuando necesite el dinero.",
+        "Valoración de la compañía: El mercado asigna de forma continua un valor a las sociedades cotizadas, que se recoge en el precio de las acciones (cotización). Es un precio objetivo determinado por la oferta y la demanda. Por el contrario, la valoración de una compañía no cotizada no está determinada por el mercado, por lo que es más difícil para el inversor estimar el precio de la acción.",
+        "Transparencia: Para que el mercado pueda asignar precios objetivos de forma eficiente, la información es clave. Las sociedades cotizadas están obligadas a difundir al mercado toda la información que pueda afectar al precio de la acción, a través de su página web y de las comunicaciones que deben remitir a la CNMV. La CNMV vigila de forma permanente el cumplimiento de estas obligaciones y pone a disposición del público en su Registro, la información necesaria y suficiente, tanto sobre la sociedad, como sobre sus acciones."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "IV. Las acciones"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una acción es un valor que representa una parte proporcional del capital de una sociedad anónima. Los tenedores de acciones son, por tanto, socios propietarios de la sociedad en proporción a las acciones adquiridas y tienen derecho a participar en las juntas generales de accionistas en la que se toman las decisiones más relevantes para la empresa. Son el producto de inversión de renta variable más conocido y representativo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Como propietarios de parte de la sociedad, los accionistas adquieren ciertos derechos económicos (derecho al dividendo, derecho de suscripción preferente, derecho a la cuota de liquidación) y derechos políticos (derecho de información, derecho de asistencia y voto en las junta generales de accionistas, derecho a impugnar acuerdos, etc.)",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "V. Rendimiento y riesgo de las acciones"
+    },
+    {
+      "type": "paragraph",
+      "text": "El rendimiento de las acciones puede provenir de dos vías:",
+      "links": []
+    },
+    {
+      "type": "ordered_list",
+      "items": [
+        "Reparto de dividendos entre los accionistas o entrega de acciones gratuitas.",
+        "Plusvalías o minusvalías generadas por la evolución de la cotización en el mercado. Estas plusvalías o minusvalías solo se hacen efectivas en el momento en que se vende la acción."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "La volatilidad es la variabilidad de la rentabilidad de un valor (es decir, cuánto sube y baja) respecto a su media en un periodo de tiempo determinado. Es una forma de medir el riesgo de precio.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El principal riesgo de la renta variable es la incertidumbre sobre sus rendimientos. El valor de las acciones puede subir o bajar con respecto a su valor de adquisición, por lo que es posible no conseguir la rentabilidad esperada e incluso perder la totalidad de la inversión.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El precio de las acciones se establece en función de la oferta y demanda en ese momento, que dependen de la valoración que los inversores hacen sobre la empresa. Los principales factores de los que depende esta valoración son las expectativas sobre el beneficio futuro de la sociedad y su tasa de crecimiento. También influyen otros factores más generales, como las expectativas sobre la evolución económica del sector o del país, los tipos de interés y la confianza de los inversores.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Para más información, consulta nuestra Guía: El accionista de una compañía cotizada.",
+      "links": []
+    },
+    {
+      "type": "warning",
+      "text": "Las acciones no tienen una rentabilidad conocida, ni tan siquiera predecible.",
+      "level": "important"
+    },
+    {
+      "type": "warning",
+      "text": "El comportamiento de una acción en el pasado no garantiza su evolución futura.",
+      "level": "important"
+    },
+    {
+      "type": "warning",
+      "text": "La evolución de la acción no depende solo de la propia compañía, sino de factores ajenos, como la situación de la economía, la evolución de otros mercados, los tipos de interés, la inflación, etc. Por eso puede ocurrir que algunas compañías con buenos resultados en sus negocios no vean aumentar su valor en bolsa.",
+      "level": "important"
+    },
+    {
+      "type": "warning",
+      "text": "Las acciones no tienen plazo de vencimiento, por lo que la inversión solo puede deshacerse mediante la venta de las acciones.",
+      "level": "important"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Los 3 pasos para invertir en bolsa"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Antes de invertir"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1.1 ¿Conviene invertir en bolsa?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es importante comprender que la inversión es solo una de las estrategias para lograr tus objetivos financieros. La planificación financiera engloba otras medidas importantes como el control de gastos y el ahorro, la gestión del endeudamiento, la constitución de un fondo de emergencias y la cobertura adecuada con productos de seguros. Es aconsejable tener todas estas cuestiones bajo control, antes de plantearte invertir en bolsa.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por ejemplo, si tienes deudas pendientes por las que pagas un interés muy alto, como de tarjetas de crédito u otros préstamos de consumo, seguramente será más aconsejable destinar tus ahorros a bajarlas o eliminarlas, antes de pensar en invertir.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El fondo de emergencias es una pieza clave en la planificación financiera personal. Se trata de unos ahorros apartados como colchón de seguridad para poder afrontar gastos imprevistos importantes y protegerte en caso de sufrir una pérdida de ingresos por cualquier motivo. No debes invertir este dinero en bolsa, ya que no se sabe cuándo podrías necesitarlo. Podría ser necesario vender las acciones cuando su valor está bajo, dando lugar a una pérdida. Por la misma razón, tampoco conviene invertir en renta variable el dinero que vayas a necesitar a corto plazo.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1.2 Conoce tu perfil de inversión"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las inversiones no son de talla única. Una inversión específica o una cartera de inversiones puede ser lo más recomendable para una persona y estar desaconsejada para otra. Depende de una serie de factores tales como el objetivo financiero, el importe a invertir, el tiempo disponible, la capacidad financiera del inversor y su tolerancia al riesgo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El punto de partida para tomar decisiones de inversión es conocer tu perfil de inversor, que viene a ser el conjunto de características y condiciones personales que te ayudarán elegir los productos financieros que mejor encajen con tus necesidades y preferencias. Para conocer tu perfil como inversor, es necesario conocer las respuestas a las siguientes preguntas:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "¿Cuál es tu situación financiera actual? Es decir, tus ingresos, gastos, deudas, etc.",
+        "¿Cuáles son tus objetivos financieros concretos? ¿Qué quieres haber logrado dentro de 3, 5, 10 o 20 años y cuánto dinero necesitarás para hacerlo? Un objetivo concreto incluye el importe, la finalidad y el plazo para lograrse.",
+        "¿De cuánto tiempo dispones para alcanzar tus objetivos? ¿Podrías necesitar el dinero antes? El plazo de tiempo que puedes tener tu dinero invertido, sin poder utilizarlo para otros fines, se llama tu horizonte temporal. En general, un horizonte temporal muy largo permite asumir más riesgo, en busca de rentabilidades superiores. No inviertas dinero que puedas necesitar a corto plazo.",
+        "¿Qué nivel de riesgo estás dispuesto a asumir? Esta cuestión es de lo más importante. Tu nivel de tolerancia al riesgo tiene dos componentes:",
+        "Un componente objetivo que es tu capacidad financiera para asumir pérdidas. Dependerá del nivel y fuentes de tus ingresos, tus gastos, deudas y tu patrimonio.",
+        "Otro componente subjetivo que tiene que ver con tu forma de ser y tu disposición psicológica a asumir pérdidas."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Para más información, consulta nuestra Guía Rápida: Conozca su perfil como inversor.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "No todo el mundo se siente cómodo con la posibilidad de perder parte de sus ahorros, aunque tengan capacidad financiera para soportar las pérdidas. Los inversores con mucha aversión al riesgo pueden sentir pánico durante los reveses momentáneos del mercado y vender cuando no sea el momento adecuado.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los mercados suben y bajan constantemente. Asumir un nivel de riesgo de acuerdo con tu perfil te ayudará a mantener el rumbo y lograr tus objetivos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Necesitas asesoramiento? Los productos de inversión y la operativa de los mercados son cada vez más complejos y requieren atención y seguimiento. Dependiendo de tus conocimientos, experiencia y tiempo disponible, podría ser conveniente buscar la orientación de profesionales.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando acudes a un intermediario financiero te hará preguntas para determinar tu perfil, pero te será más fácil contestar si has hecho previamente tu propia autoevaluación. También te servirá para comprender mejor las propuestas del intermediario. Ten en cuenta que tu perfil de inversor puede variar con el tiempo y conviene volver a evaluarlo cuando hay cambios en tus circunstancias personales (ingresos, edad, estado civil, otros compromisos financieros, etc.).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "En el momento de invertir"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una vez que tengas claro tu perfil de inversor, comprendas bien los riesgos y características de la renta variable y decidas que quieres empezar a invertir, los siguientes pasos a seguir serán:",
+      "links": []
+    },
+    {
+      "type": "ordered_list",
+      "items": [
+        "Elegir un intermediario.",
+        "Abrir una cuenta de valores con un intermediario.",
+        "Transmitir las órdenes de compra y venta al intermediario."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2.1 Elegir un intermediario"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2.1.1 Entidades que pueden actuar de intermediarios financieros"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los inversores no pueden acudir directamente al mercado. Para operar en bolsa es necesario tramitar las órdenes a través de un intermediario financiero autorizado.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Lo habitual es contratar los servicios de inversión a través de entidades de crédito (banco, caja de ahorros o cooperativa de crédito), pero también se puede operar a través de una «empresa de servicios de inversión» (ESI), entre las que se encuentran las sociedades y agencias de valores.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A la hora de elegir un intermediario financiero, lo más importante es asegurarse de que está registrado en la CNMV y autorizado para prestar servicios de inversión.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Lo más fácil es consultar esta información en los Registros Oficiales de la CNMV. Se trata de un buscador online que permite encontrar una entidad por su nombre o por tipo de empresa de servicios de inversión. Proporciona información detallada sobre cada entidad registrada, como proposus administradores, socios, cuentas anuales, agentes, y su programa de actividades, es decir, los servicios y actividades de inversión y los servicios auxiliares que están autorizadas a prestar.",
+      "links": []
+    },
+    {
+      "type": "warning",
+      "text": "Nunca entregues dinero a un intermediario sin haber comprobado que está debidamente autorizado y registrado en la CNMV.",
+      "level": "important"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2.1.2 Servicios de inversión"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los principales servicios que ofrecen las empresas de servicios de inversión son:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Recepción y transmisión de órdenes de clientes (intermediación).",
+        "Gestión discrecional de carteras.",
+        "Asesoramiento en materia de inversión."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En esta guía, nos vamos a limitar a describir el servicio de recepción y transmisión de órdenes de clientes (también llamado servicio de intermediación o de compraventa). Todos los inversores requieren este servicio para realizar la compra de acciones.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El intermediario que presta este servicio recibe y transmite las órdenes de compra y venta, siguiendo las instrucciones de sus clientes. No emite recomendaciones personalizadas. Los intermediarios que prestan este servicio por cuenta de sus clientes también se llaman «brokers», por su nombre en inglés.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Para utilizar este servicio, el inversor debe dar instrucciones claras y precisas sobre el valor que quiere vender o comprar y especificar otras condiciones relacionadas con el precio objetivo, volumen y plazo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La complejidad de los mercados y de las características de los productos financieros hace que muchos inversores prefieran acudir a intermediarios que les ofrecen un servicio de gestión discrecional de carteras o asesoramiento en materia de inversión. Estos servicios pueden prestarlos las entidades de crédito y las empresas de servicios de inversión autorizadas para ello.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2.1.3 Tarifas y comisiones"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los intermediarios financieros cobran comisiones por los distintos servicios que prestan. Por ejemplo, cada vez que compras acciones tendrás que pagar comisiones por la operación realizada, además de los gastos asociados al mantenimiento de los títulos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Cada entidad es libre de fijar las tarifas que desee por cada servicio, así que, antes de elegir un intermediario, es importante conocer todas las tarifas y comisiones que te va a aplicar y compararlas con las de otras entidades.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Se pueden distinguir dos tipos de gastos:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Gastos propios: comisiones que cobran los intermediarios por tramitar la orden (por intermediación y/o custodia y administración).",
+        "Gastos de terceros que puedan intervenir en la operación: fundamentalmente, comisiones de contratación y liquidación."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Todos estos gastos reducen la rentabilidad final de tu inversión, de ahí la importancia de conocerlos de antemano. Si no piensas realizar muchas operaciones, tendrá más importancia que los gastos de administración y custodia sean bajos. Si, por el contrario, piensas comprar y vender con frecuencia, debes fijarte especialmente en las comisiones de intermediación.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Las comisiones por la prestación de servicios de inversión, en general, suelen establecerse como un porcentaje que se aplica sobre el efectivo de la operación. Además, suelen tener importes mínimos.",
+      "links": []
+    },
+    {
+      "type": "warning",
+      "text": "Antes de abrir una cuenta de valores, pide a la entidad que te entregue por escrito las tarifas que realmente te va a aplicar.",
+      "level": "important"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2.1.4 Obligaciones del intermediario"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Directiva sobre Mercados de Instrumentos Financieros, conocida como MiFID II por sus siglas en inglés, es la normativa europea cuyo objetivo principal es reforzar la protección a los inversores minoristas. En particular, regula la relación entre inversores e intermediarios financieros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La MiFID II establece normas de conducta que las entidades intermediarias tienen que cumplir durante todo el proceso de prestación de servicios de inversión.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Entre estas obligaciones, deben proporcionar cierta información antes y después de la operación y durante todo el tiempo que dure la relación con el cliente.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "2.1.4.1 Antes de operar:"
+    },
+    {
+      "type": "paragraph",
+      "text": "El intermediario ha de facilitarte información para ayudarte a tomar decisiones de inversión. Toda la información debe ser «imparcial, clara y no engañosa», tanto en lo que se refiere a su contenido como a su forma de presentación. Debe facilitarte la información con suficiente antelación para que puedas leerla y tomar una decisión meditada, sin precipitación ni bajo presión. Incluye:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Información sobre la empresa y sus servicios: Debe facilitarte los datos que te permitan comprobar que está inscrita en la CNMV y autorizada para prestar el servicio que te ofrece.",
+        "Información sobre la naturaleza y riesgos de las acciones.",
+        "Información sobre los costes y gastos: Antes de contratar las acciones, debes recibir información sobre los costes totales que vas a tener que asumir. Podrás solicitar el detalle de todos ellos.",
+        "Términos de los contratos: Si eres un nuevo cliente, deberás firmar con la entidad un contrato que regule los derechos y obligaciones de ambos en la prestación del servicio de inversión."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Para más información consulta nuestra Guía: Sus derechos como inversor. La protección de MiFID.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Tu intermediario debe ejecutar tus órdenes de forma pronta y secuencial, es decir, lo antes posible y en el orden en el que las haya recibido. Tiene la obligación de tomar todas las medidas suficientes para conseguir el mejor resultado posible para ti, lo que se denomina «mejor ejecución».",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A tal fin, el intermediario debe identificar los centros de negociación más adecuados (bolsas de valores, otros sistemas organizados o entidades especializadas), teniendo en cuenta una serie de factores como el precio, los costes, la rapidez y la probabilidad de ejecución y liquidación, el volumen, la naturaleza de la operación y cualquier otro elemento relevante.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El intermediario tiene la obligación de facilitarte información sobre la política de ejecución con suficiente antelación con respecto a la prestación del servicio.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Debes estar alerta, porque puede ocurrir que el intermediario financiero te proponga invertir en fracciones de acciones o «acciones fraccionadas».",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La acción es una parte alícuota del capital social, la parte mínima en que éste puede ser dividido; la parte mínima capaz de otorgar al titular la condición de socio y, por tanto, los derechos y obligaciones que dicha condición implica. Este hecho implica que las «acciones fraccionadas» no pueden ser compradas a nombre del cliente y consisten en un tipo de contrato bilateral entre el intermediario y el cliente, con las características específicas de un CFD o instrumento similar, y apalancamiento cero.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El intermediario te debe informar de la naturaleza real de este instrumento. Las acciones y los CFD son bastante diferentes en varios aspectos, de los cuales el más relevante es el riesgo que incorporan, debido al diferente nivel de protección en caso de la declaración de insolvencia del intermediario. Las acciones de los clientes en custodia no sufrirían ninguna pérdida derivada de esa insolvencia, y podrían transferirse a otro custodio sin problema. Sin embargo, los titulares de CFD estarían sujetos a eventuales pérdidas parciales o totales en caso de insolvencia del intermediario, independientemente de la evolución del precio de la acción subyacente.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Otra diferencia relevante es la posibilidad de transferir acciones en cualquier momento a otro intermediario, algo que no es posible en el caso de los CFD.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La información que debe aportar el intermediario debe ser clara y no engañosa, de manera que, como inversor, sepas los riesgos que estás asumiendo si adquieres «acciones fraccionadas».",
+      "links": []
+    },
+    {
+      "type": "warning",
+      "text": "Estas «acciones fraccionadas» no serían, por tanto, acciones. Se trataría de un instrumento derivado con unas características y riesgos diferentes a los de las acciones. El inversor estaría asumiendo un riesgo de mercado y, a la vez, un riesgo de contraparte con el intermediario.",
+      "level": "important"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "2.1.4.2 Después de operar:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los intermediarios tienen la obligación de proporcionarte la información mínima necesaria para que puedas seguir la evolución de tus inversiones. Esta información es muy importante y debes asegurarte de leerla y entenderla. Solo así sabrás si conviene seguir con la inversión o tomar otras decisiones.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Una vez ejecutada una orden de compraventa, deberás recibir una confirmación, antes del día siguiente al que se produjo la ejecución, como regla general, con información sobre las condiciones en las que se ha llevado a cabo (con carácter general, importe, fecha y hora de ejecución, tipo de orden, identificación del centro de ejecución y del instrumento financiero, y suma total de las comisiones y gastos repercutidos, incluyendo, si lo solicitas, un desglose de tales gastos y comisiones).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "2.1.4.3 En todo momento:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante toda la relación que mantienes con tu intermediario, la entidad evitará perjudicarte por conflictos de interés y te deberá informar sobre la entidad depositaria que custodiará tus inversiones y sobre los fondos de garantía al que está adherida y de sus coberturas en caso de insolvencia. Asimismo, deberá atender tus reclamaciones.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El FOGAIN es el Fondo de Garantía de Inversiones. Asegura a los clientes de una entidad adherida (ESI, con la excepción de las empresas de asesoramiento financiero) la recuperación del efectivo y los instrumentos financieros entregados a la entidad y que ésta posea, administre o gestione por cuenta del inversor, con un máximo de 100 000 euros por inversor, cuando la entidad no pueda restituírselos debido a determinadas situaciones de insolvencia.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Para las entidades de crédito existe el fondo de garantía de depósitos (FOGADE) que ofrece garantías equivalentes a los clientes de dichas entidades.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Para más información, consulta nuestra Guía: Fondo de garantía de inversiones (FOGAIN).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2.2 Abrir una cuenta de valores"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando hayas elegido un intermediario, tendrás que firmar el correspondiente contrato de custodia y administración y abrir una cuenta de valores.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Una cuenta de valores es el instrumento básico para la compra y venta de las acciones. Al abrir esta cuenta, se establece un acuerdo entre el titular y el intermediario financiero, que queda autorizado para custodiar y administrar los valores del cliente, que se depositarán en esta cuenta de valores.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La cuenta de valores deberá estar asociada a una cuenta corriente, de la que saldrá el dinero necesario para la compra de títulos y otras operaciones financieras, el pago de comisiones y gastos, etc. y en la que se ingresarán los rendimientos de posibles ventas o el cobro de dividendos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La entidad depositaria que realiza la custodia y administración de valores está obligada a mantener al día las posiciones del cliente, facilitarle el ejercicio de los derechos que se deriven de la tenencia de la cartera e informarle de las operaciones que requieran de sus instrucciones.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:39:11.775209+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 64468,
+    "input_tokens": 9720,
+    "output_tokens": 16000
+  }
+}

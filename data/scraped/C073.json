@@ -1,0 +1,54 @@
+{
+  "content_id": "C073",
+  "url": "https://www.finanzasparatodos.es/herramientas/mis-ahorros",
+  "source": "Finanzas para Todos",
+  "host": "www.finanzasparatodos.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 52268
+  },
+  "title": "Mis ahorros - Finanzas para todos",
+  "headings": [],
+  "sections": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "* Tasa impositiva a la que están sujetos los rendimientos obtenidos por el capital. Al hacer la declaración de la renta en la base imponible del ahorro los primeros 6.000 euros recibidos en tributan al 19%, los siguientes 44.000 al 21%. Los próximos 150.000 lo hacen al 23% y lo que exceda de 200.000 euros al 26%."
+    }
+  ],
+  "text": "* Tasa impositiva a la que están sujetos los rendimientos obtenidos por el capital. Al hacer la declaración de la renta en la base imponible del ahorro los primeros 6.000 euros recibidos en tributan al 19%, los siguientes 44.000 al 21%. Los próximos 150.000 lo hacen al 23% y lo que exceda de 200.000 euros al 26%.",
+  "text_len": 314,
+  "num_headings": 0,
+  "metadata": {
+    "title": "Mis ahorros - Finanzas para todos",
+    "url": "https://www.finanzasparatodos.es/herramientas/mis-ahorros?utm_source=chatgpt.com",
+    "hostname": "finanzasparatodos.es",
+    "sitename": "finanzasparatodos.es",
+    "date": "2024-01-01",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": true,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Calculadora de ahorro mensual",
+    "topic": "ahorro",
+    "subtopic": "herramienta ahorro",
+    "difficulty": "básico",
+    "format": "calculadora",
+    "summary": "Calculadora para planificar objetivos de ahorro a corto y medio plazo",
+    "learning_objective": "Definir y simular un plan de ahorro realista"
+  },
+  "deduped_from": null
+}

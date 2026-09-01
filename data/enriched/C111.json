@@ -1,0 +1,58 @@
+{
+  "content_id": "C111",
+  "tldr": "Ethereum es la segunda mayor red blockchain y destaca por ser programable: permite crear aplicaciones descentralizadas y emitir tokens mediante smart contracts. Su token nativo es el ether (ETH), que se usa para pagar comisiones de gas y para la validación de bloques mediante el mecanismo de Prueba de Participación (PoS) desde 'The Merge' en 2022. A diferencia de Bitcoin, Ethereum tiene emisión ilimitada, mayor escalabilidad (16-20 transacciones/segundo) y una máquina virtual (EVM) que ejecuta los contratos inteligentes.",
+  "key_points": [
+    "Ethereum es una blockchain programable que permite crear aplicaciones descentralizadas (dApps) y ejecutar smart contracts mediante su Máquina Virtual (EVM).",
+    "Su token nativo, el ether (ETH), se usa para pagar las tarifas de gas y como incentivo para los nodos validadores, y es divisible hasta en 18 decimales.",
+    "Desde septiembre de 2022 (The Merge), Ethereum usa el consenso de Prueba de Participación (PoS) en lugar de Prueba de Trabajo (PoW).",
+    "Los estándares ERC-20 (tokens fungibles) y ERC-721 (NFTs) facilitan la creación e interoperabilidad de tokens sobre la red.",
+    "Frente a Bitcoin, Ethereum ofrece más escalabilidad (16-20 tx/s), emisión inflacionaria e ilimitada, y una mayor centralización de decisiones en la Ethereum Foundation.",
+    "Entre sus usos destacan las finanzas descentralizadas (DeFi), que permiten swaps y préstamos sin intermediarios mediante contratos inteligentes."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cuál es la principal diferencia funcional entre Ethereum y Bitcoin?",
+      "options": [
+        "Ethereum es programable y permite ejecutar smart contracts y crear aplicaciones descentralizadas, mientras que Bitcoin solo sirve para transferir valor.",
+        "Bitcoin permite crear NFTs y Ethereum no.",
+        "Ethereum no permite transferir criptoactivos entre usuarios.",
+        "Bitcoin usa Prueba de Participación y Ethereum Prueba de Trabajo."
+      ],
+      "correct_index": 0,
+      "explanation": "La clave de Ethereum es su capacidad de programación: su Máquina Virtual (EVM) ejecuta smart contracts y permite construir aplicaciones y emitir tokens, algo que Bitcoin no ofrece.",
+      "concept_id": "C27"
+    },
+    {
+      "question": "¿Qué cambio supuso el evento 'The Merge' en la red Ethereum?",
+      "options": [
+        "Eliminó las tarifas de gas por completo.",
+        "Pasó del consenso de Prueba de Trabajo (PoW) al de Prueba de Participación (PoS).",
+        "Limitó la emisión de ETH a 21 millones de unidades.",
+        "Aumentó el tiempo de generación de bloques a 10 minutos."
+      ],
+      "correct_index": 1,
+      "explanation": "The Merge, en septiembre de 2022, sustituyó la minería por validación: Ethereum pasó de Proof of Work a Proof of Stake.",
+      "concept_id": "C27"
+    },
+    {
+      "question": "¿Por qué las tarifas de gas en Ethereum pueden dispararse en periodos de mucha actividad?",
+      "options": [
+        "Porque el precio del ETH siempre sube de forma automática.",
+        "Porque la red se satura y los validadores priorizan las transacciones que ofrecen comisiones más altas.",
+        "Porque la emisión de ETH está limitada a 21 millones.",
+        "Porque cada bloque tarda 10 minutos en generarse."
+      ],
+      "correct_index": 1,
+      "explanation": "Cuando la red se satura, las transacciones se acumulan y los usuarios aumentan sus comisiones para que los validadores las prioricen, elevando así el precio del gas.",
+      "concept_id": "C13"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5613,
+    "input_tokens": 3646,
+    "output_tokens": 985
+  }
+}

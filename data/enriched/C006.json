@@ -1,0 +1,57 @@
+{
+  "content_id": "C006",
+  "tldr": "Este contenido explica los productos bancarios básicos: cuentas a la vista (corrientes y de ahorro), depósitos a plazo, cuentas remuneradas y cuentas de pago básicas, destacando sus ventajas e inconvenientes. También aborda el uso de cajeros automáticos y comisiones, el significado del IBAN, y las diferencias entre tarjetas de débito y de crédito, incluyendo consejos de seguridad. El objetivo es que sepas diferenciar entre cuentas, depósitos y otros productos para gestionar mejor tu dinero.",
+  "key_points": [
+    "Una cuenta bancaria es más segura que guardar dinero en casa y permite pagos, intereses, inversiones y acceso a créditos.",
+    "Los depósitos a plazo ofrecen mayor interés que las cuentas a la vista, pero el dinero queda comprometido y retirarlo antes tiene penalización.",
+    "El IBAN es un código internacional de 24 caracteres (2 letras y 22 números) que identifica país, entidad, oficina y número de cuenta.",
+    "La tarjeta de débito carga el importe al instante en tu cuenta; la de crédito te permite comprar ahora y pagar después, con intereses elevados si no liquidas el saldo.",
+    "Debes revisar comisiones, guardar tus claves en secreto y desconfiar de quien pida tu número secreto, pues tu banco nunca te lo pedirá."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cuál es la principal diferencia entre un depósito a plazo y una cuenta a la vista?",
+      "options": [
+        "El depósito a plazo ofrece mayor interés pero limita la disponibilidad del dinero durante un plazo fijo",
+        "La cuenta a la vista ofrece siempre un interés mayor que el depósito",
+        "El depósito a plazo permite retirar dinero en cualquier momento sin penalización",
+        "La cuenta a la vista no permite hacer pagos ni domiciliar recibos"
+      ],
+      "correct_index": 0,
+      "explanation": "El depósito a plazo compromete el dinero durante un plazo fijo a cambio de un tipo de interés mayor, y retirarlo antes conlleva una penalización.",
+      "concept_id": "C08"
+    },
+    {
+      "question": "¿Qué diferencia fundamental hay entre pagar con una tarjeta de débito y hacerlo con una de crédito?",
+      "options": [
+        "Con la de débito el importe se carga al instante en tu cuenta; con la de crédito compras ahora y pagas después",
+        "La de débito permite comprar ahora y pagar después, mientras que la de crédito carga al instante",
+        "Ambas cargan el importe en tu cuenta de forma idéntica y no generan intereses",
+        "La de crédito solo permite retirar efectivo en cajeros y no realizar compras"
+      ],
+      "correct_index": 0,
+      "explanation": "La tarjeta de débito carga la compra inmediatamente en tu cuenta, mientras que la de crédito te permite comprar a crédito y liquidar la deuda a fin de mes o en cuotas.",
+      "concept_id": "C09"
+    },
+    {
+      "question": "Un cliente recibe un cargo en su cuenta que no reconoce. Según el contenido, ¿qué debería hacer?",
+      "options": [
+        "Comunicarlo enseguida a su banco tras revisar los justificantes y el extracto",
+        "Guardar el justificante y esperar a que desaparezca solo el próximo mes",
+        "Compartir su número secreto con el banco para que investigue el cargo",
+        "Ignorarlo porque todos los cargos de tarjeta son siempre correctos"
+      ],
+      "correct_index": 0,
+      "explanation": "Se recomienda conservar los justificantes, comprobarlos con el extracto mensual y comunicar enseguida cualquier cargo no reconocido al banco.",
+      "concept_id": "C15"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 6014,
+    "input_tokens": 3647,
+    "output_tokens": 936
+  }
+}

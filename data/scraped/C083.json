@@ -1,0 +1,1146 @@
+{
+  "content_id": "C083",
+  "url": "https://www.cnmv.es/DocPortal/Publicaciones/Guias/CompetenciasBasicasParaInversores.pdf",
+  "source": "CNMV",
+  "host": "www.cnmv.es",
+  "url_type": "pdf",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 573546
+  },
+  "title": "Marco de competencias",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Competencias"
+    },
+    {
+      "level": 1,
+      "text": "básicas para"
+    },
+    {
+      "level": 1,
+      "text": "I. Introducción"
+    },
+    {
+      "level": 1,
+      "text": "II. Marco de competencias"
+    },
+    {
+      "level": 1,
+      "text": "básicas para inversores"
+    },
+    {
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "level": 1,
+      "text": "información?"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Competencias",
+      "start": 0,
+      "end": 12,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "básicas para",
+      "start": 12,
+      "end": 87,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "I. Introducción",
+      "start": 87,
+      "end": 2993,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "II. Marco de competencias",
+      "start": 2993,
+      "end": 3060,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "básicas para inversores",
+      "start": 3060,
+      "end": 17460,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "¿Necesitas más",
+      "start": 17460,
+      "end": 17660,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "información?",
+      "start": 17660,
+      "end": 17689,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Competencias"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "básicas para"
+    },
+    {
+      "type": "paragraph",
+      "text": "inversores\nGuía\n€"
+    },
+    {
+      "type": "paragraph",
+      "text": "Índice\nIntroducción\nMarco de competencias"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "I. Introducción"
+    },
+    {
+      "type": "paragraph",
+      "text": "La presente Guía tiene como objetivo establecer un marco de competencias\nbásicas para inversores que facilite la toma de decisiones de inversión de una\nmanera más consciente e informada.\nEste marco está basado en los trabajos elaborados por la Organización\nInternacional de Comisiones de Valores (IOSCO) en los que se establece\nun marco de competencias básicas, con el fin de definir los conocimientos,\nactitudes y comportamientos deseables entre los inversores minoristas.\nCompetencias\nbásicas para\ninversores"
+    },
+    {
+      "type": "paragraph",
+      "text": "El marco cubre siete áreas de contenido en las que los inversores deberían\ndesarrollar sus competencias:\nConceptos y principios básicos de inversión: los principios\nfundamentales.\nCaracterísticas de los productos de inversión: los\naspectos clave de diversos productos como sus estructuras,\ncomisiones y riesgos potenciales.\nEl proceso de compraventa de productos de inversión:\nlas competencias aplicables al proceso de elegir productos\nde inversión, proveedores de servicios financieros y las\nplataformas para la compra y venta de valores.\nSeguimiento de inversiones: las competencias aplicables a\nla tenencia, gestión y el seguimiento de las inversiones.\nDerechos y responsabilidades de los inversores: los\nderechos y responsabilidades de los inversores y las medidas\nde protección al inversor.\nSesgos de comportamiento relacionados con la inversión:\nlos sesgos emocionales y cognitivos que pueden influenciar\nlas decisiones de inversión.\nEstafas y fraudes financieros: las características comunes\nde estafas de inversión y cómo evitarlas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las competencias de cada área se dividen a su vez en tres dimensiones:\nConocimientos: se refieren a la información recibida por\nun inversor minorista como, por ejemplo, las comisiones,\ncaracterísticas y riesgos de los principales productos de\ninversión.\nComportamientos y habilidades: se refieren a las acciones\no la capacidad de actuar para lograr resultados positivos y el\nbienestar financiero, por ejemplo, evaluar el rendimiento real de\nlas inversiones antes de elegir un producto.\nActitudes y motivaciones: se refieren a los mecanismos\npsicológicos internos que podrían obstaculizar o ayudar en\nla toma de decisiones informadas y en el logro del bienestar\nfinanciero, por ejemplo la relación del inversor con el riesgo o la\nincertidumbre.\nSin ánimo de ser exhaustiva, esta Guía pretende recoger de manera muy\nsintética los conocimientos, habilidades y actitudes que debería tener un\ninversor ideal en cada una de las áreas mencionadas y servir así como punto\nde partida para acercarse al mundo de la inversión.\nNo obstante, para tener una visión más amplia sobre este ámbito, acceder a\nunos conocimientos más extensos y profundizar sobre ellos, esta Guía deberá\ncomplementarse con las demás guías y recursos didácticos publicados por la\nComisión Nacional del Mercado de Valores y cuyas referencias se incluyen en\neste documento."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. Marco de competencias"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "básicas para inversores"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Conceptos y principios básicos de inversión"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En esta área se incluyen los aspectos elementales que se deben tener en\ncuenta antes de invertir y cuya asunción por parte del inversor es esencial\npara elegir el producto de inversión más adecuado a su perfil y evitar así\nresultados no deseados.\nConocimientos"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Conocer la diferencia entre el ahorro y la inversión."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Entender la diferencia entre la inversión y la especulación."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Entender la relación entre riesgo y rentabilidad potencial."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Entender el impacto que tiene la inflación en un plan financiero a largo plazo y en las\ninversiones a largo plazo."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Entender el efecto del retorno (interés) compuesto en la acumulación de riqueza."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Conocer las ventajas de la diversificación de inversiones."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Entender los riesgos de utilizar dinero prestado para invertir (apalancamiento).\nHabilidades y comportamientos"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Constituir un fondo de emergencia adecuado antes de contemplar la inversión."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Elegir productos de inversión en línea con el nivel de tolerancia al riesgo y los objetivos de\ninversión personales."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Diversificar las inversiones."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Considerar una inversión únicamente cuando el inversor sepa explicar sus características,\ncomisiones y riesgos."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Establecer objetivos para cada inversión."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Volver a evaluar el nivel de tolerancia al riesgo cuando cambian los factores que lo afectan."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Invertir de forma regular y disciplinada para objetivos a largo plazo.\nActitudes y motivaciones"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Aceptar que el valor de una inversión puede subir o bajar."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Reconocer que la toma de decisiones de inversión sin informarse debidamente puede\nconllevar más riesgos."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Concebir la inversión como una parte del proceso de planificación financiera y no como\nuna vía para ganancias especulativas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Área 1: Conceptos y principios básicos de inversión\nRecomendamos:\n¥ Guía: Conozca su perfil como inversor\n¥ Podcast 02: Conoce el perfil de inversor ¿Y si nos\nvamos al pueblo?\n¥ Podcast 06: Binomio rentabilidad-riesgo ¿Todo a una\ncarta?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Características de los productos de inversión"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Existen muchas clases de inversiones. Algunas de ellas son fáciles de\ncomprender, pero otras se basan en mecanismos más complejos que es\nnecesario conocer con cierta profundidad. Es el caso de las inversiones\nen productos financieros. Antes de invertir en este tipo de productos es\nimprescindible entender muy bien todos los detalles de su funcionamiento,\nlas condiciones específicas y los riesgos de un producto de inversión en\nparticular. En esta área se incluyen aquellos aspectos que el inversor debe\ntener en cuenta a la hora de elegir un producto de inversión.\nConocimientos"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Identificar y comparar las características y riesgos de las distintas clases de activos."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Identificar los factores que pueden afectar al valor de una inversión y el porqué."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Entender las comisiones asociadas a un producto de inversión.\nHabilidades y comportamientos"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Investigar y comparar posibles productos de inversión, dentro de una misma clase de\nactivos."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Utilizar las métricas adecuadas para comparar inversiones similares."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Evaluar la tasa efectiva de rentabilidad de los productos de inversión.\nActitudes y motivaciones"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Tener la confianza para investigar las inversiones potenciales antes de comprometerse."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Tener la motivación para investigar las inversiones individuales que componen los\nproductos de inversión para tomar decisiones financieras y éticas sobre su idoneidad."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Reconocer que el rendimiento pasado de una inversión no es una indicación de su\nrendimiento futuro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Área 2: Características de los productos\nde inversión\nRecomendamos:\n¥ Guía: Los productos de renta fija\n¥ Guía: El accionista de una compañía cotizada\n¥ Guía: Los fondos de inversión y la inversión colectiva\n¥ Guía: Los fondos cotizados en bolsa\n¥ Guía: Opciones y futuros\n¥ Guía rápida: Traspasos entre fondos de inversión\n¥ Guía rápida: Fondos cotizados\n¥ Guía rápida: Fondos de inversión en el mercado\n¥ Guía rápida: Fondos de inversión garantizados\n¥ Guía rápida: Valores subordinados\n¥ Guía rápida: Warrants y Turbo Warrants\n¥ Guía rápida: Los fondos de inversión libre\n¥ Podcast 05: Renta fija. El patinete eléctrico"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "El proceso de compra y venta de productos de"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "inversión\nLa compra y venta de los productos de inversión tiene una serie de\npeculiaridades y está sometida a una normativa específica cuya finalidad es\nproteger al inversor. Estas particularidades abarcan desde el canal elegido\npara la adquisición o venta del producto financiero hasta las obligaciones\nque debe cumplir el proveedor de servicios financieros en su relación con el\ninversor.\nConocimientos"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Entender las características de los canales disponibles para la compra y venta de\nproductos de inversión."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Identificar las obligaciones y responsabilidades del proveedor o intermediario de servicios\nfinancieros en la compra y venta de productos de inversión."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Comprender los riesgos de delegar la gestión de una cuenta de valores a un tercero."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Identificar los riesgos de ciberseguridad al utilizar plataformas de inversión."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Conocer los distintos tipos de órdenes de valores que pueden darse.\nHabilidades y comportamientos"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Utilizar diversos recursos, herramientas e información imparciales e independientes para\nayudar a la toma de decisiones de inversión."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Plantear preguntas al proveedor o intermediario de servicios financieros para asegurar la\ncomprensión o clarificar dudas sobre su asesoramiento y recomendaciones de inversión."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Buscar asesoramiento financiero independiente cuando sea necesario."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Comparar las ventajas e inconvenientes de comprar y vender productos de inversión a\ntravés de los distintos canales."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Comprobar y conservar la documentación de las transacciones para verificar que sean\ncorrectas y reales.\nActitudes y motivaciones"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Tener la confianza para tomar decisiones de inversión informadas."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Tener la confianza para cuestionar las ofertas de inversión que parecen demasiado buenas\npara ser verdad."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Tener la confianza para preguntar a un proveedor o intermediario de servicios financieros\nsobre productos de inversión, pedirle asesoramiento o recomendaciones y preguntar\ncómo se le remunera por la transacción."
+    },
+    {
+      "type": "paragraph",
+      "text": "Área 3: El proceso de compra y venta de\nproductos de inversión\nRecomendamos:\n¥ Guía: Órdenes de valores\n¥ Guía: Sus derechos como inversor. La protección de\nMiFID\n¥ Guía rápida: Empresas de asesoramiento financiero\n(EAF)\n¥ Guía rápida: ¿Cómo interpretar la publicidad financiera?\n¥ Guía rápida: Fondo de garantía de inversiones (FOGAIN)"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "El seguimiento de las inversiones"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Una vez que se han seleccionado los productos financieros en los que invertir,\nes necesario llevar a cabo un seguimiento de su evolución con la finalidad de\nverificar que el comportamiento es el esperado o, en su caso, si es preciso,\nrealizar algún ajuste. Aunque existen diversos métodos para el seguimiento de\nlas inversiones en función de la complejidad del producto financiero, en esta\nárea se recogen los aspectos básicos que el inversor debe tener en cuenta\npara realizar un seguimiento mínimo de su inversión.\nConocimientos"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Comprender la información clave del extracto de una cuenta de valores o la\ndocumentación de una transacción."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Conocer el impacto de las distintas opciones disponibles en caso de operaciones\nsocietarias."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Diferenciar entre una ganancia o pérdida no realizada y una realizada.\nHabilidades y comportamientos"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Conservar y revisar de forma regular la documentación relacionada con cuentas de\nvalores, transacciones, etc. y solicitar una copia de estos documentos si no se ha\nproporcionado."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Revisar de forma regular el rendimiento de las inversiones para comprobar si se ajustan al\nnivel de tolerancia al riesgo y a los objetivos de inversión actuales."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Reequilibrar la cartera si ya no se ajusta al nivel de tolerancia al riesgo del inversor o a sus\nobjetivos de inversión actuales."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Leer todas las comunicaciones sobre las inversiones existentes y tomar las medidas\napropiadas necesarias.\nActitudes y motivaciones"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Tener la confianza para gestionar las inversiones y realizar los ajustes necesarios."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Tener la motivación para mantenerse informado sobre las inversiones existentes y tomar\nlas medidas necesarias."
+    },
+    {
+      "type": "paragraph",
+      "text": "Área 4: El seguimiento de las inversiones\nRecomendamos:\n¥ Guía: El accionista de una compañía cotizada\n¥ Guía rápida: Los derechos de suscripción preferentes\n(DSP)\n¥ Guía rápida: Las opas: ¿qué son y cómo actuar?"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Derechos y responsabilidades de los inversores"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "La protección del inversor, como sujeto activo de los mercados de valores,\nes un objetivo principal de la regulación financiera. Esta protección se refiere\nprincipalmente a la relación entre el inversor y el intermediario financiero.\nEn esta área se recogen los aspectos fundamentales que el inversor debe\nconsiderar en su trato con la entidad o intermediario financiero.\nConocimientos"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Conocer los derechos y responsabilidades de los inversores y el alcance de las medidas\nde protección al inversor disponibles, incluyendo el procedimiento para presentar quejas\ny reclamaciones."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Identificar las implicaciones de dar información inexacta, engañosa o insuficiente al\nproveedor o intermediario de servicios financieros."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Identificar las implicaciones de firmar documentos con un proveedor o intermediario de\nservicios financieros.\nHabilidades y comportamientos"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Leer la documentación comercial de un producto de inversión antes de su contratación."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Verificar con los reguladores financieros pertinentes que una inversión sea regulada/\nregistrada y cómo está regulada/registrada."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Verificar con los reguladores financieros pertinentes que un proveedor o intermediario de\nservicios financieros esté registrado y habilitado para prestar los servicios que ofrece."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En caso de disputa, presentar una queja sobre una inversión o servicio a la entidad\nfinanciera y, si fuera necesario, a la CNMV."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Aclarar todos los detalles de un documento antes de firmarlo y conservar una copia.\nActitudes y motivaciones"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Tener la confianza para ejercer los derechos del inversor."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Reconocer que el cumplimiento de los derechos y responsabilidades como inversor\nreducirá la posibilidad de que una inversión salga mal."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Reconocer que toda la información contenida en un documento (incluida la letra\npequeña) puede tener implicaciones importantes."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Dar información veraz, actualizada y relevante al proveedor o intermediario de servicios\nfinancieros."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Aceptar la responsabilidad por el resultado financiero de las decisiones de inversión\ntomadas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Área 5: Derechos y responsabilidades de\nlos inversores\nRecomendamos:\n¥ Guía: Sus derechos como inversor. La protección MiFID\n¥ Guía rápida: Fondo de garantía de inversiones (FOGAIN)\n¥ Infografía: Tu protección como inversor – MiFID II"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Sesgos de comportamiento relacionados con"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "la inversión\nLa adopción de decisiones es el proceso en el que se debe elegir entre dos o\nmás alternativas y se desarrolla en cualquier contexto de la vida cotidiana, ya\nsea personal o profesional. En el proceso decisorio intervienen, por un lado, la\ncapacidad analítica (es decir, la facultad de evaluar y comprender el contexto\nen el que se toma una decisión y sus posibles repercusiones) y, por otro lado,\nlas emociones (es decir, los estados psicológicos en los que se encuentra\nla persona). En el ámbito de la toma de decisiones de inversión es preciso\nconocer estas dos facetas y considerar los aspectos psicológicos y cognitivos\nque influyen en ellas. En esta área se recogen los aspectos básicos que es\nrecomendable que el inversor conozca sobre la psicología de la inversión.\nConocimientos"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ser consciente de que los inversores, debido a sesgos emocionales y cognitivos, no\nsiempre toman decisiones racionales."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Conocer ejemplos de sesgos emocionales y cognitivos comunes que pueden influenciar\nlas decisiones de inversión.\nHabilidades y comportamientos"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Detectar indicios de sesgos emocionales o cognitivos durante la toma de decisiones de\ninversión."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Evitar tomar decisiones de inversión impulsivas."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Tomar decisiones de inversión basadas en datos y hechos objetivos.\nActitudes y motivaciones"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Reconocer que características humanas, como las emociones, pueden influenciar las\ndecisiones de inversión de forma imprevista."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Reconocer que la disciplina al invertir puede minimizar los sesgos de comportamiento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Área 6: Sesgos de comportamiento\nrelacionados con la inversión\nRecomendamos:\n¥ Guía Psicología económica para inversores\n¥ Guía rápida Principales sesgos del inversor\n¥ Podcast Psicología para inversores"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Estafas y fraudes financieros"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Existen muchos tipos de estafas y fraudes financieros que, en los últimos\naños, se han visto incrementados debido a las posibilidades que permiten\nlas nuevas tecnologías. Saber cuáles son los diferentes tipos de estafas y\nfraudes y cómo operan ayudará a prevenirlos. En esta área se recogen los\naspectos básicos en los que el inversor debe centrarse para evitar este tipo\nde situaciones.\nConocimientos"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Conocer las características principales de los fraudes y estafas de inversión comunes."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Identificar las fuentes disponibles para obtener información sobre estafas y fraudes\nconocidos.\nHabilidades y comportamientos"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Detectar si se está utilizando una táctica propia de los fraudes y estafas de inversión."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuestionar las ofertas de inversión que parecen demasiados buenas para ser verdad."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Informar a los reguladores financieros cuando existen indicios de estafa o fraude de\ninversión.\nActitudes y motivaciones"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Tener la motivación para aprender sobre estafas y fraudes de inversión y cómo evitarlos."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Tener la confianza para cuestionar i una inversión pudiera ser fraudulenta."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Tener la confianza para reconocer, si ha ocurrido, que ha habido una estafa o fraude de\ninversión."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Reconocer que las inversiones de “bajo riesgo y alta rentabilidad” no existen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Área 7: Sesgos de comportamiento\nrelacionados con la inversión\nRecomendamos:\n¥ Guía Chiringuitos Financieros\n¥ Infografía sobre Chiringuitos Financieros\n¥ Decálogo para evitar chiringuitos financieros\n¥ Podcast Chiringuitos Financieros\n¥ Vídeo: ¡Cuidado con los chiringuitos!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Contáctanos por email\nEsta guía tiene como finalidad informar al público en general sobre distintos\naspectos relacionados con los mercados de valores. Por su naturaleza divulgativa\nno puede constituir un soporte para posteriores interpretaciones jurídicas, siendo\nla normativa vigente la única de aplicabilidad para estos fines."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "información?"
+    },
+    {
+      "type": "paragraph",
+      "text": "www.cnmv.es"
+    }
+  ],
+  "text": "Competencias \nbásicas para \ninversores\nGuía\n€\n\nÍndice\nIntroducción \nMarco de competencias\n\nI. Introducción\nLa presente Guía tiene como objetivo establecer un marco de competencias \nbásicas para inversores que facilite la toma de decisiones de inversión de una \nmanera más consciente e informada. \nEste marco está basado en los trabajos elaborados por la Organización \nInternacional de Comisiones de Valores (IOSCO) en los que se establece \nun marco de competencias básicas, con el fin de definir los conocimientos, \nactitudes y comportamientos deseables entre los inversores minoristas. \nCompetencias \nbásicas para \ninversores\n\nEl marco cubre siete áreas de contenido en las que los inversores deberían \ndesarrollar sus competencias:\nConceptos y principios básicos de inversión: los principios \nfundamentales.\nCaracterísticas de los productos de inversión: los \naspectos clave de diversos productos como sus estructuras, \ncomisiones y riesgos potenciales.\nEl proceso de compraventa de productos de inversión: \nlas competencias aplicables al proceso de elegir productos \nde inversión, proveedores de servicios financieros y las \nplataformas para la compra y venta de valores.\nSeguimiento de inversiones: las competencias aplicables a \nla tenencia, gestión y el seguimiento de las inversiones.\nDerechos y responsabilidades de los inversores: los \nderechos y responsabilidades de los inversores y las medidas \nde protección al inversor.\nSesgos de comportamiento relacionados con la inversión: \nlos sesgos emocionales y cognitivos que pueden influenciar \nlas decisiones de inversión.\nEstafas y fraudes financieros: las características comunes \nde estafas de inversión y cómo evitarlas.\n\nLas competencias de cada área se dividen a su vez en tres dimensiones:\nConocimientos: se refieren a la información recibida por \nun inversor minorista como, por ejemplo, las comisiones, \ncaracterísticas y riesgos de los principales productos de \ninversión.\nComportamientos y habilidades: se refieren a las acciones \no la capacidad de actuar para lograr resultados positivos y el \nbienestar financiero, por ejemplo, evaluar el rendimiento real de \nlas inversiones antes de elegir un producto.\nActitudes y motivaciones: se refieren a los mecanismos \npsicológicos internos que podrían obstaculizar o ayudar en \nla toma de decisiones informadas y en el logro del bienestar \nfinanciero, por ejemplo la relación del inversor con el riesgo o la \nincertidumbre.\nSin ánimo de ser exhaustiva, esta Guía pretende recoger de manera muy \nsintética los conocimientos, habilidades y actitudes que debería tener un \ninversor ideal en cada una de las áreas mencionadas y servir así como punto \nde partida para acercarse al mundo de la inversión. \nNo obstante, para tener una visión más amplia sobre este ámbito, acceder a \nunos conocimientos más extensos y profundizar sobre ellos, esta Guía deberá \ncomplementarse con las demás guías y recursos didácticos publicados por la \nComisión Nacional del Mercado de Valores y cuyas referencias se incluyen en \neste documento.\n\nII. Marco de competencias \nbásicas para inversores\n1. Conceptos y principios básicos de inversión\nEn esta área se incluyen los aspectos elementales que se deben tener en \ncuenta antes de invertir y cuya asunción por parte del inversor es esencial \npara elegir el producto de inversión más adecuado a su perfil y evitar así \nresultados no deseados.\nConocimientos\n• \nConocer la diferencia entre el ahorro y la inversión.\n• \nEntender la diferencia entre la inversión y la especulación.\n• \nEntender la relación entre riesgo y rentabilidad potencial.\n• \nEntender el impacto que tiene la inflación en un plan financiero a largo plazo y en las \ninversiones a largo plazo.\n• \nEntender el efecto del retorno (interés) compuesto en la acumulación de riqueza.\n• \nConocer las ventajas de la diversificación de inversiones.\n• \nEntender los riesgos de utilizar dinero prestado para invertir (apalancamiento).\nHabilidades y comportamientos\n• \nConstituir un fondo de emergencia adecuado antes de contemplar la inversión.\n• \nElegir productos de inversión en línea con el nivel de tolerancia al riesgo y los objetivos de \ninversión personales.\n• \nDiversificar las inversiones.\n• \nConsiderar una inversión únicamente cuando el inversor sepa explicar sus características, \ncomisiones y riesgos.\n• \nEstablecer objetivos para cada inversión.\n• \nVolver a evaluar el nivel de tolerancia al riesgo cuando cambian los factores que lo afectan.\n• \nInvertir de forma regular y disciplinada para objetivos a largo plazo.\nActitudes y motivaciones\n• \nAceptar que el valor de una inversión puede subir o bajar.\n• \nReconocer que la toma de decisiones de inversión sin informarse debidamente puede \nconllevar más riesgos.\n• \nConcebir la inversión como una parte del proceso de planificación financiera y no como \nuna vía para ganancias especulativas.\n\nÁrea 1: Conceptos y principios básicos de inversión\nRecomendamos:\n¥ Guía: Conozca su perfil como inversor\n¥ Podcast 02: Conoce el perfil de inversor ¿Y si nos \nvamos al pueblo?\n¥ Podcast 06: Binomio rentabilidad-riesgo ¿Todo a una \ncarta?\n\n2. Características de los productos de inversión\nExisten muchas clases de inversiones. Algunas de ellas son fáciles de \ncomprender, pero otras se basan en mecanismos más complejos que es \nnecesario conocer con cierta profundidad. Es el caso de las inversiones \nen productos financieros. Antes de invertir en este tipo de productos es \nimprescindible entender muy bien todos los detalles de su funcionamiento, \nlas condiciones específicas y los riesgos de un producto de inversión en \nparticular. En esta área se incluyen aquellos aspectos que el inversor debe \ntener en cuenta a la hora de elegir un producto de inversión.\nConocimientos\n• \nIdentificar y comparar las características y riesgos de las distintas clases de activos.\n• \nIdentificar los factores que pueden afectar al valor de una inversión y el porqué.\n• \nEntender las comisiones asociadas a un producto de inversión.\nHabilidades y comportamientos\n• \nInvestigar y comparar posibles productos de inversión, dentro de una misma clase de \nactivos.\n• \nUtilizar las métricas adecuadas para comparar inversiones similares.\n• \nEvaluar la tasa efectiva de rentabilidad de los productos de inversión.\nActitudes y motivaciones\n• \nTener la confianza para investigar las inversiones potenciales antes de comprometerse.\n• \nTener la motivación para investigar las inversiones individuales que componen los \nproductos de inversión para tomar decisiones financieras y éticas sobre su idoneidad.\n• \nReconocer que el rendimiento pasado de una inversión no es una indicación de su \nrendimiento futuro.\n\nÁrea 2: Características de los productos \nde inversión\nRecomendamos:\n¥ Guía: Los productos de renta fija\n¥ Guía: El accionista de una compañía cotizada\n¥ Guía: Los fondos de inversión y la inversión colectiva\n¥ Guía: Los fondos cotizados en bolsa\n¥ Guía: Opciones y futuros\n¥ Guía rápida: Traspasos entre fondos de inversión\n¥ Guía rápida: Fondos cotizados\n¥ Guía rápida: Fondos de inversión en el mercado\n¥ Guía rápida: Fondos de inversión garantizados\n¥ Guía rápida: Valores subordinados\n¥ Guía rápida: Warrants y Turbo Warrants\n¥ Guía rápida: Los fondos de inversión libre\n¥ Podcast 05: Renta fija. El patinete eléctrico\n\n3. El proceso de compra y venta de productos de \ninversión\nLa compra y venta de los productos de inversión tiene una serie de \npeculiaridades y está sometida a una normativa específica cuya finalidad es \nproteger al inversor. Estas particularidades abarcan desde el canal elegido \npara la adquisición o venta del producto financiero hasta las obligaciones \nque debe cumplir el proveedor de servicios financieros en su relación con el \ninversor.\nConocimientos\n• \nEntender las características de los canales disponibles para la compra y venta de \nproductos de inversión.\n• \nIdentificar las obligaciones y responsabilidades del proveedor o intermediario de servicios \nfinancieros en la compra y venta de productos de inversión.\n• \nComprender los riesgos de delegar la gestión de una cuenta de valores a un tercero.\n• \nIdentificar los riesgos de ciberseguridad al utilizar plataformas de inversión.\n• \nConocer los distintos tipos de órdenes de valores que pueden darse.\nHabilidades y comportamientos\n• \nUtilizar diversos recursos, herramientas e información imparciales e independientes para \nayudar a la toma de decisiones de inversión.\n• \nPlantear preguntas al proveedor o intermediario de servicios financieros para asegurar la \ncomprensión o clarificar dudas sobre su asesoramiento y recomendaciones de inversión.\n• \nBuscar asesoramiento financiero independiente cuando sea necesario.\n• \nComparar las ventajas e inconvenientes de comprar y vender productos de inversión a \ntravés de los distintos canales.\n• \nComprobar y conservar la documentación de las transacciones para verificar que sean \ncorrectas y reales.\nActitudes y motivaciones\n• \nTener la confianza para tomar decisiones de inversión informadas.\n• \nTener la confianza para cuestionar las ofertas de inversión que parecen demasiado buenas \npara ser verdad.\n• \nTener la confianza para preguntar a un proveedor o intermediario de servicios financieros \nsobre productos de inversión, pedirle asesoramiento o recomendaciones y preguntar \ncómo se le remunera por la transacción.\n\nÁrea 3: El proceso de compra y venta de \nproductos de inversión\nRecomendamos:\n¥ Guía: Órdenes de valores\n¥ Guía: Sus derechos como inversor. La protección de \nMiFID\n¥ Guía rápida: Empresas de asesoramiento financiero \n(EAF)\n¥ Guía rápida: ¿Cómo interpretar la publicidad financiera?\n¥ Guía rápida: Fondo de garantía de inversiones (FOGAIN)\n\n4. El seguimiento de las inversiones\nUna vez que se han seleccionado los productos financieros en los que invertir, \nes necesario llevar a cabo un seguimiento de su evolución con la finalidad de \nverificar que el comportamiento es el esperado o, en su caso, si es preciso, \nrealizar algún ajuste. Aunque existen diversos métodos para el seguimiento de \nlas inversiones en función de la complejidad del producto financiero, en esta \nárea se recogen los aspectos básicos que el inversor debe tener en cuenta \npara realizar un seguimiento mínimo de su inversión.\nConocimientos\n• \nComprender la información clave del extracto de una cuenta de valores o la \ndocumentación de una transacción.\n• \nConocer el impacto de las distintas opciones disponibles en caso de operaciones \nsocietarias.\n• \nDiferenciar entre una ganancia o pérdida no realizada y una realizada.\nHabilidades y comportamientos\n• \nConservar y revisar de forma regular la documentación relacionada con cuentas de \nvalores, transacciones, etc. y solicitar una copia de estos documentos si no se ha \nproporcionado.\n• \nRevisar de forma regular el rendimiento de las inversiones para comprobar si se ajustan al \nnivel de tolerancia al riesgo y a los objetivos de inversión actuales.\n• \nReequilibrar la cartera si ya no se ajusta al nivel de tolerancia al riesgo del inversor o a sus \nobjetivos de inversión actuales.\n• \nLeer todas las comunicaciones sobre las inversiones existentes y tomar las medidas \napropiadas necesarias.\nActitudes y motivaciones\n• \nTener la confianza para gestionar las inversiones y realizar los ajustes necesarios.\n• \nTener la motivación para mantenerse informado sobre las inversiones existentes y tomar \nlas medidas necesarias.\n\nÁrea 4: El seguimiento de las inversiones\nRecomendamos:\n¥ Guía: El accionista de una compañía cotizada\n¥ Guía rápida: Los derechos de suscripción preferentes \n(DSP)\n¥ Guía rápida: Las opas: ¿qué son y cómo actuar?\n\n5. Derechos y responsabilidades de los inversores\nLa protección del inversor, como sujeto activo de los mercados de valores, \nes un objetivo principal de la regulación financiera. Esta protección se refiere \nprincipalmente a la relación entre el inversor y el intermediario financiero. \nEn esta área se recogen los aspectos fundamentales que el inversor debe \nconsiderar en su trato con la entidad o intermediario financiero.\nConocimientos\n• \nConocer los derechos y responsabilidades de los inversores y el alcance de las medidas \nde protección al inversor disponibles, incluyendo el procedimiento para presentar quejas \ny reclamaciones.\n• \nIdentificar las implicaciones de dar información inexacta, engañosa o insuficiente al \nproveedor o intermediario de servicios financieros.\n• \nIdentificar las implicaciones de firmar documentos con un proveedor o intermediario de \nservicios financieros.\nHabilidades y comportamientos\n• \nLeer la documentación comercial de un producto de inversión antes de su contratación.\n• \nVerificar con los reguladores financieros pertinentes que una inversión sea regulada/\nregistrada y cómo está regulada/registrada.\n• \nVerificar con los reguladores financieros pertinentes que un proveedor o intermediario de \nservicios financieros esté registrado y habilitado para prestar los servicios que ofrece.\n• \nEn caso de disputa, presentar una queja sobre una inversión o servicio a la entidad \nfinanciera y, si fuera necesario, a la CNMV. \n• \nAclarar todos los detalles de un documento antes de firmarlo y conservar una copia.\nActitudes y motivaciones\n• \nTener la confianza para ejercer los derechos del inversor.\n• \nReconocer que el cumplimiento de los derechos y responsabilidades como inversor \nreducirá la posibilidad de que una inversión salga mal.\n• \nReconocer que toda la información contenida en un documento (incluida la letra \npequeña) puede tener implicaciones importantes.\n• \nDar información veraz, actualizada y relevante al proveedor o intermediario de servicios \nfinancieros.\n• \nAceptar la responsabilidad por el resultado financiero de las decisiones de inversión \ntomadas.\n\nÁrea 5: Derechos y responsabilidades de \nlos inversores\nRecomendamos:\n¥ Guía: Sus derechos como inversor. La protección MiFID\n¥ Guía rápida: Fondo de garantía de inversiones (FOGAIN)\n¥ Infografía: Tu protección como inversor – MiFID II\n\n6. Sesgos de comportamiento relacionados con \nla inversión\nLa adopción de decisiones es el proceso en el que se debe elegir entre dos o \nmás alternativas y se desarrolla en cualquier contexto de la vida cotidiana, ya \nsea personal o profesional. En el proceso decisorio intervienen, por un lado, la \ncapacidad analítica (es decir, la facultad de evaluar y comprender el contexto \nen el que se toma una decisión y sus posibles repercusiones) y, por otro lado, \nlas emociones (es decir, los estados psicológicos en los que se encuentra \nla persona). En el ámbito de la toma de decisiones de inversión es preciso \nconocer estas dos facetas y considerar los aspectos psicológicos y cognitivos \nque influyen en ellas. En esta área se recogen los aspectos básicos que es \nrecomendable que el inversor conozca sobre la psicología de la inversión.\nConocimientos\n• \nSer consciente de que los inversores, debido a sesgos emocionales y cognitivos, no \nsiempre toman decisiones racionales.\n• \nConocer ejemplos de sesgos emocionales y cognitivos comunes que pueden influenciar \nlas decisiones de inversión.\nHabilidades y comportamientos\n• \nDetectar indicios de sesgos emocionales o cognitivos durante la toma de decisiones de \ninversión.\n• \nEvitar tomar decisiones de inversión impulsivas.\n• \nTomar decisiones de inversión basadas en datos y hechos objetivos.\nActitudes y motivaciones\n• \nReconocer que características humanas, como las emociones, pueden influenciar las \ndecisiones de inversión de forma imprevista.\n• \nReconocer que la disciplina al invertir puede minimizar los sesgos de comportamiento.\n\nÁrea 6: Sesgos de comportamiento \nrelacionados con la inversión\nRecomendamos:\n¥ Guía Psicología económica para inversores\n¥ Guía rápida Principales sesgos del inversor\n¥ Podcast Psicología para inversores\n\n7. Estafas y fraudes financieros\nExisten muchos tipos de estafas y fraudes financieros que, en los últimos \naños, se han visto incrementados debido a las posibilidades que permiten \nlas nuevas tecnologías. Saber cuáles son los diferentes tipos de estafas y \nfraudes y cómo operan ayudará a prevenirlos. En esta área se recogen los \naspectos básicos en los que el inversor debe centrarse para evitar este tipo \nde situaciones.\nConocimientos\n• \nConocer las características principales de los fraudes y estafas de inversión comunes.\n• \nIdentificar las fuentes disponibles para obtener información sobre estafas y fraudes \nconocidos.\nHabilidades y comportamientos\n• \nDetectar si se está utilizando una táctica propia de los fraudes y estafas de inversión.\n• \nCuestionar las ofertas de inversión que parecen demasiados buenas para ser verdad.\n• \nInformar a los reguladores financieros cuando existen indicios de estafa o fraude de \ninversión.\nActitudes y motivaciones\n• \nTener la motivación para aprender sobre estafas y fraudes de inversión y cómo evitarlos.\n• \nTener la confianza para cuestionar i una inversión pudiera ser fraudulenta.\n• \nTener la confianza para reconocer, si ha ocurrido, que ha habido una estafa o fraude de \ninversión.\n• \nReconocer que las inversiones de “bajo riesgo y alta rentabilidad” no existen.\n\nÁrea 7: Sesgos de comportamiento \nrelacionados con la inversión\nRecomendamos:\n¥ Guía Chiringuitos Financieros\n¥ Infografía sobre Chiringuitos Financieros\n¥ Decálogo para evitar chiringuitos financieros\n¥ Podcast Chiringuitos Financieros\n¥ Vídeo: ¡Cuidado con los chiringuitos!\n\nContáctanos por email\nEsta guía tiene como finalidad informar al público en general sobre distintos \naspectos relacionados con los mercados de valores. Por su naturaleza divulgativa \nno puede constituir un soporte para posteriores interpretaciones jurídicas, siendo \nla normativa vigente la única de aplicabilidad para estos fines. \n¿Necesitas más \ninformación?\nwww.cnmv.es",
+  "text_len": 17689,
+  "num_headings": 7,
+  "metadata": {
+    "producer": "iLovePDF",
+    "creation_date": "2026-06-05",
+    "mod_date": "2026-06-05"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Volatilidad y riesgo de los activos",
+    "topic": "riesgo",
+    "subtopic": "volatilidad",
+    "difficulty": "avanzado",
+    "format": "PDF",
+    "summary": "Guía de competencias básicas para interpretar riesgo y variación de los activos",
+    "learning_objective": "Relacionar volatilidad con riesgo financiero"
+  },
+  "pdf_info": {
+    "n_pages": 20,
+    "body_size": 13.0,
+    "extractor": "pymupdf"
+  },
+  "deduped_from": "C062"
+}

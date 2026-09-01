@@ -1,0 +1,528 @@
+{
+  "content_id": "C016",
+  "url": "https://www.finanzasparatodos.es/herramientas",
+  "source": "Finanzas para Todos",
+  "host": "www.finanzasparatodos.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 54846
+  },
+  "title": "Herramientas - Finanzas para todos",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Herramientas"
+    },
+    {
+      "level": 2,
+      "text": "Mi presupuesto"
+    },
+    {
+      "level": 2,
+      "text": "Mis caprichos"
+    },
+    {
+      "level": 2,
+      "text": "Mi jubilación"
+    },
+    {
+      "level": 2,
+      "text": "Mi bebé"
+    },
+    {
+      "level": 2,
+      "text": "Mis objetivos"
+    },
+    {
+      "level": 2,
+      "text": "Mis objetivos (infantil)"
+    },
+    {
+      "level": 2,
+      "text": "Mis deudas"
+    },
+    {
+      "level": 2,
+      "text": "Priorizar objetivos"
+    },
+    {
+      "level": 2,
+      "text": "Mi valor neto"
+    },
+    {
+      "level": 2,
+      "text": "Mis finanzas en pareja"
+    },
+    {
+      "level": 2,
+      "text": "Mi salud financiera"
+    },
+    {
+      "level": 2,
+      "text": "Mi vivienda: ¿Cuál te puedes permitir?"
+    },
+    {
+      "level": 2,
+      "text": "Alquilar o comprar"
+    },
+    {
+      "level": 2,
+      "text": "Mis ahorros"
+    },
+    {
+      "level": 2,
+      "text": "Mi estado ahorro-inversión"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Herramientas",
+      "start": 0,
+      "end": 36,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Mi presupuesto",
+      "start": 36,
+      "end": 212,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Mis caprichos",
+      "start": 212,
+      "end": 502,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Mi jubilación",
+      "start": 502,
+      "end": 639,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Mi bebé",
+      "start": 639,
+      "end": 792,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Mis objetivos",
+      "start": 792,
+      "end": 964,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Mis objetivos (infantil)",
+      "start": 964,
+      "end": 1149,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Mis deudas",
+      "start": 1149,
+      "end": 1417,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Priorizar objetivos",
+      "start": 1417,
+      "end": 1620,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Mi valor neto",
+      "start": 1620,
+      "end": 1867,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Mis finanzas en pareja",
+      "start": 1867,
+      "end": 1985,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Mi salud financiera",
+      "start": 1985,
+      "end": 2236,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Mi vivienda: ¿Cuál te puedes permitir?",
+      "start": 2236,
+      "end": 2395,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Alquilar o comprar",
+      "start": 2395,
+      "end": 2624,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Mis ahorros",
+      "start": 2624,
+      "end": 2786,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Mi estado ahorro-inversión",
+      "start": 2786,
+      "end": 2917,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Herramientas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Filtra por categoría:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mi presupuestoSuena complicado, pero es todo lo contrario. Crear presupuestos es un hábito muy beneficioso que nos permite llevar un control sobre nuestro dinero.",
+      "links": [
+        {
+          "text": "Mi presupuesto",
+          "href": "https://www.finanzasparatodos.es/herramientas/mipresupuesto",
+          "start": 0,
+          "end": 14
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mis caprichosEsta herramienta permite conocer cuánto se puede ahorrar en un tiempo determinado si eliminamos o reducimos gastos. Introduzca al menos un concepto de gasto y su ahorro mensual. Ten en cuenta que hasta los recortes más pequeños pueden significar grandes ahorros.",
+      "links": [
+        {
+          "text": "Mis caprichos",
+          "href": "https://www.finanzasparatodos.es/herramientas/mis-caprichos",
+          "start": 0,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mi jubilación¿Cuánto necesita ahorrar para su jubilación? ¿Durante cuántos años le durarán sus ahorros después de jubilarse?",
+      "links": [
+        {
+          "text": "Mi jubilación",
+          "href": "https://www.finanzasparatodos.es/herramientas/calculadora-de-jubilacion",
+          "start": 0,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mi bebé¿Estás esperando un bebé? Esta herramienta te permitirá planificar los gastos del primer año y ajustarlos en función de tus necesidades.",
+      "links": [
+        {
+          "text": "Mi bebé",
+          "href": "https://www.finanzasparatodos.es/herramientas/mi-bebe",
+          "start": 0,
+          "end": 7
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mis objetivosEsta herramienta te permite conocer cuánto dinero deberás ahorrar mensualmente para conseguir tus objetivos de capital en un determinado plazo.",
+      "links": [
+        {
+          "text": "Mis objetivos",
+          "href": "https://www.finanzasparatodos.es/herramientas/mis-objetivos",
+          "start": 0,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mis objetivos (infantil)Esta herramienta te permitirá conocer cuánto dinero deberías ahorrar mensualmente para conseguir un objetivo de capital en un determinado plazo.",
+      "links": [
+        {
+          "text": "Mis objetivos (infantil)",
+          "href": "https://www.finanzasparatodos.es/herramientas/mis-objetivos-infantil",
+          "start": 0,
+          "end": 24
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mis deudas¿Está endeudado en exceso?. Calcula tu límite de endeudamiento con esta herramienta. Esta calculadora le permite conocer su nivel de endeudamiento teniendo en cuenta sus ingresos mensuales y el importe de sus deudas (sin contar con la hipoteca).",
+      "links": [
+        {
+          "text": "Mis deudas",
+          "href": "https://www.finanzasparatodos.es/herramientas/mis-deudas",
+          "start": 0,
+          "end": 10
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Priorizar objetivosEsta herramienta te ayuda a clasificar y seleccionar los objetivos según la importancia que tienen para ti. Introduce a continuación al menos dos objetivos financieros.",
+      "links": [
+        {
+          "text": "Priorizar objetivos",
+          "href": "https://www.finanzasparatodos.es/herramientas/priorizar-objetivos",
+          "start": 0,
+          "end": 19
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mi valor netoEsta herramienta te permitirá conocer el valor total de tus bienes y derechos una vez descontadas tus deudas, es decir, tu patrimonio neto personal, para que puedas realizar un seguimiento de la evolución de tus finanzas.",
+      "links": [
+        {
+          "text": "Mi valor neto",
+          "href": "https://www.finanzasparatodos.es/herramientas/mi-valor-neto",
+          "start": 0,
+          "end": 13
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mis finanzas en parejaConoce vuestra compatibilidad financiera con este test de 10 sencillas preguntas.",
+      "links": [
+        {
+          "text": "Mis finanzas en pareja",
+          "href": "https://www.finanzasparatodos.es/como-cuidar-tu-entorno-personal-y-financiero-mi-pareja#compatibilidad",
+          "start": 0,
+          "end": 22
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mi salud financiera¿Te has preguntado cómo te encuentras? ¿Sabes cómo tienes tus niveles de colesterol? ¿Los triglicéridos? …si no te haces una analítica no lo sabrás. Pues también puedes hacer un chequeo para conocer tu salud financiera.",
+      "links": [
+        {
+          "text": "Mi salud financiera",
+          "href": "https://www.finanzasparatodos.es/como-esta-tu-salud-financiera#saludfinanciera",
+          "start": 0,
+          "end": 19
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mi vivienda: ¿Cuál te puedes permitir?Calcula el precio de la casa que puedes comprar en función de la cuota mensual que puedes o quieres pagar.",
+      "links": [
+        {
+          "text": "Mi vivienda: ¿Cuál te puedes permitir?",
+          "href": "https://www.finanzasparatodos.es/herramientas/mi-vivienda",
+          "start": 0,
+          "end": 38
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Alquilar o comprarEsta herramienta te ayudará en la difícil decisión de si comprar o alquilar de una vivienda. Compara los costes de alquiler y compra de una vivienda, según los años que piensas quedarte en la casa.",
+      "links": [
+        {
+          "text": "Alquilar o comprar",
+          "href": "https://www.finanzasparatodos.es/herramientas/comprar-o-alquilar",
+          "start": 0,
+          "end": 18
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mis ahorrosEsta herramienta te permite conocer cuánto dinero podrás acumular en un determinado plazo si ahorras mensualmente una cantidad de dinero.",
+      "links": [
+        {
+          "text": "Mis ahorros",
+          "href": "https://www.finanzasparatodos.es/herramientas/mis-ahorros",
+          "start": 0,
+          "end": 11
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Mi estado ahorro-inversiónEsta herramienta te ayudará a que evalúes tu comportamiento respecto al ahorro y la inversión.",
+      "links": [
+        {
+          "text": "Mi estado ahorro-inversión",
+          "href": "https://www.finanzasparatodos.es/herramientas/estado-ahorro-inversion",
+          "start": 0,
+          "end": 26
+        },
+        {
+          "text": "Mi estado ahorro-inversión",
+          "href": "https://www.finanzasparatodos.es/suscribete-a-nuestra-newsletter",
+          "start": 0,
+          "end": 26
+        }
+      ]
+    }
+  ],
+  "text": "Herramientas\nFiltra por categoría:\n- \n          Mi presupuestoSuena complicado, pero es todo lo contrario. Crear presupuestos es un hábito muy beneficioso que nos permite llevar un control sobre nuestro dinero.\n- \n          Mis caprichosEsta herramienta permite conocer cuánto se puede ahorrar en un tiempo determinado si eliminamos o reducimos gastos. Introduzca al menos un concepto de gasto y su ahorro mensual. Ten en cuenta que hasta los recortes más pequeños pueden significar grandes ahorros.\n- \n          Mi jubilación¿Cuánto necesita ahorrar para su jubilación? ¿Durante cuántos años le durarán sus ahorros después de jubilarse?\n- \n          Mi bebé¿Estás esperando un bebé? Esta herramienta te permitirá planificar los gastos del primer año y ajustarlos en función de tus necesidades.\n- \n          Mis objetivosEsta herramienta te permite conocer cuánto dinero deberás ahorrar mensualmente para conseguir tus objetivos de capital en un determinado plazo.\n- \n          Mis objetivos (infantil)Esta herramienta te permitirá conocer cuánto dinero deberías ahorrar mensualmente para conseguir un objetivo de capital en un determinado plazo. \n- \n          Mis deudas¿Está endeudado en exceso?. Calcula tu límite de endeudamiento con esta herramienta. Esta calculadora le permite conocer su nivel de endeudamiento teniendo en cuenta sus ingresos mensuales y el importe de sus deudas (sin contar con la hipoteca).\n- \n          Priorizar objetivosEsta herramienta te ayuda a clasificar y seleccionar los objetivos según la importancia que tienen para ti. Introduce a continuación al menos dos objetivos financieros.\n- \n          Mi valor netoEsta herramienta te permitirá conocer el valor total de tus bienes y derechos una vez descontadas tus deudas, es decir, tu patrimonio neto personal, para que puedas realizar un seguimiento de la evolución de tus finanzas.\n- \n          Mis finanzas en parejaConoce vuestra compatibilidad financiera con este test de 10 sencillas preguntas.\n- \n          Mi salud financiera¿Te has preguntado cómo te encuentras? ¿Sabes cómo tienes tus niveles de colesterol? ¿Los triglicéridos? …si no te haces una analítica no lo sabrás. Pues también puedes hacer un chequeo para conocer tu salud financiera.\n- \n          Mi vivienda: ¿Cuál te puedes permitir?Calcula el precio de la casa que puedes comprar en función de la cuota mensual que puedes o quieres pagar.\n- \n          Alquilar o comprarEsta herramienta te ayudará en la difícil decisión de si comprar o alquilar de una vivienda. Compara los costes de alquiler y compra de una vivienda, según los años que piensas quedarte en la casa.\n- \n          Mis ahorrosEsta herramienta te permite conocer cuánto dinero podrás acumular en un determinado plazo si ahorras mensualmente una cantidad de dinero.\n- \n          Mi estado ahorro-inversiónEsta herramienta te ayudará a que evalúes tu comportamiento respecto al ahorro y la inversión.",
+  "text_len": 2917,
+  "num_headings": 16,
+  "metadata": {
+    "title": "Herramientas - Finanzas para todos",
+    "url": "https://www.finanzasparatodos.es/herramientas?mdrv=www.finanzasparatodos.es",
+    "hostname": "finanzasparatodos.es",
+    "sitename": "finanzasparatodos.es",
+    "date": "2024-01-01",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Calculadoras y herramientas financieras",
+    "topic": "planificación",
+    "subtopic": "herramientas",
+    "difficulty": "básico",
+    "format": "artículo web",
+    "summary": "Presentación de las calculadoras y herramientas interactivas de Finanzas para Todos: presupuesto, ahorro, jubilación, deudas, hipoteca y más, con enlaces a cada una",
+    "learning_objective": "Conocer qué herramientas interactivas existen y para qué sirve cada una"
+  },
+  "deduped_from": null
+}

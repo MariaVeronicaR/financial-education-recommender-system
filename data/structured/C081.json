@@ -1,0 +1,41 @@
+{
+  "content_id": "C081",
+  "title": "Mis objetivos",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Mis objetivos"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Cuáles son tus objetivos?",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Cuánto dinero necesitarás para cumplirlos? (€)",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Resultados"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ten en cuenta que se trata de un ejemplo meramente didáctico en el que no se tienen en cuenta la inflación y otras variables. Para el cálculo se ha considerado una liquidación mensual de intereses y se ha utilizado el método de interés compuesto.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:28:03.360823+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 2544,
+    "input_tokens": 1825,
+    "output_tokens": 623
+  }
+}

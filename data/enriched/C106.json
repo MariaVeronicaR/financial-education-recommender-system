@@ -1,0 +1,58 @@
+{
+  "content_id": "C106",
+  "tldr": "Esta guía explica cómo tributan en el IRPF las rentas derivadas de las acciones cotizadas. Estas rentas se integran en la base imponible del ahorro, diferenciando entre rendimientos del capital mobiliario (como dividendos) y ganancias o pérdidas patrimoniales (como las de la venta de acciones). La guía detalla cómo se calculan estas rentas, cómo se compensan entre sí y qué tramos de tipos se aplican para liquidar el impuesto.",
+  "key_points": [
+    "Las rentas de las acciones se integran en la base del ahorro del IRPF, no en la base general.",
+    "En la venta de acciones, la ganancia o pérdida patrimonial es la diferencia entre el valor de transmisión y el valor de adquisición, incluyendo gastos y comisiones.",
+    "Se aplica el criterio FIFO: al vender parte de las acciones, se consideran transmitidas primero las más antiguas.",
+    "Los dividendos en efectivo se gravan como rendimientos del capital mobiliario y el intermediario retiene un 19% como pago a cuenta.",
+    "Las pérdidas patrimoniales se pueden compensar con ganancias, con un límite del 25% del saldo positivo, y el exceso se arrastra hasta 4 años.",
+    "La base del ahorro se grava por tramos progresivos que van del 19% al 30% según la cuantía."
+  ],
+  "quiz": [
+    {
+      "question": "Si vendes acciones con beneficio, ¿dónde se integra esa renta en tu declaración del IRPF?",
+      "options": [
+        "En la base imponible general, junto a los salarios",
+        "En la base imponible del ahorro, como ganancia patrimonial",
+        "En la base imponible general, como rendimiento del trabajo",
+        "No tributa hasta que se reinvierta el dinero"
+      ],
+      "correct_index": 1,
+      "explanation": "Las ganancias y pérdidas derivadas de la venta de acciones se integran en la base imponible del ahorro del IRPF.",
+      "concept_id": "C21"
+    },
+    {
+      "question": "Compraste 1.000 acciones en enero y 500 más en junio. En octubre vendes 1.200. ¿Qué valor de adquisición debes usar según el criterio FIFO?",
+      "options": [
+        "El de las 1.200 acciones más recientes (compradas en junio)",
+        "El de las 500 de junio y 700 de enero, en ese orden",
+        "El de las 1.000 de enero y 200 de junio, en ese orden",
+        "Un precio medio ponderado de todas las compras"
+      ],
+      "correct_index": 2,
+      "explanation": "Con el criterio FIFO (First-In, First-Out) se consideran transmitidas primero las acciones más antiguas: las 1.000 de enero y 200 de las de junio.",
+      "concept_id": "C21"
+    },
+    {
+      "question": "Tienes una pérdida patrimonial de 400 € por vender acciones y una ganancia de 100 € por dividendos. ¿Cuánto podrás compensar este año como máximo?",
+      "options": [
+        "Los 400 € completos",
+        "El 100% de la ganancia, es decir 100 €",
+        "Hasta el 25% de la ganancia, es decir 25 €",
+        "Nada, las pérdidas de acciones no se pueden compensar con dividendos"
+      ],
+      "correct_index": 2,
+      "explanation": "Cuando un bloque es negativo y el otro positivo, solo se puede compensar hasta el 25% del saldo positivo; el resto se arrastra hasta 4 años.",
+      "concept_id": "C21"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5118,
+    "input_tokens": 8244,
+    "output_tokens": 972
+  }
+}

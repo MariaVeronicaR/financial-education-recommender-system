@@ -1,0 +1,57 @@
+{
+  "content_id": "C081",
+  "tldr": "Esta herramienta te ayuda a convertir tus objetivos financieros personales en un plan de acción: defines qué metas quieres alcanzar y cuánto dinero necesitas para cumplirlas. El resultado se calcula mediante el método de interés compuesto con liquidación mensual de intereses, aunque se trata de un ejemplo meramente didáctico que no tiene en cuenta la inflación ni otras variables.",
+  "key_points": [
+    "Definir objetivos financieros concretos es el primer paso para convertirlos en un plan de acción.",
+    "Para cada objetivo debes estimar cuánto dinero necesitas para cumplirlo.",
+    "El cálculo usa interés compuesto con liquidación mensual de intereses.",
+    "El resultado es un ejemplo didáctico que no considera la inflación ni otras variables reales.",
+    "Planificar metas te permite calcular cuánto necesitas ahorrar o invertir para alcanzarlas."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cuál es el primer paso para convertir un objetivo financiero en un plan de acción según esta herramienta?",
+      "options": [
+        "Definir qué objetivos tienes y cuánto dinero necesitas para cumplirlos",
+        "Abrir una cuenta bancaria con el banco más barato del mercado",
+        "Contratar un seguro de vida antes de plantear cualquier meta",
+        "Esperar a que suba la inflación para ahorrar más fácilmente"
+      ],
+      "correct_index": 0,
+      "explanation": "La herramienta parte de definir tus objetivos y estimar el dinero necesario para cumplirlos, y a partir de ahí genera el plan de acción.",
+      "concept_id": "C16"
+    },
+    {
+      "question": "¿Qué método de cálculo utiliza esta herramienta para mostrar los resultados de tus objetivos?",
+      "options": [
+        "Interés simple con pago único al final",
+        "Interés compuesto con liquidación mensual de intereses",
+        "Interés compuesto con liquidación anual únicamente",
+        "Tipo de cambio actualizado a diario"
+      ],
+      "correct_index": 1,
+      "explanation": "El texto indica que se considera una liquidación mensual de intereses y se utiliza el método de interés compuesto.",
+      "concept_id": "C06"
+    },
+    {
+      "question": "Según el texto, ¿qué variable NO se tiene en cuenta en este cálculo didáctico?",
+      "options": [
+        "El importe del objetivo",
+        "La inflación",
+        "La liquidación mensual de intereses",
+        "El método de interés compuesto"
+      ],
+      "correct_index": 1,
+      "explanation": "El texto advierte explícitamente de que no se tienen en cuenta la inflación ni otras variables, por lo que el resultado es solo un ejemplo didáctico.",
+      "concept_id": "C07"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5029,
+    "input_tokens": 1309,
+    "output_tokens": 757
+  }
+}

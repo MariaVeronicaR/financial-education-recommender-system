@@ -1,0 +1,93 @@
+{
+  "content_id": "C034",
+  "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/podemosayudarte/simuladores/calculo-del-coste-financiero.html",
+  "source": "Portal Cliente Bancario BdE",
+  "host": "clientebancario.bde.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 31108
+  },
+  "title": "Cálculo del coste financiero",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Cálculo del coste financiero"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Cálculo del coste financiero",
+      "start": 0,
+      "end": 1714,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cálculo del coste financiero"
+    },
+    {
+      "type": "paragraph",
+      "text": "Calcula el coste financiero de tu compra a plazos\nEste simulador permite calcular el coste financiero de un préstamo expresado como tipo de interés anual equivalente a partir del importe a financiar y las mensualidades correspondientes, incluyendo posibles comisiones y otros gastos repercutidos. Se trata de un cálculo «teórico», es decir, que no tiene en cuenta posibles limitaciones normativas aplicables para el cálculo de otras magnitudes como podía ser la TAE.\nA modo de ejemplo y, sin ánimo exhaustivo, este simulador pretende servir de apoyo en operaciones de financiación como una compra aplazada.\nEl tipo «teórico» calculado por este simulador es válido para los datos introducidos y las hipótesis mencionadas más adelante, lo que significa que podría diferir de la TAE ofertada por una entidad si en dicha oferta hubiese condiciones diferentes o adicionales a las aquí planteadas.\nPuedes realizar varias simulaciones y comparar el tipo resultante en cada una de ellas."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Con el fin de que el simulador pueda aplicarse al mayor número posible de casos, en los cálculos se efectúan algunas simplificaciones como las siguientes:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Todos los meses del año tienen igual número de días",
+        "Las cuotas a pagar son iguales todos los meses, salvo la primera y la última, donde existe la opción de especificar una cantidad alternativa",
+        "No existen periodos de carencia. No obstante, se permite hacer el cálculo tanto si la primera cuota se paga en el momento de la formalización como si es un mes más tarde.",
+        "En su caso, es posible indicar el importe de comisiones y otros gastos obligatorios que sean pagaderos en el momento de formalización de la operación de financiación."
+      ]
+    }
+  ],
+  "text": "Cálculo del coste financiero\nCalcula el coste financiero de tu compra a plazos\nEste simulador permite calcular el coste financiero de un préstamo expresado como tipo de interés anual equivalente a partir del importe a financiar y las mensualidades correspondientes, incluyendo posibles comisiones y otros gastos repercutidos. Se trata de un cálculo «teórico», es decir, que no tiene en cuenta posibles limitaciones normativas aplicables para el cálculo de otras magnitudes como podía ser la TAE.\nA modo de ejemplo y, sin ánimo exhaustivo, este simulador pretende servir de apoyo en operaciones de financiación como una compra aplazada.\nEl tipo «teórico» calculado por este simulador es válido para los datos introducidos y las hipótesis mencionadas más adelante, lo que significa que podría diferir de la TAE ofertada por una entidad si en dicha oferta hubiese condiciones diferentes o adicionales a las aquí planteadas.\nPuedes realizar varias simulaciones y comparar el tipo resultante en cada una de ellas.\n- \nCon el fin de que el simulador pueda aplicarse al mayor número posible de casos, en los cálculos se efectúan algunas simplificaciones como las siguientes: \n  - Todos los meses del año tienen igual número de días\n  - Las cuotas a pagar son iguales todos los meses, salvo la primera y la última, donde existe la opción de especificar una cantidad alternativa\n  - No existen periodos de carencia. No obstante, se permite hacer el cálculo tanto si la primera cuota se paga en el momento de la formalización como si es un mes más tarde.\n  - En su caso, es posible indicar el importe de comisiones y otros gastos obligatorios que sean pagaderos en el momento de formalización de la operación de financiación.",
+  "text_len": 1714,
+  "num_headings": 1,
+  "metadata": {
+    "title": "Cálculo del coste financiero",
+    "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/podemosayudarte/simuladores/calculo-del-coste-financiero.html",
+    "hostname": "clientebancario.bde.es",
+    "description": "Cálculo del coste financiero",
+    "sitename": "clientebancario.bde.es",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": true,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Coste financiero de un préstamo",
+    "topic": "préstamos",
+    "subtopic": "coste total",
+    "difficulty": "intermedio",
+    "format": "simulador",
+    "summary": "Calcula el coste total de un préstamo a lo largo de su vida",
+    "learning_objective": "Estimar el coste real de un préstamo"
+  },
+  "deduped_from": null
+}

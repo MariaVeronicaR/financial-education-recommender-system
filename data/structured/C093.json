@@ -1,0 +1,156 @@
+{
+  "content_id": "C093",
+  "title": "CNMV: Curso de decisiones de inversión",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Cómo se mide el riesgo?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La forma habitual con la que, de forma genérica, se mide el riesgo es la volatilidad. Se trata de un cálculo matemático que determina si el precio de un activo durante cierto período de tiempo ha variado mucho respecto a su valor medio.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Si un valor es muy volátil habrá experimentado importantes cambios, por lo que será más difícil predecir su comportamiento y, en consecuencia, incorporará mayor incertidumbre para el inversor. Por lo tanto, a mayor volatilidad, mayor riesgo.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ejemplo de medición del riesgo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Supongamos dos acciones A y B cuyo precio actual es de 100. En los últimos tres años sus cotizaciones han sido:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El valor del activo “A” ha experimentado una gran desviación respecto de su valor medio en 2005 (40-100= -60) y 2006 (160-100= +60), sin embargo la diferencia de los valores de “B” respecto a su valor medio ha sido mucho menor (+10 en 2005 y -10 en 2006). Si calculáramos la volatilidad de ambos valores, veríamos que la de B es inferior a la de A, lo cual quiere decir que, en el caso de A, parece más probable que su valor en el futuro tenga importantes variaciones (para bien o para mal). Si este análisis lo hacemos desde el punto de vista de la rentabilidad, diremos que quien invierta en A puede esperar o una elevada ganancia o una elevada pérdida; sin embargo quien lo haga en B asume (en teoría) menos riesgo a cambio de la posibilidad de obtener una ganancia esperada inferior o de tener que soportar una pérdida menor. Por tanto, si quiero tener la posibilidad de obtener una elevada rentabilidad, entre ambos activos, debería comprar el A, aunque siendo consciente de que ello supone la posibilidad de que tenga que asumir una elevada pérdida.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Este ejemplo es muy simple. En la práctica, para calcular la volatilidad se utilizan mucho más que tres datos. No obstante no se preocupe, usted no tendrá que calcularla ya que, por lo general, será un valor que le proporcionarán los diferentes intermediarios del mercado.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pero supongamos que conocemos la volatilidad de un determinado activo financiero, ¿cómo podemos saber si es alta o baja?. Una opción sería compararla con la de otro activo. Para ello, tendremos que asegurarnos de que ambas se han calculado siguiendo el mismo método y que se refieren al mismo período de tiempo. Otra posibilidad –más sencilla-, es que este dato nos lo hayan “traducido”, así, por ejemplo, en el caso de los fondos de inversión, su folleto informativo nos dice si la volatilidad (calculada de acuerdo con unos criterios fijados por la normativa) es alta, media o baja. En otras ocasiones el riesgo estará expresado en términos de probabilidad. Por ejemplo, nos pueden decir que en determinado producto hay un 10% de probabilidades de tener una pérdida superior al 7% en un año o dicho de otra forma, en un 90% de los casos perderemos como mucho un 7% de nuestra inversión inicial.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Las dos vertientes del riesgo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una persona puede estar dispuesta a realizar inversiones muy arriesgadas -con la esperanza de obtener una rentabilidad alta- y estar totalmente tranquila. Otras, sin embargo, no podrán soportar la idea de que sus inversiones sufran el más mínimo contratiempo, por lo que no le interesará un producto que implique alguna posibilidad de pérdida. Desde este punto de vista, el nivel de riesgo que cada inversor asuma debe permitirle sentirse cómodo con su decisión. Si pasamos las noches en vela preocupados por la evolución de nuestras inversiones, está claro que el nivel de riesgo que hemos asumido no es el adecuado para nosotros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por otro lado tenemos el nivel de gasto que podemos asumir. Es necesario que el riesgo de nuestras inversiones esté en consonancia con nuestra situación financiera y con nuestros objetivos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Si queremos tener una parte de nuestros ahorros disponibles para atender un pago dentro de tres meses, el nivel de riesgo que debemos asumir al invertir será muy bajo, ya que no podremos exponernos a que pasados los tres meses tengamos menos dinero y no podamos atender el pago.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tipos de riesgos financieros"
+    },
+    {
+      "type": "paragraph",
+      "text": "Todos los activos financieros, en mayor o menor medida, incorporan algún tipo de riesgo. Su conocimiento es fundamental antes de invertir. A continuación se detallan los principales riesgos financieros que se asocian a los distintos productos de inversión.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Riesgo de precio"
+    },
+    {
+      "type": "paragraph",
+      "text": "Variación en el precio causada bien por factores específicos del título en particular o a su emisor, bien por factores genéricos que afectan a la evolución de los precios en los mercados de valores (situación económica general, noticias de índole política...).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Si invertimos en acciones de una determinada empresa, corremos el riesgo de que en el futuro esta empresa no logre los resultados esperados (porque los clientes dejan de comprar sus productos o servicios, porque tiene gastos extraordinarios…), y como consecuencia se produzca un descenso del precio de sus acciones en el mercado.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Riesgo de tipo de interés"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las variaciones de tipo de interés afectan al precio de los valores de renta fija (tanto más cuanto mayor sea el plazo que reste para su vencimiento). Cuando los tipos de interés suben, el precio de la renta fija en cartera disminuye y a la inversa.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Si poseo un bono a tipo fijo al que le quedan cinco años para su vencimiento, un aumento de tipos de interés –suponiendo que el resto de factores permanecen constantes- tendrá como consecuencia una reducción en el precio de mercado del bono, por lo que si necesito deshacer mi inversión tendré que hacerlo a un precio inferior al que tenían antes de la subida de tipos.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Riesgo de liquidez"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hace referencia a la posibilidad de deshacer la inversión a su valor de mercado. Una menor liquidez redundará, si el resto de características permanecen iguales, en una mayor rentabilidad exigida. Algunos productos tienen liquidez restirngida a unas determinadas fechas o tienen establecidas comisiones.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En casos de liquidez extrema, puede llegar a resultar imposible recuperar la inversión en el momento deseado.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Con carácter general, puede decirse que los valores cotizados son muy líquidos ya que es fácil venderlos a un valor cierto (la cotización que en ese momento tengan en el mercado).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por el contrario un inmueble es poco líquido ya que hay mayor incertidumbre sobre cuál es su verdadero valor, los costes asociados a la venta pueden ser significativos y si nos corre prisa venderlo, probablemente tendremos que rebajar el precio.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Riesgo de divisa"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es posible que el valor de las inversiones se vea afectado por las variaciones en los tipos de cambio.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Si un inversor español adquiere acciones en dólares, la depreciación -pérdida de valor- del dólar frente al euro incidiría de forma negativa en la rentabilidad final.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:31:22.282186+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 11986,
+    "input_tokens": 3582,
+    "output_tokens": 4266
+  }
+}

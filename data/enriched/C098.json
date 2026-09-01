@@ -1,0 +1,56 @@
+{
+  "content_id": "C098",
+  "tldr": "El PIB mide el valor de la producción total de bienes y servicios de una economía, excluyendo los consumos intermedios e incluyendo los impuestos netos. Puede desagregarse por producto, gasto e ingresos, y sus principales componentes por gasto son el consumo de hogares y administraciones, la formación bruta de capital, la variación de existencias y las importaciones y exportaciones. Se estima en el marco de la Contabilidad Nacional y se presenta en precios corrientes y en índices de volumen que descuentan el efecto de los precios.",
+  "key_points": [
+    "El PIB es el valor de la producción total de bienes y servicios, excluyendo consumos intermedios e incluyendo impuestos netos sobre producción e importaciones.",
+    "Puede desagregarse de tres formas: por producto, por gasto y por ingresos.",
+    "Los agregados de gasto del PIB incluyen el consumo final de hogares y de las AAPP, la formación bruta de capital fijo, la variación de existencias, y las importaciones y exportaciones.",
+    "Se estima en el marco de la Contabilidad Nacional y se presenta en precios corrientes y en índices de volumen que descuentan el efecto de los precios."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué se excluye del cálculo del PIB al medir la producción total de una economía?",
+      "options": [
+        "Los impuestos netos sobre producción e importaciones",
+        "Los consumos intermedios",
+        "La formación bruta de capital fijo",
+        "Las exportaciones de bienes y servicios"
+      ],
+      "correct_index": 1,
+      "explanation": "El PIB mide el valor de la producción total excluyendo los consumos intermedios, para evitar contabilizar doblemente los bienes y servicios usados en la producción.",
+      "concept_id": "C20"
+    },
+    {
+      "question": "¿Cuál de las siguientes NO es una de las tres vías por las que se puede desagregar el PIB?",
+      "options": [
+        "Por producto",
+        "Por gasto",
+        "Por ingresos",
+        "Por tipo de cambio"
+      ],
+      "correct_index": 3,
+      "explanation": "El PIB puede desagregarse por producto, gasto e ingresos; el tipo de cambio no es una de las vías de desagregación del PIB.",
+      "concept_id": "C20"
+    },
+    {
+      "question": "¿Qué diferencia existe entre presentar el PIB en precios corrientes y en índices de volumen?",
+      "options": [
+        "Los índices de volumen descuentan el efecto de los precios, mientras que los precios corrientes no lo hacen",
+        "Los precios corrientes descuentan el efecto de los precios, mientras que los índices de volumen no lo hacen",
+        "Son dos formas idénticas de presentar el mismo dato sin ninguna diferencia",
+        "Los índices de volumen solo incluyen los consumos intermedios"
+      ],
+      "correct_index": 0,
+      "explanation": "Los índices de volumen descuentan el efecto de los precios, permitiendo medir la evolución real de la producción, mientras que los precios corrientes incluyen el efecto de los precios.",
+      "concept_id": "C20"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 4869,
+    "input_tokens": 1404,
+    "output_tokens": 823
+  }
+}

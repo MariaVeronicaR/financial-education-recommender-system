@@ -1,0 +1,58 @@
+{
+  "content_id": "C068",
+  "tldr": "La economía conductual (o psicología económica) complementa a la teoría económica clásica al asumir que los inversores no son plenamente racionales: tienen racionalidad limitada, desconocen a menudo sus preferencias y toman decisiones influidas por emociones e intuición. La guía explica los dos sistemas de pensamiento de Kahneman (Sistema 1 rápido y emocional, y Sistema 2 lento y analítico), los principales sesgos que afectan a las decisiones de inversión (exceso de confianza, anclaje, aversión a las pérdidas, falacia del coste hundido, etc.) y las estrategias para mitigarlos, destacando la educación financiera y el entrenamiento continuo.",
+  "key_points": [
+    "La economía conductual complementa a la teoría clásica: los inversores tienen racionalidad limitada y sus decisiones dependen del contexto y de las emociones.",
+    "Kahneman distingue el Sistema 1 (rápido, instintivo y emocional) del Sistema 2 (lento, analítico y consciente); la mayoría de decisiones diarias las toma el Sistema 1.",
+    "Los sesgos más comunes al invertir incluyen exceso de confianza, anclaje, aversión a las pérdidas, prueba social y falacia del coste hundido.",
+    "La toma de decisiones de inversión tiene tres fases (búsqueda de información, contratación y seguimiento) en las que aparecen sesgos distintos.",
+    "Los sesgos no desaparecen pero sí pueden mitigarse (debiasing) mediante formación, autoconocimiento, entrenamiento y técnicas cognitivas.",
+    "La aversión a las pérdidas hace que el miedo a perder pese más que la posibilidad de ganar, lo que lleva a decisiones irracionales."
+  ],
+  "quiz": [
+    {
+      "question": "Según la economía conductual, ¿qué diferencia fundamental plantea frente a la teoría económica clásica?",
+      "options": [
+        "Que los inversores son plenamente racionales y siempre maximizan su beneficio",
+        "Que los inversores tienen racionalidad limitada y sus decisiones dependen del contexto y las emociones",
+        "Que las emociones nunca influyen en las decisiones financieras",
+        "Que las preferencias de los inversores son estables y no cambian nunca"
+      ],
+      "correct_index": 1,
+      "explanation": "La economía conductual sostiene que los sujetos tienen racionalidad limitada, desconocen a menudo sus preferencias y toman decisiones influidas por el contexto, las emociones y la intuición.",
+      "concept_id": "C12"
+    },
+    {
+      "question": "El experimento de ganar 500 € con seguridad frente a ganar 1000 € con un 50% de probabilidad (y su versión con pérdidas) ilustra principalmente...",
+      "options": [
+        "El sesgo de exceso de confianza",
+        "La aversión a las pérdidas: el miedo a perder pesa más que la posibilidad de ganar",
+        "El efecto halo en la valoración de un producto",
+        "El sesgo de anclaje en los precios pasados"
+      ],
+      "correct_index": 1,
+      "explanation": "Aunque el valor esperado es el mismo, los sujetos eligen la ganancia segura pero asumen más riesgo ante las pérdidas, lo que demuestra que las pérdidas pesan más que las ganancias.",
+      "concept_id": "C13"
+    },
+    {
+      "question": "¿Cuál es una estrategia efectiva para mitigar los sesgos cognitivos en la toma de decisiones de inversión?",
+      "options": [
+        "Confiar únicamente en la intuición del Sistema 1",
+        "Evitar cualquier tipo de formación financiera",
+        "Adquirir educación financiera y entrenamiento continuo, combinado con autoconocimiento y técnicas cognitivas",
+        "Seguir siempre las recomendaciones de amigos y familiares"
+      ],
+      "correct_index": 2,
+      "explanation": "La formación específica y reiterada, junto con la identificación de los sesgos y el entrenamiento constante, son técnicas básicas para mitigar (debiasing) sus efectos.",
+      "concept_id": "C28"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 10176,
+    "input_tokens": 8822,
+    "output_tokens": 1318
+  }
+}

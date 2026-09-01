@@ -1,0 +1,56 @@
+{
+  "content_id": "C049",
+  "tldr": "El interés simple se calcula siempre sobre el capital inicial (principal), por lo que genera la misma cantidad de intereses cada periodo. El interés compuesto suma los intereses al capital, de modo que la base sobre la que se calcula crece y los intereses aumentan periodo a periodo. Con el tiempo, el interés compuesto produce una rentabilidad mucho mayor que el simple.",
+  "key_points": [
+    "A interés simple, los intereses se calculan solo sobre el capital invertido al inicio, así que cada periodo genera la misma cantidad.",
+    "A interés compuesto, los intereses se suman al capital inicial y generan nuevos intereses sobre esa base creciente.",
+    "En el interés compuesto los intereses aumentan en cada periodo porque la tasa se aplica sobre un capital cada vez mayor.",
+    "Con el mismo capital, tipo y plazo, el interés compuesto siempre genera más intereses totales que el simple."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cuál es la diferencia fundamental entre el interés simple y el interés compuesto?",
+      "options": [
+        "En el simple los intereses se suman al capital y en el compuesto no",
+        "En el simple los intereses se calculan solo sobre el capital inicial, mientras que en el compuesto se calculan sobre un capital que crece al sumar los intereses",
+        "El interés compuesto solo se aplica a préstamos y el simple solo a inversiones",
+        "El interés simple siempre es más alto que el compuesto"
+      ],
+      "correct_index": 1,
+      "explanation": "La diferencia clave es que en el interés simple los intereses no se suman al capital, mientras que en el compuesto se suman y producen nuevos intereses sobre una base creciente.",
+      "concept_id": "C05"
+    },
+    {
+      "question": "Con un préstamo de 1.000 € al 3% anual a devolver en dos años, ¿cuánto pagarías en total de intereses si se aplica interés compuesto?",
+      "options": [
+        "60 €",
+        "30,9 €",
+        "60,9 €",
+        "90 €"
+      ],
+      "correct_index": 2,
+      "explanation": "El primer año genera 30 € (3% de 1.000) y el segundo 30,9 € (3% de 1.030), sumando un total de 60,9 € en intereses.",
+      "concept_id": "C06"
+    },
+    {
+      "question": "Si inviertes 1.000 € al 5% de interés compuesto anual, ¿cuánto rentará la inversión durante el segundo año?",
+      "options": [
+        "50 €",
+        "52,50 €",
+        "55,13 €",
+        "51 €"
+      ],
+      "correct_index": 1,
+      "explanation": "El segundo año el interés se calcula sobre 1.050 € (capital inicial más los 50 € del primer año), generando 52,50 €.",
+      "concept_id": "C06"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5268,
+    "input_tokens": 1784,
+    "output_tokens": 1110
+  }
+}

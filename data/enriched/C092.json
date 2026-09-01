@@ -1,0 +1,57 @@
+{
+  "content_id": "C092",
+  "tldr": "Las comisiones bancarias son las cantidades que los bancos te cobran a cambio de prestar servicios como transferencias, administración de cuentas o tarjetas de crédito. Su importe es libre: el Banco de España no lo autoriza ni lo limita, salvo en casos concretos como la amortización anticipada de préstamos. Solo pueden cobrarte por servicios efectivamente prestados y aceptados, y deben informarte del coste por anticipado.",
+  "key_points": [
+    "Las comisiones son el pago que haces al banco por los servicios que te presta (transferencias, administrar la cuenta, tarjetas, etc.).",
+    "El Banco de España no autoriza ni limita el importe de las comisiones: los bancos fijan precios libres, salvo excepciones legales como la cancelación anticipada de préstamos.",
+    "Solo se pueden cobrar comisiones por servicios realmente prestados y que hayas solicitado o aceptado, informándote del importe por adelantado.",
+    "Las comisiones pueden cobrarse juntas (tarifa plana) o por separado, según cada servicio.",
+    "Si cambian las condiciones del contrato, deben avisarte con al menos dos meses de antelación en servicios de pago y un mes en el resto."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué papel juega el Banco de España respecto a las comisiones bancarias?",
+      "options": [
+        "Autoriza y aprueba el importe de todas las comisiones que cobran los bancos",
+        "No puede denegar ni limitar el importe de las comisiones, que son de precio libre",
+        "Fija un precio máximo obligatorio para todas las comisiones",
+        "Prohíbe cobrar comisiones por servicios de pago"
+      ],
+      "correct_index": 1,
+      "explanation": "Las tarifas de las comisiones son libres: el Banco de España no las autoriza, deniega ni limita, salvo operaciones concretas limitadas por norma.",
+      "concept_id": "C18"
+    },
+    {
+      "question": "¿En qué situación un banco puede cobrarte una comisión?",
+      "options": [
+        "Por cualquier servicio, aunque no lo hayas solicitado, siempre que aparezca en su tarifario",
+        "Solo por servicios efectivamente prestados que hayas solicitado o aceptado, informándote del importe por adelantado",
+        "Siempre que el importe esté aprobado previamente por el Banco de España",
+        "Por cualquier gasto interno del banco, aunque no esté relacionado con tu operación"
+      ],
+      "correct_index": 1,
+      "explanation": "Las comisiones y gastos deben responder a servicios efectivamente prestados o gastos habidos, y debes ser informado personalmente y por anticipado del importe.",
+      "concept_id": "C18"
+    },
+    {
+      "question": "¿Qué antelación mínima debe darte el banco si modifica las condiciones de un servicio de pago de tu contrato?",
+      "options": [
+        "Una semana antes de su aplicación",
+        "Un mes antes de su aplicación",
+        "Al menos dos meses antes de su aplicación",
+        "No está obligado a avisar con antelación"
+      ],
+      "correct_index": 2,
+      "explanation": "En los servicios de pago, los cambios en las condiciones deben comunicarse con al menos dos meses de antelación (un mes en el resto de servicios).",
+      "concept_id": "C18"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5188,
+    "input_tokens": 1635,
+    "output_tokens": 963
+  }
+}

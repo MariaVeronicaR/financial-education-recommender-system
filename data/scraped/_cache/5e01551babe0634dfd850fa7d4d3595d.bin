@@ -1,0 +1,1454 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="zXuWZ2HBh4AF0dc483vMnG0EUshHJNoZxXV8ElpmdqIytd398E1q5oxyf47EvVYYfC6ItoxavmdjtOg+fHNLMA==" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="turbolinks-visit-control" content="reload" />
+    <meta name="turbolinks-cache-control" content="no-cache" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- Prefetch DNS for external assets -->
+    <link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+    <link rel="dns-prefetch" href="//cdn.jsdeliver.net">
+    <link rel="dns-prefetch" href="//fonts.googleapis.com">
+    <link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+    <link rel="dns-prefetch" href="//www.google-analytics.com">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+
+    <link rel="alternate" hreflang="x-default" href="" />
+
+    <title>¿Cómo elaborar un presupuesto? - Finanzas para todos</title>
+
+
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+
+<!-- OpenGraph meta tags -->
+<meta property="og:title" content="¿Cómo elaborar un presupuesto? - Finanzas para todos" >
+<meta property="og:description" content="" />
+<meta property="og:url" content="https://www.finanzasparatodos.es/como-elaborar-un-presupuesto?mdrv=www.finanzasparatodos.es" />
+
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="¿Cómo elaborar un presupuesto? - Finanzas para todos" />
+<meta name="twitter:description" content="" />
+
+
+
+    
+    
+    <link rel="icon" type="image/png" href="/system/themes/favicons/000/000/001/icon_16/favicon.png?1623999802" sizes="16x16">
+<link rel="icon" type="image/png" href="/system/themes/favicons/000/000/001/icon_32/favicon.png?1623999802" sizes="32x32">
+<link rel="icon" type="image/png" href="/system/themes/favicons/000/000/001/icon_96/favicon.png?1623999802" sizes="48x48">
+<link rel="icon" type="image/png" href="/system/themes/favicons/000/000/001/icon_96/favicon.png?1623999802" sizes="96x96">
+<link rel="icon" type="image/png" href="/system/themes/favicons/000/000/001/icon_128/favicon.png?1623999802" sizes="128x128" />
+<link rel="icon" type="image/png" href="/system/themes/favicons/000/000/001/icon_196/favicon.png?1623999802" sizes="196x196" />
+<link rel="apple-touch-icon" sizes="57x57" href="/system/themes/favicons/000/000/001/apple_57/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="114x114" href="/system/themes/favicons/000/000/001/apple_114/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="72x72" href="/system/themes/favicons/000/000/001/apple_72/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="144x144" href="/system/themes/favicons/000/000/001/apple_144/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="60x60" href="/system/themes/favicons/000/000/001/apple_60/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="120x120" href="/system/themes/favicons/000/000/001/apple_120/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="76x76" href="/system/themes/favicons/000/000/001/apple_76/favicon.png?1623999802">
+<link rel="apple-touch-icon" sizes="152x152" href="/system/themes/favicons/000/000/001/apple_152/favicon.png?1623999802">
+<meta name="application-name" content=""/>
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="/system/themes/favicons/000/000/001/microsoft_144_144/favicon.png?1623999802" />
+<meta name="msapplication-square70x70logo" content="/system/themes/favicons/000/000/001/microsoft_70_70/favicon.png?1623999802" />
+<meta name="msapplication-square150x150logo" content="/system/themes/favicons/000/000/001/microsoft_150_150/favicon.png?1623999802" />
+<meta name="msapplication-wide310x150logo" content="/system/themes/favicons/000/000/001/microsoft_310_150/favicon.png?1623999802" />
+<meta name="msapplication-square310x310logo" content="/system/themes/favicons/000/000/001/microsoft_310_310/favicon.png?1623999802" />
+
+
+    <link rel="stylesheet" media="screen" href="/assets/bran-debb89733483192c11a3f7b9c8222fc2668ae7b3d25f0e85714df44e2eef0f93.css" />
+    <script src="/assets/bran-60b10e6d9311277f3705ea822157903aa9656b447d433a68a4c5962d54b4e2c4.js" data-turbolinks-track="reload"></script>
+    <script src="/assets/vue-a39105980ecfdd5de117fa346346b7d5d52ae2093a595756b2c8633211cc60e5.js" data-turbolinks-track="reload"></script>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css">
+    <script src="https://kit.fontawesome.com/ab5948c228.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <link href="//fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap" rel="stylesheet">
+
+    <!-- Minified version of `es6-promise-auto` below. -->
+    <link rel="stylesheet" media="all" href="/assets/application-198f7990a1fa6c6c76c8971a0703979c681f4e053ea529e42f2fa15c481b3a57.css" />
+    <link rel="stylesheet" media="print" href="/assets/print-374cb3225461848bff5a26e6e20d7e27cb45f8938ec02215f8a83f3b832ebb73.css" />
+    <link rel="stylesheet" media="all" href="/assets/calculators/budget-8236363937c653255688bfb856f76e9425369c7c8d57af3bdf5fbbe383d4eff4.css" />
+    <script src="/assets/es6-promise.min-173deb7f35e65fb560772937033e0c20de960a3298b26aea613550bd52c1416a.js" data-turbolinks-track="reload"></script>
+    <script src="/assets/application-da106754795db4befd4f298786ba2785c5d355a713cf32ee3e10aaef5ffc24f9.js" data-turbolinks-track="reload"></script>
+
+      <link rel="stylesheet" media="all" href="/assets/vue_components/components-abd5cf45a1ab606e2b1f747e63eff4c7df3e2837051e83a72ff554c91472ccd4.css" />
+      <script src="/assets/vue_components/components-f8a1ae606e36089235ee36dd66f5bf3be1559f0d98aa67b17fca11334c18c7d1.js"></script>
+
+
+      <script type="text/javascript" data-turbolinks="false">
+        if( Cookies != undefined ) {
+          if (Cookies.get('analitica') != undefined && Cookies.get('analitica') != '') {
+            document.write("<scri" + "pt async src=https://www.googletagmanager.com/gtag/js?id=UA-16149208-1></scri" + "pt>")
+            document.write("<scri" + "pt>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'UA-16149208-1');</scri" + "pt>");
+
+            document.write("<scri" + "pt async src=https://www.googletagmanager.com/gtag/js?id=AW-16490246036></scri" + "pt>")
+            document.write("<scri" + "pt>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'AW-16490246036');</scri" + "pt>");
+          }
+        }
+      </script>
+
+      <!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s) {if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)}; if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0'; n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s)}(window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js'); fbq('init', '422038013715751'); fbq('track', 'PageView');
+</script>
+
+<noscript>
+    <img height="1" width="1" style="display:none" src=https://www.facebook.com/tr?id=422038013715751&ev=PageView&noscript=1 />
+</noscript>
+<!-- End Meta Pixel Code -->
+
+    
+    
+    
+    
+    
+    <style type="text/css">
+  .c-box__herramienta .c-budget__row {
+      flex-direction: column;
+    }
+@media (min-width: 1024px) {
+ 
+ .c-box__herramienta .c-budget__row {
+        flex-direction: row;
+      }
+  }
+
+  .visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    -webkit-
+ clip-path: inset(50%);
+    clip-path: inset(50%);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width:
+ 1px;
+    white-space: nowrap;
+  }
+  .c-box__herramienta .c-budget__row {
+      flex-direction: column;
+    }
+@media (min-width: 1024px) {
+    .c-box__herramienta .c-budget__row {
+        flex-direction: row;
+      }
+  }
+ 
+  html[lang="en"] .c-header__top_der {
+    display: none; !important;
+  }
+
+  
+</style>
+    <script src="/assets/chart-fee081ed1e1d5304e4e9a79e5caf917c4bc6eddc5baaa34d37849b4eabdd4e43.js"></script>
+    <script type="text/javascript">
+      $(document).on('turbolinks:load', function(){ images_lazy_loading(); });
+    </script>
+  </head>
+
+  <body class="t-por-defecto
+               
+               "
+        data-controller-name="content_localizeds"
+        data-action-name="show"
+        data-id="26">
+    <a class="visually-hidden-focusable visuallyhidden" href="#content">Saltar al contenido principal</a>
+    
+
+    
+
+
+
+      
+<div class="wrapper c-template--home" id="wrapper">
+  <header class="c-header" data-spy="affix" data-offset-top="1">
+    <div class="c-header__top">
+      <div class="container">
+        <div class="row align-items-center">
+          <div class="col col-12 u-align--space">
+            <div class="c-header__logo">
+                <div class="c-header__logo">
+    <a title="Finanzas para todos" href="/">
+      <img class="positive" alt="" src="/system/themes/logos/000/000/001/original/finanzas.png?1614951093" />
+      <img class="negative" alt="" src="/system/themes/logo_negatives/000/000/001/original/finanzas_affix.png?1614951096" />
+      
+</a>  </div>
+
+            </div>
+
+            <div class="c-header__top_center">
+                <nav class="c-header__nav navbar navbar-expand-md navbar-dark">
+    <button id="burger" class="open-main-nav navbar-toggler collapsed" type="button">
+      <span class="sr-only">Menú de navegación</span> <span class="burger navbar-toggler-icon"></span>
+    </button>
+
+    <div class="navbar-collapse collapse" id="navbarsExampleDefault" style="">
+      
+  <ul class="navbar-nav">
+
+        <li class="nav-item first-level  with--children">
+          <a class="no-link" aria-haspopup="true" aria-controls="submenu-5" aria-expanded="false" rel="" accesskey="" aria-expanded="false" href="/descubre">Descubre</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-5">
+                <a class="c-secondary__menu_close" href="#">
+                  <i class="fa fa-times" aria-hidden="true"></i> Cerrar
+</a>              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="a" href="/como-esta-tu-salud-financiera"><span>1</span>¿Cómo está tu salud financiera?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="b" href="/como-elaborar-un-presupuesto"><span>2</span>¿Cómo elaborar tu presupuesto?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="c" href="/c-mo-gestionar-mis-deudas"><span>3</span>¿Cómo gestionar tus deudas?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  with--children">
+          <a class="nav-link" aria-haspopup="true" aria-controls="submenu-12" aria-expanded="false" rel="" accesskey="d" href="/como-cuidar-tu-entorno"><span>4</span>¿Cómo cuidar tu entorno personal y financiero?</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-12">
+              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-banco-yo">El banco y yo</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-trabajo">El trabajo</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-hogar">El hogar</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-mi-pareja">La pareja</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-familia">La familia</a>
+
+
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="e" href="/como-preparar-mi-jubilacion"><span>5</span>¿Cómo preparar tu jubilación?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="f" href="/c-mo-invertir-tu-dinero"><span>6</span>¿Cómo invertir tu dinero?</a>
+
+
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+
+        <li class="nav-item first-level  with--children">
+          <a class="no-link" aria-haspopup="true" aria-controls="submenu-4" aria-expanded="false" rel="" aria-expanded="false" href="/participa">Participa</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-4">
+                <a class="c-secondary__menu_close" href="#">
+                  <i class="fa fa-times" aria-hidden="true"></i> Cerrar
+</a>              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="g" href="/red-de-colaboradores"><span><i class="fas fa-handshake"></i></span>Red del Plan</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="external" accesskey="h" href="/diadelaeducacionfinanciera"><span><i class="fas fa-user-graduate"></i></span>Día de la Educación Financiera</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="i" href="/premios-de-educacion-financiera"><span><i class="fas fa-award"></i></span>Premios de Educación Financiera</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="k" href="/participa/concurso-escolar-de-educacion-financiera"><span><i class="fas fa-trophy"></i></span>Concurso Escolar de Educación Financiera</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  with--children">
+          <a class="nav-link" aria-haspopup="true" aria-controls="submenu-145" aria-expanded="false" rel="" href="/participa/profesores"><span><i class="fa-solid fa-person-chalkboard"></i></span>Profesores</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-145">
+              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="" href="/participa/profesores/primaria">Primaria</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="" href="/participa/profesores/secundaria">ESO, Bachillerato y FP</a>
+
+
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+
+        <li class="nav-item first-level  with--children">
+          <a class="no-link" aria-haspopup="true" aria-controls="submenu-3" aria-expanded="false" rel="" aria-expanded="false" href="/aprende">Aprende</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-3">
+                <a class="c-secondary__menu_close" href="#">
+                  <i class="fa fa-times" aria-hidden="true"></i> Cerrar
+</a>              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="l" href="/herramientas"><span><i class="fas fa-tools"></i></span>Herramientas</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="m" href="/videos"><span><i class="fas fa-play-circle"></i></span>Vídeos</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="n" href="/podcasts"><span><i class="fas fa-microphone"></i></span>Podcasts</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="o" href="/guias"><span><i class="fas fa-book-open"></i></span>Guías</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="p" href="/cursos-y-webinars"><span><i class="fas fa-laptop"></i></span>Cursos y webinars</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="q" href="/glosario"><span><i class="fas fa-sort-alpha-down-alt"></i></span>Glosario</a>
+
+
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+
+        <li class="nav-item first-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="q" href="/quienes-somos">Quiénes somos</a>
+
+
+
+        </li>
+
+        <li class="nav-item first-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="r" href="/blog">Blog</a>
+
+
+
+        </li>
+
+        <li class="nav-item first-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="s" href="/notas-de-prensa">Notas de Prensa</a>
+
+
+
+        </li>
+  </ul>
+
+    </div>
+  </nav>
+
+            </div>
+
+            <div class="c-header__top_der">
+              <div class="c-user__login js--user-login"></div>
+              <a class="form-inline form-navbar my-2 my-lg-0 js--search" href="/site/1/lang/es/search">
+  <span class="u-hidden">Buscar</span> <i class="fas fa-search" aria-hidden="true"></i> <span class="sr-only">Buscador</span>
+</a>
+<div class="c-search__modal js--search-modal u-hidden">
+  <a class="js--close-search-modal" href="/site/1/lang/es/search">
+    Salir <i class="fas fa-times"></i>
+</a>  
+  <form class="c-form" action="/site/1/lang/es/search" accept-charset="UTF-8" method="get">
+    <p><span class="u-h3">Encuentra lo que estás buscando</span></p>
+
+    <label for="modal_search">
+      ¿Qué estás buscando?
+      <input type="text" name="search" id="modal_search" class="form-control" placeholder="Fondos de inversión, ahorros, presupuestos ..." />
+</label>
+    <label for="category_ids_">
+      Categoría
+      <select name="category_ids[]" id="category_ids_" class="form-control"><option value="">Categoría</option><option value="1">Planificación y presupuesto</option>
+<option value="2">Endeudamiento</option>
+<option value="3">Productos y operaciones bancarias</option>
+<option value="4">Ahorro e inversión</option>
+<option value="5">Seguros y jubilación</option>
+<option value="6">Reclamaciones y fraude</option>
+<option value="7">Hogar</option>
+<option value="8">Jubilación</option>
+<option value="9">Criptomonedas</option></select>
+</label>
+    <div class="u-text--right">
+      <button name="button" type="submit" class="btn btn--submit" data-disable-with="Buscando ..." value="Buscar">
+        <i class="fas fa-search" aria-hidden="true"></i>  Buscar
+</button>    </div>
+</form></div>
+                <div class="c-language__selector">
+    <div class="dropdown show">
+      <a class="dropdown-toggle" href="#" role="button" id="language-selector" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-controls="language-selector-menu" aria-label="Cambiar idioma">
+        <span class="name">es</span>
+      </a>
+
+      <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="language-selector" id="language-selector-menu" role="menu" lang="es">
+          <li>
+            <a class="dropdown-item" title="" role="menuitem" href="/ca/inici">
+              <span class="name">Catalán</span>
+</a>          </li>
+          <li>
+            <a class="dropdown-item" title="" role="menuitem" href="/eu/hasiera">
+              <span class="name">Euskera</span>
+</a>          </li>
+          <li>
+            <a class="dropdown-item" title="" role="menuitem" href="/ga/inicio">
+              <span class="name">Gallego</span>
+</a>          </li>
+          <li>
+            <a class="dropdown-item" title="" role="menuitem" href="/va/inici">
+              <span class="name">Valenciano</span>
+</a>          </li>
+      </ul>
+    </div>
+  </div>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main id="content">
+      
+  <section class="c-breadcrumbs">
+    <div class="container">
+      <div class="row">
+        <div class="col col-sm-12" role="navigation" aria-label="Migas de pan">
+          <ul>
+              <li>
+                <a href="/">
+                  <i class="fas fa-home"></i> Inicio
+</a>                <span class="c-breadcrumbs__separator"></span>
+              </li>
+
+
+              <li aria-current="page">¿Cómo elaborar tu presupuesto?</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+      <section class="u-primary--background c-header_image_container " 
+           style="background: url(/system/cms_multimedia/cms_medias/files/000/000/032/original/bg_presupuestador_intro.jpg?1615473447) 50% 0 / cover no-repeat;">
+    <div class="header_image">
+      <div class="container ">
+        <h1>¿Cómo elaborar tu presupuesto?</h1>
+          <p></p>
+
+      </div>
+    </div>
+  </section>
+
+
+                
+
+
+              
+
+
+
+<link rel='stylesheet' href='/contents/css/26/1760429177.css' />
+
+              <section class="u-relative dot-animation c-banda-intro c-banda-intro--button "
+         data-content-embedded-section-id="104"
+         
+         >
+
+
+    <div class="dot-animation container  "
+  data-content-embedded-row-id="134"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 col-md-5 "
+     data-content-embedded-column-id="194"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="242" 
+      >
+  
+  <p><img alt=""  loading="lazy" src="/system/cms_multimedia/cms_medias/files/000/000/069/original/foto_crea_presu.jpg?1619172340">​​​​​​​</p>
+</div>
+
+</div>
+      <div class="dot-animation col col-12 col-md-6 "
+     data-content-embedded-column-id="195"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="243" 
+      >
+  
+  <div class="u-blue-light--background">El presupuesto es la herramienta más eficaz para sacar partido a nuestro dinero. Tener un presupuesto nos permite identificar en qué gastamos nuestros ingresos y hacer los ajustes necesarios para lograr nuestros objetivos a corto, medio y largo plazo.</div>
+</div>
+
+</div>
+  </div>
+</div>
+
+
+</section>
+
+  <section class="u-relative dot-animation u-primary--background u-align--left "
+         data-content-embedded-section-id="107"
+         
+         >
+
+
+    <div class="dot-animation container  "
+  data-content-embedded-row-id="137"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 col-md-6 "
+     data-content-embedded-column-id="199"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="247" 
+      >
+  
+  <p><img alt=""  loading="lazy" src="/system/cms_multimedia/cms_medias/files/000/000/071/original/foto_consejos.png?1619173103">​​​​​​​</p>
+</div>
+
+</div>
+      <div class="dot-animation col col-12 col-md-5 "
+     data-content-embedded-column-id="200"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="248" 
+      >
+  
+  <p><br></p><h2 class="u-h2">Razones para elaborar tu presupuesto personal o plan financiero:</h2><p>Suena complicado, pero es todo lo contrario. Crear presupuestos es un hábito muy beneficioso que nos permite llevar un control y saber:</p><ul><li>¿En qué se nos va el dinero?</li><li>Priorizar gastos</li><li>Reducir o eliminar deudas</li><li>Ahorrar un poco todos los meses</li><li>Acumular para un fondo de emergencia</li><li>Vivir dentro de nuestras posibilidades, con tranquilidad</li><li>Hacer previsiones de futuro.</li><li>Llevar un seguimiento y control para no desviarnos</li></ul><p><br></p>
+</div>
+
+</div>
+  </div>
+</div>
+
+
+</section>
+
+  <section class="u-relative dot-animation c-banda-border "
+         data-content-embedded-section-id="108"
+         
+         >
+
+
+    <div class="dot-animation container  without--margin u-align--center "
+  data-content-embedded-row-id="503"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 col-md-5 "
+     data-content-embedded-column-id="787"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="869" 
+      >
+  
+  <h2>¿Cómo elaborar un presupuesto?</h2><p>Aunque cada caso es un mundo, estos son algunos de los objetivos financieros más aconsejables:</p>
+</div>
+
+</div>
+      <div class="dot-animation col col-12 col-md-6 "
+     data-content-embedded-column-id="788"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="868" 
+      >
+  
+  <p><img alt=""  loading="lazy" src="/system/cms_multimedia/cms_medias/files/000/000/297/original/group-copy.png?1624873460"></p>
+</div>
+
+</div>
+  </div>
+</div>
+
+  <div class="dot-animation container u-container--medium  without--margin c-banda-border "
+  data-content-embedded-row-id="484"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 "
+     data-content-embedded-column-id="754"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="836" 
+      >
+  
+  
+<div class="c-references__collapses">
+  <div aria-multiselectable="true" class="accordion panel-group index-list-collapse" id="accordion-1624020238" role="tablist">
+      <div class="content-word-panel">
+        <div class="c-word-circle">
+          <p>1</p>
+        </div>
+
+        <div class="panel panel-default">
+          <div class="content-panel">
+            <div class="panel-heading" id="heading-1624020238" role="tab">
+              <span class="panel-title"> 
+                <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1624020238" aria-expanded="true" aria-controls="collapse-1624020238">
+                  Identifica ingresos y gastos
+                </a>
+              </span>
+            </div>
+
+            <div id="collapse-1624020238" class="panel-collapse collapse" aria-labelledby="heading-1624020238" data-parent="#accordion-1624020238">
+              <div class="panel-body">
+                <p><strong>Ingresos:</strong></p><p>Empezamos por poner en una lista todas las entradas de dinero. Las más importantes suelen ser la nómina o la pensión en caso de jubilados, pero no te olvides de otros posibles ingresos como pensiones alimenticias, intereses de cuentas bancarias, subvenciones, trabajos extras y percepciones de sistemas de previsión social.</p><p><strong>Gastos:</strong></p><p>Los gastos son todas las salidas de dinero. Para saber realmente en qué situación estamos, hay que incluir todos los gastos actuales, desde la vivienda hasta los pequeños desembolsos diarios, o bien aproximaciones de los mismos. Y no debe olvidar otros gastos ocasionales como vacaciones, regalos de cumpleaños y compras de Navidad, o gastos imprevistos que puedan surgir.</p><p>Hay que identificar y apuntar todos los gastos, por pequeños que sean.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="content-word-panel">
+        <div class="c-word-circle">
+          <p>2</p>
+        </div>
+
+        <div class="panel panel-default">
+          <div class="content-panel">
+            <div class="panel-heading" id="heading-1624020290" role="tab">
+              <span class="panel-title"> 
+                <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1624020290" aria-expanded="true" aria-controls="collapse-1624020290">
+                  Clasificar gastos
+                </a>
+              </span>
+            </div>
+
+            <div id="collapse-1624020290" class="panel-collapse collapse" aria-labelledby="heading-1624020290" data-parent="#accordion-1624020238">
+              <div class="panel-body">
+                <p>La clave está en priorizar.</p><p>Hay que clasificarlos en las siguientes categorías:</p><p><strong>Gastos fijos obligatorios: </strong>como la hipoteca o alquiler de la casa, los gastos de comunidad y las cuotas de otros préstamos. Hay que pagarlos y su importe no suele ser negociable ni varía mucho mes a mes. Si no se abonan al banco dentro de los plazos establecidos, se podrán aplicar gastos adicionales de demora, aumentando cada vez más la deuda y la cantidad a pagar.</p><p><strong>Gastos variables necesarios:</strong> comida, ropa, electricidad, etc. Son gastos necesarios para vivir pero con los que podemos ahorrar si hacemos un uso racional o haciendo pequeños recortes: comparar precios, comprar marcas más económicas, andar o utilizar transporte público en vez de pagar gasolina y parking, coger el autobús o metro en vez de un taxi, etc.</p><p><strong>Gastos discrecionales:</strong> todos los demás gastos que, en caso de necesidad, se podrían reducir o eliminar. Suelen ser gastos para cosas que nos suelen gustar, pero que no son realmente imprescindibles.</p><p>Cuando hay que recortar, deben ser los primeros. Todos podemos identificar gastos superfluos que podríamos utilizar para otros fines más productivos.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="content-word-panel">
+        <div class="c-word-circle">
+          <p>3</p>
+        </div>
+
+        <div class="panel panel-default">
+          <div class="content-panel">
+            <div class="panel-heading" id="heading-1624020298" role="tab">
+              <span class="panel-title"> 
+                <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1624020298" aria-expanded="true" aria-controls="collapse-1624020298">
+                  Práctica y seguimiento
+                </a>
+              </span>
+            </div>
+
+            <div id="collapse-1624020298" class="panel-collapse collapse" aria-labelledby="heading-1624020298" data-parent="#accordion-1624020238">
+              <div class="panel-body">
+                <p>Es posible que tengas que hacer ajustes ya que las cantidades presupuestadas para ciertos gastos posiblemente no resulten realistas. A lo mejor el gasto en otros conceptos es menor de lo que pensabas. Es normal revisar varias veces el presupuesto para que se ajuste a la realidad con objetivos alcanzables.</p><p>Si tus ingresos aumentan, no dejes que tus gastos aumenten por igual importe.</p><p>Revisa el<strong> IPC</strong> (índices de precios al consumo). Recuerda que, en caso de inflación, aumentaría el coste de la vida. Una tasa anual de inflación del 3% mantenido en el tiempo, significaría que todo costaría el doble dentro de 24 años. Es decir, dentro de 24 años se necesitaría el doble de dinero para mantener el mismo nivel de vida que se disfruta hoy.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+</div>
+
+</div>
+  </div>
+</div>
+
+
+</section>
+
+  <section class="u-relative dot-animation u-primary--background "
+         data-content-embedded-section-id="106"
+         
+         >
+
+
+    <div class="dot-animation container  without--margin u-align--space "
+  data-content-embedded-row-id="136"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 col-md-5 "
+     data-content-embedded-column-id="197"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="245" 
+      >
+  
+  <p><span class="u-blue-light u-text-uppercase">HERRAMIENTA</span></p><h2 class="u-h2">Saca partido a tu dinero creando un presupuesto de forma fácil</h2><p><a class="c-button__primary"  href="/herramientas/presupuestador">Calcula tu presupuesto <i aria-hidden="true" class="fas fa-arrow-right"></i></a></p>
+</div>
+
+</div>
+      <div class="dot-animation col col-12 col-md-6 "
+     data-content-embedded-column-id="198"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="246" 
+      >
+  
+  <p>​​​​​​​<img alt=""  loading="lazy" src="/system/cms_multimedia/cms_medias/files/000/000/070/original/foto_herramienta.png?1619172506" style="float: right;"></p>
+</div>
+
+</div>
+  </div>
+</div>
+
+
+</section>
+
+  <section class="u-relative dot-animation "
+         data-content-embedded-section-id="109"
+         
+         >
+
+
+    <div class="dot-animation container u-container--mini  "
+  data-content-embedded-row-id="140"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 "
+     data-content-embedded-column-id="203"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="251" 
+      >
+  
+  <h3 style="text-align: center;"><span class="u-h2">Para gestionar mejor tu presupuesto, te recomendamos:</span></h3>
+</div>
+
+</div>
+  </div>
+</div>
+
+  <div class="dot-animation container u-container--medium  "
+  data-content-embedded-row-id="141"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 "
+     data-content-embedded-column-id="204"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="252" 
+      >
+  
+  
+<div class="c-references__collapses">
+  <div class="accordion panel-group index-list-collapse" id="accordion-1619177398">
+      <div class="panel panel-default">
+        <div id="heading-1619177398" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1619177398" aria-expanded="true" aria-controls="collapse-1619177398">
+              Sé sincero contigo mismo
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1619177398" class="panel-collapse collapse" aria-labelledby="heading-1619177398" data-parent="#accordion-1619177398">
+          <div class="panel-body">
+            <p>Sé sincero sobre cuánto te gastas al mes. Coteja las cifras con la realidad.</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1619178733" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1619178733" aria-expanded="true" aria-controls="collapse-1619178733">
+              Cuenta con los tuyos
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1619178733" class="panel-collapse collapse" aria-labelledby="heading-1619178733" data-parent="#accordion-1619177398">
+          <div class="panel-body">
+            <p>Si vives en pareja o tienes familia, involúcralos en el presupuesto.</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1619178738" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1619178738" aria-expanded="true" aria-controls="collapse-1619178738">
+              La organización es clave
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1619178738" class="panel-collapse collapse" aria-labelledby="heading-1619178738" data-parent="#accordion-1619177398">
+          <div class="panel-body">
+            <p>Se metódico y clasifica, ordena y guarda tus papeles y documentos.</p><p>Busca un sistema para hacer un seguimiento de los gastos que resulte cómodo para todos: apunta los gastos en una agenda, calendario o en algún programa de ordenador.</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1619178749" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1619178749" aria-expanded="true" aria-controls="collapse-1619178749">
+              Apúntalo todo
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1619178749" class="panel-collapse collapse" aria-labelledby="heading-1619178749" data-parent="#accordion-1619177398">
+          <div class="panel-body">
+            <p>Apunta en el calendario las fechas de los vencimientos de pagos: contribución, impuestos de circulación, pólizas de seguros, cuotas de préstamos y todos los recibos domiciliados. Esta previsión te evitará sorpresas y penalizaciones por demoras o por saldo negativo</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1619179168" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1619179168" aria-expanded="true" aria-controls="collapse-1619179168">
+              Revisa todos tus movimientos
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1619179168" class="panel-collapse collapse" aria-labelledby="heading-1619179168" data-parent="#accordion-1619177398">
+          <div class="panel-body">
+            <p>Comprueba los movimientos de cuentas, los recibos domiciliados y los resúmenes de tarjetas de crédito de forma regular y contacta con tu entidad de crédito si no entiendes un apunte o si crees que hay un error.</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1619178757" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1619178757" aria-expanded="true" aria-controls="collapse-1619178757">
+              Controla regularmente tu presupuesto
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1619178757" class="panel-collapse collapse" aria-labelledby="heading-1619178757" data-parent="#accordion-1619177398">
+          <div class="panel-body">
+            <p>Controla regularmente tu presupuesto: mide tus gastos y repasa tus cuentas bancarias con frecuencia. Si es necesario, haz los ajustes oportunos para hacer frente a algún imprevisto</p>
+          </div>
+        </div>
+      </div>
+      <div class="panel panel-default">
+        <div id="heading-1623325675" class="panel-heading">
+          <span class="panel-title">
+            <a class="collapsed" type="button" data-toggle="collapse" data-target="#collapse-1623325675" aria-expanded="true" aria-controls="collapse-1623325675">
+              Págate a ti mismo y ahorra
+            </a>
+          </span>
+        </div>
+
+        <div id="collapse-1623325675" class="panel-collapse collapse" aria-labelledby="heading-1623325675" data-parent="#accordion-1619177398">
+          <div class="panel-body">
+            <p>Aunque no es un <em>gasto fijo obligatorio</em>, en el caso de que sea posible, es muy útil destinar todos los meses una cantidad de <strong>dinero al ahorro</strong>. Es decir, asumir la obligación de pagarte una cantidad fija cada mes antes de presupuestar otros conceptos variables y no tan necesarios. De este modo podremos ahorrar sin darnos cuenta.</p>
+          </div>
+        </div>
+      </div>
+  </div>
+</div>
+</div>
+  <div class="dot-animation " 
+      data-content-embedded-app-id="913" 
+      >
+  
+  <p>Apuntar los ingresos y los gastos permite prever cuándo necesitarás emplear fondos adicionales procedentes del ahorro o de préstamos e identificar qué gastos podrías reducir o aplazar hasta un momento de mayor desahogo económico.</p>
+</div>
+
+</div>
+  </div>
+</div>
+
+
+</section>
+
+  <section class="u-relative dot-animation u-primary--background "
+         data-content-embedded-section-id="366"
+         
+         >
+
+
+    <div class="dot-animation container  "
+  data-content-embedded-row-id="502"
+  
+  >
+
+  <div class="row">
+      <div class="dot-animation col col-12 col-md-5 "
+     data-content-embedded-column-id="785"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="866" 
+      >
+  
+  <p><br></p><p><br></p><p><span class="u-blue-light u-text-uppercase">HERRAMIENTA</span></p><p><span class="u-h2">Ahorrar para disfrutar</span></p><p>Esta herramienta permite conocer cuánto se puede ahorrar en un tiempo determinado si eliminamos o reducimos gastos. Introduzca al menos un concepto de gasto y su ahorro mensual.</p><p>Ten en cuenta que hasta los recortes más pequeños pueden significar grandes ahorros.</p><p><br></p><p><a class="c-button__primary"  href="/herramientas/mis-caprichos">Mis caprichos<i class="fas fa-arrow-right" aria-hidden="true"></i></a></p>
+</div>
+
+</div>
+      <div class="dot-animation col col-12 col-md-6 "
+     data-content-embedded-column-id="786"
+     
+     >
+
+      <div class="dot-animation " 
+      data-content-embedded-app-id="867" 
+      >
+  
+  <p><img alt="null"  loading="lazy" src="/system/cms_multimedia/cms_medias/files/000/000/225/original/group-copy-4.png?1621507401" style="float: right; width: 500px; height: 518px;"></p>
+</div>
+
+</div>
+  </div>
+</div>
+
+
+</section>
+
+
+
+
+    <section class="c-banda-newsletter u-third--background" style="display: none;">
+      <div class="container">
+        <div class="row u-space-between u-align--center">
+          <div class="col col-12 col-md-6 c-suscribete__text">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="21" 
+      >
+  
+  <p><span class="u-h2">¡No te pierdas nada!</span></p><p>Mantente al día de todas las novedades de Finanzas para Todos suscribiéndote a nuestra newsletter. Todas las novedades sobre finanzas, en tu correo.</p>
+</div>
+
+
+          </div>
+          <div class="col col-12 col-md-6 u-text--right c-suscribete__button">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="22" 
+      >
+  
+  <p style="text-align: right;"><a  href="/suscribete-a-nuestra-newsletter" class="c-button__transparent">Suscríbete</a></p>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="c-footer">
+    <div class="c-footer__logos">
+      <div class="container">
+        <div class="row">
+          <div class="col col-12">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="12" 
+      >
+  
+  <p><a  href="/" title="Enlace para volver a página de inicio de Finanzas para todos">​​​​​​​​​​​​​​<img alt="Enlace para volver a página de inicio de Finanzas para todos" class="c-footer__logo"  loading="lazy" src="/system/cms_multimedia/cms_medias/files/000/000/001/original/finanzas.png?1615388008" style="margin-top: 5px; margin-bottom: 5px;"></a>   <img alt="Plan de Educación Financiera, CNMV, Banco de España, Gobierno de España y Ministerio de economía, comercio y empresa"  loading="lazy" src="https://www.finanzasparatodos.es/system/cms_multimedia/cms_medias/files/000/002/720/original/plan-educacion-financiera-cobranding.png?1734424908"></p>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <div class="c-footer__top">
+      <div class="container">
+        <div class="row">
+          <div class="col col-12 col-md-3">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="15" 
+      >
+  
+  <p><a  href="/quienes-somos" title="Quiénes somos">Quiénes somos</a></p><p><a  href="/actualidad" title="Blog">Blog</a></p><p><a  href="/notas-de-prensa" title="Notas de prensa">Notas de prensa</a></p><p><a  href="/teachers/sign_up?lang=es&site_id=1" title="Registro profesores">Registro profesores</a></p><p><a  href="/collaborators/sign_up?lang=es&site_id=1" title="Registro colaboradores">Registro colaboradores</a></p><p><a  href="/legal" title="Legal">Legal</a></p><p><a  href="/accesibilidad" title="Accesibilidad">Accesibilidad</a></p><p><a  href="/contacto" title="Contacto">Contacto</a></p>
+</div>
+
+
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="14" 
+      >
+  
+  <ul class="social-sharing"><li style="text-align: center;"><a  href="https://twitter.com/finanzaspartods?s=11" target="_blank" title="Ir a Twitter de Finanzas para Todos">​​​​​​​<img alt=""  loading="lazy" src="/system/cms_multimedia/cms_medias/files/000/002/419/original/x.png?1695135771" style="width: 20px; height: 19px; margin-top: -6px;"> <span class="sr-only">Twitter</span></a></li><li style="text-align: center;"><a  href="https://instagram.com/finanzaspartods?utm_medium=copy_link" target="_blank" title="Ir a Instagram de Finanzas para Todos"><i aria-hidden="true" class="fab fa-instagram-square"></i><span class="sr-only">Instagram</span></a></li><li style="text-align: center;"><a  href="https://www.facebook.com/FinanzasParaTodos.educacionfinanciera" target="_blank" title="Ir a Facebook de Finanzas para Todos"><i aria-hidden="true" class="fab fa-facebook-square"></i><span class="sr-only">Facebook</span></a></li><li style="text-align: center;"><a  href="https://youtube.com/user/finanzasparatodosESP" target="_blank" title="Ir a Youtube de Finanzas para Todos"><i aria-hidden="true" class="fab fa-youtube-square"></i><span class="sr-only">Youtube​​​​​​​</span></a></li></ul>
+</div>
+
+
+          </div>
+
+          <div class="col col-12 col-md-3">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="16" 
+      >
+  
+  <p><span class="u-third--color">Descubre</span></p><ul><li><a  href="/como-esta-tu-salud-financiera" title="">1. ¿Cómo está tu salud financiera?</a></li><li><a  href="/como-elaborar-un-presupuesto">2. ¿Cómo elaborar tu presupuesto?</a></li><li><a  href="/c-mo-gestionar-mis-deudas" title="">3. ¿Cómo gestionar tus deudas?</a></li><li><a  href="/c-mo-cuidar-tu-entorno-personal-y-financiero" title="">4. ¿Cómo cuidar tu entorno personal y financiero?</a></li><li><a  href="/como-preparar-mi-jubilacion" title="">5. ¿Cómo preparar tu jubilación?</a></li><li><a  href="/c-mo-invertir-mi-dinero" title="">6. ¿Cómo invertir tu dinero?</a></li></ul>
+</div>
+
+
+          </div>
+
+          <div class="col col-12 col-md-3">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="17" 
+      >
+  
+  <p><span class="u-blue">Participa</span></p><ul><li><a  href="/collaborators/login?lang=es&site_id=1" title="Red de  Colaboradores">Red de  Colaboradores</a></li><li><a  href="/teachers/login?lang=es&site_id=1" title="Profesores">Profesores </a></li><li><a  href="/d-a-de-la-educaci-n-financiera" title="Día de la Educación Financiera">Día de la Educación Financiera </a></li><li><a  href="/premios-de-educacion-financiera" title="Premios de la Educación Financiera">Premios de la Educación Financiera</a></li><li><br></li></ul>
+</div>
+
+
+          </div>
+
+          <div class="col col-12 col-md-3">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="18" 
+      >
+  
+  <p><span class="u-secondary--color">Aprende</span></p><ul><li><a  href="/herramientas-list" title="Herramientas">Herramientas</a></li><li><a  href="/videos" title="Videos">Videos</a></li><li><a  href="/podcasts" title="Podcasts">Podcasts</a></li><li><a  href="/guias" title="Guías">Guías</a></li><li><a  href="/cursos-y-webinars" title="Cursos, talleres, seminarios, webinars">Cursos y webinars</a></li><li><a  href="/glosario" title="Glosario">Glosario</a></li></ul>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+        
+    <div class="c-footer__bottom">
+      <div class="container">
+        <div class="row">
+          <div class="col col-12 col-md-12 u-text--right">
+            
+              <div class="dot-animation " 
+      data-content-embedded-app-id="13" 
+      >
+  
+  <p style="text-align: left;">2024 © Plan de Educación Financiera. CNMV,  Banco de España y Mº de Asuntos Económicos y TD. Todos los derechos reservados      <a  href="/pol-tica-de-privacidad">Política de Privacidad</a> · <a  href="/pol-tica-de-cookies">Cookies</a> · <a  href="/legal">Aviso legal</a> · <a  href="/accesibilidad">Accesibilidad</a></p>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </footer>
+</div>
+
+  <nav id="c-nav__mobile" class="c-nav__mobile" data-mmenu-position="right">
+    
+  <ul class="navbar-nav">
+
+        <li class="nav-item first-level  with--children">
+          <a class="no-link" rel="" accesskey="" aria-expanded="false" href="/descubre">Descubre</a>
+          
+            
+  <ul class="navbar-nav">
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="a" href="/como-esta-tu-salud-financiera"><span>1</span>¿Cómo está tu salud financiera?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="b" href="/como-elaborar-un-presupuesto"><span>2</span>¿Cómo elaborar tu presupuesto?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="c" href="/c-mo-gestionar-mis-deudas"><span>3</span>¿Cómo gestionar tus deudas?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  with--children">
+          <a class="nav-link" aria-haspopup="true" aria-controls="submenu-12" aria-expanded="false" rel="" accesskey="d" href="/como-cuidar-tu-entorno"><span>4</span>¿Cómo cuidar tu entorno personal y financiero?</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-12">
+              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-banco-yo">El banco y yo</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-trabajo">El trabajo</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-hogar">El hogar</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-mi-pareja">La pareja</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" href="/como-cuidar-tu-entorno-personal-y-financiero-familia">La familia</a>
+
+
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="e" href="/como-preparar-mi-jubilacion"><span>5</span>¿Cómo preparar tu jubilación?</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="f" href="/c-mo-invertir-tu-dinero"><span>6</span>¿Cómo invertir tu dinero?</a>
+
+
+
+        </li>
+  </ul>
+                                    
+        </li>
+
+        <li class="nav-item first-level  with--children">
+          <a class="no-link" rel="" aria-expanded="false" href="/participa">Participa</a>
+          
+            
+  <ul class="navbar-nav">
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="g" href="/red-de-colaboradores"><span><i class="fas fa-handshake"></i></span>Red del Plan</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="external" accesskey="h" href="/diadelaeducacionfinanciera"><span><i class="fas fa-user-graduate"></i></span>Día de la Educación Financiera</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="i" href="/premios-de-educacion-financiera"><span><i class="fas fa-award"></i></span>Premios de Educación Financiera</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="k" href="/participa/concurso-escolar-de-educacion-financiera"><span><i class="fas fa-trophy"></i></span>Concurso Escolar de Educación Financiera</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  with--children">
+          <a class="nav-link" aria-haspopup="true" aria-controls="submenu-145" aria-expanded="false" rel="" href="/participa/profesores"><span><i class="fa-solid fa-person-chalkboard"></i></span>Profesores</a>
+
+
+            <div class="c-secondary__menu" aria-controls="submenu-145">
+              
+              <div class="container">
+                
+  <ul class="navbar-nav">
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="" href="/participa/profesores/primaria">Primaria</a>
+
+
+
+        </li>
+
+        <li class="nav-item third-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="" href="/participa/profesores/secundaria">ESO, Bachillerato y FP</a>
+
+
+
+        </li>
+  </ul>
+
+             </div>
+           </div>                                               
+
+        </li>
+  </ul>
+                                    
+        </li>
+
+        <li class="nav-item first-level  with--children">
+          <a class="no-link" rel="" aria-expanded="false" href="/aprende">Aprende</a>
+          
+            
+  <ul class="navbar-nav">
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="l" href="/herramientas"><span><i class="fas fa-tools"></i></span>Herramientas</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="m" href="/videos"><span><i class="fas fa-play-circle"></i></span>Vídeos</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="n" href="/podcasts"><span><i class="fas fa-microphone"></i></span>Podcasts</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="o" href="/guias"><span><i class="fas fa-book-open"></i></span>Guías</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="p" href="/cursos-y-webinars"><span><i class="fas fa-laptop"></i></span>Cursos y webinars</a>
+
+
+
+        </li>
+
+        <li class="nav-item second-level  ">
+          <a class="nav-link" aria-haspopup="false" aria-controls="" aria-expanded="" rel="" accesskey="q" href="/glosario"><span><i class="fas fa-sort-alpha-down-alt"></i></span>Glosario</a>
+
+
+
+        </li>
+  </ul>
+                                    
+        </li>
+
+        <li class="nav-item first-level  ">
+          <a class="nav-link" rel="" accesskey="q" href="/quienes-somos">Quiénes somos</a>
+          
+        </li>
+
+        <li class="nav-item first-level  ">
+          <a class="nav-link" rel="" accesskey="r" href="/blog">Blog</a>
+          
+        </li>
+
+        <li class="nav-item first-level  ">
+          <a class="nav-link" rel="" accesskey="s" href="/notas-de-prensa">Notas de Prensa</a>
+          
+        </li>
+
+    <li>
+      <form class="c-form" action="/site/1/lang/es/search" accept-charset="UTF-8" method="get">
+        <label for="mobile_search">
+          <span class="u-hidden">Fondos de inversión, ahorros, presupuestos ...</span>
+          <input type="text" name="search" id="mobile_search" class="form-control" placeholder="Fondos de inversión, ahorros, presupuestos ..." />
+</label>    
+        <button name="button" type="submit" class="btn btn--submit" value="Buscar">
+          <span class="u-hidden">Buscar</span>
+          <i class="fas fa-search" aria-hidden="true"></i>
+          <span class="sr-only">Buscador</span>
+</button></form>    </li>
+  </ul>
+
+  </nav>
+
+
+    
+    
+    <div id="c-cookies__modal" class="modal modal-cookies fade" tabindex="-1" role="dialog" aria-hidden="true" data-keyboard="false" data-backdrop="static">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+    </div>
+  </div>
+</div>
+    
+    
+    
+  </body>
+</html>

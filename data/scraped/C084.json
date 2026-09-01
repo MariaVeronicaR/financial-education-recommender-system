@@ -1,0 +1,82 @@
+{
+  "content_id": "C084",
+  "url": "https://www.finanzasparatodos.es/seguros",
+  "source": "Finanzas para Todos",
+  "host": "www.finanzasparatodos.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 37160
+  },
+  "title": "Seguros -",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Seguros"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Seguros",
+      "start": 0,
+      "end": 1337,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Seguros"
+    },
+    {
+      "type": "paragraph",
+      "text": "25/03/2022\nHoy, hablamos de los seguros.\nTodos corremos riesgos en nuestra vida diaria. ¿Sabes que de algunos de esos riesgos te puedes proteger?\nSí. Piensa en tu teléfono móvil o tu consola de videojuegos, se pueden caer y estropear a consecuencia de la caída o pueden sustraértelos.\nEl seguro, a cambio de una cantidad de dinero, que es el precio del seguro, cubre el importe que va a suponerte la pérdida o el daño, si se producen esos supuestos.\nY si te compras una motocicleta vas a tener que contratar un seguro, en este caso obligatorio. El objeto de este seguro es proteger a las víctimas de accidentes de tráfico si eres el responsable del accidente. Y si, por ejemplo, estás federado en algún deporte, estás cubierto por un seguro que cubre las lesiones que puedas sufrir en las competiciones e incluso en los entrenamientos.\nCasi hay un seguro para cada situación, aunque puede haber situaciones o riesgos no cubiertos.\nTus padres seguramente tendrán contratado un seguro de hogar que les indemnizará en caso de incendio de vuestra vivienda, o si se producen daños por agua. También hay seguros de ahorro en los que, mediante aportaciones periódicas de dinero, se obtiene una determinada suma de dinero o una renta en la fecha de jubilación.\nContesta ahora a las siguientes preguntas:\nCategorías"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Seguros y jubilación"
+      ]
+    }
+  ],
+  "text": "Seguros\n25/03/2022\nHoy, hablamos de los seguros.\nTodos corremos riesgos en nuestra vida diaria. ¿Sabes que de algunos de esos riesgos te puedes proteger?\nSí. Piensa en tu teléfono móvil o tu consola de videojuegos, se pueden caer y estropear a consecuencia de la caída o pueden sustraértelos.\nEl seguro, a cambio de una cantidad de dinero, que es el precio del seguro, cubre el importe que va a suponerte la pérdida o el daño, si se producen esos supuestos.\nY si te compras una motocicleta vas a tener que contratar un seguro, en este caso obligatorio. El objeto de este seguro es proteger a las víctimas de accidentes de tráfico si eres el responsable del accidente. Y si, por ejemplo, estás federado en algún deporte, estás cubierto por un seguro que cubre las lesiones que puedas sufrir en las competiciones e incluso en los entrenamientos.\nCasi hay un seguro para cada situación, aunque puede haber situaciones o riesgos no cubiertos.\nTus padres seguramente tendrán contratado un seguro de hogar que les indemnizará en caso de incendio de vuestra vivienda, o si se producen daños por agua. También hay seguros de ahorro en los que, mediante aportaciones periódicas de dinero, se obtiene una determinada suma de dinero o una renta en la fecha de jubilación.\nContesta ahora a las siguientes preguntas:\nCategorías\n- Seguros y jubilación",
+  "text_len": 1337,
+  "num_headings": 1,
+  "metadata": {
+    "title": "Seguros -",
+    "url": "https://www.finanzasparatodos.es/seguros",
+    "hostname": "finanzasparatodos.es",
+    "sitename": "finanzasparatodos.es",
+    "date": "2022-03-25",
+    "tags": [
+      "#Educaciónfinanciera #GlobalMoneyWeek2022 #GMW2022"
+    ],
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Seguros: conceptos y coberturas",
+    "topic": "riesgo",
+    "subtopic": "seguros",
+    "difficulty": "intermedio",
+    "format": "artículo web",
+    "summary": "Información institucional sobre finalidad, tipos y coberturas de seguros",
+    "learning_objective": "Distinguir prima, cobertura, exclusiones y riesgo asegurado"
+  },
+  "deduped_from": null
+}

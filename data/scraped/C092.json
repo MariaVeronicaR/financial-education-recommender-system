@@ -1,0 +1,94 @@
+{
+  "content_id": "C092",
+  "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/podemosayudarte/comisiones/que-son-las-comisiones-bancarias/",
+  "source": "Portal Cliente Bancario BdE",
+  "host": "clientebancario.bde.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 29187
+  },
+  "title": "Qué son las comisiones bancarias",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Qué son las comisiones bancarias"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Qué son las comisiones bancarias",
+      "start": 0,
+      "end": 1678,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Qué son las comisiones bancarias"
+    },
+    {
+      "type": "paragraph",
+      "text": "Son las cantidades que los bancos te adeudan como contraprestación a los servicios que prestan (por ejemplo, enviar una transferencia, cambiar divisas, administrar una cuenta, estudiar la viabilidad de un préstamo, concederte una tarjeta de crédito, etc.).\nLos bancos pueden también repercutirte el coste de los gastos justificados que tengan que pagar a terceros para poder prestar el servicio que le has solicitado. Las comisiones pueden cobrarse juntas, como un solo cargo genérico (es el caso de las llamadas tarifas planas) o separadas, es decir, un cargo individualizado por cada servicio prestado.\nHay que tener en cuenta que:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Las tarifas o precios de las comisiones bancarias son libres. El Banco de España no autoriza ni consiente, no puede denegar, ni limitar, el importe de las comisiones bancarias. Los bancos pueden poner el importe o precio que estimen oportuno, salvo en aquellas operaciones bancarias en las que los importes estén limitados por norma, como sucede –por ejemplo- con la cancelación o amortización anticipada de un préstamo hipotecario o de un crédito al consumo."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Las comisiones bancarias y los gastos deben responder a servicios efectivamente prestados o gastos habidos. No pueden cobrarte por servicios que no hayas solicitado o aceptado. En todo caso, deberá informarte personalmente y por anticipado del importe que vas a pagar por ese servicio.\nCuando se modifiquen las condiciones que afectan a los contratos, deberán comunicar a los clientes afectados, con una antelación a su aplicación de al menos dos meses en los servicios de pago y un mes en el resto, si la duración del contrato rebasa tal plazo."
+    }
+  ],
+  "text": "Qué son las comisiones bancarias\nSon las cantidades que los bancos te adeudan como contraprestación a los servicios que prestan (por ejemplo, enviar una transferencia, cambiar divisas, administrar una cuenta, estudiar la viabilidad de un préstamo, concederte una tarjeta de crédito, etc.).\nLos bancos pueden también repercutirte el coste de los gastos justificados que tengan que pagar a terceros para poder prestar el servicio que le has solicitado. Las comisiones pueden cobrarse juntas, como un solo cargo genérico (es el caso de las llamadas tarifas planas) o separadas, es decir, un cargo individualizado por cada servicio prestado.\nHay que tener en cuenta que:\n- \nLas tarifas o precios de las comisiones bancarias son libres. El Banco de España no autoriza ni consiente, no puede denegar, ni limitar, el importe de las comisiones bancarias. Los bancos pueden poner el importe o precio que estimen oportuno, salvo en aquellas operaciones bancarias en las que los importes estén limitados por norma, como sucede –por ejemplo- con la cancelación o amortización anticipada de un préstamo hipotecario o de un crédito al consumo.\n- \nLas comisiones bancarias y los gastos deben responder a servicios efectivamente prestados o gastos habidos. No pueden cobrarte por servicios que no hayas solicitado o aceptado. En todo caso, deberá informarte personalmente y por anticipado del importe que vas a pagar por ese servicio.\nCuando se modifiquen las condiciones que afectan a los contratos, deberán comunicar a los clientes afectados, con una antelación a su aplicación de al menos dos meses en los servicios de pago y un mes en el resto, si la duración del contrato rebasa tal plazo.",
+  "text_len": 1678,
+  "num_headings": 1,
+  "metadata": {
+    "title": "Qué son las comisiones bancarias",
+    "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/podemosayudarte/comisiones/que-son-las-comisiones-bancarias/",
+    "hostname": "clientebancario.bde.es",
+    "description": "Qué son las comisiones bancarias",
+    "sitename": "clientebancario.bde.es",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": true,
+  "csv_meta": {
+    "title": "Qué son las comisiones bancarias",
+    "topic": "cuentas bancarias",
+    "subtopic": "comisiones",
+    "difficulty": "básico",
+    "format": "artículo web",
+    "summary": "Conceptos y límites regulatorios sobre las comisiones que cobran las entidades financieras",
+    "learning_objective": "Conocer los derechos y obligaciones del cliente sobre comisiones"
+  },
+  "deduped_from": null
+}

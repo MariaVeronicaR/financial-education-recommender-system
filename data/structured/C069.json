@@ -1,0 +1,479 @@
+{
+  "content_id": "C069",
+  "title": "Los fondos de inversión y la inversión colectiva",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "I. Introducción"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión iniciaron su andadura en España a mediados de los 60. Desde entonces, se han configurado como uno de los productos preferidos por los inversores españoles. Existe una tipología de fondos extraordinariamente variada, que permite encontrar productos adecuados para cualquier perfil inversor, desde los más conservadores a los más dispuestos a asumir riesgos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La complejidad de los mercados no sólo pone en un primer plano las responsabilidades de los profesionales sino también las de los inversores, que han de asumir un papel activo en la selección del fondo que mejor se adapta a sus expectativas. Antes de suscribir participaciones de un fondo concreto es fundamental conocer aquellas características que resultan esenciales para tomar una decisión de inversión, como el horizonte temporal, la liquidez del producto o el riesgo de pérdidas, entre otras. Con este fin es imprescindible que los inversores conviertan en un hábito la consulta de la documentación oficial, especialmente el DFI (documento con datos fundamentales para el inversor) y los informes periódicos.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. Conceptos básicos para entender los fondos de inversión"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión son instituciones de inversión colectiva: esto implica que los resultados individuales están en función de los rendimientos obtenidos por un colectivo de inversores.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En realidad, un fondo de inversión es un patrimonio sin personalidad jurídica. Este patrimonio se forma por la agregación de los capitales aportados por un número variable de personas (los partícipes).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Puesto que carece de personalidad jurídica, el fondo de inversión se “relaciona” con el entorno (partícipes, intermediarios, mercados) a través de una sociedad gestora y una entidad depositaria. Las funciones de ambas están claramente definidas:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "La sociedad gestora adopta las decisiones de inversión y ejerce todas las funciones de administración y representación del fondo. Por tanto, es la sociedad gestora quien invierte el capital aportado por los ahorradores (partícipes) en los distintos activos financieros que constituyen la cartera del fondo: renta fija, renta variable, derivados, depósitos bancarios, etc. Entre otras obligaciones, la gestora debe elaborar un folleto y el DFI en el que se recogen las características del fondo, como se irá viendo a lo largo de esta Guía.",
+        "La entidad depositaria custodia el patrimonio del fondo (valores, efectivo) y asume ciertas funciones de control sobre la actividad de la gestora, en beneficio de los partícipes."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "La unidad de inversión es la participación. Su precio o valor de mercado es el valor liquidativo, que se calcula dividiendo el patrimonio total del fondo por el número de participaciones en circulación en cada momento. El manejo de estos conceptos se detalla en el siguiente capítulo: “Cómo se determina la rentabilidad de un fondo”.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ejemplo 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "El 1 de enero comienza a funcionar el Fondo de Inversión XXX, con cuatro partícipes: el señor A, el señor B, la señora C y la señora D. Cada uno aporta 100 euros, con lo cual el fondo inicia su andadura con un patrimonio inicial de 400 euros. En este caso, cada uno de los inversores es titular de una participación que vale 100 euros. El fondo tiene 4 participaciones en circulación.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La Gestora YYY, encargada de la representación y administración del fondo, invierte esos 400 euros en los mercados de valores, de manera que la cartera presenta la siguiente composición:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos valores son administrados por el Depositario ZZZ.",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Valor de renta fija 1: 50 euros",
+        "Valor de renta fija 2: 100 euros",
+        "Valor de renta variable 3: 125 euros",
+        "Valor de renta variable 4: 100 euros",
+        "Liquidez: 25 euros",
+        "TOTAL CARTERA: 400 euros"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "El patrimonio del fondo puede aumentar o disminuir por dos motivos:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Entradas o salidas de partícipes: los fondos de inversión son instituciones de carácter abierto, es decir, en general cualquier inversor puede entrar o salir del fondo según su conveniencia, comprando o vendiendo participaciones. La compra de participaciones se denomina suscripción, y la venta supone un reembolso, parcial o total, de la cantidad invertida. Por tanto, el número de participaciones en circulación varía constantemente, a medida que los inversores entran o salen del fondo.",
+        "Variaciones en el valor de mercado de los activos que componen la cartera del fondo. Estas fluctuaciones en la valoración de la cartera son las que determinan la obtención de resultados positivos o negativos para el fondo y, en consecuencia, para cada uno de los partícipes."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Una característica muy importante de los fondos es que los resultados, ya sean beneficios o pérdidas, no son percibidos de manera efectiva por el inversor mientras no se produzca el reembolso de las participaciones. El tratamiento fiscal de las participaciones en fondos de inversión resulta ventajoso porque hasta el momento del reembolso no se tributa por las plusvalías.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los rendimientos de los fondos de inversión tienen la consideración de ganancia o pérdida patrimonial.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A cambio de contar con una gestión profesional de sus inversiones, el partícipe paga ciertas comisiones que varían según los fondos (y que se detallan en su folleto explicativo), dentro de unos límites máximos fijados por la ley.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por una parte, las comisiones de gestión y depositaría son cargadas al fondo de forma directa (por la sociedad gestora y por el depositario, respectivamente), por lo que deben restarse del patrimonio del fondo para calcular la rentabilidad que obtiene el inversor. Además, para algunos fondos, la gestora puede cobrar directamente al partícipe comisiones por la suscripción y/o el reembolso de las participaciones.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ejemplo 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un mes después de comenzar a funcionar el Fondo XXX, la cartera tiene los siguientes valores de mercado:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque unos valores han evolucionado mejor que otros, el conjunto de la cartera se ha revalorizado hasta los 411 euros. Sin embargo, para calcular el patrimonio hay que restar los 2 euros de comisión de gestión cargados por la Gestora YYY más 1 euro que percibe el Banco Depositario ZZZ por sus servicios de administración de los valores.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por tanto, el patrimonio del fondo asciende a 408 euros. El precio unitario de cada participación (valor liquidativo) es ahora de 102 euros. Hasta el momento, cada partícipe registra una plusvalía de 2 euros.",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "MES ANTERIOR / MES ACTUAL",
+        "Valor de renta fija 1: 50 euros / 55 euros",
+        "Valor de renta fija 2: 100 euros / 100 euros",
+        "Valor de renta variable 3: 125 euros / 117 euros",
+        "Valor de renta variable 4: 100 euros / 115 euros",
+        "Liquidez: 25 euros / 24 euros",
+        "TOTAL CARTERA: 400 euros / 411 euros"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "III. Cómo se determina la rentabilidad de un fondo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Como se explicaba en el capítulo anterior, la unidad de inversión en un fondo es la participación. El valor liquidativo es el precio de cada participación en un momento dado.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En los fondos tradicionales, este cálculo es realizado por la gestora diariamente. La difusión del valor liquidativo es obligatoria a través de la página web de la entidad; también suele realizarse a través de la prensa o de difusores de información económica como Bloomberg, Reuters, etc.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La rentabilidad se calcula como el porcentaje de variación del valor liquidativo entre la fecha de suscripción y la fecha de reembolso.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Rentabilidad = (Valor liquidativo final – Valor liquidativo inicial) / Valor liquidativo inicial x 100",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Valor liquidativo (V.L) = Patrimonio del fondo / Nº de participaciones en circulación",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Más adelante se explica cómo determinados tipos de instituciones de inversión colectiva, debido a la naturaleza y características de los activos en los que invierten, pueden calcular el valor liquidativo con periodicidad superior: mensual, trimestral...",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "De forma excepcional, algunos fondos pueden distribuir parte del beneficio entre los partícipes, en lugar de acumularlo al patrimonio del fondo. En estos casos, para calcular la rentabilidad obtenida habría que sumar el beneficio distribuido al valor liquidativo final.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ejemplo"
+    },
+    {
+      "type": "paragraph",
+      "text": "La familia Gómez suscribió hace 2 años 50 participaciones del Fondo AAA, a un precio de 1.000 euros cada participación. En este momento, el valor liquidativo es de 1.025 euros. Los señores Gómez deciden recuperar la mitad de su inversión, y reembolsan 25 participaciones. Aplicando la fórmula anterior, se concluye que la rentabilidad de esta inversión ha sido del 2,50%: invirtieron 25.000 euros y han recibido 25.625.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Dos meses después, para hacer frente a un pago inesperado, reembolsan el resto de sus participaciones. Sin embargo, los mercados han evolucionado a la baja y el valor liquidativo es de 985 euros. En este caso, se ha producido una rentabilidad negativa del –1,50%: invirtieron 25.000 euros y han recuperado 24.625.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El ejemplo muestra cómo la rentabilidad puede ser tanto positiva como negativa, según la evolución del valor liquidativo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Debe tenerse en cuenta que esta manera de calcular la rentabilidad nos indica la variación del valor liquidativo en un periodo de tiempo que no tiene por qué coincidir con el año. Es decir, en el primer caso, el inversor ha obtenido una rentabilidad del 2,50% en un periodo de 2 años. Para poder comparar estos rendimientos con los de otros productos que suelen expresarse en términos de interés anual, sería necesario anualizar la rentabilidad (el ejemplo correspondería a un rendimiento anual del 1,24%). Asimismo, es importante considerar que la existencia de comisiones de suscripción o de reembolso (establecidas en su caso en el folleto del fondo) reducirá la rentabilidad final de la inversión.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "IV. ¿Tienen riesgos los fondos de inversión?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Como cualquier otro producto de inversión, los fondos de inversión implican ciertos riesgos. La naturaleza y el alcance de los riesgos dependerán del tipo de fondo, de sus características individuales (definidas en el folleto), y de los activos en los que finalmente se invierta el patrimonio.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En consecuencia, la elección entre los distintos tipos de fondos debe hacerse teniendo en cuenta la capacidad y el deseo de asumir riesgos por parte del ahorrador, así como su horizonte temporal de inversión (especialmente cuando se trata de fondos garantizados). En general, los fondos de inversión permiten controlar los riesgos, debido a que la diversificación favorece la compensación de resultados positivos y negativos de diferentes activos. Sin embargo, en modo alguno puede excluirse la posibilidad de sufrir pérdidas: al fin y al cabo, el capital está invertido en valores cuyo precio oscila en función de la evolución de los mercados financieros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por tanto, lo primero que el inversor debe analizar es hasta qué punto está dispuesto a asumir la posibilidad de que, al solicitar el reembolso de la inversión, ésta valga menos que en el momento de la compra.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay dos elementos que pueden ayudar al inversor a tener una idea más aproximada del riesgo que incorpora un determinado fondo de inversión: la volatilidad y la duración.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La volatilidad nos indica si históricamente los valores liquidativos del fondo han experimentado variaciones importantes o si, por el contrario, han evolucionado de manera estable. Un fondo muy volátil tiene más riesgo porque es difícil prever si el valor liquidativo va a subir o a bajar. Por tanto, en el momento del reembolso, lo mismo podrían obtenerse ganancias significativas que pérdidas importantes.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Si el inversor adopta la volatilidad como criterio de decisión, debe tener en cuenta que existen distintas formas de cálculo y presentación (diaria, mensual, anualizada o sin anualizar...). Por eso es aconsejable seleccionar una fuente de confianza y ceñirse a la misma, ya que los datos de distintas fuentes pueden no ser del todo comparables.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La duración (o plazo medio de vencimiento) es un concepto que permite estimar cómo responderán los activos de renta fija ante variaciones de los tipos de interés (riesgo de tipo de interés). Cuando los tipos suben, los valores de renta fija en la cartera del fondo pierden valor. Y al contrario si los tipos bajan. Este efecto se acusa menos para valores a corto plazo. Por eso, a mayor duración más sensibilidad y más riesgo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Además, antes de suscribir participaciones de un fondo el inversor debe consultar cuál es su política de inversión (en el folleto) y, en caso de que el fondo tenga historia suficiente, la composición de la cartera al final del último trimestre (informe periódico a partícipes). Ambos documentos pueden y deben solicitarse a la entidad comercializadora, y también se encuentran a disposición del público en la página web de la entidad y en la CNMV.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Conocer la composición de la cartera y la política de inversión del fondo es fundamental, porque permite al inversor hacerse una idea del riesgo que se asume, según los porcentajes de inversión en cada tipo de activos financieros, en euros o en otras divisas, en una u otra zona geográfica, etc. Con carácter general, se pueden hacer las siguientes afirmaciones:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "La inversión en renta variable, por su propia naturaleza, tiene en general más riesgo que la inversión en renta fija, pero en ésta también se pueden producir pérdidas, y el inversor debe ser consciente de este hecho. La renta variable suele tener más riesgo porque las cotizaciones de las acciones son más volátiles.",
+        "Algunos fondos, por su política de inversión, pueden mantener en cartera valores que incorporen un mayor riesgo de crédito o contraparte: es la posibilidad de que el emisor (empresa, entidad financiera o Estado, entre otros) no pueda hacer frente a sus pagos o de que se produzca un retraso en los mismos. En estos casos podría ser interesante conocer la calidad de crédito del emisor, a través de la calificación que realizan entidades especializadas (agencias de rating).",
+        "La inversión en valores de países emergentes conlleva otro riesgo adicional, el llamado riesgo país, que recoge la posibilidad de que los acontecimientos políticos, económicos y sociales de ese país afecten a las inversiones que en él se mantienen.",
+        "La inversión en activos expresados en monedas distintas del euro implica un riesgo, denominado riesgo de divisa, derivado de las posibles fluctuaciones de los tipos de cambio.",
+        "Por otra parte, los fondos que invierten en instrumentos financieros derivados (futuros, opciones, etc.) pueden incorporar un riesgo superior debido a las características intrínsecas de estos productos (por ejemplo, el apalancamiento). Por tanto, es posible que se multipliquen las pérdidas de la cartera, aunque también podrían multiplicarse las ganancias."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sin embargo, hay que tener en cuenta que algunos fondos utilizan los derivados exclusiva o primordialmente con la finalidad de disminuir los riesgos de la cartera de contado (cobertura); en la descripción de la política de inversión, que se recoge en el folleto, se indica si los derivados se utilizarán con finalidad de inversión o de cobertura.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En términos generales, el apalancamiento se refiere al efecto que el endeudamiento tiene sobre la rentabilidad. En los mercados de valores, hace referencia al hecho de que con pequeñas cantidades de dinero puede realizarse una inversión que se comporta como otra de un volumen muy superior. Por ejemplo, es lo que ocurre al adquirir opciones o warrants: pagando una pequeña cantidad (la prima), el inversor tiene la posibilidad de obtener el mismo resultado que si hubiera comprado o vendido valores cuyo valor de mercado es muy superior. Mientras llega el vencimiento de la opción, el inversor puede obtener rentabilidad del dinero que aún no ha tenido que desembolsar para la adquisición de los valores. Así, una inversión en warrants puede ser mucho más rentable que la misma inversión en el subyacente, si los mercados evolucionan favorablemente a su posición; pero a cambio aumenta el riesgo, y la posibilidad de perder toda la inversión si la evolución no es la esperada.",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Otra circunstancia a tener en cuenta es que hay un porcentaje de hasta el 10% que el fondo puede invertir en valores que no se negocian en mercados regulados y otros activos poco líquidos. En este caso, se está asumiendo un riesgo adicional, al existir riesgo de liquidez, es decir, que cuando el fondo quiera vender el activo no encuentre compradores. Además, la valoración de estos activos resulta bastante más compleja, ya que no se dispone de un precio objetivo de mercado."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "V. Tipos de fondos"
+    },
+    {
+      "type": "paragraph",
+      "text": "El mercado español ofrece una amplia gama de fondos de inversión, que pueden clasificarse según diferentes criterios. El que tal vez resulte más interesante para los inversores particulares es el de la vocación inversora definida en el folleto de cada fondo, ya que las inversiones en las que se materialice el patrimonio de un fondo determinan el nivel de riesgo que asumen los partícipes. Por tanto, conocer la política de inversión permite que el inversor elija el que mejor se adapte a sus expectativas, situación económica y perfil de riesgo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Se pueden encontrar numerosas categorías de fondos de inversión según su vocación inversora, es decir, el tipo de activos financieros en los que el gestor invierte las aportaciones de los partícipes.",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Fondos monetarios: no invierten en renta variable, materias primas o divisa. La duración media de su cartera es igual o inferior a seis meses y sólo pueden invertir en activos de elevada calidad crediticia. Los monetarios a corto plazo se caracterizan porque la duración media de la cartera es igual o inferior a 60 días.",
+        "Fondos de renta fija: no invierten en renta variable.",
+        "Fondos de renta variable: invierten más del 75% en renta variable.",
+        "Fondos Mixtos: en este grupo podrá encontrar fondos de renta fija mixta, que invierten el 30% como máximo en renta variable, o fondos de renta variable mixta, que invierten en renta variable entre el 30% y el 75%.",
+        "Tanto los fondos de renta fija como los fondos de renta variable y los fondos mixtos pueden ser a su vez euro o internacionales, dependiendo de si invierten en divisas.",
+        "Fondos total o parcialmente garantizados: en función de si aseguran o no la totalidad de la inversión inicial. A su vez, dentro de los fondos totalmente garantizados se podrá encontrar con: 1. Los fondos garantizados de rendimiento fijo, que aseguran la inversión más un rendimiento fijo con la garantía de un tercero. 2. Fondos que aseguran la recuperación de la inversión inicial con la garantía de un tercero y ofrecen la posibilidad de obtener un rendimiento vinculado a la evolución de un instrumento de renta variable, divisa o cualquier otro activo. Son llamados fondos garantizados de rendimiento variable.",
+        "Fondos de gestión pasiva: replican o reproducen un índice (como los fondos cotizados – ETF). También se incluyen los fondos que persiguen un objetivo concreto de rentabilidad no garantizado.",
+        "Fondos de retorno absoluto: Los fondos de retorno absoluto son los que persiguen obtener como objetivo de gestión, no garantizado, una determinada rentabilidad/riesgo periódica.",
+        "Fondos globales: son fondos cuya política de inversión no encaja en ninguna de las vocaciones anteriores."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En este punto debe hacerse mención a los fondos por compartimentos. Esta figura supone que, dentro de un mismo fondo podrá haber dos o más “sub-fondos”, cada uno de los cuales tendrá su política de inversión. Cada compartimento podrá a su vez emitir distintas clases de participaciones, que se diferenciarán por las comisiones que apliquen. En consecuencia, cada compartimento y, en su caso, cada clase de participación, tendrá un valor liquidativo diferente al resto de compartimentos o clases de participaciones del mismo fondo, por lo que también podrán obtener distintos rendimientos.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VI. Los fondos garantizados"
+    },
+    {
+      "type": "paragraph",
+      "text": "Son fondos que aseguran que, como mínimo, en una determinada fecha futura se conservará la totalidad o parte de la inversión inicial. En algunos casos se ofrece también una cierta rentabilidad asegurada.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "No son garantizados, aunque puedan parecerlo y en ocasiones induzcan a confusión, otro tipo de fondos que tienen como objetivo de inversión o de rentabilidad la obtención de un determinado rendimiento fijo o vinculado a alguna referencia (Euribor...). Precisamente, la diferencia es que ese rendimiento es un objetivo y no una garantía, por lo que no es exigible por el inversor. Es por tanto un objetivo no garantizado.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los garantizados presentan ciertas características que deben ser bien conocidas antes de la suscripción, ya que pese a la relativa seguridad que ofrecen pueden no resultar adecuados para todos los inversores:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Condiciones para la efectividad de la garantía. Restricciones a la liquidez",
+        "Qué sucede al vencimiento de la garantía",
+        "Fiscalidad",
+        "Cálculo de la posible rentabilidad"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Condiciones para la efectividad de la garantía. Restricciones a la liquidez"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos garantizados tienen un horizonte temporal recomendado de inversión que coincide con el plazo para el que se garantiza la conservación del capital. Es decir, no es aconsejable invertir en un garantizado si se prevé que pueda necesitarse el capital antes de la fecha prevista de vencimiento de la garantía (que suele fijarse entre 1 y 6 años, según los fondos).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A diferencia de los no garantizados, estos fondos están diseñados de manera que no resulta aconsejable la entrada o salida de partícipes durante el plazo de garantía, debido a las siguientes particularidades:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Periodo inicial de comercialización, durante el cual se puede aportar dinero al fondo sin que se aplique la comisión de suscripción (que en otros momentos puede llegar al 5% del importe invertido). En su caso, las rentabilidades ofrecidas están condicionadas a que la inversión se haya realizado dentro de este periodo.",
+        "Sólo tienen derecho a la garantía los partícipes que mantengan su inversión hasta la fecha de vencimiento de la garantía; esta es la fecha en la que se asegura que las participaciones de un fondo alcanzarán un determinado valor liquidativo (valor liquidativo garantizado). Las participaciones reembolsadas antes de ese momento no están garantizadas. Si por algún motivo el partícipe necesita reembolsar antes del vencimiento de la garantía, recibirá por sus participaciones el valor liquidativo que corresponda a la fecha de reembolso, que podrá ser superior o inferior al inicial. Además, en general también tendrá que hacer frente a la comisión de reembolso (hasta un 5% del importe reembolsado)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En resumen, los partícipes que entren después del periodo de comercialización o que reembolsen antes de la fecha de vencimiento de la garantía podrán sufrir una importante penalización en la rentabilidad, e incluso perder parte de su inversión inicial.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Existen algunos fondos garantizados que cuentan con las llamadas “ventanas de liquidez”. Estas ventanas de liquidez son fechas predeterminadas en las que el partícipe puede reembolsar total o parcialmente sin pagar comisión de reembolso, siempre que se respeten los plazos de preaviso. Se trata de una apreciable ventaja para el inversor, porque suaviza la iliquidez de este tipo de productos. Sin embargo, el partícipe deberá tener en cuenta que estos reembolsos se realizan al valor liquidativo de la fecha, por lo que no se beneficiará de la garantía y podrá registrar pérdidas.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Algunos fondos ofrecen “pagos” periódicos durante el periodo garantizado. No deben confundirse con los cupones de la renta fija, ya que en realidad se trata de reembolsos parciales y obligatorios.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El plazo de preaviso suele oscilar entre tres días y una semana. En general se expresa en días hábiles (generalmente, sin contar sábados, domingos y festivos). En el folleto se detallan las fechas de las ventanas de liquidez y los plazos de preaviso, con indicación en su caso de lo que se entiende por día hábil a estos efectos.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué sucede al vencimiento de la garantía"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos garantizados ofrecen la conservación del capital invertido (o de una parte de él), en una fecha futura predeterminada, la fecha de vencimiento de la garantía. Cuando llega el vencimiento, estos fondos establecen o inician un nuevo periodo garantizado que incluye cambios significativos en su naturaleza, características e incluso, a veces, en su denominación. En otros casos, el fondo puede dejar de ser garantizado y seguir funcionando normalmente, con otra política de inversión.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A medida que se aproxime la fecha de vencimiento de la garantía, la Gestora enviará a los inversores una carta informándoles sobre los cambios que se producirán en el fondo. Los inversores disponen de las siguientes opciones:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "No aceptar las nuevas condiciones: en tal caso el partícipe debe ejercer el derecho de separación, que le permite recuperar su inversión o traspasarla a otro fondo sin soportar comisiones de reembolso durante un periodo de tiempo limitado (un mes, como mínimo). Este plazo viene indicado en la carta remitida por la entidad.",
+        "Permanecer como partícipe en el fondo: esta opción no exige actuación alguna, ya que si el inversor no ordena el reembolso durante el plazo de que dispone para separarse, se sobreentiende que está conforme con las nuevas características y desea mantener su inversión en el fondo. A partir de ese momento el partícipe queda sujeto a las nuevas condiciones (entre las que se puede incluir la aplicación de comisiones por reembolso, por ejemplo)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "El partícipe debe ser consciente de que, tras el vencimiento de una garantía, y una vez transcurrido el periodo durante el cual se puede ejercer el derecho de separación gratuito, los reembolsos se realizarán a precio de mercado, y existe la posibilidad de que éste sea inferior al que se alcanzó en el momento del vencimiento de la garantía.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Fiscalidad"
+    },
+    {
+      "type": "paragraph",
+      "text": "La garantía del fondo viene dada por una tercera entidad, y puede ser interna (es el fondo quien recibe el capital si no alcanza por sí mismo el valor liquidativo fijado como objetivo) o externa (cuando el capital se entrega directamente al partícipe).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La diferencia para el partícipe reside en el tratamiento fiscal de cada una. Puesto que la interna es una aportación que recibe el propio fondo, el inversor sólo la percibe a través del valor liquidativo de sus participaciones (se considera ganancia patrimonial), por lo que no tiene efectos fiscales inmediatos. Sin embargo, si la garantía es externa el partícipe recibe en su cuenta la diferencia entre el valor liquidativo del fondo en la fecha de vencimiento de la garantía y el valor liquidativo garantizado, y esta cantidad sí tributa en el ejercicio económico en el que se percibe (como rendimiento del capital mobiliario).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Las plusvalías no tributan hasta que no se produzca el reembolso de las participaciones.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cálculo de la posible rentabilidad"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos garantizados aseguran, en todo o en parte, la conservación del capital invertido al cabo de un plazo predeterminado. Sin embargo, no todos garantizan la obtención de una rentabilidad adicional.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Dentro de la actual oferta de fondos garantizados en nuestro país, pueden distinguirse hasta el momento dos grandes grupos:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Los fondos garantizados de rentabilidad fija (GRF): en la fecha de vencimiento de la garantía no sólo aseguran la conservación del capital inicial, sino también una rentabilidad fija y predeterminada (que se indica en el DFI-documento con datos fundamentales para el inversor-del fondo en términos de interés anual, TAE).",
+        "Los fondos garantizados de rentabilidad variable: sólo aseguran la inversión inicial, en la fecha de vencimiento de la garantía. Además ofrecen la posibilidad de obtener una rentabilidad vinculada al comportamiento de diversos activos financieros o índices (de acuerdo con fórmulas de cálculo más o menos complejas). El inversor debe tener en cuenta que, si la evolución de los instrumentos subyacentes no es la esperada, es posible que no obtenga rentabilidad alguna.",
+        "Garantizados parcialmente: no aseguran la recuperación del 100% de la inversión inicial."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Para el partícipe puede resultar extremadamente difícil saber de manera realista qué rentabilidad cabe esperar, cuando ésta depende de la evolución de determinados instrumentos subyacentes. Debe tenerse en cuenta que la presentac...",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:25:32.885298+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 34857,
+    "input_tokens": 9796,
+    "output_tokens": 15548
+  }
+}

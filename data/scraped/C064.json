@@ -1,0 +1,438 @@
+{
+  "content_id": "C064",
+  "url": "https://www.cnmv.es/DocPortal/Publicaciones/Guias/EstafasYFraudes.pdf",
+  "source": "CNMV",
+  "host": "www.cnmv.es",
+  "url_type": "pdf",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 6268771
+  },
+  "title": "Estafas y fraudes",
+  "headings": [
+    {
+      "level": 1,
+      "text": "I. Introducción"
+    },
+    {
+      "level": 1,
+      "text": "II. Tipos de estafas"
+    },
+    {
+      "level": 1,
+      "text": "(y cómo evitarlas)"
+    },
+    {
+      "level": 1,
+      "text": "¡Recuerda! Al no ser instrumentos"
+    },
+    {
+      "level": 1,
+      "text": "criptoactivos quedan fuera de"
+    },
+    {
+      "level": 1,
+      "text": "la protección que ofrecen las"
+    },
+    {
+      "level": 1,
+      "text": "normas vigentes en España y la"
+    },
+    {
+      "level": 1,
+      "text": "Unión Europea sobre servicios"
+    },
+    {
+      "level": 1,
+      "text": "financieros."
+    },
+    {
+      "level": 1,
+      "text": "III. Resumen de"
+    },
+    {
+      "level": 1,
+      "text": "recomendaciones para"
+    },
+    {
+      "level": 1,
+      "text": "prevenir estafas y"
+    },
+    {
+      "level": 1,
+      "text": "fraudes financieros"
+    },
+    {
+      "level": 1,
+      "text": "IV. ¿Qué hacer si has sido"
+    },
+    {
+      "level": 1,
+      "text": "víctima de una estafa?"
+    },
+    {
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "level": 1,
+      "text": "información?"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "I. Introducción",
+      "start": 250,
+      "end": 3112,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "II. Tipos de estafas",
+      "start": 3112,
+      "end": 3171,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "(y cómo evitarlas)",
+      "start": 3171,
+      "end": 9952,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "¡Recuerda! Al no ser instrumentos",
+      "start": 9952,
+      "end": 10140,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "criptoactivos quedan fuera de",
+      "start": 10140,
+      "end": 10175,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "la protección que ofrecen las",
+      "start": 10175,
+      "end": 10206,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "normas vigentes en España y la",
+      "start": 10206,
+      "end": 10238,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "Unión Europea sobre servicios",
+      "start": 10238,
+      "end": 10269,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "financieros.",
+      "start": 10269,
+      "end": 19531,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "III. Resumen de",
+      "start": 19531,
+      "end": 19682,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "recomendaciones para",
+      "start": 19682,
+      "end": 19706,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "prevenir estafas y",
+      "start": 19706,
+      "end": 19726,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "fraudes financieros",
+      "start": 19726,
+      "end": 22486,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "IV. ¿Qué hacer si has sido",
+      "start": 22486,
+      "end": 22552,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "víctima de una estafa?",
+      "start": 22552,
+      "end": 24794,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "¿Necesitas más",
+      "start": 24794,
+      "end": 24838,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "información?",
+      "start": 24838,
+      "end": 24851,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Estafas y fraudes\nEstafas y\nfraudes\nGuía"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estafas y fraudes\nÍndice\nIntroducción\nTipos de estafas\n(y cómo evitarlas)\nResumen de recomendaciones\npara prevenir estafas y fraudes\nfinancieros\n¿Qué hacer si has sido víctima\nde una estafa?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estafas y fraudes"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "I. Introducción"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una estafa financiera es una acción realizada por una persona o empresa que\ncausa un perjuicio económico a un tercero mediante engaño y con ánimo de\nlucro. Existen muchos tipos de estafas y fraudes financieros. En los últimos\naños, se han visto incrementados debido a las posibilidades que permiten las\nnuevas tecnologías y las redes sociales.\nCaer víctima de una estafa financiera puede causarte grandes pérdidas\neconómicas, así que más vale prevenir y aprender a identificarlas.\n¿Cómo puedes identificar una estafa financiera?\nPor ejemplo, si te prometen cuantiosas ganancias, utilizan métodos de\ninversión infalibles o facilitan soluciones imposibles a los problemas\neconómicos. Las modalidades de engaño son infinitas y, en la mayoría de los\ncasos, parten de una promesa de rentabilidad futura – lejos de las existentes\nen el contexto económico - a cambio de entregar un capital inicial al\nsupuesto experto o entidad no autorizada para ofrecer este tipo de servicio.\nDesconfía siempre de promesas de altos rendimientos futuros mediante\ninversiones infalibles.\nEstafas y\nfraudes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estafas y fraudes\nLos términos «chiringuito financiero» o «entidades pirata», definen de\nmanera informal a aquellas entidades que ofrecen y prestan servicios de\ninversión sin estar autorizadas para hacerlo. Son peligrosos porque en la\nmayoría de los casos son, sencillamente, estafadores. La aparente prestación\nde tales servicios es solo una tapadera para apropiarse del capital de sus\nvíctimas. Utilizan los mismos canales comerciales que puede emplear\ncualquier entidad legítima: teléfono, correo electrónico, páginas web, redes\nsociales, etc., aunque su modo de actuar es muy distinto.\nMientras las empresas autorizadas para prestar servicios de inversión están\nregistradas y sometidas a las normas que regulan los mercados de valores\ny a estrictos controles por parte de los organismos supervisores (CNMV,\nBanco de España y Dirección General de Seguros y Fondos de Pensiones), los\nchiringuitos financieros actúan al margen de la legalidad.\nSus víctimas tampoco tienen las garantías de las que sí cumplen con las\nnormas, como la cobertura de los Fondos de Garantía de Inversiones o de\nDepósitos y, por tanto, no pueden ser indemnizadas por el engaño sufrido."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estafas y fraudes\nLa principal protección frente a un chiringuito financiero es identificarlo\ncomo tal. Lo más aconsejable es no confiar en ninguna entidad desconocida\nmientras no se haya podido verificar que está debidamente autorizada para\nprestar servicios de inversión.\nPuedes verificarlo en el registro de la CNMV, del Banco de España o de la\nDirección General de Seguros y Fondos de Pensiones. Otra opción rápida y\nsencilla es pedir información a la CNMV, llamando al teléfono 900 535 015.\n¡Confiar en un chiringuito financiero es una forma segura de perder\ntu dinero!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estafas y fraudes"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. Tipos de estafas"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "(y cómo evitarlas)"
+    },
+    {
+      "type": "paragraph",
+      "text": "A continuación, se detallan una serie de prácticas que pueden ayudarte a\nidentificar un chiringuito financiero como tal, así como recomendaciones para\nevitar ser víctima de sus estafas y fraudes.\n2.1\nSuplantación de identidad de entidades autorizadas\nEmpresas no autorizadas utilizan datos identificativos de empresas autorizadas\ne inscritas en la CNMV con el fin de confundir al inversor dando una apariencia\nde legalidad. Estas «empresas clonadas» son chiringuitos financieros. Utilizan\nilegítimamente, incluso en sus páginas web, elementos identificativos idénticos\no muy similares a los de empresas debidamente autorizadas e inscritas o sus\nmismas URLs, con cambios mínimos y casi imperceptibles.\nAntes de contratar un producto financiero, comprueba los\ndatos de la empresa oferente: denominación social, marca\ncomercial, dominio y dirección web, sede y dirección\npostal, y número de registro en el organismo supervisor.\nAsimismo, rechaza ofertas inesperadas o no solicitadas\nhasta comprobar que proceden de entidades\ndebidamente inscritas en CNMV. Hay empresas y/o sitios\nweb identificados en el registro de la CNMV con la palabra\n«clon», que no tienen vinculación alguna con las entidades\nautorizadas a las que suplantan la identidad. No confíes tu\ndinero a una de ellas porque están engañándote.\nLa comprobación de los datos de la entidad siempre se\ndebe hacer desde la página web de la CNMV - CNMV -\nBúsqueda por entidades."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estafas y fraudes\n2.2\nServicio de cuentas de trading financiadas\nligadas a cursos de formación.\nExisten determinadas páginas web que ofrecen un servicio que se denomina\ngenéricamente cuentas de trading financiadas.\nDichos servicios ofrecen la posibilidad de acceder a una cuenta de valores\npara realizar operaciones como comprar y vender acciones, CFDs, Forex, etc.\nLa particularidad es que el usuario no arriesgaría capital propio, operando\naparentemente con el que le aportaría la propia página y a cambio, obtendría\nsupuestamente un porcentaje de las ganancias obtenidas.\nPara poder hacer uso de esas cuentas de trading financiadas, el usuario debe\nrealizar un curso en el que, entre otras materias, se le explican las reglas de\ntrading que ha de seguir y tiene que superar unas pruebas operativas en un\nentorno simulado y dentro de unos parámetros operativos (pérdida máxima\ndiaria, nivel de riesgo, etc.). Dicho curso exige el abono de una cantidad previa,\nen ocasiones de varios miles de euros, para poder asistir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estafas y fraudes\nEn muchas ocasiones, estos cursos son fraudes. Las víctimas pierden el\ndinero entregado para realizar el curso y nunca consiguen el acceso a la\ncuenta de trading financiada.\nSé consciente de los riesgos por la contratación de los cursos, entre\nellos el de fraude o engaño en cuanto a la posibilidad de acceso a\nlas cuentas de trading financiadas. Además, la impartición de estos\ncursos o la apertura de las citadas cuentas no entran dentro del\námbito de actuación y supervisión de la CNMV."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estafas y fraudes\n2.3\nNuevas estrategias informáticas\n(fraude del técnico informático)\nAlgunos chiringuitos utilizan herramientas informáticas para conectarse al\ndispositivo de un inversor y apropiarse de datos (como códigos de acceso\no contraseñas) que les permiten operar sobre las cuentas de valores del\ninversor sin autorización.\nHabitualmente, se hacen pasar por un técnico informático de la plataforma\nde inversión o de otra conocida empresa, que te alerta de algún problema\nen tu ordenador, móvil u otro dispositivo (por ejemplo, un cambio necesario\nde configuración). Para solucionar el supuesto problema, te piden que\ndescargues un programa o app para conectarse a tu equipo en control\nremoto.\nA veces, el propio chiringuito financiero te recomienda silenciar tu dispositivo\ny que te despreocupues del asunto. En realidad, lo que pretenden es acceder\na tus cuentas bancarias o de valores, robar tus datos personales y/o hacer\ncompras por Internet con tu tarjeta de crédito.\nNo compartas con terceros las claves de acceso a tus\ncuentas bancarias y de valores.\nNo permitas el acceso remoto a tus dispositivos\ninformáticos.\nNo inicies una sesión para operar con tus cuentas\nbancarias y de valores con un tercero conectado.\nIT"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estafas y fraudes\n2.4\nActividad de recovery room\nEmpresas denominadas «recovery room» contactan con personas que han\nsido víctimas de chiringuitos financieros, supuestamente para gestionarles la\nrecuperación de las pérdidas o para recomprar acciones o valores adquiridos\na través de empresas no autorizadas.\nEstas estafas pueden provenir del chiringuito financiero que realizó el fraude\ninicial o de otras personas o empresas que hayan adquirido las listas de\nafectados. Pueden intentar que vuelvas a invertir dinero o, incluso, vender\ntus datos a otras empresas. Es decir, se trata de un fraude sobre otro engaño\nanterior, a menudo realizado por la misma entidad o personas.\nSi una empresa contacta contigo y te pide dinero por adelantado en\nconcepto de pago por honorarios o impuestos, como requisito previo\npara prestar el servicio de recuperación de una inversión fallida o para\nla compra de acciones, es un indicio de que se trata de una «recovery\nroom». Nunca hagas un pago adelantado por este tipo de servicio.\nDesconfía también si te contactan en nombre de la CNMV con el\nfin de recuperar las pérdidas sufridas. La CNMV nunca contactará\ndirectamente con posibles afectados ni autoriza el uso de su\nidentidad o imagen corporativa con el fin de recuperar pérdidas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estafas y fraudes\n2.5\nFraudes relacionados con criptoactivos\nLos criptoactivos, incluyendo las criptomonedas o criptodivisas, pueden\ndefinirse como una representación digital de valor o derechos, es decir, son\nactivos que no existen de forma física.\nExisten numerosos criptoactivos falsos y estafas cuyo único objetivo es\nprivarte de tu dinero. Se anuncian al público de manera agresiva en redes\nsociales, mensajes de texto, correo electrónico, por teléfono y mediante\nanuncios que aparecen en páginas web y redes sociales. Los estafadores\nutilizan diferentes técnicas, prometen increíbles ganancias y presionan a\ntomar decisiones rápidas con el objetivo de «no perder la oportunidad».\nLa información suele ser poco clara y llena de tecnicismos sobre nuevas y\ncomplejas tecnologías para confundir al inversor.\nNo te fíes nunca de promesas de ganancias extraordinarias en poco\ntiempo y asegúrate de que las empresas están autorizadas y que\nno figuren en la «lista negra» de advertencias de las autoridades\nnacionales competentes. Desconfía siempre de propuestas de\ninversión que utilizan un lenguaje técnico difícil de entender.\nNunca inviertas tu dinero en algo que no entiendes. Los intermediarios\nlegítimos nunca te presionarán para tomar decisiones de inversión\nprecipitadas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estafas y fraudes"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¡Recuerda! Al no ser instrumentos"
+    },
+    {
+      "type": "paragraph",
+      "text": "financieros, depósitos o cualquier\notro producto regulado, los"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "criptoactivos quedan fuera de"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "la protección que ofrecen las"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "normas vigentes en España y la"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Unión Europea sobre servicios"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "financieros."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estafas y fraudes\n2.6\nEsquemas Ponzi\nUn esquema Ponzi es una variante de la típica estafa piramidal, un modelo de\nnegocio insostenible en el que unos pocos estafadores originales reclutan a\nnuevos participantes para formar parte de su negocio, creando una jerarquía\nen forma de pirámide.\nEn el caso de un esquema Ponzi de inversión, un estafador convence a\nnuevos inversores a aportar fondos para ser invertidos, ofreciéndoles altas\nrentabilidades. En realidad, el dinero no se invierte o se invierte solo en parte;\nlos chiringuitos pagan «beneficios» (a veces muy grandes, aunque no siempre\nson los prometidos) a los primeros clientes, utilizando para ello el de los\nnuevos inversores.\nEsos primeros clientes satisfechos (que suelen reinvertir sus beneficios) a\nveces actúan, sin saberlo, como cebo, y convencen a sus amigos y familiares\npara que también aporten dinero. Parte de las nuevas aportaciones puede\nservir para pagar a los clientes anteriores, pero la mayoría se lo queda el\nchiringuito.\nCuando deja de entrar dinero nuevo, o cuando lo decide el estafador, se\ncolapsa el entramado y los clientes se quedan sin sus inversiones y sin su\ncapital original."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estafas y fraudes\n2.7\nPhising, smishing y vishing\nTodas estas técnicas, así como otras variantes de estas, tienen como objetivo\nconseguir nuestras claves personales de acceso a nuestras cuentas bancarias\no de valores, con el fin de suplantar nuestra identidad, operar con nuestras\ncuentas y disponer de nuestros fondos.\nEl phising son correos electrónicos que parecen proceder\nde entidades financieras u otras entidades reconocidas y\nsolventes (comercios electrónicos, correos, administraciones\npúblicas…) que, por motivos «de seguridad», solicitan al\ndestinatario hacer clic en algún enlace o hipervínculo que\ndirige a una página web falsa que simula ser la web legítima, e\nintroducir sus claves de acceso u otros datos personales.\nLa mejor forma de evitar ser víctima de un esquema Ponzi es\ndesconfiar siempre de su reclamo principal: rentabilidades\ndemasiado altas con respecto a las que ofrece el mercado. También\nes importante no basar las decisiones de inversión únicamente en\nla confianza o recomendaciones de amigos o familiares. Lo que es\nbueno para un inversor puede no serlo para otro, dependiendo de\nsus diferentes circunstancias personales y financieras. Utiliza las\nrecomendaciones personalizadas de inversión de profesionales o\nentidades autorizadas para ello."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estafas y fraudes\nEl smishing es una variante de la misma técnica, que utiliza SMS\nfraudulentos, en vez de correo electrónico.\nEl vishing, cuyo nombre deriva de la combinación de voz y\nphishing, es un fraude que persigue obtener datos personales\ny bancarios a través de una llamada telefónica, engañando a la\nvíctima mediante la suplantación de la identidad de un tercero\nde confianza (por ejemplo, simulando ser empleado de una\nentidad financiera).\nEvitar caer víctima del phishing, smishing o vishing no es difícil.\n¥ Nunca respondas a correos electrónicos, mensajes de texto\no llamadas telefónicas que solicitan información personal o\nconfidencial.\n¥ Elimínalos y no descargues ni ejecutes los ficheros adjuntos.\n¥ No accedas a tu entidad a través de enlaces, sino tecleando\nla dirección URL auténtica en la barra de direcciones. Si la\nsolicitud parece legítima, llama y pregunta en un número de\nteléfono establecido por la entidad verdadera (NO el que figura\nen el correo o mensaje) para verificarla.\n¥ Crea contraseñas complejas (combinaciones de números\ny letras, mayúsculas y minúsculas, caracteres especiales…)\núnicas para cada sitio web y cámbialas con regularidad. Si\ncrees que has sido víctima de una de estas técnicas, cambia\ntus claves de inmediato y avisa a tu entidad.\nEs importante recordar que ninguna entidad financiera autorizada\npedirá jamás a sus clientes información personal ni claves completas.\nEllos ya disponen de esos datos y bajo ningún concepto necesitan\npedírtelos y, menos aún, por medios tan poco confidenciales como el\ncorreo electrónico o el teléfono."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estafas y fraudes\n2.8\nPharming\nEl pharming es un cibercrimen parecido al phishing, pero más sofisticado.\nLos ladrones infectan tu equipo con malware que les permite redirigir el\ntráfico de sitios web legítimos a sitios web falsos, creados para recabar datos\nconfidenciales y que tienen el mismo aspecto que las auténticas. Así, pueden\nengañarte para que introduzcas tus datos confidenciales sin ningún temor,\nsin saber que los estás remitiendo a un delincuente.\nPrecauciones para evitar la estafa de pharming\n¥ Instala programas reconocidos antivirus y antimalware y\nactualiza tus dispositivos.\n¥ Utiliza un gestor de contraseñas. Una página web falsa te\npuede engañar a ti, pero no al gestor de contraseñas. Si no\nhas visitado la página anteriormente, no la reconocerá y no\nrellenará automáticamente tus datos de acceso.\n¥ Desconfía si el sitio web parece extraño, si la URL en la barra\nde direcciones se ve distinta o si la página comienza a pedir\ninformación que normalmente no se solicita.\n¥ Verifica que tienes una conexión segura — que la dirección\nempieza por «https» (y no «http») y que hay un icono de\ncandado en la barra de direcciones — . Haz clic en el candado\npara asegurarte de que el sitio web tiene un certificado de\nconfianza actualizado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estafas y fraudes\n2.9\nFraude financiero en redes sociales\nActualmente, muchos inversores buscan información y consejos en las redes\nsociales. Los «chiringuitos financieros» o «entidades pirata» se aprovechan\nde esta tendencia para encontrar a sus víctimas. Aunque las redes sociales\npueden aportar información válida y beneficiosa para inversores, también\ncrean grandes oportunidades para estafas y fraudes.\nMultitud de estafadores de todo tipo operan en redes sociales y suele ser\ndifícil para las autoridades encontrarlos y poner fin a sus crímenes. Los\nestafadores pueden contactar con cientos de miles de personas de forma\nrápida y sin apenas esfuerzo económico. Es sumamente fácil y barato\ndiseminar información engañosa en Telegram, TikTok, Instagram, Twitter,\nFacebook, etc., creando perfiles falsos, suplantando la identidad de entidades\nlegítimas o publicando de forma anónima.\nLas estafas propagadas por redes sociales incluyen todos los fraudes que\nya hemos visto. Otro fraude común son los intentos de manipulación de\nmercado a corto plazo, diseminando rumores falsos o información engañosa\nsobre una empresa para afectar la cotización de sus acciones, positiva o\nnegativamente.\nt\nf\nf"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estafas y fraudes\nPor ejemplo, un rumor positivo sobre una empresa puede incitar a muchos\ninversores a comprar sus acciones, creando demanda desorbitada y haciendo\nsubir mucho el precio de las acciones en poco tiempo, sobre todo\nsi se propaga el rumor de forma «viral»\nCuando la cotización de las acciones alcance cierto nivel, los estafadores que\nempezaron el rumor venden sus acciones que han adquirido con anterioridad\na menor precio, a un precio artificialmente alto, obteniendo ganancias. El\nmercado acabará corrigiéndose y la mayoría de inversores que compraron\nlas acciones a precios altos sufrirán pérdidas. Lo mismo puede ocurrir a la\ninversa: rumores falsos negativos sobre una empresa pueden convencer a los\ninversores a vender sus acciones, lo que permite a los estafadores comprarlas\na precios artificialmente bajos.\nTambién hay que tener mucha precaución con los llamados «influencers\nfinancieros», es decir, personas que se dedican a hablar públicamente de sus\nestrategias de inversión, las ventajas de utilizar una determinada herramienta\ny la facilidad con la que obtienen beneficios de una forma rápida y sencilla.\nAunque existen personas honestas y entidades legítimas que publican\nrecomendaciones de inversión en las redes sociales, muchos «influencers»,\nson chiringuitos financieros que solo quieren atraer al público a plataformas\ndigitales ilícitas o hacerles caer en algún otro tipo de estafa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estafas y fraudes\nAunque todo el mundo parezca estar a favor de\ndeterminados consejos de inversión a través de las\nredes sociales, no te dejes engañar. Aunque parezca\nque gran número de personas están invirtiendo en un\nproducto determinado con aparente éxito, puede no\nser verdad.\nNo te dejes llevar por el «efecto manada», un sesgo\ncognitivo que nos incita a actuar de una forma,\nsimplemente porque lo hacen los demás.\nDesconfía siempre de ofertas de inversión no solicitadas\nque te llegan a través de redes sociales.\nAsegúrate de verificar la fuente de cualquier información\nsobre inversiones que encuentras en Internet.\n¡Cuidado con los «influencers financieros»,! Recuerda\nque los personajes famosos que dan recomendaciones\nde inversión en redes sociales normalmente reciben una\ncompensación económica por hacerlo. Se les contrata\nporque tienen muchos seguidores. En ocasiones, ellos\nmismos son cómplices de estafadores, sin saberlo.\nAún en el mejor de los casos, las inversiones no son\nde talla única. Lo que puede ser recomendable para\nun inversor no siempre lo será para otro. Es más\naconsejable acudir a un intermediario autorizado para\nrecibir recomendaciones personales que encajen con\ntu perfil, objetivos y tolerancia al riesgo.\nNunca tomes decisiones de inversión basadas\núnicamente en recomendaciones de celebridades."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estafas y fraudes"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "III. Resumen de"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "recomendaciones para"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "prevenir estafas y"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "fraudes financieros"
+    },
+    {
+      "type": "paragraph",
+      "text": "Confiar en una empresa no autorizada es una forma segura de perder tu\ndinero. Como no son verdaderos profesionales de los mercados financieros,\nno es posible recurrir a ninguno de los mecanismos de protección del\ninversor previstos en las disposiciones legales. Repasemos las principales\nrecomendaciones para evitar estafas y fraudes financieros.\nLo más importante es no entregar nunca dinero a un intermediario\nsin haber verificado que figura en los registros de la CNMV, del\nBanco de España o de la Dirección General de Seguros y Fondos de\nPensiones como entidad autorizada para prestar los servicios de\ninversión que quieres contratar. Lo más rápido y sencillo es pedir\nesta información a la CNMV. Comprueba también si la CNMV ha\npublicado una advertencia sobre la empresa.\nDesconfía de ofertas de entidades que dicen estar autorizadas pero\ncuya dirección está incompleta o no existe, el contacto es a través\nde números de móvil o cuyo prefijo no es español.\nEl teléfono de atención al inversor 900 535 015 de la CNMV\nestá a tu disposición para informarte sobre la habilitación de\nlas entidades para prestar o no servicios de inversión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estafas y fraudes\nDesconfía siempre de cualquier propuesta de inversión que no\nhayas solicitado, sea a través del teléfono, correo electrónico,\nmensajes en redes sociales, o cualquier otro canal. Cuanto más\ntentadora es la oferta, más seguridad de que sea un fraude. Los\nintermediarios financieros autorizados no se dirigen a personas que\nno son clientes con ofertas de inversión.\nDesconfía siempre de ofertas en productos de inversión que\naseguran grandes rentabilidades sin riesgo. Estas promesas son\nfalsas. A mayor rentabilidad potencial, mayor es el riesgo asumido.\nNo hay inversión sin riesgo.\nDesconfía de ofertas de financiación o de inversión en condiciones\nmuy favorables de entidades situadas en países remotos, de las que\nno puedes obtener información. Casi siempre se trata de «entidades\nfantasmas» que te pedirán que envíes una cantidad de dinero que\nno recuperarás.\nProtege tus datos personales. No compartas tus claves de acceso\ncon terceros y desconfía siempre de los correos electrónicos,\nmensajes de texto o llamadas telefónicas que solicitan estos datos.\nNo sigas ningún enlace de un correo electrónico sin haber verificado\nsu procedencia.\nDesconfía siempre de personas o empresas que intentan suplantar\nla identidad de la CNMV, utilizando su nombre o su logotipo para\nhacer recomendaciones o vender productos de inversión. Estas\nrecomendaciones y ofertas siempre son estafas, ya qua la CNMV\nnunca recomienda inversiones.\nNunca tomes decisiones de inversión basadas únicamente en\nrecomendaciones vistas en redes sociales y averigua la fuente\nde la información."
+    },
+    {
+      "type": "paragraph",
+      "text": "Estafas y fraudes"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "IV. ¿Qué hacer si has sido"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "víctima de una estafa?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si ya has entregado dinero a un chiringuito, no siempre será posible\nrecuperarlo. Sin embargo, es importante estar atento a ciertas señales,\npara intentar reaccionar lo antes posible:\n¥ La persona de contacto se vuelve inaccesible, no atienden a las\nsolicitudes de reembolso, no se recibe ninguna información o la que se\nobtiene es insuficiente e incomprensible, etc. Estos son algunos de los\ncomportamientos irregulares que delatan a un chiringuito financiero. En\ntales casos es aconsejable presionarles para que devuelvan el dinero,\namenazándoles si es necesario con acudir a las autoridades. Este aviso\nno siempre es efectivo, ya que precisamente su situación de ilegalidad\nles permite desaparecer o cambiar de nombre con gran facilidad, lo que\ndificulta la actuación de los organismos supervisores.\n¥ En ocasiones, su respuesta es que la inversión no ha resultado como\nse esperaba, que se han registrado pérdidas y que precisamente en ese\nmomento no conviene deshacer posiciones sino aumentar la inversión,\npara aprovechar el inminente cambio de tendencia. Lo realmente\npeligroso en este caso es continuar realizando aportaciones, ya que con\ntoda seguridad ese capital tampoco se va a recuperar.\n¥ Tanto si consigues que te devuelvan todo o parte del capital como si\nno es así, es muy importante que pongas los hechos en conocimiento\nde la CNMV y denuncies lo ocurrido a la Policía , Guardia Civil o al\nJuzgado correspondiente. Puede ser la única oportunidad de recuperar\ntu inversión. Las denuncias presentadas permiten a los organismos\nresponsables difundir las correspondientes advertencias, ayudando a\nque otros inversores no se vean estafados por el mismo chiringuito.\n¥ Recuerda que, para garantizar la eficacia de una posible actuación\njudicial, deberás presentar toda la documentación que acredite los\nservicios recibidos y los importes implicados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta guía tiene como finalidad informar al público en general sobre distintos\naspectos relacionados con los mercados de valores. Por su naturaleza\ndivulgativa no puede constituir un soporte para posteriores interpretaciones\njurídicas, siendo la normativa vigente la única de aplicabilidad para estos fines.\neducacionfinanciera@cnmv.es\nContáctanos por email"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "información?"
+    }
+  ],
+  "text": "Estafas y fraudes\nEstafas y \nfraudes\nGuía\n\nEstafas y fraudes\nÍndice\nIntroducción\nTipos de estafas \n(y cómo evitarlas)\nResumen de recomendaciones \npara prevenir estafas y fraudes \nfinancieros \n¿Qué hacer si has sido víctima \nde una estafa?\n\nEstafas y fraudes\nI. Introducción\nUna estafa financiera es una acción realizada por una persona o empresa que \ncausa un perjuicio económico a un tercero mediante engaño y con ánimo de \nlucro. Existen muchos tipos de estafas y fraudes financieros. En los últimos \naños, se han visto incrementados debido a las posibilidades que permiten las \nnuevas tecnologías y las redes sociales.\nCaer víctima de una estafa financiera puede causarte grandes pérdidas \neconómicas, así que más vale prevenir y aprender a identificarlas.\n¿Cómo puedes identificar una estafa financiera? \nPor ejemplo, si te prometen cuantiosas ganancias, utilizan métodos de \ninversión infalibles o facilitan soluciones imposibles a los problemas \neconómicos. Las modalidades de engaño son infinitas y, en la mayoría de los \ncasos, parten de una promesa de rentabilidad futura – lejos de las existentes \nen el contexto económico - a cambio de entregar un capital inicial al \nsupuesto experto o entidad no autorizada para ofrecer este tipo de servicio. \nDesconfía siempre de promesas de altos rendimientos futuros mediante \ninversiones infalibles.\nEstafas y \nfraudes\n\nEstafas y fraudes\nLos términos «chiringuito financiero» o «entidades pirata», definen de \nmanera informal a aquellas entidades que ofrecen y prestan servicios de \ninversión sin estar autorizadas para hacerlo. Son peligrosos porque en la \nmayoría de los casos son, sencillamente, estafadores. La aparente prestación \nde tales servicios es solo una tapadera para apropiarse del capital de sus \nvíctimas. Utilizan los mismos canales comerciales que puede emplear \ncualquier entidad legítima: teléfono, correo electrónico, páginas web, redes \nsociales, etc., aunque su modo de actuar es muy distinto.\nMientras las empresas autorizadas para prestar servicios de inversión están \nregistradas y sometidas a las normas que regulan los mercados de valores \ny a estrictos controles por parte de los organismos supervisores (CNMV, \nBanco de España y Dirección General de Seguros y Fondos de Pensiones), los \nchiringuitos financieros actúan al margen de la legalidad. \nSus víctimas tampoco tienen las garantías de las que sí cumplen con las \nnormas, como la cobertura de los Fondos de Garantía de Inversiones o de \nDepósitos y, por tanto, no pueden ser indemnizadas por el engaño sufrido.\n\nEstafas y fraudes\nLa principal protección frente a un chiringuito financiero es identificarlo \ncomo tal. Lo más aconsejable es no confiar en ninguna entidad desconocida \nmientras no se haya podido verificar que está debidamente autorizada para \nprestar servicios de inversión. \nPuedes verificarlo en el registro de la CNMV, del Banco de España o de la \nDirección General de Seguros y Fondos de Pensiones. Otra opción rápida y \nsencilla es pedir información a la CNMV, llamando al teléfono 900 535 015.\n¡Confiar en un chiringuito financiero es una forma segura de perder \ntu dinero!\n\nEstafas y fraudes\nII. Tipos de estafas \n(y cómo evitarlas) \nA continuación, se detallan una serie de prácticas que pueden ayudarte a \nidentificar un chiringuito financiero como tal, así como recomendaciones para \nevitar ser víctima de sus estafas y fraudes.\n2.1 \nSuplantación de identidad de entidades autorizadas\nEmpresas no autorizadas utilizan datos identificativos de empresas autorizadas \ne inscritas en la CNMV con el fin de confundir al inversor dando una apariencia \nde legalidad. Estas «empresas clonadas» son chiringuitos financieros. Utilizan \nilegítimamente, incluso en sus páginas web, elementos identificativos idénticos \no muy similares a los de empresas debidamente autorizadas e inscritas o sus \nmismas URLs, con cambios mínimos y casi imperceptibles.\nAntes de contratar un producto financiero, comprueba los \ndatos de la empresa oferente: denominación social, marca \ncomercial, dominio y dirección web, sede y dirección \npostal, y número de registro en el organismo supervisor.\nAsimismo, rechaza ofertas inesperadas o no solicitadas \nhasta comprobar que proceden de entidades \ndebidamente inscritas en CNMV. Hay empresas y/o sitios \nweb identificados en el registro de la CNMV con la palabra \n«clon», que no tienen vinculación alguna con las entidades \nautorizadas a las que suplantan la identidad. No confíes tu \ndinero a una de ellas porque están engañándote.\nLa comprobación de los datos de la entidad siempre se \ndebe hacer desde la página web de la CNMV - CNMV - \nBúsqueda por entidades.\n\nEstafas y fraudes\n2.2 \nServicio de cuentas de trading financiadas\nligadas a cursos de formación.\nExisten determinadas páginas web que ofrecen un servicio que se denomina \ngenéricamente cuentas de trading financiadas.\nDichos servicios ofrecen la posibilidad de acceder a una cuenta de valores \npara realizar operaciones como comprar y vender acciones, CFDs, Forex, etc. \nLa particularidad es que el usuario no arriesgaría capital propio, operando \naparentemente con el que le aportaría la propia página y a cambio, obtendría \nsupuestamente un porcentaje de las ganancias obtenidas.\nPara poder hacer uso de esas cuentas de trading financiadas, el usuario debe \nrealizar un curso en el que, entre otras materias, se le explican las reglas de \ntrading que ha de seguir y tiene que superar unas pruebas operativas en un \nentorno simulado y dentro de unos parámetros operativos (pérdida máxima \ndiaria, nivel de riesgo, etc.). Dicho curso exige el abono de una cantidad previa, \nen ocasiones de varios miles de euros, para poder asistir.\n\nEstafas y fraudes\nEn muchas ocasiones, estos cursos son fraudes. Las víctimas pierden el \ndinero entregado para realizar el curso y nunca consiguen el acceso a la \ncuenta de trading financiada.\nSé consciente de los riesgos por la contratación de los cursos, entre \nellos el de fraude o engaño en cuanto a la posibilidad de acceso a \nlas cuentas de trading financiadas. Además, la impartición de estos \ncursos o la apertura de las citadas cuentas no entran dentro del \námbito de actuación y supervisión de la CNMV.\n\nEstafas y fraudes\n2.3 \nNuevas estrategias informáticas \n(fraude del técnico informático)\nAlgunos chiringuitos utilizan herramientas informáticas para conectarse al \ndispositivo de un inversor y apropiarse de datos (como códigos de acceso \no contraseñas) que les permiten operar sobre las cuentas de valores del \ninversor sin autorización.\nHabitualmente, se hacen pasar por un técnico informático de la plataforma \nde inversión o de otra conocida empresa, que te alerta de algún problema \nen tu ordenador, móvil u otro dispositivo (por ejemplo, un cambio necesario \nde configuración). Para solucionar el supuesto problema, te piden que \ndescargues un programa o app para conectarse a tu equipo en control \nremoto. \nA veces, el propio chiringuito financiero te recomienda silenciar tu dispositivo \ny que te despreocupues del asunto. En realidad, lo que pretenden es acceder \na tus cuentas bancarias o de valores, robar tus datos personales y/o hacer \ncompras por Internet con tu tarjeta de crédito.\nNo compartas con terceros las claves de acceso a tus \ncuentas bancarias y de valores.\nNo permitas el acceso remoto a tus dispositivos \ninformáticos.\nNo inicies una sesión para operar con tus cuentas \nbancarias y de valores con un tercero conectado.\nIT\n\nEstafas y fraudes\n2.4 \nActividad de recovery room\nEmpresas denominadas «recovery room» contactan con personas que han \nsido víctimas de chiringuitos financieros, supuestamente para gestionarles la \nrecuperación de las pérdidas o para recomprar acciones o valores adquiridos \na través de empresas no autorizadas. \nEstas estafas pueden provenir del chiringuito financiero que realizó el fraude \ninicial o de otras personas o empresas que hayan adquirido las listas de \nafectados. Pueden intentar que vuelvas a invertir dinero o, incluso, vender \ntus datos a otras empresas. Es decir, se trata de un fraude sobre otro engaño \nanterior, a menudo realizado por la misma entidad o personas.\nSi una empresa contacta contigo y te pide dinero por adelantado en \nconcepto de pago por honorarios o impuestos, como requisito previo \npara prestar el servicio de recuperación de una inversión fallida o para \nla compra de acciones, es un indicio de que se trata de una «recovery \nroom». Nunca hagas un pago adelantado por este tipo de servicio.\nDesconfía también si te contactan en nombre de la CNMV con el \nfin de recuperar las pérdidas sufridas. La CNMV nunca contactará \ndirectamente con posibles afectados ni autoriza el uso de su \nidentidad o imagen corporativa con el fin de recuperar pérdidas.\n\nEstafas y fraudes\n2.5 \nFraudes relacionados con criptoactivos\nLos criptoactivos, incluyendo las criptomonedas o criptodivisas, pueden \ndefinirse como una representación digital de valor o derechos, es decir, son \nactivos que no existen de forma física.\nExisten numerosos criptoactivos falsos y estafas cuyo único objetivo es \nprivarte de tu dinero. Se anuncian al público de manera agresiva en redes \nsociales, mensajes de texto, correo electrónico, por teléfono y mediante \nanuncios que aparecen en páginas web y redes sociales. Los estafadores \nutilizan diferentes técnicas, prometen increíbles ganancias y presionan a \ntomar decisiones rápidas con el objetivo de «no perder la oportunidad». \nLa información suele ser poco clara y llena de tecnicismos sobre nuevas y \ncomplejas tecnologías para confundir al inversor.\nNo te fíes nunca de promesas de ganancias extraordinarias en poco \ntiempo y asegúrate de que las empresas están autorizadas y que \nno figuren en la «lista negra» de advertencias de las autoridades \nnacionales competentes. Desconfía siempre de propuestas de \ninversión que utilizan un lenguaje técnico difícil de entender. \nNunca inviertas tu dinero en algo que no entiendes. Los intermediarios \nlegítimos nunca te presionarán para tomar decisiones de inversión \nprecipitadas.\n\nEstafas y fraudes\n¡Recuerda! Al no ser instrumentos \nfinancieros, depósitos o cualquier \notro producto regulado, los \ncriptoactivos quedan fuera de \nla protección que ofrecen las \nnormas vigentes en España y la \nUnión Europea sobre servicios \nfinancieros.\n\nEstafas y fraudes\n2.6 \nEsquemas Ponzi\nUn esquema Ponzi es una variante de la típica estafa piramidal, un modelo de \nnegocio insostenible en el que unos pocos estafadores originales reclutan a \nnuevos participantes para formar parte de su negocio, creando una jerarquía \nen forma de pirámide.\nEn el caso de un esquema Ponzi de inversión, un estafador convence a \nnuevos inversores a aportar fondos para ser invertidos, ofreciéndoles altas \nrentabilidades. En realidad, el dinero no se invierte o se invierte solo en parte; \nlos chiringuitos pagan «beneficios» (a veces muy grandes, aunque no siempre \nson los prometidos) a los primeros clientes, utilizando para ello el de los \nnuevos inversores. \nEsos primeros clientes satisfechos (que suelen reinvertir sus beneficios) a \nveces actúan, sin saberlo, como cebo, y convencen a sus amigos y familiares \npara que también aporten dinero. Parte de las nuevas aportaciones puede \nservir para pagar a los clientes anteriores, pero la mayoría se lo queda el \nchiringuito.\nCuando deja de entrar dinero nuevo, o cuando lo decide el estafador, se \ncolapsa el entramado y los clientes se quedan sin sus inversiones y sin su \ncapital original.\n\nEstafas y fraudes\n2.7 \nPhising, smishing y vishing \nTodas estas técnicas, así como otras variantes de estas, tienen como objetivo \nconseguir nuestras claves personales de acceso a nuestras cuentas bancarias \no de valores, con el fin de suplantar nuestra identidad, operar con nuestras \ncuentas y disponer de nuestros fondos.\nEl phising son correos electrónicos que parecen proceder \nde entidades financieras u otras entidades reconocidas y \nsolventes (comercios electrónicos, correos, administraciones \npúblicas…) que, por motivos «de seguridad», solicitan al \ndestinatario hacer clic en algún enlace o hipervínculo que \ndirige a una página web falsa que simula ser la web legítima, e \nintroducir sus claves de acceso u otros datos personales.\nLa mejor forma de evitar ser víctima de un esquema Ponzi es \ndesconfiar siempre de su reclamo principal: rentabilidades \ndemasiado altas con respecto a las que ofrece el mercado. También \nes importante no basar las decisiones de inversión únicamente en \nla confianza o recomendaciones de amigos o familiares. Lo que es \nbueno para un inversor puede no serlo para otro, dependiendo de \nsus diferentes circunstancias personales y financieras. Utiliza las \nrecomendaciones personalizadas de inversión de profesionales o \nentidades autorizadas para ello.\n\nEstafas y fraudes\nEl smishing es una variante de la misma técnica, que utiliza SMS \nfraudulentos, en vez de correo electrónico.\nEl vishing, cuyo nombre deriva de la combinación de voz y \nphishing, es un fraude que persigue obtener datos personales \ny bancarios a través de una llamada telefónica, engañando a la \nvíctima mediante la suplantación de la identidad de un tercero \nde confianza (por ejemplo, simulando ser empleado de una \nentidad financiera).\nEvitar caer víctima del phishing, smishing o vishing no es difícil.\n¥ Nunca respondas a correos electrónicos, mensajes de texto \no llamadas telefónicas que solicitan información personal o \nconfidencial.\n¥ Elimínalos y no descargues ni ejecutes los ficheros adjuntos.\n¥ No accedas a tu entidad a través de enlaces, sino tecleando \nla dirección URL auténtica en la barra de direcciones. Si la \nsolicitud parece legítima, llama y pregunta en un número de \nteléfono establecido por la entidad verdadera (NO el que figura \nen el correo o mensaje) para verificarla. \n¥ Crea contraseñas complejas (combinaciones de números \ny letras, mayúsculas y minúsculas, caracteres especiales…) \núnicas para cada sitio web y cámbialas con regularidad. Si \ncrees que has sido víctima de una de estas técnicas, cambia \ntus claves de inmediato y avisa a tu entidad.\nEs importante recordar que ninguna entidad financiera autorizada \npedirá jamás a sus clientes información personal ni claves completas. \nEllos ya disponen de esos datos y bajo ningún concepto necesitan \npedírtelos y, menos aún, por medios tan poco confidenciales como el \ncorreo electrónico o el teléfono.\n\nEstafas y fraudes\n2.8 \nPharming\nEl pharming es un cibercrimen parecido al phishing, pero más sofisticado. \nLos ladrones infectan tu equipo con malware que les permite redirigir el \ntráfico de sitios web legítimos a sitios web falsos, creados para recabar datos \nconfidenciales y que tienen el mismo aspecto que las auténticas. Así, pueden \nengañarte para que introduzcas tus datos confidenciales sin ningún temor, \nsin saber que los estás remitiendo a un delincuente. \nPrecauciones para evitar la estafa de pharming\n¥ Instala programas reconocidos antivirus y antimalware y \nactualiza tus dispositivos.\n¥ Utiliza un gestor de contraseñas. Una página web falsa te \npuede engañar a ti, pero no al gestor de contraseñas. Si no \nhas visitado la página anteriormente, no la reconocerá y no \nrellenará automáticamente tus datos de acceso.\n¥ Desconfía si el sitio web parece extraño, si la URL en la barra \nde direcciones se ve distinta o si la página comienza a pedir \ninformación que normalmente no se solicita.\n¥ Verifica que tienes una conexión segura — que la dirección \nempieza por «https» (y no «http») y que hay un icono de \ncandado en la barra de direcciones — . Haz clic en el candado \npara asegurarte de que el sitio web tiene un certificado de \nconfianza actualizado.\n\nEstafas y fraudes\n2.9 \nFraude financiero en redes sociales\nActualmente, muchos inversores buscan información y consejos en las redes \nsociales. Los «chiringuitos financieros» o «entidades pirata» se aprovechan \nde esta tendencia para encontrar a sus víctimas. Aunque las redes sociales \npueden aportar información válida y beneficiosa para inversores, también \ncrean grandes oportunidades para estafas y fraudes. \nMultitud de estafadores de todo tipo operan en redes sociales y suele ser \ndifícil para las autoridades encontrarlos y poner fin a sus crímenes. Los \nestafadores pueden contactar con cientos de miles de personas de forma \nrápida y sin apenas esfuerzo económico. Es sumamente fácil y barato \ndiseminar información engañosa en Telegram, TikTok, Instagram, Twitter, \nFacebook, etc., creando perfiles falsos, suplantando la identidad de entidades \nlegítimas o publicando de forma anónima. \nLas estafas propagadas por redes sociales incluyen todos los fraudes que \nya hemos visto. Otro fraude común son los intentos de manipulación de \nmercado a corto plazo, diseminando rumores falsos o información engañosa \nsobre una empresa para afectar la cotización de sus acciones, positiva o \nnegativamente.\nt\nf\nf\n\nEstafas y fraudes\nPor ejemplo, un rumor positivo sobre una empresa puede incitar a muchos \ninversores a comprar sus acciones, creando demanda desorbitada y haciendo \nsubir mucho el precio de las acciones en poco tiempo, sobre todo \nsi se propaga el rumor de forma «viral» \nCuando la cotización de las acciones alcance cierto nivel, los estafadores que \nempezaron el rumor venden sus acciones que han adquirido con anterioridad \na menor precio, a un precio artificialmente alto, obteniendo ganancias. El \nmercado acabará corrigiéndose y la mayoría de inversores que compraron \nlas acciones a precios altos sufrirán pérdidas. Lo mismo puede ocurrir a la \ninversa: rumores falsos negativos sobre una empresa pueden convencer a los \ninversores a vender sus acciones, lo que permite a los estafadores comprarlas \na precios artificialmente bajos.\nTambién hay que tener mucha precaución con los llamados «influencers \nfinancieros», es decir, personas que se dedican a hablar públicamente de sus \nestrategias de inversión, las ventajas de utilizar una determinada herramienta \ny la facilidad con la que obtienen beneficios de una forma rápida y sencilla.\nAunque existen personas honestas y entidades legítimas que publican \nrecomendaciones de inversión en las redes sociales, muchos «influencers», \nson chiringuitos financieros que solo quieren atraer al público a plataformas \ndigitales ilícitas o hacerles caer en algún otro tipo de estafa.\n\nEstafas y fraudes\nAunque todo el mundo parezca estar a favor de \ndeterminados consejos de inversión a través de las \nredes sociales, no te dejes engañar. Aunque parezca \nque gran número de personas están invirtiendo en un \nproducto determinado con aparente éxito, puede no \nser verdad. \nNo te dejes llevar por el «efecto manada», un sesgo \ncognitivo que nos incita a actuar de una forma, \nsimplemente porque lo hacen los demás.\nDesconfía siempre de ofertas de inversión no solicitadas \nque te llegan a través de redes sociales.\nAsegúrate de verificar la fuente de cualquier información \nsobre inversiones que encuentras en Internet.\n¡Cuidado con los «influencers financieros»,! Recuerda \nque los personajes famosos que dan recomendaciones \nde inversión en redes sociales normalmente reciben una \ncompensación económica por hacerlo. Se les contrata \nporque tienen muchos seguidores. En ocasiones, ellos \nmismos son cómplices de estafadores, sin saberlo. \nAún en el mejor de los casos, las inversiones no son \nde talla única. Lo que puede ser recomendable para \nun inversor no siempre lo será para otro. Es más \naconsejable acudir a un intermediario autorizado para \nrecibir recomendaciones personales que encajen con \ntu perfil, objetivos y tolerancia al riesgo.\nNunca tomes decisiones de inversión basadas \núnicamente en recomendaciones de celebridades.\n\nEstafas y fraudes\nIII. Resumen de \nrecomendaciones para \nprevenir estafas y \nfraudes financieros \nConfiar en una empresa no autorizada es una forma segura de perder tu \ndinero. Como no son verdaderos profesionales de los mercados financieros, \nno es posible recurrir a ninguno de los mecanismos de protección del \ninversor previstos en las disposiciones legales. Repasemos las principales \nrecomendaciones para evitar estafas y fraudes financieros.\nLo más importante es no entregar nunca dinero a un intermediario \nsin haber verificado que figura en los registros de la CNMV, del \nBanco de España o de la Dirección General de Seguros y Fondos de \nPensiones como entidad autorizada para prestar los servicios de \ninversión que quieres contratar. Lo más rápido y sencillo es pedir \nesta información a la CNMV. Comprueba también si la CNMV ha \npublicado una advertencia sobre la empresa. \nDesconfía de ofertas de entidades que dicen estar autorizadas pero \ncuya dirección está incompleta o no existe, el contacto es a través \nde números de móvil o cuyo prefijo no es español.\nEl teléfono de atención al inversor 900 535 015 de la CNMV \nestá a tu disposición para informarte sobre la habilitación de \nlas entidades para prestar o no servicios de inversión.\n\nEstafas y fraudes\nDesconfía siempre de cualquier propuesta de inversión que no \nhayas solicitado, sea a través del teléfono, correo electrónico, \nmensajes en redes sociales, o cualquier otro canal. Cuanto más \ntentadora es la oferta, más seguridad de que sea un fraude. Los \nintermediarios financieros autorizados no se dirigen a personas que \nno son clientes con ofertas de inversión.\nDesconfía siempre de ofertas en productos de inversión que \naseguran grandes rentabilidades sin riesgo. Estas promesas son \nfalsas. A mayor rentabilidad potencial, mayor es el riesgo asumido. \nNo hay inversión sin riesgo.\nDesconfía de ofertas de financiación o de inversión en condiciones \nmuy favorables de entidades situadas en países remotos, de las que \nno puedes obtener información. Casi siempre se trata de «entidades \nfantasmas» que te pedirán que envíes una cantidad de dinero que \nno recuperarás.\nProtege tus datos personales. No compartas tus claves de acceso \ncon terceros y desconfía siempre de los correos electrónicos, \nmensajes de texto o llamadas telefónicas que solicitan estos datos. \nNo sigas ningún enlace de un correo electrónico sin haber verificado \nsu procedencia.\nDesconfía siempre de personas o empresas que intentan suplantar \nla identidad de la CNMV, utilizando su nombre o su logotipo para \nhacer recomendaciones o vender productos de inversión. Estas \nrecomendaciones y ofertas siempre son estafas, ya qua la CNMV \nnunca recomienda inversiones.\nNunca tomes decisiones de inversión basadas únicamente en \nrecomendaciones vistas en redes sociales y averigua la fuente\nde la información.\n\nEstafas y fraudes\nIV. ¿Qué hacer si has sido \nvíctima de una estafa? \nSi ya has entregado dinero a un chiringuito, no siempre será posible \nrecuperarlo. Sin embargo, es importante estar atento a ciertas señales, \npara intentar reaccionar lo antes posible:\n¥ La persona de contacto se vuelve inaccesible, no atienden a las \nsolicitudes de reembolso, no se recibe ninguna información o la que se \nobtiene es insuficiente e incomprensible, etc. Estos son algunos de los \ncomportamientos irregulares que delatan a un chiringuito financiero. En \ntales casos es aconsejable presionarles para que devuelvan el dinero, \namenazándoles si es necesario con acudir a las autoridades. Este aviso \nno siempre es efectivo, ya que precisamente su situación de ilegalidad \nles permite desaparecer o cambiar de nombre con gran facilidad, lo que \ndificulta la actuación de los organismos supervisores.\n¥ En ocasiones, su respuesta es que la inversión no ha resultado como \nse esperaba, que se han registrado pérdidas y que precisamente en ese \nmomento no conviene deshacer posiciones sino aumentar la inversión, \npara aprovechar el inminente cambio de tendencia. Lo realmente \npeligroso en este caso es continuar realizando aportaciones, ya que con \ntoda seguridad ese capital tampoco se va a recuperar.\n¥ Tanto si consigues que te devuelvan todo o parte del capital como si \nno es así, es muy importante que pongas los hechos en conocimiento \nde la CNMV y denuncies lo ocurrido a la Policía , Guardia Civil o al \nJuzgado correspondiente. Puede ser la única oportunidad de recuperar \ntu inversión. Las denuncias presentadas permiten a los organismos \nresponsables difundir las correspondientes advertencias, ayudando a \nque otros inversores no se vean estafados por el mismo chiringuito.\n¥ Recuerda que, para garantizar la eficacia de una posible actuación \njudicial, deberás presentar toda la documentación que acredite los \nservicios recibidos y los importes implicados.\n\nEsta guía tiene como finalidad informar al público en general sobre distintos \naspectos relacionados con los mercados de valores. Por su naturaleza \ndivulgativa no puede constituir un soporte para posteriores interpretaciones \njurídicas, siendo la normativa vigente la única de aplicabilidad para estos fines.\neducacionfinanciera@cnmv.es \nContáctanos por email\n¿Necesitas más \ninformación?",
+  "text_len": 24851,
+  "num_headings": 17,
+  "metadata": {
+    "producer": "iLovePDF",
+    "creation_date": "2026-06-05",
+    "mod_date": "2026-06-05"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": true,
+  "csv_meta": {
+    "title": "Estafas y fraudes financieros",
+    "topic": "fraude",
+    "subtopic": "tipos de estafas",
+    "difficulty": "básico",
+    "format": "PDF",
+    "summary": "Tipos de estafas financieras más comunes y cómo identificarlas",
+    "learning_objective": "Reconocer y evitar estafas financieras"
+  },
+  "pdf_info": {
+    "n_pages": 23,
+    "body_size": 13.0,
+    "extractor": "pymupdf"
+  },
+  "deduped_from": null
+}

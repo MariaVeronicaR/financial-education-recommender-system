@@ -1,0 +1,81 @@
+{
+  "content_id": "C088",
+  "url": "https://clientebancario.bde.es/pcb/es/blog/que-es-la-inflacion--como-nos-afecta-.html",
+  "source": "Portal Cliente Bancario BdE",
+  "host": "clientebancario.bde.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 39059
+  },
+  "title": "¿Qué es la inflación? ¿Cómo nos afecta?",
+  "headings": [
+    {
+      "level": 1,
+      "text": "¿Qué es la inflación? ¿Cómo nos afecta?"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "¿Qué es la inflación? ¿Cómo nos afecta?",
+      "start": 0,
+      "end": 3150,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Qué es la inflación? ¿Cómo nos afecta?"
+    },
+    {
+      "type": "paragraph",
+      "text": "28/04/2022\nConsideramos que hay inflación cuando se produce un aumento sostenido y generalizado de los precios durante un cierto periodo de tiempo. Esto tiene como consecuencia que nuestro dinero va perdiendo valor con el paso del tiempo. Es decir, con cada euro que tenemos hoy, podemos comprar menos bienes o contratar menos servicios que ayer.\nLa inflación se mide a través de un índice de precios de consumo (IPC), que se construye calculando la variación de los precios de la “cesta de la compra”, es decir, del conjunto de bienes y servicios que las familias consumen habitualmente.\nEn los países de la zona euro medimos la inflación con el Índice Armonizado de Precios de Consumo (IAPC), utilizando todos la misma metodología (por eso se llama “armonizado”), de modo que podemos comparar la inflación entre los países.\n¿Qué bienes y servicios tiene en cuenta el IAPC? Los que permiten representar mejor los hábitos medios de consumo del conjunto de las familias. Los bienes y servicios que se suelen consumir más tienen más peso en el índice.\nAsí pues, el impacto que tiene en el índice la variación en el precio de un determinado bien o servicio depende de los hábitos de consumo de las familias: Cuanto más alto es el gasto habitual en ese bien o servicio más influirá la variación de su precio en el IAPC.\nPor ejemplo, el gasto de electricidad de una familia es mucho mayor que el gasto que supone el consumo de mantequilla. Por tanto, una variación en el precio de la electricidad va a tener un impacto mucho mayor en el índice que el del precio de la mantequilla o el de otros muchos artículos de la cesta de referencia.\n¿Y qué pasa con nuestros ahorros?\nComo ya hemos indicado anteriormente, cuando hay inflación nuestro dinero pierde valor.\nPor lo tanto, si queremos calcular la rentabilidad que nos puede generar una cantidad de dinero que hemos decidido mantener o invertir, tenemos que tener en cuenta la inflación y corregir la rentabilidad esperada restando la tasa de inflación.\nPara evitar que nuestros ahorros pierdan valor con el tiempo en un escenario con inflación, la rentabilidad que nos ofrezcan por ellos debe ser superior a la tasa de inflación.\n¿Por qué es importante la estabilidad de precios?\nHablamos de estabilidad de precios cuando la inflación es baja, se mantiene estable a lo largo del tiempo y resulta predecible. Si la evolución de los precios es predecible, y su tasa de variación es baja a lo largo del tiempo, nos resultará más fácil organizar nuestras finanzas y la estimación de nuestros gastos será más precisa. Además, este entorno general de menor incertidumbre influye positivamente en el crecimiento de la economía.\nPor ello, la política monetaria del Banco Central Europeo (BCE) tiene como misión principal la estabilidad de precios, que define en términos de un objetivo de inflación del 2% a medio plazo.\nPuedes encontrar datos estadísticos y más información sobre la inflación en la página web del BCEAbre en ventana nueva.\nSi eres profesor de economía de los primeros cursos de secundaria (o un ciudadano con curiosidad) este material te puede interesar:",
+      "links": [
+        {
+          "text": "página web del BCEAbre en ventana nueva",
+          "href": "https://www.ecb.europa.eu/ecb/educational/hicp/html/index.es.html",
+          "start": 2938,
+          "end": 2977
+        }
+      ]
+    }
+  ],
+  "text": "¿Qué es la inflación? ¿Cómo nos afecta?\n28/04/2022\nConsideramos que hay inflación cuando se produce un aumento sostenido y generalizado de los precios durante un cierto periodo de tiempo. Esto tiene como consecuencia que nuestro dinero va perdiendo valor con el paso del tiempo. Es decir, con cada euro que tenemos hoy, podemos comprar menos bienes o contratar menos servicios que ayer.\nLa inflación se mide a través de un índice de precios de consumo (IPC), que se construye calculando la variación de los precios de la “cesta de la compra”, es decir, del conjunto de bienes y servicios que las familias consumen habitualmente.\nEn los países de la zona euro medimos la inflación con el Índice Armonizado de Precios de Consumo (IAPC), utilizando todos la misma metodología (por eso se llama “armonizado”), de modo que podemos comparar la inflación entre los países.\n¿Qué bienes y servicios tiene en cuenta el IAPC? Los que permiten representar mejor los hábitos medios de consumo del conjunto de las familias. Los bienes y servicios que se suelen consumir más tienen más peso en el índice.\nAsí pues, el impacto que tiene en el índice la variación en el precio de un determinado bien o servicio depende de los hábitos de consumo de las familias: Cuanto más alto es el gasto habitual en ese bien o servicio más influirá la variación de su precio en el IAPC.\nPor ejemplo, el gasto de electricidad de una familia es mucho mayor que el gasto que supone el consumo de mantequilla. Por tanto, una variación en el precio de la electricidad va a tener un impacto mucho mayor en el índice que el del precio de la mantequilla o el de otros muchos artículos de la cesta de referencia.\n¿Y qué pasa con nuestros ahorros?\nComo ya hemos indicado anteriormente, cuando hay inflación nuestro dinero pierde valor.\nPor lo tanto, si queremos calcular la rentabilidad que nos puede generar una cantidad de dinero que hemos decidido mantener o invertir, tenemos que tener en cuenta la inflación y corregir la rentabilidad esperada restando la tasa de inflación.\nPara evitar que nuestros ahorros pierdan valor con el tiempo en un escenario con inflación, la rentabilidad que nos ofrezcan por ellos debe ser superior a la tasa de inflación.\n¿Por qué es importante la estabilidad de precios?\nHablamos de estabilidad de precios cuando la inflación es baja, se mantiene estable a lo largo del tiempo y resulta predecible. Si la evolución de los precios es predecible, y su tasa de variación es baja a lo largo del tiempo, nos resultará más fácil organizar nuestras finanzas y la estimación de nuestros gastos será más precisa. Además, este entorno general de menor incertidumbre influye positivamente en el crecimiento de la economía.\nPor ello, la política monetaria del Banco Central Europeo (BCE) tiene como misión principal la estabilidad de precios, que define en términos de un objetivo de inflación del 2% a medio plazo.\nPuedes encontrar datos estadísticos y más información sobre la inflación en la página web del BCEAbre en ventana nueva.\nSi eres profesor de economía de los primeros cursos de secundaria (o un ciudadano con curiosidad) este material te puede interesar:",
+  "text_len": 3150,
+  "num_headings": 1,
+  "metadata": {
+    "title": "¿Qué es la inflación? ¿Cómo nos afecta?",
+    "url": "https://clientebancario.bde.es/pcb/es/blog/que-es-la-inflacion--como-nos-afecta-.html",
+    "hostname": "clientebancario.bde.es",
+    "description": "¿Qué es la inflación? ¿Cómo nos afecta?",
+    "sitename": "clientebancario.bde.es",
+    "date": "2022-04-28",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Qué es la inflación y cómo nos afecta",
+    "topic": "inflación",
+    "subtopic": "conceptos",
+    "difficulty": "básico",
+    "format": "artículo web",
+    "summary": "Explicación sencilla del Banco de España sobre la inflación y el impacto en la economía familiar",
+    "learning_objective": "Entender el impacto de la inflación en la vida cotidiana"
+  },
+  "deduped_from": null
+}

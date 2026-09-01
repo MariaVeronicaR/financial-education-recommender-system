@@ -1,0 +1,57 @@
+{
+  "content_id": "C014",
+  "tldr": "Invertir consiste en comprometer parte de tus ahorros con la esperanza, pero sin certeza, de obtener una rentabilidad, por lo que siempre implica riesgo. Se diferencia del ahorro, que busca preservar el capital para objetivos a corto plazo y emergencias, en que la inversión busca el crecimiento a largo plazo asumiendo riesgo. La clave es entender el binomio riesgo-rentabilidad: a mayor rentabilidad esperada, mayor riesgo, y no hay inversión sin riesgo. Antes de invertir hay que definir el perfil inversor, usar intermediarios autorizados y solo invertir dinero que no sea imprescindible a corto plazo.",
+  "key_points": [
+    "Invertir implica riesgo: no hay certeza de obtener rentabilidad e incluso se puede perder el capital.",
+    "El ahorro busca preservar el dinero para emergencias o necesidades a corto plazo, con productos como depósitos y libretas de ahorro.",
+    "La inversión busca el crecimiento a largo plazo mediante productos como renta fija, acciones o fondos de inversión.",
+    "Existe un binomio riesgo-rentabilidad: a mayor rentabilidad esperada, mayor riesgo asumido.",
+    "Antes de invertir hay que definir tu perfil inversor, usar intermediarios autorizados y solo invertir dinero que no necesites a corto plazo."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cuál es la diferencia principal entre ahorrar e invertir?",
+      "options": [
+        "Ahorrar busca el crecimiento a largo plazo y asume riesgo, mientras que invertir preserva el capital a corto plazo.",
+        "Ahorrar busca preservar el capital para objetivos a corto plazo, mientras que invertir busca el crecimiento a largo plazo asumiendo riesgo.",
+        "Ahorrar siempre da más rentabilidad que invertir, por lo que es la mejor opción para crecer.",
+        "No hay diferencia: ahorrar e invertir son exactamente lo mismo."
+      ],
+      "correct_index": 1,
+      "explanation": "El ahorro se orienta a objetivos a corto plazo o emergencias sin riesgo de perder capital, mientras que la inversión busca el crecimiento a largo plazo asumiendo riesgo.",
+      "concept_id": "C12"
+    },
+    {
+      "question": "Según el binomio riesgo-rentabilidad, ¿qué significa que un producto de inversión sea 'agresivo'?",
+      "options": [
+        "Que garantiza una alta rentabilidad sin ningún riesgo.",
+        "Que tiene un nivel de riesgo alto y, por tanto, una rentabilidad potencial elevada, pero sin garantías.",
+        "Que es un producto sin riesgo pensado para conservar el capital.",
+        "Que es un producto regulado que nunca puede perder valor."
+      ],
+      "correct_index": 1,
+      "explanation": "Las estrategias 'agresivas' asumen un alto nivel de riesgo con una rentabilidad potencial elevada, pero aceptar más riesgo nunca garantiza mayores rendimientos.",
+      "concept_id": "C13"
+    },
+    {
+      "question": "¿Cuál de las siguientes situaciones es una forma responsable de invertir?",
+      "options": [
+        "Invertir todo tu dinero siguiendo el consejo de un conocido de Internet.",
+        "Invertir dinero que necesitas a corto plazo para pagar tus obligaciones.",
+        "Invertir solo el dinero que no necesitas a corto plazo, a través de intermediarios autorizados y tras analizar información fiable.",
+        "Invertir basándote únicamente en la intuición o en sentimientos."
+      ],
+      "correct_index": 2,
+      "explanation": "Invertir debe ser una decisión meditada: se invierte el excedente que no sea imprescindible a corto plazo, con intermediarios autorizados y consultando información fiable.",
+      "concept_id": "C12"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 6557,
+    "input_tokens": 2429,
+    "output_tokens": 1056
+  }
+}

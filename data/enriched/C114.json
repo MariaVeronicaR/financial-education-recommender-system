@@ -1,0 +1,57 @@
+{
+  "content_id": "C114",
+  "tldr": "Este glosario explica la terminología esencial de los criptoactivos y la blockchain, desde conceptos básicos como Bitcoin y las cadenas de bloques (públicas, privadas e híbridas) hasta tecnologías avanzadas como los contratos inteligentes, las dApps, DeFi, los mecanismos de consenso (PoW y PoS) y los tipos de monederos. También cubre aspectos prácticos como el gas de Ethereum, las plataformas de intercambio y la nueva regulación europea MiCA, ofreciendo una base sólida para entender el ecosistema cripto.",
+  "key_points": [
+    "Un criptoactivo es una representación digital de un valor o derecho que se transfiere y almacena electrónicamente mediante blockchain u otras tecnologías de registro distribuido.",
+    "La blockchain es un registro donde los datos se guardan en bloques encadenados mediante criptografía, garantizando inmutabilidad y trazabilidad.",
+    "Los contratos inteligentes (smart contracts) son programas que se ejecutan automáticamente al cumplirse condiciones previamente establecidas, y son la base de las dApps y DeFi.",
+    "Existen distintos monederos: los calientes (hot wallets) están conectados a internet y son más versátiles, mientras que los fríos (cold wallets) ofrecen mayor seguridad al no estar conectados.",
+    "El Reglamento MiCA es la primera regulación europea de mercados de criptoactivos, aplicable en España desde 2024."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cuál es la principal diferencia entre un monedero frío (cold wallet) y uno caliente (hot wallet)?",
+      "options": [
+        "El monedero frío está conectado a internet y el caliente no",
+        "El monedero frío no está permanentemente conectado a internet y ofrece mayor seguridad para almacenar criptoactivos",
+        "El monedero caliente solo se puede usar con Bitcoin y el frío con Ethereum",
+        "El monedero frío almacena claves públicas y el caliente claves privadas"
+      ],
+      "correct_index": 1,
+      "explanation": "Los monederos fríos (cold wallets) son dispositivos físicos no conectados permanentemente a internet, lo que los hace más seguros, mientras que los calientes (hot wallets) están conectados y son más versátiles para operaciones diarias.",
+      "concept_id": "C27"
+    },
+    {
+      "question": "¿Qué caracteriza a una cadena de bloques (blockchain) pública frente a una privada?",
+      "options": [
+        "La pública es accesible sin permiso y con datos abiertos, mientras que la privada requiere autorización de una entidad central",
+        "La pública solo la usan los bancos centrales y la privada las empresas tecnológicas",
+        "La pública no usa criptografía y la privada sí",
+        "La pública es más lenta y la privada no permite transacciones"
+      ],
+      "correct_index": 0,
+      "explanation": "Una blockchain pública es accesible sin permiso a través de Internet con datos abiertos, mientras que la privada cuenta con una entidad central que controla el acceso y los permisos de los usuarios.",
+      "concept_id": "C27"
+    },
+    {
+      "question": "¿Qué es un contrato inteligente (smart contract) y en qué se basa su funcionamiento?",
+      "options": [
+        "Un documento legal firmado ante notario que regula las transacciones cripto",
+        "Un programa informático almacenado en la blockchain que se ejecuta automáticamente cuando se cumplen condiciones previamente establecidas",
+        "Un monedero que cifra las claves privadas del usuario",
+        "Una plataforma de intercambio donde se compran y venden criptoactivos"
+      ],
+      "correct_index": 1,
+      "explanation": "Los smart contracts son programas almacenados en una blockchain que se ejecutan de forma automática al cumplirse condiciones preestablecidas, sin necesidad de intermediarios.",
+      "concept_id": "C27"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5735,
+    "input_tokens": 5421,
+    "output_tokens": 1137
+  }
+}

@@ -1,0 +1,677 @@
+{
+  "content_id": "C100",
+  "url": "https://www.cnmv.es/DocPortal/Publicaciones/Guias/LosProductosDeRentaFija.pdf",
+  "source": "CNMV",
+  "host": "www.cnmv.es",
+  "url_type": "pdf",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 845945
+  },
+  "title": "Los Productos de Renta Fija",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Los productos"
+    },
+    {
+      "level": 1,
+      "text": "de Renta Fija"
+    },
+    {
+      "level": 1,
+      "text": "I. ¿Qué es la Renta Fija?"
+    },
+    {
+      "level": 1,
+      "text": "II. Algunos conceptos"
+    },
+    {
+      "level": 1,
+      "text": "III. Elementos a"
+    },
+    {
+      "level": 1,
+      "text": "Cada inversor tiene que decidir"
+    },
+    {
+      "level": 1,
+      "text": "el nivel de riesgo que está"
+    },
+    {
+      "level": 1,
+      "text": "dispuesto a asumir en busca"
+    },
+    {
+      "level": 1,
+      "text": "de rentabilidades mayores."
+    },
+    {
+      "level": 1,
+      "text": "IV. Productos de renta"
+    },
+    {
+      "level": 1,
+      "text": "V. Deuda pública"
+    },
+    {
+      "level": 1,
+      "text": "VI. Renta Fija Privada"
+    },
+    {
+      "level": 1,
+      "text": "VII. Aspectos a tener en"
+    },
+    {
+      "level": 1,
+      "text": "VIII. Consejos al Inversor"
+    },
+    {
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "level": 1,
+      "text": "información?"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Los productos",
+      "start": 0,
+      "end": 13,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "de Renta Fija",
+      "start": 13,
+      "end": 300,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "I. ¿Qué es la Renta Fija?",
+      "start": 300,
+      "end": 2689,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "II. Algunos conceptos",
+      "start": 2689,
+      "end": 5323,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "III. Elementos a",
+      "start": 5323,
+      "end": 6540,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "Cada inversor tiene que decidir",
+      "start": 6540,
+      "end": 6588,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "el nivel de riesgo que está",
+      "start": 6588,
+      "end": 6617,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "dispuesto a asumir en busca",
+      "start": 6617,
+      "end": 6646,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "de rentabilidades mayores.",
+      "start": 6646,
+      "end": 22450,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "IV. Productos de renta",
+      "start": 22450,
+      "end": 22898,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "V. Deuda pública",
+      "start": 22898,
+      "end": 26883,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VI. Renta Fija Privada",
+      "start": 26883,
+      "end": 45930,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VII. Aspectos a tener en",
+      "start": 45930,
+      "end": 58666,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VIII. Consejos al Inversor",
+      "start": 58666,
+      "end": 61163,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "¿Necesitas más",
+      "start": 61163,
+      "end": 61212,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "información?",
+      "start": 61212,
+      "end": 61238,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Los productos"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "de Renta Fija"
+    },
+    {
+      "type": "paragraph",
+      "text": "Guía"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nÍndice\n¿Qué es la Renta Fija?\nAlgunos conceptos útiles\nElementos a considerar\nProductos de renta fija\nDeuda pública\nRenta Fija Privada\nAspectos a tener en cuenta\nConsejos al Inversor"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "I. ¿Qué es la Renta Fija?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los activos de renta fija se corresponden con un amplio conjunto de\nvalores negociables e instrumentos del mercado monetario1 que emiten las\nempresas y las instituciones públicas, y que representan préstamos que\nestas entidades reciben de los inversores. La renta fija no confiere derechos\npolíticos a su tenedor, sino solo derechos económicos, entre los que cabe\ndestacar el derecho a percibir los intereses pactados y, en algunos casos, a\nla devolución de la totalidad o parte del capital invertido en una fecha dada,\ndependiendo de si se trata de renta fija simple o no. Un inversor en renta fija\nse convierte en acreedor de la sociedad emisora, mientras que el accionista\nes un socio propietario de una parte del capital social. Esta diferencia no es\ntrivial, pues:\n¥ En caso de liquidación de la sociedad, el acreedor tiene prioridad\nfrente a los socios.\n¥ El accionista cuenta con una serie de derechos cuyo ejercicio requiere\nuna mayor implicación que los del inversor en renta fija: mayor\nseguimiento de la información, participación, en su caso, en la Junta\nGeneral de Accionistas o delegación del voto, etc.\nLos productos\nde Renta Fija"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Se entiende por instrumentos del mercado monetario aquellas categorías de\ninstrumentos que se negocian habitualmente en el mercado monetario, como\nLetras del Tesoro y efectos comerciales, excluidos los instrumentos de pago."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nAunque tradicionalmente en la renta fija los intereses del préstamo estaban\nestablecidos de forma exacta desde el momento de la emisión hasta su\nvencimiento, actualmente existen otras posibilidades más sofisticadas.\nFrecuentemente los intereses y, a veces, el precio de amortización, son\nvariables, estando referenciados a determinados indicadores: tipos de interés,\níndices o, incluso, a la evolución de una o varias acciones, teniendo a veces\notras características especiales.\nEs importante tener en cuenta que los valores llamados de renta\nfija no están exentos de riesgo y la rentabilidad final obtenida\npuede diferir de lo inicialmente previsto. En el caso de algunos\nproductos y/o en determinadas circunstancias, se pueden sufrir\nincluso pérdidas en el capital invertido.\nAdemás, algunos productos de renta fija pueden ser difíciles de\nentender y, en algunos casos, pueden no ser adecuados para\ninversores minoristas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. Algunos conceptos"
+    },
+    {
+      "type": "paragraph",
+      "text": "útiles\nEl inversor en renta fija debe familiarizarse con conceptos como los siguientes:\n¥ Valor nominal\nEs el importe sobre el que se basa el cálculo de los intereses a pagar.\n¥ Precio de emisión\nPrecio efectivo de cada valor en el momento de la suscripción.\nNormalmente coincide con el valor nominal, aunque en algunos casos\npuede ser inferior (si se emite con descuento) o superior (si se emite\ncon prima).\n¥ Precio de reembolso\nEs el que recibe el inversor en el momento de la amortización y puede\ncoincidir con el valor nominal o puede ser inferior o superior.\n¥ Amortización\nSe refiere a la devolución del capital inicial a la fecha de vencimiento\ndel valor. Puede estar pactada la posibilidad de amortización\nanticipada, bien a opción del emisor o del inversor y, en ambos casos,\npuede ser total o parcial.\n¥ Prima de reembolso\nSi en la fecha de amortización el emisor abona una cantidad superior\nal valor nominal de los títulos, la diferencia entre ambos es la prima de\nreembolso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\n¥ Cupones\nImporte de los pagos periódicos (trimestrales, semestrales, anuales,\netc.) de intereses pactados en la emisión. Se denomina cupón corrido\na la parte del cupón devengada y todavía no pagada en una fecha\ndeterminada comprendida entre el cobro de dos cupones. Su importe\nse añade al valor del bono cuando se compra o vende en el mercado\nsecundario con cotización ex cupón.\n¥ Emisiones cupón cero\nSon valores que no tienen cupones periódicos y cuyos intereses se\nabonan al vencimiento junto con el principal. Generalmente tienen\nvencimiento a corto-medio plazo.\n¥ Emisiones al descuento\nSon valores que no tienen cupones periódicos, en los que la\nrentabilidad (positiva o negativa) viene dada por la diferencia entre\nel precio al que el inversor los adquiere y el precio que se recibe al\nvencimiento (generalmente, el valor nominal) o el precio de venta, en\ncaso de vender el valor antes de su vencimiento. Las Letras del Tesoro\ny los pagarés de empresa son de este tipo.\nPor lo tanto, para obtener una rentabilidad positiva, el precio de\nemisión o compra debería ser más bajo que el obtenido a vencimiento\no en el momento de la venta.\n¥ Mercado primario\nEs aquel en el que los valores se ofrecen al público por primera vez.\nEn el caso de la renta fija, suele coincidir con el momento en el que se\nemiten los valores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\n¥ Mercado secundario\nEs aquel en el que se realizan intercambios de titularidad\n(compraventas) de valores ya existentes (esto es, que ya han sido\npreviamente emitidos y colocados)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "III. Elementos a"
+    },
+    {
+      "type": "paragraph",
+      "text": "considerar\nAunque los valores de renta fija pueden tener características muy distintas,\nexisten dos parámetros cuyo análisis es esencial: la rentabilidad y el riesgo.\nEsto es lo que se conoce como el binomio rentabilidad-riesgo.\nEn una inversión, los rendimientos futuros (rentabilidad) no son seguros.\nPueden ser grandes o modestos, pueden no producirse o incluso en algunos\ncasos se puede perder todo o parte del capital invertido. Esta incertidumbre\nse conoce como riesgo.\nNo existe inversión sin riesgo, pero algunos productos tienen más riesgo\nque otros. La razón fundamental para elegir una inversión con riesgo ante\nuna alternativa de ahorro sin riesgo es la posibilidad de obtener de ella una\nrentabilidad mayor.\nEsto es, cuanto mayor sea el riesgo de una inversión, mayor tendría que ser\nsu rentabilidad potencial para que sea atractiva a los inversores. Cuanto más\nriesgo se asume, más rentabilidad se debe exigir. Igualmente, cuanta más\nrentabilidad se pretende obtener, más riesgo hay que asumir.\nPor lo tanto, riesgo y rentabilidad van unidos, pero aceptar un mayor riesgo no\nes ninguna garantía de obtener mayores rendimientos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cada inversor tiene que decidir"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "el nivel de riesgo que está"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "dispuesto a asumir en busca"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "de rentabilidades mayores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nLas diferentes normas aprobadas en los últimos años han incrementado\nnotablemente la información que se pone a disposición del cliente. En muchas\nocasiones, la información facilitada es muy amplia y contiene un lenguaje\nexcesivamente técnico lo que dificulta la comprensión de las características\ny riesgos de los productos. Es por ello que, para algunos productos, se\nha establecido en la legislación el llamado “indicador de riesgo” que las\nentidades deben facilitar al cliente cuando le presten servicios de inversión o\ncomercialicen un producto financiero. Este indicador clasifica al producto en\n6 posibles categorías (numeradas del 1 al 6, siendo 1 la de menor riesgo y 6 la\nde mayor riesgo).\nEl inversor debe saber que, para determinados productos, como por ejemplo\nlos bonos y obligaciones simples, el comercializador debe informarle\npreviamente sobre este “indicador de riesgo”.\nAdemás, cuando se den determinadas circunstancias, las entidades incluirán\nalertas sobre las posibles limitaciones a la liquidez y sobre la complejidad, en\nsu caso, de los productos financieros.\nUn producto de renta fija podría obtener una rentabilidad mayor\nque uno de renta variable. También podría suponer mayor riesgo.\nDepende de muchos factores. Además, dentro de cada categoría\nexisten productos con distintos niveles de riesgo, liquidez,\nhorizonte temporal, etc. Hay que comparar las características\nprincipales de productos de una misma categoría."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nLa rentabilidad\nEn su forma más simple es el cociente entre los rendimientos netos de\nla inversión y la cantidad de dinero invertida, expresada en porcentaje.\nSin embargo, el cálculo de la rentabilidad en la práctica es algo más\ncomplejo.\nEn primer lugar, es necesario considerar los rendimientos netos, es\ndecir, los ingresos percibidos menos los gastos en que se incurre. En\nconcreto, habrá que tener en cuenta tanto los gastos derivados de la\noperativa (comisiones por la tramitación de órdenes de compra, venta,\nsuscripción o reembolso), como los que posteriormente habrá que pagar\na la entidad financiera por el mantenimiento de esta inversión (gastos de\ncustodia y administración de valores).\nPor otra parte, hay que considerar el efecto de la fiscalidad sobre la\nrentabilidad, pues lo relevante para el inversor es el rendimiento neto\ndespués de impuestos. Hay que tener en cuenta que la fiscalidad de\nun mismo producto puede ser diferente según sean las circunstancias\npersonales de cada inversor, y el impacto fiscal también puede cambiar\na lo largo del tiempo por dos causas: modificaciones legislativas\nque impliquen cambios en el régimen fiscal aplicable al producto o\nmodificaciones de la propia renta o patrimonio, que supongan un efecto\ndistinto de esta tributación en su impuesto personal.\nOtro aspecto a considerar es el periodo durante el que se espera\nmantener la inversión. En general, los productos de renta fija generan\ningresos (y a veces gastos) a lo largo del tiempo de tenencia. Para poder\ncompararlos entre sí, hay que saber cuánto valdrían en el momento\nactual todos esos flujos, es decir, es necesario actualizar su valor.\na)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nLa noción de que el dinero tiene un valor temporal es uno de los\nconceptos básicos de las finanzas. Un mismo capital en el momento\npresente tiene mayor valor que en el futuro. Los motivos son:\nLa inflación reduce el poder adquisitivo del capital en el\ntiempo.\nExiste el riesgo, aunque en algunos casos pueda ser\nremoto, de que se incumpla la promesa de devolución del\ncapital.\nSe renuncia a poder utilizarlo en otra inversión, consumirlo\no gastarlo (coste de oportunidad).\nLos distintos métodos de valoración de activos se basan en el principio\ngeneral de descontar todo lo que se espera obtener de ellos en el futuro\na un tipo de interés (o tasa de descuento) para conocer su valor actual.\nEn el caso de la renta fija, los ingresos esperados son los cupones, fijos\no variables, que se obtendrán en los distintos momentos del tiempo, así\ncomo el importe que se recibirá a vencimiento.\nEs posible hacer distintas estimaciones sobre los tipos de interés futuros\ny sobre el importe de los próximos cupones. Por esta razón, el precio\nactual teórico no es único, lo que explica que unas personas puedan\ndesear comprar y otras vender un mismo activo (si el precio teórico\nactual es superior al del mercado, comprarán, y venderán en caso\ncontrario).\nUn instrumento muy útil para medir la rentabilidad de un instrumento y\ncomparar distintos productos es la llamada tasa interna de rentabilidad\n(TIR), que es la tasa o tanto medio efectivo que iguala el precio de un\nbono con la corriente de pagos generada por el mismo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nEsta operación se realiza fácilmente con una calculadora financiera o una\nsimple hoja de cálculo. En todo caso, puede consultar a su intermediario\nel método de cálculo.\nEjemplo: Tasa interna de rentabilidad\nComparemos los siguientes bonos:\nComo puede observarse, el bono 2 es el que proporciona un\nmayor cupón anual. Sin embargo, de los 3 bonos considerados en\nel ejemplo, es el que tiene menor tasa interna de rentabilidad.\nPero no siempre es posible calcular de antemano estas rentabilidades. En\nlos valores con tipo de interés fijo, el inversor puede conocer con certeza\nlos ingresos y gastos asociados a la inversión y calcular exactamente la\nrentabilidad, siempre que el producto se mantenga hasta su vencimiento.\nSin embargo, en los productos de tipo variable y/o si el inversor vende\nantes del vencimiento, el cálculo inicial no dejará de ser una mera\nestimación."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Por razones de simplicidad se considera únicamente la rentabilidad bruta, sin tener en cuenta el efecto fiscal.\nCaracterísticas\nBono 1\nBono 2\nBono 3\nValor nominal\n10.000 €\n10.000 €\n10.000 €\nPrecio de\nemisión\n100% (10.000 €)\n101 % (10.100 €)\n100% (10.000 €)\nInterés2\nEl bono devengará un\ninterés del 0,8% anual,\npagadero anualmente,\npor lo que en cada\nfecha de pago el cupón\nbruto será de 80 euros.\nEl bono devengará un\ninterés del 1% anual,\npagadero anualmente,\npor lo que en cada\nfecha de pago el\ncupón bruto será de\n100 euros.\n2,25% al vencimiento,\nsin pago de intereses\nperiódicos.\nPlazo\n3 años\n3 años\n3 años\nTIR\n0,80%\n0,66%\n0,74%"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nCuando opere en el mercado secundario de renta fija, y sobre todo si lo\nhace a corto plazo, el inversor debe considerar especialmente el riesgo\nde que suban los tipos de interés, que será mayor cuanto más plazo falte\npara el vencimiento del activo. En estos casos, un repunte de los tipos a\ncorto podría generar importantes minusvalías.\nEl riesgo\nExiste un cierto grado de incertidumbre asociado a los rendimientos\nfuturos. Esta incertidumbre se conoce como riesgo. El riesgo financiero\nes el conjunto de factores que pueden determinar que la inversión\nproporcione una rentabilidad distinta de la esperada.\nEn este aspecto hay diferencias sustanciales entre los distintos tipos de\nproductos. Los productos de renta fija simple que ofrecen poco riesgo\ngeneralmente llevan asociados niveles bajos de rentabilidad, aunque no\nsiempre es así.\nPueden existir diversos factores de riesgo inherentes a un emisor o a\nun tipo de valor. Se explican a continuación los factores de riesgo más\nhabituales que pueden presentarse en los valores de renta fija. No\nobstante, debe tenerse en cuenta que pueden existir otros factores\nde riesgo adicionales a los aquí descritos. Además, los precios de los\nactivos financieros también son sensibles a las expectativas generales\nsobre la marcha de la economía, sobre el comportamiento específico de\ndeterminados sectores o compañías, etc.\nEl riesgo de crédito o de insolvencia. Es el riesgo de que el emisor de\nun valor no pueda hacer frente a sus pagos (tanto de cupones como de\nreembolso del principal) o de que se produzca un retraso en los mismos.\nEl emisor puede ser una empresa, entidad financiera, Estado u otro\norganismo público.\nb)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nEs importante tener en cuenta la calidad crediticia del emisor. Para\nello, es interesante consultar las calificaciones (rating) que asignan las\nagencias especializadas sobre la calidad crediticia y fortaleza financiera\nde las sociedades emisoras, Estados y Administraciones Públicas.\nEstas calificaciones pueden referirse al emisor o, en el caso de los\nprivados, a estos y/o cada una de sus emisiones. El criterio fundamental\nempleado para evaluar la solvencia de un emisor suele ser su capacidad\npara generar beneficios en el futuro y, en consecuencia, para afrontar\nsus compromisos de pago. Cuanto menor es el riesgo de insolvencia\nestimado, más alta es la calificación crediticia del emisor y, por lo tanto,\nmás segura la inversión. Otras veces se califica la solvencia para hacer\npatente que una emisión concreta ofrece garantías adicionales (como\nen el caso de las titulizaciones). No obstante, hay que tener en cuenta\nque las calificaciones son solo una indicación y pueden ser revisadas,\nsuspendidas o retiradas en cualquier momento por parte de la agencia\ncalificadora."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nEl riesgo de tipos y el riesgo de precio. El inversor se somete a uno u\notro según sea el horizonte temporal de la inversión en relación con el\nperiodo de vencimiento del activo adquirido, y las variaciones de tipos\nde interés que se den en ese periodo. Cuando suben los tipos de interés,\nel precio de la renta fija ya emitida baja y cuando bajan los tipos de\ninterés, el precio de la renta fija viva aumenta.\nCuando un inversor adquiere un activo con un vencimiento superior a su\npropio horizonte de inversión, llegado ese momento tendrá que venderlo\nen el mercado secundario. Si en ese periodo los tipos han subido\nobtendrá una rentabilidad inferior a la esperada y, dependiendo de esa\nvariación, podrá sufrir minusvalías. Por el contrario, descensos en los\ntipos de interés le reportarán rentabilidades superiores a las inicialmente\nprevistas.\nEsto se debe a que los tipos de interés afectan a los precios de la renta\nfija en el mercado secundario. Cuando los tipos de interés de las nuevas\nemisiones aumentan, los precios de las ya existentes bajarán, pues los\ninversores solo estarán dispuestos a comprarlas si su precio se reduce\nde modo que garantice al comprador una rentabilidad equivalente a la\nde las nuevas emisiones. Por el contrario, cuando los tipos de interés\ndisminuyen, el precio en mercado secundario de las emisiones antiguas\nsubirá. En ambos casos, son los movimientos en la TIR los que ajustan el\nprecio. La TIR permite homogeneizar la rentabilidad de cada emisión para\ncompararla con los tipos de mercado.\nLa sensibilidad del precio frente a variaciones en los tipos de interés\ndepende del número de cupones pendientes, su distribución y cuantía, y\ndel resto de los ingresos a percibir en el tiempo.\nPor el contrario, si el activo adquirido tiene una vida inferior al horizonte\nde inversión, a su vencimiento se deberá adquirir otro hasta completar\nese periodo. Esta situación origina un riesgo de reinversión, pues podría\nocurrir que en esa fecha la rentabilidad que ofrezcan los activos resulte\ninferior a la que se ofrecía inicialmente a ese plazo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nEl riesgo de liquidez. Es el riesgo de no encontrar contrapartida para\nvender los valores o sufrir una posible penalización en el precio de\nla inversión si se necesita recuperar el dinero con rapidez. En casos\nextremos, podría resultar imposible recuperar el dinero en el momento\ndeseado. La falta de liquidez es un coste que siempre asume el inversor.\nLas posibles limitaciones a la liquidez pueden derivar, por un lado, de\nla existencia de comisiones o penalizaciones en caso de reembolso\nanticipado (en el caso de productos en los que ésta se permite el coste\nde deshacer las coberturas de la opción asociada es elevado, existiendo\nla posibilidad de perder parte del principal invertido). Por otro lado, hay\nproductos que no permiten amortización anticipada.\nEn el caso de la renta fija cotizada, será el mercado el que determine la\nliquidez y el precio de nuestra inversión. Sin embargo, aun cuando los\nproductos se negocien en algún mercado, es necesario considerar que\nhay diferencias notables en el funcionamiento de los mismos, así como\nen la liquidez de los distintos productos que en ellos se negocian. Si los\nvalores gozan de poca liquidez, podría ser difícil encontrar contrapartida\nen caso de desear venderlos.\nEl riesgo de amortización anticipada. En aquellos casos en los que\nse establezca la posibilidad de amortización anticipada de los valores\npor parte del emisor y éste proceda a realizarla, podría ser que el\ninversor no pueda reinvertir el importe de dicha amortización en valores\ncomparables y al mismo tipo de interés."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nEl riesgo por el comportamiento de los activos subyacentes. En\ndeterminados productos, como, por ejemplo, los valores estructurados,\nlos rendimientos o el precio de amortización pueden estar ligados\na la evolución de uno o varios activos subyacentes. En este caso, un\ncomportamiento desfavorable de los activos subyacentes puede afectar\nnegativamente al valor de la inversión, por lo que los titulares de los\nvalores estructurados estarán expuestos al comportamiento de dichos\nactivos.\nEl riesgo de pérdida de principal. Se produce cuando no existe un\ncompromiso de devolución de una parte o de todo el principal invertido\na vencimiento. Esto puede suceder, por ejemplo, en el caso de algunos\nproductos estructurados, cuando en la fecha de vencimiento el precio de\namortización sea inferior al precio de emisión. En estos casos el inversor\nperderá parcialmente el importe invertido, pérdida que podrá ser total si\nel precio de amortización fuera igual a cero.\nEl riesgo de tipo de cambio. Es el riesgo de variación en los tipos\nde cambio de las divisas y solo afecta a los activos denominados en\nmonedas distintas del euro.\nEl riesgo de operativa o procedimiento. Derivado de la posibilidad\nde cometer errores al transmitir instrucciones de compra o venta a\nlas entidades financieras. Así como los anteriores pueden reducirse\nmediante una adecuada diversificación o selección de productos,\néste es el único que el inversor puede anular por completo. Revise\ncuidadosamente sus órdenes antes de transmitirlas y compruebe\nposteriormente que las ejecuciones se corresponden con sus\ninstrucciones y con la situación del mercado. Posteriormente, realice un\nadecuado seguimiento periódico de sus cuentas de valores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nEl riesgo de subordinación y prelación de los inversores ante\nsituaciones concursales. En caso de producirse una situación concursal\ndel emisor, la posición que ocupe el inversor como acreedor y, por tanto,\nla probabilidad de recuperar toda o parte de su inversión, dependerá\nde si es tenedor de valores simples o subordinados, así como de si los\nvalores están o no garantizados.\nEl riesgo derivado del alcance de las medidas que podrían ser\nadoptadas en el marco de reestructuración y resolución de entidades\nde crédito. Existen una serie de herramientas para resolver entidades\nde crédito con problemas de solvencia o inviabilidad, entre los que\nse encuentra el denominado instrumento de recapitalización interna\n(o bail in). Esta herramienta permite amortizar o convertir en acciones\nu otros instrumentos de capital los denominados pasivos admisibles\npara la recapitalización interna. Este es el denominado riesgo de\nabsorción de pérdidas. Por lo tanto, en el caso de que el emisor sea una\nentidad de crédito, los tenedores de los valores podrían verse sujetos\na una reducción del valor de los mismos o a la conversión de estos en\ninstrumentos de capital, lo que podría conllevar que los tenedores de los\nvalores perdiesen parte o, incluso, la totalidad de su inversión.\n$"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "IV. Productos de renta"
+    },
+    {
+      "type": "paragraph",
+      "text": "fija\nEn función del tipo de emisor (público o privado), se pueden distinguir los\nsiguientes instrumentos financieros de renta fija, que se explicarán con más\ndetalle a continuación."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "V. Deuda pública"
+    },
+    {
+      "type": "paragraph",
+      "text": "Son los valores de renta fija emitidos por el Estado, las Comunidades\nAutónomas y otros organismos públicos.\nDeuda del Estado\nSon valores de renta fija que el Tesoro Público emite regularmente a través de\nsubastas. Su valor nominal es de 1.000 euros por título y, en caso de querer\ninvertir una cantidad mayor, siempre ha de ser en múltiplos de 1.000 euros.\nSe representan mediante anotaciones en cuenta, sin que exista el título físico.\nLa Deuda pública del Estado Español tiene calificaciones crediticias de las\nagencias internacionales de rating. Estas agencias evalúan el riesgo de crédito\nde manera que, cuanto más baja sea la probabilidad de impago que asignan\na un emisor, mejor será la calificación que asignan a dicho emisor. Así, a priori,\nmenor será la rentabilidad obtenida, dado el menor riesgo asumido.\nEn la página web del Tesoro se puede obtener información sobre cualquier\nemisión de Deuda pública del Estado, acudir a las subastas de deuda y\ncontratarla sin costes (www.tesoro.es).\nEstos valores se pueden adquirir en mercado primario o secundario. La\nsuscripción de Deuda pública puede hacerse a través de cualquier oficina del\nBanco de España, a través de la web de Tesoro o en entidades de crédito o\nsociedades y agencias de valores.\nEn cuanto al mercado secundario, el mercado de referencia de estos valores\nes el Sistema Electrónico de Negociación de Activos Financieros (SENAF),\nplataforma electrónica de negociación mayorista de BME para deuda pública\nespañola, cuyo funcionamiento está supervisado por la sociedad rectora del\nMercado AIAF de Renta Fija. Todos los inversores minoristas pueden operar en\nDeuda pública a través de la plataforma SEND, cuyo funcionamiento es similar\nal de la Bolsa."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nEn la página web de BME (Boletín de Operaciones de Deuda Pública) se puede\nconsultar información sobre precios cotizados y operaciones cruzadas de la\nDeuda pública negociada.\nLetras del Tesoro\nSon activos a corto plazo (máximo 12 meses) emitidos por el Estado a\ntravés del Tesoro. No tienen cupones explícitos, por lo que su rentabilidad\n(positiva o negativa) viene determinada por la diferencia entre el\nprecio al que el inversor las adquiere y el valor nominal que se recibe a\nvencimiento o el precio de venta, en caso de vender el valor antes de su\nvencimiento.\nPor lo tanto, para obtener una rentabilidad positiva, el precio de emisión\no compra debería ser más bajo que el valor obtenido a vencimiento o en\nel momento de la venta.\nActualmente se ofrecen varios tipos de Letras en función de su plazo de\nvencimiento: a 3, 6, 9 y 12 meses.\nBonos y Obligaciones del Estado\nSon los principales instrumentos de renta fija a medio plazo (bonos) y\nlargo plazo (obligaciones) emitidos por el Estado. Se trata de emisiones\nde rendimiento explícito. En la actualidad se emiten bonos a 3 y 5 años\ny obligaciones a 10, 15, 30 y 50 años. A lo largo de su vida, estos activos\ndevengan un tipo de interés, generalmente fijo, que se abona mediante\ncupones anuales.\nAlgunas emisiones de deuda pública a largo plazo se realizan bajo la\nmodalidad de valores segregables o «strips», en los que se pueden\nadquirir por separado el principal y cada uno de los cupones a los que da\nderecho el bono original.\na)\nb)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nDeuda autonómica y de otros organismos\npúblicos\nLas Comunidades Autónomas, corporaciones locales y diversos entes\npúblicos emiten valores a corto plazo (pagarés) y a largo plazo. Sus\ncaracterísticas son similares a las de las Letras del Tesoro y los bonos y\nobligaciones del Estado, respectivamente.\nLa deuda autonómica y otra deuda pública cotizan en las bolsas de valores o,\nal igual que la Deuda del Estado, en el Sistema Electrónico de Negociación de\nActivos Financieros (SENAF), plataforma electrónica de negociación mayorista\nde BME para deuda pública española, cuyo funcionamiento está supervisado\npor la sociedad rectora del Mercado AIAF de Renta Fija."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VI. Renta Fija Privada"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es el conjunto de valores de renta fija emitidos por empresas del sector\nprivado. Sin perjuicio de ciertas excepciones previstas en la normativa3, los\nemisores tienen obligación de publicar un folleto cuando se ofertan al público\no se admiten a cotización valores de este tipo en un mercado regulado de un\nEstado miembro de la Unión Europea. En la página web de la CNMV se pueden\nencontrar los folletos aprobados.\nEn algunos casos, puede existir un folleto aprobado por autoridades\ncompetentes de otros Estados miembros de la Unión Europea. Dichas\nautoridades competentes deberán remitir (pasaportar) a la CNMV ese folleto,\njunto con la notificación de su aprobación, para que los valores puedan\nser ofrecidos al público o se puedan admitir a negociación en un mercado\nregulado con sede en España. En estos casos, en la página web de la CNMV se\npodrá encontrar un resumen en español.\nPagarés de empresa\nSon valores sin cupón explícito emitidos al descuento, por lo que su\nrentabilidad (positiva o negativa) viene determinada por la diferencia\nentre el precio al que el inversor las adquiere y el valor nominal que se\nrecibe a vencimiento o el precio de venta, en caso de vender el valor\nantes de su vencimiento.\nPor lo tanto, para obtener una rentabilidad positiva, el precio de emisión\no compra debería ser más bajo que el obtenido a vencimiento o en el\nmomento de la venta.\nSon a corto plazo, y existen vencimientos entre 3 días y 25 meses,\naunque los plazos más frecuentes son de 1, 3, 6, 12 y 18 meses.\na)"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Existen algunas excepciones en función del tipo de valor (por ejemplo, valores\nemitidos por el Estado), del importe de la oferta o de las características de la misma."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nLa colocación de los pagarés en el mercado primario se efectúa bien\nmediante subastas competitivas en las que se determina el precio de\nadquisición, o bien por negociación directa entre el inversor y la entidad\nfinanciera.\nNo suelen contar con ningún tipo de garantía específica, salvo la de la\npropia empresa emisora.\nBonos y Obligaciones\nLos bonos y obligaciones son valores a medio y largo plazo que\nrepresentan una deuda para su emisor. Sus características pueden variar\nconsiderablemente de un emisor a otro, e incluso en distintas emisiones\nde una misma compañía. Estas diferencias pueden ser la fecha de\nvencimiento, tipo de interés, periodicidad de los cupones, precios de\nemisión y amortización, las cláusulas de amortización y otras condiciones\nde emisión, las opciones de convertibilidad si las hubiera, la prelación de\nderechos en caso de liquidación, o las garantías ofrecidas, entre otras.\nAsí, se pueden encontrar bonos y obligaciones simples, obligaciones\nsubordinadas (que a efectos de la prelación de créditos se sitúan detrás\nde todos los acreedores comunes) o bonos y obligaciones indiciados,\nreferenciados o indexados (cuya rentabilidad se vincula a la evolución de\nun índice, cesta de acciones, etc.). El inversor debe tener en cuenta que\nsi la evolución de dichas referencias es desfavorable, podría no recibir\nningún rendimiento o incluso sufrir pérdidas. En estos casos, además del\nriesgo de la evolución de tipos de interés que afecta a toda la renta fija,\nse asume el riesgo del índice de referencia.\n¥ Bonos y obligaciones simples\nLos bonos y obligaciones son valores a medio y largo plazo que\nrepresentan una deuda para su emisor, devengan intereses y son\nreembolsables por amortización anticipada o a vencimiento.\nb)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\n¥ Bonos y obligaciones subordinados\nLa deuda subordinada se caracteriza por su situación jurídica en caso\nde quiebra o procedimiento concursal del emisor. En aplicación de las\nreglas de prelación de créditos, las obligaciones subordinadas se sitúan\ndetrás de los acreedores privilegiados y comunes del emisor. Este tipo\nde emisiones las suelen llevar a cabo las entidades de crédito porque\ncomputan como recursos propios y, por tanto, refuerzan su solvencia.\nDe lo anterior cabe deducir que la deuda subordinada debería tener una\nrentabilidad mayor que la deuda simple emitida por la misma entidad y al\nmismo plazo.\n¥ Bonos estructurados\nSon valores en los que los rendimientos y, en ocasiones, el reembolso\ndel principal están vinculados a la evolución de uno o varios activos de\nreferencia (también llamados activos subyacentes), que pueden ser\nacciones, índices, materias primas, etc. Si el principal no está protegido,\nno hay garantía de que se vaya a recuperar a vencimiento o en una fecha\nanterior el capital invertido.\nEstos bonos incorporan instrumentos derivados, normalmente opciones,\nque permiten a la entidad emisora ligar la rentabilidad del producto a los\nactivos de referencia.\nPor lo tanto, la estructura de rentabilidad de los bonos estructurados es,\na veces, compleja y puede resultar difícil de entender y de comparar con\notras alternativas de inversión. Asimismo, la relación entre rentabilidad y\nriesgo puede ser difícil de evaluar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nCédulas y bonos hipotecarios.\nSon valores de renta fija emitidos exclusivamente por entidades\nde crédito y respaldados por la cartera de préstamos hipotecarios\ndel emisor. Suelen ser emisiones a medio plazo y tienen distintas\nmodalidades en cuanto a tipo de interés y condiciones de amortización.\nEn concreto, la entidad emisora se reserva la facultad de amortizar\nanticipadamente parte o la totalidad de la emisión durante la vida de la\nmisma, de acuerdo con lo establecido en la Ley que regula el mercado\nhipotecario.\nLas cédulas hipotecarias están respaldadas de modo global por la\ncartera de préstamos hipotecarios del emisor que no estén afectas a\nemisión de bonos hipotecarios y sus tenedores tienen el carácter de\nacreedores singularmente privilegiados frente a cualesquiera otros\nacreedores en relación con la totalidad de los créditos hipotecarios.\nLas entidades emisoras suelen dar liquidez a estos valores, es decir,\ndan contrapartida de compra o venta a los inversores, siempre que el\nvolumen de valores que tengan en su cartera no supere el límite legal del\n5% del volumen emitido.\nLos bonos hipotecarios tienen características similares a las cédulas\nhipotecarias pero, a diferencia de estas, no están respaldados de\nmodo global por la cartera de préstamos hipotecarios concedidos\npor la entidad emisora, sino por un conjunto concreto de préstamos\nhipotecarios que se vinculan a los bonos. De esta forma, el principal y los\nintereses de las emisiones de bonos hipotecarios estarán especialmente\ngarantizados por dichos préstamos hipotecarios, que deben cumplir una\nserie de requisitos.\nc)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nCédulas territoriales\nLas cédulas territoriales son valores de renta fija emitidos por entidades\nde crédito, que se encuentran respaldados por los préstamos y créditos\nconcedidos por el emisor al Estado, a las Comunidades Autónomas,\nentes locales y organismos autónomos dependientes de los mismos,\nasí como otras entidades de análoga naturaleza del Espacio Económico\nEuropeo.\nLos tenedores de cédulas territoriales tienen el carácter de acreedores\nsingularmente privilegiados frente a cualesquiera otros acreedores en\nrelación con el conjunto de préstamos concedidos a las administraciones\npúblicas.\nCédulas y bonos de internacionalización\nSon valores de renta fija emitidos exclusivamente por entidades de\ncrédito y respaldados por la cartera de préstamos y créditos concedidos\npor la entidad emisora que estén vinculados a la financiación de\ncontratos de exportación de bienes y servicios o a la internacionalización\nde las empresas y que cumplan determinados requisitos.\nLas cédulas de internacionalización están respaldadas de modo\nglobal por la cartera de préstamos de este tipo que no estén afectos a\nemisiones de bonos de internacionalización y sus tenedores tienen el\ncarácter de acreedores singularmente privilegiados frente a cualesquiera\notros acreedores en relación con los préstamos que en cada momento\nformen parte de esa cartera.\nLos bonos de internacionalización, por su parte, tienen características\nsimilares a las cédulas de internacionalización pero, a diferencia\nde estas, no están respaldados de modo global por la cartera de\npréstamos de este tipo concedidos por la entidad emisora, sino por\nun conjunto concreto de préstamos que se vinculan a los bonos. De\nesta forma, el principal y los intereses de las emisiones de bonos de\ninternacionalización estarán especialmente garantizados por dichos\nd)\ne)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\npréstamos, que deben cumplir una serie de requisitos.\nBonos de titulización\nLa titulización es un método de financiación de empresas basado en\nla venta o cesión de determinados activos (incluso derechos de cobro\nfuturos) a un tercero que, a su vez, financia la compra emitiendo valores\nque son los que colocan entre los inversores.\nEn España, el método de titulización es el siguiente. La entidad que desea\nfinanciarse – cedente– vende los activos a un fondo de titulización, que\ncarece de personalidad jurídica y está administrado por una sociedad\ngestora. Los activos que se incorporan al fondo pueden ser de distinta\nnaturaleza: préstamos hipotecarios a particulares, préstamos a empresas,\ncréditos para la compra de automóviles, etc.\nA su vez, el fondo emitirá valores, que estarán respaldados por los activos\nadquiridos.\nEntre los aspectos más relevantes de la titulización destacan:"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "El fondo de titulización se configura como un patrimonio"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "separado, de forma que la cartera titulizada queda fuera del\nalcance de los acreedores del cedente."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Los valores emitidos están respaldados por los activos"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "titulizados y no por la solvencia del cedente. Por ello, con la\nfinalidad de aumentar la seguridad en el pago de los valores\nemitidos, neutralizar las diferencias de tipos de interés entre los\ncréditos agrupados en el fondo y los valores emitidos con cargo\na él, y mitigar desfases temporales de flujos, se suelen contratar\npor cuenta del fondo operaciones financieras denominadas\n''mejoras crediticias''."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "El riesgo financiero de los valores emitidos suele ser objeto de"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "evaluación por agencias de calificación.\nf )"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Los titulares de los bonos emitidos con cargo al fondo asumen"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "el riesgo de impago de los activos agrupados en él."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "El riesgo de amortización anticipada de los activos del fondo"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "se traspasa a los titulares de los valores. En cada fecha de\npago, los titulares de los bonos pueden tener que soportar la\namortización parcial de los mismos."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Los valores emitidos podrán ser objeto de negociación en un"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "mercado regulado o en un sistema multilateral de negociación\ny podrán diferir entre sí en cuanto al tipo de interés, plazo y\nforma de amortización, derecho de prelación en el cobro o\ncualesquiera otras características (si van dirigidos a inversores\ncualificados y no van a ser admitidos en un mercado regulado,\nla transmisión de los valores solo se podrá realizar entre\ncualificados).\nUna categoría especial de titulizaciones son las denominadas\ntitulizaciones STS (Simple, Transparent and Standard), que son aquellas\nque cumplen una serie de requisitos sobre simplicidad, estandarización y\ntransparencia.\nLos bonos de titulización pueden ser de difícil comprensión para el\ninversor minorista y, por sus características, normalmente se colocan\nentre inversores cualificados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nObligaciones convertibles y/o canjeables\nLa convertibilidad supone la posibilidad de transformar un activo\nfinanciero en otro. Así, una determinada obligación puede convertirse\nen una acción o en otra clase de obligaciones. Las obligaciones\nconvertibles o canjeables confieren a su propietario el derecho a\ncambiarlos por acciones en una fecha determinada. La diferencia entre\ncanje y conversión estriba en que, en el primer caso, la transformación\nen acciones se realiza mediante entrega de acciones ya emitidas que\nforman parte de la autocartera del emisor, mientras que en el segundo se\nentregan acciones de nueva emisión.\nHasta la fecha de conversión, el tenedor recibe los intereses mediante\nel cobro de los cupones periódicos. El número de acciones que se\nentregarán por cada bono u obligación, la forma de determinar los\nprecios, así como las fechas de canje o conversión, se especifican en el\nfolleto informativo.\nLlegada la fecha del canje, el inversor tiene dos alternativas:\nEjercitar la opción de conversión, si el precio de las\nacciones ofrecidas en canje / conversión es inferior a\nsu precio de mercado.\nMantener las obligaciones hasta la fecha de\nla siguiente opción de conversión o hasta su\nvencimiento.\nLos bonos contingentes convertibles -llamados CoCos- son un tipo de\nbonos convertibles subordinados, emitidos, por lo general, por entidades\nde crédito. Son instrumentos perpetuos, aunque el emisor se reserva el\nderecho a rescatarlos transcurrido un plazo (generalmente cinco años)\ndesde su emisión. Por otro lado, el pago de cupón puede ser cancelado\npor el emisor, sin que sea acumulable.\ng )"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nSi bien los bonos convertibles normales, como se ha señalado\nanteriormente, suelen dejar el poder de conversión en manos del\ninversor, en los bonos convertibles contingentes esta conversión de\nbonos en acciones está sujeta a que se cumplan algunas condiciones\nestablecidas en el momento de su emisión.\nLa condición más común para que se produzca dicha conversión es que\nel nivel de capital de la entidad de crédito emisora se sitúe por debajo\nde un nivel mínimo previamente determinado. Si esto ocurre, el emisor\nconvertirá de manera irrevocable y obligatoria los bonos convertibles\ncontingentes en acciones a un precio de conversión también\npreviamente establecido. El inversor, por lo tanto, recibirá acciones como\nresultado de dicha conversión, de manera que pasará a ser accionista de\nla entidad emisora. El hecho de que el nivel de capital se sitúe por debajo\nde un nivel mínimo es indicativo de un deterioro de la solvencia de la\nentidad, por lo que, si esto sucede, es probable que el precio de la acción\nesté bajando. Es preciso tener en cuenta que el precio de mercado de\ndichas acciones en el momento en que el inversor las reciba puede estar\npor debajo del precio de conversión, por lo que se pueden sufrir pérdidas\nsignificativas.\nDebido a sus características, se trata de productos complejos que\npueden no resultar adecuados para todos los inversores.\nEjemplo: conversión si se produce un evento prefijado\nSupongamos una inversión de 10.000 euros en un bono\ncontingentemente convertible emitido por la entidad XXX.\nEntre otras características, las condiciones de la emisión\nestablecen que si en cualquier momento el ratio de capital de\nla entidad se encuentra por debajo del 5,125% los bonos se\nconvertirán obligatoria e irrevocablemente en acciones de nueva\nemisión de la entidad a un precio de conversión que será el mayor\nde i) el precio de mercado de referencia, ii) el precio mínimo de 5\neuros y iii) el valor nominal de la acción."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nSi se produce el evento señalado, esto es, la ratio de capital\nde la entidad emisora cae por debajo del 5,125%, los bonos\nse convertirán en acciones. La caída de la ratio de capital es\nindicativa de un deterioro de la solvencia de la entidad, por lo\nque sus acciones estarán cayendo. Supongamos que el precio de\nmercado de las acciones asciende a 1 euro, precio que coincide\ncon el valor nominal de las mismas. En este caso, el precio de\nconversión quedará fijado en 5 euros, por ser el mayor de los tres\ncontemplados. Por lo tanto, el número de acciones que recibiría el\ntitular del bono se calcularía de la siguiente manera:\nComo se ha comentado, el precio de mercado de las acciones era\nde 1 euro, por lo que el valor de las acciones recibidas ascendería\na 2.000 euros (frente a una inversión inicial de 10.000 euros al\ncomprar el bono).\n10.000 euros / 5 euros por acción = 2.000 acciones"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nParticipaciones preferentes\nLas participaciones preferentes son valores de carácter híbrido, ya\nque por su naturaleza no pueden clasificarse como de renta fija ni\ntampoco de renta variable. Tienen una estructura similar a la de la deuda\nsubordinada y sus principales características son las siguientes:\n¥ Son valores perpetuos, aunque pueden ser amortizados o\nrescatados anticipadamente por el emisor.\n¥ Conceden a sus titulares una remuneración predeterminada,\nno acumulativa, condicionada a la obtención de beneficios\ndistribuibles.\n¥ En el orden de prelación de créditos se sitúan por delante\nde las acciones ordinarias, en igualdad de condiciones con\ncualquier otra serie de participaciones preferentes y por detrás\nde todos los acreedores comunes y subordinados.\n¥ Cotizan en AIAF, mercado regulado de renta fija.\n¥ A diferencia de las acciones, no tienen derechos políticos, salvo\nen determinados supuestos excepcionales.\nPueden emitirse por compañías no financieras, pero suelen ser emitidas\npor entidades de crédito para cubrir sus obligaciones en materia de\nrecursos propios. En el caso de las entidades de crédito la elegibilidad de\nlas participaciones preferentes para su cómputo en los recursos propios\ndepende de que éstas reúnan determinadas características como, por\nejemplo, la posibilidad de que la remuneración pueda cancelarse en\ncualquier momento, incluso a la sola discreción del propio emisor o, si\nse producen determinados eventos, la posibilidad de ajustar a la baja\nel valor nominal de las participaciones o realizar su conversión en otros\nvalores.\nh)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nLas participaciones preferentes contingentemente convertibles\nson un tipo de participaciones preferentes emitidas, por lo general,\npor entidades de crédito, con la finalidad de mejorar su solvencia. A\nlas anteriores características se les une la convertibilidad en acciones\ndel emisor, que estará sujeta a determinadas condiciones fijadas en el\nmomento de su emisión. Al igual que en el caso de los bonos convertibles\ncontingentes, la condición más común para que se produzca dicha\nconversión es que el nivel de capital de la entidad de crédito emisora se\nsitúe por debajo de un nivel mínimo previamente determinado.\nSi esto ocurre, el emisor convertirá de manera irrevocable y obligatoria\nlas participaciones preferentes contingentemente convertibles en\nacciones a un precio de conversión también previamente establecido.\nEl inversor, por lo tanto, recibirá acciones como resultado de dicha\nconversión, de manera que pasará a ser accionista de la entidad emisora.\nEl hecho de que el nivel de capital se sitúe por debajo de un nivel mínimo\nes indicativo de un deterioro de la solvencia de la entidad, por lo que,\nsi esto sucede, es probable que el precio de la acción esté bajando. Es\npreciso tener en cuenta que el precio de mercado de dichas acciones\nen el momento en que el inversor las reciba puede estar por debajo del\nprecio de conversión, por lo que se pueden sufrir pérdidas significativas.\nPara ver un ejemplo en relación con la conversión, puede consultar el\napartado g) anterior."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VII. Aspectos a tener en"
+    },
+    {
+      "type": "paragraph",
+      "text": "cuenta\n¿De qué información dispongo para la toma de decisiones?\nLas normas que rigen las transacciones en los mercados de valores se\nbasan en un principio muy claro y sencillo: todos los inversores, tanto\ncualificados como minoristas, deberán tener acceso a una información\nsuficiente y equilibrada sobre las propuestas de inversión, antes de la\ntoma de decisiones. Para lograr esto, las sociedades emisoras deberán\nponer a disposición del público, a lo largo del tiempo, toda la información\npertinente sobre la compañía y la emisión.\nInformación para la contratación del producto\nFolletos informativos. Con carácter general, debe publicarse un\nfolleto cuando se ofertan al público o se admiten a cotización\nvalores en un mercado regulado situado o en funcionamiento en\nun Estado miembro de la Unión Europea. Sin embargo, existen\nalgunas excepciones a esta norma en función del tipo de valor\n(por ejemplo, valores emitidos por el Estado), del importe de la\noferta o de las características de la misma.\nEl folleto debe contener información suficiente para que los\ninversores adopten decisiones de inversión informadas. Incluye\ninformación sobre los activos y pasivos, las pérdidas y ganancias, la\nsituación financiera y las perspectivas del emisor (y del garante, si\nlo hubiera), los derechos inherentes a los valores y los motivos de la\nemisión y sus consecuencias para el emisor. Igualmente, se recogen\nlos principales riesgos relacionados con los valores y el emisor. En el\nfolleto se identifican las compañías autorizadas, en su caso, para la\ncolocación y el aseguramiento, así como el régimen fiscal aplicable.\na)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nEl folleto puede presentarse como un único documento o estar\nintegrado por varios documentos separados. El documento único\ncontiene el resumen y la información relativa al emisor y a los\nvalores que se ofrecen al público. Si se compone de distintos\ndocumentos, la información se reparte entre el documento de\nregistro (datos sobre el emisor), por un lado, y la nota de valores\n(explicaciones sobre los valores ofertados) y el resumen, por otro.\nEl folleto se pondrá a disposición del público en formato\nelectrónico en la web del emisor4, en la web de los intermediarios\nfinancieros que coloquen o vendan los valores o, según el caso,\nen la web del mercado regulado en el que se vaya a solicitar la\nadmisión de los valores o en la web del operador del sistema\nmultilateral de negociación correspondiente. La CNMV publicará\ntambién en su web todos los folletos que apruebe, así como\ninformación sobre las notificaciones recibidas de las autoridades\ncompetentes de otros Estados miembros, cuando sean éstas las\nque aprueben el folleto.\nEl emisor o los intermediarios financieros que coloquen o vendan\nlos valores entregarán de forma gratuita una copia del folleto en\nun soporte duradero a cualquier posible inversor que lo solicite.\nEn caso de que un posible inversor solicite de manera específica\nun ejemplar en papel, el emisor o los intermediarios financieros\nque colocan o venden los valores deberán entregarle una versión\nimpresa del folleto."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "O del oferente o la persona que solicite la admisión a cotización en un mercado regulado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nResumen o nota de síntesis. El folleto incluirá un resumen5\n(también llamado nota de síntesis) que, elaborado en un formato\nestandarizado, de forma concisa y sencilla y en un lenguaje\nno técnico, proporcionará la información fundamental que\nnecesitan los inversores para comprender las características y\nriesgos del emisor y de los valores. Es esencial que el inversor lea\natentamente este documento antes de contratar un producto y\npreste especial atención a los riesgos que en él se describan. No\nobstante, la decisión de invertir en los valores deberá basarse en\nla consideración del conjunto del folleto por parte del inversor.\nInformación para el seguimiento de la\ninversión\nCuentas anuales auditadas, de acuerdo con lo establecido en\nla Ley de Sociedades de Capital. El inversor deberá prestar una\nespecial atención a las posibles salvedades incluidas por los\nauditores. Las cuentas anuales y el informe de gestión de las\nentidades cotizadas6, junto con el correspondiente informe de\nauditoría, se publican en la web de la CNMV.\nInformación financiera intermedia. Las entidades cotizadas7 harán\npública y difundirán información financiera intermedia, con los\nrequisitos y la periodicidad que estipula la normativa del mercado\nde valores."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "No obstante, no será necesaria la nota de síntesis cuando el folleto se refiera a valores no participativos (esto es,\nque no sean acciones ni equivalentes a las acciones ni den derecho a adquirir acciones o valores equivalentes\na las acciones) con un valor nominal unitario mínimo de 100.000 euros o cuando vayan a cotizar en un mercado\nregulado o en un segmento específico de éste al que solo puedan tener acceso inversores cualificados."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Se entiende como entidades cotizadas a los emisores de valores admitidos a negociación en un mercado\nsecundario oficial o en otro mercado regulado domiciliado en la Unión Europea cuando España sea Estado\nmiembro de origen."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Se entiende como entidades cotizadas a los emisores de valores admitidos a negociación en un mercado\nsecundario oficial o en otro mercado regulado domiciliado en la Unión Europea cuando España sea Estado\nmiembro de origen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nInformación privilegiada y otra información relevante. Los\nemisores de valores o instrumentos financieros que sean objeto\nde negociación en un mercado regulado español, o respecto de\nlos que haya sido solicitada la admisión a negociación, deberán\ncomunicar tan pronto como sea posible a la CNMV la información\nprivilegiada que les concierna directamente, así como las\nrestantes informaciones de carácter financiero o corporativo\nrelativas al propio emisor o a sus valores o instrumentos\nfinancieros que estén obligados a hacer públicas en España o que\nconsideren necesario, por su especial interés, difundir entre los\ninversores.\nLa CNMV procederá a hacer pública dicha información en su\npágina web (www.cnmv.es).\n¿Cómo comprar y vender renta fija?\nLa renta fija puede suscribirse en el momento de la emisión -mercado\nprimario- a través de los intermediarios financieros que coloquen\nlos valores. También se puede comprar renta fija a otros inversores\n-mercado secundario- a través de las entidades financieras\nautorizadas.\nAunque en algunos casos los valores no cotizan, lo más habitual\nes que los valores se admitan a negociación en algún mercado.\nTradicionalmente, los valores de renta fija privada que cotizaban lo hacían\nen las bolsas de valores españolas o, sobre todo, en el mercado de renta\nfija AIAF:\n¥ En las bolsas de valores (Madrid, Barcelona, Bilbao y Valencia)\nestán admitidas a negociación diversas emisiones de renta fija\nprivada y deuda autonómica.\n¥ En el Mercado de Renta Fija AIAF se encuentran admitidos a\nnegociación valores de renta fija privada, tales como pagarés\nde empresa, bonos y obligaciones de diversos tipos, cédulas\nb)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nhipotecarias y territoriales, así como las participaciones\npreferentes y las titulizaciones. Dentro del mercado AIAF, el SEND\n(Sistema Electrónico de Negociación de Deuda) es una plataforma\nelectrónica destinada específicamente a la negociación de renta\nfija para minoristas.\nPor otro lado, desde el inicio de 2018 la Deuda Pública ha pasado a\nregistrarse y negociarse también en el Mercado de Renta Fija AIAF.\nTanto las bolsas de valores como el Mercado de Renta Fija AIAF tienen la\nconsideración de mercados regulados.\nHoy en día existen otros centros de negociación distintos de\nlos mercados regulados, como son los sistemas multilaterales de\nnegociación y los sistemas organizados de contratación. Un ejemplo\nde sistema multilateral de negociación es el Mercado Alternativo de\nRenta Fija (MARF), que es un mercado alternativo, no oficial, en que los\nrequisitos de acceso al mismo son más flexibles que los existentes en\nlos mercados regulados. El MARF se dirige principalmente a inversores\ninstitucionales. A diferencia de lo que sucede en los mercados regulados,\nla admisión a negociación en el MARF no requiere la aprobación de un\nfolleto por la CNMV.\nEl inversor puede obtener información sobre los precios de los distintos\nmercados de renta fija a través de sus respectivos boletines de\ncotización o de la prensa diaria especializada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\n¿Qué debo preguntar sobre los productos de renta fija?\nEs muy importante conocer de antemano todas las particularidades\ndel producto en el que se van a depositar los ahorros. Además de las\npreguntas generales que siempre conviene hacer antes de adquirir\ncualquier producto financiero, es aconsejable que se informe sobre los\nsiguientes aspectos concretos:\n¥ Confirme el tipo de interés que recibirá y qué periodicidad\ntienen los pagos, ya que este aspecto afecta a la rentabilidad.\nSi el interés es variable, conviene saber cuál es la referencia y el\ndiferencial que se le aplica. A menudo es un determinado índice\n(Euribor, Ibex, Eurostoxx...). También es importante saber cómo\nse calcula el rendimiento (por ejemplo, mediante observaciones\nmensuales durante un determinado periodo) o si existe un\nagente de cálculo. Algunos tipos de interés se incrementan o\ndisminuyen con el transcurso del tiempo, según una programación\nestablecida en las condiciones de emisión.\n¥ Infórmese de las previsiones de los distintos especialistas sobre\nla evolución de los tipos de interés. Si opera a corto plazo en el\nmercado secundario y los tipos suben, su rentabilidad bajará,\npudiendo llegar a sufrir pérdidas.\n¥ Confirme el precio de emisión y el de reembolso. Este extremo es\nmuy importante, pues en productos referenciados a la evolución\nde índices o de otros activos subyacentes o cestas de los\nmismos, el precio de reembolso puede ser inferior al nominal del\nvalor, y la evolución desfavorable de dichas referencias podría\nocasionar pérdidas.\n¥ Confirme la fecha y las condiciones de amortización. No es lo\nmismo comprometer el capital a 3, 5 o 10 años. Además, si no\ndesea asumir riesgo de precio o de reinversión, conviene ajustar\nlos plazos a su horizonte temporal.\nc)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\nEs importante saber de antemano si existen opciones de\namortización anticipada, parcial o total, a opción del emisor.\nEn algunos casos, el emisor se reserva la opción de amortizar\nanticipadamente la totalidad de la emisión en un periodo\npreestablecido. Tenga en cuenta que ese mismo derecho no se le\nsuele conceder al inversor. Si los tipos de interés bajan, el emisor\nejercitará la opción de amortización anticipada, y el inversor\ntendrá que buscar antes de lo previsto una nueva inversión\na un tipo de interés inferior. En cambio, si los tipos suben el\nemisor no ejercitará la opción y la inversión se mantendrá hasta\nel vencimiento final, devengando intereses inferiores a los de\nmercado.\n¥ Otra forma de amortización anticipada es la amortización parcial\npor reducción del nominal. En este caso no es opcional, sino que\nes una de las condiciones de la emisión. Es necesario evaluar si\nuna inversión de estas características se ajusta a sus necesidades,\npues en unas fechas determinadas recibirá un porcentaje de su\ninversión inicial.\n¥ Si se trata de valores convertibles, confirme en qué supuestos\nse puede producir la conversión y si la misma puede ser a\nopción del emisor, del inversor o, por el contrario, se produciría\nde manera automática si se dan determinadas circunstancias.\nTenga en cuenta que, en el caso de los valores contingentemente\nconvertibles, la conversión se producirá de forma obligatoria si\ntienen lugar determinados eventos, como, por ejemplo, que los\nrecursos propios de la entidad emisora se sitúen por debajo de un\numbral determinado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\n¥ Confirme qué posición le otorgarían los valores como acreedor\nde la entidad en caso de concurso o quiebra de la misma, o si\nlos valores pueden estar sujetos a los mecanismos de resolución\nprevistos para las entidades de crédito y, por lo tanto, podrían\nllegar a sufrir ajustes a la baja en el valor nominal, conversiones u\notras modificaciones.\n¥ Lea atentamente las posibles advertencias que puedan figurar\nen la información que le entreguen con carácter previo a la\nadquisición, en particular, si se destaca que se trata de un\nproducto no adecuado para inversores no profesionales debido a\nsu complejidad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VIII. Consejos al Inversor"
+    },
+    {
+      "type": "paragraph",
+      "text": "El inversor es el último responsable de la gestión de su ahorro, por lo que\ndebe informarse sobre los valores de renta fija que adquiera. Otra opción\npuede ser recibir asesoramiento personalizado, pero recuerde que la decisión\nfinal es suya, y que debe estar convencido de que lo que ha elegido es la\nalternativa que mejor se ajusta a sus deseos o propósitos.\nA continuación se exponen una serie de recomendaciones a seguir cuando\ntenga que elegir el destino de sus ahorros:\n¥ Compruebe si la emisión, a excepción de la deuda pública, tiene registrado\nel folleto en la CNMV o en otra autoridad europea. Recuerde que también\npuede existir un folleto registrado por la autoridad competente de otro\nEstado miembro de la UE que se haya pasaportado a España.\n¥ En ese caso, lea detenidamente el folleto y el resumen. En él encontrará\ndetalladas todas las características y riesgos tanto de la emisión como\ndel emisor. Así podrá realizar un juicio fundado sobre la inversión que se le\npropone.\n¥ Tenga en cuenta la importancia del folleto informativo y pregunte todo lo\nque no entienda.\n¥ Compare: consulte las tasas de rentabilidad (TIR) de emisiones de\ncaracterísticas similares, incluida la Deuda del Estado. Tenga en cuenta que\nmuchas emisiones ofrecen un primer cupón con un tipo de interés elevado\ny, el resto de la vida de la emisión otro considerablemente más bajo, con lo\nque la TIR es claramente inferior al interés inicial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los Productos de Renta Fija\n¥ Lea la publicidad con cautela. Por su naturaleza no puede reflejar las\ncaracterísticas del producto de forma completa. No olvide la letra pequeña\nde los anuncios y demás folletos publicitarios.\n¥ No tome las decisiones de inversión por rumores o confidencias.\n¥ Diversifique su inversión entre varios productos, con ello controla mejor el\nriesgo.\n¥ Infórmese de las previsiones en la evolución de los tipos de interés.\n¥ En todo caso, recuerde que con productos de renta fija también se puede\nperder dinero."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contáctanos por email\nEsta guía tiene como finalidad informar al público en general sobre distintos\naspectos relacionados con los mercados de valores. Por su naturaleza divulgativa\nno puede constituir un soporte para posteriores interpretaciones jurídicas, siendo\nla normativa vigente la única de aplicabilidad para estos fines."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "información?"
+    },
+    {
+      "type": "paragraph",
+      "text": "www.cnmv.es"
+    }
+  ],
+  "text": "Los Productos de Renta Fija\nLos productos \nde Renta Fija \nGuía\n\nLos Productos de Renta Fija\nÍndice\n¿Qué es la Renta Fija? \nAlgunos conceptos útiles \nElementos a considerar \nProductos de renta fija\nDeuda pública \nRenta Fija Privada \nAspectos a tener en cuenta \nConsejos al Inversor\n\nLos Productos de Renta Fija\nI. ¿Qué es la Renta Fija?\nLos activos de renta fija se corresponden con un amplio conjunto de \nvalores negociables e instrumentos del mercado monetario1 que emiten las \nempresas y las instituciones públicas, y que representan préstamos que \nestas entidades reciben de los inversores. La renta fija no confiere derechos \npolíticos a su tenedor, sino solo derechos económicos, entre los que cabe \ndestacar el derecho a percibir los intereses pactados y, en algunos casos, a \nla devolución de la totalidad o parte del capital invertido en una fecha dada, \ndependiendo de si se trata de renta fija simple o no. Un inversor en renta fija \nse convierte en acreedor de la sociedad emisora, mientras que el accionista \nes un socio propietario de una parte del capital social. Esta diferencia no es \ntrivial, pues: \n¥ En caso de liquidación de la sociedad, el acreedor tiene prioridad \nfrente a los socios. \n¥ El accionista cuenta con una serie de derechos cuyo ejercicio requiere \nuna mayor implicación que los del inversor en renta fija: mayor \nseguimiento de la información, participación, en su caso, en la Junta \nGeneral de Accionistas o delegación del voto, etc. \nLos productos \nde Renta Fija\n1. \nSe entiende por instrumentos del mercado monetario aquellas categorías de \ninstrumentos que se negocian habitualmente en el mercado monetario, como \nLetras del Tesoro y efectos comerciales, excluidos los instrumentos de pago.\n\nLos Productos de Renta Fija\nAunque tradicionalmente en la renta fija los intereses del préstamo estaban \nestablecidos de forma exacta desde el momento de la emisión hasta su \nvencimiento, actualmente existen otras posibilidades más sofisticadas. \nFrecuentemente los intereses y, a veces, el precio de amortización, son \nvariables, estando referenciados a determinados indicadores: tipos de interés, \níndices o, incluso, a la evolución de una o varias acciones, teniendo a veces \notras características especiales.\nEs importante tener en cuenta que los valores llamados de renta \nfija no están exentos de riesgo y la rentabilidad final obtenida \npuede diferir de lo inicialmente previsto. En el caso de algunos \nproductos y/o en determinadas circunstancias, se pueden sufrir \nincluso pérdidas en el capital invertido.\nAdemás, algunos productos de renta fija pueden ser difíciles de \nentender y, en algunos casos, pueden no ser adecuados para \ninversores minoristas.\n\nLos Productos de Renta Fija\nII. Algunos conceptos \nútiles\nEl inversor en renta fija debe familiarizarse con conceptos como los siguientes:\n¥ Valor nominal\nEs el importe sobre el que se basa el cálculo de los intereses a pagar.\n¥ Precio de emisión\nPrecio efectivo de cada valor en el momento de la suscripción. \nNormalmente coincide con el valor nominal, aunque en algunos casos \npuede ser inferior (si se emite con descuento) o superior (si se emite \ncon prima).\n¥ Precio de reembolso\nEs el que recibe el inversor en el momento de la amortización y puede \ncoincidir con el valor nominal o puede ser inferior o superior.\n¥ Amortización\nSe refiere a la devolución del capital inicial a la fecha de vencimiento \ndel valor. Puede estar pactada la posibilidad de amortización \nanticipada, bien a opción del emisor o del inversor y, en ambos casos, \npuede ser total o parcial.\n¥ Prima de reembolso\nSi en la fecha de amortización el emisor abona una cantidad superior \nal valor nominal de los títulos, la diferencia entre ambos es la prima de \nreembolso.\n\nLos Productos de Renta Fija\n¥ Cupones\nImporte de los pagos periódicos (trimestrales, semestrales, anuales, \netc.) de intereses pactados en la emisión. Se denomina cupón corrido \na la parte del cupón devengada y todavía no pagada en una fecha \ndeterminada comprendida entre el cobro de dos cupones. Su importe \nse añade al valor del bono cuando se compra o vende en el mercado \nsecundario con cotización ex cupón.\n¥ Emisiones cupón cero\nSon valores que no tienen cupones periódicos y cuyos intereses se \nabonan al vencimiento junto con el principal. Generalmente tienen \nvencimiento a corto-medio plazo.\n¥ Emisiones al descuento\nSon valores que no tienen cupones periódicos, en los que la \nrentabilidad (positiva o negativa) viene dada por la diferencia entre \nel precio al que el inversor los adquiere y el precio que se recibe al \nvencimiento (generalmente, el valor nominal) o el precio de venta, en \ncaso de vender el valor antes de su vencimiento. Las Letras del Tesoro \ny los pagarés de empresa son de este tipo.\nPor lo tanto, para obtener una rentabilidad positiva, el precio de \nemisión o compra debería ser más bajo que el obtenido a vencimiento \no en el momento de la venta.\n¥ Mercado primario\nEs aquel en el que los valores se ofrecen al público por primera vez. \nEn el caso de la renta fija, suele coincidir con el momento en el que se \nemiten los valores.\n\nLos Productos de Renta Fija\n¥ Mercado secundario\nEs aquel en el que se realizan intercambios de titularidad \n(compraventas) de valores ya existentes (esto es, que ya han sido \npreviamente emitidos y colocados).\n\nLos Productos de Renta Fija\nIII. Elementos a \nconsiderar\nAunque los valores de renta fija pueden tener características muy distintas, \nexisten dos parámetros cuyo análisis es esencial: la rentabilidad y el riesgo. \nEsto es lo que se conoce como el binomio rentabilidad-riesgo.\nEn una inversión, los rendimientos futuros (rentabilidad) no son seguros. \nPueden ser grandes o modestos, pueden no producirse o incluso en algunos \ncasos se puede perder todo o parte del capital invertido. Esta incertidumbre \nse conoce como riesgo.\nNo existe inversión sin riesgo, pero algunos productos tienen más riesgo \nque otros. La razón fundamental para elegir una inversión con riesgo ante \nuna alternativa de ahorro sin riesgo es la posibilidad de obtener de ella una \nrentabilidad mayor.\nEsto es, cuanto mayor sea el riesgo de una inversión, mayor tendría que ser \nsu rentabilidad potencial para que sea atractiva a los inversores. Cuanto más \nriesgo se asume, más rentabilidad se debe exigir. Igualmente, cuanta más \nrentabilidad se pretende obtener, más riesgo hay que asumir. \nPor lo tanto, riesgo y rentabilidad van unidos, pero aceptar un mayor riesgo no \nes ninguna garantía de obtener mayores rendimientos.\n\nLos Productos de Renta Fija\nCada inversor tiene que decidir \nel nivel de riesgo que está \ndispuesto a asumir en busca \nde rentabilidades mayores.\n\nLos Productos de Renta Fija\nLas diferentes normas aprobadas en los últimos años han incrementado \nnotablemente la información que se pone a disposición del cliente. En muchas \nocasiones, la información facilitada es muy amplia y contiene un lenguaje \nexcesivamente técnico lo que dificulta la comprensión de las características \ny riesgos de los productos. Es por ello que, para algunos productos, se \nha establecido en la legislación el llamado “indicador de riesgo” que las \nentidades deben facilitar al cliente cuando le presten servicios de inversión o \ncomercialicen un producto financiero. Este indicador clasifica al producto en \n6 posibles categorías (numeradas del 1 al 6, siendo 1 la de menor riesgo y 6 la \nde mayor riesgo).\nEl inversor debe saber que, para determinados productos, como por ejemplo \nlos bonos y obligaciones simples, el comercializador debe informarle \npreviamente sobre este “indicador de riesgo”.\nAdemás, cuando se den determinadas circunstancias, las entidades incluirán \nalertas sobre las posibles limitaciones a la liquidez y sobre la complejidad, en \nsu caso, de los productos financieros.\nUn producto de renta fija podría obtener una rentabilidad mayor \nque uno de renta variable. También podría suponer mayor riesgo. \nDepende de muchos factores. Además, dentro de cada categoría \nexisten productos con distintos niveles de riesgo, liquidez, \nhorizonte temporal, etc. Hay que comparar las características \nprincipales de productos de una misma categoría.\n\nLos Productos de Renta Fija\nLa rentabilidad\nEn su forma más simple es el cociente entre los rendimientos netos de \nla inversión y la cantidad de dinero invertida, expresada en porcentaje. \nSin embargo, el cálculo de la rentabilidad en la práctica es algo más \ncomplejo.\nEn primer lugar, es necesario considerar los rendimientos netos, es \ndecir, los ingresos percibidos menos los gastos en que se incurre. En \nconcreto, habrá que tener en cuenta tanto los gastos derivados de la \noperativa (comisiones por la tramitación de órdenes de compra, venta, \nsuscripción o reembolso), como los que posteriormente habrá que pagar \na la entidad financiera por el mantenimiento de esta inversión (gastos de \ncustodia y administración de valores).\nPor otra parte, hay que considerar el efecto de la fiscalidad sobre la \nrentabilidad, pues lo relevante para el inversor es el rendimiento neto \ndespués de impuestos. Hay que tener en cuenta que la fiscalidad de \nun mismo producto puede ser diferente según sean las circunstancias \npersonales de cada inversor, y el impacto fiscal también puede cambiar \na lo largo del tiempo por dos causas: modificaciones legislativas \nque impliquen cambios en el régimen fiscal aplicable al producto o \nmodificaciones de la propia renta o patrimonio, que supongan un efecto \ndistinto de esta tributación en su impuesto personal.\nOtro aspecto a considerar es el periodo durante el que se espera \nmantener la inversión. En general, los productos de renta fija generan \ningresos (y a veces gastos) a lo largo del tiempo de tenencia. Para poder \ncompararlos entre sí, hay que saber cuánto valdrían en el momento \nactual todos esos flujos, es decir, es necesario actualizar su valor.\na)\n\nLos Productos de Renta Fija\nLa noción de que el dinero tiene un valor temporal es uno de los \nconceptos básicos de las finanzas. Un mismo capital en el momento \npresente tiene mayor valor que en el futuro. Los motivos son:\nLa inflación reduce el poder adquisitivo del capital en el \ntiempo.\nExiste el riesgo, aunque en algunos casos pueda ser \nremoto, de que se incumpla la promesa de devolución del \ncapital. \nSe renuncia a poder utilizarlo en otra inversión, consumirlo \no gastarlo (coste de oportunidad). \nLos distintos métodos de valoración de activos se basan en el principio \ngeneral de descontar todo lo que se espera obtener de ellos en el futuro \na un tipo de interés (o tasa de descuento) para conocer su valor actual. \nEn el caso de la renta fija, los ingresos esperados son los cupones, fijos \no variables, que se obtendrán en los distintos momentos del tiempo, así \ncomo el importe que se recibirá a vencimiento.\nEs posible hacer distintas estimaciones sobre los tipos de interés futuros \ny sobre el importe de los próximos cupones. Por esta razón, el precio \nactual teórico no es único, lo que explica que unas personas puedan \ndesear comprar y otras vender un mismo activo (si el precio teórico \nactual es superior al del mercado, comprarán, y venderán en caso \ncontrario). \nUn instrumento muy útil para medir la rentabilidad de un instrumento y \ncomparar distintos productos es la llamada tasa interna de rentabilidad \n(TIR), que es la tasa o tanto medio efectivo que iguala el precio de un \nbono con la corriente de pagos generada por el mismo.\n\nLos Productos de Renta Fija\nEsta operación se realiza fácilmente con una calculadora financiera o una \nsimple hoja de cálculo. En todo caso, puede consultar a su intermediario \nel método de cálculo.\nEjemplo: Tasa interna de rentabilidad\nComparemos los siguientes bonos:\nComo puede observarse, el bono 2 es el que proporciona un \nmayor cupón anual. Sin embargo, de los 3 bonos considerados en \nel ejemplo, es el que tiene menor tasa interna de rentabilidad.\nPero no siempre es posible calcular de antemano estas rentabilidades. En \nlos valores con tipo de interés fijo, el inversor puede conocer con certeza \nlos ingresos y gastos asociados a la inversión y calcular exactamente la \nrentabilidad, siempre que el producto se mantenga hasta su vencimiento. \nSin embargo, en los productos de tipo variable y/o si el inversor vende \nantes del vencimiento, el cálculo inicial no dejará de ser una mera \nestimación.\n2. \nPor razones de simplicidad se considera únicamente la rentabilidad bruta, sin tener en cuenta el efecto fiscal.\nCaracterísticas\nBono 1\nBono 2\nBono 3\nValor nominal\n10.000 €\n10.000 €\n10.000 €\nPrecio de \nemisión\n100% (10.000 €)\n101 % (10.100 €)\n100% (10.000 €)\nInterés2\nEl bono devengará un \ninterés del 0,8% anual, \npagadero anualmente, \npor lo que en cada \nfecha de pago el cupón \nbruto será de 80 euros.\nEl bono devengará un \ninterés del 1% anual, \npagadero anualmente, \npor lo que en cada \nfecha de pago el \ncupón bruto será de \n100 euros.\n2,25% al vencimiento, \nsin pago de intereses \nperiódicos. \nPlazo\n3 años\n3 años\n3 años\nTIR\n0,80%\n0,66%\n0,74%\n\nLos Productos de Renta Fija\nCuando opere en el mercado secundario de renta fija, y sobre todo si lo \nhace a corto plazo, el inversor debe considerar especialmente el riesgo \nde que suban los tipos de interés, que será mayor cuanto más plazo falte \npara el vencimiento del activo. En estos casos, un repunte de los tipos a \ncorto podría generar importantes minusvalías.\nEl riesgo\nExiste un cierto grado de incertidumbre asociado a los rendimientos \nfuturos. Esta incertidumbre se conoce como riesgo. El riesgo financiero \nes el conjunto de factores que pueden determinar que la inversión \nproporcione una rentabilidad distinta de la esperada.\nEn este aspecto hay diferencias sustanciales entre los distintos tipos de \nproductos. Los productos de renta fija simple que ofrecen poco riesgo \ngeneralmente llevan asociados niveles bajos de rentabilidad, aunque no \nsiempre es así.\nPueden existir diversos factores de riesgo inherentes a un emisor o a \nun tipo de valor. Se explican a continuación los factores de riesgo más \nhabituales que pueden presentarse en los valores de renta fija. No \nobstante, debe tenerse en cuenta que pueden existir otros factores \nde riesgo adicionales a los aquí descritos. Además, los precios de los \nactivos financieros también son sensibles a las expectativas generales \nsobre la marcha de la economía, sobre el comportamiento específico de \ndeterminados sectores o compañías, etc.\nEl riesgo de crédito o de insolvencia. Es el riesgo de que el emisor de \nun valor no pueda hacer frente a sus pagos (tanto de cupones como de \nreembolso del principal) o de que se produzca un retraso en los mismos. \nEl emisor puede ser una empresa, entidad financiera, Estado u otro \norganismo público.\nb)\n\nLos Productos de Renta Fija\nEs importante tener en cuenta la calidad crediticia del emisor. Para \nello, es interesante consultar las calificaciones (rating) que asignan las \nagencias especializadas sobre la calidad crediticia y fortaleza financiera \nde las sociedades emisoras, Estados y Administraciones Públicas. \nEstas calificaciones pueden referirse al emisor o, en el caso de los \nprivados, a estos y/o cada una de sus emisiones. El criterio fundamental \nempleado para evaluar la solvencia de un emisor suele ser su capacidad \npara generar beneficios en el futuro y, en consecuencia, para afrontar \nsus compromisos de pago. Cuanto menor es el riesgo de insolvencia \nestimado, más alta es la calificación crediticia del emisor y, por lo tanto, \nmás segura la inversión. Otras veces se califica la solvencia para hacer \npatente que una emisión concreta ofrece garantías adicionales (como \nen el caso de las titulizaciones). No obstante, hay que tener en cuenta \nque las calificaciones son solo una indicación y pueden ser revisadas, \nsuspendidas o retiradas en cualquier momento por parte de la agencia \ncalificadora.\n\nLos Productos de Renta Fija\nEl riesgo de tipos y el riesgo de precio. El inversor se somete a uno u \notro según sea el horizonte temporal de la inversión en relación con el \nperiodo de vencimiento del activo adquirido, y las variaciones de tipos \nde interés que se den en ese periodo. Cuando suben los tipos de interés, \nel precio de la renta fija ya emitida baja y cuando bajan los tipos de \ninterés, el precio de la renta fija viva aumenta.\nCuando un inversor adquiere un activo con un vencimiento superior a su \npropio horizonte de inversión, llegado ese momento tendrá que venderlo \nen el mercado secundario. Si en ese periodo los tipos han subido \nobtendrá una rentabilidad inferior a la esperada y, dependiendo de esa \nvariación, podrá sufrir minusvalías. Por el contrario, descensos en los \ntipos de interés le reportarán rentabilidades superiores a las inicialmente \nprevistas.\nEsto se debe a que los tipos de interés afectan a los precios de la renta \nfija en el mercado secundario. Cuando los tipos de interés de las nuevas \nemisiones aumentan, los precios de las ya existentes bajarán, pues los \ninversores solo estarán dispuestos a comprarlas si su precio se reduce \nde modo que garantice al comprador una rentabilidad equivalente a la \nde las nuevas emisiones. Por el contrario, cuando los tipos de interés \ndisminuyen, el precio en mercado secundario de las emisiones antiguas \nsubirá. En ambos casos, son los movimientos en la TIR los que ajustan el \nprecio. La TIR permite homogeneizar la rentabilidad de cada emisión para \ncompararla con los tipos de mercado.\nLa sensibilidad del precio frente a variaciones en los tipos de interés \ndepende del número de cupones pendientes, su distribución y cuantía, y \ndel resto de los ingresos a percibir en el tiempo.\nPor el contrario, si el activo adquirido tiene una vida inferior al horizonte \nde inversión, a su vencimiento se deberá adquirir otro hasta completar \nese periodo. Esta situación origina un riesgo de reinversión, pues podría \nocurrir que en esa fecha la rentabilidad que ofrezcan los activos resulte \ninferior a la que se ofrecía inicialmente a ese plazo.\n\nLos Productos de Renta Fija\nEl riesgo de liquidez. Es el riesgo de no encontrar contrapartida para \nvender los valores o sufrir una posible penalización en el precio de \nla inversión si se necesita recuperar el dinero con rapidez. En casos \nextremos, podría resultar imposible recuperar el dinero en el momento \ndeseado. La falta de liquidez es un coste que siempre asume el inversor.\nLas posibles limitaciones a la liquidez pueden derivar, por un lado, de \nla existencia de comisiones o penalizaciones en caso de reembolso \nanticipado (en el caso de productos en los que ésta se permite el coste \nde deshacer las coberturas de la opción asociada es elevado, existiendo \nla posibilidad de perder parte del principal invertido). Por otro lado, hay \nproductos que no permiten amortización anticipada.\nEn el caso de la renta fija cotizada, será el mercado el que determine la \nliquidez y el precio de nuestra inversión. Sin embargo, aun cuando los \nproductos se negocien en algún mercado, es necesario considerar que \nhay diferencias notables en el funcionamiento de los mismos, así como \nen la liquidez de los distintos productos que en ellos se negocian. Si los \nvalores gozan de poca liquidez, podría ser difícil encontrar contrapartida \nen caso de desear venderlos.\nEl riesgo de amortización anticipada. En aquellos casos en los que \nse establezca la posibilidad de amortización anticipada de los valores \npor parte del emisor y éste proceda a realizarla, podría ser que el \ninversor no pueda reinvertir el importe de dicha amortización en valores \ncomparables y al mismo tipo de interés.\n\nLos Productos de Renta Fija\nEl riesgo por el comportamiento de los activos subyacentes. En \ndeterminados productos, como, por ejemplo, los valores estructurados, \nlos rendimientos o el precio de amortización pueden estar ligados \na la evolución de uno o varios activos subyacentes. En este caso, un \ncomportamiento desfavorable de los activos subyacentes puede afectar \nnegativamente al valor de la inversión, por lo que los titulares de los \nvalores estructurados estarán expuestos al comportamiento de dichos \nactivos.\nEl riesgo de pérdida de principal. Se produce cuando no existe un \ncompromiso de devolución de una parte o de todo el principal invertido \na vencimiento. Esto puede suceder, por ejemplo, en el caso de algunos \nproductos estructurados, cuando en la fecha de vencimiento el precio de \namortización sea inferior al precio de emisión. En estos casos el inversor \nperderá parcialmente el importe invertido, pérdida que podrá ser total si \nel precio de amortización fuera igual a cero.\nEl riesgo de tipo de cambio. Es el riesgo de variación en los tipos \nde cambio de las divisas y solo afecta a los activos denominados en \nmonedas distintas del euro.\nEl riesgo de operativa o procedimiento. Derivado de la posibilidad \nde cometer errores al transmitir instrucciones de compra o venta a \nlas entidades financieras. Así como los anteriores pueden reducirse \nmediante una adecuada diversificación o selección de productos, \néste es el único que el inversor puede anular por completo. Revise \ncuidadosamente sus órdenes antes de transmitirlas y compruebe \nposteriormente que las ejecuciones se corresponden con sus \ninstrucciones y con la situación del mercado. Posteriormente, realice un \nadecuado seguimiento periódico de sus cuentas de valores.\n\nLos Productos de Renta Fija\nEl riesgo de subordinación y prelación de los inversores ante \nsituaciones concursales. En caso de producirse una situación concursal \ndel emisor, la posición que ocupe el inversor como acreedor y, por tanto, \nla probabilidad de recuperar toda o parte de su inversión, dependerá \nde si es tenedor de valores simples o subordinados, así como de si los \nvalores están o no garantizados.\nEl riesgo derivado del alcance de las medidas que podrían ser \nadoptadas en el marco de reestructuración y resolución de entidades \nde crédito. Existen una serie de herramientas para resolver entidades \nde crédito con problemas de solvencia o inviabilidad, entre los que \nse encuentra el denominado instrumento de recapitalización interna \n(o bail in). Esta herramienta permite amortizar o convertir en acciones \nu otros instrumentos de capital los denominados pasivos admisibles \npara la recapitalización interna. Este es el denominado riesgo de \nabsorción de pérdidas. Por lo tanto, en el caso de que el emisor sea una \nentidad de crédito, los tenedores de los valores podrían verse sujetos \na una reducción del valor de los mismos o a la conversión de estos en \ninstrumentos de capital, lo que podría conllevar que los tenedores de los \nvalores perdiesen parte o, incluso, la totalidad de su inversión.\n$\n\nLos Productos de Renta Fija\nIV. Productos de renta \nfija\nEn función del tipo de emisor (público o privado), se pueden distinguir los \nsiguientes instrumentos financieros de renta fija, que se explicarán con más \ndetalle a continuación.\n\nLos Productos de Renta Fija\nV. Deuda pública\nSon los valores de renta fija emitidos por el Estado, las Comunidades \nAutónomas y otros organismos públicos.\nDeuda del Estado\nSon valores de renta fija que el Tesoro Público emite regularmente a través de \nsubastas. Su valor nominal es de 1.000 euros por título y, en caso de querer \ninvertir una cantidad mayor, siempre ha de ser en múltiplos de 1.000 euros.\nSe representan mediante anotaciones en cuenta, sin que exista el título físico.\nLa Deuda pública del Estado Español tiene calificaciones crediticias de las \nagencias internacionales de rating. Estas agencias evalúan el riesgo de crédito \nde manera que, cuanto más baja sea la probabilidad de impago que asignan \na un emisor, mejor será la calificación que asignan a dicho emisor. Así, a priori, \nmenor será la rentabilidad obtenida, dado el menor riesgo asumido.\nEn la página web del Tesoro se puede obtener información sobre cualquier \nemisión de Deuda pública del Estado, acudir a las subastas de deuda y \ncontratarla sin costes (www.tesoro.es).\nEstos valores se pueden adquirir en mercado primario o secundario. La \nsuscripción de Deuda pública puede hacerse a través de cualquier oficina del \nBanco de España, a través de la web de Tesoro o en entidades de crédito o \nsociedades y agencias de valores.\nEn cuanto al mercado secundario, el mercado de referencia de estos valores \nes el Sistema Electrónico de Negociación de Activos Financieros (SENAF), \nplataforma electrónica de negociación mayorista de BME para deuda pública \nespañola, cuyo funcionamiento está supervisado por la sociedad rectora del \nMercado AIAF de Renta Fija. Todos los inversores minoristas pueden operar en \nDeuda pública a través de la plataforma SEND, cuyo funcionamiento es similar \nal de la Bolsa.\n\nLos Productos de Renta Fija\nEn la página web de BME (Boletín de Operaciones de Deuda Pública) se puede \nconsultar información sobre precios cotizados y operaciones cruzadas de la \nDeuda pública negociada.\nLetras del Tesoro\nSon activos a corto plazo (máximo 12 meses) emitidos por el Estado a \ntravés del Tesoro. No tienen cupones explícitos, por lo que su rentabilidad \n(positiva o negativa) viene determinada por la diferencia entre el \nprecio al que el inversor las adquiere y el valor nominal que se recibe a \nvencimiento o el precio de venta, en caso de vender el valor antes de su \nvencimiento. \nPor lo tanto, para obtener una rentabilidad positiva, el precio de emisión \no compra debería ser más bajo que el valor obtenido a vencimiento o en \nel momento de la venta.\nActualmente se ofrecen varios tipos de Letras en función de su plazo de \nvencimiento: a 3, 6, 9 y 12 meses. \nBonos y Obligaciones del Estado \nSon los principales instrumentos de renta fija a medio plazo (bonos) y \nlargo plazo (obligaciones) emitidos por el Estado. Se trata de emisiones \nde rendimiento explícito. En la actualidad se emiten bonos a 3 y 5 años \ny obligaciones a 10, 15, 30 y 50 años. A lo largo de su vida, estos activos \ndevengan un tipo de interés, generalmente fijo, que se abona mediante \ncupones anuales. \nAlgunas emisiones de deuda pública a largo plazo se realizan bajo la \nmodalidad de valores segregables o «strips», en los que se pueden \nadquirir por separado el principal y cada uno de los cupones a los que da \nderecho el bono original.\na)\nb)\n\nLos Productos de Renta Fija\nDeuda autonómica y de otros organismos \npúblicos\nLas Comunidades Autónomas, corporaciones locales y diversos entes \npúblicos emiten valores a corto plazo (pagarés) y a largo plazo. Sus \ncaracterísticas son similares a las de las Letras del Tesoro y los bonos y \nobligaciones del Estado, respectivamente.\nLa deuda autonómica y otra deuda pública cotizan en las bolsas de valores o, \nal igual que la Deuda del Estado, en el Sistema Electrónico de Negociación de \nActivos Financieros (SENAF), plataforma electrónica de negociación mayorista \nde BME para deuda pública española, cuyo funcionamiento está supervisado \npor la sociedad rectora del Mercado AIAF de Renta Fija.\n\nLos Productos de Renta Fija\nVI. Renta Fija Privada\nEs el conjunto de valores de renta fija emitidos por empresas del sector \nprivado. Sin perjuicio de ciertas excepciones previstas en la normativa3, los \nemisores tienen obligación de publicar un folleto cuando se ofertan al público \no se admiten a cotización valores de este tipo en un mercado regulado de un \nEstado miembro de la Unión Europea. En la página web de la CNMV se pueden \nencontrar los folletos aprobados.\nEn algunos casos, puede existir un folleto aprobado por autoridades \ncompetentes de otros Estados miembros de la Unión Europea. Dichas \nautoridades competentes deberán remitir (pasaportar) a la CNMV ese folleto, \njunto con la notificación de su aprobación, para que los valores puedan \nser ofrecidos al público o se puedan admitir a negociación en un mercado \nregulado con sede en España. En estos casos, en la página web de la CNMV se \npodrá encontrar un resumen en español.\nPagarés de empresa \nSon valores sin cupón explícito emitidos al descuento, por lo que su \nrentabilidad (positiva o negativa) viene determinada por la diferencia \nentre el precio al que el inversor las adquiere y el valor nominal que se \nrecibe a vencimiento o el precio de venta, en caso de vender el valor \nantes de su vencimiento.\nPor lo tanto, para obtener una rentabilidad positiva, el precio de emisión \no compra debería ser más bajo que el obtenido a vencimiento o en el \nmomento de la venta.\nSon a corto plazo, y existen vencimientos entre 3 días y 25 meses, \naunque los plazos más frecuentes son de 1, 3, 6, 12 y 18 meses.\na)\n3. \nExisten algunas excepciones en función del tipo de valor (por ejemplo, valores \nemitidos por el Estado), del importe de la oferta o de las características de la misma.\n\nLos Productos de Renta Fija\nLa colocación de los pagarés en el mercado primario se efectúa bien \nmediante subastas competitivas en las que se determina el precio de \nadquisición, o bien por negociación directa entre el inversor y la entidad \nfinanciera.\nNo suelen contar con ningún tipo de garantía específica, salvo la de la \npropia empresa emisora.\nBonos y Obligaciones \nLos bonos y obligaciones son valores a medio y largo plazo que \nrepresentan una deuda para su emisor. Sus características pueden variar \nconsiderablemente de un emisor a otro, e incluso en distintas emisiones \nde una misma compañía. Estas diferencias pueden ser la fecha de \nvencimiento, tipo de interés, periodicidad de los cupones, precios de \nemisión y amortización, las cláusulas de amortización y otras condiciones \nde emisión, las opciones de convertibilidad si las hubiera, la prelación de \nderechos en caso de liquidación, o las garantías ofrecidas, entre otras.\nAsí, se pueden encontrar bonos y obligaciones simples, obligaciones \nsubordinadas (que a efectos de la prelación de créditos se sitúan detrás \nde todos los acreedores comunes) o bonos y obligaciones indiciados, \nreferenciados o indexados (cuya rentabilidad se vincula a la evolución de \nun índice, cesta de acciones, etc.). El inversor debe tener en cuenta que \nsi la evolución de dichas referencias es desfavorable, podría no recibir \nningún rendimiento o incluso sufrir pérdidas. En estos casos, además del \nriesgo de la evolución de tipos de interés que afecta a toda la renta fija, \nse asume el riesgo del índice de referencia. \n¥ Bonos y obligaciones simples\nLos bonos y obligaciones son valores a medio y largo plazo que \nrepresentan una deuda para su emisor, devengan intereses y son \nreembolsables por amortización anticipada o a vencimiento.\nb)\n\nLos Productos de Renta Fija\n¥ Bonos y obligaciones subordinados\nLa deuda subordinada se caracteriza por su situación jurídica en caso \nde quiebra o procedimiento concursal del emisor. En aplicación de las \nreglas de prelación de créditos, las obligaciones subordinadas se sitúan \ndetrás de los acreedores privilegiados y comunes del emisor. Este tipo \nde emisiones las suelen llevar a cabo las entidades de crédito porque \ncomputan como recursos propios y, por tanto, refuerzan su solvencia. \nDe lo anterior cabe deducir que la deuda subordinada debería tener una \nrentabilidad mayor que la deuda simple emitida por la misma entidad y al \nmismo plazo. \n¥ Bonos estructurados\nSon valores en los que los rendimientos y, en ocasiones, el reembolso \ndel principal están vinculados a la evolución de uno o varios activos de \nreferencia (también llamados activos subyacentes), que pueden ser \nacciones, índices, materias primas, etc. Si el principal no está protegido, \nno hay garantía de que se vaya a recuperar a vencimiento o en una fecha \nanterior el capital invertido.\nEstos bonos incorporan instrumentos derivados, normalmente opciones, \nque permiten a la entidad emisora ligar la rentabilidad del producto a los \nactivos de referencia. \nPor lo tanto, la estructura de rentabilidad de los bonos estructurados es, \na veces, compleja y puede resultar difícil de entender y de comparar con \notras alternativas de inversión. Asimismo, la relación entre rentabilidad y \nriesgo puede ser difícil de evaluar.\n\nLos Productos de Renta Fija\nCédulas y bonos hipotecarios. \nSon valores de renta fija emitidos exclusivamente por entidades \nde crédito y respaldados por la cartera de préstamos hipotecarios \ndel emisor. Suelen ser emisiones a medio plazo y tienen distintas \nmodalidades en cuanto a tipo de interés y condiciones de amortización. \nEn concreto, la entidad emisora se reserva la facultad de amortizar \nanticipadamente parte o la totalidad de la emisión durante la vida de la \nmisma, de acuerdo con lo establecido en la Ley que regula el mercado \nhipotecario. \nLas cédulas hipotecarias están respaldadas de modo global por la \ncartera de préstamos hipotecarios del emisor que no estén afectas a \nemisión de bonos hipotecarios y sus tenedores tienen el carácter de \nacreedores singularmente privilegiados frente a cualesquiera otros \nacreedores en relación con la totalidad de los créditos hipotecarios.\nLas entidades emisoras suelen dar liquidez a estos valores, es decir, \ndan contrapartida de compra o venta a los inversores, siempre que el \nvolumen de valores que tengan en su cartera no supere el límite legal del \n5% del volumen emitido.\nLos bonos hipotecarios tienen características similares a las cédulas \nhipotecarias pero, a diferencia de estas, no están respaldados de \nmodo global por la cartera de préstamos hipotecarios concedidos \npor la entidad emisora, sino por un conjunto concreto de préstamos \nhipotecarios que se vinculan a los bonos. De esta forma, el principal y los \nintereses de las emisiones de bonos hipotecarios estarán especialmente \ngarantizados por dichos préstamos hipotecarios, que deben cumplir una \nserie de requisitos.\nc)\n\nLos Productos de Renta Fija\nCédulas territoriales\nLas cédulas territoriales son valores de renta fija emitidos por entidades \nde crédito, que se encuentran respaldados por los préstamos y créditos \nconcedidos por el emisor al Estado, a las Comunidades Autónomas, \nentes locales y organismos autónomos dependientes de los mismos, \nasí como otras entidades de análoga naturaleza del Espacio Económico \nEuropeo. \nLos tenedores de cédulas territoriales tienen el carácter de acreedores \nsingularmente privilegiados frente a cualesquiera otros acreedores en \nrelación con el conjunto de préstamos concedidos a las administraciones \npúblicas.\nCédulas y bonos de internacionalización\nSon valores de renta fija emitidos exclusivamente por entidades de \ncrédito y respaldados por la cartera de préstamos y créditos concedidos \npor la entidad emisora que estén vinculados a la financiación de \ncontratos de exportación de bienes y servicios o a la internacionalización \nde las empresas y que cumplan determinados requisitos.\nLas cédulas de internacionalización están respaldadas de modo \nglobal por la cartera de préstamos de este tipo que no estén afectos a \nemisiones de bonos de internacionalización y sus tenedores tienen el \ncarácter de acreedores singularmente privilegiados frente a cualesquiera \notros acreedores en relación con los préstamos que en cada momento \nformen parte de esa cartera.\nLos bonos de internacionalización, por su parte, tienen características \nsimilares a las cédulas de internacionalización pero, a diferencia \nde estas, no están respaldados de modo global por la cartera de \npréstamos de este tipo concedidos por la entidad emisora, sino por \nun conjunto concreto de préstamos que se vinculan a los bonos. De \nesta forma, el principal y los intereses de las emisiones de bonos de \ninternacionalización estarán especialmente garantizados por dichos \nd)\ne)\n\nLos Productos de Renta Fija\npréstamos, que deben cumplir una serie de requisitos.\nBonos de titulización\nLa titulización es un método de financiación de empresas basado en \nla venta o cesión de determinados activos (incluso derechos de cobro \nfuturos) a un tercero que, a su vez, financia la compra emitiendo valores \nque son los que colocan entre los inversores. \nEn España, el método de titulización es el siguiente. La entidad que desea \nfinanciarse – cedente– vende los activos a un fondo de titulización, que \ncarece de personalidad jurídica y está administrado por una sociedad \ngestora. Los activos que se incorporan al fondo pueden ser de distinta \nnaturaleza: préstamos hipotecarios a particulares, préstamos a empresas, \ncréditos para la compra de automóviles, etc.\nA su vez, el fondo emitirá valores, que estarán respaldados por los activos \nadquiridos.\nEntre los aspectos más relevantes de la titulización destacan:\n1. El fondo de titulización se configura como un patrimonio \nseparado, de forma que la cartera titulizada queda fuera del \nalcance de los acreedores del cedente.\n2. Los valores emitidos están respaldados por los activos \ntitulizados y no por la solvencia del cedente. Por ello, con la \nfinalidad de aumentar la seguridad en el pago de los valores \nemitidos, neutralizar las diferencias de tipos de interés entre los \ncréditos agrupados en el fondo y los valores emitidos con cargo \na él, y mitigar desfases temporales de flujos, se suelen contratar \npor cuenta del fondo operaciones financieras denominadas \n''mejoras crediticias''.\n3. El riesgo financiero de los valores emitidos suele ser objeto de \nevaluación por agencias de calificación.\nf )\n\nLos Productos de Renta Fija\n4. Los titulares de los bonos emitidos con cargo al fondo asumen \nel riesgo de impago de los activos agrupados en él.\n5. El riesgo de amortización anticipada de los activos del fondo \nse traspasa a los titulares de los valores. En cada fecha de \npago, los titulares de los bonos pueden tener que soportar la \namortización parcial de los mismos.\n6. Los valores emitidos podrán ser objeto de negociación en un \nmercado regulado o en un sistema multilateral de negociación \ny podrán diferir entre sí en cuanto al tipo de interés, plazo y \nforma de amortización, derecho de prelación en el cobro o \ncualesquiera otras características (si van dirigidos a inversores \ncualificados y no van a ser admitidos en un mercado regulado, \nla transmisión de los valores solo se podrá realizar entre \ncualificados).\nUna categoría especial de titulizaciones son las denominadas \ntitulizaciones STS (Simple, Transparent and Standard), que son aquellas \nque cumplen una serie de requisitos sobre simplicidad, estandarización y \ntransparencia.\nLos bonos de titulización pueden ser de difícil comprensión para el \ninversor minorista y, por sus características, normalmente se colocan \nentre inversores cualificados.\n\nLos Productos de Renta Fija\nObligaciones convertibles y/o canjeables\nLa convertibilidad supone la posibilidad de transformar un activo \nfinanciero en otro. Así, una determinada obligación puede convertirse \nen una acción o en otra clase de obligaciones. Las obligaciones \nconvertibles o canjeables confieren a su propietario el derecho a \ncambiarlos por acciones en una fecha determinada. La diferencia entre \ncanje y conversión estriba en que, en el primer caso, la transformación \nen acciones se realiza mediante entrega de acciones ya emitidas que \nforman parte de la autocartera del emisor, mientras que en el segundo se \nentregan acciones de nueva emisión.\nHasta la fecha de conversión, el tenedor recibe los intereses mediante \nel cobro de los cupones periódicos. El número de acciones que se \nentregarán por cada bono u obligación, la forma de determinar los \nprecios, así como las fechas de canje o conversión, se especifican en el \nfolleto informativo.\nLlegada la fecha del canje, el inversor tiene dos alternativas:\nEjercitar la opción de conversión, si el precio de las \nacciones ofrecidas en canje / conversión es inferior a \nsu precio de mercado.\nMantener las obligaciones hasta la fecha de \nla siguiente opción de conversión o hasta su \nvencimiento. \nLos bonos contingentes convertibles -llamados CoCos- son un tipo de \nbonos convertibles subordinados, emitidos, por lo general, por entidades \nde crédito. Son instrumentos perpetuos, aunque el emisor se reserva el \nderecho a rescatarlos transcurrido un plazo (generalmente cinco años) \ndesde su emisión. Por otro lado, el pago de cupón puede ser cancelado \npor el emisor, sin que sea acumulable.\ng )\n\nLos Productos de Renta Fija\nSi bien los bonos convertibles normales, como se ha señalado \nanteriormente, suelen dejar el poder de conversión en manos del \ninversor, en los bonos convertibles contingentes esta conversión de \nbonos en acciones está sujeta a que se cumplan algunas condiciones \nestablecidas en el momento de su emisión.\nLa condición más común para que se produzca dicha conversión es que \nel nivel de capital de la entidad de crédito emisora se sitúe por debajo \nde un nivel mínimo previamente determinado. Si esto ocurre, el emisor \nconvertirá de manera irrevocable y obligatoria los bonos convertibles \ncontingentes en acciones a un precio de conversión también \npreviamente establecido. El inversor, por lo tanto, recibirá acciones como \nresultado de dicha conversión, de manera que pasará a ser accionista de \nla entidad emisora. El hecho de que el nivel de capital se sitúe por debajo \nde un nivel mínimo es indicativo de un deterioro de la solvencia de la \nentidad, por lo que, si esto sucede, es probable que el precio de la acción \nesté bajando. Es preciso tener en cuenta que el precio de mercado de \ndichas acciones en el momento en que el inversor las reciba puede estar \npor debajo del precio de conversión, por lo que se pueden sufrir pérdidas \nsignificativas.\nDebido a sus características, se trata de productos complejos que \npueden no resultar adecuados para todos los inversores.\nEjemplo: conversión si se produce un evento prefijado\nSupongamos una inversión de 10.000 euros en un bono \ncontingentemente convertible emitido por la entidad XXX.\nEntre otras características, las condiciones de la emisión \nestablecen que si en cualquier momento el ratio de capital de \nla entidad se encuentra por debajo del 5,125% los bonos se \nconvertirán obligatoria e irrevocablemente en acciones de nueva \nemisión de la entidad a un precio de conversión que será el mayor \nde i) el precio de mercado de referencia, ii) el precio mínimo de 5 \neuros y iii) el valor nominal de la acción.\n\nLos Productos de Renta Fija\nSi se produce el evento señalado, esto es, la ratio de capital \nde la entidad emisora cae por debajo del 5,125%, los bonos \nse convertirán en acciones. La caída de la ratio de capital es \nindicativa de un deterioro de la solvencia de la entidad, por lo \nque sus acciones estarán cayendo. Supongamos que el precio de \nmercado de las acciones asciende a 1 euro, precio que coincide \ncon el valor nominal de las mismas. En este caso, el precio de \nconversión quedará fijado en 5 euros, por ser el mayor de los tres \ncontemplados. Por lo tanto, el número de acciones que recibiría el \ntitular del bono se calcularía de la siguiente manera:\nComo se ha comentado, el precio de mercado de las acciones era \nde 1 euro, por lo que el valor de las acciones recibidas ascendería \na 2.000 euros (frente a una inversión inicial de 10.000 euros al \ncomprar el bono).\n10.000 euros / 5 euros por acción = 2.000 acciones\n\nLos Productos de Renta Fija\nParticipaciones preferentes\nLas participaciones preferentes son valores de carácter híbrido, ya \nque por su naturaleza no pueden clasificarse como de renta fija ni \ntampoco de renta variable. Tienen una estructura similar a la de la deuda \nsubordinada y sus principales características son las siguientes:\n¥ Son valores perpetuos, aunque pueden ser amortizados o \nrescatados anticipadamente por el emisor.\n¥ Conceden a sus titulares una remuneración predeterminada, \nno acumulativa, condicionada a la obtención de beneficios \ndistribuibles. \n¥ En el orden de prelación de créditos se sitúan por delante \nde las acciones ordinarias, en igualdad de condiciones con \ncualquier otra serie de participaciones preferentes y por detrás \nde todos los acreedores comunes y subordinados. \n¥ Cotizan en AIAF, mercado regulado de renta fija.\n¥ A diferencia de las acciones, no tienen derechos políticos, salvo \nen determinados supuestos excepcionales.\nPueden emitirse por compañías no financieras, pero suelen ser emitidas \npor entidades de crédito para cubrir sus obligaciones en materia de \nrecursos propios. En el caso de las entidades de crédito la elegibilidad de \nlas participaciones preferentes para su cómputo en los recursos propios \ndepende de que éstas reúnan determinadas características como, por \nejemplo, la posibilidad de que la remuneración pueda cancelarse en \ncualquier momento, incluso a la sola discreción del propio emisor o, si \nse producen determinados eventos, la posibilidad de ajustar a la baja \nel valor nominal de las participaciones o realizar su conversión en otros \nvalores.\nh)\n\nLos Productos de Renta Fija\nLas participaciones preferentes contingentemente convertibles \nson un tipo de participaciones preferentes emitidas, por lo general, \npor entidades de crédito, con la finalidad de mejorar su solvencia. A \nlas anteriores características se les une la convertibilidad en acciones \ndel emisor, que estará sujeta a determinadas condiciones fijadas en el \nmomento de su emisión. Al igual que en el caso de los bonos convertibles \ncontingentes, la condición más común para que se produzca dicha \nconversión es que el nivel de capital de la entidad de crédito emisora se \nsitúe por debajo de un nivel mínimo previamente determinado.\nSi esto ocurre, el emisor convertirá de manera irrevocable y obligatoria \nlas participaciones preferentes contingentemente convertibles en \nacciones a un precio de conversión también previamente establecido. \nEl inversor, por lo tanto, recibirá acciones como resultado de dicha \nconversión, de manera que pasará a ser accionista de la entidad emisora. \nEl hecho de que el nivel de capital se sitúe por debajo de un nivel mínimo \nes indicativo de un deterioro de la solvencia de la entidad, por lo que, \nsi esto sucede, es probable que el precio de la acción esté bajando. Es \npreciso tener en cuenta que el precio de mercado de dichas acciones \nen el momento en que el inversor las reciba puede estar por debajo del \nprecio de conversión, por lo que se pueden sufrir pérdidas significativas. \nPara ver un ejemplo en relación con la conversión, puede consultar el \napartado g) anterior.\n\nLos Productos de Renta Fija\nVII. Aspectos a tener en \ncuenta\n¿De qué información dispongo para la toma de decisiones? \nLas normas que rigen las transacciones en los mercados de valores se \nbasan en un principio muy claro y sencillo: todos los inversores, tanto \ncualificados como minoristas, deberán tener acceso a una información \nsuficiente y equilibrada sobre las propuestas de inversión, antes de la \ntoma de decisiones. Para lograr esto, las sociedades emisoras deberán \nponer a disposición del público, a lo largo del tiempo, toda la información \npertinente sobre la compañía y la emisión. \nInformación para la contratación del producto\nFolletos informativos. Con carácter general, debe publicarse un \nfolleto cuando se ofertan al público o se admiten a cotización \nvalores en un mercado regulado situado o en funcionamiento en \nun Estado miembro de la Unión Europea. Sin embargo, existen \nalgunas excepciones a esta norma en función del tipo de valor \n(por ejemplo, valores emitidos por el Estado), del importe de la \noferta o de las características de la misma.\nEl folleto debe contener información suficiente para que los \ninversores adopten decisiones de inversión informadas. Incluye \ninformación sobre los activos y pasivos, las pérdidas y ganancias, la \nsituación financiera y las perspectivas del emisor (y del garante, si \nlo hubiera), los derechos inherentes a los valores y los motivos de la \nemisión y sus consecuencias para el emisor. Igualmente, se recogen \nlos principales riesgos relacionados con los valores y el emisor. En el \nfolleto se identifican las compañías autorizadas, en su caso, para la \ncolocación y el aseguramiento, así como el régimen fiscal aplicable.\na)\n\nLos Productos de Renta Fija\nEl folleto puede presentarse como un único documento o estar \nintegrado por varios documentos separados. El documento único \ncontiene el resumen y la información relativa al emisor y a los \nvalores que se ofrecen al público. Si se compone de distintos \ndocumentos, la información se reparte entre el documento de \nregistro (datos sobre el emisor), por un lado, y la nota de valores \n(explicaciones sobre los valores ofertados) y el resumen, por otro.\nEl folleto se pondrá a disposición del público en formato \nelectrónico en la web del emisor4, en la web de los intermediarios \nfinancieros que coloquen o vendan los valores o, según el caso, \nen la web del mercado regulado en el que se vaya a solicitar la \nadmisión de los valores o en la web del operador del sistema \nmultilateral de negociación correspondiente. La CNMV publicará \ntambién en su web todos los folletos que apruebe, así como \ninformación sobre las notificaciones recibidas de las autoridades \ncompetentes de otros Estados miembros, cuando sean éstas las \nque aprueben el folleto.\nEl emisor o los intermediarios financieros que coloquen o vendan \nlos valores entregarán de forma gratuita una copia del folleto en \nun soporte duradero a cualquier posible inversor que lo solicite. \nEn caso de que un posible inversor solicite de manera específica \nun ejemplar en papel, el emisor o los intermediarios financieros \nque colocan o venden los valores deberán entregarle una versión \nimpresa del folleto.\n4. \nO del oferente o la persona que solicite la admisión a cotización en un mercado regulado.\n\nLos Productos de Renta Fija\nResumen o nota de síntesis. El folleto incluirá un resumen5 \n(también llamado nota de síntesis) que, elaborado en un formato \nestandarizado, de forma concisa y sencilla y en un lenguaje \nno técnico, proporcionará la información fundamental que \nnecesitan los inversores para comprender las características y \nriesgos del emisor y de los valores. Es esencial que el inversor lea \natentamente este documento antes de contratar un producto y \npreste especial atención a los riesgos que en él se describan. No \nobstante, la decisión de invertir en los valores deberá basarse en \nla consideración del conjunto del folleto por parte del inversor.\nInformación para el seguimiento de la \ninversión\nCuentas anuales auditadas, de acuerdo con lo establecido en \nla Ley de Sociedades de Capital. El inversor deberá prestar una \nespecial atención a las posibles salvedades incluidas por los \nauditores. Las cuentas anuales y el informe de gestión de las \nentidades cotizadas6, junto con el correspondiente informe de \nauditoría, se publican en la web de la CNMV.\nInformación financiera intermedia. Las entidades cotizadas7 harán \npública y difundirán información financiera intermedia, con los \nrequisitos y la periodicidad que estipula la normativa del mercado \nde valores.\n5. \nNo obstante, no será necesaria la nota de síntesis cuando el folleto se refiera a valores no participativos (esto es, \nque no sean acciones ni equivalentes a las acciones ni den derecho a adquirir acciones o valores equivalentes \na las acciones) con un valor nominal unitario mínimo de 100.000 euros o cuando vayan a cotizar en un mercado \nregulado o en un segmento específico de éste al que solo puedan tener acceso inversores cualificados.\n6. \nSe entiende como entidades cotizadas a los emisores de valores admitidos a negociación en un mercado \nsecundario oficial o en otro mercado regulado domiciliado en la Unión Europea cuando España sea Estado \nmiembro de origen.\n7. \nSe entiende como entidades cotizadas a los emisores de valores admitidos a negociación en un mercado \nsecundario oficial o en otro mercado regulado domiciliado en la Unión Europea cuando España sea Estado \nmiembro de origen.\n\nLos Productos de Renta Fija\nInformación privilegiada y otra información relevante. Los \nemisores de valores o instrumentos financieros que sean objeto \nde negociación en un mercado regulado español, o respecto de \nlos que haya sido solicitada la admisión a negociación, deberán \ncomunicar tan pronto como sea posible a la CNMV la información \nprivilegiada que les concierna directamente, así como las \nrestantes informaciones de carácter financiero o corporativo \nrelativas al propio emisor o a sus valores o instrumentos \nfinancieros que estén obligados a hacer públicas en España o que \nconsideren necesario, por su especial interés, difundir entre los \ninversores.\nLa CNMV procederá a hacer pública dicha información en su \npágina web (www.cnmv.es).\n¿Cómo comprar y vender renta fija?\nLa renta fija puede suscribirse en el momento de la emisión -mercado \nprimario- a través de los intermediarios financieros que coloquen \nlos valores. También se puede comprar renta fija a otros inversores \n-mercado secundario- a través de las entidades financieras \nautorizadas.\nAunque en algunos casos los valores no cotizan, lo más habitual \nes que los valores se admitan a negociación en algún mercado. \nTradicionalmente, los valores de renta fija privada que cotizaban lo hacían \nen las bolsas de valores españolas o, sobre todo, en el mercado de renta \nfija AIAF:\n¥ En las bolsas de valores (Madrid, Barcelona, Bilbao y Valencia) \nestán admitidas a negociación diversas emisiones de renta fija \nprivada y deuda autonómica.\n¥ En el Mercado de Renta Fija AIAF se encuentran admitidos a \nnegociación valores de renta fija privada, tales como pagarés \nde empresa, bonos y obligaciones de diversos tipos, cédulas \nb)\n\nLos Productos de Renta Fija\nhipotecarias y territoriales, así como las participaciones \npreferentes y las titulizaciones. Dentro del mercado AIAF, el SEND \n(Sistema Electrónico de Negociación de Deuda) es una plataforma \nelectrónica destinada específicamente a la negociación de renta \nfija para minoristas.\nPor otro lado, desde el inicio de 2018 la Deuda Pública ha pasado a \nregistrarse y negociarse también en el Mercado de Renta Fija AIAF.\nTanto las bolsas de valores como el Mercado de Renta Fija AIAF tienen la \nconsideración de mercados regulados.\nHoy en día existen otros centros de negociación distintos de \nlos mercados regulados, como son los sistemas multilaterales de \nnegociación y los sistemas organizados de contratación. Un ejemplo \nde sistema multilateral de negociación es el Mercado Alternativo de \nRenta Fija (MARF), que es un mercado alternativo, no oficial, en que los \nrequisitos de acceso al mismo son más flexibles que los existentes en \nlos mercados regulados. El MARF se dirige principalmente a inversores \ninstitucionales. A diferencia de lo que sucede en los mercados regulados, \nla admisión a negociación en el MARF no requiere la aprobación de un \nfolleto por la CNMV.\nEl inversor puede obtener información sobre los precios de los distintos \nmercados de renta fija a través de sus respectivos boletines de \ncotización o de la prensa diaria especializada.\n\nLos Productos de Renta Fija\n¿Qué debo preguntar sobre los productos de renta fija?\nEs muy importante conocer de antemano todas las particularidades \ndel producto en el que se van a depositar los ahorros. Además de las \npreguntas generales que siempre conviene hacer antes de adquirir \ncualquier producto financiero, es aconsejable que se informe sobre los \nsiguientes aspectos concretos:\n¥ Confirme el tipo de interés que recibirá y qué periodicidad \ntienen los pagos, ya que este aspecto afecta a la rentabilidad. \nSi el interés es variable, conviene saber cuál es la referencia y el \ndiferencial que se le aplica. A menudo es un determinado índice \n(Euribor, Ibex, Eurostoxx...). También es importante saber cómo \nse calcula el rendimiento (por ejemplo, mediante observaciones \nmensuales durante un determinado periodo) o si existe un \nagente de cálculo. Algunos tipos de interés se incrementan o \ndisminuyen con el transcurso del tiempo, según una programación \nestablecida en las condiciones de emisión.\n¥ Infórmese de las previsiones de los distintos especialistas sobre \nla evolución de los tipos de interés. Si opera a corto plazo en el \nmercado secundario y los tipos suben, su rentabilidad bajará, \npudiendo llegar a sufrir pérdidas.\n¥ Confirme el precio de emisión y el de reembolso. Este extremo es \nmuy importante, pues en productos referenciados a la evolución \nde índices o de otros activos subyacentes o cestas de los \nmismos, el precio de reembolso puede ser inferior al nominal del \nvalor, y la evolución desfavorable de dichas referencias podría \nocasionar pérdidas.\n¥ Confirme la fecha y las condiciones de amortización. No es lo \nmismo comprometer el capital a 3, 5 o 10 años. Además, si no \ndesea asumir riesgo de precio o de reinversión, conviene ajustar \nlos plazos a su horizonte temporal.\nc)\n\nLos Productos de Renta Fija\nEs importante saber de antemano si existen opciones de \namortización anticipada, parcial o total, a opción del emisor. \nEn algunos casos, el emisor se reserva la opción de amortizar \nanticipadamente la totalidad de la emisión en un periodo \npreestablecido. Tenga en cuenta que ese mismo derecho no se le \nsuele conceder al inversor. Si los tipos de interés bajan, el emisor \nejercitará la opción de amortización anticipada, y el inversor \ntendrá que buscar antes de lo previsto una nueva inversión \na un tipo de interés inferior. En cambio, si los tipos suben el \nemisor no ejercitará la opción y la inversión se mantendrá hasta \nel vencimiento final, devengando intereses inferiores a los de \nmercado.\n¥ Otra forma de amortización anticipada es la amortización parcial \npor reducción del nominal. En este caso no es opcional, sino que \nes una de las condiciones de la emisión. Es necesario evaluar si \nuna inversión de estas características se ajusta a sus necesidades, \npues en unas fechas determinadas recibirá un porcentaje de su \ninversión inicial.\n¥ Si se trata de valores convertibles, confirme en qué supuestos \nse puede producir la conversión y si la misma puede ser a \nopción del emisor, del inversor o, por el contrario, se produciría \nde manera automática si se dan determinadas circunstancias. \nTenga en cuenta que, en el caso de los valores contingentemente \nconvertibles, la conversión se producirá de forma obligatoria si \ntienen lugar determinados eventos, como, por ejemplo, que los \nrecursos propios de la entidad emisora se sitúen por debajo de un \numbral determinado.\n\nLos Productos de Renta Fija\n¥ Confirme qué posición le otorgarían los valores como acreedor\nde la entidad en caso de concurso o quiebra de la misma, o si\nlos valores pueden estar sujetos a los mecanismos de resolución\nprevistos para las entidades de crédito y, por lo tanto, podrían\nllegar a sufrir ajustes a la baja en el valor nominal, conversiones u\notras modificaciones.\n¥ Lea atentamente las posibles advertencias que puedan figurar\nen la información que le entreguen con carácter previo a la\nadquisición, en particular, si se destaca que se trata de un\nproducto no adecuado para inversores no profesionales debido a\nsu complejidad.\n\nLos Productos de Renta Fija\nVIII. Consejos al Inversor \nEl inversor es el último responsable de la gestión de su ahorro, por lo que \ndebe informarse sobre los valores de renta fija que adquiera. Otra opción \npuede ser recibir asesoramiento personalizado, pero recuerde que la decisión \nfinal es suya, y que debe estar convencido de que lo que ha elegido es la \nalternativa que mejor se ajusta a sus deseos o propósitos. \nA continuación se exponen una serie de recomendaciones a seguir cuando \ntenga que elegir el destino de sus ahorros:\n¥ Compruebe si la emisión, a excepción de la deuda pública, tiene registrado \nel folleto en la CNMV o en otra autoridad europea. Recuerde que también \npuede existir un folleto registrado por la autoridad competente de otro \nEstado miembro de la UE que se haya pasaportado a España.\n¥ En ese caso, lea detenidamente el folleto y el resumen. En él encontrará \ndetalladas todas las características y riesgos tanto de la emisión como \ndel emisor. Así podrá realizar un juicio fundado sobre la inversión que se le \npropone. \n¥ Tenga en cuenta la importancia del folleto informativo y pregunte todo lo \nque no entienda. \n¥ Compare: consulte las tasas de rentabilidad (TIR) de emisiones de \ncaracterísticas similares, incluida la Deuda del Estado. Tenga en cuenta que \nmuchas emisiones ofrecen un primer cupón con un tipo de interés elevado \ny, el resto de la vida de la emisión otro considerablemente más bajo, con lo \nque la TIR es claramente inferior al interés inicial.\n\nLos Productos de Renta Fija\n¥ Lea la publicidad con cautela. Por su naturaleza no puede reflejar las \ncaracterísticas del producto de forma completa. No olvide la letra pequeña \nde los anuncios y demás folletos publicitarios. \n¥ No tome las decisiones de inversión por rumores o confidencias. \n¥ Diversifique su inversión entre varios productos, con ello controla mejor el \nriesgo. \n¥ Infórmese de las previsiones en la evolución de los tipos de interés. \n¥ En todo caso, recuerde que con productos de renta fija también se puede \nperder dinero.\n\nContáctanos por email\nEsta guía tiene como finalidad informar al público en general sobre distintos \naspectos relacionados con los mercados de valores. Por su naturaleza divulgativa \nno puede constituir un soporte para posteriores interpretaciones jurídicas, siendo \nla normativa vigente la única de aplicabilidad para estos fines. \n¿Necesitas más \ninformación?\nwww.cnmv.es",
+  "text_len": 61238,
+  "num_headings": 16,
+  "metadata": {
+    "producer": "iLovePDF",
+    "creation_date": "2026-06-05",
+    "mod_date": "2026-06-05"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": true,
+  "csv_meta": {
+    "title": "Los productos de renta fija",
+    "topic": "inversión",
+    "subtopic": "renta fija",
+    "difficulty": "intermedio",
+    "format": "PDF",
+    "summary": "Guía CNMV sobre los productos de renta fija: bonos, obligaciones y su funcionamiento",
+    "learning_objective": "Entender qué es la renta fija y sus riesgos"
+  },
+  "pdf_info": {
+    "n_pages": 46,
+    "body_size": 13.0,
+    "extractor": "pymupdf"
+  },
+  "deduped_from": null
+}

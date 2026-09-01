@@ -1,0 +1,27 @@
+{
+  "content_id": "C030",
+  "title": "La detective Sara Gómez investiga el fraude por internet",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "La detective Sara Gómez investiga el fraude por internet"
+    },
+    {
+      "type": "video",
+      "url": "https://www.youtube.com/embed/V-nZE644rnE",
+      "platform": "youtube",
+      "caption": "Vídeo educativo sobre el fraude por internet protagonizado por la detective Sara Gómez"
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:13:14.994750+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 2067,
+    "input_tokens": 2238,
+    "output_tokens": 407
+  }
+}

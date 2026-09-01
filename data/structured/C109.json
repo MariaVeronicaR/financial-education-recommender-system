@@ -1,0 +1,41 @@
+{
+  "content_id": "C109",
+  "title": "Criptoactivos",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Criptoactivos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los criptoactivos son activos financieros basados en una tecnología novedosa (la cadena de bloques o blockchain) que han ganado importancia últimamente como activos de inversión de alto riesgo. El acceso a este tipo de instrumentos por parte de personas sin los conocimientos adecuados puede traer consigo decisiones de inversión inadecuadas, así como la pérdida de la totalidad o gran parte de la inversión.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El Plan de Educación Financiera ha elaborado este curso que constará de 6 bloques de estudio y que contiene las nociones básicas del mundo de los criptoactivos, destinado a cualquier persona, con independencia del nivel de conocimientos previos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El objetivo de este curso es dar a conocer, de la manera más clara y sencilla posible, los beneficios y también los riesgos a los que nos enfrentamos cuando utilizamos o invertimos en criptoactivos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El segundo bloque de este curso se centra en los principales tipos de criptoactivos que existen actualmente, sus características y usos principales, así como en los aspectos más relevantes de la regulación vigente en materia de criptoactivos tanto en España como en la Unión Europea.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:41:49.912744+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 1945,
+    "input_tokens": 1995,
+    "output_tokens": 468
+  }
+}

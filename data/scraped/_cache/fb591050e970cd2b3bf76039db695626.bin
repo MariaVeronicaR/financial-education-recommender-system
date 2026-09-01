@@ -1,0 +1,799 @@
+<!DOCTYPE html>
+
+<html lang="es" class="no-js">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+	<meta charset="utf-8">
+	<meta id="metaViewport" name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0"/>	
+	
+	<script type="text/javascript">
+		var clieban = {};
+		clieban.assetPath = '/f/webcb/INF/assets/';
+	</script>
+
+	<script type='text/javascript'>const env = "PROD";</script>
+	<script type='text/javascript'>var isMgmt = false;</script>
+	
+	
+
+
+	
+		<link media="all" type="text/css" rel="stylesheet" href="/s/vap_pcb/assets/css/bde-clieban-vendor.css" /><link media="all" type="text/css" rel="stylesheet" href="/s/vap_pcb/assets/css/bde-clieban.css" /><!--[if IE 9]><link media="all" type="text/css" rel="stylesheet" href="/s/vap_pcb/assets/css/bde-clieban-ie9.css" /><![endif]--><link media="print" type="text/css" rel="stylesheet" href="/s/vap_pcb/assets/css/bde-clieban-print.css" /><script src="/s/vap_pcb/assets/js/bde-clieban-vendor.js" type="text/javascript"> </script><script src="/s/vap_pcb/assets/js/bde-clieban-plugins.js" type="text/javascript"> </script><script src="/s/vap_pcb/assets/js/bde-clieban.js" type="text/javascript"> </script><script src="/s/vap_pcb/assets/js/aviso_cookies.js" type="text/javascript"> </script><link rel="shortcut icon" type="image/x-icon" href="/f/webcb/INF/assets/images/favicon.ico" />
+<title>Tipos de interés - Cliente Bancario, Banco de España</title><link href="https://clientebancario.bde.es/pcb/es/menu-horizontal/podemosayudarte/tiposinteres/" rel="canonical" /><meta name="description" lang="es" content="Tipos de interés" />
+
+
+	
+	
+
+
+	<script src="/f/webcb/INF/assets/js/locale/i18n_es.js"></script>
+
+</head>
+<body>
+	<div class="wrapper" id="wrapper">
+		
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+<header class="header">
+	<div class="header-top bgfluid0">
+		<div class="container">
+			
+			<a href="http://www.bde.es/bde/es/" title="Banco de España Eurosistema" class="mainLogo">
+  <span class="sr-only">Ir a la página de inicio del Banco de España</span><i class="icon-logo-banco"></i></a><div class="infoBlock col-sm-8 hidden-xs pull-right">
+  <div class="languageTelBlock">
+    <div id="om-3" class="language om">
+      <a data-text-xs="Idioma" class="langSelected collapsed toggleMenuContent icon-flecha_idioma" aria-controls="languageSelector" aria-expanded="false" data-toggle="collapse" href="#languageSelector">
+        <span class="visible-xs">Idioma</span>
+        <span class="hidden-xs">Español</span>
+      </a>
+      <ul id="languageSelector" data-toggle="langSelected" class="languageSelector collapse">
+        <li>
+          <a href="/pcb/es/menu-horizontal/podemosayudarte/tiposinteres/" hreflang="es" lang="es">
+            <abbr lang="es" title="Español">Español</abbr>
+          </a>
+        </li>
+        <li>
+          <a href="/pcb/en/menu-horizontal/podemosayudarte/tiposinteres/" hreflang="en" lang="en">
+            <abbr lang="en" title="English">English</abbr>
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div id="om-1" class="telephones om">
+      <span class="visible-xs">Contacto</span>
+      <span class="text">
+        <span data-tel="900545454" class="tel tel-mobile">900.545.454 </span>/<span class="tel"> 913.388.830</span>
+      </span>
+      <span class="telDecorator button"><i class="icon-contacto_telf"></i></span>
+    </div>
+  </div>
+  <div class="searchBlock">
+    <form name="formulario_buscar" aria-labelledby="searchButton" data-toggle="launchSearch" class="searchForm pull-right hidden om" id="om-0" method="get" action="/pcb/es/home/buscador/">
+      <input value="es" name="lang" id="languajeValueAddSearch" type="hidden" />
+      <input value="1" name="page" id="page" type="hidden" />
+      <div class="input-group pull-right">
+        <label for="searchField" class="sr-only">Caja de búsqueda</label>
+        <input autocomplete="off" onkeyup="document.forms[0].searchterm.value = document.forms[0].searchField.value" placeholder="Buscar por..." id="searchField" class="form-control" name="searchterm" type="text" />
+        <span class="input-group-btn">
+          <button type="submit" class="btn searchButton btn-link button"><i class="icon-lupa_buscador"></i>
+            <span class="sr-only">Buscar en el Portal del Cliente Bancario</span>
+          </button>
+          <button type="button" data-container="searchBlock" class="btn closeButton btn-link toggleTrigger button"><i class="icon-x_cerrar_buscar"></i>
+            <span class="sr-only">Cerrar el buscador</span>
+          </button>
+        </span>
+      </div>
+    </form>
+    <a data-autofocus="#searchField" id="searchButton" aria-expanded="true" title="Mostrar Caja de Búsqueda" data-container="searchBlock" data-toggle="searchForm" class="launchSearch searchButton toggleTrigger button" href="#"><i class="icon-lupa_buscador"></i>
+      <span class="sr-only">Mostrar Caja de Búsqueda</span>
+    </a>
+  </div>
+</div>
+
+			
+		</div>
+	</div>
+	<div class="header-logo bgfluid1">
+		<div class="container">
+			
+			<a class="logo" href="/pcb/es/">
+  <span class="sr-only">Cliente Bancario del Banco de España Eurosistema, ir a inicio</span><i class="icon-logo_portal"></i></a><div class="hidden-xs pull-right reclamacionBlock">
+  <a class="reclamacion om" id="x68e8" title="Reclamación Online" target="_blank" href="https://sedeelectronica.bde.es/sede/es/tramites/reclamaciones-transparencia-buenas-practicas-p104.html?opcion_tramitacion=ciudadanos%2Felectronico%2Fpresentar-nueva-reclamacion">Reclamación Online<i class="icon-consultas"></i></a>
+  <a class="reclamacion om" id="xe5c8" title="Consultas online" target="_blank" href="https://sedeelectronica.bde.es/sede/es/tramites/reclamaciones-transparencia-buenas-practicas-p104.html?opcion_tramitacion=ciudadanos%2Felectronico%2Fpresentar-nueva-consulta">Consultas online<i class="icon-consultas"></i></a>
+</div>
+
+			
+		</div>
+	</div>
+</header>
+<nav class="menu bgfluid2" id="menu">
+	<div class="container">
+		
+		<ul class="menu-list">
+  <li class="menu-fullsubopen">
+    <a href="#" class="menu-link">Productos y servicios bancarios<span class="sr-only">Mostrar menú</span>
+    </a>
+    <ul>
+      <li>
+        <span>Financiación</span>
+        <ul>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/" target="_self">Hipotecas</a>
+          </li>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/financiacion/deudores-hipotecarios-sin-recursos/" target="_self">Deudores hipotecarios en dificultades</a>
+          </li>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/financiacion/prestamopersonal/" target="_self">Préstamo personal y crédito al consumo</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <span>Servicios de pago</span>
+        <ul>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/serviciospago/tarjetas/" target="_self">Tarjetas</a>
+          </li>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/serviciospago/traspasostransfe/" target="_self">Traspasos y transferencias</a>
+          </li>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/serviciospago/Adeudos_domiciliados.html" target="_self">Adeudos domiciliados</a>
+          </li>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/serviciospago/Cajeros.html" target="_self">Cajeros</a>
+          </li>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/serviciospago/Dinero_electronico.html" target="_self">Dinero electrónico</a>
+          </li>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/serviciospago/retirada_ingresos_efectivo.html" target="_self">Retirada e ingresos en efectivo</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <span>Cuentas y depósitos</span>
+        <ul>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/cuentasdepositos/cuentascorriente/" target="_self">Cuentas corrientes, depósitos a la vista y libretas de ahorro</a>
+          </li>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/cuentasdepositos/depositosplazo/" target="_self">Depósitos a plazo</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <span>Efectivo y cheques</span>
+        <ul>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/efectivocheques/cheques/" target="_self">Cheques</a>
+          </li>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/efectivocheques/efectivo.html" target="_self">Efectivo</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/avales/" target="_self">Avales</a>
+      </li>
+      <li>
+        <a class="menu-link" href="/pcb/es/menu-horizontal/productosservici/herencias/" target="_self">Herencias</a>
+      </li>
+    </ul>
+  </li>
+  <li class="menu-fullsubopen">
+    <a href="#" class="menu-link">Podemos ayudarte<span class="sr-only">Mostrar menú</span>
+    </a>
+    <ul>
+      <li>
+        <span>Consultas y reclamaciones</span>
+        <ul>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/podemosayudarte/consultasreclama/comorealizarconsulta/" target="_self">Cómo realizar una consulta</a>
+          </li>
+          <li>
+            <a class="menu-link" href="/pcb/es/menu-horizontal/podemosayudarte/consultasreclama/comorealizarrecl/" target="_self">Cómo realizar una reclamación</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a class="menu-link" href="https://www.bde.es/wbe/es/publicaciones/informes-memorias-anuales/memoria-reclamaciones/criterio-buenas-practicas-bancarias/compendio-de-criterios-de-buenas-practicas-bancarias.html" target="_blank">Compendio de criterios de buenas prácticas</a>
+      </li>
+      <li>
+        <a class="menu-link" href="https://app.bde.es/hnb_www/" target="_blank">Aplicación EncuenTRA</a>
+      </li>
+      <li>
+        <a class="menu-link" href="/pcb/es/menu-horizontal/podemosayudarte/simuladores/" target="_self">Simuladores: calcula la cuota, la rentabilidad, la TAE y mucho más</a>
+      </li>
+      <li>
+        <a class="menu-link" href="/pcb/es/menu-horizontal/podemosayudarte/cirbe/" target="_self">CIRBE</a>
+      </li>
+      <li>
+        <a class="menu-link" href="/pcb/es/menu-horizontal/podemosayudarte/entidades/" target="_self">Entidades</a>
+      </li>
+      <li>
+        <a class="menu-link" href="/pcb/es/menu-horizontal/podemosayudarte/tiposinteres/" target="_self">Tipos de interés</a>
+      </li>
+      <li>
+        <a class="menu-link" href="/pcb/es/menu-horizontal/podemosayudarte/comisiones/" target="_self">Comisiones</a>
+      </li>
+      <li>
+        <a class="menu-link" href="/pcb/es/menu-horizontal/podemosayudarte/pymesautonomos/" target="_self">Pymes y autónomos</a>
+      </li>
+      <li>
+        <a class="menu-link" href="https://www.bde.es/wbe/es/para-ciudadano/" target="_blank">Servicios del Banco de España para la ciudadanía</a>
+      </li>
+    </ul>
+  </li>
+  <li class="menu-fullsubopen">
+    <a href="#" class="menu-link">Educación financiera<span class="sr-only">Mostrar menú</span>
+    </a>
+    <ul>
+      <li>
+        <a class="menu-link" href="https://www.bde.es/wbe/es/areas-actuacion/educacion-financiera/" target="_blank">Qué es la educación financiera</a>
+      </li>
+      <li>
+        <a class="menu-link" href="/pcb/es/menu-horizontal/actualidadeducac/educacion-financiera/" target="_self">Educación financiera para el cliente bancario</a>
+      </li>
+      <li>
+        <a class="menu-link" href="/pcb/es/menu-horizontal/actualidadeducac/videos?videos=/webcb/Videos/Destacados" target="_self">Vídeos</a>
+      </li>
+      <li>
+        <a class="menu-link" href="/pcb/es/menu-horizontal/actualidadeducac/podcasts?podcasts=/webcb/Podcasts/Destacados" target="_self">Podcasts</a>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <a class="menu-link" href="/pcb/es/blog/" target="_self">Blog<span class="sr-only">Mostrar menú</span>
+    </a>
+  </li>
+</ul>
+
+		
+	</div>
+</nav>
+
+	
+	
+
+		
+		
+
+
+	
+		<nav class="breadcrumbs bgfluid0">
+  <div class="container">
+    <ol class="breadcrumbs-list">
+      <li>
+        <a class="breadcrumbs-link" href="/pcb/es/">Inicio</a>
+      </li>
+      <li>
+        <span>Podemos ayudarte</span>
+      </li>
+      <li class="last">
+        <span>Tipos de interés</span>
+      </li>
+    </ol>
+  </div>
+</nav>
+
+
+	
+	
+
+
+		<div class="content" id="content">
+			
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+	
+		<div class="page-title">
+  <h1>Tipos de interés</h1><p>El tipo de inter&eacute;s, o simplemente inter&eacute;s, es lo que pagamos a un banco a cambio de que nos preste dinero, o lo que&nbsp;nos paga el banco por depositar nuestro dinero.</p></div>
+
+	
+	<div class="product">
+		
+			<div class="product-item column2">
+  <h2 class="product-item--header">Cuestiones generales</h2>
+  <div class="content-itd content-itd--line">
+    <div class="image-wrapper">
+      <img class="content-itd--image" alt="" src="/f/webcb/RCL/ProductosServiciosBancarios/TiposInteres/Intereses1.jpg" />
+    </div>
+    <div class="content-itd--description">
+      <p>Conocer los conceptos y el funcionamiento de los tipos de interés nos resultará útil para saber lo que nos va a costar un préstamo o lo que ganaremos con los depósitos que tengamos en el banco.</p>
+    </div>
+  </div>
+  <div class="product-footer">
+    <a title="Cuestiones generales" class="product-link" href="/pcb/es/menu-horizontal/podemosayudarte/tiposinteres/guia_textual/cuestionesgenerales/">Ver más<span class="sr-only"> sobre Cuestiones generales</span>
+    </a>
+  </div>
+</div><div class="product-item column2">
+  <h2 class="product-item--header">El TIN,  la TAE y el TEDR</h2>
+  <div class="content-itd ">
+    <div class="content-itd--description">
+      <p>La diferencia entre el TIN (tipo de interés nominal) y la TAE (tasa anual equivalente), es que el TIN es el precio que la entidad cobra por prestar o que paga por depositar. La TAE incluye además del TIN, los gastos y comisiones asociados a los productos.</p>
+    </div>
+  </div>
+  <ul class="product-item--list column2">
+    <li>
+      <a aria-label=" - TAE de un depósito o producto de ahorro" href="/pcb/es/menu-horizontal/podemosayudarte/tiposinteres/guia_textual/latae/tae_deposito.html" class="product-item--link">TAE de un depósito o producto de ahorro</a>
+    </li>
+    <li>
+      <a aria-label=" - Tipo Efectivo Definición Restringida" href="/pcb/es/menu-horizontal/podemosayudarte/tiposinteres/guia_textual/latae/tipo-efectivo-definicion-restringida.html" class="product-item--link">Tipo Efectivo Definición Restringida</a>
+    </li>
+  </ul>
+</div><div class="product-item column2">
+  <h2 class="product-item--header">Tipos de interés aplicados por las entidades</h2>
+  <div class="content-itd ">
+    <div class="content-itd--description">
+      <p>Las entidades de crédito tienen libertad para decidir sus tipos de interés, pero también la obligación de informar a efectos estadísticos al Banco de España, de los tipos de interés que se aplican a diversos tipos de operaciones activas y pasivas.</p>
+    </div>
+  </div>
+  <ul class="product-item--list column2">
+    <li><a class="product-item--link" aria-label="
+								Tabla de tipos de interés, activos y pasivos, aplicados por las entidades"href="/pcb/es/menu-horizontal/podemosayudarte/tiposinteres/guia_textual/tiposinterespracticadosporentidades/tabla_de_tipos__a0b053c69a40f51.html" title="Tabla de tipos de interés, activos y pasivos, aplicados por las entidades" >Tabla de tipos de interés, activos y pasivos, aplicados por las entidades</a></li>
+    <li><a class="product-item--link" aria-label="
+								Tipos de interés aplicados por las entidades"href="/pcb/es/menu-horizontal/podemosayudarte/tiposinteres/guia_textual/tiposinterespracticadosporentidades/obligacion_de_i_dfed071cbf28d51.html" title="Tipos de interés aplicados por las entidades" >Tipos de interés aplicados por las entidades</a></li>
+  </ul>
+</div><div class="product-item column2">
+  <h2 class="product-item--header">Tipos de interés de referencia y otros tipos frecuentes</h2>
+  <div class="content-itd content-itd--line">
+    <div class="image-wrapper">
+      <img class="content-itd--image" alt="" src="/f/webcb/RCL/ProductosServiciosBancarios/TiposInteres/Intereses2.jpg" />
+    </div>
+    <div class="content-itd--description">
+      <p>Existe una serie de tipos de interés oficiales y otros tipos públicos que sirven de referencia para el cálculo de los intereses en operaciones financieras, principalmente en el mercado hipotecario.</p>
+    </div>
+  </div>
+  <ul class="product-item--list column2">
+    <li>
+      <a aria-label=" - Tipos de referencia oficiales del mercado hipotecario" href="/pcb/es/menu-horizontal/podemosayudarte/tiposinteres/guia_textual/tiposinteresreferenciaotrostiposfrecuentes/tipo_referencia_oficial_mercado_hipotecario.html" class="product-item--link">Tipos de referencia oficiales del mercado hipotecario</a>
+    </li>
+    <li>
+      <a aria-label=" - Tabla de los tipos de referencia oficiales del mercado hipotecario" href="/pcb/es/menu-horizontal/podemosayudarte/tiposinteres/guia_textual/tiposinteresreferenciaotrostiposfrecuentes/tabla_tipos_referencia_oficiales_mercado_hipotecario.html" class="product-item--link">Tabla de los tipos de referencia oficiales del mercado hipotecario</a>
+    </li>
+    <li>
+      <a aria-label=" - Tipos de referencia aplicables para el cálculo de valor de mercado en la compensación por riesgo de tipo de interés" href="/pcb/es/menu-horizontal/podemosayudarte/tiposinteres/guia_textual/tiposinteresreferenciaotrostiposfrecuentes/tipos_compensacion_riesgo_tipo_interes.html" class="product-item--link">Tipos de referencia aplicables para el cálculo de valor de mercado en la compensación por riesgo de tipo de interés</a>
+    </li>
+    <li>
+      <a aria-label=" - Tabla de tipos de referencia aplicables para el cálculo del valor de mercado en la compensación por riesgo de tipo de interés" href="/pcb/es/menu-horizontal/podemosayudarte/tiposinteres/guia_textual/tiposinteresreferenciaotrostiposfrecuentes/tabla_tipos_compensacion_riesgo_tipo_interes.html" class="product-item--link">Tabla de tipos de referencia aplicables para el cálculo del valor de mercado en la compensación por riesgo de tipo de interés</a>
+    </li>
+    <li>
+      <a aria-label=" - Tipos de interés de referencia públicos y tipos legales" href="/pcb/es/menu-horizontal/podemosayudarte/tiposinteres/guia_textual/tiposinteresreferenciaotrostiposfrecuentes/tipos_interes_referencia_publicos_tipos_legales.html" class="product-item--link">Tipos de interés de referencia públicos y tipos legales</a>
+    </li>
+    <li>
+      <a aria-label=" - Tabla tipos de interés legal" href="/pcb/es/menu-horizontal/podemosayudarte/tiposinteres/guia_textual/tiposinteresreferenciaotrostiposfrecuentes/Tabla_tipos_de_interes_legal.html" class="product-item--link">Tabla tipos de interés legal</a>
+    </li>
+    <li>
+      <a aria-label=" - Tipos aplicados en descubiertos y excedidos tácitos" href="/pcb/es/menu-horizontal/podemosayudarte/tiposinteres/guia_textual/tiposinteresreferenciaotrostiposfrecuentes/tipos_descubiertos_excedidos_tacitos.html" class="product-item--link">Tipos aplicados en descubiertos y excedidos tácitos</a>
+    </li>
+    <li>
+      <a aria-label=" - Tipos de interés del Banco Central Europeo" href="/pcb/es/menu-horizontal/podemosayudarte/tiposinteres/guia_textual/tiposinteresreferenciaotrostiposfrecuentes/tipos_interes_banco_central_europeo.html" class="product-item--link">Tipos de interés del Banco Central Europeo</a>
+    </li>
+    <li>
+      <a aria-label=" - Tabla de tipos de interés de demora para operaciones comerciales" href="/pcb/es/menu-horizontal/podemosayudarte/tiposinteres/guia_textual/tiposinteresreferenciaotrostiposfrecuentes/tabla_tipos_interes_demora_operaciones_comerciales.html" class="product-item--link">Tabla de tipos de interés de demora para operaciones comerciales</a>
+    </li>
+  </ul>
+</div>
+
+		
+		
+			
+
+		
+	</div>
+	
+</div>
+
+<div class="container">
+  <div class="interest">
+    <h2 class="interest-header">TE PUEDE INTERESAR</h2>
+    <div class="interest-list" id="carousel-interest">
+      <span class="interest-item"><a class="interest-link" 
+				href="/pcb/es/blog/la-detective-sara-gomez-nos-desvela-detalles-sobre-los-tipos-de-interes.html" title="La detective Sara Gómez nos desvela detalles sobre los tipos de interés" >
+        <div class="image-wrapper">
+          <img alt="" src="/f/webcb/RCL/ActualidadEducacionFinanciera/Blog/novedades/Sara-Gomez-TiposInteres-270x141.jpg" />
+        </div>
+        <span class="interest-title">La detective Sara Gómez nos desvela detalles sobre los tipos de interés</span></a></span>
+      <span class="interest-item"><a class="interest-link" 
+				href="/pcb/es/menu-horizontal/podemosayudarte/tiposinteres/guia_textual/tiposinteresreferenciaotrostiposfrecuentes/Tabla_tipos_de_interes_legal.html" title="El interés legal del dinero para el año 2023 es el 3,25%" >
+        <div class="image-wrapper">
+          <img alt="" src="/f/webcb/RCL/ProductosServiciosBancarios/TiposInteres/Interes-legal-dinero-270x141.jpg" />
+        </div>
+        <span class="interest-title">El interés legal del dinero para el año 2023 es el 3,25%</span></a></span>
+      <span class="interest-item"><a class="interest-link" 
+				href="/pcb/es/blog/La_financiacion_1a121490865c461.html" title="La financiación "sin intereses"" >
+        <div class="image-wrapper">
+          <img alt="" src="/f/webcb/RCL/ActualidadEducacionFinanciera/Blog/Intereses1_367x191.jpg" />
+        </div>
+        <span class="interest-title">La financiación &quot;sin intereses&quot;</span></a></span>
+      <span class="interest-item"><a class="interest-link" 
+				href="/pcb/es/blog/que-tipos-de-interes-publica-el-banco-de-espana-.html" title="¿Qué tipos de interés publica el Banco de España?" >
+        <div class="image-wrapper">
+          <img alt="" src="/f/webcb/RCL/ActualidadEducacionFinanciera/Blog/novedades/Tipos-interes-2022-270x141.jpg" />
+        </div>
+        <span class="interest-title">¿Qué tipos de interés publica el Banco de España?</span></a></span>
+    </div>
+    <div class="interest-footer">
+      <a href="/pcb/es/blog/?blog=" class="interest-link"> Más publicaciones</a>
+    </div>
+  </div>
+</div>
+<div xmlns:commonutilities="xalan://es.bde.vcm.common.CommonUtilities" class="container">
+  <div class="commentBlock commentBlock-line">
+    <div class="headerRating">
+      <div class="row">
+        <div id="social-links" class="social col-sm-4">
+          <ul>
+            <li>
+              <a title="Compartir por correo" href="mailto:?subject=Portal&#160;del&#160;Cliente&#160;Bancario:&#160;Tipos&#160;de&#160;interés&#160;&amp;body=Tipos&#160;de&#160;interés&#160;:%0D%0Ahttps%3A%2F%2Fclientebancario.bde.es%2Fpcb%2Fes%2Fmenu-horizontal%2Fpodemosayudarte%2Ftiposinteres%2F">
+                <span class="sr-only">Compartir por correo</span><i class="icon-sobre_email"></i></a>
+            </li>
+            <li>
+              <a title="Compartir en ... Facebook" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fclientebancario.bde.es%2Fpcb%2Fes%2Fmenu-horizontal%2Fpodemosayudarte%2Ftiposinteres%2F" target="_blank">
+                <span class="sr-only">Compartir en ... Facebook</span><i class="icon-facebook"></i></a>
+            </li>
+            <li>
+              <a title="Compartir en ... Twitter" href="http://twitter.com/share?url=https%3A%2F%2Fclientebancario.bde.es%2Fpcb%2Fes%2Fmenu-horizontal%2Fpodemosayudarte%2Ftiposinteres%2F" target="_blank">
+                <span class="sr-only">Compartir en ... Twitter</span><i class="icon-twitter"></i></a>
+            </li>
+            <li>
+              <a title="Compartir en ... Linkedin" href="http://www.linkedin.com/cws/share?url=https%3A%2F%2Fclientebancario.bde.es%2Fpcb%2Fes%2Fmenu-horizontal%2Fpodemosayudarte%2Ftiposinteres%2F" target="_blank">
+                <span class="sr-only">Compartir en ... Linkedin</span><i class="icon-linkedin"></i></a>
+            </li>
+          </ul>
+        </div>
+        <div class="rating col-sm-8" id="ratingBlock">
+          <span class="title">¿Te ha parecido útil esta información?</span>
+          <div class="ratingIcons">
+            <a data-valuation="ok" title="Marcar la información como útil" class="ratingIcons-link" href="#"><i class="icon-mano_ok sel"></i>
+              <span class="sr-only">Marcar la información como útil</span>
+            </a>
+            <a data-valuation="ko" title="Marcar la información como poco útil" class="ratingIcons-link" href="#"><i class="icon-mano_no_ok"></i>
+              <span class="sr-only">Marcar la información como poco útil</span>
+            </a>
+          </div>
+          <span class="title hidden" id="ratingOK">Hemos registrado su valoración, muchas gracias por su participación.</span>
+        </div>
+        <div class="rating col-sm-8 hidden" id="ratingBlockOnError">
+          <span class="title">El servicio de valoración no se encuentra disponible en estos momentos, disculpe las molestias.</span>
+        </div>
+      </div>
+    </div>
+    <form aria-expanded="false" id="commentsForm" method="post" class="commentsForm collapse" action="https://app.bde.es/gnt_seg/verifyRecaptcha.action">
+      <input value="https%3A%2F%2Fclientebancario.bde.es%2Fpcb%2Fes%2Fmenu-horizontal%2Fpodemosayudarte%2Ftiposinteres%2F" name="url" type="hidden" />
+      <input value="" id="commnets_valuation" name="commnets_valuation" type="hidden" />
+      <div class="form-group">
+        <label class="title" for="comments-text">Añade un comentario:</label><textarea id="comments-text" class="form-control" rows="3" name="comentario" maxlength="512"></textarea>
+        <span id="msg-comentario" class="help-block">Longitud máxima del comentario 512 caracteres.</span>
+        <span style="display:none;" id="msg-error" class="errorText" />
+      </div>
+      <div data-sitekey="6LfCdTUpAAAAAGH15aDbIkT55DNnxulLaxJZ1YzS" class="g-recaptcha"> </div>
+      <span style="display:none;" id="captchaErrorText" class="errorText">Captcha Obligatorio</span>
+      <div class="buttons">
+        <button class="cancelButton btn btn-default" type="reset">cancelar</button>
+        <button class="successButton btn btn-default" type="submit">enviar</button>
+      </div>
+      <span style="display:none;" id="ErrorText" class="errorText">Error en el formulario, por favor revise los campos marcados en rojo</span>
+      <p class="block-suggestions__form__google__terms hide-if-error">Este formulario está protegido por reCAPTCHA. Más información en sus enlaces de política de privacidad y términos de uso.</p>
+    </form>
+    <script type="text/javascript">
+				function getINVALID_CHAR_PREFIX() {
+					var CHAR_PREFIX = 'El carácter &quot;';
+					 return CHAR_PREFIX;
+				}
+				
+				function getINVALID_CHAR_SUFFIX() {
+					var CHAR_SUFFIX = '&quot; no está permitido';
+					 return CHAR_SUFFIX;
+				}
+				
+				function getWhiteList() {
+					var whiteList = 'abcdefghijklmnñopqrstuvwxyzABCDEFGHIJKLMNÑOPQRSTUVWXYZ0123456789_ !¡@#$%^&amp;*()+=[{]}\',.¿?/\&quot;;:ºª€-ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüŽÍŠšŽ\r\n';
+					return whiteList;
+				}
+							
+				
+					var captchaLoaded = false;
+					
+					function encodeSubmitURL() {
+						let formulario = document.getElementById('commentsForm');
+						if (formulario[0]) {
+							let notEncodedURL = window.location.href;
+							let encodedURL = btoa(notEncodedURL);
+							//seteamos la URL codificada
+							formulario[0].value = encodedURL;
+						}
+					}
+					
+					function processError() {
+						$('#ratingBlock').css('display','none');
+						$('#commentsForm').css('display','none');
+						$('#ratingBlockOnError').removeClass('hidden');
+					}
+					function validarFrm(){
+						const whitelist = new Set("\u0022" + getWhiteList() + "\u0022");
+						var sVal = jQuery('#comments-text').val();
+						for (const iChar of sVal) {
+							if (!whitelist.has(iChar)) {
+								$('#msg-comentario').css('display','none');
+								jQuery('#msg-error').html(getINVALID_CHAR_PREFIX() + iChar + getINVALID_CHAR_SUFFIX());
+								jQuery('#comments-text').focus();
+								$('#msg-error').show();
+								$('#ErrorText').show();   
+								return false;
+							}
+						}
+						jQuery('#msg-error').html('');
+						return true;
+					}	
+					
+					function getGoogleCaptchaJS() {
+						// Obtenemos el fichero de captcha de google desde aquí para asegurar que
+						// se carga al final y que todos los elementos esten construidos en el DOM
+						var script = document.createElement('script');
+						script.src = 'https://www.google.com/recaptcha/api.js';
+						script.onerror = function() {
+						  console.log('Error al recuperar api.js desde google.com');
+						};	
+						script.async = false;	
+						document.body.appendChild(script);
+					}	
+					
+					$('a.ratingIcons-link').click(function() {
+						encodeSubmitURL();
+						getGoogleCaptchaJS();
+					});
+					
+					//$("#comments-text").on("input", function() {
+					//	$(".successButton").prop("disabled", !$(this).val().trim());
+					//});
+					
+					
+					var frm = $('#commentsForm');
+					frm.submit(function (e) {
+						e.preventDefault();
+						var validar = validarFrm();
+						//if(validarFrm()){
+							$.ajax({
+								accepts: { json: 'application/json' },
+								type: frm.attr('method'),
+								url: frm.attr('action'),
+								xhrFields: {
+									withCredentials: true
+								},
+								data: frm.serialize(),
+								success: function (data) {
+									$('#captchaErrorText').css('display','none');
+									if (data.isCaptchaOk != true) {
+										$('#captchaErrorText').show();	
+										$('#ErrorText').show();                	
+									} else if (data.isDatosProcesados != true) {
+										processError();
+									} else if (validar){
+										$('#commentsForm').css('display','none');
+										$('#ratingOK').removeClass('hidden');
+									}
+								},
+								error: function () {
+									if (data.isCaptchaOk != true) {
+										$('#captchaErrorText').show();	
+										$('#ErrorText').show();                	
+									}
+									if(validar){
+										processError();
+									}
+								},
+								dataType: 'json'
+							});				        
+						//}
+					});		
+				</script>
+  </div>
+</div>
+
+ 
+		</div>
+		
+
+
+	
+		
+
+
+
+
+
+
+
+
+
+
+<footer class="footer">
+  	<div class="footer-social bgfluid1">
+  		<div class="container">
+			
+			<div class="footer-social--wrapper">
+  <ul class="footer-social--list">
+    <li>
+      <a class="icon-twitter" target="_blank" href="https://twitter.com/BancoDeEspana" title="twitter">
+        <span class="sr-only">twitter</span>
+      </a>
+    </li>
+    <li>
+      <a class="icon-flickr" target="_blank" href="https://www.flickr.com/photos/bde_fotos/albums" title="flickr">
+        <span class="sr-only">flickr</span>
+      </a>
+    </li>
+    <li>
+      <a class="icon-youtube" target="_blank" href="http://www.youtube.com/user/bdeeuro" title="youtube">
+        <span class="sr-only">youtube</span>
+      </a>
+    </li>
+    <li>
+      <a class="icon-linkedin" target="_blank" href="https://www.linkedin.com/company/banco-de-espana" title="linkedin">
+        <span class="sr-only">linkedin</span>
+      </a>
+    </li>
+    <li>
+      <a class="icon-rss" target="_self" href="/pcb/es/blog/index.rss.html" title="rss">
+        <span class="sr-only">rss</span>
+      </a>
+    </li>
+  </ul>
+  <div class="boton_suscripcion">
+    <a href="/pcb/es/blog/otros/suscripciones/" class="buttonCB button1" target="_self">RECIBIR ALERTAS</a>
+  </div>
+</div>
+
+			
+  		</div>
+  	</div>
+   	<div class="footer-quicklinks bgfluid3">
+   		<div class="container">
+   			<div class="row">
+   				<div class="col-sm-8 col-md-7 hidden-xs">
+   					<div class="row">
+   						<div class="col-xs-6">
+							
+							<ul id="footer-products" class="footer-products">
+  <li class="">
+    <a aria-label="footer-products-Hipotecas" href="/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/">Hipotecas</a>
+  </li>
+  <li class="">
+    <a aria-label="footer-products-Préstamos" href="/pcb/es/menu-horizontal/productosservici/financiacion/prestamopersonal/">Préstamos</a>
+  </li>
+  <li class="">
+    <a aria-label="footer-products-Tarjetas" href="/pcb/es/menu-horizontal/productosservici/serviciospago/tarjetas/">Tarjetas</a>
+  </li>
+  <li class="">
+    <a aria-label="footer-products-Cheques" href="/pcb/es/menu-horizontal/productosservici/efectivocheques/cheques/">Cheques</a>
+  </li>
+  <li class="">
+    <a aria-label="footer-products-Cajeros" href="/pcb/es/menu-horizontal/productosservici/serviciospago/Cajeros.html">Cajeros</a>
+  </li>
+  <li class="">
+    <a aria-label="footer-products-Transferencias" href="/pcb/es/menu-horizontal/productosservici/serviciospago/traspasostransfe/">Transferencias</a>
+  </li>
+</ul>
+
+							
+						</div>
+						<div class="col-xs-6">
+							
+							<ul class="footer-products">
+  <li>
+    <a href="/pcb/es/menu-horizontal/podemosayudarte/simuladores/">Simuladores</a>
+  </li>
+  <li>
+    <a href="/pcb/es/menu-horizontal/podemosayudarte/tiposinteres/">Tipos de interés</a>
+  </li>
+</ul>
+
+							
+						</div>
+					</div>
+				</div>
+       			<div class="col-sm-4 col-md-5">
+					
+					<div class="footer-featured">
+  <h2 class="footer-featured--title">Enlaces destacados</h2>
+  <ul class="footer-featured--list">
+    <li>
+      <a target="_blank" href="http://www.bde.es/bde/es/" class="icon-enlaces_destacados_flecha">Banco de España</a>
+    </li>
+    <li>
+      <a target="_blank" href="http://www.bde.es/bde/es/secciones/servicios/Particulares_y_e/Central_de_Infor/Central_de_Info_04db72d6c1fd821.html" class="icon-enlaces_destacados_flecha">Central de Información de Riesgos (CIRBE)</a>
+    </li>
+    <li>
+      <a target="_blank" href="https://finance.ec.europa.eu/consumer-finance-and-payments/retail-financial-services/financial-dispute-resolution-network-fin-net_es" class="icon-enlaces_destacados_flecha">FIN-NET</a>
+    </li>
+    <li>
+      <a target="_blank" href="https://www.bde.es/bde/es/secciones/servicios/Particulares_y_e/Registros_de_Ent/" class="icon-enlaces_destacados_flecha">Registro de Entidades</a>
+    </li>
+    <li>
+      <a href="#error" class="footer-featured--more icon-mas_icon">Más enlaces de interés</a>
+    </li>
+  </ul>
+</div>
+
+					
+       			</div>
+			</div>			
+		</div>
+	</div>
+   	<div class="footer-links bgfluid3">
+   		<div class="container">
+			
+			<div class="row">
+  <div class="col-sm-12 col-md-9 hidden-xs">
+    <ul id="om-4" class="footer-links--list om">
+      <li>
+        <a target="_self" href="/pcb/es/pie-de-pagina/copyright/mapaweb/">Mapa web</a>
+      </li>
+      <li>
+        <a target="_self" href="/pcb/es/pie-de-pagina/copyright/avisolegal/">Aviso legal </a>
+      </li>
+      <li>
+        <a target="_blank" href="https://www.bde.es/bde/es/Pie/Acces/">Accesibilidad</a>
+      </li>
+      <li>
+        <a target="_blank" href="https://www.bde.es/bde/es/Pie/privacidad/Politica_de_privacidad.html">Política de privacidad</a>
+      </li>
+      <li>
+        <a target="_blank" href="https://www.bde.es/bde/es/Pie/politica-de-cookies/politica-de-cookies.html">Política de cookies</a>
+      </li>
+      <li>
+        <a target="_blank" href="https://sedeelectronica.bde.es/sede/es/tramites/reclamaciones-transparencia-buenas-practicas-p104.html?opcion_tramitacion=ciudadanos%2Felectronico%2Fpresentar-nueva-consulta">Consultas</a>
+      </li>
+    </ul>
+  </div>
+  <div class="col-sm-12 col-md-3">
+    <div class="footer-copy">
+      <span class="footer-copy--text">© Banco de España</span>
+    </div>
+  </div>
+</div>
+
+				
+		</div>
+	</div>	
+</footer>
+	
+	
+
+
+	</div>
+	
+	
+
+
+</body>
+</html>
+
+
+
+
+
+

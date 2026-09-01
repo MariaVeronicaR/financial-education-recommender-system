@@ -1,0 +1,114 @@
+{
+  "content_id": "C010",
+  "url": "https://www.finanzasparatodos.es/como-preparar-mi-jubilacion",
+  "source": "Finanzas para Todos",
+  "host": "www.finanzasparatodos.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 61932
+  },
+  "title": "¿Cómo preparar mi jubilación? - Finanzas para todos",
+  "headings": [
+    {
+      "level": 1,
+      "text": "¿Cómo preparar mi jubilación?"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "¿Cómo preparar mi jubilación?",
+      "start": 0,
+      "end": 6504,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Cómo preparar mi jubilación?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La jubilación supone un cambio en la vida de una persona\nSeguramente durante tu vida laboral te hayas planteado en numerosas ocasiones todo lo que te gustaría hacer cuando comiences esta otra etapa de la vida y dispongas de tiempo para dedicarlo a aquello que más te interese. Pero junto con la alegría de tener tiempo para disfrutar, llega la realidad de no cobrar un salario.\n¿Y por dónde empiezo?\nLa pensión pública de jubilación sólo puede cubrir una parte de los ingresos que se perciben en activo y cuanto mayor sea el salario, menos porcentaje sobre el mismo representará la pensión. Además, el futuro a largo plazo del sistema público es incierto.\nUna jubilación cómoda requerirá complementar la pensión de la Seguridad Social y las pensiones empresariales con el ahorro e inversión personal. Por ello, es importante prever y planificar la jubilación y empezar a ahorrar cuanto antes sea cual sea tu edad o situación familiar.\n¿Cuánto dinero necesitaré después de jubilarme?\nEstimar cuánto dinero te hará falta cuando te jubiles será el primer paso para empezar a prepararte para la jubilación ya que no podrás planificar bien el ahorro si no determinas tu objetivo.\nPara ello, tendrás que tener en cuenta cómo te gustaría vivir en esta etapa de la vida y cuántos años crees que vivirás. Además tendrás que tener en cuenta otros factores que afectan al dinero como la inflación.\nPiensa en cómo te gustaría que fuera esa etapa de tu vida:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "¿Qué quieres hacer?: viajar, estudiar, hacer trabajos de voluntariado, dedicarte a perfeccionar algún hobby…",
+        "¿Dónde piensas vivir?: en tu vivienda actual, volver a su pueblo, mudarte a otro clima o cerca de tus hijos o trasladarse a una residencia de mayores…",
+        "¿Qué expectativas de salud tienes?: ¿Cuentas con algún seguro privado que quieras mantener después de jubilarte o contarás con la Seguridad Social? En caso de no poder cuidar de ti mismo ¿tienes familia u otros recursos?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Una vez definido podrás calcular de cuánto dinero deberás disponer al mes para mantener este estilo de vida.\nAunque suene extraño tendrás que pensar cuantos años crees que vivirás. Ello dependerá en gran medida de tu estilo de vida, tu alimentación, tus antecedentes familiares, tus condiciones de salud actuales, etc.\nA partir de la estimación realizada del dinero que necesitarás al mes para vivir conforme a tus expectativas y teniendo en cuenta tu esperanza de vida, podrás hallar una cifra aproximada del dinero total que necesitarás para vivir después de la jubilación.\nAcuérdate además de considerar el efecto de la inflación. Hay que tener en cuenta que un determinado importe ahora no alcanzará para vivir igual dentro de 5, 10 ó 20 años.\n¿Cuál será mi pensión?\nLa pensión a percibir será la pensión pública que, en su caso, corresponda, junto con las prestaciones complementarias a este sistema por medio de sistemas de previsión privados que algunas empresas ofrecen a sus empleados.\n1\nEn cuanto a la pensión pública existen diversos regímenes como son el régimen general con sus diversas modalidades (jubilación anticipada, jubilación flexible, jubilación parcial y jubilación especial a los 64 años) y el régimen especial (Régimen de Trabajadores por Cuenta Propia o Autónomos, el Especial Agrario, el de Empleados de Hogar…), que sigue las mismas condiciones que el régimen general con pequeños matices.\nPuedes consultar más información en la web de la Seguridad Social.\n2\nEstos pueden ser individuales o colectivos, estos últimos a través de productos que instrumenten los compromisos por pensiones de las empresas con sus trabajadores.\nCada trabajador debe informarse de la existencia o no de sistemas de previsión complementarios en su empresa y, en caso de existir, de su importe previsto y condiciones.\nFactores a tener en cuenta para el cálculo de la pensión pública de jubilación\nPara calcular el importe de la pensión pública contributiva por jubilación hay que considerar 3 factores:",
+      "links": [
+        {
+          "text": "web de la Seguridad Social",
+          "href": "http://www.seg-social.es/wps/portal/wss/internet/Trabajadores/CotizacionRecaudacionTrabajadores/10721",
+          "start": 1457,
+          "end": 1483
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Edad legal de jubilación.",
+        "Años de cotización utilizados para calcular la base reguladora.",
+        "Años de cotización necesarios para cobrar un porcentaje de la base reguladora."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "La edad legal de jubilación será de 67 años a partir de 2027. Hasta esa fecha, el aumento de la edad para poder jubilarse será progresivo, incrementándose dos meses por año desde 2019 hasta el 2027.\nLa edad de jubilación seguirá siendo los 65 años (como ocurría antes de la reforma de 2013) en caso de acreditar haber cotizado durante un cierto período mayor de lo exigido. A partir de 2027 este período será de 38 años y 6 meses.\nLa base reguladora viene a ser un promedio de la base de cotización del trabajador durante X años previos a la fecha de jubilación. La base de cotización no es lo mismo que el salario. Existen límites mínimos y máximos de bases de cotización.\nPara calcular la base reguladora se considerarán a partir de 2022 los últimos 25 años cotizados:\nBase reguladora = Promedio de las bases de cotización durante los 300 meses inmediatamente anteriores a la fecha causante de la jubilación (25 x 12), dividido por 350 (25 X 14).\nEl trabajador podrá cobrar un porcentaje de su base reguladora según los años que haya cotizado a la Seguridad Social.\nA partir de 2027, se eleva a 37 el número de años necesarios para poder cobrar el 100% de la pensión.\nEn caso de no contar con los años de cotización necesarios, se aplica un coeficiente reductor, por cada mes que falta. El mínimo de años cotizados es de 15, lo que da derecho a cobrar el 50% de la base reguladora.\nAdemás, existen bonificaciones para aquellos trabajadores que prolongan su vida laboral más allá de los 67 años.\nNo obstante, hasta el año 2027 se establece un período transitorio y gradual. Los coeficientes exactos para cada año se pueden consultar en la página de la Seguridad Social.\nHay que tener en cuenta que existen cuantías mínimas y máximas para las pensiones públicas, que se revisan periódicamente. Puedes consultarlas en la web de la Seguridad Social.\nEn la web de la Seguridad Social puedes acceder a una herramienta con el que calcular tu pensión.\nProductos financieros para la jubilación\nUna vez que tengas una idea orientativa de cuánto necesitarás durante la jubilación para mantener el nivel de vida deseado, y estimado el importe de la pensión pública con la que podrás contar (además del complemento de la empresa, en caso de existir) y teniendo en cuenta tu esperanza de vida, podrás calcular si necesitarás dinero adicional para llevar a cabo tus metas.",
+      "links": [
+        {
+          "text": "página de la Seguridad Social",
+          "href": "http://www.seg-social.es/wps/portal/wss/internet/Inicio",
+          "start": 1640,
+          "end": 1669
+        }
+      ]
+    }
+  ],
+  "text": "¿Cómo preparar mi jubilación?\nLa jubilación supone un cambio en la vida de una persona\nSeguramente durante tu vida laboral te hayas planteado en numerosas ocasiones todo lo que te gustaría hacer cuando comiences esta otra etapa de la vida y dispongas de tiempo para dedicarlo a aquello que más te interese. Pero junto con la alegría de tener tiempo para disfrutar, llega la realidad de no cobrar un salario.\n¿Y por dónde empiezo?\nLa pensión pública de jubilación sólo puede cubrir una parte de los ingresos que se perciben en activo y cuanto mayor sea el salario, menos porcentaje sobre el mismo representará la pensión. Además, el futuro a largo plazo del sistema público es incierto.\nUna jubilación cómoda requerirá complementar la pensión de la Seguridad Social y las pensiones empresariales con el ahorro e inversión personal. Por ello, es importante prever y planificar la jubilación y empezar a ahorrar cuanto antes sea cual sea tu edad o situación familiar.\n¿Cuánto dinero necesitaré después de jubilarme?\nEstimar cuánto dinero te hará falta cuando te jubiles será el primer paso para empezar a prepararte para la jubilación ya que no podrás planificar bien el ahorro si no determinas tu objetivo.\nPara ello, tendrás que tener en cuenta cómo te gustaría vivir en esta etapa de la vida y cuántos años crees que vivirás. Además tendrás que tener en cuenta otros factores que afectan al dinero como la inflación.\nPiensa en cómo te gustaría que fuera esa etapa de tu vida:\n- ¿Qué quieres hacer?: viajar, estudiar, hacer trabajos de voluntariado, dedicarte a perfeccionar algún hobby…\n- ¿Dónde piensas vivir?: en tu vivienda actual, volver a su pueblo, mudarte a otro clima o cerca de tus hijos o trasladarse a una residencia de mayores…\n- ¿Qué expectativas de salud tienes?: ¿Cuentas con algún seguro privado que quieras mantener después de jubilarte o contarás con la Seguridad Social? En caso de no poder cuidar de ti mismo ¿tienes familia u otros recursos?\nUna vez definido podrás calcular de cuánto dinero deberás disponer al mes para mantener este estilo de vida.\nAunque suene extraño tendrás que pensar cuantos años crees que vivirás. Ello dependerá en gran medida de tu estilo de vida, tu alimentación, tus antecedentes familiares, tus condiciones de salud actuales, etc.\nA partir de la estimación realizada del dinero que necesitarás al mes para vivir conforme a tus expectativas y teniendo en cuenta tu esperanza de vida, podrás hallar una cifra aproximada del dinero total que necesitarás para vivir después de la jubilación.\nAcuérdate además de considerar el efecto de la inflación. Hay que tener en cuenta que un determinado importe ahora no alcanzará para vivir igual dentro de 5, 10 ó 20 años.\n¿Cuál será mi pensión?\nLa pensión a percibir será la pensión pública que, en su caso, corresponda, junto con las prestaciones complementarias a este sistema por medio de sistemas de previsión privados que algunas empresas ofrecen a sus empleados.\n1\nEn cuanto a la pensión pública existen diversos regímenes como son el régimen general con sus diversas modalidades (jubilación anticipada, jubilación flexible, jubilación parcial y jubilación especial a los 64 años) y el régimen especial (Régimen de Trabajadores por Cuenta Propia o Autónomos, el Especial Agrario, el de Empleados de Hogar…), que sigue las mismas condiciones que el régimen general con pequeños matices.\nPuedes consultar más información en la web de la Seguridad Social.\n2\nEstos pueden ser individuales o colectivos, estos últimos a través de productos que instrumenten los compromisos por pensiones de las empresas con sus trabajadores.\nCada trabajador debe informarse de la existencia o no de sistemas de previsión complementarios en su empresa y, en caso de existir, de su importe previsto y condiciones.\nFactores a tener en cuenta para el cálculo de la pensión pública de jubilación\nPara calcular el importe de la pensión pública contributiva por jubilación hay que considerar 3 factores:\n- Edad legal de jubilación.\n- Años de cotización utilizados para calcular la base reguladora.\n- Años de cotización necesarios para cobrar un porcentaje de la base reguladora.\nLa edad legal de jubilación será de 67 años a partir de 2027. Hasta esa fecha, el aumento de la edad para poder jubilarse será progresivo, incrementándose dos meses por año desde 2019 hasta el 2027.\nLa edad de jubilación seguirá siendo los 65 años (como ocurría antes de la reforma de 2013) en caso de acreditar haber cotizado durante un cierto período mayor de lo exigido. A partir de 2027 este período será de 38 años y 6 meses.\nLa base reguladora viene a ser un promedio de la base de cotización del trabajador durante X años previos a la fecha de jubilación. La base de cotización no es lo mismo que el salario. Existen límites mínimos y máximos de bases de cotización.\nPara calcular la base reguladora se considerarán a partir de 2022 los últimos 25 años cotizados:\nBase reguladora = Promedio de las bases de cotización durante los 300 meses inmediatamente anteriores a la fecha causante de la jubilación (25 x 12), dividido por 350 (25 X 14).\nEl trabajador podrá cobrar un porcentaje de su base reguladora según los años que haya cotizado a la Seguridad Social.\nA partir de 2027, se eleva a 37 el número de años necesarios para poder cobrar el 100% de la pensión.\nEn caso de no contar con los años de cotización necesarios, se aplica un coeficiente reductor, por cada mes que falta. El mínimo de años cotizados es de 15, lo que da derecho a cobrar el 50% de la base reguladora.\nAdemás, existen bonificaciones para aquellos trabajadores que prolongan su vida laboral más allá de los 67 años.\nNo obstante, hasta el año 2027 se establece un período transitorio y gradual. Los coeficientes exactos para cada año se pueden consultar en la página de la Seguridad Social.\nHay que tener en cuenta que existen cuantías mínimas y máximas para las pensiones públicas, que se revisan periódicamente. Puedes consultarlas en la web de la Seguridad Social.\nEn la web de la Seguridad Social puedes acceder a una herramienta con el que calcular tu pensión.\nProductos financieros para la jubilación\nUna vez que tengas una idea orientativa de cuánto necesitarás durante la jubilación para mantener el nivel de vida deseado, y estimado el importe de la pensión pública con la que podrás contar (además del complemento de la empresa, en caso de existir) y teniendo en cuenta tu esperanza de vida, podrás calcular si necesitarás dinero adicional para llevar a cabo tus metas.",
+  "text_len": 6504,
+  "num_headings": 1,
+  "metadata": {
+    "title": "¿Cómo preparar mi jubilación? - Finanzas para todos",
+    "url": "https://www.finanzasparatodos.es/como-preparar-mi-jubilacion?mdrv=www.finanzasparatodos.es",
+    "hostname": "finanzasparatodos.es",
+    "sitename": "finanzasparatodos.es",
+    "date": "2013-01-01",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": true,
+  "csv_meta": {
+    "title": "Cómo preparar mi jubilación",
+    "topic": "planificación",
+    "subtopic": "jubilación",
+    "difficulty": "intermedio",
+    "format": "artículo web",
+    "summary": "Información sobre los principales instrumentos de ahorro a largo plazo",
+    "learning_objective": "Comparar planes de pensiones y otros productos"
+  },
+  "deduped_from": null
+}

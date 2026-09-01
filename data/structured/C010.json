@@ -1,0 +1,226 @@
+{
+  "content_id": "C010",
+  "title": "¿Cómo preparar mi jubilación?",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Cómo preparar mi jubilación?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La jubilación supone un cambio en la vida de una persona",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Seguramente durante tu vida laboral te hayas planteado en numerosas ocasiones todo lo que te gustaría hacer cuando comiences esta otra etapa de la vida y dispongas de tiempo para dedicarlo a aquello que más te interese. Pero junto con la alegría de tener tiempo para disfrutar, llega la realidad de no cobrar un salario.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Y por dónde empiezo?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La pensión pública de jubilación sólo puede cubrir una parte de los ingresos que se perciben en activo y cuanto mayor sea el salario, menos porcentaje sobre el mismo representará la pensión. Además, el futuro a largo plazo del sistema público es incierto.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Una jubilación cómoda requerirá complementar la pensión de la Seguridad Social y las pensiones empresariales con el ahorro e inversión personal. Por ello, es importante prever y planificar la jubilación y empezar a ahorrar cuanto antes sea cual sea tu edad o situación familiar.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Cuánto dinero necesitaré después de jubilarme?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Estimar cuánto dinero te hará falta cuando te jubiles será el primer paso para empezar a prepararte para la jubilación ya que no podrás planificar bien el ahorro si no determinas tu objetivo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Para ello, tendrás que tener en cuenta cómo te gustaría vivir en esta etapa de la vida y cuántos años crees que vivirás. Además tendrás que tener en cuenta otros factores que afectan al dinero como la inflación.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Piensa en cómo te gustaría que fuera esa etapa de tu vida:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "¿Qué quieres hacer?: viajar, estudiar, hacer trabajos de voluntariado, dedicarte a perfeccionar algún hobby…",
+        "¿Dónde piensas vivir?: en tu vivienda actual, volver a su pueblo, mudarte a otro clima o cerca de tus hijos o trasladarse a una residencia de mayores…",
+        "¿Qué expectativas de salud tienes?: ¿Cuentas con algún seguro privado que quieras mantener después de jubilarte o contarás con la Seguridad Social? En caso de no poder cuidar de ti mismo ¿tienes familia u otros recursos?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Una vez definido podrás calcular de cuánto dinero deberás disponer al mes para mantener este estilo de vida.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque suene extraño tendrás que pensar cuantos años crees que vivirás. Ello dependerá en gran medida de tu estilo de vida, tu alimentación, tus antecedentes familiares, tus condiciones de salud actuales, etc.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A partir de la estimación realizada del dinero que necesitarás al mes para vivir conforme a tus expectativas y teniendo en cuenta tu esperanza de vida, podrás hallar una cifra aproximada del dinero total que necesitarás para vivir después de la jubilación.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Acuérdate además de considerar el efecto de la inflación. Hay que tener en cuenta que un determinado importe ahora no alcanzará para vivir igual dentro de 5, 10 ó 20 años.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Cuál será mi pensión?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La pensión a percibir será la pensión pública que, en su caso, corresponda, junto con las prestaciones complementarias a este sistema por medio de sistemas de previsión privados que algunas empresas ofrecen a sus empleados.",
+      "links": []
+    },
+    {
+      "type": "ordered_list",
+      "items": [
+        "En cuanto a la pensión pública existen diversos regímenes como son el régimen general con sus diversas modalidades (jubilación anticipada, jubilación flexible, jubilación parcial y jubilación especial a los 64 años) y el régimen especial (Régimen de Trabajadores por Cuenta Propia o Autónomos, el Especial Agrario, el de Empleados de Hogar…), que sigue las mismas condiciones que el régimen general con pequeños matices. Puedes consultar más información en la web de la Seguridad Social.",
+        "Estos pueden ser individuales o colectivos, estos últimos a través de productos que instrumenten los compromisos por pensiones de las empresas con sus trabajadores. Cada trabajador debe informarse de la existencia o no de sistemas de previsión complementarios en su empresa y, en caso de existir, de su importe previsto y condiciones."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Factores a tener en cuenta para el cálculo de la pensión pública de jubilación"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para calcular el importe de la pensión pública contributiva por jubilación hay que considerar 3 factores:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Edad legal de jubilación.",
+        "Años de cotización utilizados para calcular la base reguladora.",
+        "Años de cotización necesarios para cobrar un porcentaje de la base reguladora."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "La edad legal de jubilación será de 67 años a partir de 2027. Hasta esa fecha, el aumento de la edad para poder jubilarse será progresivo, incrementándose dos meses por año desde 2019 hasta el 2027.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La edad de jubilación seguirá siendo los 65 años (como ocurría antes de la reforma de 2013) en caso de acreditar haber cotizado durante un cierto período mayor de lo exigido. A partir de 2027 este período será de 38 años y 6 meses.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La base reguladora viene a ser un promedio de la base de cotización del trabajador durante X años previos a la fecha de jubilación. La base de cotización no es lo mismo que el salario. Existen límites mínimos y máximos de bases de cotización.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Para calcular la base reguladora se considerarán a partir de 2022 los últimos 25 años cotizados:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Base reguladora = Promedio de las bases de cotización durante los 300 meses inmediatamente anteriores a la fecha causante de la jubilación (25 x 12), dividido por 350 (25 X 14).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El trabajador podrá cobrar un porcentaje de su base reguladora según los años que haya cotizado a la Seguridad Social.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A partir de 2027, se eleva a 37 el número de años necesarios para poder cobrar el 100% de la pensión.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En caso de no contar con los años de cotización necesarios, se aplica un coeficiente reductor, por cada mes que falta. El mínimo de años cotizados es de 15, lo que da derecho a cobrar el 50% de la base reguladora.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Además, existen bonificaciones para aquellos trabajadores que prolongan su vida laboral más allá de los 67 años.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "No obstante, hasta el año 2027 se establece un período transitorio y gradual. Los coeficientes exactos para cada año se pueden consultar en la página de la Seguridad Social.",
+      "links": [
+        {
+          "text": "página de la Seguridad Social",
+          "href": "http://www.seg-social.es/wps/portal/wss/internet/Inicio",
+          "start": 143,
+          "end": 172
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay que tener en cuenta que existen cuantías mínimas y máximas para las pensiones públicas, que se revisan periódicamente. Puedes consultarlas en la web de la Seguridad Social.",
+      "links": [
+        {
+          "text": "web de la Seguridad Social",
+          "href": "http://www.seg-social.es/wps/portal/wss/internet/Trabajadores/CotizacionRecaudacionTrabajadores/10721",
+          "start": 149,
+          "end": 175
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En la web de la Seguridad Social puedes acceder a una herramienta con el que calcular tu pensión.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Productos financieros para la jubilación"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una vez que tengas una idea orientativa de cuánto necesitarás durante la jubilación para mantener el nivel de vida deseado, y estimado el importe de la pensión pública con la que podrás contar (además del complemento de la empresa, en caso de existir) y teniendo en cuenta tu esperanza de vida, podrás calcular si necesitarás dinero adicional para llevar a cabo tus metas.",
+      "links": []
+    }
+  ],
+  "links": [
+    {
+      "text": "web de la Seguridad Social",
+      "href": "http://www.seg-social.es/wps/portal/wss/internet/Trabajadores/CotizacionRecaudacionTrabajadores/10721",
+      "start": null,
+      "end": null
+    },
+    {
+      "text": "página de la Seguridad Social",
+      "href": "http://www.seg-social.es/wps/portal/wss/internet/Inicio",
+      "start": null,
+      "end": null
+    }
+  ],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:07:46.440778+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 26065,
+    "input_tokens": 3466,
+    "output_tokens": 9084
+  }
+}

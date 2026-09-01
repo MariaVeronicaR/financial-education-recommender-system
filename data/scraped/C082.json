@@ -1,0 +1,156 @@
+{
+  "content_id": "C082",
+  "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/productosservici/relacionados/comisiones/",
+  "source": "Portal Cliente Bancario BdE",
+  "host": "clientebancario.bde.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 33835
+  },
+  "title": "Comisiones",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Comisiones"
+    },
+    {
+      "level": 2,
+      "text": "Comisiones por productos bancarios"
+    },
+    {
+      "level": 2,
+      "text": "Información trimestral sobre las comisiones habitualmente aplicadas"
+    },
+    {
+      "level": 2,
+      "text": "Qué son las comisiones bancarias"
+    },
+    {
+      "level": 2,
+      "text": "CONSULTAS FRECUENTES"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Comisiones",
+      "start": 0,
+      "end": 273,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Comisiones por productos bancarios",
+      "start": 273,
+      "end": 465,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Información trimestral sobre las comisiones habitualmente aplicadas",
+      "start": 465,
+      "end": 805,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Qué son las comisiones bancarias",
+      "start": 805,
+      "end": 1097,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "CONSULTAS FRECUENTES",
+      "start": 1097,
+      "end": 1364,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Comisiones"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las comisiones bancarias son libres. Los bancos podrán cobrar lo que libremente decidan excepto en aquellos casos en los que el importe de las comisiones estén limitados por una norma, como en la cancelación anticipada de una hipoteca o de un crédito al consumo."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comisiones por productos bancarios"
+    },
+    {
+      "type": "paragraph",
+      "text": "Relación de comisiones distribuida por productos y servicios bancarios: avales, cuentas y depósitos, efectivo y cheques, hipotecas, servicios de pago, etc."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Información trimestral sobre las comisiones habitualmente aplicadas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las entidades deben publicar en sus páginas de internet y en sus establecimientos comerciales, información sobre las comisiones habitualmente aplicadas a los servicios bancarios prestados con mayor frecuencia a sus clientes, para facilitar al interesado su comparación."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué son las comisiones bancarias"
+    },
+    {
+      "type": "paragraph",
+      "text": "Son las cantidades que los bancos te adeudan como contraprestación a los servicios que prestan (por ejemplo, enviar una transferencia, cambiar divisas, administrar una cuenta, estudiar la viabilidad de un préstamo, concederte una tarjeta de crédito, etc.)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "CONSULTAS FRECUENTES"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "¿Pueden cobrarme comisiones de mantenimiento en una cuenta que solo se usa para la gestión de un aval bancario? Leer respuestasobre¿Pueden cobrarme comisiones de mantenimiento en una cuenta que solo se usa para la gestión de un aval bancario?"
+      ]
+    }
+  ],
+  "text": "Comisiones\nLas comisiones bancarias son libres. Los bancos podrán cobrar lo que libremente decidan excepto en aquellos casos en los que el importe de las comisiones estén limitados por una norma, como en la cancelación anticipada de una hipoteca o de un crédito al consumo.\nComisiones por productos bancarios\nRelación de comisiones distribuida por productos y servicios bancarios: avales, cuentas y depósitos, efectivo y cheques, hipotecas, servicios de pago, etc.\n  Información trimestral sobre las comisiones habitualmente aplicadas\nLas entidades deben publicar en sus páginas de internet y en sus establecimientos comerciales, información sobre las comisiones habitualmente aplicadas a los servicios bancarios prestados con mayor frecuencia a sus clientes, para facilitar al interesado su comparación.\n  Qué son las comisiones bancarias\nSon las cantidades que los bancos te adeudan como contraprestación a los servicios que prestan (por ejemplo, enviar una transferencia, cambiar divisas, administrar una cuenta, estudiar la viabilidad de un préstamo, concederte una tarjeta de crédito, etc.).\n  CONSULTAS FRECUENTES\n- ¿Pueden cobrarme comisiones de mantenimiento en una cuenta que solo se usa para la gestión de un aval bancario? Leer respuestasobre¿Pueden cobrarme comisiones de mantenimiento en una cuenta que solo se usa para la gestión de un aval bancario?",
+  "text_len": 1364,
+  "num_headings": 5,
+  "metadata": {
+    "title": "Comisiones",
+    "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/podemosayudarte/comisiones/",
+    "hostname": "clientebancario.bde.es",
+    "description": "Comisiones",
+    "sitename": "clientebancario.bde.es",
+    "date": "2023-01-01",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": true,
+  "csv_meta": {
+    "title": "Comisiones bancarias: conceptos y comparación",
+    "topic": "cuentas bancarias",
+    "subtopic": "comisiones",
+    "difficulty": "básico",
+    "format": "artículo web",
+    "summary": "Información del Banco de España sobre comisiones y servicios bancarios",
+    "learning_objective": "Identificar y comparar comisiones bancarias"
+  },
+  "deduped_from": "C025"
+}

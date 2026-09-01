@@ -1,0 +1,58 @@
+{
+  "content_id": "C112",
+  "tldr": "Las Finanzas Descentralizadas (DeFi) son aplicaciones sobre blockchain que replican servicios financieros tradicionales mediante contratos inteligentes, eliminando intermediarios y permitiendo operaciones P2P directas. Surgieron con los smart contracts de Ethereum (2013) y abarcan préstamos con colateral, exchanges descentralizados con pools de liquidez y stablecoins. Pese a sus ventajas, presentan riesgos como descentralización incompleta, fallos de seguridad y dependencia de oráculos.",
+  "key_points": [
+    "DeFi ejecuta servicios financieros (préstamos, inversiones) sobre blockchain mediante contratos inteligentes, sin intermediarios financieros.",
+    "Las Dapps son aplicaciones descentralizadas de código abierto que funcionan de forma autónoma sobre una blockchain pública no permisionada.",
+    "En los préstamos DeFi, el usuario bloquea criptoactivos como garantía (colateral) que quedan bloqueados hasta devolver el préstamo.",
+    "Los exchanges descentralizados (DEX) usan pools de liquidez para permitir intercambios sin necesidad de una contraparte exacta.",
+    "Los principales riesgos de DeFi son la descentralización incompleta, los problemas de seguridad y la dependencia de oráculos para verificar datos.",
+    "Las stablecoins buscan mantener un valor estable, sirviendo como medio de pago, depósito de valor y unidad de cuenta dentro de DeFi."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué elemento sustituye a los intermediarios financieros tradicionales en las Finanzas Descentralizadas (DeFi)?",
+      "options": [
+        "Los contratos inteligentes (smart contracts)",
+        "Las instituciones bancarias centralizadas",
+        "Los oráculos de datos",
+        "Los market makers tradicionales"
+      ],
+      "correct_index": 0,
+      "explanation": "En DeFi, los contratos inteligentes se ejecutan de forma autónoma sobre la blockchain y reemplazan a las entidades intermediarias, permitiendo operaciones P2P directas.",
+      "concept_id": "C27"
+    },
+    {
+      "question": "¿Cuál es la función principal de los pools de liquidez en un exchange descentralizado (DEX)?",
+      "options": [
+        "Garantizar que existan suficientes criptoactivos para que los usuarios puedan intercambiarlos sin una contraparte exacta",
+        "Almacenar el dinero de los usuarios en cuentas bancarias tradicionales",
+        "Fijar el tipo de interés de los préstamos de forma centralizada",
+        "Emitir monedas estables respaldadas por bancos centrales"
+      ],
+      "correct_index": 0,
+      "explanation": "Los pools de liquidez mantienen una cantidad de criptoactivos para asegurar que las transacciones puedan realizarse, cumpliendo un papel similar al de los market makers tradicionales.",
+      "concept_id": "C27"
+    },
+    {
+      "question": "¿Qué riesgo de DeFi se asocia a que un tercero aporte o verifique datos (por ejemplo, un tipo de interés) para que un contrato inteligente se ejecute?",
+      "options": [
+        "La dependencia de los oráculos, que pueden ser atacados o comprometer la fiabilidad de los datos",
+        "La volatilidad de las stablecoins",
+        "La falta de pools de liquidez en los DEX",
+        "La obligación de usar moneda de curso legal"
+      ],
+      "correct_index": 0,
+      "explanation": "Los oráculos son terceros que aportan datos necesarios para la ejecución de ciertos smart contracts; si son atacados o fallan, la integridad de esos datos queda comprometida.",
+      "concept_id": "C13"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 6271,
+    "input_tokens": 2932,
+    "output_tokens": 1120
+  }
+}

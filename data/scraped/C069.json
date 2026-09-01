@@ -1,0 +1,1171 @@
+{
+  "content_id": "C069",
+  "url": "https://www.cnmv.es/DocPortal/Publicaciones/Guias/FondosDeInversionEInversionColectiva.pdf",
+  "source": "CNMV",
+  "host": "www.cnmv.es",
+  "url_type": "pdf",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 744506
+  },
+  "title": "Los fondos de inversión y la inversión colectiva",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Los fondos de"
+    },
+    {
+      "level": 1,
+      "text": "inversión y la"
+    },
+    {
+      "level": 1,
+      "text": "I. Introducción"
+    },
+    {
+      "level": 1,
+      "text": "II. Conceptos básicos"
+    },
+    {
+      "level": 1,
+      "text": "para entender los fondos"
+    },
+    {
+      "level": 1,
+      "text": "de inversión"
+    },
+    {
+      "level": 1,
+      "text": "III. Cómo se determina la"
+    },
+    {
+      "level": 1,
+      "text": "rentabilidad de un fondo"
+    },
+    {
+      "level": 1,
+      "text": "IV. ¿Tienen riesgos los"
+    },
+    {
+      "level": 1,
+      "text": "fondos de inversión?"
+    },
+    {
+      "level": 1,
+      "text": "V. Tipos de fondos"
+    },
+    {
+      "level": 1,
+      "text": "VI. Los fondos"
+    },
+    {
+      "level": 1,
+      "text": "garantizados"
+    },
+    {
+      "level": 1,
+      "text": "VII. Cómo elegir un"
+    },
+    {
+      "level": 1,
+      "text": "fondo de inversión"
+    },
+    {
+      "level": 1,
+      "text": "VIII. Operativa de"
+    },
+    {
+      "level": 1,
+      "text": "los reembolsos y los"
+    },
+    {
+      "level": 1,
+      "text": "IX. ¿Por qué es"
+    },
+    {
+      "level": 1,
+      "text": "importante consultar el"
+    },
+    {
+      "level": 1,
+      "text": "folleto del fondo?"
+    },
+    {
+      "level": 1,
+      "text": "X. Seguimiento de la"
+    },
+    {
+      "level": 1,
+      "text": "inversión en fondos"
+    },
+    {
+      "level": 1,
+      "text": "XI. Otros tipos de"
+    },
+    {
+      "level": 1,
+      "text": "Instituciones de"
+    },
+    {
+      "level": 1,
+      "text": "Inversión Colectiva"
+    },
+    {
+      "level": 1,
+      "text": "XII. Cuestiones a"
+    },
+    {
+      "level": 1,
+      "text": "considerar sobre los"
+    },
+    {
+      "level": 1,
+      "text": "fondos de inversión"
+    },
+    {
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "level": 1,
+      "text": "información?"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Los fondos de",
+      "start": 0,
+      "end": 13,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "inversión y la",
+      "start": 13,
+      "end": 696,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "I. Introducción",
+      "start": 696,
+      "end": 1921,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "II. Conceptos básicos",
+      "start": 1921,
+      "end": 1960,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "para entender los fondos",
+      "start": 1960,
+      "end": 1986,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "de inversión",
+      "start": 1986,
+      "end": 7586,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "III. Cómo se determina la",
+      "start": 7586,
+      "end": 7681,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "rentabilidad de un fondo",
+      "start": 7681,
+      "end": 10687,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "IV. ¿Tienen riesgos los",
+      "start": 10687,
+      "end": 10749,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "fondos de inversión?",
+      "start": 10749,
+      "end": 17731,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "V. Tipos de fondos",
+      "start": 17731,
+      "end": 21194,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VI. Los fondos",
+      "start": 21194,
+      "end": 21261,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "garantizados",
+      "start": 21261,
+      "end": 34810,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VII. Cómo elegir un",
+      "start": 34810,
+      "end": 35043,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "fondo de inversión",
+      "start": 35043,
+      "end": 48762,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VIII. Operativa de",
+      "start": 48762,
+      "end": 48989,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "los reembolsos y los",
+      "start": 48989,
+      "end": 60527,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "IX. ¿Por qué es",
+      "start": 60527,
+      "end": 60704,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "importante consultar el",
+      "start": 60704,
+      "end": 60730,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "folleto del fondo?",
+      "start": 60730,
+      "end": 64327,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "X. Seguimiento de la",
+      "start": 64327,
+      "end": 64390,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "inversión en fondos",
+      "start": 64390,
+      "end": 67761,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "XI. Otros tipos de",
+      "start": 67761,
+      "end": 67826,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "Instituciones de",
+      "start": 67826,
+      "end": 67844,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "Inversión Colectiva",
+      "start": 67844,
+      "end": 74878,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "XII. Cuestiones a",
+      "start": 74878,
+      "end": 74986,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "considerar sobre los",
+      "start": 74986,
+      "end": 75009,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "fondos de inversión",
+      "start": 75009,
+      "end": 79813,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "¿Necesitas más",
+      "start": 79813,
+      "end": 79891,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "información?",
+      "start": 79891,
+      "end": 79917,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Los fondos de"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "inversión y la"
+    },
+    {
+      "type": "paragraph",
+      "text": "inversión\ncolectiva\nGuía"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nÍndice\nIntroducción\nConceptos básicos para\nentender los fondos de\ninversión\nCómo se determina la\nrentabilidad de un fondo\n¿Tienen riesgos los fondos\nde inversión?\nTipos de fondos\nLos fondos garantizados\nCómo elegir un fondo de\ninversión\nOperativa de las suscripciones,\nlos reembolsos y los traspasos\n¿Por qué es importante\nconsultar el folleto del fondo?\nSeguimiento de la\ninversión en fondos\nOtros tipos de Instituciones de\nInversión Colectiva\nCuestiones a considerar\nsobre fondos de inversión"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "I. Introducción"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión iniciaron su andadura en España a mediados de\nlos 60. Desde entonces, se han configurado como uno de los productos\npreferidos por los inversores españoles. Existe una tipología de fondos\nextraordinariamente variada, que permite encontrar productos adecuados\npara cualquier perfil inversor, desde los más conservadores a los más\ndispuestos a asumir riesgos.\nLa complejidad de los mercados no sólo pone en un primer plano las\nresponsabilidades de los profesionales sino también las de los inversores, que\nhan de asumir un papel activo en la selección del fondo que mejor se adapta\na sus expectativas. Antes de suscribir participaciones de un fondo concreto\nes fundamental conocer aquellas características que resultan esenciales para\ntomar una decisión de inversión, como el horizonte temporal, la liquidez del\nproducto o el riesgo de pérdidas, entre otras. Con este fin es imprescindible\nque los inversores conviertan en un hábito la consulta de la documentación\noficial, especialmente el DFI (documento con datos fundamentales para el\ninversor) y los informes periódicos.\nLos fondos de\ninversión y la\ninversión\ncolectiva"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. Conceptos básicos"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "para entender los fondos"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "de inversión"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión son instituciones de inversión colectiva: esto\nimplica que los resultados individuales están en función de los rendimientos\nobtenidos por un colectivo de inversores.\nEn realidad, un fondo de inversión es un patrimonio sin personalidad jurídica.\nEste patrimonio se forma por la agregación de los capitales aportados por un\nnúmero variable de personas (los partícipes).\nPuesto que carece de personalidad jurídica, el fondo de inversión se\n“relaciona” con el entorno (partícipes, intermediarios, mercados) a través de\nuna sociedad gestora y una entidad depositaria. Las funciones de ambas\nestán claramente definidas:\n¥ La sociedad gestora adopta las decisiones de inversión y ejerce\ntodas las funciones de administración y representación del fondo. Por\ntanto, es la sociedad gestora quien invierte el capital aportado por\nlos ahorradores (partícipes) en los distintos activos financieros que\nconstituyen la cartera del fondo: renta fija, renta variable, derivados,\ndepósitos bancarios, etc. Entre otras obligaciones, la gestora debe\nelaborar un folleto y el DFI en el que se recogen las características del\nfondo, como se irá viendo a lo largo de esta Guía.\n¥ La entidad depositaria custodia el patrimonio del fondo (valores,\nefectivo) y asume ciertas funciones de control sobre la actividad de la\ngestora, en beneficio de los partícipes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nLa unidad de inversión es la participación. Su precio o valor de mercado es\nel valor liquidativo, que se calcula dividiendo el patrimonio total del fondo por\nel número de participaciones en circulación en cada momento. El manejo de\nestos conceptos se detalla en el siguiente capítulo: “Cómo se determina la\nrentabilidad de un fondo”.\nEjemplo 1\nEl 1 de enero comienza a funcionar el Fondo de Inversión XXX, con\ncuatro partícipes: el señor A, el señor B, la señora C y la señora D. Cada\nuno aporta 100 euros, con lo cual el fondo inicia su andadura con un\npatrimonio inicial de 400 euros. En este caso, cada uno de los inversores\nes titular de una participación que vale 100 euros. El fondo tiene 4\nparticipaciones en circulación.\nLa Gestora YYY, encargada de la representación y administración del\nfondo, invierte esos 400 euros en los mercados de valores, de manera\nque la cartera presenta la siguiente composición:\nEstos valores son administrados por el Depositario ZZZ.\nValor de renta fija 1\n50 euros\nValor de renta fija 2\n100 euros\nValor de renta variable 3\n125 euros\nValor de renta variable 4\n100 euros\nLiquidez\n25 euros\nTOTAL CARTERA\n400 euros"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nEl patrimonio del fondo puede aumentar o disminuir por dos motivos:\nEntradas o salidas de partícipes: los fondos de inversión son\ninstituciones de carácter abierto, es decir, en general cualquier\ninversor puede entrar o salir del fondo según su conveniencia,\ncomprando o vendiendo participaciones. La compra de\nparticipaciones se denomina suscripción, y la venta supone un\nreembolso, parcial o total, de la cantidad invertida. Por tanto, el\nnúmero de participaciones en circulación varía constantemente, a\nmedida que los inversores entran o salen del fondo.\nVariaciones en el valor de mercado de los activos que componen la\ncartera del fondo. Estas fluctuaciones en la valoración de la cartera\nson las que determinan la obtención de resultados positivos o\nnegativos para el fondo y, en consecuencia, para cada uno de los\npartícipes.\nUna característica muy importante de los fondos es que los\nresultados, ya sean beneficios o pérdidas, no son percibidos\nde manera efectiva por el inversor mientras no se produzca el\nreembolso de las participaciones. El tratamiento fiscal de las\nparticipaciones en fondos de inversión resulta ventajoso porque\nhasta el momento del reembolso no se tributa por las plusvalías1."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Los rendimientos de los fondos de inversión tienen la consideración de ganancia o pérdida patrimonial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nA cambio de contar con una gestión profesional de sus inversiones, el\npartícipe paga ciertas comisiones que varían según los fondos (y que se\ndetallan en su folleto explicativo), dentro de unos límites máximos fijados por\nla ley.\nPor una parte, las comisiones de gestión y depositaría son cargadas al\nfondo de forma directa (por la sociedad gestora y por el depositario,\nrespectivamente), por lo que deben restarse del patrimonio del fondo\npara calcular la rentabilidad que obtiene el inversor. Además, para algunos\nfondos, la gestora puede cobrar directamente al partícipe comisiones por la\nsuscripción y/o el reembolso de las participaciones.\nEjemplo 2\nUn mes después de comenzar a funcionar el Fondo XXX, la cartera tiene\nlos siguientes valores de mercado:\nAunque unos valores han evolucionado mejor que otros, el conjunto de la\ncartera se ha revalorizado hasta los 411 euros. Sin embargo, para calcular\nel patrimonio hay que restar los 2 euros de comisión de gestión cargados\npor la Gestora YYY más 1 euro que percibe el Banco Depositario ZZZ por\nsus servicios de administración de los valores.\nPor tanto, el patrimonio del fondo asciende a 408 euros. El precio\nunitario de cada participación (valor liquidativo) es ahora de 102 euros.\nHasta el momento, cada partícipe registra una plusvalía de 2 euros.\nMES ANTERIOR\nMES ACTUAL\nValor de renta fija 1\n50 euros\n55 euros\nValor de renta fija 2\n100 euros\n100 euros\nValor de renta variable 3\n125 euros\n117 euros\nValor de renta variable 4\n100 euros\n115 euros\nLiquidez\n25 euros\n24 euros\nTOTAL CARTERA\n400 euros\n411 euros"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "III. Cómo se determina la"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "rentabilidad de un fondo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Como se explicaba en el capítulo anterior, la unidad de inversión en un fondo\nes la participación. El valor liquidativo es el precio de cada participación en un\nmomento dado.\nEn los fondos tradicionales, este cálculo es realizado por la gestora\ndiariamente2. La difusión del valor liquidativo es obligatoria a través de la\npágina web de la entidad; también suele realizarse a través de la prensa o de\ndifusores de información económica como Bloomberg, Reuters, etc.\nLa rentabilidad se calcula como el porcentaje de variación del valor\nliquidativo entre la fecha de suscripción y la fecha de reembolso.\nRentabilidad =\nValor liquidativo final3 – Valor liquidativo inicial\nValor liquidativo inicial\nx 100\nValor liquidativo (V.L) =\nPatrimonio del fondo\nNº de participaciones en circulación"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Más adelante se explica cómo determinados tipos de instituciones de inversión colectiva,\ndebido a la naturaleza y características de los activos en los que invierten, pueden calcular el\nvalor liquidativo con periodicidad superior: mensual, trimestral..."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "De forma excepcional, algunos fondos pueden distribuir parte del beneficio entre los\npartícipes, en lugar de acumularlo al patrimonio del fondo. En estos casos, para calcular la\nrentabilidad obtenida habría que sumar el beneficio distribuido al valor liquidativo final."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nEjemplo\nLa familia Gómez suscribió hace 2 años 50 participaciones del Fondo AAA,\na un precio de 1.000 euros cada participación. En este momento, el valor\nliquidativo es de 1.025 euros. Los señores Gómez deciden recuperar la mitad\nde su inversión, y reembolsan 25 participaciones. Aplicando la fórmula anterior,\nse concluye que la rentabilidad de esta inversión ha sido del 2,50%: invirtieron\n25.000 euros y han recibido 25.625.\nDos meses después, para hacer frente a un pago inesperado, reembolsan el\nresto de sus participaciones. Sin embargo, los mercados han evolucionado a la\nbaja y el valor liquidativo es de 985 euros. En este caso, se ha producido una\nrentabilidad negativa del –1,50%: invirtieron 25.000 euros y han recuperado\n24.625.\nEl ejemplo muestra cómo la rentabilidad puede ser tanto positiva como\nnegativa, según la evolución del valor liquidativo.\nDebe tenerse en cuenta que esta manera de calcular la rentabilidad nos\nindica la variación del valor liquidativo en un periodo de tiempo que no\ntiene por qué coincidir con el año. Es decir, en el primer caso, el inversor\nha obtenido una rentabilidad del 2,50% en un periodo de 2 años. Para\npoder comparar estos rendimientos con los de otros productos que\nsuelen expresarse en términos de interés anual, sería necesario anualizar la\nrentabilidad (el ejemplo correspondería a un rendimiento anual del 1,24%).\nAsimismo, es importante considerar que la existencia de comisiones de\nsuscripción o de reembolso (establecidas en su caso en el folleto del fondo)\nreducirá la rentabilidad final de la inversión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "IV. ¿Tienen riesgos los"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "fondos de inversión?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Como cualquier otro producto de inversión, los fondos de inversión implican\nciertos riesgos. La naturaleza y el alcance de los riesgos dependerán del tipo\nde fondo, de sus características individuales (definidas en el folleto), y de los\nactivos en los que finalmente se invierta el patrimonio.\nEn consecuencia, la elección entre los distintos tipos de fondos debe hacerse\nteniendo en cuenta la capacidad y el deseo de asumir riesgos por parte\ndel ahorrador, así como su horizonte temporal de inversión (especialmente\ncuando se trata de fondos garantizados). En general, los fondos de inversión\npermiten controlar los riesgos, debido a que la diversificación favorece la\ncompensación de resultados positivos y negativos de diferentes activos. Sin\nembargo, en modo alguno puede excluirse la posibilidad de sufrir pérdidas: al\nfin y al cabo, el capital está invertido en valores cuyo precio oscila en función\nde la evolución de los mercados financieros.\nPor tanto, lo primero que el inversor debe analizar es hasta qué punto está\ndispuesto a asumir la posibilidad de que, al solicitar el reembolso de la\ninversión, ésta valga menos que en el momento de la compra."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nHay dos elementos que pueden ayudar al inversor a tener una idea más\naproximada del riesgo que incorpora un determinado fondo de inversión: la\nvolatilidad y la duración.\nLa volatilidad nos indica si históricamente los valores\nliquidativos del fondo han experimentado variaciones\nimportantes o si, por el contrario, han evolucionado de\nmanera estable. Un fondo muy volátil tiene más riesgo\nporque es difícil prever si el valor liquidativo va a subir o a\nbajar. Por tanto, en el momento del reembolso, lo mismo\npodrían obtenerse ganancias significativas que pérdidas\nimportantes.\nSi el inversor adopta la volatilidad como criterio de\ndecisión, debe tener en cuenta que existen distintas\nformas de cálculo y presentación (diaria, mensual,\nanualizada o sin anualizar...). Por eso es aconsejable\nseleccionar una fuente de confianza y ceñirse a la misma,\nya que los datos de distintas fuentes pueden no ser del\ntodo comparables.\nLa duración (o plazo medio de vencimiento) es un\nconcepto que permite estimar cómo responderán los\nactivos de renta fija ante variaciones de los tipos de interés\n(riesgo de tipo de interés). Cuando los tipos suben, los\nvalores de renta fija en la cartera del fondo pierden valor. Y\nal contrario si los tipos bajan. Este efecto se acusa menos\npara valores a corto plazo. Por eso, a mayor duración más\nsensibilidad y más riesgo.\nAdemás, antes de suscribir participaciones de un fondo el inversor debe\nconsultar cuál es su política de inversión (en el folleto) y, en caso de que el\nfondo tenga historia suficiente, la composición de la cartera al final del último\ntrimestre (informe periódico a partícipes). Ambos documentos pueden y\ndeben solicitarse a la entidad comercializadora, y también se encuentran a\ndisposición del público en la página web de la entidad y en la CNMV."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nConocer la composición de la cartera y la política de inversión del fondo es\nfundamental, porque permite al inversor hacerse una idea del riesgo que se\nasume, según los porcentajes de inversión en cada tipo de activos financieros,\nen euros o en otras divisas, en una u otra zona geográfica, etc. Con carácter\ngeneral, se pueden hacer las siguientes afirmaciones:\n¥ La inversión en renta variable, por su propia naturaleza, tiene en\ngeneral más riesgo que la inversión en renta fija, pero en ésta\ntambién se pueden producir pérdidas, y el inversor debe ser\nconsciente de este hecho. La renta variable suele tener más riesgo\nporque las cotizaciones de las acciones son más volátiles.\n¥ Algunos fondos, por su política de inversión, pueden mantener\nen cartera valores que incorporen un mayor riesgo de crédito o\ncontraparte: es la posibilidad de que el emisor (empresa, entidad\nfinanciera o Estado, entre otros) no pueda hacer frente a sus pagos o\nde que se produzca un retraso en los mismos. En estos casos podría\nser interesante conocer la calidad de crédito del emisor, a través de\nla calificación que realizan entidades especializadas (agencias de\nrating).\n¥ La inversión en valores de países emergentes conlleva otro riesgo\nadicional, el llamado riesgo país, que recoge la posibilidad de que\nlos acontecimientos políticos, económicos y sociales de ese país\nafecten a las inversiones que en él se mantienen.\n¥ La inversión en activos expresados en monedas distintas del euro\nimplica un riesgo, denominado riesgo de divisa, derivado de las\nposibles fluctuaciones de los tipos de cambio."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\n¥ Por otra parte, los fondos que invierten en instrumentos financieros\nderivados (futuros, opciones, etc.) pueden incorporar un riesgo\nsuperior debido a las características intrínsecas de estos productos\n(por ejemplo, el apalancamiento4). Por tanto, es posible que se\nmultipliquen las pérdidas de la cartera, aunque también podrían\nmultiplicarse las ganancias.\nSin embargo, hay que tener en cuenta que algunos fondos utilizan\nlos derivados exclusiva o primordialmente con la finalidad de\ndisminuir los riesgos de la cartera de contado (cobertura); en la\ndescripción de la política de inversión, que se recoge en el folleto, se\nindica si los derivados se utilizarán con finalidad de inversión o de\ncobertura."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En términos generales, el apalancamiento se refiere al efecto que el endeudamiento tiene\nsobre la rentabilidad. En los mercados de valores, hace referencia al hecho de que con\npequeñas cantidades de dinero puede realizarse una inversión que se comporta como otra\nde un volumen muy superior. Por ejemplo, es lo que ocurre al adquirir opciones o warrants:\npagando una pequeña cantidad (la prima), el inversor tiene la posibilidad de obtener el mismo\nresultado que si hubiera comprado o vendido valores cuyo valor de mercado es muy superior.\nMientras llega el vencimiento de la opción, el inversor puede obtener rentabilidad del dinero\nque aún no ha tenido que desembolsar para la adquisición de los valores. Así, una inversión\nen warrants puede ser mucho más rentable que la misma inversión en el subyacente, si los\nmercados evolucionan favorablemente a su posición; pero a cambio aumenta el riesgo, y la\nposibilidad de perder toda la inversión si la evolución no es la esperada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\n¥ Otra circunstancia a tener en cuenta es que hay un porcentaje\nde hasta el 10% que el fondo puede invertir en valores que no se\nnegocian en mercados regulados y otros activos poco líquidos. En\neste caso, se está asumiendo un riesgo adicional, al existir riesgo\nde liquidez, es decir, que cuando el fondo quiera vender el activo\nno encuentre compradores. Además, la valoración de estos activos\nresulta bastante más compleja, ya que no se dispone de un precio\nobjetivo de mercado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "V. Tipos de fondos"
+    },
+    {
+      "type": "paragraph",
+      "text": "El mercado español ofrece una amplia gama de fondos de inversión, que\npueden clasificarse según diferentes criterios. El que tal vez resulte más\ninteresante para los inversores particulares es el de la vocación inversora\ndefinida en el folleto de cada fondo, ya que las inversiones en las que se\nmaterialice el patrimonio de un fondo determinan el nivel de riesgo que\nasumen los partícipes. Por tanto, conocer la política de inversión permite\nque el inversor elija el que mejor se adapte a sus expectativas, situación\neconómica y perfil de riesgo.\nSe pueden encontrar numerosas categorías de fondos de inversión según su\nvocación inversora, es decir, el tipo de activos financieros en los que el gestor\ninvierte las aportaciones de los partícipes.\nFondos monetarios: no invierten en renta variable, materias primas o\ndivisa. La duración media de su cartera es igual o inferior a seis meses\ny sólo pueden invertir en activos de elevada calidad crediticia. Los\nmonetarios a corto plazo se caracterizan porque la duración media\nde la cartera es igual o inferior a 60 días.\nFondos de renta fija: no invierten en renta variable.\nFondos de renta variable: invierten más del 75% en renta variable.\nFondos Mixtos: en este grupo podrá encontrar fondos de renta fija\nmixta, que invierten el 30% como máximo en renta variable, o fondos\nde renta variable mixta, que invierten en renta variable entre el 30% y\nel 75%.\nTanto los fondos de renta fija como los fondos de renta variable\ny los fondos mixtos pueden ser a su vez euro o internacionales,\ndependiendo de si invierten en divisas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nFondos total o parcialmente garantizados: en función de si aseguran\no no la totalidad de la inversión inicial. A su vez, dentro de los fondos\ntotalmente garantizados se podrá encontrar con:"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Los fondos garantizados de rendimiento fijo, que aseguran la"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "inversión más un rendimiento fijo con la garantía de un tercero."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Fondos que aseguran la recuperación de la inversión inicial con"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "la garantía de un tercero y ofrecen la posibilidad de obtener\nun rendimiento vinculado a la evolución de un instrumento\nde renta variable, divisa o cualquier otro activo. Son llamados\nfondos garantizados de rendimiento variable.\nFondos de gestión pasiva: replican o reproducen un índice (como los\nfondos cotizados – ETF). También se incluyen los fondos que persiguen\nun objetivo concreto de rentabilidad no garantizado.\nFondos de retorno absoluto: Los fondos de retorno absoluto son los\nque persiguen obtener como objetivo de gestión, no garantizado, una\ndeterminada rentabilidad/riesgo periódica.\nFondos globales: son fondos cuya política de inversión no encaja en\nninguna de las vocaciones anteriores.\nEn este punto debe hacerse mención a los fondos por\ncompartimentos. Esta figura supone que, dentro de un mismo fondo\npodrá haber dos o más “sub-fondos”, cada uno de los cuales tendrá\nsu política de inversión. Cada compartimento podrá a su vez emitir\ndistintas clases de participaciones, que se diferenciarán por las\ncomisiones que apliquen. En consecuencia, cada compartimento y,\nen su caso, cada clase de participación, tendrá un valor liquidativo\ndiferente al resto de compartimentos o clases de participaciones\ndel mismo fondo, por lo que también podrán obtener distintos\nrendimientos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VI. Los fondos"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "garantizados"
+    },
+    {
+      "type": "paragraph",
+      "text": "Son fondos que aseguran que, como mínimo, en una determinada fecha futura\nse conservará la totalidad o parte de la inversión inicial. En algunos casos se\nofrece también una cierta rentabilidad asegurada.\nNo son garantizados, aunque puedan parecerlo y en ocasiones induzcan a\nconfusión, otro tipo de fondos que tienen como objetivo de inversión o de\nrentabilidad la obtención de un determinado rendimiento fijo o vinculado\na alguna referencia (Euribor...). Precisamente, la diferencia es que ese\nrendimiento es un objetivo y no una garantía, por lo que no es exigible por el\ninversor. Es por tanto un objetivo no garantizado.\nLos garantizados presentan ciertas características que deben ser bien\nconocidas antes de la suscripción, ya que pese a la relativa seguridad que\nofrecen pueden no resultar adecuados para todos los inversores:\nCondiciones para la efectividad de la garantía. Restricciones a la\nliquidez\nQué sucede al vencimiento de la garantía\nFiscalidad\nCálculo de la posible rentabilidad\na)\nb)\nc)\nd)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nCondiciones para la efectividad de la garantía.\nRestricciones a la liquidez\nLos fondos garantizados tienen un horizonte temporal recomendado\nde inversión que coincide con el plazo para el que se garantiza la\nconservación del capital. Es decir, no es aconsejable invertir en un\ngarantizado si se prevé que pueda necesitarse el capital antes de la\nfecha prevista de vencimiento de la garantía (que suele fijarse entre 1 y\n6 años, según los fondos).\nA diferencia de los no garantizados, estos fondos están diseñados de\nmanera que no resulta aconsejable la entrada o salida de partícipes\ndurante el plazo de garantía, debido a las siguientes particularidades:\n¥ Periodo inicial de comercialización, durante el cual se puede\naportar dinero al fondo sin que se aplique la comisión de\nsuscripción (que en otros momentos puede llegar al 5% del\nimporte invertido). En su caso, las rentabilidades ofrecidas están\ncondicionadas a que la inversión se haya realizado dentro de este\nperiodo.\n¥ Sólo tienen derecho a la garantía los partícipes que mantengan\nsu inversión hasta la fecha de vencimiento de la garantía; esta es\nla fecha en la que se asegura que las participaciones de un fondo\nalcanzarán un determinado valor liquidativo (valor liquidativo\ngarantizado). Las participaciones reembolsadas antes de ese\nmomento no están garantizadas. Si por algún motivo el partícipe\nnecesita reembolsar antes del vencimiento de la garantía, recibirá\npor sus participaciones el valor liquidativo que corresponda\na la fecha de reembolso, que podrá ser superior o inferior al\ninicial. Además, en general también tendrá que hacer frente a la\ncomisión de reembolso (hasta un 5% del importe reembolsado).\nEn resumen, los partícipes que entren después del periodo de\ncomercialización o que reembolsen antes de la fecha de vencimiento\nde la garantía podrán sufrir una importante penalización en la\nrentabilidad, e incluso perder parte de su inversión inicial.\na)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nExisten algunos fondos garantizados que cuentan con las llamadas\n“ventanas de liquidez”. Estas ventanas de liquidez son fechas\npredeterminadas en las que el partícipe puede reembolsar total\no parcialmente sin pagar comisión de reembolso, siempre que\nse respeten los plazos de preaviso5 . Se trata de una apreciable\nventaja para el inversor, porque suaviza la iliquidez de este tipo de\nproductos. Sin embargo, el partícipe deberá tener en cuenta que estos\nreembolsos se realizan al valor liquidativo de la fecha, por lo que no se\nbeneficiará de la garantía y podrá registrar pérdidas.\nAlgunos fondos ofrecen “pagos” periódicos durante el periodo\ngarantizado. No deben confundirse con los cupones de la renta fija, ya\nque en realidad se trata de reembolsos parciales y obligatorios.\nQué sucede al vencimiento de la garantía\nLos fondos garantizados ofrecen la conservación del capital invertido\n(o de una parte de él), en una fecha futura predeterminada, la fecha\nde vencimiento de la garantía. Cuando llega el vencimiento, estos\nfondos establecen o inician un nuevo periodo garantizado que incluye\ncambios significativos en su naturaleza, características e incluso, a\nveces, en su denominación. En otros casos, el fondo puede dejar de\nser garantizado y seguir funcionando normalmente, con otra política de\ninversión.\nA medida que se aproxime la fecha de vencimiento de la garantía, la\nGestora enviará a los inversores una carta informándoles sobre los\ncambios que se producirán en el fondo. Los inversores disponen de las\nsiguientes opciones:\n¥ No aceptar las nuevas condiciones: en tal caso el partícipe\ndebe ejercer el derecho de separación, que le permite recuperar\nsu inversión o traspasarla a otro fondo sin soportar comisiones\nde reembolso durante un periodo de tiempo limitado (un mes,\ncomo mínimo). Este plazo viene indicado en la carta remitida por\nla entidad.\nb)"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "El plazo de preaviso suele oscilar entre tres días y una semana. En general se expresa en días hábiles\n(generalmente, sin contar sábados, domingos y festivos). En el folleto se detallan las fechas de las ventanas de\nliquidez y los plazos de preaviso, con indicación en su caso de lo que se entiende por día hábil a estos efectos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\n¥ Permanecer como partícipe en el fondo: esta opción no\nexige actuación alguna, ya que si el inversor no ordena el\nreembolso durante el plazo de que dispone para separarse, se\nsobreentiende que está conforme con las nuevas características\ny desea mantener su inversión en el fondo. A partir de ese\nmomento el partícipe queda sujeto a las nuevas condiciones\n(entre las que se puede incluir la aplicación de comisiones por\nreembolso, por ejemplo).\nEl partícipe debe ser consciente de que, tras el vencimiento de una\ngarantía, y una vez transcurrido el periodo durante el cual se puede\nejercer el derecho de separación gratuito, los reembolsos se realizarán\na precio de mercado, y existe la posibilidad de que éste sea inferior al\nque se alcanzó en el momento del vencimiento de la garantía.\nFiscalidad\nLa garantía del fondo viene dada por una tercera entidad, y puede ser\ninterna (es el fondo quien recibe el capital si no alcanza por sí mismo\nel valor liquidativo fijado como objetivo) o externa (cuando el capital se\nentrega directamente al partícipe).\nLa diferencia para el partícipe reside en el tratamiento fiscal de cada\nuna. Puesto que la interna es una aportación que recibe el propio\nfondo, el inversor sólo la percibe a través del valor liquidativo de\nsus participaciones (se considera ganancia patrimonial), por lo que\nno tiene efectos fiscales inmediatos6. Sin embargo, si la garantía es\nexterna el partícipe recibe en su cuenta la diferencia entre el valor\nliquidativo del fondo en la fecha de vencimiento de la garantía y el\nvalor liquidativo garantizado, y esta cantidad sí tributa en el ejercicio\neconómico en el que se percibe (como rendimiento del capital\nmobiliario)."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Las plusvalías no tributan hasta que no se produzca el reembolso de las\nparticipaciones.\nc)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nCálculo de la posible rentabilidad\nLos fondos garantizados aseguran, en todo o en parte, la conservación\ndel capital invertido al cabo de un plazo predeterminado. Sin embargo,\nno todos garantizan la obtención de una rentabilidad adicional.\nDentro de la actual oferta de fondos garantizados en nuestro país,\npueden distinguirse hasta el momento dos grandes grupos:\n¥ Los fondos garantizados de rentabilidad fija (GRF): en la\nfecha de vencimiento de la garantía no sólo aseguran la\nconservación del capital inicial, sino también una rentabilidad fija\ny predeterminada (que se indica en el DFI-documento con datos\nfundamentales para el inversor-del fondo en términos de interés\nanual, TAE).\n¥ Los fondos garantizados de rentabilidad variable: sólo aseguran\nla inversión inicial, en la fecha de vencimiento de la garantía.\nAdemás ofrecen la posibilidad de obtener una rentabilidad\nvinculada al comportamiento de diversos activos financieros\no índices (de acuerdo con fórmulas de cálculo más o menos\ncomplejas). El inversor debe tener en cuenta que, si la evolución\nde los instrumentos subyacentes no es la esperada, es posible\nque no obtenga rentabilidad alguna.\n¥ Garantizados parcialmente: no aseguran la recuperación del\n100% de la inversión inicial.\nPara el partícipe puede resultar extremadamente difícil saber de\nmanera realista qué rentabilidad cabe esperar, cuando ésta depende\nde la evolución de determinados instrumentos subyacentes. Debe\ntenerse en cuenta que la presentación comercial de estos productos\npuede tender a sobredimensionar las expectativas de rendimientos.\nPor muy positivas que sean las previsiones sobre la evolución de los\nmercados, al invertir en un garantizado es necesario saber con\nexactitud si existe o no alguna garantía de rentabilidad.\nd)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nLos fondos garantizados cuyo objetivo de rentabilidad viene\ndeterminado por la evolución de índices, cestas de acciones o fondos\nu otros instrumentos elaboran fórmulas cada vez más complejas para\nel cálculo de la rentabilidad que se ofrece al partícipe. Aunque éstas\nse detallan en el folleto del fondo, es necesario poseer conocimientos\nmuy especializados para entenderlas.\nSin embargo, sí es posible aprender a distinguir algunas de las\nprincipales modalidades de cálculo de revalorización que se pueden\nencontrar en estos garantizados. Casi sin excepción, tales fórmulas\nlimitan de manera más o menos significativa la revalorización real\nque se puede obtener (en caso de que se obtenga alguna), pese a\nque los porcentajes de revalorización ofrecidos parezcan en principio\ncapaces de proporcionar elevados rendimientos. Es decir, en general\nal partícipe no le llega la totalidad de la revalorización que haya\nexperimentado el instrumento subyacente, sino un porcentaje que\ndependerá de la fórmula aplicada.\nDada la complejidad de muchas de estas estructuras, el inversor debe\nconsultar siempre el DFI. En este documento se incluyen simulaciones\nrealizadas por la gestora del fondo sobre distintos escenarios\n(desfavorable, moderado y favorable) en los que se muestran las\nprobabilidades de que el producto obtenga un rendimiento positivo,\nasí como el posible importe final garantizado a vencimiento en cada\nuno de ellos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nEstructuras más frecuentes en fondos garantizados\nEn el siguiente cuadro se exponen algunos de los mecanismos de cálculo\nde la revalorización del subyacente ofrecidos por este tipo de garantizados.\nLlamamos R a la revalorización, Vf al valor final del subyacente y Vi a su valor\ninicial.\nTipo de revalorización\nRentabilidad para el partícipe\nEstándar\nR = (Vf – Vi) / Vi\nSólo tiene en cuenta el valor inicial y final del\nsubyacente.\nLa revalorización es la misma que obtendría\nsi invirtiera directamente en el subyacente,\nsi bien no suele ofrecerse el 100% de la\nrevalorización, sino un porcentaje muy inferior\nRevalorización media de las observaciones\nmensuales\nLa revalorización del subyacente se calcula\ncomo la media aritmética de sus valores\nsemanales, mensuales, trimestrales, etc,\ndurante un periodo determinado.\nEl subyacente puede ser también un índice o\nuna cesta de valores.\nEs una fórmula muy utilizada por los fondos\ngarantizados.\nEste tipo de estructuras suele ofrecer\nmayor porcentaje de participación en la\nrevalorización, si bien la rentabilidad final\ndependerá también de la mayor o menor\nrevalorización del subyacente.\nRevalorización teniendo en cuenta\ncomo valor inicial el mayor valor en un\ndeterminado periodo\nEs frecuente que se utilicen fórmulas que\ntoman para el cálculo de la revalorización del\nsubyacente el mayor valor alcanzado por\nsu valor inicial a lo largo de un determinado\nperiodo de tiempo.\nCuanto mayor sea el periodo de observación\npara el cálculo del valor inicial, mayor será la\nprobabilidad de que el valor inicial sea más\nelevado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nRevalorizaciones con límites y condiciones\nSe basan en estructuras complejas. Existen\nnumerosas modalidades, entre las que\ndestacan:"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Límites a la revalorización (“techos”).\nAunque el subyacente registre un\ncrecimiento superior, se toma el límite\ncomo revalorización máxima para el\ncálculo de la rentabilidad."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "“Digitales”. Si el subyacente\nsupera un determinado nivel se\nasegura al partícipe un rendimiento\nfijo, independientemente de la\nrevalorización. En caso de no alcanzarse\nese nivel, no se obtiene ninguna\nrevalorización o ésta será mínima."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "El inversor debe tener en cuenta que los\n“techos” imitan la rentabilidad máxima\nque puede obtener."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Son condiciones que pueden tener\ndistintos efectos, positivos o negativos,\nsegún la estructura.\nRevalorización del peor valor\nLa revalorización está ligada a la evolución del\nvalor que peor haya evolucionado, de entre los\nincluidos en una cesta o conjunto de valores.\nLa composición de la cesta determina en\ngran medida las posibilidades de rentabilidad.\nSi está formada por un elevado número de\nvalores, o si éstos pertenecen a sectores muy\ndistintos (de manera que su comportamiento\nno tiene por qué ser parecido), aumentan\nlas posibilidades de que alguno registre una\nevolución negativa.\nIncrementos respecto al valor final\nR = (Vf – Vi) / Vf\nCuando el subyacente se revalorice, la\nrevalorización así calculada será menor que\nsi dicha revalorización se calculara respecto al\nvalor inicial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VII. Cómo elegir un"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "fondo de inversión"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cada fondo presenta diferentes características y niveles de riesgo, por lo\nque una vez que se opta por la inversión colectiva, es necesario estudiar con\ndetalle qué fondo concreto es más adecuado para las propias circunstancias\npersonales. Por tanto, deben realizarse dos tipos de análisis.\nDeterminación de la situación y objetivos personales.\nEs necesario tener claros aspectos como el riesgo de\npérdidas que se está dispuesto a asumir y el plazo durante\nel cual se desea mantener la inversión. La respuesta a estas\ncuestiones permitirá acotar el tipo de fondo que mejor se\nadapta a los objetivos personales de inversión.\nSelección del fondo. Entre la amplia gama de fondos\ndisponibles en nuestro país, para elegir uno concreto\nes necesario conocer determinadas características\nque se detallan en el folleto. Por eso la consulta de\neste documento, de entrega obligatoria antes de la\nsuscripción de las participaciones y que se puede obtener\nen las páginas web de las entidades y en la CNMV, es\nimprescindible para adoptar una decisión informada sobre\nla inversión a realizar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nPara elegir el fondo que mejor se adapta a los propios intereses y objetivos es\nconveniente tener en cuenta las siguientes cuestiones:\nPerfil de riesgo y política de inversión\nHorizonte temporal recomendado\nComisiones\nRentabilidades históricas\nPublicidad y mensajes comerciales\nPerfil de riesgo y política de inversión\nEl primer aspecto a considerar es la propia posición frente al riesgo.\nEl perfil de riesgo7 indica la capacidad del inversor de asumir pérdidas\nen la inversión realizada. En cualquier caso, debe tenerse en cuenta\nque suele existir una estrecha relación entre riesgo y rentabilidad. Para\nobtener rentabilidades superiores, en general, es necesario aceptar un\nnivel superior de riesgo.\nPor tanto, el partícipe debería orientar sus inversiones hacia aquellos\nfondos con nivel de riesgo adecuado a su propio perfil (riesgo bajo,\nmoderado o alto). Este dato viene incluido en el folleto, junto a las\ndemás características generales del fondo.\na)\na)\nb)\nc)\nd)\ne)"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Por motivos didácticos se simplifica el concepto de perfil de riesgo, que de manera\nestricta se encuentra determinado por otros muchos factores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\n¥ Los inversores con perfil de riesgo bajo tienen poca tolerancia a\nlas pérdidas, y pueden preferir obtener menores rentabilidades\na cambio de asegurar la preservación del capital. Con este\nenfoque, en general, resultarían más aconsejables algunos tipos\nde fondos de renta fija o fondos monetarios.\n¥ Los inversores con perfil de riesgo medio o moderado están\ndispuestos a asumir determinados niveles de pérdidas, a cambio\nde la posibilidad de obtener cierta rentabilidad. A grandes rasgos,\npodrían resultar indicados los fondos mixtos (renta fija y variable).\n¥ Los inversores con perfil de riesgo alto tienen poca aversión al\nriesgo. Sus expectativas de rentabilidad son elevadas y están\ndispuestos a aceptar fuertes pérdidas de capital. Pueden\ninvertir en todo tipo de fondos, incluyendo aquéllos que, a priori,\nincorporan mayores niveles de riesgo: fondos de renta variable\nde determinados sectores o países (tecnológicos, mercados\nemergentes...), fondos de inversión libre, etc.\nSi un inversor no tiene claro cuál es el perfil de riesgo que le\ncorresponde puede solicitar asesoramiento a su entidad financiera.\nLos intermediarios suelen contar con cuestionarios para determinar el\nperfil de riesgo de sus clientes, tanto en sus oficinas como a través de\nInternet.\nHorizonte temporal recomendado\nPor la naturaleza y tratamiento fiscal de este producto, resulta\naconsejable mantener la inversión en fondos durante un cierto periodo\nde tiempo. El folleto indica cuál es el horizonte recomendado para\ncada fondo concreto, en función de sus características: garantía,\nmercados en los que se invierte, naturaleza de las inversiones\nrealizadas... Por ejemplo, los fondos más volátiles exigirán horizontes\nsuperiores, ya que de esta forma el inversor dispondrá de margen para\nrecuperarse de las fases negativas de los mercados.\nb)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nEs importante que el capital invertido en un fondo pueda mantenerse\nal menos durante el horizonte recomendado para el mismo. En caso\ncontrario el inversor puede enfrentarse a algunas circunstancias que\nperjudiquen su rentabilidad:\n¥ Comisiones de reembolso. Algunos fondos establecen\ncomisiones de reembolso en función del tiempo de permanencia:\na medida que transcurre el tiempo la comisión se reduce o\nincluso desaparece, favoreciendo así a los inversores estables.\n¥ En los garantizados se aconseja mantener la inversión hasta\nel vencimiento de la garantía (generalmente entre uno y seis\naños). Si se reembolsa antes de esa fecha, además de afrontar\nla habitual comisión de reembolso, es posible perder parte del\ncapital invertido (si el valor liquidativo en ese momento es inferior\nal inicial).\nEn consecuencia, conviene destinar a la inversión en fondos una\ncantidad que no se prevea utilizar a corto plazo y que, en principio, se\npueda mantener durante todo el horizonte temporal recomendado.\nEsto exige de cada inversor una planificación previa de sus finanzas\npersonales según sus perspectivas de ingresos y gastos, gastos\nextraordinarios previstos, cantidad reservada para compromisos\ninesperados..."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nComisiones\nLas comisiones que cargan los fondos de inversión son otro elemento\nque deben tener en cuenta los inversores a la hora de elegir, ya que\npueden tener una incidencia significativa sobre la rentabilidad. Su\ncuantía y condiciones de aplicación se detallan de forma exhaustiva en\nel folleto del fondo8. Hay distintos tipos de comisiones:\n¥ Comisiones de gestión y depósito: son las que cobran la\ngestora y el depositario, respectivamente. Estas comisiones son\nimplícitas, es decir, ya están deducidas del valor liquidativo del\nfondo que se publica (puesto que se cargan directamente al\nfondo9).\nLa comisión de gestión puede establecerse en función del\npatrimonio, de los rendimientos o de ambas variables (debe\nconsultarse en el folleto la posibilidad de que se apliquen\ndistintas comisiones en función de la permanencia, etc.). Los\nlímites máximos son: el 2,25% si se calcula sobre el patrimonio, el\n18% si depende de los resultados, y en caso de que se empleen\nambos parámetros, no podrá exceder el 1,35% del patrimonio y el\n9% de los resultados.\nLa de depósito es la que cobran los depositarios por la\nadministración y custodia de los valores. No podrá superar el 2\npor mil anual del patrimonio.\n¥ Comisiones de suscripción y reembolso: pueden ser a favor\nde la gestora o del propio fondo (en este caso se denomina\ndescuento a favor del fondo). Son explícitas, es decir, se cargan\nal partícipe en el momento en que se realiza la suscripción\no el reembolso, como un porcentaje del importe suscrito o\nreembolsado (con un máximo del 5%) y deduciéndose del mismo.\nc)"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "También se deben recoger en el folleto los gastos adicionales que deban soportar los fondos\nde inversión debido a servicios prestados que resulten imprescindibles, y no relacionados\ncon las actividades de gestión y depositaría."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Existe una excepción al carácter implícito de la comisión de gestión: si el fondo carga\ncomisiones sobre resultados y se opta por un sistema de cargo individual, cada partícipe\npagará comisión en función del resultado de su inversión en el fondo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\n¥ Asimismo es posible que se cobren comisiones por cambiar la\ninversión de un compartimento a otro, dentro del mismo fondo.\nJunto a las comisiones, existen otros gastos que también tienen\nrepercusión en la rentabilidad final. Un concepto relevante, que puede\nencontrarse en el folleto si el fondo tiene historia suficiente, es el de\ngastos totales soportados por el fondo o TER10 (expresados como\nun porcentaje sobre el total del patrimonio del fondo). Los gastos\ntotales incluyen las comisiones de gestión y depositario, los servicios\nexteriores y otros gastos de explotación. Cuanto menor sea este\nporcentaje, mayor beneficio para los partícipes.\nUn fondo de inversión aplica distintas comisiones a las diferentes\nclases de participaciones que emita, en función de criterios como\nlas políticas de comercialización (diferentes comisiones si el fondo\nse suscribe por Internet, por teléfono o en una sucursal), el volumen\nde inversión (en general, a mayores volúmenes de inversión menores\ncomisiones), la divisa de denominación del fondo u otros parámetros.\nPor ejemplo, puede ocurrir que en un mismo fondo, una clase\nde participaciones (A) tenga una comisión de gestión alta y esté\nexenta de comisiones de suscripción y reembolso, mientras que\npara otra clase (B) la comisión de gestión sea más reducida pero\nse apliquen comisiones de suscripción y reembolso. Dependiendo\ndel plazo durante el que se espera mantener la inversión o de la\nintención de realizar reembolsos o suscripciones periódicas, será más\ninteresante la inversión en una clase de participaciones o en otra. Los\ninversores deben tener en cuenta este aspecto para elegir la clase de\nparticipaciones con la estructura de comisiones más conveniente."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "El término TER corresponde a las siglas de Total expenses ratio"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "(Ratio de gastos totales)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nRentabilidades históricas\nEl comportamiento de un fondo en el pasado es un elemento más a\nconsiderar a la hora de decidir, siempre que se tenga en cuenta que las\nrentabilidades obtenidas con anterioridad no aseguran una evolución\nsimilar en el futuro. Aunque el fondo mantenga la misma línea de\ngestión, el entorno económico está sometido a múltiples influencias\nque pueden alterar la tendencia de los mercados o de determinadas\nsociedades que en ellos cotizan y, en consecuencia, los rendimientos\nobtenidos. De ahí que la difusión de las rentabilidades históricas\nde los fondos vaya siempre acompañada de la advertencia de que\n“rentabilidades pasadas no garantizan rentabilidades futuras”.\nAdemás, para utilizar de forma adecuada esta información, disponible\na través de numerosas fuentes (periódicos y revistas económicas,\npáginas web de entidades financieras y de la CNMV, publicaciones\nestadísticas, etc.), es necesario observar otras cautelas:\n¥ Las rentabilidades deben ir siempre referidas a un determinado\nperiodo (trimestre, semestre, uno, tres o cinco años...). Al\ncomparar distintos fondos se deben contrastar las rentabilidades\ncorrespondientes a los mismos periodos.\n¥ Es relativamente habitual que los fondos modifiquen su política\nde inversión, cambiando por tanto de categoría y nivel de riesgo11.\nAl consultar los rendimientos pasados de un fondo debe tenerse\nen cuenta que las rentabilidades obtenidas con una política de\ninversión distinta de la actual pueden resultar poco significativas.\nPor tanto es importante conocer la antigüedad de la vocación\ninversora (el tiempo durante el que se lleva aplicando la actual\npolítica de inversión), y tener en cuenta sólo las rentabilidades\nregistradas a partir de ese momento.\nd)"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Modificaciones que son debidamente advertidas a los partícipes y\nque, en general, otorgan a estos un periodo de tiempo para que puedan\nabandonar el fondo sin tener que abonar comisión de reembolso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nPublicidad y mensajes comerciales\nLa publicidad cumple la función de dar a conocer a los inversores\nla oferta de productos y servicios financieros de las entidades.\nComo es lógico, a través de la publicidad las empresas intentan\npresentar sus productos de la forma más atractiva posible. Este\nplanteamiento hace que en ocasiones las posibles desventajas o\nlimitaciones no se mencionen, o se incluyan de manera tal que pasen\nprácticamente desapercibidas. Además, algunos de los elementos\nhabitualmente utilizados en la publicidad, si no van acompañados por\nlas advertencias precisas, pueden generar expectativas poco realistas\nen los inversores.\nPor eso es muy importante que el inversor valore de forma crítica la\npublicidad. Debe tenerse en cuenta que, por su propia naturaleza, los\nmensajes comerciales no pueden incluir toda la información precisa\npara determinar si el producto se adapta o no a sus necesidades y\npreferencias. En consecuencia:\n¥ No debe tomarse ninguna decisión de inversión sin consultar\nantes el folleto y el DFI, en el que se recogen todas las\ncaracterísticas relevantes del fondo.\n¥ El folleto y demás documentación legal (informes periódicos...)\nestán a disposición del público en las oficinas de las entidades\nintermediarias y en la página web de la CNMV.\nEl inversor debe consultar a su entidad financiera cualquier duda\nen relación con las características y riesgos de los fondos que le\ninteresen. Sin embargo, es habitual que los intermediarios sólo\ndispongan de información sobre los fondos que comercializan (a\nmenudo los de su propio grupo financiero), y en particular sobre\naquellos que se encuentran en fase de lanzamiento. En último\ntérmino, el inversor es quien mejor conoce sus propias necesidades y\nexpectativas, por lo que es importante que adopte una actitud activa\nal elegir un fondo y analice si los que se le están ofreciendo resultan\nadecuados a su perfil y a su horizonte temporal de inversión.\ne)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nPor otra parte, si un inversor considera que una publicidad no es\nlo suficientemente clara o contiene elementos potencialmente\nengañosos, puede ponerlo en conocimiento de la Comisión Nacional\ndel Mercado de Valores a través del correo electrónico\npublicidad@cnmv.es"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VIII. Operativa de"
+    },
+    {
+      "type": "paragraph",
+      "text": "las suscripciones,"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "los reembolsos y los"
+    },
+    {
+      "type": "paragraph",
+      "text": "traspasos\nLa operativa con fondos de inversión es muy sencilla. Sin embargo, es\nconveniente explicar algunos términos y procedimientos para que los\ninversores conozcan qué posibilidades tienen a la hora de invertir o desinvertir\nen un fondo de inversión, qué problemas pueden surgir y cómo afrontarlos en\nla práctica.\nSuscripción de participaciones\nReembolso de participaciones\nTraspasos\na)\nb)\nc)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nSuscripción de participaciones\nLa inversión en un fondo se hace mediante la suscripción de\nparticipaciones: las gestoras emiten las participaciones necesarias\npara hacer frente a las solicitudes de suscripción. Cada inversor\nobtiene un número de participaciones que es el resultado de dividir el\nimporte invertido entre el valor liquidativo aplicable a la operación.\nEl valor liquidativo aplicable puede ser el del mismo día de la solicitud\n(que se publicará al día siguiente) o el del día siguiente a la solicitud\n(publicado dos días después), según se prevea en el folleto del fondo.\nConviene recordar que algunos fondos están sujetos a comisiones de\nsuscripción que pueden llegar hasta el 5% del importe invertido.\nEjemplo\nLa señora Gómez decide invertir 1.000 euros en el Fondo AAA. El\nfolleto de este fondo indica que se aplicará el valor liquidativo del\ndía siguiente a la solicitud. Existe una comisión de suscripción del\n5%.\nLa señora Gómez formaliza la solicitud de suscripción en su\nentidad financiera el día 3 de octubre. Por tanto en este caso,\nsegún lo establecido en el folleto, la operación se realizará al valor\nliquidativo del día 4 de octubre, que se hará público el día 5.\nTras los cálculos realizados por la Gestora, el valor liquidativo del\n4 de octubre es de 10 euros: cada participación adquirida ese\ndía cuesta 10 euros. Así, la señora Gómez podría obtener 100\nparticipaciones.\na)\nNÚMERO DE PARTICIPACIONES =\nIMPORTE INVERTIDO / VALOR LIQUIDATIVO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nSin embargo, la comisión de suscripción (1.000 x 5% = 50 euros)\nreduce la cantidad disponible para invertir a 950 euros, por lo\nque la inversión de la señora Gómez le proporciona en realidad 95\nparticipaciones (950 / 10).\nA continuación se detallan algunas cuestiones prácticas relacionadas\ncon la suscripción de participaciones:\nEntidades comercializadoras\nPueden adquirirse participaciones de fondos de inversión a través de\nintermediarios financieros como bancos, cajas de ahorros, sociedades\nde valores, etc. En principio las sociedades gestoras también pueden\ncomercializar sus fondos, bien de forma directa o a través de agentes\no apoderados; sin embargo es más frecuente que lo hagan a través\nde los intermediarios mencionados (entidades de crédito y empresas\nde servicios de inversión). A su vez, es fácil encontrar entidades que\nvenden fondos de distintas gestoras, además de los pertenecientes a\nsu grupo financiero.\nCanales de contratación\nSe pueden suscribir participaciones de un fondo en las sucursales de\nlas entidades financieras, por teléfono, por Internet e incluso a través\nde agentes que actúan en nombre y por cuenta de la entidad. Si se\nutiliza esta última modalidad, nunca se le debe entregar el efectivo\nal agente ni firmar cheques a su nombre: el importe se hará llegar\ndirectamente a la cuenta del fondo de inversión en el depositario.\nExigencia de cuenta corriente\nEs frecuente que las entidades financieras exijan la apertura de una\ncuenta corriente (nunca una cuenta de valores, que no es necesaria\ncuando se trata de fondos de inversión) para canalizar los movimientos\nderivados de la suscripción y reembolso de participaciones. El objetivo\nes mejorar la eficacia operativa, pero no se trata de una obligación"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nlegal, por lo que en ningún caso estas cuentas corrientes pueden llevar\naparejadas comisiones de apertura, mantenimiento o cancelación para\nel cliente, salvo que también se utilicen para operativa ajena al fondo\nde inversión.\nInversión mínima de entrada\nAlgunos fondos no admiten inversiones por debajo de una\ndeterminada cantidad (que viene establecida en el folleto). En\nocasiones se trata de cantidades significativas y su conocimiento es\nespecialmente relevante cuando la suscripción es consecuencia de\nun traspaso, ya que si éste se ordena por una cantidad inferior a la\ninversión mínima la suscripción no llegará a formalizarse y el reembolso\nprevio podría tener efectos para el partícipe.\nDocumentación a entregar.\nLas entidades comercializadoras están obligadas a entregar\nde forma gratuita a los clientes el documento con datos\nfundamentales para el inversor (DFI) del fondo, antes llamado\nfolleto simplificado, y el último informe semestral publicado12,\nantes de la suscripción y con independencia del canal utilizado\npara la venta (presencial, teléfono, Internet...). En el siguiente capítulo\nse resumen todas las informaciones esenciales que se recogen en el\nfolleto, por lo que su consulta previa es imprescindible para valorar la\nidoneidad de la inversión."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Además, si el cliente lo solicita expresamente se le proporcionarán los\núltimos informes anuales y trimestrales publicados y el folleto completo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nReembolso de participaciones\nPara deshacer la inversión en un fondo es necesario reembolsar las\nparticipaciones a un determinado valor liquidativo (el que corresponda\na la fecha en que se solicita el reembolso).\nLa determinación del valor liquidativo aplicable a los reembolsos se\nrealiza de la misma manera que para las suscripciones: será el del día\nde la solicitud o el del día siguiente (según lo que establezca el folleto).\nAsimismo es habitual que los folletos recojan lo que se denomina “hora\nde corte”: las solicitudes recibidas a partir de esa hora se consideran\nrealizadas al día hábil siguiente, a efectos de valor liquidativo aplicable.\nCon carácter general, el depositario hará efectivo el pago del\nreembolso al partícipe en un plazo máximo de tres días hábiles,\ncontados desde la fecha del valor liquidativo que resulte aplicable.\nExcepcionalmente este plazo se podrá ampliar hasta cinco días\nhábiles.\nSi existe comisión de reembolso se calculará sobre el importe total de\nla operación y detraída del mismo. Esta comisión puede llegar hasta el\n5% del importe reembolsado.\nEjemplo\nContinuando con el ejemplo anterior, al cabo de seis meses, el día\n3 de abril a las 13:15 de la mañana, la señora Gómez reembolsa sus\n950 participaciones. El folleto del fondo fijaba como hora de corte\nlas 12:00 de la mañana. Puesto que la solicitud de reembolso\nse ha realizado después de la hora de corte, a efectos de valor\nliquidativo aplicable la solicitud se considera presentada el día\nsiguiente, el 4 de abril.\nEl valor liquidativo aplicable resulta ser de 11, por lo que en\nprincipio el importe a reembolsar sería de 1.045 euros (950 x 11).\nb)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nSin embargo, el folleto del Fondo AAA establece que si el partícipe\nreembolsa durante el primer año de permanencia en el fondo se\naplicará una comisión de reembolso del 5% (en este caso 52,25\neuros = 1.045 x 5%).\nPor tanto la cantidad que en realidad obtiene la señora Gómez,\nantes de aplicar la retención fiscal, es de 992,75 euros en lugar de\n1.045 euros.\nNÚMERO DE PARTICIPACIONES x VALOR LIQUIDATIVO =\nIMPORTE REEMBOLSADO"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nEs importante tener en cuenta los siguientes aspectos prácticos\nrelacionados con el reembolso de participaciones:\nInversión mínima a mantener.\nEn ocasiones los fondos exigen el mantenimiento de una inversión\nmínima para poder conservar la condición de partícipe. Este dato, que\ntambién se encuentra en el folleto, es muy relevante para el inversor\nporque si en un momento dado deseara efectuar un reembolso o\ntraspaso parcial, y como consecuencia el valor de la inversión o el\nnúmero de participaciones que se mantienen en el fondo quedaran\npor debajo del “mínimo a mantener”, la gestora podrá llevar a cabo el\nreembolso total de sus participaciones.\nPreavisos\nLas gestoras podrán exigir preavisos de hasta 10 días para aquellas\nsolicitudes de reembolso superiores a 300.000 euros.\nTraspasos\nUn traspaso no es más que el reembolso de un fondo de inversión\ny la inmediata suscripción de otro, conservando la antigüedad de la\nprimera inversión a efectos fiscales. Esto significa que las plusvalías no\ntributan mientras no se produzca el reembolso definitivo.\nLos traspasos pueden producirse entre fondos de la misma gestora o\nbien entre fondos de distintas gestoras.\nEl primer caso es el más sencillo, ya que la entidad de destino y la de\norigen son la misma, lo que simplifica los trámites de comprobación.\nEl partícipe tiene que dirigirse a la entidad y solicitar el traspaso\nc)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nentre los dos fondos de inversión, indicando el importe o número\nde participaciones que desea traspasar. En un máximo de tres días\nhábiles debería estar materializada la inversión en el fondo de destino.\nCuando los fondos son de gestoras diferentes el procedimiento es algo\nmás complejo, y en circunstancias normales podría durar en torno a\nocho días hábiles. Los pasos a seguir son los siguientes:\n¥ El partícipe debe dirigirse a la entidad de destino para solicitar el\ntraspaso, identificando el fondo de origen y el importe o número\nde participaciones que desea reembolsar. Para evitar que se\nproduzcan errores, es recomendable entregar a la entidad de\ndestino un extracto de la posición en el fondo de origen, ya que\nen el mismo figura toda la información necesaria para identificar el\nfondo del que se va a desinvertir.\n¥ La entidad de destino tiene un día hábil para enviar la solicitud de\ntraspaso a la entidad de origen.\n¥ La entidad de origen dispone, como máximo, de dos días hábiles\npara realizar las comprobaciones que necesite.\n¥ Una vez que la entidad de origen ha comprobado que la solicitud de\ntraspaso es correcta, deberá proceder al reembolso del fondo de\norigen. Éste se realizará en un máximo de tres días hábiles.\n¥ A continuación la entidad de origen enviará a la de destino el\nimporte reembolsado mediante transferencia bancaria y la\ninformación fiscal del partícipe, lo que suele llevar dos días hábiles\ncomo máximo.\n¥ Cuando el capital llega a la entidad de destino, se realiza\nautomáticamente la suscripción de las participaciones en el nuevo\nfondo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nNo existen comisiones por traspaso de un fondo a otro. Sin embargo, el\ntraspaso implica un reembolso y una suscripción, por lo que el inversor\npodría tener que hacer frente a las correspondientes comisiones, si así\nlo prevén los folletos de los fondos implicados.\nAunque los traspasos más frecuentes se dan entre fondos de inversión\nmobiliaria, también pueden realizarse traspasos desde y hacia otro\ntipo de instituciones de inversión colectiva: fondos extranjeros sujetos\na la normativa europea (la mayoría de los registrados en la CNMV\npara su comercialización en España), fondos de inversión inmobiliaria,\nsociedades de inversión (SICAV)... Las características específicas de\nlas instituciones implicadas pueden afectar a los costes y a los plazos\ndel traspaso. Por ejemplo, si sólo es posible realizar suscripciones y\nreembolsos en fechas determinadas (como en fondos inmobiliarios),\no si la transferencia de capital e información ha de realizarse entre\ndistintos países (entidades no domiciliadas en España)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "IX. ¿Por qué es"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "importante consultar el"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "folleto del fondo?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El folleto es un documento oficial cuyo contenido viene establecido por la\nnormativa, y es objeto de registro en la Comisión Nacional del Mercado de\nValores. Las entidades comercializadoras están obligadas a entregarlo\na sus clientes, en su formato DFI, antes de la suscripción de las\nparticipaciones, cualquiera que sea el canal que se emplee para la venta\n(presencial, telefónico, Internet, etc.). Asimismo, el inversor siempre podrá\nobtener el folleto de los fondos de los que sea partícipe en las propias\nentidades financieras, en sus páginas web y en la CNMV.\nEn los capítulos anteriores se han hecho numerosas referencias a las\ninformaciones que pueden encontrarse en el folleto de un fondo de inversión.\nEl conocimiento de las mismas es imprescindible para adoptar una decisión\ninformada y evitar las consecuencias negativas de una inversión no adecuada\na la situación y expectativas personales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nAunque a primera vista algunos apartados del folleto puedan parecer\ncomplejos, no es difícil localizar aquellas informaciones esenciales para\nel futuro partícipe. En caso de dudas sobre su contenido o alcance, debe\nconsultar siempre al intermediario o a la CNMV. Como resumen de los\ncapítulos anteriores, es necesario comprobar en el folleto los siguientes datos:\nCaracterísticas generales del fondo"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Perfil de riesgo",
+        "Inversión mínima inicial",
+        "Inversión mínima a mantener",
+        "Duración mínima recomendada de la inversión",
+        "Periodo de comercialización (garantizados)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Suscripciones y reembolsos"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Valor liquidativo aplicable a suscripciones y reembolsos",
+        "Hora de corte",
+        "Preavisos (para el reembolso)",
+        "Frecuencia de cálculo del valor liquidativo",
+        "Lugares de publicación del valor liquidativo"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Política de inversión"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Categoría del fondo, tipos de activos en los que se piensa"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "invertir"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Objetivo de gestión (garantía, objetivo de rentabilidad no"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "garantizado...)"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "En fondos garantizados, características principales de la"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "garantía"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nGarantía de rentabilidad (sólo para fondos garantizados)"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Alcance y circunstancias condicionantes de la garantía",
+        "Fecha de vencimiento de la garantía",
+        "Fórmulas de cálculo de la posible revalorización",
+        "TAE garantizada, si es posible su cálculo"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Comisiones"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Comisiones aplicadas",
+        "Base para el cálculo de las comisiones (patrimonio,"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "resultados...)"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Otras condiciones para la aplicación de comisiones"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "(tramos de permanencia, ventanas de liquidez...)"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Límite máximo de las comisiones (para cada"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "compartimento y clase de participación)\nCuando el fondo lleve cierto tiempo de funcionamiento, en el folleto se\nincluirá asimismo un Anexo en el que se puede encontrar información sobre\nlas rentabilidades obtenidas en el pasado, así como sobre los gastos totales\nsoportados por el fondo (TER).\nLos contenidos del folleto deben estar actualizados en todo momento.\nCuando las modificaciones introducidas suponen una variación sustancial\nen las características del fondo, la gestora ha de otorgar a los partícipes\nderecho de separación (posibilidad de abandonar el fondo sin pagar\ncomisión de reembolso). Entre los supuestos que obligan a otorgar al partícipe\nel derecho de separación se encuentran la modificación de la política de\ninversión, el establecimiento o elevación de comisiones, modificaciones en las\ncondiciones de la garantía... Si los cambios sólo afectan a uno o varios de los\ncompartimentos, el derecho de separación sólo se reconoce a los partícipes\nde los compartimentos afectados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "X. Seguimiento de la"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "inversión en fondos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Puede realizarse principalmente a través de varias fuentes:\nDocumentación remitida por la sociedad gestora o el depositario.\nLa normativa obliga a proporcionar a los partícipes determinadas\ninformaciones periódicas que les permitan conocer la evolución de sus\ninversiones.\nInformación facilitada a través de la página web de la gestora o el\ncomercializador (valor liquidativo diario, rentabilidades, comisiones,\netc.)\nMedios de información financiera. Es habitual la divulgación de datos\nsobre fondos de inversión (rentabilidad, volatilidad, comisiones, etc.)\nen periódicos, portales de Internet y otros medios de difusión. Algunos\nofrecen clasificaciones en función de diversos parámetros.\nPor lo que se refiere a la documentación remitida por la gestora o el\ndepositario, cabe mencionar:\n¥ Informes periódicos: anual, semestral y trimestral. Incluyen\ninformación sobre la composición de la cartera y la evolución de su\nvalor, la distribución del patrimonio, etc.\nAntes de la suscripción de las participaciones, junto al folleto del\nfondo, es obligatoria la entrega del último informe semestral. Este\nha de ser enviado cada semestre al domicilio de cada partícipe.\nTambién es preceptivo el envío del informe anual. Si el inversor desea\ninformación más frecuente, puede solicitar la remisión gratuita del\ninforme trimestral. También puede optar por recibir toda la información\na través del correo electrónico."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nTanto los informes (anual, semestral y trimestral) como los folletos (DFI\ny completo) estarán a disposición del público en las oficinas y en las\npáginas web de las gestoras, los intermediarios financieros y CNMV.\n¥ Estado de posición en el fondo.\nLa sociedad gestora o el depositario deben remitir a cada partícipe un\nestado que indique su posición en el fondo al final del año. Además, el\npartícipe puede solicitar que se le envíe por correo electrónico.\nSi no ha habido operaciones, el estado de posición contendrá\nel número de participaciones y el valor liquidativo a la fecha de\nreferencia. En caso contrario, se indicarán los datos de las operaciones\nrealizadas (fecha, número de participaciones suscritas o reembolsadas,\nvalor liquidativo aplicado, importe bruto, importe neto de comisiones,\nsaldo de participaciones resultante tras la operación con su valor\nefectivo y porcentaje que representa sobre el patrimonio del fondo).\n¥ Aviso de modificaciones relevantes y derecho de separación.\nLa gestora está obligada a enviar a los partícipes una comunicación\ninformando de aquellos cambios que modifiquen características\nrelevantes del fondo. En la misma se hará referencia al otorgamiento\ndel consiguiente derecho de separación y al plazo para su ejercicio\n(normalmente un mes). Se puede ejercer de la forma que más interese\nal partícipe: mediante reembolso o traspaso de las participaciones,\nde forma total o parcial y siempre sin deducción de comisión de\nreembolso ni gasto alguno. Es muy importante que los inversores\nestén atentos a las comunicaciones recibidas, ya que el transcurso\ndel plazo sin manifestación expresa de su voluntad conlleva la pérdida\nde este derecho, de manera que el inversor tendrá que optar entre\npermanecer en un fondo con nuevas características o reembolsar\nasumiendo en su caso las comisiones aplicables."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "XI. Otros tipos de"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Instituciones de"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Inversión Colectiva"
+    },
+    {
+      "type": "paragraph",
+      "text": "Existen distintos criterios para clasificar la gama de instituciones de inversión\ncolectiva recogida en nuestra legislación. Según la forma jurídica se distingue\nentre fondos y sociedades; la naturaleza de las inversiones determina que una\ninstitución sea financiera o no financiera... Hasta ahora se ha hecho referencia\nexclusiva a los fondos de inversión mobiliaria (FI), por ser el producto más\nextendido entre los inversores particulares.\nSin embargo, existen otros tipos de instituciones de inversión colectiva que\npresentan ciertas peculiaridades en relación con el régimen general descrito\nen los anteriores capítulos:\nSociedades de inversión mobiliaria (SICAV)\nFondos cotizados\nFondos de inversión libre y fondos de fondos de inversión libre\nInstituciones de inversión colectiva extranjeras\na)\nb)\nc)\nd)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nSociedades de inversión mobiliaria (SICAV)\nSe diferencian de los fondos de inversión en que los primeros son\nsimplemente un patrimonio en el cual cada ahorrador se convierte\nen un partícipe de dicho fondo. En cambio, las SICAV son sociedades\nanónimas y los ahorradores que aportan su dinero se convierten en\naccionistas. Las SICAV pueden autogestionarse o encargar su gestión a\nuna sociedad gestora de instituciones de inversión colectiva (SGIIC).\nAl igual que los fondos de inversión, las SICAV también pueden tener\ncompartimentos con distintas políticas de inversión y emitir diferentes\nseries de acciones con su propio régimen de comisiones.. Las acciones\nde las SICAV pueden negociarse en bolsas de valores o sistemas\nmultilaterales de negociación o se puede invertir en ellas mediante\nun procedimiento similar a la suscripción y reembolso de fondos de\ninversión.\nFondos cotizados\nLos fondos cotizados o ETFs (“exchange traded funds”) son aquellos\ncuyas participaciones se negocian en bolsas de valores. Su política de\ninversión consiste en reproducir la evolución de índices bursátiles o de\nrenta fija, o incluso de valores cotizados.\nLa negociación bursátil de las participaciones permite al inversor\nconocer en todo momento cuál es el valor liquidativo. Se podría por\ntanto comprar y vender varias veces al día, a precios diferentes según\nla evolución del índice o acción. En definitiva, la operativa sería similar a\nla compra y venta de acciones en bolsa, con las consiguientes ventajas\nde liquidez, transparencia e inmediatez.\nFondos de inversión libre y fondos de fondos de inversión libre\nLos fondos de inversión libre (FIL) y los fondos de fondos de\ninversión libre (IICIICIL) son fondos de inversión que se gestionan\nmediante estrategias y técnicas en general sofisticadas y presentan\nb)\na)\nc)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\ncaracterísticas y riesgos difíciles de comprender para el inversor\nparticular.\nLos fondos de fondos de inversión libre se conciben, en principio,\ncomo un producto accesible para el inversor particular, mientras que\nlos fondos de inversión libre se comercializan a clientes profesionales y\nclientes que inviertan al menos 100.000 euros.\nLos fondos de inversión libre también se conocen como fondos de\ninversión alternativa o hedge funds. No están sujetos a las restricciones\nde inversión establecidas para la mayor parte de los fondos: pueden\ninvertir en cualquier tipo de activo, seguir la estrategia de inversión\nque consideren más apropiada y endeudarse en mayor medida que el\nresto de los fondos (hasta varias veces su patrimonio). En general son\nproductos poco líquidos, ya que tienen la posibilidad de permitir los\nreembolsos sólo cada tres o seis meses.\nPor tanto, la inversión en fondos de inversión libre puede llevar\naparejada significativos niveles de riesgo. Debido a sus especiales\ncaracterísticas, se dirigen a clientes profesionales (bancos,\naseguradoras, fondos de pensiones...), o clientes no profesionales pero\ncon una inversión mínima de 100.000 euros y dejando constancia por\nescrito de que se conoce los riesgos de la inversión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nLos fondos de fondos de inversión libre son instituciones de\ninversión colectiva concebidas para que los inversores particulares\npuedan acceder a los productos de inversión alternativa. No invierten\ndirectamente en valores, sino en otros fondos de inversión, que han de\nser, en su mayoría, fondos de inversión libre.\nLa libertad de que gozan para decidir sus estrategias permite acceder\na nuevas oportunidades de inversión, pero también suele implicar\nmayores niveles de riesgo. El valor de la inversión puede variar de\nforma significativa a lo largo del tiempo, y el rendimiento no tiene\npor qué estar ligado a la evolución de los mercados de valores.\nEn general, son menos líquidos que los fondos tradicionales. Esto\ntiene implicaciones prácticas tanto por lo que se refiere al cálculo y\npublicación del valor liquidativo como al régimen de reembolsos:\n¥ Valor liquidativo: el precio de la participación podrá publicarse\ncon una periodicidad de tres o incluso seis meses (aunque en la\npráctica es posible que muchos fondos opten por una frecuencia\nmensual).\n¥ Reembolsos: al igual que ocurre con el valor liquidativo, pueden\npermitir los reembolsos sólo cada tres o seis meses.\nAdemás, tienen libertad para fijar sus comisiones, ya que no les\nresultan aplicables los límites máximos establecidos para los fondos\ntradicionales. Antes de contratar un fondo de fondos de inversión\nlibre, el inversor debe firmar un documento en el que declara haber\nsido informado de todos los riesgos inherentes al producto. La entidad\nestá obligada a entregar una copia firmada al partícipe. Es aconsejable\nconservarla junto con el DFI (documento con datos fundamentales\npara el inversor) y la orden de suscripción mientras se mantenga la\ncondición de partícipe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\nInstituciones de inversión colectiva extranjeras\nEn España también se comercializan fondos y sociedades de inversión\nextranjeras entre inversores minoristas. Estas instituciones extranjeras\npueden estar sometidas a la normativa de la Unión Europea-\nDirectiva 2009/65/CE- (instituciones armonizadas) o no estarlo (no\narmonizadas).\nLos intermediarios financieros autorizados pueden vender libremente\nen España las armonizadas (siempre que tanto la institución como la\nentidad comercializadora estén inscritas en los registros de la CNMV),\npor lo que también son una alternativa de inversión colectiva para el\ninversor español.\nTambién es posible comercializar instituciones no armonizadas en\nEspaña, previa autorización expresa de la CNMV y tras la inscripción\nen los registros públicos de este organismo, pero son un tipo de\ninstitución con menor presencia en el mercado español.\nMuchas instituciones extranjeras calculan su valor liquidativo con\nperiodicidad quincenal, mensual o superior. En estos casos, el valor\nliquidativo aplicable a las suscripciones y reembolsos será el primero\nque se calcule con posterioridad a la solicitud de la operación.\nd)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "XII. Cuestiones a"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "considerar sobre los"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "fondos de inversión"
+    },
+    {
+      "type": "paragraph",
+      "text": "¥ Los fondos garantizados presentan determinadas características que han\nde ser tenidas en cuenta, ya que pueden no resultar adecuados para todos\nlos inversores:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Sólo tienen seguridad de preservar su capital los partícipes que"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "mantengan su inversión hasta la fecha de vencimiento de la\ngarantía. Las participaciones que se reembolsen antes o después\nde ese momento no están garantizadas, por lo que es posible\nregistrar pérdidas. Es importante, en la medida de lo posible,\nque el horizonte temporal del inversor coincida con el plazo\nestablecido por el fondo para la efectividad de la garantía."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "En los fondos garantizados que disponen de “ventanas de"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "liquidez” el partícipe podrá reembolsar su inversión en estas\nfechas sin que le cobren comisión de reembolso, pero sin\nbeneficiarse de la garantía. Además, se deberá tener muy en\ncuenta la existencia de plazos de preaviso para poder acogerse a\nesta posibilidad de reembolso sin comisión."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Antes del vencimiento de la garantía la gestora debe enviar a"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "los partícipes una carta comunicando este hecho y los cambios\nque se van a producir en el fondo. Si al inversor no le interesa\nmantener su participación con las nuevas condiciones dispondrá\nde un período en el que podrá reembolsar su inversión sin\ncomisiones (derecho de separación gratuito). Aunque esta\ncomunicación es obligatoria, es conveniente que el partícipe se\nmantenga atento a la fecha de vencimiento de la garantía, para\npoder valorar con tiempo la actuación a seguir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Es importante recordar que no todos los fondos garantizados"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "aseguran una rentabilidad. Hay que distinguir entre los que\ngarantizan el capital invertido y una determinada rentabilidad\npredeterminada (fondos garantizados de renta fija) y los que sólo\ngarantizan el capital invertido y ofrecen la posibilidad de obtener\nuna rentabilidad (los denominados fondos garantizados de\nrendimiento variable).\n¥ Los mensajes comerciales y la publicidad no pueden incluir toda la\ninformación precisa para conocer un fondo de inversión, por lo que no\ndebe tomarse ninguna decisión sin consultar previamente el folleto, donde\nse recogen las principales características del fondo.\n¥ Las entidades comercializadoras están obligadas a entregar de forma\ngratuita a los clientes el DFI y el último informe semestral antes de suscribir\nun fondo. Después de la suscripción, el partícipe podrá encontrar estos\ndocumentos en las propias entidades financieras, en sus páginas web y en\nla web de la CNMV.\n¥ Si se suscribe un fondo de inversión a través de un agente financiero,\nnunca se le debe entregar el efectivo ni firmar cheques a su nombre.\n¥ Si la entidad financiera exige la apertura de una cuenta corriente para\ncontratar un fondo de inversión, no podrá cobrar al cliente comisiones de\napertura, mantenimiento ni cancelación, salvo que la cuenta se utilice para\noperativa ajena al fondo.\n¥ La posibilidad de que un fondo exija una inversión mínima inicial debe ser\ntenida en cuenta, sobre todo al realizar un traspaso: si éste se ordena por\nun importe inferior a la inversión mínima inicial, la suscripción no llegará a\nformalizarse y el reembolso previo podría implicar efectos fiscales para el\npartícipe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Los fondos de inversión y la inversión colectiva\n¥ De igual forma, es relevante conocer la inversión mínima a mantener: si en\nun momento dado el partícipe deseara efectuar un reembolso o traspaso\nparcial de su inversión en el fondo, y como consecuencia el valor de la\ninversión quedara por debajo del “mínimo a mantener”, la gestora podría\nllevar a cabo el reembolso total de sus participaciones.\n¥ No existen comisiones por traspaso entre fondos de inversión, pero\nel partícipe sí estaría sujeto al pago de comisiones de reembolso y\nsuscripción si así lo prevén los folletos de los fondos.\n¥ En España, los inversores particulares pueden acceder a la inversión\nalternativa o “hedge funds” a través de los fondos de fondos de inversión\nlibre. Se debe tener en cuenta que son fondos con unas características\nespeciales (gran libertad de elección de activos, posibilidad de\napalancamiento, menor liquidez) que exigen un determinado perfil de\ninversor y un conocimiento pleno de los riesgos.\n¥ Los fondos son productos de inversión, por lo que siempre llevan asociado\nalgún tipo de riesgo. La posibilidad de sufrir pérdidas será mayor o menor\nsegún la política de inversión del fondo, pero no debe nunca descartarse\npor completo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contáctanos por email\nEsta guía tiene como finalidad informar al público en general sobre distintos\naspectos relacionados con los mercados de valores. Por su naturaleza divulgativa\nno puede constituir un soporte para posteriores interpretaciones jurídicas, siendo\nla normativa vigente la única de aplicabilidad para estos fines."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "información?"
+    },
+    {
+      "type": "paragraph",
+      "text": "www.cnmv.es"
+    }
+  ],
+  "text": "Los fondos de inversión y la inversión colectiva\nLos fondos de \ninversión y la \ninversión\ncolectiva\nGuía\n\nLos fondos de inversión y la inversión colectiva\nÍndice\nIntroducción\nConceptos básicos para \nentender los fondos de\ninversión\nCómo se determina la \nrentabilidad de un fondo \n¿Tienen riesgos los fondos\nde inversión? \nTipos de fondos\nLos fondos garantizados\nCómo elegir un fondo de \ninversión\nOperativa de las suscripciones, \nlos reembolsos y los traspasos \n¿Por qué es importante \nconsultar el folleto del fondo?\nSeguimiento de la \ninversión en fondos\nOtros tipos de Instituciones de \nInversión Colectiva\nCuestiones a considerar \nsobre fondos de inversión\n\nLos fondos de inversión y la inversión colectiva\nI. Introducción\nLos fondos de inversión iniciaron su andadura en España a mediados de \nlos 60. Desde entonces, se han configurado como uno de los productos \npreferidos por los inversores españoles. Existe una tipología de fondos \nextraordinariamente variada, que permite encontrar productos adecuados \npara cualquier perfil inversor, desde los más conservadores a los más \ndispuestos a asumir riesgos.\nLa complejidad de los mercados no sólo pone en un primer plano las \nresponsabilidades de los profesionales sino también las de los inversores, que \nhan de asumir un papel activo en la selección del fondo que mejor se adapta \na sus expectativas. Antes de suscribir participaciones de un fondo concreto \nes fundamental conocer aquellas características que resultan esenciales para \ntomar una decisión de inversión, como el horizonte temporal, la liquidez del \nproducto o el riesgo de pérdidas, entre otras. Con este fin es imprescindible \nque los inversores conviertan en un hábito la consulta de la documentación \noficial, especialmente el DFI (documento con datos fundamentales para el \ninversor) y los informes periódicos.\nLos fondos de \ninversión y la \ninversión\ncolectiva\n\nLos fondos de inversión y la inversión colectiva\nII. Conceptos básicos \npara entender los fondos \nde inversión\nLos fondos de inversión son instituciones de inversión colectiva: esto \nimplica que los resultados individuales están en función de los rendimientos \nobtenidos por un colectivo de inversores.\nEn realidad, un fondo de inversión es un patrimonio sin personalidad jurídica. \nEste patrimonio se forma por la agregación de los capitales aportados por un \nnúmero variable de personas (los partícipes). \nPuesto que carece de personalidad jurídica, el fondo de inversión se \n“relaciona” con el entorno (partícipes, intermediarios, mercados) a través de \nuna sociedad gestora y una entidad depositaria. Las funciones de ambas \nestán claramente definidas: \n¥ La sociedad gestora adopta las decisiones de inversión y ejerce \ntodas las funciones de administración y representación del fondo. Por \ntanto, es la sociedad gestora quien invierte el capital aportado por \nlos ahorradores (partícipes) en los distintos activos financieros que \nconstituyen la cartera del fondo: renta fija, renta variable, derivados, \ndepósitos bancarios, etc. Entre otras obligaciones, la gestora debe \nelaborar un folleto y el DFI en el que se recogen las características del \nfondo, como se irá viendo a lo largo de esta Guía.\n¥ La entidad depositaria custodia el patrimonio del fondo (valores, \nefectivo) y asume ciertas funciones de control sobre la actividad de la \ngestora, en beneficio de los partícipes.\n\nLos fondos de inversión y la inversión colectiva\nLa unidad de inversión es la participación. Su precio o valor de mercado es \nel valor liquidativo, que se calcula dividiendo el patrimonio total del fondo por \nel número de participaciones en circulación en cada momento. El manejo de \nestos conceptos se detalla en el siguiente capítulo: “Cómo se determina la \nrentabilidad de un fondo”.\nEjemplo 1\nEl 1 de enero comienza a funcionar el Fondo de Inversión XXX, con \ncuatro partícipes: el señor A, el señor B, la señora C y la señora D. Cada \nuno aporta 100 euros, con lo cual el fondo inicia su andadura con un \npatrimonio inicial de 400 euros. En este caso, cada uno de los inversores \nes titular de una participación que vale 100 euros. El fondo tiene 4 \nparticipaciones en circulación.\nLa Gestora YYY, encargada de la representación y administración del \nfondo, invierte esos 400 euros en los mercados de valores, de manera \nque la cartera presenta la siguiente composición:\nEstos valores son administrados por el Depositario ZZZ.\nValor de renta fija 1\n50 euros\nValor de renta fija 2\n100 euros\nValor de renta variable 3\n125 euros\nValor de renta variable 4\n100 euros\nLiquidez\n25 euros\nTOTAL CARTERA\n400 euros\n\nLos fondos de inversión y la inversión colectiva\nEl patrimonio del fondo puede aumentar o disminuir por dos motivos:\nEntradas o salidas de partícipes: los fondos de inversión son \ninstituciones de carácter abierto, es decir, en general cualquier \ninversor puede entrar o salir del fondo según su conveniencia, \ncomprando o vendiendo participaciones. La compra de \nparticipaciones se denomina suscripción, y la venta supone un \nreembolso, parcial o total, de la cantidad invertida. Por tanto, el \nnúmero de participaciones en circulación varía constantemente, a \nmedida que los inversores entran o salen del fondo. \nVariaciones en el valor de mercado de los activos que componen la \ncartera del fondo. Estas fluctuaciones en la valoración de la cartera \nson las que determinan la obtención de resultados positivos o \nnegativos para el fondo y, en consecuencia, para cada uno de los \npartícipes. \nUna característica muy importante de los fondos es que los \nresultados, ya sean beneficios o pérdidas, no son percibidos \nde manera efectiva por el inversor mientras no se produzca el \nreembolso de las participaciones. El tratamiento fiscal de las \nparticipaciones en fondos de inversión resulta ventajoso porque \nhasta el momento del reembolso no se tributa por las plusvalías1.\n1. \nLos rendimientos de los fondos de inversión tienen la consideración de ganancia o pérdida patrimonial.\n\nLos fondos de inversión y la inversión colectiva\nA cambio de contar con una gestión profesional de sus inversiones, el \npartícipe paga ciertas comisiones que varían según los fondos (y que se \ndetallan en su folleto explicativo), dentro de unos límites máximos fijados por \nla ley.\nPor una parte, las comisiones de gestión y depositaría son cargadas al \nfondo de forma directa (por la sociedad gestora y por el depositario, \nrespectivamente), por lo que deben restarse del patrimonio del fondo \npara calcular la rentabilidad que obtiene el inversor. Además, para algunos \nfondos, la gestora puede cobrar directamente al partícipe comisiones por la \nsuscripción y/o el reembolso de las participaciones.\nEjemplo 2\nUn mes después de comenzar a funcionar el Fondo XXX, la cartera tiene \nlos siguientes valores de mercado: \nAunque unos valores han evolucionado mejor que otros, el conjunto de la \ncartera se ha revalorizado hasta los 411 euros. Sin embargo, para calcular \nel patrimonio hay que restar los 2 euros de comisión de gestión cargados \npor la Gestora YYY más 1 euro que percibe el Banco Depositario ZZZ por \nsus servicios de administración de los valores. \nPor tanto, el patrimonio del fondo asciende a 408 euros. El precio \nunitario de cada participación (valor liquidativo) es ahora de 102 euros. \nHasta el momento, cada partícipe registra una plusvalía de 2 euros.\nMES ANTERIOR\nMES ACTUAL\nValor de renta fija 1\n50 euros\n55 euros\nValor de renta fija 2\n100 euros\n100 euros\nValor de renta variable 3\n125 euros\n117 euros\nValor de renta variable 4\n100 euros\n115 euros\nLiquidez\n25 euros\n24 euros\nTOTAL CARTERA\n400 euros\n411 euros\n\nLos fondos de inversión y la inversión colectiva\nIII. Cómo se determina la \nrentabilidad de un fondo\nComo se explicaba en el capítulo anterior, la unidad de inversión en un fondo \nes la participación. El valor liquidativo es el precio de cada participación en un \nmomento dado.\nEn los fondos tradicionales, este cálculo es realizado por la gestora \ndiariamente2. La difusión del valor liquidativo es obligatoria a través de la \npágina web de la entidad; también suele realizarse a través de la prensa o de \ndifusores de información económica como Bloomberg, Reuters, etc.\nLa rentabilidad se calcula como el porcentaje de variación del valor \nliquidativo entre la fecha de suscripción y la fecha de reembolso.\nRentabilidad =\nValor liquidativo final3 – Valor liquidativo inicial\nValor liquidativo inicial \nx 100\nValor liquidativo (V.L) =\nPatrimonio del fondo \nNº de participaciones en circulación\n2. \nMás adelante se explica cómo determinados tipos de instituciones de inversión colectiva, \ndebido a la naturaleza y características de los activos en los que invierten, pueden calcular el \nvalor liquidativo con periodicidad superior: mensual, trimestral...\n3. \nDe forma excepcional, algunos fondos pueden distribuir parte del beneficio entre los \npartícipes, en lugar de acumularlo al patrimonio del fondo. En estos casos, para calcular la \nrentabilidad obtenida habría que sumar el beneficio distribuido al valor liquidativo final.\n\nLos fondos de inversión y la inversión colectiva\nEjemplo \nLa familia Gómez suscribió hace 2 años 50 participaciones del Fondo AAA, \na un precio de 1.000 euros cada participación. En este momento, el valor \nliquidativo es de 1.025 euros. Los señores Gómez deciden recuperar la mitad \nde su inversión, y reembolsan 25 participaciones. Aplicando la fórmula anterior, \nse concluye que la rentabilidad de esta inversión ha sido del 2,50%: invirtieron \n25.000 euros y han recibido 25.625. \nDos meses después, para hacer frente a un pago inesperado, reembolsan el \nresto de sus participaciones. Sin embargo, los mercados han evolucionado a la \nbaja y el valor liquidativo es de 985 euros. En este caso, se ha producido una \nrentabilidad negativa del –1,50%: invirtieron 25.000 euros y han recuperado \n24.625. \nEl ejemplo muestra cómo la rentabilidad puede ser tanto positiva como \nnegativa, según la evolución del valor liquidativo.\nDebe tenerse en cuenta que esta manera de calcular la rentabilidad nos \nindica la variación del valor liquidativo en un periodo de tiempo que no \ntiene por qué coincidir con el año. Es decir, en el primer caso, el inversor \nha obtenido una rentabilidad del 2,50% en un periodo de 2 años. Para \npoder comparar estos rendimientos con los de otros productos que \nsuelen expresarse en términos de interés anual, sería necesario anualizar la \nrentabilidad (el ejemplo correspondería a un rendimiento anual del 1,24%). \nAsimismo, es importante considerar que la existencia de comisiones de \nsuscripción o de reembolso (establecidas en su caso en el folleto del fondo) \nreducirá la rentabilidad final de la inversión.\n\nLos fondos de inversión y la inversión colectiva\nIV. ¿Tienen riesgos los \nfondos de inversión? \nComo cualquier otro producto de inversión, los fondos de inversión implican \nciertos riesgos. La naturaleza y el alcance de los riesgos dependerán del tipo \nde fondo, de sus características individuales (definidas en el folleto), y de los \nactivos en los que finalmente se invierta el patrimonio.\nEn consecuencia, la elección entre los distintos tipos de fondos debe hacerse \nteniendo en cuenta la capacidad y el deseo de asumir riesgos por parte \ndel ahorrador, así como su horizonte temporal de inversión (especialmente \ncuando se trata de fondos garantizados). En general, los fondos de inversión \npermiten controlar los riesgos, debido a que la diversificación favorece la \ncompensación de resultados positivos y negativos de diferentes activos. Sin \nembargo, en modo alguno puede excluirse la posibilidad de sufrir pérdidas: al \nfin y al cabo, el capital está invertido en valores cuyo precio oscila en función \nde la evolución de los mercados financieros.\nPor tanto, lo primero que el inversor debe analizar es hasta qué punto está \ndispuesto a asumir la posibilidad de que, al solicitar el reembolso de la \ninversión, ésta valga menos que en el momento de la compra.\n\nLos fondos de inversión y la inversión colectiva\nHay dos elementos que pueden ayudar al inversor a tener una idea más \naproximada del riesgo que incorpora un determinado fondo de inversión: la \nvolatilidad y la duración.\nLa volatilidad nos indica si históricamente los valores \nliquidativos del fondo han experimentado variaciones \nimportantes o si, por el contrario, han evolucionado de \nmanera estable. Un fondo muy volátil tiene más riesgo \nporque es difícil prever si el valor liquidativo va a subir o a \nbajar. Por tanto, en el momento del reembolso, lo mismo \npodrían obtenerse ganancias significativas que pérdidas \nimportantes.\nSi el inversor adopta la volatilidad como criterio de \ndecisión, debe tener en cuenta que existen distintas \nformas de cálculo y presentación (diaria, mensual, \nanualizada o sin anualizar...). Por eso es aconsejable \nseleccionar una fuente de confianza y ceñirse a la misma, \nya que los datos de distintas fuentes pueden no ser del \ntodo comparables.\nLa duración (o plazo medio de vencimiento) es un \nconcepto que permite estimar cómo responderán los \nactivos de renta fija ante variaciones de los tipos de interés \n(riesgo de tipo de interés). Cuando los tipos suben, los \nvalores de renta fija en la cartera del fondo pierden valor. Y \nal contrario si los tipos bajan. Este efecto se acusa menos \npara valores a corto plazo. Por eso, a mayor duración más \nsensibilidad y más riesgo. \nAdemás, antes de suscribir participaciones de un fondo el inversor debe \nconsultar cuál es su política de inversión (en el folleto) y, en caso de que el \nfondo tenga historia suficiente, la composición de la cartera al final del último \ntrimestre (informe periódico a partícipes). Ambos documentos pueden y \ndeben solicitarse a la entidad comercializadora, y también se encuentran a \ndisposición del público en la página web de la entidad y en la CNMV.\n\nLos fondos de inversión y la inversión colectiva\nConocer la composición de la cartera y la política de inversión del fondo es \nfundamental, porque permite al inversor hacerse una idea del riesgo que se \nasume, según los porcentajes de inversión en cada tipo de activos financieros, \nen euros o en otras divisas, en una u otra zona geográfica, etc. Con carácter \ngeneral, se pueden hacer las siguientes afirmaciones:\n¥ La inversión en renta variable, por su propia naturaleza, tiene en \ngeneral más riesgo que la inversión en renta fija, pero en ésta \ntambién se pueden producir pérdidas, y el inversor debe ser \nconsciente de este hecho. La renta variable suele tener más riesgo \nporque las cotizaciones de las acciones son más volátiles.\n¥ Algunos fondos, por su política de inversión, pueden mantener \nen cartera valores que incorporen un mayor riesgo de crédito o \ncontraparte: es la posibilidad de que el emisor (empresa, entidad \nfinanciera o Estado, entre otros) no pueda hacer frente a sus pagos o \nde que se produzca un retraso en los mismos. En estos casos podría \nser interesante conocer la calidad de crédito del emisor, a través de \nla calificación que realizan entidades especializadas (agencias de \nrating).\n¥ La inversión en valores de países emergentes conlleva otro riesgo \nadicional, el llamado riesgo país, que recoge la posibilidad de que \nlos acontecimientos políticos, económicos y sociales de ese país \nafecten a las inversiones que en él se mantienen.\n¥ La inversión en activos expresados en monedas distintas del euro \nimplica un riesgo, denominado riesgo de divisa, derivado de las \nposibles fluctuaciones de los tipos de cambio.\n\nLos fondos de inversión y la inversión colectiva\n¥ Por otra parte, los fondos que invierten en instrumentos financieros \nderivados (futuros, opciones, etc.) pueden incorporar un riesgo \nsuperior debido a las características intrínsecas de estos productos \n(por ejemplo, el apalancamiento4). Por tanto, es posible que se \nmultipliquen las pérdidas de la cartera, aunque también podrían \nmultiplicarse las ganancias.\nSin embargo, hay que tener en cuenta que algunos fondos utilizan \nlos derivados exclusiva o primordialmente con la finalidad de \ndisminuir los riesgos de la cartera de contado (cobertura); en la \ndescripción de la política de inversión, que se recoge en el folleto, se \nindica si los derivados se utilizarán con finalidad de inversión o de \ncobertura.\n4. \nEn términos generales, el apalancamiento se refiere al efecto que el endeudamiento tiene \nsobre la rentabilidad. En los mercados de valores, hace referencia al hecho de que con \npequeñas cantidades de dinero puede realizarse una inversión que se comporta como otra \nde un volumen muy superior. Por ejemplo, es lo que ocurre al adquirir opciones o warrants: \npagando una pequeña cantidad (la prima), el inversor tiene la posibilidad de obtener el mismo \nresultado que si hubiera comprado o vendido valores cuyo valor de mercado es muy superior. \nMientras llega el vencimiento de la opción, el inversor puede obtener rentabilidad del dinero \nque aún no ha tenido que desembolsar para la adquisición de los valores. Así, una inversión \nen warrants puede ser mucho más rentable que la misma inversión en el subyacente, si los \nmercados evolucionan favorablemente a su posición; pero a cambio aumenta el riesgo, y la \nposibilidad de perder toda la inversión si la evolución no es la esperada.\n\nLos fondos de inversión y la inversión colectiva\n¥ Otra circunstancia a tener en cuenta es que hay un porcentaje \nde hasta el 10% que el fondo puede invertir en valores que no se \nnegocian en mercados regulados y otros activos poco líquidos. En \neste caso, se está asumiendo un riesgo adicional, al existir riesgo \nde liquidez, es decir, que cuando el fondo quiera vender el activo \nno encuentre compradores. Además, la valoración de estos activos \nresulta bastante más compleja, ya que no se dispone de un precio \nobjetivo de mercado.\n\nLos fondos de inversión y la inversión colectiva\nV. Tipos de fondos\nEl mercado español ofrece una amplia gama de fondos de inversión, que \npueden clasificarse según diferentes criterios. El que tal vez resulte más \ninteresante para los inversores particulares es el de la vocación inversora \ndefinida en el folleto de cada fondo, ya que las inversiones en las que se \nmaterialice el patrimonio de un fondo determinan el nivel de riesgo que \nasumen los partícipes. Por tanto, conocer la política de inversión permite \nque el inversor elija el que mejor se adapte a sus expectativas, situación \neconómica y perfil de riesgo. \nSe pueden encontrar numerosas categorías de fondos de inversión según su \nvocación inversora, es decir, el tipo de activos financieros en los que el gestor \ninvierte las aportaciones de los partícipes. \nFondos monetarios: no invierten en renta variable, materias primas o \ndivisa. La duración media de su cartera es igual o inferior a seis meses \ny sólo pueden invertir en activos de elevada calidad crediticia. Los \nmonetarios a corto plazo se caracterizan porque la duración media \nde la cartera es igual o inferior a 60 días.\nFondos de renta fija: no invierten en renta variable. \nFondos de renta variable: invierten más del 75% en renta variable. \nFondos Mixtos: en este grupo podrá encontrar fondos de renta fija \nmixta, que invierten el 30% como máximo en renta variable, o fondos \nde renta variable mixta, que invierten en renta variable entre el 30% y \nel 75%. \nTanto los fondos de renta fija como los fondos de renta variable \ny los fondos mixtos pueden ser a su vez euro o internacionales, \ndependiendo de si invierten en divisas.\n\nLos fondos de inversión y la inversión colectiva\nFondos total o parcialmente garantizados: en función de si aseguran \no no la totalidad de la inversión inicial. A su vez, dentro de los fondos \ntotalmente garantizados se podrá encontrar con: \n1. Los fondos garantizados de rendimiento fijo, que aseguran la \ninversión más un rendimiento fijo con la garantía de un tercero. \n2. Fondos que aseguran la recuperación de la inversión inicial con \nla garantía de un tercero y ofrecen la posibilidad de obtener \nun rendimiento vinculado a la evolución de un instrumento \nde renta variable, divisa o cualquier otro activo. Son llamados \nfondos garantizados de rendimiento variable. \nFondos de gestión pasiva: replican o reproducen un índice (como los \nfondos cotizados – ETF). También se incluyen los fondos que persiguen \nun objetivo concreto de rentabilidad no garantizado.\nFondos de retorno absoluto: Los fondos de retorno absoluto son los \nque persiguen obtener como objetivo de gestión, no garantizado, una \ndeterminada rentabilidad/riesgo periódica. \nFondos globales: son fondos cuya política de inversión no encaja en \nninguna de las vocaciones anteriores.\nEn este punto debe hacerse mención a los fondos por \ncompartimentos. Esta figura supone que, dentro de un mismo fondo \npodrá haber dos o más “sub-fondos”, cada uno de los cuales tendrá \nsu política de inversión. Cada compartimento podrá a su vez emitir \ndistintas clases de participaciones, que se diferenciarán por las \ncomisiones que apliquen. En consecuencia, cada compartimento y, \nen su caso, cada clase de participación, tendrá un valor liquidativo \ndiferente al resto de compartimentos o clases de participaciones \ndel mismo fondo, por lo que también podrán obtener distintos \nrendimientos.\n\nLos fondos de inversión y la inversión colectiva\nVI. Los fondos \ngarantizados\nSon fondos que aseguran que, como mínimo, en una determinada fecha futura \nse conservará la totalidad o parte de la inversión inicial. En algunos casos se \nofrece también una cierta rentabilidad asegurada.\nNo son garantizados, aunque puedan parecerlo y en ocasiones induzcan a \nconfusión, otro tipo de fondos que tienen como objetivo de inversión o de \nrentabilidad la obtención de un determinado rendimiento fijo o vinculado \na alguna referencia (Euribor...). Precisamente, la diferencia es que ese \nrendimiento es un objetivo y no una garantía, por lo que no es exigible por el \ninversor. Es por tanto un objetivo no garantizado.\nLos garantizados presentan ciertas características que deben ser bien \nconocidas antes de la suscripción, ya que pese a la relativa seguridad que \nofrecen pueden no resultar adecuados para todos los inversores:\nCondiciones para la efectividad de la garantía. Restricciones a la \nliquidez\nQué sucede al vencimiento de la garantía\nFiscalidad\nCálculo de la posible rentabilidad\na)\nb)\nc)\nd)\n\nLos fondos de inversión y la inversión colectiva\nCondiciones para la efectividad de la garantía. \nRestricciones a la liquidez\nLos fondos garantizados tienen un horizonte temporal recomendado \nde inversión que coincide con el plazo para el que se garantiza la \nconservación del capital. Es decir, no es aconsejable invertir en un \ngarantizado si se prevé que pueda necesitarse el capital antes de la \nfecha prevista de vencimiento de la garantía (que suele fijarse entre 1 y \n6 años, según los fondos). \nA diferencia de los no garantizados, estos fondos están diseñados de \nmanera que no resulta aconsejable la entrada o salida de partícipes \ndurante el plazo de garantía, debido a las siguientes particularidades: \n¥ Periodo inicial de comercialización, durante el cual se puede \naportar dinero al fondo sin que se aplique la comisión de \nsuscripción (que en otros momentos puede llegar al 5% del \nimporte invertido). En su caso, las rentabilidades ofrecidas están \ncondicionadas a que la inversión se haya realizado dentro de este \nperiodo. \n¥ Sólo tienen derecho a la garantía los partícipes que mantengan \nsu inversión hasta la fecha de vencimiento de la garantía; esta es \nla fecha en la que se asegura que las participaciones de un fondo \nalcanzarán un determinado valor liquidativo (valor liquidativo \ngarantizado). Las participaciones reembolsadas antes de ese \nmomento no están garantizadas. Si por algún motivo el partícipe \nnecesita reembolsar antes del vencimiento de la garantía, recibirá \npor sus participaciones el valor liquidativo que corresponda \na la fecha de reembolso, que podrá ser superior o inferior al \ninicial. Además, en general también tendrá que hacer frente a la \ncomisión de reembolso (hasta un 5% del importe reembolsado).\nEn resumen, los partícipes que entren después del periodo de \ncomercialización o que reembolsen antes de la fecha de vencimiento \nde la garantía podrán sufrir una importante penalización en la \nrentabilidad, e incluso perder parte de su inversión inicial. \na)\n\nLos fondos de inversión y la inversión colectiva\nExisten algunos fondos garantizados que cuentan con las llamadas \n“ventanas de liquidez”. Estas ventanas de liquidez son fechas \npredeterminadas en las que el partícipe puede reembolsar total \no parcialmente sin pagar comisión de reembolso, siempre que \nse respeten los plazos de preaviso5 . Se trata de una apreciable \nventaja para el inversor, porque suaviza la iliquidez de este tipo de \nproductos. Sin embargo, el partícipe deberá tener en cuenta que estos \nreembolsos se realizan al valor liquidativo de la fecha, por lo que no se \nbeneficiará de la garantía y podrá registrar pérdidas. \nAlgunos fondos ofrecen “pagos” periódicos durante el periodo \ngarantizado. No deben confundirse con los cupones de la renta fija, ya \nque en realidad se trata de reembolsos parciales y obligatorios.\nQué sucede al vencimiento de la garantía\nLos fondos garantizados ofrecen la conservación del capital invertido \n(o de una parte de él), en una fecha futura predeterminada, la fecha \nde vencimiento de la garantía. Cuando llega el vencimiento, estos \nfondos establecen o inician un nuevo periodo garantizado que incluye \ncambios significativos en su naturaleza, características e incluso, a \nveces, en su denominación. En otros casos, el fondo puede dejar de \nser garantizado y seguir funcionando normalmente, con otra política de \ninversión.\nA medida que se aproxime la fecha de vencimiento de la garantía, la \nGestora enviará a los inversores una carta informándoles sobre los \ncambios que se producirán en el fondo. Los inversores disponen de las \nsiguientes opciones:\n¥ No aceptar las nuevas condiciones: en tal caso el partícipe \ndebe ejercer el derecho de separación, que le permite recuperar \nsu inversión o traspasarla a otro fondo sin soportar comisiones \nde reembolso durante un periodo de tiempo limitado (un mes, \ncomo mínimo). Este plazo viene indicado en la carta remitida por \nla entidad.\nb)\n5. \nEl plazo de preaviso suele oscilar entre tres días y una semana. En general se expresa en días hábiles \n(generalmente, sin contar sábados, domingos y festivos). En el folleto se detallan las fechas de las ventanas de \nliquidez y los plazos de preaviso, con indicación en su caso de lo que se entiende por día hábil a estos efectos.\n\nLos fondos de inversión y la inversión colectiva\n¥ Permanecer como partícipe en el fondo: esta opción no \nexige actuación alguna, ya que si el inversor no ordena el \nreembolso durante el plazo de que dispone para separarse, se \nsobreentiende que está conforme con las nuevas características \ny desea mantener su inversión en el fondo. A partir de ese \nmomento el partícipe queda sujeto a las nuevas condiciones \n(entre las que se puede incluir la aplicación de comisiones por \nreembolso, por ejemplo).\nEl partícipe debe ser consciente de que, tras el vencimiento de una \ngarantía, y una vez transcurrido el periodo durante el cual se puede \nejercer el derecho de separación gratuito, los reembolsos se realizarán \na precio de mercado, y existe la posibilidad de que éste sea inferior al \nque se alcanzó en el momento del vencimiento de la garantía.\nFiscalidad\nLa garantía del fondo viene dada por una tercera entidad, y puede ser \ninterna (es el fondo quien recibe el capital si no alcanza por sí mismo \nel valor liquidativo fijado como objetivo) o externa (cuando el capital se \nentrega directamente al partícipe). \nLa diferencia para el partícipe reside en el tratamiento fiscal de cada \nuna. Puesto que la interna es una aportación que recibe el propio \nfondo, el inversor sólo la percibe a través del valor liquidativo de \nsus participaciones (se considera ganancia patrimonial), por lo que \nno tiene efectos fiscales inmediatos6. Sin embargo, si la garantía es \nexterna el partícipe recibe en su cuenta la diferencia entre el valor \nliquidativo del fondo en la fecha de vencimiento de la garantía y el \nvalor liquidativo garantizado, y esta cantidad sí tributa en el ejercicio \neconómico en el que se percibe (como rendimiento del capital \nmobiliario). \n6. \nLas plusvalías no tributan hasta que no se produzca el reembolso de las \nparticipaciones.\nc)\n\nLos fondos de inversión y la inversión colectiva\nCálculo de la posible rentabilidad\nLos fondos garantizados aseguran, en todo o en parte, la conservación \ndel capital invertido al cabo de un plazo predeterminado. Sin embargo, \nno todos garantizan la obtención de una rentabilidad adicional. \nDentro de la actual oferta de fondos garantizados en nuestro país, \npueden distinguirse hasta el momento dos grandes grupos:\n¥ Los fondos garantizados de rentabilidad fija (GRF): en la \nfecha de vencimiento de la garantía no sólo aseguran la \nconservación del capital inicial, sino también una rentabilidad fija \ny predeterminada (que se indica en el DFI-documento con datos \nfundamentales para el inversor-del fondo en términos de interés \nanual, TAE). \n¥ Los fondos garantizados de rentabilidad variable: sólo aseguran \nla inversión inicial, en la fecha de vencimiento de la garantía. \nAdemás ofrecen la posibilidad de obtener una rentabilidad \nvinculada al comportamiento de diversos activos financieros \no índices (de acuerdo con fórmulas de cálculo más o menos \ncomplejas). El inversor debe tener en cuenta que, si la evolución \nde los instrumentos subyacentes no es la esperada, es posible \nque no obtenga rentabilidad alguna. \n¥ Garantizados parcialmente: no aseguran la recuperación del \n100% de la inversión inicial.\nPara el partícipe puede resultar extremadamente difícil saber de \nmanera realista qué rentabilidad cabe esperar, cuando ésta depende \nde la evolución de determinados instrumentos subyacentes. Debe \ntenerse en cuenta que la presentación comercial de estos productos \npuede tender a sobredimensionar las expectativas de rendimientos. \nPor muy positivas que sean las previsiones sobre la evolución de los \nmercados, al invertir en un garantizado es necesario saber con \nexactitud si existe o no alguna garantía de rentabilidad.\nd)\n\nLos fondos de inversión y la inversión colectiva\nLos fondos garantizados cuyo objetivo de rentabilidad viene \ndeterminado por la evolución de índices, cestas de acciones o fondos \nu otros instrumentos elaboran fórmulas cada vez más complejas para \nel cálculo de la rentabilidad que se ofrece al partícipe. Aunque éstas \nse detallan en el folleto del fondo, es necesario poseer conocimientos \nmuy especializados para entenderlas. \nSin embargo, sí es posible aprender a distinguir algunas de las \nprincipales modalidades de cálculo de revalorización que se pueden \nencontrar en estos garantizados. Casi sin excepción, tales fórmulas \nlimitan de manera más o menos significativa la revalorización real \nque se puede obtener (en caso de que se obtenga alguna), pese a \nque los porcentajes de revalorización ofrecidos parezcan en principio \ncapaces de proporcionar elevados rendimientos. Es decir, en general \nal partícipe no le llega la totalidad de la revalorización que haya \nexperimentado el instrumento subyacente, sino un porcentaje que \ndependerá de la fórmula aplicada.\nDada la complejidad de muchas de estas estructuras, el inversor debe \nconsultar siempre el DFI. En este documento se incluyen simulaciones \nrealizadas por la gestora del fondo sobre distintos escenarios \n(desfavorable, moderado y favorable) en los que se muestran las \nprobabilidades de que el producto obtenga un rendimiento positivo, \nasí como el posible importe final garantizado a vencimiento en cada \nuno de ellos.\n\nLos fondos de inversión y la inversión colectiva\nEstructuras más frecuentes en fondos garantizados\nEn el siguiente cuadro se exponen algunos de los mecanismos de cálculo \nde la revalorización del subyacente ofrecidos por este tipo de garantizados. \nLlamamos R a la revalorización, Vf al valor final del subyacente y Vi a su valor \ninicial.\nTipo de revalorización\nRentabilidad para el partícipe\nEstándar\nR = (Vf – Vi) / Vi\nSólo tiene en cuenta el valor inicial y final del \nsubyacente.\nLa revalorización es la misma que obtendría \nsi invirtiera directamente en el subyacente, \nsi bien no suele ofrecerse el 100% de la \nrevalorización, sino un porcentaje muy inferior\nRevalorización media de las observaciones \nmensuales\nLa revalorización del subyacente se calcula \ncomo la media aritmética de sus valores \nsemanales, mensuales, trimestrales, etc, \ndurante un periodo determinado. \nEl subyacente puede ser también un índice o \nuna cesta de valores.\nEs una fórmula muy utilizada por los fondos \ngarantizados. \nEste tipo de estructuras suele ofrecer \nmayor porcentaje de participación en la \nrevalorización, si bien la rentabilidad final \ndependerá también de la mayor o menor \nrevalorización del subyacente.\nRevalorización teniendo en cuenta \ncomo valor inicial el mayor valor en un \ndeterminado periodo\nEs frecuente que se utilicen fórmulas que \ntoman para el cálculo de la revalorización del \nsubyacente el mayor valor alcanzado por \nsu valor inicial a lo largo de un determinado \nperiodo de tiempo.\nCuanto mayor sea el periodo de observación \npara el cálculo del valor inicial, mayor será la \nprobabilidad de que el valor inicial sea más \nelevado.\n\nLos fondos de inversión y la inversión colectiva\nRevalorizaciones con límites y condiciones \nSe basan en estructuras complejas. Existen \nnumerosas modalidades, entre las que \ndestacan:\n1. \nLímites a la revalorización (“techos”). \nAunque el subyacente registre un \ncrecimiento superior, se toma el límite \ncomo revalorización máxima para el \ncálculo de la rentabilidad.\n2. \n “Digitales”. Si el subyacente \nsupera un determinado nivel se \nasegura al partícipe un rendimiento \nfijo, independientemente de la \nrevalorización. En caso de no alcanzarse \nese nivel, no se obtiene ninguna \nrevalorización o ésta será mínima. \n1. \nEl inversor debe tener en cuenta que los \n“techos” imitan la rentabilidad máxima \nque puede obtener.\n2. \nSon condiciones que pueden tener \ndistintos efectos, positivos o negativos, \nsegún la estructura.\nRevalorización del peor valor \nLa revalorización está ligada a la evolución del \nvalor que peor haya evolucionado, de entre los \nincluidos en una cesta o conjunto de valores. \nLa composición de la cesta determina en \ngran medida las posibilidades de rentabilidad. \nSi está formada por un elevado número de \nvalores, o si éstos pertenecen a sectores muy \ndistintos (de manera que su comportamiento \nno tiene por qué ser parecido), aumentan \nlas posibilidades de que alguno registre una \nevolución negativa.\nIncrementos respecto al valor final \nR = (Vf – Vi) / Vf\nCuando el subyacente se revalorice, la \nrevalorización así calculada será menor que \nsi dicha revalorización se calculara respecto al \nvalor inicial.\n\nLos fondos de inversión y la inversión colectiva\nVII. Cómo elegir un \nfondo de inversión\nCada fondo presenta diferentes características y niveles de riesgo, por lo \nque una vez que se opta por la inversión colectiva, es necesario estudiar con \ndetalle qué fondo concreto es más adecuado para las propias circunstancias \npersonales. Por tanto, deben realizarse dos tipos de análisis.\nDeterminación de la situación y objetivos personales. \nEs necesario tener claros aspectos como el riesgo de \npérdidas que se está dispuesto a asumir y el plazo durante \nel cual se desea mantener la inversión. La respuesta a estas \ncuestiones permitirá acotar el tipo de fondo que mejor se \nadapta a los objetivos personales de inversión.\nSelección del fondo. Entre la amplia gama de fondos \ndisponibles en nuestro país, para elegir uno concreto \nes necesario conocer determinadas características \nque se detallan en el folleto. Por eso la consulta de \neste documento, de entrega obligatoria antes de la \nsuscripción de las participaciones y que se puede obtener \nen las páginas web de las entidades y en la CNMV, es \nimprescindible para adoptar una decisión informada sobre \nla inversión a realizar.\n\nLos fondos de inversión y la inversión colectiva\nPara elegir el fondo que mejor se adapta a los propios intereses y objetivos es \nconveniente tener en cuenta las siguientes cuestiones: \nPerfil de riesgo y política de inversión\nHorizonte temporal recomendado\nComisiones \nRentabilidades históricas\nPublicidad y mensajes comerciales\nPerfil de riesgo y política de inversión\nEl primer aspecto a considerar es la propia posición frente al riesgo. \nEl perfil de riesgo7 indica la capacidad del inversor de asumir pérdidas \nen la inversión realizada. En cualquier caso, debe tenerse en cuenta \nque suele existir una estrecha relación entre riesgo y rentabilidad. Para \nobtener rentabilidades superiores, en general, es necesario aceptar un \nnivel superior de riesgo. \nPor tanto, el partícipe debería orientar sus inversiones hacia aquellos \nfondos con nivel de riesgo adecuado a su propio perfil (riesgo bajo, \nmoderado o alto). Este dato viene incluido en el folleto, junto a las \ndemás características generales del fondo.\na)\na)\nb)\nc)\nd)\ne)\n7. \nPor motivos didácticos se simplifica el concepto de perfil de riesgo, que de manera \nestricta se encuentra determinado por otros muchos factores.\n\nLos fondos de inversión y la inversión colectiva\n¥ Los inversores con perfil de riesgo bajo tienen poca tolerancia a \nlas pérdidas, y pueden preferir obtener menores rentabilidades \na cambio de asegurar la preservación del capital. Con este \nenfoque, en general, resultarían más aconsejables algunos tipos \nde fondos de renta fija o fondos monetarios.\n¥ Los inversores con perfil de riesgo medio o moderado están \ndispuestos a asumir determinados niveles de pérdidas, a cambio \nde la posibilidad de obtener cierta rentabilidad. A grandes rasgos, \npodrían resultar indicados los fondos mixtos (renta fija y variable).\n¥ Los inversores con perfil de riesgo alto tienen poca aversión al \nriesgo. Sus expectativas de rentabilidad son elevadas y están \ndispuestos a aceptar fuertes pérdidas de capital. Pueden \ninvertir en todo tipo de fondos, incluyendo aquéllos que, a priori, \nincorporan mayores niveles de riesgo: fondos de renta variable \nde determinados sectores o países (tecnológicos, mercados \nemergentes...), fondos de inversión libre, etc.\nSi un inversor no tiene claro cuál es el perfil de riesgo que le \ncorresponde puede solicitar asesoramiento a su entidad financiera. \nLos intermediarios suelen contar con cuestionarios para determinar el \nperfil de riesgo de sus clientes, tanto en sus oficinas como a través de \nInternet.\nHorizonte temporal recomendado\nPor la naturaleza y tratamiento fiscal de este producto, resulta \naconsejable mantener la inversión en fondos durante un cierto periodo \nde tiempo. El folleto indica cuál es el horizonte recomendado para \ncada fondo concreto, en función de sus características: garantía, \nmercados en los que se invierte, naturaleza de las inversiones \nrealizadas... Por ejemplo, los fondos más volátiles exigirán horizontes \nsuperiores, ya que de esta forma el inversor dispondrá de margen para \nrecuperarse de las fases negativas de los mercados.\nb)\n\nLos fondos de inversión y la inversión colectiva\nEs importante que el capital invertido en un fondo pueda mantenerse \nal menos durante el horizonte recomendado para el mismo. En caso \ncontrario el inversor puede enfrentarse a algunas circunstancias que \nperjudiquen su rentabilidad:\n¥ Comisiones de reembolso. Algunos fondos establecen \ncomisiones de reembolso en función del tiempo de permanencia: \na medida que transcurre el tiempo la comisión se reduce o \nincluso desaparece, favoreciendo así a los inversores estables.\n¥ En los garantizados se aconseja mantener la inversión hasta \nel vencimiento de la garantía (generalmente entre uno y seis \naños). Si se reembolsa antes de esa fecha, además de afrontar \nla habitual comisión de reembolso, es posible perder parte del \ncapital invertido (si el valor liquidativo en ese momento es inferior \nal inicial). \nEn consecuencia, conviene destinar a la inversión en fondos una \ncantidad que no se prevea utilizar a corto plazo y que, en principio, se \npueda mantener durante todo el horizonte temporal recomendado. \nEsto exige de cada inversor una planificación previa de sus finanzas \npersonales según sus perspectivas de ingresos y gastos, gastos \nextraordinarios previstos, cantidad reservada para compromisos \ninesperados...\n\nLos fondos de inversión y la inversión colectiva\nComisiones\nLas comisiones que cargan los fondos de inversión son otro elemento \nque deben tener en cuenta los inversores a la hora de elegir, ya que \npueden tener una incidencia significativa sobre la rentabilidad. Su \ncuantía y condiciones de aplicación se detallan de forma exhaustiva en \nel folleto del fondo8. Hay distintos tipos de comisiones:\n¥ Comisiones de gestión y depósito: son las que cobran la \ngestora y el depositario, respectivamente. Estas comisiones son \nimplícitas, es decir, ya están deducidas del valor liquidativo del \nfondo que se publica (puesto que se cargan directamente al \nfondo9).\nLa comisión de gestión puede establecerse en función del \npatrimonio, de los rendimientos o de ambas variables (debe \nconsultarse en el folleto la posibilidad de que se apliquen \ndistintas comisiones en función de la permanencia, etc.). Los \nlímites máximos son: el 2,25% si se calcula sobre el patrimonio, el \n18% si depende de los resultados, y en caso de que se empleen \nambos parámetros, no podrá exceder el 1,35% del patrimonio y el \n9% de los resultados.\nLa de depósito es la que cobran los depositarios por la \nadministración y custodia de los valores. No podrá superar el 2 \npor mil anual del patrimonio.\n¥ Comisiones de suscripción y reembolso: pueden ser a favor \nde la gestora o del propio fondo (en este caso se denomina \ndescuento a favor del fondo). Son explícitas, es decir, se cargan \nal partícipe en el momento en que se realiza la suscripción \no el reembolso, como un porcentaje del importe suscrito o \nreembolsado (con un máximo del 5%) y deduciéndose del mismo.\nc)\n8. \nTambién se deben recoger en el folleto los gastos adicionales que deban soportar los fondos \nde inversión debido a servicios prestados que resulten imprescindibles, y no relacionados \ncon las actividades de gestión y depositaría.\n9. \nExiste una excepción al carácter implícito de la comisión de gestión: si el fondo carga \ncomisiones sobre resultados y se opta por un sistema de cargo individual, cada partícipe \npagará comisión en función del resultado de su inversión en el fondo.\n\nLos fondos de inversión y la inversión colectiva\n¥ Asimismo es posible que se cobren comisiones por cambiar la \ninversión de un compartimento a otro, dentro del mismo fondo.\nJunto a las comisiones, existen otros gastos que también tienen \nrepercusión en la rentabilidad final. Un concepto relevante, que puede \nencontrarse en el folleto si el fondo tiene historia suficiente, es el de \ngastos totales soportados por el fondo o TER10 (expresados como \nun porcentaje sobre el total del patrimonio del fondo). Los gastos \ntotales incluyen las comisiones de gestión y depositario, los servicios \nexteriores y otros gastos de explotación. Cuanto menor sea este \nporcentaje, mayor beneficio para los partícipes.\nUn fondo de inversión aplica distintas comisiones a las diferentes \nclases de participaciones que emita, en función de criterios como \nlas políticas de comercialización (diferentes comisiones si el fondo \nse suscribe por Internet, por teléfono o en una sucursal), el volumen \nde inversión (en general, a mayores volúmenes de inversión menores \ncomisiones), la divisa de denominación del fondo u otros parámetros. \nPor ejemplo, puede ocurrir que en un mismo fondo, una clase \nde participaciones (A) tenga una comisión de gestión alta y esté \nexenta de comisiones de suscripción y reembolso, mientras que \npara otra clase (B) la comisión de gestión sea más reducida pero \nse apliquen comisiones de suscripción y reembolso. Dependiendo \ndel plazo durante el que se espera mantener la inversión o de la \nintención de realizar reembolsos o suscripciones periódicas, será más \ninteresante la inversión en una clase de participaciones o en otra. Los \ninversores deben tener en cuenta este aspecto para elegir la clase de \nparticipaciones con la estructura de comisiones más conveniente.\n10. El término TER corresponde a las siglas de Total expenses ratio \n(Ratio de gastos totales).\n\nLos fondos de inversión y la inversión colectiva\nRentabilidades históricas \nEl comportamiento de un fondo en el pasado es un elemento más a \nconsiderar a la hora de decidir, siempre que se tenga en cuenta que las \nrentabilidades obtenidas con anterioridad no aseguran una evolución \nsimilar en el futuro. Aunque el fondo mantenga la misma línea de \ngestión, el entorno económico está sometido a múltiples influencias \nque pueden alterar la tendencia de los mercados o de determinadas \nsociedades que en ellos cotizan y, en consecuencia, los rendimientos \nobtenidos. De ahí que la difusión de las rentabilidades históricas \nde los fondos vaya siempre acompañada de la advertencia de que \n“rentabilidades pasadas no garantizan rentabilidades futuras”.\nAdemás, para utilizar de forma adecuada esta información, disponible \na través de numerosas fuentes (periódicos y revistas económicas, \npáginas web de entidades financieras y de la CNMV, publicaciones \nestadísticas, etc.), es necesario observar otras cautelas:\n¥ Las rentabilidades deben ir siempre referidas a un determinado \nperiodo (trimestre, semestre, uno, tres o cinco años...). Al \ncomparar distintos fondos se deben contrastar las rentabilidades \ncorrespondientes a los mismos periodos.\n¥ Es relativamente habitual que los fondos modifiquen su política \nde inversión, cambiando por tanto de categoría y nivel de riesgo11. \nAl consultar los rendimientos pasados de un fondo debe tenerse \nen cuenta que las rentabilidades obtenidas con una política de \ninversión distinta de la actual pueden resultar poco significativas. \nPor tanto es importante conocer la antigüedad de la vocación \ninversora (el tiempo durante el que se lleva aplicando la actual \npolítica de inversión), y tener en cuenta sólo las rentabilidades \nregistradas a partir de ese momento.\nd)\n11. \nModificaciones que son debidamente advertidas a los partícipes y \nque, en general, otorgan a estos un periodo de tiempo para que puedan \nabandonar el fondo sin tener que abonar comisión de reembolso.\n\nLos fondos de inversión y la inversión colectiva\nPublicidad y mensajes comerciales\nLa publicidad cumple la función de dar a conocer a los inversores \nla oferta de productos y servicios financieros de las entidades. \nComo es lógico, a través de la publicidad las empresas intentan \npresentar sus productos de la forma más atractiva posible. Este \nplanteamiento hace que en ocasiones las posibles desventajas o \nlimitaciones no se mencionen, o se incluyan de manera tal que pasen \nprácticamente desapercibidas. Además, algunos de los elementos \nhabitualmente utilizados en la publicidad, si no van acompañados por \nlas advertencias precisas, pueden generar expectativas poco realistas \nen los inversores. \nPor eso es muy importante que el inversor valore de forma crítica la \npublicidad. Debe tenerse en cuenta que, por su propia naturaleza, los \nmensajes comerciales no pueden incluir toda la información precisa \npara determinar si el producto se adapta o no a sus necesidades y \npreferencias. En consecuencia:\n¥ No debe tomarse ninguna decisión de inversión sin consultar \nantes el folleto y el DFI, en el que se recogen todas las \ncaracterísticas relevantes del fondo. \n¥ El folleto y demás documentación legal (informes periódicos...) \nestán a disposición del público en las oficinas de las entidades \nintermediarias y en la página web de la CNMV. \nEl inversor debe consultar a su entidad financiera cualquier duda \nen relación con las características y riesgos de los fondos que le \ninteresen. Sin embargo, es habitual que los intermediarios sólo \ndispongan de información sobre los fondos que comercializan (a \nmenudo los de su propio grupo financiero), y en particular sobre \naquellos que se encuentran en fase de lanzamiento. En último \ntérmino, el inversor es quien mejor conoce sus propias necesidades y \nexpectativas, por lo que es importante que adopte una actitud activa \nal elegir un fondo y analice si los que se le están ofreciendo resultan \nadecuados a su perfil y a su horizonte temporal de inversión.\ne)\n\nLos fondos de inversión y la inversión colectiva\nPor otra parte, si un inversor considera que una publicidad no es \nlo suficientemente clara o contiene elementos potencialmente \nengañosos, puede ponerlo en conocimiento de la Comisión Nacional \ndel Mercado de Valores a través del correo electrónico \npublicidad@cnmv.es\n\nLos fondos de inversión y la inversión colectiva\nVIII. Operativa de \nlas suscripciones, \nlos reembolsos y los \ntraspasos\nLa operativa con fondos de inversión es muy sencilla. Sin embargo, es \nconveniente explicar algunos términos y procedimientos para que los \ninversores conozcan qué posibilidades tienen a la hora de invertir o desinvertir \nen un fondo de inversión, qué problemas pueden surgir y cómo afrontarlos en \nla práctica.\nSuscripción de participaciones\nReembolso de participaciones\nTraspasos\na)\nb)\nc)\n\nLos fondos de inversión y la inversión colectiva\nSuscripción de participaciones \nLa inversión en un fondo se hace mediante la suscripción de \nparticipaciones: las gestoras emiten las participaciones necesarias \npara hacer frente a las solicitudes de suscripción. Cada inversor \nobtiene un número de participaciones que es el resultado de dividir el \nimporte invertido entre el valor liquidativo aplicable a la operación. \nEl valor liquidativo aplicable puede ser el del mismo día de la solicitud \n(que se publicará al día siguiente) o el del día siguiente a la solicitud \n(publicado dos días después), según se prevea en el folleto del fondo. \nConviene recordar que algunos fondos están sujetos a comisiones de \nsuscripción que pueden llegar hasta el 5% del importe invertido.\nEjemplo\nLa señora Gómez decide invertir 1.000 euros en el Fondo AAA. El \nfolleto de este fondo indica que se aplicará el valor liquidativo del \ndía siguiente a la solicitud. Existe una comisión de suscripción del \n5%.\nLa señora Gómez formaliza la solicitud de suscripción en su \nentidad financiera el día 3 de octubre. Por tanto en este caso, \nsegún lo establecido en el folleto, la operación se realizará al valor \nliquidativo del día 4 de octubre, que se hará público el día 5. \nTras los cálculos realizados por la Gestora, el valor liquidativo del \n4 de octubre es de 10 euros: cada participación adquirida ese \ndía cuesta 10 euros. Así, la señora Gómez podría obtener 100 \nparticipaciones.\na)\nNÚMERO DE PARTICIPACIONES = \nIMPORTE INVERTIDO / VALOR LIQUIDATIVO\n\nLos fondos de inversión y la inversión colectiva\nSin embargo, la comisión de suscripción (1.000 x 5% = 50 euros) \nreduce la cantidad disponible para invertir a 950 euros, por lo \nque la inversión de la señora Gómez le proporciona en realidad 95 \nparticipaciones (950 / 10). \nA continuación se detallan algunas cuestiones prácticas relacionadas \ncon la suscripción de participaciones:\nEntidades comercializadoras\nPueden adquirirse participaciones de fondos de inversión a través de \nintermediarios financieros como bancos, cajas de ahorros, sociedades \nde valores, etc. En principio las sociedades gestoras también pueden \ncomercializar sus fondos, bien de forma directa o a través de agentes \no apoderados; sin embargo es más frecuente que lo hagan a través \nde los intermediarios mencionados (entidades de crédito y empresas \nde servicios de inversión). A su vez, es fácil encontrar entidades que \nvenden fondos de distintas gestoras, además de los pertenecientes a \nsu grupo financiero.\nCanales de contratación\nSe pueden suscribir participaciones de un fondo en las sucursales de \nlas entidades financieras, por teléfono, por Internet e incluso a través \nde agentes que actúan en nombre y por cuenta de la entidad. Si se \nutiliza esta última modalidad, nunca se le debe entregar el efectivo \nal agente ni firmar cheques a su nombre: el importe se hará llegar \ndirectamente a la cuenta del fondo de inversión en el depositario.\nExigencia de cuenta corriente \nEs frecuente que las entidades financieras exijan la apertura de una \ncuenta corriente (nunca una cuenta de valores, que no es necesaria \ncuando se trata de fondos de inversión) para canalizar los movimientos \nderivados de la suscripción y reembolso de participaciones. El objetivo \nes mejorar la eficacia operativa, pero no se trata de una obligación\n\nLos fondos de inversión y la inversión colectiva\nlegal, por lo que en ningún caso estas cuentas corrientes pueden llevar \naparejadas comisiones de apertura, mantenimiento o cancelación para \nel cliente, salvo que también se utilicen para operativa ajena al fondo \nde inversión.\nInversión mínima de entrada\nAlgunos fondos no admiten inversiones por debajo de una \ndeterminada cantidad (que viene establecida en el folleto). En \nocasiones se trata de cantidades significativas y su conocimiento es \nespecialmente relevante cuando la suscripción es consecuencia de \nun traspaso, ya que si éste se ordena por una cantidad inferior a la \ninversión mínima la suscripción no llegará a formalizarse y el reembolso \nprevio podría tener efectos para el partícipe.\nDocumentación a entregar. \nLas entidades comercializadoras están obligadas a entregar \nde forma gratuita a los clientes el documento con datos \nfundamentales para el inversor (DFI) del fondo, antes llamado \nfolleto simplificado, y el último informe semestral publicado12, \nantes de la suscripción y con independencia del canal utilizado \npara la venta (presencial, teléfono, Internet...). En el siguiente capítulo \nse resumen todas las informaciones esenciales que se recogen en el \nfolleto, por lo que su consulta previa es imprescindible para valorar la \nidoneidad de la inversión.\n12. \nAdemás, si el cliente lo solicita expresamente se le proporcionarán los \núltimos informes anuales y trimestrales publicados y el folleto completo.\n\nLos fondos de inversión y la inversión colectiva\nReembolso de participaciones\nPara deshacer la inversión en un fondo es necesario reembolsar las \nparticipaciones a un determinado valor liquidativo (el que corresponda \na la fecha en que se solicita el reembolso). \nLa determinación del valor liquidativo aplicable a los reembolsos se \nrealiza de la misma manera que para las suscripciones: será el del día \nde la solicitud o el del día siguiente (según lo que establezca el folleto).\nAsimismo es habitual que los folletos recojan lo que se denomina “hora \nde corte”: las solicitudes recibidas a partir de esa hora se consideran \nrealizadas al día hábil siguiente, a efectos de valor liquidativo aplicable. \nCon carácter general, el depositario hará efectivo el pago del \nreembolso al partícipe en un plazo máximo de tres días hábiles, \ncontados desde la fecha del valor liquidativo que resulte aplicable. \nExcepcionalmente este plazo se podrá ampliar hasta cinco días \nhábiles. \nSi existe comisión de reembolso se calculará sobre el importe total de \nla operación y detraída del mismo. Esta comisión puede llegar hasta el \n5% del importe reembolsado.\nEjemplo\nContinuando con el ejemplo anterior, al cabo de seis meses, el día \n3 de abril a las 13:15 de la mañana, la señora Gómez reembolsa sus \n950 participaciones. El folleto del fondo fijaba como hora de corte \nlas 12:00 de la mañana. Puesto que la solicitud de reembolso \nse ha realizado después de la hora de corte, a efectos de valor \nliquidativo aplicable la solicitud se considera presentada el día \nsiguiente, el 4 de abril. \nEl valor liquidativo aplicable resulta ser de 11, por lo que en \nprincipio el importe a reembolsar sería de 1.045 euros (950 x 11). \nb)\n\nLos fondos de inversión y la inversión colectiva\nSin embargo, el folleto del Fondo AAA establece que si el partícipe \nreembolsa durante el primer año de permanencia en el fondo se \naplicará una comisión de reembolso del 5% (en este caso 52,25 \neuros = 1.045 x 5%).\nPor tanto la cantidad que en realidad obtiene la señora Gómez, \nantes de aplicar la retención fiscal, es de 992,75 euros en lugar de \n1.045 euros. \nNÚMERO DE PARTICIPACIONES x VALOR LIQUIDATIVO = \nIMPORTE REEMBOLSADO\n\nLos fondos de inversión y la inversión colectiva\nEs importante tener en cuenta los siguientes aspectos prácticos \nrelacionados con el reembolso de participaciones:\nInversión mínima a mantener. \nEn ocasiones los fondos exigen el mantenimiento de una inversión \nmínima para poder conservar la condición de partícipe. Este dato, que \ntambién se encuentra en el folleto, es muy relevante para el inversor \nporque si en un momento dado deseara efectuar un reembolso o \ntraspaso parcial, y como consecuencia el valor de la inversión o el \nnúmero de participaciones que se mantienen en el fondo quedaran \npor debajo del “mínimo a mantener”, la gestora podrá llevar a cabo el \nreembolso total de sus participaciones. \nPreavisos\nLas gestoras podrán exigir preavisos de hasta 10 días para aquellas \nsolicitudes de reembolso superiores a 300.000 euros. \nTraspasos\nUn traspaso no es más que el reembolso de un fondo de inversión \ny la inmediata suscripción de otro, conservando la antigüedad de la \nprimera inversión a efectos fiscales. Esto significa que las plusvalías no \ntributan mientras no se produzca el reembolso definitivo.\nLos traspasos pueden producirse entre fondos de la misma gestora o \nbien entre fondos de distintas gestoras.\nEl primer caso es el más sencillo, ya que la entidad de destino y la de \norigen son la misma, lo que simplifica los trámites de comprobación. \nEl partícipe tiene que dirigirse a la entidad y solicitar el traspaso \nc)\n\nLos fondos de inversión y la inversión colectiva\nentre los dos fondos de inversión, indicando el importe o número \nde participaciones que desea traspasar. En un máximo de tres días \nhábiles debería estar materializada la inversión en el fondo de destino.\nCuando los fondos son de gestoras diferentes el procedimiento es algo \nmás complejo, y en circunstancias normales podría durar en torno a \nocho días hábiles. Los pasos a seguir son los siguientes:\n¥ El partícipe debe dirigirse a la entidad de destino para solicitar el \ntraspaso, identificando el fondo de origen y el importe o número \nde participaciones que desea reembolsar. Para evitar que se \nproduzcan errores, es recomendable entregar a la entidad de \ndestino un extracto de la posición en el fondo de origen, ya que \nen el mismo figura toda la información necesaria para identificar el \nfondo del que se va a desinvertir.\n¥ La entidad de destino tiene un día hábil para enviar la solicitud de \ntraspaso a la entidad de origen.\n¥ La entidad de origen dispone, como máximo, de dos días hábiles \npara realizar las comprobaciones que necesite. \n¥ Una vez que la entidad de origen ha comprobado que la solicitud de \ntraspaso es correcta, deberá proceder al reembolso del fondo de \norigen. Éste se realizará en un máximo de tres días hábiles.\n¥ A continuación la entidad de origen enviará a la de destino el \nimporte reembolsado mediante transferencia bancaria y la \ninformación fiscal del partícipe, lo que suele llevar dos días hábiles \ncomo máximo. \n¥ Cuando el capital llega a la entidad de destino, se realiza \nautomáticamente la suscripción de las participaciones en el nuevo \nfondo.\n\nLos fondos de inversión y la inversión colectiva\nNo existen comisiones por traspaso de un fondo a otro. Sin embargo, el \ntraspaso implica un reembolso y una suscripción, por lo que el inversor \npodría tener que hacer frente a las correspondientes comisiones, si así \nlo prevén los folletos de los fondos implicados.\nAunque los traspasos más frecuentes se dan entre fondos de inversión \nmobiliaria, también pueden realizarse traspasos desde y hacia otro \ntipo de instituciones de inversión colectiva: fondos extranjeros sujetos \na la normativa europea (la mayoría de los registrados en la CNMV \npara su comercialización en España), fondos de inversión inmobiliaria, \nsociedades de inversión (SICAV)... Las características específicas de \nlas instituciones implicadas pueden afectar a los costes y a los plazos \ndel traspaso. Por ejemplo, si sólo es posible realizar suscripciones y \nreembolsos en fechas determinadas (como en fondos inmobiliarios), \no si la transferencia de capital e información ha de realizarse entre \ndistintos países (entidades no domiciliadas en España).\n\nLos fondos de inversión y la inversión colectiva\nIX. ¿Por qué es \nimportante consultar el \nfolleto del fondo?\nEl folleto es un documento oficial cuyo contenido viene establecido por la \nnormativa, y es objeto de registro en la Comisión Nacional del Mercado de \nValores. Las entidades comercializadoras están obligadas a entregarlo \na sus clientes, en su formato DFI, antes de la suscripción de las \nparticipaciones, cualquiera que sea el canal que se emplee para la venta \n(presencial, telefónico, Internet, etc.). Asimismo, el inversor siempre podrá \nobtener el folleto de los fondos de los que sea partícipe en las propias \nentidades financieras, en sus páginas web y en la CNMV. \nEn los capítulos anteriores se han hecho numerosas referencias a las \ninformaciones que pueden encontrarse en el folleto de un fondo de inversión.\nEl conocimiento de las mismas es imprescindible para adoptar una decisión \ninformada y evitar las consecuencias negativas de una inversión no adecuada \na la situación y expectativas personales.\n\nLos fondos de inversión y la inversión colectiva\nAunque a primera vista algunos apartados del folleto puedan parecer \ncomplejos, no es difícil localizar aquellas informaciones esenciales para \nel futuro partícipe. En caso de dudas sobre su contenido o alcance, debe \nconsultar siempre al intermediario o a la CNMV. Como resumen de los \ncapítulos anteriores, es necesario comprobar en el folleto los siguientes datos:\nCaracterísticas generales del fondo\n• Perfil de riesgo \n• Inversión mínima inicial\n• Inversión mínima a mantener\n• Duración mínima recomendada de la inversión \n• Periodo de comercialización (garantizados)\nSuscripciones y reembolsos\n• Valor liquidativo aplicable a suscripciones y reembolsos\n• Hora de corte\n• Preavisos (para el reembolso)\n• Frecuencia de cálculo del valor liquidativo\n• Lugares de publicación del valor liquidativo\nPolítica de inversión\n• Categoría del fondo, tipos de activos en los que se piensa \ninvertir \n• Objetivo de gestión (garantía, objetivo de rentabilidad no \ngarantizado...)\n• En fondos garantizados, características principales de la \ngarantía\n\nLos fondos de inversión y la inversión colectiva\nGarantía de rentabilidad (sólo para fondos garantizados)\n• Alcance y circunstancias condicionantes de la garantía\n• Fecha de vencimiento de la garantía\n• Fórmulas de cálculo de la posible revalorización \n• TAE garantizada, si es posible su cálculo\nComisiones\n• Comisiones aplicadas \n• Base para el cálculo de las comisiones (patrimonio, \nresultados...)\n• Otras condiciones para la aplicación de comisiones \n(tramos de permanencia, ventanas de liquidez...)\n• Límite máximo de las comisiones (para cada \ncompartimento y clase de participación)\nCuando el fondo lleve cierto tiempo de funcionamiento, en el folleto se \nincluirá asimismo un Anexo en el que se puede encontrar información sobre \nlas rentabilidades obtenidas en el pasado, así como sobre los gastos totales \nsoportados por el fondo (TER). \nLos contenidos del folleto deben estar actualizados en todo momento. \nCuando las modificaciones introducidas suponen una variación sustancial \nen las características del fondo, la gestora ha de otorgar a los partícipes \nderecho de separación (posibilidad de abandonar el fondo sin pagar \ncomisión de reembolso). Entre los supuestos que obligan a otorgar al partícipe \nel derecho de separación se encuentran la modificación de la política de \ninversión, el establecimiento o elevación de comisiones, modificaciones en las \ncondiciones de la garantía... Si los cambios sólo afectan a uno o varios de los \ncompartimentos, el derecho de separación sólo se reconoce a los partícipes \nde los compartimentos afectados.\n\nLos fondos de inversión y la inversión colectiva\nX. Seguimiento de la \ninversión en fondos\nPuede realizarse principalmente a través de varias fuentes:\nDocumentación remitida por la sociedad gestora o el depositario. \nLa normativa obliga a proporcionar a los partícipes determinadas \ninformaciones periódicas que les permitan conocer la evolución de sus \ninversiones. \nInformación facilitada a través de la página web de la gestora o el \ncomercializador (valor liquidativo diario, rentabilidades, comisiones, \netc.)\nMedios de información financiera. Es habitual la divulgación de datos \nsobre fondos de inversión (rentabilidad, volatilidad, comisiones, etc.) \nen periódicos, portales de Internet y otros medios de difusión. Algunos \nofrecen clasificaciones en función de diversos parámetros. \nPor lo que se refiere a la documentación remitida por la gestora o el \ndepositario, cabe mencionar:\n¥ Informes periódicos: anual, semestral y trimestral. Incluyen \ninformación sobre la composición de la cartera y la evolución de su \nvalor, la distribución del patrimonio, etc. \nAntes de la suscripción de las participaciones, junto al folleto del \nfondo, es obligatoria la entrega del último informe semestral. Este \nha de ser enviado cada semestre al domicilio de cada partícipe. \nTambién es preceptivo el envío del informe anual. Si el inversor desea \ninformación más frecuente, puede solicitar la remisión gratuita del \ninforme trimestral. También puede optar por recibir toda la información \na través del correo electrónico.\n\nLos fondos de inversión y la inversión colectiva\nTanto los informes (anual, semestral y trimestral) como los folletos (DFI \ny completo) estarán a disposición del público en las oficinas y en las \npáginas web de las gestoras, los intermediarios financieros y CNMV.\n¥ Estado de posición en el fondo. \nLa sociedad gestora o el depositario deben remitir a cada partícipe un \nestado que indique su posición en el fondo al final del año. Además, el \npartícipe puede solicitar que se le envíe por correo electrónico.\nSi no ha habido operaciones, el estado de posición contendrá \nel número de participaciones y el valor liquidativo a la fecha de \nreferencia. En caso contrario, se indicarán los datos de las operaciones \nrealizadas (fecha, número de participaciones suscritas o reembolsadas, \nvalor liquidativo aplicado, importe bruto, importe neto de comisiones, \nsaldo de participaciones resultante tras la operación con su valor \nefectivo y porcentaje que representa sobre el patrimonio del fondo). \n¥ Aviso de modificaciones relevantes y derecho de separación.\nLa gestora está obligada a enviar a los partícipes una comunicación \ninformando de aquellos cambios que modifiquen características \nrelevantes del fondo. En la misma se hará referencia al otorgamiento \ndel consiguiente derecho de separación y al plazo para su ejercicio \n(normalmente un mes). Se puede ejercer de la forma que más interese \nal partícipe: mediante reembolso o traspaso de las participaciones, \nde forma total o parcial y siempre sin deducción de comisión de \nreembolso ni gasto alguno. Es muy importante que los inversores \nestén atentos a las comunicaciones recibidas, ya que el transcurso \ndel plazo sin manifestación expresa de su voluntad conlleva la pérdida \nde este derecho, de manera que el inversor tendrá que optar entre \npermanecer en un fondo con nuevas características o reembolsar \nasumiendo en su caso las comisiones aplicables.\n\nLos fondos de inversión y la inversión colectiva\nXI. Otros tipos de \nInstituciones de \nInversión Colectiva\nExisten distintos criterios para clasificar la gama de instituciones de inversión \ncolectiva recogida en nuestra legislación. Según la forma jurídica se distingue \nentre fondos y sociedades; la naturaleza de las inversiones determina que una \ninstitución sea financiera o no financiera... Hasta ahora se ha hecho referencia \nexclusiva a los fondos de inversión mobiliaria (FI), por ser el producto más \nextendido entre los inversores particulares.\nSin embargo, existen otros tipos de instituciones de inversión colectiva que \npresentan ciertas peculiaridades en relación con el régimen general descrito \nen los anteriores capítulos:\nSociedades de inversión mobiliaria (SICAV)\nFondos cotizados\nFondos de inversión libre y fondos de fondos de inversión libre\nInstituciones de inversión colectiva extranjeras\na)\nb)\nc)\nd)\n\nLos fondos de inversión y la inversión colectiva\nSociedades de inversión mobiliaria (SICAV)\nSe diferencian de los fondos de inversión en que los primeros son \nsimplemente un patrimonio en el cual cada ahorrador se convierte \nen un partícipe de dicho fondo. En cambio, las SICAV son sociedades \nanónimas y los ahorradores que aportan su dinero se convierten en \naccionistas. Las SICAV pueden autogestionarse o encargar su gestión a \nuna sociedad gestora de instituciones de inversión colectiva (SGIIC). \nAl igual que los fondos de inversión, las SICAV también pueden tener \ncompartimentos con distintas políticas de inversión y emitir diferentes \nseries de acciones con su propio régimen de comisiones.. Las acciones \nde las SICAV pueden negociarse en bolsas de valores o sistemas \nmultilaterales de negociación o se puede invertir en ellas mediante \nun procedimiento similar a la suscripción y reembolso de fondos de \ninversión. \nFondos cotizados\nLos fondos cotizados o ETFs (“exchange traded funds”) son aquellos \ncuyas participaciones se negocian en bolsas de valores. Su política de \ninversión consiste en reproducir la evolución de índices bursátiles o de \nrenta fija, o incluso de valores cotizados.\nLa negociación bursátil de las participaciones permite al inversor \nconocer en todo momento cuál es el valor liquidativo. Se podría por \ntanto comprar y vender varias veces al día, a precios diferentes según \nla evolución del índice o acción. En definitiva, la operativa sería similar a \nla compra y venta de acciones en bolsa, con las consiguientes ventajas \nde liquidez, transparencia e inmediatez.\nFondos de inversión libre y fondos de fondos de inversión libre\nLos fondos de inversión libre (FIL) y los fondos de fondos de \ninversión libre (IICIICIL) son fondos de inversión que se gestionan \nmediante estrategias y técnicas en general sofisticadas y presentan \nb)\na)\nc)\n\nLos fondos de inversión y la inversión colectiva\ncaracterísticas y riesgos difíciles de comprender para el inversor \nparticular.\nLos fondos de fondos de inversión libre se conciben, en principio, \ncomo un producto accesible para el inversor particular, mientras que \nlos fondos de inversión libre se comercializan a clientes profesionales y \nclientes que inviertan al menos 100.000 euros.\nLos fondos de inversión libre también se conocen como fondos de \ninversión alternativa o hedge funds. No están sujetos a las restricciones \nde inversión establecidas para la mayor parte de los fondos: pueden \ninvertir en cualquier tipo de activo, seguir la estrategia de inversión \nque consideren más apropiada y endeudarse en mayor medida que el \nresto de los fondos (hasta varias veces su patrimonio). En general son \nproductos poco líquidos, ya que tienen la posibilidad de permitir los \nreembolsos sólo cada tres o seis meses.\nPor tanto, la inversión en fondos de inversión libre puede llevar \naparejada significativos niveles de riesgo. Debido a sus especiales \ncaracterísticas, se dirigen a clientes profesionales (bancos, \naseguradoras, fondos de pensiones...), o clientes no profesionales pero \ncon una inversión mínima de 100.000 euros y dejando constancia por \nescrito de que se conoce los riesgos de la inversión.\n\nLos fondos de inversión y la inversión colectiva\nLos fondos de fondos de inversión libre son instituciones de \ninversión colectiva concebidas para que los inversores particulares \npuedan acceder a los productos de inversión alternativa. No invierten \ndirectamente en valores, sino en otros fondos de inversión, que han de \nser, en su mayoría, fondos de inversión libre.\nLa libertad de que gozan para decidir sus estrategias permite acceder \na nuevas oportunidades de inversión, pero también suele implicar \nmayores niveles de riesgo. El valor de la inversión puede variar de \nforma significativa a lo largo del tiempo, y el rendimiento no tiene \npor qué estar ligado a la evolución de los mercados de valores. \nEn general, son menos líquidos que los fondos tradicionales. Esto \ntiene implicaciones prácticas tanto por lo que se refiere al cálculo y \npublicación del valor liquidativo como al régimen de reembolsos:\n¥ Valor liquidativo: el precio de la participación podrá publicarse \ncon una periodicidad de tres o incluso seis meses (aunque en la \npráctica es posible que muchos fondos opten por una frecuencia \nmensual). \n¥ Reembolsos: al igual que ocurre con el valor liquidativo, pueden \npermitir los reembolsos sólo cada tres o seis meses.\nAdemás, tienen libertad para fijar sus comisiones, ya que no les \nresultan aplicables los límites máximos establecidos para los fondos \ntradicionales. Antes de contratar un fondo de fondos de inversión \nlibre, el inversor debe firmar un documento en el que declara haber \nsido informado de todos los riesgos inherentes al producto. La entidad \nestá obligada a entregar una copia firmada al partícipe. Es aconsejable \nconservarla junto con el DFI (documento con datos fundamentales \npara el inversor) y la orden de suscripción mientras se mantenga la \ncondición de partícipe.\n\nLos fondos de inversión y la inversión colectiva\nInstituciones de inversión colectiva extranjeras\nEn España también se comercializan fondos y sociedades de inversión \nextranjeras entre inversores minoristas. Estas instituciones extranjeras \npueden estar sometidas a la normativa de la Unión Europea- \nDirectiva 2009/65/CE- (instituciones armonizadas) o no estarlo (no \narmonizadas).\nLos intermediarios financieros autorizados pueden vender libremente \nen España las armonizadas (siempre que tanto la institución como la \nentidad comercializadora estén inscritas en los registros de la CNMV), \npor lo que también son una alternativa de inversión colectiva para el \ninversor español. \nTambién es posible comercializar instituciones no armonizadas en \nEspaña, previa autorización expresa de la CNMV y tras la inscripción \nen los registros públicos de este organismo, pero son un tipo de \ninstitución con menor presencia en el mercado español.\nMuchas instituciones extranjeras calculan su valor liquidativo con \nperiodicidad quincenal, mensual o superior. En estos casos, el valor \nliquidativo aplicable a las suscripciones y reembolsos será el primero \nque se calcule con posterioridad a la solicitud de la operación.\nd)\n\nLos fondos de inversión y la inversión colectiva\nXII. Cuestiones a \nconsiderar sobre los \nfondos de inversión\n¥ Los fondos garantizados presentan determinadas características que han \nde ser tenidas en cuenta, ya que pueden no resultar adecuados para todos \nlos inversores: \n• Sólo tienen seguridad de preservar su capital los partícipes que \nmantengan su inversión hasta la fecha de vencimiento de la \ngarantía. Las participaciones que se reembolsen antes o después \nde ese momento no están garantizadas, por lo que es posible \nregistrar pérdidas. Es importante, en la medida de lo posible, \nque el horizonte temporal del inversor coincida con el plazo \nestablecido por el fondo para la efectividad de la garantía.\n• En los fondos garantizados que disponen de “ventanas de \nliquidez” el partícipe podrá reembolsar su inversión en estas \nfechas sin que le cobren comisión de reembolso, pero sin \nbeneficiarse de la garantía. Además, se deberá tener muy en \ncuenta la existencia de plazos de preaviso para poder acogerse a \nesta posibilidad de reembolso sin comisión.\n• Antes del vencimiento de la garantía la gestora debe enviar a \nlos partícipes una carta comunicando este hecho y los cambios \nque se van a producir en el fondo. Si al inversor no le interesa \nmantener su participación con las nuevas condiciones dispondrá \nde un período en el que podrá reembolsar su inversión sin \ncomisiones (derecho de separación gratuito). Aunque esta \ncomunicación es obligatoria, es conveniente que el partícipe se \nmantenga atento a la fecha de vencimiento de la garantía, para \npoder valorar con tiempo la actuación a seguir.\n\nLos fondos de inversión y la inversión colectiva\n• Es importante recordar que no todos los fondos garantizados \naseguran una rentabilidad. Hay que distinguir entre los que \ngarantizan el capital invertido y una determinada rentabilidad \npredeterminada (fondos garantizados de renta fija) y los que sólo \ngarantizan el capital invertido y ofrecen la posibilidad de obtener \nuna rentabilidad (los denominados fondos garantizados de \nrendimiento variable).\n¥ Los mensajes comerciales y la publicidad no pueden incluir toda la \ninformación precisa para conocer un fondo de inversión, por lo que no \ndebe tomarse ninguna decisión sin consultar previamente el folleto, donde \nse recogen las principales características del fondo.\n¥ Las entidades comercializadoras están obligadas a entregar de forma \ngratuita a los clientes el DFI y el último informe semestral antes de suscribir \nun fondo. Después de la suscripción, el partícipe podrá encontrar estos \ndocumentos en las propias entidades financieras, en sus páginas web y en \nla web de la CNMV.\n¥ Si se suscribe un fondo de inversión a través de un agente financiero, \nnunca se le debe entregar el efectivo ni firmar cheques a su nombre.\n¥ Si la entidad financiera exige la apertura de una cuenta corriente para \ncontratar un fondo de inversión, no podrá cobrar al cliente comisiones de \napertura, mantenimiento ni cancelación, salvo que la cuenta se utilice para \noperativa ajena al fondo.\n¥ La posibilidad de que un fondo exija una inversión mínima inicial debe ser \ntenida en cuenta, sobre todo al realizar un traspaso: si éste se ordena por \nun importe inferior a la inversión mínima inicial, la suscripción no llegará a \nformalizarse y el reembolso previo podría implicar efectos fiscales para el \npartícipe.\n\nLos fondos de inversión y la inversión colectiva\n¥ De igual forma, es relevante conocer la inversión mínima a mantener: si en \nun momento dado el partícipe deseara efectuar un reembolso o traspaso \nparcial de su inversión en el fondo, y como consecuencia el valor de la \ninversión quedara por debajo del “mínimo a mantener”, la gestora podría \nllevar a cabo el reembolso total de sus participaciones.\n¥ No existen comisiones por traspaso entre fondos de inversión, pero \nel partícipe sí estaría sujeto al pago de comisiones de reembolso y \nsuscripción si así lo prevén los folletos de los fondos.\n¥ En España, los inversores particulares pueden acceder a la inversión \nalternativa o “hedge funds” a través de los fondos de fondos de inversión \nlibre. Se debe tener en cuenta que son fondos con unas características \nespeciales (gran libertad de elección de activos, posibilidad de \napalancamiento, menor liquidez) que exigen un determinado perfil de \ninversor y un conocimiento pleno de los riesgos.\n¥ Los fondos son productos de inversión, por lo que siempre llevan asociado \nalgún tipo de riesgo. La posibilidad de sufrir pérdidas será mayor o menor \nsegún la política de inversión del fondo, pero no debe nunca descartarse \npor completo.\n\nContáctanos por email\nEsta guía tiene como finalidad informar al público en general sobre distintos \naspectos relacionados con los mercados de valores. Por su naturaleza divulgativa \nno puede constituir un soporte para posteriores interpretaciones jurídicas, siendo \nla normativa vigente la única de aplicabilidad para estos fines. \n¿Necesitas más \ninformación?\nwww.cnmv.es",
+  "text_len": 79917,
+  "num_headings": 30,
+  "metadata": {
+    "producer": "iLovePDF",
+    "creation_date": "2026-06-05",
+    "mod_date": "2026-06-05"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": true,
+  "csv_meta": {
+    "title": "Los fondos de inversión y la inversión colectiva",
+    "topic": "inversión",
+    "subtopic": "fondos de inversión",
+    "difficulty": "intermedio",
+    "format": "PDF",
+    "summary": "Cómo funcionan los fondos de inversión y la inversión colectiva",
+    "learning_objective": "Entender el funcionamiento de los fondos de inversión"
+  },
+  "pdf_info": {
+    "n_pages": 56,
+    "body_size": 13.0,
+    "extractor": "pymupdf"
+  },
+  "deduped_from": null
+}

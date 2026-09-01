@@ -1,0 +1,67 @@
+{
+  "content_id": "C030",
+  "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/actualidadeducac/videos/la-detective-sara-gomez-investiga-el-fraude-por-internet.html",
+  "source": "Portal Cliente Bancario BdE",
+  "host": "clientebancario.bde.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 27864
+  },
+  "title": "La detective Sara Gómez investiga el fraude por internet",
+  "headings": [],
+  "sections": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Ir a la página de inicio del Banco de España\nIdioma\nEspañol\nEspañol\nEnglish\nContacto\n900.545.454\n/\n913.388.830\nCaja de búsqueda\nBuscar en el Portal del Cliente Bancario\nCerrar el buscador\nMostrar Caja de Búsqueda\nCliente Bancario del Banco de España Eurosistema, ir a inicio\nReclamación Online\nConsultas online\nProductos y servicios bancarios\nMostrar menú\nFinanciación\nHipotecas\nDeudores hipotecarios en dificultades\nPréstamo personal y crédito al consumo\nServicios de pago\nTarjetas\nTraspasos y transferencias\nAdeudos domiciliados\nCajeros\nDinero electrónico\nRetirada e ingresos en efectivo\nCuentas y depósitos\nCuentas corrientes, depósitos a la vista y libretas de ahorro\nDepósitos a plazo\nEfectivo y cheques\nCheques\nEfectivo\nAvales\nHerencias\nPodemos ayudarte\nMostrar menú\nConsultas y reclamaciones\nCómo realizar una consulta\nCómo realizar una reclamación\nCompendio de criterios de buenas prácticas\nAplicación EncuenTRA\nSimuladores: calcula la cuota, la rentabilidad, la TAE y mucho más\nCIRBE\nEntidades\nTipos de interés\nComisiones\nPymes y autónomos\nServicios del Banco de España para la ciudadanía\nEducación financiera\nMostrar menú\nQué es la educación financiera\nEducación financiera para el cliente bancario\nVídeos\nPodcasts\nBlog\nMostrar menú\nInicio\nEducación financiera\nVideos\nLa detective Sara Gómez investiga el fraude por internet\nVisualizar video de youtube\n1:50\nFecha de publicación:\n26/02/2021",
+      "links": [
+        {
+          "text": "La detective Sara Gómez investiga el fraude por internet",
+          "href": "http://twitter.com/share?url=https%3A%2F%2Fclientebancario.bde.es%2Fpcb%2Fes%2Fmenu-horizontal%2Factualidadeducac%2Fvideos%2F",
+          "start": 1278,
+          "end": 1334
+        }
+      ]
+    }
+  ],
+  "text": "Ir a la página de inicio del Banco de España\nIdioma\nEspañol\nEspañol\nEnglish\nContacto\n900.545.454\n/\n913.388.830\nCaja de búsqueda\nBuscar en el Portal del Cliente Bancario\nCerrar el buscador\nMostrar Caja de Búsqueda\nCliente Bancario del Banco de España Eurosistema, ir a inicio\nReclamación Online\nConsultas online\nProductos y servicios bancarios\nMostrar menú\nFinanciación\nHipotecas\nDeudores hipotecarios en dificultades\nPréstamo personal y crédito al consumo\nServicios de pago\nTarjetas\nTraspasos y transferencias\nAdeudos domiciliados\nCajeros\nDinero electrónico\nRetirada e ingresos en efectivo\nCuentas y depósitos\nCuentas corrientes, depósitos a la vista y libretas de ahorro\nDepósitos a plazo\nEfectivo y cheques\nCheques\nEfectivo\nAvales\nHerencias\nPodemos ayudarte\nMostrar menú\nConsultas y reclamaciones\nCómo realizar una consulta\nCómo realizar una reclamación\nCompendio de criterios de buenas prácticas\nAplicación EncuenTRA\nSimuladores: calcula la cuota, la rentabilidad, la TAE y mucho más\nCIRBE\nEntidades\nTipos de interés\nComisiones\nPymes y autónomos\nServicios del Banco de España para la ciudadanía\nEducación financiera\nMostrar menú\nQué es la educación financiera\nEducación financiera para el cliente bancario\nVídeos\nPodcasts\nBlog\nMostrar menú\nInicio\nEducación financiera\nVideos\nLa detective Sara Gómez investiga el fraude por internet\nVisualizar video de youtube\n1:50\nFecha de publicación:\n26/02/2021",
+  "text_len": 1400,
+  "num_headings": 0,
+  "metadata": {
+    "title": "La detective Sara Gómez investiga el fraude por internet",
+    "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/actualidadeducac/videos/la-detective-sara-gomez-investiga-el-fraude-por-internet.html",
+    "hostname": "clientebancario.bde.es",
+    "description": "La detective Sara Gómez investiga el fraude por internet",
+    "sitename": "clientebancario.bde.es",
+    "date": "2021-02-26",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": true,
+    "video_urls": [
+      "https://www.youtube.com/embed/V-nZE644rnE"
+    ],
+    "platforms": [
+      "youtube"
+    ],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "navigation_only",
+  "errors": [],
+  "title_match": true,
+  "csv_meta": {
+    "title": "La detective Sara Gómez investiga el fraude por internet",
+    "topic": "fraude",
+    "subtopic": "fraude online",
+    "difficulty": "básico",
+    "format": "vídeo educativo",
+    "summary": "Vídeo animado sobre fraude en compras online",
+    "learning_objective": "Reconocer patrones de fraude digital"
+  },
+  "deduped_from": null
+}

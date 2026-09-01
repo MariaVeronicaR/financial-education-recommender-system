@@ -1,0 +1,67 @@
+{
+  "content_id": "C082",
+  "title": "Comisiones",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Comisiones"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las comisiones bancarias son libres. Los bancos podrán cobrar lo que libremente decidan excepto en aquellos casos en los que el importe de las comisiones estén limitados por una norma, como en la cancelación anticipada de una hipoteca o de un crédito al consumo.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comisiones por productos bancarios"
+    },
+    {
+      "type": "paragraph",
+      "text": "Relación de comisiones distribuida por productos y servicios bancarios: avales, cuentas y depósitos, efectivo y cheques, hipotecas, servicios de pago, etc.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Información trimestral sobre las comisiones habitualmente aplicadas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las entidades deben publicar en sus páginas de internet y en sus establecimientos comerciales, información sobre las comisiones habitualmente aplicadas a los servicios bancarios prestados con mayor frecuencia a sus clientes, para facilitar al interesado su comparación.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Qué son las comisiones bancarias"
+    },
+    {
+      "type": "paragraph",
+      "text": "Son las cantidades que los bancos te adeudan como contraprestación a los servicios que prestan (por ejemplo, enviar una transferencia, cambiar divisas, administrar una cuenta, estudiar la viabilidad de un préstamo, concederte una tarjeta de crédito, etc.).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "CONSULTAS FRECUENTES"
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "¿Pueden cobrarme comisiones de mantenimiento en una cuenta que solo se usa para la gestión de un aval bancario? Leer respuestasobre¿Pueden cobrarme comisiones de mantenimiento en una cuenta que solo se usa para la gestión de un aval bancario?"
+      ]
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:28:06.997331+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 3126,
+    "input_tokens": 2123,
+    "output_tokens": 897
+  }
+}

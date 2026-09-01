@@ -1,0 +1,35 @@
+concept_id,prerequisite_concept_id,reason
+C12,C02,Para invertir es necesario contar con ahorro disponible
+C12,C07,La inflación afecta la rentabilidad real de cualquier inversión
+C12,C06,El interés compuesto explica cómo crece el capital a lo largo del tiempo
+C12,C13,Toda inversión implica un nivel de riesgo que debe comprenderse
+C09,C01,Una tarjeta de crédito debe usarse dentro de un presupuesto planificado
+C09,C03,El uso de tarjeta puede generar deuda si no se controla
+C10,C01,Un préstamo se evalúa en función del presupuesto del solicitante
+C10,C03,Un préstamo es una forma específica de deuda
+C11,C10,Una hipoteca es un tipo particular de préstamo
+C11,C05,La hipoteca se amortiza con cálculos basados en intereses
+C11,C03,La hipoteca es una deuda a largo plazo respaldada por el inmueble
+C14,C12,Diversificar requiere comprender qué es invertir
+C14,C13,Diversificar es una estrategia de gestión del riesgo
+C16,C01,La planificación financiera parte de un presupuesto realista
+C16,C02,La planificación requiere establecer objetivos de ahorro
+C06,C05,El interés compuesto se construye sobre la base del interés simple
+C19,C04,La TAE se utiliza para comparar productos de crédito
+C19,C05,La TAE incorpora el efecto de los intereses
+C26,C12,Un fondo de inversión es un vehículo para invertir
+C26,C14,Los fondos aplican diversificación automática
+C23,C16,Los planes de pensiones son parte de la planificación a largo plazo
+C23,C02,Los planes de pensiones son instrumentos de ahorro para la jubilación
+C24,C12,Los activos son los instrumentos en los que se invierte
+C25,C13,La volatilidad es una medida directa del riesgo
+C27,C29,Invertir en criptomonedas requiere proteger adecuadamente las claves y datos
+C27,C13,Las criptomonedas son activos de alta volatilidad y riesgo
+C27,C12,Las criptomonedas son un activo en el que se invierte
+C30,C12,Las finanzas sostenibles aplican criterios ESG a decisiones de inversión
+C15,C29,Para evitar fraude es necesario proteger los datos personales
+C22,C13,Los seguros existen para cubrir riesgos concretos
+C17,C07,El tipo de cambio se ve afectado por la inflación relativa entre países
+C18,C08,Las comisiones se aplican sobre productos de cuentas y servicios bancarios
+C21,C02,Los impuestos gravan la renta y el ahorro
+C20,C07,El PIB y la inflación son indicadores macroeconómicos relacionados

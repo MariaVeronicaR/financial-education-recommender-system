@@ -1,0 +1,84 @@
+{
+  "content_id": "C048",
+  "url": "https://www.finanzasparatodos.es/fondo-de-emergencia-que-es-cuanto-necesitas-y-como-construirlo",
+  "source": "Finanzas para Todos",
+  "host": "www.finanzasparatodos.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 42625
+  },
+  "title": "Fondo de emergencia: qué es, cuánto necesitas y cómo construirlo",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Fondo de emergencia: qué es, cuánto necesitas y cómo construirlo"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Fondo de emergencia: qué es, cuánto necesitas y cómo construirlo",
+      "start": 0,
+      "end": 1534,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fondo de emergencia: qué es, cuánto necesitas y cómo construirlo"
+    },
+    {
+      "type": "paragraph",
+      "text": "02/05/2025\n¿Y si mañana te quedas sin trabajo o tu coche deja de funcionar? Ahí es donde entra el fondo de emergencia, tu red de seguridad financiera. Un fondo de emergencia es una reserva de dinero destinada exclusivamente a cubrir imprevistos, como reparaciones, desempleo, etc. No se debe usar para las vacaciones ni para caprichos, es un fondo para emergencias reales.\nEse dinero tiene que estar fácilmente disponible cuanto lo necesites, pero eso no significa que lo tengamos que tener en casa debajo del colchón. Puede estar en una cuenta a la vista o en una cuenta ahorro, por ejemplo.\n¿Cuánto deberías tener? El mínimo recomendado es un importe que cubra entre 3 y 6 meses de tus gastos básicos: vivienda, comida, servicios, transporte, etc. De esta forma, tendrás tiempo para reaccionar sin endeudarte.\n¿Cómo construirlo?\nPara empezar, calcula tus gastos mensuales esenciales y define tu meta. Puedes empezar poco a poco, dependiendo de tus ingresos, e ir aumentando la cantidad según tus posibilidades. Inclúyelo en tu presupuesto como un gasto más y programa transferencias mensuales si tienes una cuenta de ahorro donde guardarlo.\nPuedes aprovechar ingresos extra como la paga extra o una devolución de la renta para hacerlo crecer más rápido.\nTener un fondo de emergencia contribuye a tu salud financiera. No sabes cuándo lo necesitarás, pero cuando lo hagas, te alegrarás de haberlo preparado.\nCategorías"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Planificación y presupuesto",
+        "Ahorro e inversión"
+      ]
+    }
+  ],
+  "text": "Fondo de emergencia: qué es, cuánto necesitas y cómo construirlo\n02/05/2025\n¿Y si mañana te quedas sin trabajo o tu coche deja de funcionar? Ahí es donde entra el fondo de emergencia, tu red de seguridad financiera. Un fondo de emergencia es una reserva de dinero destinada exclusivamente a cubrir imprevistos, como reparaciones, desempleo, etc. No se debe usar para las vacaciones ni para caprichos, es un fondo para emergencias reales.\nEse dinero tiene que estar fácilmente disponible cuanto lo necesites, pero eso no significa que lo tengamos que tener en casa debajo del colchón. Puede estar en una cuenta a la vista o en una cuenta ahorro, por ejemplo.\n¿Cuánto deberías tener? El mínimo recomendado es un importe que cubra entre 3 y 6 meses de tus gastos básicos: vivienda, comida, servicios, transporte, etc. De esta forma, tendrás tiempo para reaccionar sin endeudarte.\n¿Cómo construirlo?\nPara empezar, calcula tus gastos mensuales esenciales y define tu meta. Puedes empezar poco a poco, dependiendo de tus ingresos, e ir aumentando la cantidad según tus posibilidades. Inclúyelo en tu presupuesto como un gasto más y programa transferencias mensuales si tienes una cuenta de ahorro donde guardarlo.\nPuedes aprovechar ingresos extra como la paga extra o una devolución de la renta para hacerlo crecer más rápido.\nTener un fondo de emergencia contribuye a tu salud financiera. No sabes cuándo lo necesitarás, pero cuando lo hagas, te alegrarás de haberlo preparado.\nCategorías\n- Planificación y presupuesto\n- Ahorro e inversión",
+  "text_len": 1534,
+  "num_headings": 1,
+  "metadata": {
+    "title": "Fondo de emergencia: qué es, cuánto necesitas y cómo construirlo",
+    "url": "https://www.finanzasparatodos.es/fondo-de-emergencia-que-es-cuanto-necesitas-y-como-construirlo?utm_source=chatgpt.com",
+    "hostname": "finanzasparatodos.es",
+    "description": "Fondo de emergencia: qué es, cuánto necesitas y cómo construirlo",
+    "sitename": "finanzasparatodos.es",
+    "date": "2025-05-02",
+    "tags": [
+      "Fondo de emergencia: qué es, cuánto necesitas y cómo construirlo"
+    ],
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Fondo de emergencia: por qué y cómo crearlo",
+    "topic": "ahorro",
+    "subtopic": "fondo de emergencia",
+    "difficulty": "básico",
+    "format": "artículo web",
+    "summary": "Por qué conviene tener un fondo de emergencia y de qué tamaño",
+    "learning_objective": "Construir un colchón de seguridad financiera"
+  },
+  "deduped_from": null
+}

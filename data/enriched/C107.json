@@ -1,0 +1,57 @@
+{
+  "content_id": "C107",
+  "tldr": "La persuasión digital para inversores usa técnicas conductuales, diseño de interfaces, algoritmos y notificaciones para influir en las decisiones de los usuarios en plataformas online, a diferencia de la persuasión tradicional que se apoya en la interacción humana y un análisis más racional. Estas prácticas de captación digital (Digital Engagement Practices) pueden ser beneficiosas, pero también derivar en patrones oscuros (dark patterns) que manipulan o engañan al inversor. El contenido clasifica estas técnicas según la estructura, la información y la presión de la elección, e incluye ejemplos como opciones predeterminadas, clasificaciones y precios divididos, con el objetivo de que el inversor las identifique y se proteja.",
+  "key_points": [
+    "La persuasión digital opera mediante plataformas online que combinan datos, automatización y diseño de interfaces, mientras que la tradicional se basa en la interacción humana y un análisis más racional.",
+    "Las técnicas de captación digital (término de la SEC) buscan captar la atención e influir en el comportamiento del inversor, y pueden ser legítimas o convertirse en manipulación.",
+    "Los patrones oscuros (dark patterns) son diseños engañosos que inducen conductas no deseadas, favoreciendo a la plataforma en perjuicio del usuario.",
+    "Su eficacia se apoya en mecanismos psicológicos (sesgos y pensamiento automático o Sistema 1), diseño persuasivo (modelo de Fogg) y personalización algorítmica mediante datos.",
+    "Las prácticas se clasifican en tres ámbitos: estructura de la elección, información de la elección y presión para la elección, e incluyen ejemplos como opciones predeterminadas y clasificaciones."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué diferencia principal existe entre la persuasión tradicional y la persuasión digital según el contenido?",
+      "options": [
+        "La tradicional usa algoritmos y la digital se basa en la interacción humana directa",
+        "La digital predomina la ruta periférica (decisiones rápidas ante estímulos), mientras que la tradicional favorece la ruta central con análisis más racional",
+        "La tradicional es siempre más efectiva que la digital para influir en los inversores",
+        "La digital solo se usa en redes sociales y la tradicional solo en prensa y televisión"
+      ],
+      "correct_index": 1,
+      "explanation": "En la persuasión digital predomina la ruta periférica (respuestas rápidas a señales como notificaciones y diseño), mientras que la tradicional favorece la ruta central con evaluación racional de la información.",
+      "concept_id": "C15"
+    },
+    {
+      "question": "¿Qué son los 'patrones oscuros' (dark patterns) en el entorno digital?",
+      "options": [
+        "Diseños de interfaz que siempre benefician al usuario facilitando decisiones informadas",
+        "Técnicas basadas en el comportamiento humano que inducen conductas engañosas o no consentidas en beneficio de la plataforma",
+        "Estilos visuales con colores oscuros que mejoran la legibilidad de las plataformas",
+        "Herramientas legales que obligan a las plataformas a mostrar toda la información disponible"
+      ],
+      "correct_index": 1,
+      "explanation": "Los patrones oscuros son diseños engañosos que buscan confundir o perjudicar al usuario para favorecer los intereses de la plataforma, no ayudar a tomar decisiones informadas.",
+      "concept_id": "C15"
+    },
+    {
+      "question": "Según el contenido, ¿en qué se basa la efectividad de las prácticas de captación digital?",
+      "options": [
+        "Exclusivamente en la calidad y veracidad de la información financiera que ofrecen",
+        "En mecanismos psicológicos (sesgos y pensamiento automático), diseño persuasivo y personalización algorítmica mediante datos",
+        "En la regulación legal vigente que las plataformas deben cumplir de forma obligatoria",
+        "En el uso de asesores humanos que explican cada producto al inversor"
+      ],
+      "correct_index": 1,
+      "explanation": "La efectividad se apoya en la explotación de sesgos cognitivos (Sistema 1), en el diseño persuasivo (modelo de Fogg) y en la personalización algorítmica basada en los datos del usuario.",
+      "concept_id": "C15"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 6464,
+    "input_tokens": 8815,
+    "output_tokens": 1131
+  }
+}

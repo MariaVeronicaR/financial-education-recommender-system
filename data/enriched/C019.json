@@ -1,0 +1,57 @@
+{
+  "content_id": "C019",
+  "tldr": "Las tarjetas son instrumentos de pago emitidos por una entidad financiera o comercio que permiten pagar sin dinero en efectivo. Existen distintos tipos (débito y crédito) y antes de contratar una hay que revisar sus condiciones, formas de pago, intereses y comisiones. También es clave saber cómo actuar ante la pérdida, robo o uso fraudulento de la tarjeta, así como sus derechos y obligaciones.",
+  "key_points": [
+    "Las tarjetas permiten pagar en comercios o extraer efectivo sin disponer de dinero en mano, y existen de débito y de crédito.",
+    "Al contratar una tarjeta adquieres derechos y obligaciones, por lo que debes revisar las condiciones del contrato y conservar la documentación.",
+    "Conviene conocer las formas de pago y los intereses de cada tarjeta para elegir la que mejor se adapte a tus necesidades.",
+    "Ante la pérdida o robo de una tarjeta es importante saber cómo actuar para evitar o limitar el uso fraudulento.",
+    "Antes de contratar tarjetas con condiciones especiales (como las revolving) hay que informarse bien de sus características y costes."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cuál es la principal diferencia práctica entre una tarjeta de débito y una de crédito?",
+      "options": [
+        "La de débito paga con dinero que ya tienes en tu cuenta, mientras que la de crédito te permite pagar con dinero que te presta la entidad.",
+        "La de crédito solo sirve para extraer efectivo, mientras que la de débito solo sirve para pagar en comercios.",
+        "La de débito siempre tiene comisiones y la de crédito nunca las tiene.",
+        "La de crédito solo la pueden contratar comercios, no particulares."
+      ],
+      "correct_index": 0,
+      "explanation": "La tarjeta de débito descuenta directamente el dinero de tu cuenta, mientras que la de crédito te permite financiar el pago con dinero prestado por la entidad, lo que puede generar intereses.",
+      "concept_id": "C09"
+    },
+    {
+      "question": "Según el contenido, ¿qué deberías hacer antes de contratar una tarjeta para evitar sorpresas?",
+      "options": [
+        "Prestar atención a las condiciones de la tarjeta y conservar la documentación del contrato.",
+        "Contratar siempre la primera tarjeta que te ofrezcan sin leer nada.",
+        "Guardar la tarjeta sin revisar nunca los intereses ni comisiones.",
+        "Pedir la tarjeta solo por teléfono y sin documentación escrita."
+      ],
+      "correct_index": 0,
+      "explanation": "Como en cualquier contrato, hay que revisar las condiciones (intereses, comisiones, formas de pago) y conservar la documentación para conocer tus derechos y obligaciones.",
+      "concept_id": "C18"
+    },
+    {
+      "question": "Si te roban o pierdes tu tarjeta y alguien la utiliza de forma fraudulenta, ¿qué es lo más importante que debes tener en cuenta?",
+      "options": [
+        "Conocer cómo actuar ante el uso fraudulento para protegerte y limitar las consecuencias.",
+        "No hacer nada, ya que la entidad siempre asume todo el riesgo automáticamente.",
+        "Seguir usando la tarjeta como si nada hubiera pasado.",
+        "Esperar a que el banco detecte el fraude por su cuenta sin informar."
+      ],
+      "correct_index": 0,
+      "explanation": "Ante la pérdida o robo, es clave saber cómo proceder (avisar a la entidad, seguir las recomendaciones de seguridad) para evitar o minimizar el uso fraudulento de la tarjeta.",
+      "concept_id": "C15"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 9107,
+    "input_tokens": 1630,
+    "output_tokens": 1125
+  }
+}

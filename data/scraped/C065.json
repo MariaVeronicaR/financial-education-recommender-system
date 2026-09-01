@@ -1,0 +1,727 @@
+{
+  "content_id": "C065",
+  "url": "https://www.cnmv.es/DocPortal/Publicaciones/Guias/ChiringuitosFinancieros.pdf",
+  "source": "CNMV",
+  "host": "www.cnmv.es",
+  "url_type": "pdf",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 1256217
+  },
+  "title": "Chiringuitos Financieros",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Chiringuitos"
+    },
+    {
+      "level": 1,
+      "text": "I. Introducción"
+    },
+    {
+      "level": 1,
+      "text": "II. ¿Por qué son"
+    },
+    {
+      "level": 1,
+      "text": "peligrosos los"
+    },
+    {
+      "level": 1,
+      "text": "«chiringuitos"
+    },
+    {
+      "level": 1,
+      "text": "financieros»?"
+    },
+    {
+      "level": 1,
+      "text": "Confiar en un chiringuito es"
+    },
+    {
+      "level": 1,
+      "text": "una forma segura de perder el"
+    },
+    {
+      "level": 1,
+      "text": "recurrir a ninguno de los"
+    },
+    {
+      "level": 1,
+      "text": "mecanismos de protección"
+    },
+    {
+      "level": 1,
+      "text": "del inversor previstos en las"
+    },
+    {
+      "level": 1,
+      "text": "disposiciones legales."
+    },
+    {
+      "level": 1,
+      "text": "III. Cómo actúan (I):"
+    },
+    {
+      "level": 1,
+      "text": "técnicas de contacto"
+    },
+    {
+      "level": 1,
+      "text": "IV. Cómo actúan (II):"
+    },
+    {
+      "level": 1,
+      "text": "técnicas de persuasión"
+    },
+    {
+      "level": 1,
+      "text": "V. Cuándo se debe"
+    },
+    {
+      "level": 1,
+      "text": "sospechar de una oferta"
+    },
+    {
+      "level": 1,
+      "text": "VI. Cómo protegerse"
+    },
+    {
+      "level": 1,
+      "text": "frente a un posible"
+    },
+    {
+      "level": 1,
+      "text": "VII. Qué hacer si ya se les"
+    },
+    {
+      "level": 1,
+      "text": "ha entregado el dinero"
+    },
+    {
+      "level": 1,
+      "text": "VIII. ¿Dónde conseguir"
+    },
+    {
+      "level": 1,
+      "text": "más información?"
+    },
+    {
+      "level": 1,
+      "text": "IX. Recomendaciones"
+    },
+    {
+      "level": 1,
+      "text": "finales: Decálogo para"
+    },
+    {
+      "level": 1,
+      "text": "evitar chiringuitos"
+    },
+    {
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "level": 1,
+      "text": "información?"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Chiringuitos",
+      "start": 0,
+      "end": 461,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "I. Introducción",
+      "start": 461,
+      "end": 703,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "II. ¿Por qué son",
+      "start": 703,
+      "end": 723,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "peligrosos los",
+      "start": 723,
+      "end": 740,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "«chiringuitos",
+      "start": 740,
+      "end": 755,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "financieros»?",
+      "start": 755,
+      "end": 2965,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "Confiar en un chiringuito es",
+      "start": 2965,
+      "end": 3026,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "una forma segura de perder el",
+      "start": 3026,
+      "end": 3087,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "recurrir a ninguno de los",
+      "start": 3087,
+      "end": 3114,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "mecanismos de protección",
+      "start": 3114,
+      "end": 3140,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "del inversor previstos en las",
+      "start": 3140,
+      "end": 3171,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "disposiciones legales.",
+      "start": 3171,
+      "end": 3220,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "III. Cómo actúan (I):",
+      "start": 3220,
+      "end": 3243,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "técnicas de contacto",
+      "start": 3243,
+      "end": 13050,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "IV. Cómo actúan (II):",
+      "start": 13050,
+      "end": 13207,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "técnicas de persuasión",
+      "start": 13207,
+      "end": 17291,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "V. Cuándo se debe",
+      "start": 17291,
+      "end": 17366,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "sospechar de una oferta",
+      "start": 17366,
+      "end": 21159,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VI. Cómo protegerse",
+      "start": 21159,
+      "end": 21228,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "frente a un posible",
+      "start": 21228,
+      "end": 29291,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VII. Qué hacer si ya se les",
+      "start": 29291,
+      "end": 29425,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "ha entregado el dinero",
+      "start": 29425,
+      "end": 31300,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VIII. ¿Dónde conseguir",
+      "start": 31300,
+      "end": 31350,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "más información?",
+      "start": 31350,
+      "end": 32163,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "IX. Recomendaciones",
+      "start": 32163,
+      "end": 32193,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "finales: Decálogo para",
+      "start": 32193,
+      "end": 32217,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "evitar chiringuitos",
+      "start": 32217,
+      "end": 34933,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "¿Necesitas más",
+      "start": 34933,
+      "end": 34982,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "información?",
+      "start": 34982,
+      "end": 35008,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Chiringuitos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Financieros\nGuía"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros\nÍndice\nIntroducción\n¿Por qué son peligrosos los\n«chiringuitos financieros»?\nCómo actúan (I):\ntécnicas de contacto\nCómo actúan (II):\ntécnicas de persuasión\nCuándo se debe sospechar de\nuna oferta financiera\nCómo protegerse frente a un\nposible chiringuito\nQué hacer si ya se les ha\nentregado el dinero\n¿Dónde conseguir más\ninformación?\nRecomendaciones finales"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "I. Introducción"
+    },
+    {
+      "type": "paragraph",
+      "text": "El término “chiringuito financiero” define de manera informal a aquellas\nentidades que ofrecen y prestan servicios de inversión sin estar autorizadas\npara hacerlo.\nChiringuitos\nFinancieros"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. ¿Por qué son"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "peligrosos los"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "«chiringuitos"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "financieros»?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los chiringuitos financieros son peligrosos porque en la mayoría de los casos\nla aparente prestación de tales servicios es sólo una tapadera para apropiarse\ndel capital de sus víctimas, haciéndoles creer que están realizando una\ninversión de alta rentabilidad. Es importante tener claro que los elevados\nrendimientos que ofrecen suelen ser demasiado buenos para ser ciertos:\nsólo son el cebo con el que consiguen que los inversores menos informados\no más confiados les entreguen sus ahorros. Cuando no pueden justificar\nlas pérdidas, simplemente desaparecen o cambian de nombre. Es decir, no\nse trata de entidades más o menos solventes o con mayores o menores\nhabilidades en la gestión financiera. Sencillamente, son estafadores.\nMientras las empresas autorizadas para prestar servicios de inversión\n(sociedades y agencias de valores, sociedades gestoras de cartera, EAFI,\nbancos y cajas de ahorros, etc.) están sometidas a las normas que regulan\nlos mercados de valores y a estrictos controles por parte de los organismos\nsupervisores (CNMV y Banco de España), los chiringuitos financieros actúan al\nmargen de la legalidad. Esto supone que:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros\n¥ No están registrados en la CNMV ni en el Banco de España. Sólo las\nempresas registradas han obtenido del supervisor competente\nuna autorización para prestar servicios de inversión, tras acreditar\nel cumplimiento de ciertos requisitos (capital suficiente, organización y\nmedios adecuados, etc.).\n¥ No están adheridos al Fondo de Garantía de Inversiones o de Depósitos,\npor lo que los inversores no están protegidos en caso de insolvencia de la\nentidad no autorizada (las entidades autorizadas son las que contribuyen a\nestos Fondos con sus aportaciones).\nNo existe un tipo concreto de víctima de los chiringuitos ya que a menudo\nse trata de estafas muy elaboradas y con apariencia de credibilidad en las\nque puede caer cualquiera: pequeños empresarios, particulares con cierto\nnivel de ahorro, profesionales liberales, etc. Es fácil resultar vulnerable ante\nlas promesas de enriquecimiento rápido y sin riesgo de los chiringuitos\nfinancieros, que por muy bien construidas que estén siempre son falsas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Confiar en un chiringuito es"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "una forma segura de perder el"
+    },
+    {
+      "type": "paragraph",
+      "text": "capital, ya que no es posible"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "recurrir a ninguno de los"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "mecanismos de protección"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "del inversor previstos en las"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "disposiciones legales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "III. Cómo actúan (I):"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "técnicas de contacto"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los canales que utilizan los «chiringuitos financieros» para contactar con sus\npotenciales víctimas no son distintos de los que puede emplear cualquier\nentidad legalmente autorizada para difundir sus propuestas comerciales entre\nclientes o posibles clientes: teléfono, cartas, correo electrónico, páginas web,\nredes sociales, etc. La diferencia reside en la manera en que utilizan estos\ncanales, el tipo de mensajes que transmiten y la actitud general que muestran\npara lograr sus objetivos.\nPara obtener los contactos recurren a bases de datos (a menudo obtenidas\nde forma fraudulenta) de las que extraen direcciones de personas que,\npor ejemplo, han suscrito un determinado producto financiero, reciben\nperiódicamente una publicación económica o en alguna ocasión contestaron\nciertas encuestas en las que reflejaron sus gustos, aficiones y situación\neconómica familiar.\nLlamadas telefónicas.\nEl uso del teléfono como método de acercamiento a potenciales víctimas\nes uno de los preferidos por los chiringuitos financieros, ya que el\ncontacto directo permite ejercer ciertas técnicas de presión psicológica.\nSe trata de llamadas “en frío”, es decir, inesperadas y que no responden\na una solicitud previa de información. Esta técnica de contacto es legal,\nde hecho las entidades autorizadas la emplean con frecuencia en el\nmarco de sus campañas promocionales. Sin embargo, en el caso de las\nentidades autorizadas, lo normal es que ya seamos clientes de la entidad,\npor lo que con independencia de que la oferta concreta nos interese o\nno, sabemos que disponen de nuestros datos de forma legítima y que si\nnuestra respuesta es negativa la aceptarán sin insistir. Por el contrario, los\nchiringuitos no suelen conformarse con un “no”. En el siguiente apartado\nse detallan algunas de sus técnicas de presión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros\nCorreo\nLas cartas y materiales publicitarios que en ocasiones constituyen\nsu tarjeta de visita suelen ser escrupulosos e intachables desde un\npunto de vista comercial. Mediante lujosos folletos pueden presentar\ninversiones sofisticadas y excepcionalmente prometedoras y solicitan\na los destinatarios que contacten con ellos rellenando un cupón,\nllamándoles por teléfono o visitando su página en Internet.\nInternet y redes sociales\nEs evidente el gran crecimiento que, en los últimos años, han\nexperimentado las redes sociales y su papel en la configuración de\nnuevas maneras de relacionarse. Gracias a ellas, individuos con intereses\nen común, que pueden o no conocerse previamente, establecen\ncontacto e intercambian información sobre sus aficiones. Pese a sus\nnumerosas ventajas, el uso de las redes sociales también presenta algún\ninconveniente, particularmente el que se refiere a la elevada exposición\na la que se someten sus usuarios. Es habitual encontrar en las redes\nsociales datos relativos a la vida privada de las personas. Es importante\nser cauteloso con dichos datos pues también pueden ser aprovechados\npor potenciales chiringuitos financieros para hacerle llegar falsas ofertas\nde acuerdo con el perfil que se deduce de sus redes sociales. Por este\nmotivo, es necesario prestar especial atención al fraude a través de\ninternet y redes sociales. No se deje engañar por la sofisticación de\nalgunas páginas web. Manténgase alerta ante ofertas no solicitadas\na través de sus perfiles de redes sociales. No se deje engañar por la\nafinidad de sus “seguidores” sociales.\nCorreo electrónico\nEl gran éxito de Internet como herramienta de marketing directo se\nbasa en que permite a los anunciantes acceder a una amplia masa\nde receptores a un coste muy inferior al de los medios tradicionales\n(teléfono, buzoneo). Este hecho, unido a la posibilidad del anonimato, ha\ndado lugar a utilizaciones abusivas del medio, como por ejemplo el spam,\no envío indiscriminado por correo electrónico de ofertas comerciales no\nsolicitadas de productos o servicios dudosos, inexistentes o que rozan la\nilegalidad. Es, por tanto, un mecanismo idóneo para la difusión de ofertas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros\nde chiringuitos financieros. Es frecuente que la lista de destinatarios\nse obtenga de forma ilícita, vulnerando las normas sobre protección\nde datos personales. Además, las direcciones de procedencia de los\nmensajes suelen ser falsas, y también el objeto y encabezamiento de los\nmismos son deliberadamente engañosos.\nAsimismo, desconfíe de los correos electrónicos que utilicen el nombre\nde la CNMV —como parte del correo o de la dirección de envío—\npara invitarle a realizar inversión alguna; la CNMV no realiza ninguna\ncomunicación en este sentido.\nLa normativa vigente establece que las comunicaciones comerciales\ndeben identificarse como tales y prohíbe su envío por correo electrónico\nsalvo que hubieran sido previamente solicitadas o expresamente\nautorizadas por el destinatario. Ninguna empresa seria utilizará el spam\npara llegar a su público objetivo, ya que se trata de prácticas que invaden\nla privacidad del consumidor. Las entidades que actúan dentro de la\nlegalidad optan por el marketing autorizado, es decir, aquel que se envía\ncon el consentimiento del receptor, pidiéndole su permiso para incluirle\nen una lista y utilizar sus datos con fines comerciales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros\nCuando se trata de productos y servicios financieros, hay que ser muy\nprecavido con las ofertas e informaciones recibidas, incluso aunque\nhayan sido solicitadas o consentidas. El fraude financiero a través de\nInternet suele llevarse a cabo mediante medios más sofisticados y\ncon un alcance muy superior al habitual. El spam es sólo uno de los\nmecanismos posibles, ya que Internet ofrece diversas herramientas para\ndifundir ofertas dudosas o potencialmente fraudulentas: tablones, grupos\nde noticias, chats, o incluso sofisticadas páginas web.\nAunque en sentido estricto no se trata de chiringuitos financieros,\nconviene mencionar una estafa frecuente y peligrosa: el phishing. Son\ncorreos electrónicos que parecen proceder de entidades financieras\nreconocidas y solventes, en los que por motivos “de seguridad” se\nsolicitan al destinatario sus claves personales de acceso. Estos mensajes\nsuelen conducir a una página web que replica la auténtica de la entidad\n(aunque puede tener faltas de ortografía y de diseño), en la que el\nconfiado cliente introduce sus claves. En realidad lo que pretenden los\ndelincuentes es utilizarlas para disponer de los fondos del titular. Es\nimportante recordar que ninguna entidad autorizada pedirá jamás a sus\nclientes información personal ni claves completas. Ellos ya disponen de\nesos datos y bajo ningún concepto necesitan pedírselos, menos aún por\nmedios tan poco confidenciales como el correo electrónico o el teléfono.\nMás sofisticada es la acción denominada pharming: a través de esta\nacción, los ladrones de datos consiguen que las páginas visitadas no se\ncorrespondan con las auténticas, sino con otras creadas para recabar\ndatos confidenciales, que tienen el mismo aspecto que la original. Así,\nel internauta introducirá sus datos confidenciales sin ningún temor, sin\nsaber que los está remitiendo a un delincuente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros\nSe recomienda que no confíe nunca su información personal o\nconfidencial a personas o empresas desconocidas. Elimine todos\nsus correos electrónicos que soliciten información confidencial. Si la\nsolicitud parece legítima, utilice un número de teléfono establecido para\nverificarla. Además, se recomienda no acceder a su entidad a través de\nenlaces, sino tecleando la dirección URL en la barra de direcciones y\nque, en caso de que sea posible, instale en su ordenador una solución\nantiphising o antipharming.\nAnuncios\nLos chiringuitos financieros también utilizan la publicidad en\nperiódicos, revistas u otros medios (como redes sociales) para\nofrecer oportunidades de beneficio mucho más atractivas que las\nque proporcionan las inversiones tradicionales; oportunidades que,\nnaturalmente, no son tales en realidad.\nReferencias personales.\nEs habitual que las personas tomen sus decisiones de inversión\nbasándose en recomendaciones de conocidos o familiares en\nquienes confían. Sabiendo esto, en ocasiones, los chiringuitos pagan\ngrandes “beneficios” a los primeros clientes, utilizando para ello su\npropio dinero o el de otros inversores; esto es lo que se denomina estafa\npiramidal. Así, la aparente eficacia de su gestión se difundirá de forma\nespontánea entre el círculo de relaciones de esos clientes satisfechos.\nEn ocasiones, el «chiringuito financiero» le puede ofrecer un bono o\nbonificación de entrada como premio a sus inversiones. Si bien esta\nbonificación es aparentemente gratuita, en ocasiones exige que el\ninversor, cuando desea cerrar las cuentas abiertas con esa empresa,\nrealice una última inversión efectiva por un importe igual o superior\nal importe de dicho bono (en ocasiones, de hasta 30 veces mayor);\ninversión que suele terminar con la pérdida de todo o parte del capital\ninvertido y los beneficios acumulados hasta ese momento."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros\nEn realidad, estos inversores que involuntariamente actúan como\ncebo sólo van a obtener algún rendimiento al principio. Las sucesivas\n“inversiones” empezarán a generar pérdidas. Entonces, la entidad\nno responderá a las solicitudes de reintegro del capital y finalmente\ndesaparecerá con todo el dinero aportado.\nLas recomendaciones personalizadas de inversión deben ser hechas\nsiempre por un profesional o entidad autorizada para ello, ya que lo que\nes bueno para un inversor puede no serlo para otro, dependiendo de sus\ndiferentes circunstancias personales y financieras. Es decir, la confianza\nen el amigo o familiar que nos aconseja no debe ser el argumento\ndeterminante para decidir una inversión, ya que pueden faltarle datos\no haber sido él mismo sorprendido en su buena fe."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "IV. Cómo actúan (II):"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "técnicas de persuasión"
+    },
+    {
+      "type": "paragraph",
+      "text": "A continuación se señalan, a modo de ejemplo, algunas de las técnicas\nde persuasión que utilizan los chiringuitos financieros. No es posible ser\nexhaustivo, ya que sus argumentos y métodos de actuación son cada vez más\nsofisticados. Por eso es importante mantenerse alerta ante cualquier oferta\nfinanciera que no provenga de un intermediario conocido o registrado.\n¥ Predicciones acertadas.\nUna técnica bastante simple pero muy efectiva consiste en realizar\nun número elevado de llamadas. En ellas la entidad se limita a\npresentarse, sin solicitar dinero ni compromiso alguno. Para demostrar su\nconocimiento de los mercados financieros, en la mitad de las llamadas\nafirman estar seguros de la subida de un determinado valor. En otro\ngrupo de llamadas “predicen” la bajada del mismo valor. En los días\nsiguientes repiten el procedimiento, pero sólo con el grupo a quien se\nrealizó la predicción acertada. Al cabo de varios días quedarán unos\ncuantos clientes, convencidos de la infalibilidad de una empresa que ha\nacertado todos sus pronósticos durante varios días consecutivos, y por\ntanto dispuestos a entregarles sus ahorros.\n¥ Apariencia de respetabilidad y éxito.\nLos responsables de los chiringuitos financieros saben que parecer\nrespetables y expertos en los mercados es requisito primordial para\nconseguir clientes. Por eso visten con elegancia y alquilan oficinas de\nlujo que abren al público como si se tratara de una prestigiosa empresa\nde inversión. En ocasiones es difícil conseguir cita para entrevistarse\ncon ellos, ya que desean dar la imagen de personas ocupadas cuyos\nservicios están muy demandados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros\n¥ Explicaciones incomprensibles y uso de tecnicismos.\nTodos los que ofrecen inversiones fraudulentas tienen en común\nsu habilidad para hablar de mercados lejanos y exóticos, con una\nseguridad y dominio de los tecnicismos que les hacen parecer expertos\nconocedores de la materia. En realidad, el objetivo es que la potencial\nvíctima no entienda nada y opte por confiar en quienes sí parecen\nconocer tan sofisticadas posibilidades de inversión.\n¥ Ofrecimiento de grandes beneficios con pocos riesgos.\nPrometen beneficios muy superiores a los que en cada momento puedan\nobtenerse de una inversión convencional, con un riesgo mínimo en\ncomparación con las potenciales ganancias. En realidad, un principio\nbásico que cualquier inversor debe tener presente es que la rentabilidad\ny el riesgo van unidos de forma inseparable. La posibilidad de obtener\nrendimientos elevados siempre implica asumir riesgos elevados. Por\ntanto, hay que desconfiar de cualquier oferta que asegure elevadas\nrentabilidades sin riesgo.\n¥ Insistencia para que se adopte una decisión inmediata.\nPara los chiringuitos financieros, la urgencia es un factor importante: no\nsólo porque desean conseguir el dinero cuanto antes y con el menor\nesfuerzo posible, sino porque saben que si el inversor medita con\ntiempo la operación que se le propone, o si tiene ocasión de solicitar\nasesoramiento profesional y fiable, probablemente rechazará la oferta.\nPor tanto, utilizan argumentos dirigidos a lograr una decisión inmediata:\nintentan convencer a su víctima de que se trata de oportunidades únicas\nque no volverán a presentarse. Los inversores deben tener en cuenta\nque esto no es cierto: siempre existe tiempo suficiente para analizar las\ncaracterísticas de una oferta financiera y comprobar que se adapta a las\npropias necesidades y expectativas en un momento dado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros\n¥ Presión psicológica:\nLa conversación, ya sea por teléfono o mediante cualquier otra vía,\nsuele comenzar de forma cordial, pero si la potencial víctima muestra\ncierta resistencia es fácil que el estafador pase a utilizar argumentos\ny modos más agresivos. Esto constituye una diferencia fundamental\ncon las entidades autorizadas, cuyos comerciales siempre respetan el\nderecho del posible cliente a no estar interesado. Aunque la presión\npsicológica puede adoptar formas muy diversas, cabe identificar algunos\ncomportamientos frecuentes:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "V. Cuándo se debe"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "sospechar de una oferta"
+    },
+    {
+      "type": "paragraph",
+      "text": "financiera\nLa mayor parte de las actitudes y argumentos empleados por los chiringuitos\nno se darían en intermediarios autorizados, ya que éstos se encuentran\nsujetos a estrictas normas de conducta. Los intermediarios autorizados\ntienen la obligación de mantener adecuadamente informados a los clientes\ny la información que aporten a los inversores debe ser imparcial, clara y no\nengañosa. En concreto, deben proporcionar información sobre los servicios\nque prestan y los instrumentos financieros, de forma que el cliente conozca\nla naturaleza y los riesgos del servicio de inversión que se le va a prestar y las\ncaracterísticas y riesgos de los instrumentos financieros que puede acabar\nadquiriendo.\nPor tanto, es importante conocer cómo se comportan los intermediarios\nautorizados, para poder apreciar la diferencia entre las personas o entidades\nque sí están habilitadas para prestar servicios de inversión y las que sólo\npretenden realizar una estafa.\n¥ Las entidades autorizadas nos solicitarán información para poder\nprestar sus servicios de manera adecuada.\nCuando el intermediario autorizado vende un determinado producto,\ndebe solicitar información al cliente o potencial cliente sobre sus\nconocimientos y experiencia en relación con dicho producto, con la\nfinalidad de evaluar si es conveniente para él. Es lo que se denomina\n“evaluación de la conveniencia”, que generalmente se realizará a través de\nun test (“test de conveniencia”). Por ello, el intermediario le realizará una\nserie de preguntas que pueden referirse a su nivel de estudios, profesión\nactual y anteriores, los tipos de instrumentos financieros con los que está\nfamiliarizado, operaciones financieras realizadas con anterioridad, etc.\nCuando el intermediario va a prestar el servicio de asesoramiento en\nmateria de inversión a un cliente o va a gestionar su cartera, además"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros\nde pedir información sobre sus conocimientos y experiencia, pedirá\ninformación adicional. En concreto, solicitará información sobre la\nsituación financiera y objetivos de inversión del cliente (preferencias en\nrelación con la asunción de riesgos, su perfil de riesgos- si se considera\nconservador, moderado o arriesgado, por ejemplo- horizonte temporal\ndeseado para la inversión, etc.). El verdadero asesoramiento siempre es\npersonalizado.\nLos chiringuitos financieros tienen como único objetivo captar el dinero\nde sus víctimas, por lo que no les preocupan ni sus conocimientos y\nexperiencia en servicios y productos de inversión ni sus circunstancias\nfinancieras: les basta con saber que están dispuestos a invertir."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros\n¥ El contacto debe haber sido solicitado o aceptado por el posible\ncliente.\nLas entidades con las que solemos trabajar tienen nuestros datos\nde forma legal, y lo habitual es que les hayamos dado permiso para\nhacernos llegar sus ofertas comerciales. Pero si una entidad de la\nque nunca hemos oído hablar se pone en contacto con nosotros\npara ofrecernos una inversión, hay que extremar las cautelas porque\nprobablemente se trate de un chiringuito.\n¥ Las entidades autorizadas nunca presionan al cliente.\nCualquier inversión debe abordarse con suficiente conocimiento de las\ncaracterísticas y riesgos del producto, por lo que es importante tener\nclaros todos los extremos antes de comprometer el capital. El inversor\nnecesita tiempo para decidirse y tiene derecho a expresar sus dudas y\nobtener respuesta a todas ellas. Sin embargo, los chiringuitos presionan\na la víctima para obtener una respuesta afirmativa inmediata, sin darle\nocasión para reflexionar.\n¥ Los verdaderos profesionales nos plantearán ofertas realistas.\nLas promesas de rentabilidades excepcionales sin riesgo deben hacernos\ndesconfiar de manera inmediata."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VI. Cómo protegerse"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "frente a un posible"
+    },
+    {
+      "type": "paragraph",
+      "text": "chiringuito\nLa principal protección frente a un chiringuito financiero es identificarlo\ncomo tal. Además de sospechar ante los comportamientos expuestos en los\napartados anteriores, lo más aconsejable es no confiar en ninguna entidad\ndesconocida mientras no se haya podido verificar que está debidamente\nautorizada para prestar servicios de inversión.\nEl inversor tiene a su alcance los siguientes mecanismos de protección, que\ndeben utilizarse siempre antes de entregar el capital:\nPedir información al organismo supervisor, en este caso la CNMV.\nIdentificar ciertas peculiaridades de la operativa propuesta.\nExigir respuestas concretas a la persona de contacto del\nchiringuito.\na)\nb)\nc)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros\nPida información a la CNMV\nEl teléfono de atención al inversor 900 535 015 de la CNMV está a su\ndisposición para informarle sobre la habilitación de las entidades para\nprestar o no servicios de inversión. Si le han aconsejado trabajar con\nuna entidad que no conoce o ha sido contactado por ella a través de\ncualquier medio, es conveniente llamar a la CNMV para asegurarse\nde que se trata de una entidad autorizada, registrada y supervisada.\nTambién pueden consultarse los registros públicos a través de la página\nweb de la CNMV (www.cnmv.es).\nAsimismo, pueden visitar la página web de la Organización Internacional\nde Comisiones de Valores (IOSCO, en sus siglas en inglés) donde los\norganismos supervisores, miembros de la Organización, incluyen las\nadvertencias sobre este tipo de entidades. (www.iosco.org)\nAdemás, la CNMV difunde regularmente advertencias sobre entidades\nde las que se sospecha que están prestando servicios de inversión sin\nautorización. Estas advertencias pueden provenir de la propia CNMV\n(cuando tiene constancia de la existencia del posible chiringuito a\ntravés de las consultas o denuncias de los inversores) o bien haber sido\ncomunicadas por algún regulador extranjero (hay que tener en cuenta\nque estas entidades pueden realizar sus actividades fraudulentas en\nmás de un país). Para facilitar a los inversores la identificación de las\nentidades que operan sin autorización, la página web de la CNMV\nofrece en su sección de “Advertencias al público” un buscador que\npermite localizarlas de forma rápida y directa. En todo caso, es necesario\ntener en cuenta que las entidades que no han sido objeto de advertencia\nno son necesariamente entidades autorizadas; simplemente es posible\nque sus actividades irregulares aún no hayan sido detectadas por los\norganismos supervisores competentes. Por tanto, en todo caso es\nnecesario confirmar que se trata de entidades autorizadas e inscritas en\nlos registros públicos de la CNMV.\nEs importante recordar que aunque la mayoría de las víctimas de un\nfraude contactan con la CNMV después de haber perdido su dinero,\nsiempre es preferible y mucho menos costoso realizar esta consulta con\ncarácter previo, es decir, antes de entregar el capital.\na)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros\nIdentifique las peculiaridades de la operativa propuesta\n¥ En ocasiones, las actividades de los chiringuitos se enmascaran bajo\nla apariencia de contratos de asesoramiento, en los que a cambio de\nlas “recomendaciones” se cobra al cliente un elevado porcentaje de\nla inversión (que además suele desembocar en la pérdida total del\ncapital). Sin embargo, todas las entidades que realicen asesoramiento\npersonalizado en materia de inversión deben estar inscritas en un\nregistro público, por lo que su consulta permitirá a las potenciales\nvíctimas comprobar si la sociedad está o no autorizada para prestar\neste servicio.\n¥ Suelen exigir que el dinero se desembolse mediante ingreso en una\ncuenta corriente (a veces en el extranjero) a nombre de una sociedad\nno española. En general, se trata de sociedades no autorizadas por los\norganismos supervisores de esos terceros países.\n¥ Las inversiones que ofrecen suelen ser productos financieros\ncomplejos en mercados extranjeros, a menudo desconocidos. Con\nfrecuencia, hay entidades o páginas web que ofrecen a inversores\nparticulares la posibilidad de invertir en productos derivados sobre\ndivisas (CFD, futuros, contratos rolling spot, etc.). El mercado de divisas\no mercado forex es un mercado complejo, por lo que el acceso al\nmismo deberá hacerse siempre a través de entidades autorizadas.\n¥ Se muestran reacios a proporcionar información actualizada y a\nresponder a las preguntas del inversor, al que proponen una relación\nbasada en la mutua confianza. Hay que recordar que la confianza es\nalgo que debe ganarse, con mayor motivo cuando se trata de entregar\nnuestro dinero a entidades o personas que no han acreditado su\nlegalidad, solvencia ni honestidad profesional.\nb)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros\nc)\nExija que le proporcionen respuestas claras\nEl inversor no sólo tiene el derecho sino también la obligación de conocer\nde antemano todos los aspectos relevantes de la inversión propuesta.\nPrecisamente una de las principales diferencias entre las entidades\nautorizadas y los chiringuitos financieros es que las primeras invitan al\ninversor a plantear sus dudas y le facilitan toda la información necesaria,\nmientras que el objetivo de los estafadores es confundirle y hacerle\nsentir ignorante, para que confíe en ellos sin cuestionar sus argumentos.\nNinguna pregunta puede ser improcedente ni irrelevante cuando se trata\nde cómo invertir su dinero. El inversor paga por recibir asesoramiento\nfinanciero y debe obtener respuestas claras a todas sus preguntas.\nA continuación se proponen, como ejemplo, algunas preguntas que\nconviene hacer a la persona de contacto para comprobar si se trata de\nun chiringuito. En realidad, muchas de ellas, en especial las relativas a las\ncaracterísticas y riesgos de la inversión, deben hacerse también cuando\ntratamos con entidades autorizadas. La diferencia es que los chiringuitos\nfinancieros se mostrarán poco dispuestos a ofrecernos respuestas\ndirectas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros\n¥ ¿Cómo han conseguido mi nombre y mi teléfono? ¿Por qué han\ncontactado conmigo?\n¥ ¿Su entidad está registrada en la CNMV o en el Banco de España?\n¿Están supervisados por algún organismo público? ¿Se encuentran\nadheridos a algún fondo de garantía de inversiones?\n¥ ¿Cuánto tiempo llevan en este negocio? ¿Cuál es su experiencia\nprofesional? ¿Hay alguna entidad financiera que pueda darme\nreferencias de su entidad?\n¥ ¿Coincide esta inversión con mis objetivos? ¿Es adecuada para mí?\n¿Cuáles son los riesgos de la inversión? ¿Cuánto puedo perder y en\nqué circunstancias?\n¥ ¿Cómo ganaré dinero con esta inversión? ¿Qué debe ocurrir para que\nse incremente el valor de la misma? (¿deben subir o bajar los tipos de\ninterés?, ¿debe subir la Bolsa?...).\n¥ ¿Durante cuánto tiempo debería mantener la inversión? ¿Cuál es\nsu liquidez, es decir, cómo y en qué condiciones podré recuperar el\ncapital en caso necesario?\n¥ ¿Qué comisiones debo pagar por sus servicios? ¿Cómo se calculan?\n¥ ¿Pueden remitirme una copia de las tarifas que tienen en vigor?\n¥ ¿Cómo y con qué frecuencia recibiré información sobre mi inversión?\n¥ ¿Puede remitirme copias de los documentos y contratos que debería\nfirmar? Sobre el producto financiero que ofrecen, ¿existe algún\ndocumento oficial inscrito en la CNMV? ¿Pueden proporcionarme un\nresumen del mismo?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros\n¥ ¿Puede enviarme una explicación escrita y detallada de la inversión\npropuesta para meditarla con tranquilidad y comentarla con algún\nexperto independiente? ¿Le importaría explicarme la inversión en una\nreunión a la que pudiera acudir con mi abogado o con algún experto\nfinanciero de mi confianza?\n¥ Si surgiera alguna disputa en relación con mis inversiones, ¿qué\nmecanismos de reclamación están a mi alcance?\nEn todo caso, formular las preguntas no es suficiente. Los estafadores\nestán entrenados para resultar persuasivos y eludirán las respuestas\ncon argumentos aparentemente razonables. Por eso, sea cual sea la\ninformación que le proporcionen, conviene que compruebe su fiabilidad\nconsultando a la CNMV antes de realizar cualquier desembolso."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VII. Qué hacer si ya se les"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "ha entregado el dinero"
+    },
+    {
+      "type": "paragraph",
+      "text": "En este caso no siempre es posible recuperar el capital. Sin embargo, es\nimportante estar atento a ciertas señales, para intentar reaccionar antes de\nque sea demasiado tarde:\n¥ La persona de contacto se vuelve inaccesible, no atienden a las\nsolicitudes de reembolso, no se recibe ninguna información o la que se\nobtiene es insuficiente e incomprensible, etc. Estos son algunos de los\ncomportamientos irregulares que delatan a un chiringuito financiero. En\ntales casos es aconsejable presionarles para que devuelvan el dinero,\namenazándoles si es necesario con acudir a las autoridades. Este aviso\nno siempre es efectivo, ya que precisamente su situación de ilegalidad\nles permite desaparecer o cambiar de nombre con gran facilidad, lo que\ndificulta la actuación de los organismos supervisores.\n¥ En ocasiones su respuesta es que la inversión no ha ido como se esperaba,\nque se han registrado pérdidas y que precisamente en ese momento no\nconviene deshacer posiciones sino aumentar la inversión, para aprovechar\nel inminente cambio de tendencia. Lo realmente peligroso en este caso es\ncontinuar realizando aportaciones, ya que con toda seguridad ese capital\ntampoco se va a recuperar.\n¥ Tanto si el inversor consigue que le devuelvan todo o parte del capital como\nsi no es así, es muy importante que ponga los hechos en conocimiento\nde la CNMV y denuncie lo ocurrido a la Policía, Guardia Civil o al Juzgado\ncorrespondiente. Las denuncias presentadas permiten a los organismos\nresponsables difundir las correspondientes advertencias, ayudando a que\notros inversores no se vean estafados por el mismo chiringuito.\n¥ Recuerde que para garantizar la eficacia de la actuación judicial\nque, eventualmente, decida llevar a cabo, deberá presentar toda la\ndocumentación que acredite los servicios recibidos y los importes\nimplicados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VIII. ¿Dónde conseguir"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "más información?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ante cualquier sospecha sobre las ofertas de inversión recibidas o sobre las\nsociedades que las realizan, lo más sencillo es ponerse en contacto con la\nCNMV.\nAdemás, en la sección «Advertencias al público» de la página web (www.cnmv.\nes) pueden encontrarse los nombres de aquellas entidades de las que se\nsospecha que ofrecen servicios de inversión sin estar autorizadas, así como\nde las que tienen abierto un expediente sancionador para que cesen en sus\nactividades infractoras. Nunca debe aceptarse una oferta de las sociedades\nincluidas en estos registros.\nTambién pueden visitar la página web de la Organización Internacional de\nComisiones de Valores (IOSCO), donde los organismos supervisores incluyen\nlas advertencias sobre este tipo de entidades (www.iosco.org)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "IX. Recomendaciones"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "finales: Decálogo para"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "evitar chiringuitos"
+    },
+    {
+      "type": "paragraph",
+      "text": "financieros\nNaturaleza de las entidades\nConsejo 1\nVerifique que la entidad está autorizada y que la empresa no\nha sido objeto de advertencia por parte de la CNMV ni de otros\nsupervisores. En caso de duda, consúltenos.\nConsejo 2\nRecuerde que los “chiringuitos” son peligrosos e intentan\nengañarle. Si sospecha, pregunte. Adopte una actitud activa. Haga\npreguntas sobre las características del servicio y de la inversión\nque se le estén proponiendo. Obtenga información por escrito."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros\nTécnicas de captación de inversores\nConsejo 3\nDesconfíe ante las siguientes señales de alarma y técnicas\nfrecuentes:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Llamadas o correos inesperados.",
+        "Urgencia de la inversión.",
+        "Afinidad personal.",
+        "Bonificaciones de entrada.",
+        "Esquemas piramidales en los que le pidan que también capte"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "clientes."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Presión psicológica tendente a que adopte una decisión"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "inmediata."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Mención o utilización del logo de la CNMV. Recuerde que la"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "CNMV nunca le invitaría a realizar una inversión.\nConsejo 4\nOjo al fraude a través de internet y redes sociales. No se deje\nengañar por la sofisticación de algunas páginas web. Manténgase\nalerta ante ofertas no solicitadas a través de sus perfiles de redes\nsociales. No se deje engañar por la afinidad de sus “seguidores”\nsociales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros\nProductos comercializados\nPerfil y educación del inversor\nConsejo 5\nDesconfíe de altas rentabilidades sin riesgo. Desconfíe de\nproductos complejos. No invierta en lo que no comprenda.\nConsejo 6\nPreste atención a comisiones y gastos.\nConsejo 7\nAsegúrese de que los productos que le ofrecen existen y\ncontraste la información que le aportan sobre la cotización de los\nvalores que quieren vender.\nConsejo 8\nTodos estamos expuestos a ser objeto de fraude. Desconfíe si no\nle solicitan información: los intermediarios financieros autorizados\nque le ofrezcan un producto deben evaluar su conveniencia\n(experiencia y conocimientos) y/o idoneidad (experiencia y\nconocimientos, situación financiera y objetivos de inversión) a\ntravés de un perfil o cuestionario."
+    },
+    {
+      "type": "paragraph",
+      "text": "Chiringuitos Financieros\nSi no puede recuperar su dinero\nDenuncie\nConsejo 9\nSi no logra que le devuelvan su dinero, no continúe realizando\naportaciones.\nConsejo 10\nPonga en conocimiento de la CNMV cualquier incidente\nsospechoso de fraude y denuncie lo ocurrido en la Policía, Guardia\nCivil o el Juzgado correspondiente."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contáctanos por email\nEsta guía tiene como finalidad informar al público en general sobre distintos\naspectos relacionados con los mercados de valores. Por su naturaleza divulgativa\nno puede constituir un soporte para posteriores interpretaciones jurídicas, siendo\nla normativa vigente la única de aplicabilidad para estos fines."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "información?"
+    },
+    {
+      "type": "paragraph",
+      "text": "www.cnmv.es"
+    }
+  ],
+  "text": "Chiringuitos Financieros\nChiringuitos\nFinancieros\nGuía\n\nChiringuitos Financieros\nÍndice\nIntroducción\n¿Por qué son peligrosos los \n«chiringuitos financieros»? \nCómo actúan (I): \ntécnicas de contacto \nCómo actúan (II): \ntécnicas de persuasión\nCuándo se debe sospechar de \nuna oferta financiera\nCómo protegerse frente a un \nposible chiringuito \nQué hacer si ya se les ha \nentregado el dinero\n¿Dónde conseguir más \ninformación?\nRecomendaciones finales\n\nChiringuitos Financieros\nI. Introducción\nEl término “chiringuito financiero” define de manera informal a aquellas\nentidades que ofrecen y prestan servicios de inversión sin estar autorizadas\npara hacerlo. \nChiringuitos \nFinancieros\n\nChiringuitos Financieros\nII. ¿Por qué son \npeligrosos los \n«chiringuitos \nfinancieros»? \nLos chiringuitos financieros son peligrosos porque en la mayoría de los casos \nla aparente prestación de tales servicios es sólo una tapadera para apropiarse \ndel capital de sus víctimas, haciéndoles creer que están realizando una \ninversión de alta rentabilidad. Es importante tener claro que los elevados \nrendimientos que ofrecen suelen ser demasiado buenos para ser ciertos: \nsólo son el cebo con el que consiguen que los inversores menos informados \no más confiados les entreguen sus ahorros. Cuando no pueden justificar \nlas pérdidas, simplemente desaparecen o cambian de nombre. Es decir, no \nse trata de entidades más o menos solventes o con mayores o menores \nhabilidades en la gestión financiera. Sencillamente, son estafadores. \nMientras las empresas autorizadas para prestar servicios de inversión \n(sociedades y agencias de valores, sociedades gestoras de cartera, EAFI, \nbancos y cajas de ahorros, etc.) están sometidas a las normas que regulan \nlos mercados de valores y a estrictos controles por parte de los organismos \nsupervisores (CNMV y Banco de España), los chiringuitos financieros actúan al \nmargen de la legalidad. Esto supone que:\n\nChiringuitos Financieros\n¥ No están registrados en la CNMV ni en el Banco de España. Sólo las \nempresas registradas han obtenido del supervisor competente \nuna autorización para prestar servicios de inversión, tras acreditar \nel cumplimiento de ciertos requisitos (capital suficiente, organización y \nmedios adecuados, etc.). \n¥ No están adheridos al Fondo de Garantía de Inversiones o de Depósitos, \npor lo que los inversores no están protegidos en caso de insolvencia de la \nentidad no autorizada (las entidades autorizadas son las que contribuyen a \nestos Fondos con sus aportaciones). \nNo existe un tipo concreto de víctima de los chiringuitos ya que a menudo \nse trata de estafas muy elaboradas y con apariencia de credibilidad en las \nque puede caer cualquiera: pequeños empresarios, particulares con cierto \nnivel de ahorro, profesionales liberales, etc. Es fácil resultar vulnerable ante \nlas promesas de enriquecimiento rápido y sin riesgo de los chiringuitos \nfinancieros, que por muy bien construidas que estén siempre son falsas.\n\nChiringuitos Financieros\nConfiar en un chiringuito es \nuna forma segura de perder el\ncapital, ya que no es posible \nrecurrir a ninguno de los \nmecanismos de protección \ndel inversor previstos en las \ndisposiciones legales.\n\nChiringuitos Financieros\nIII. Cómo actúan (I): \ntécnicas de contacto \nLos canales que utilizan los «chiringuitos financieros» para contactar con sus \npotenciales víctimas no son distintos de los que puede emplear cualquier \nentidad legalmente autorizada para difundir sus propuestas comerciales entre \nclientes o posibles clientes: teléfono, cartas, correo electrónico, páginas web, \nredes sociales, etc. La diferencia reside en la manera en que utilizan estos \ncanales, el tipo de mensajes que transmiten y la actitud general que muestran \npara lograr sus objetivos.\nPara obtener los contactos recurren a bases de datos (a menudo obtenidas \nde forma fraudulenta) de las que extraen direcciones de personas que, \npor ejemplo, han suscrito un determinado producto financiero, reciben \nperiódicamente una publicación económica o en alguna ocasión contestaron \nciertas encuestas en las que reflejaron sus gustos, aficiones y situación \neconómica familiar.\nLlamadas telefónicas.\nEl uso del teléfono como método de acercamiento a potenciales víctimas \nes uno de los preferidos por los chiringuitos financieros, ya que el \ncontacto directo permite ejercer ciertas técnicas de presión psicológica. \nSe trata de llamadas “en frío”, es decir, inesperadas y que no responden \na una solicitud previa de información. Esta técnica de contacto es legal, \nde hecho las entidades autorizadas la emplean con frecuencia en el \nmarco de sus campañas promocionales. Sin embargo, en el caso de las \nentidades autorizadas, lo normal es que ya seamos clientes de la entidad, \npor lo que con independencia de que la oferta concreta nos interese o \nno, sabemos que disponen de nuestros datos de forma legítima y que si \nnuestra respuesta es negativa la aceptarán sin insistir. Por el contrario, los \nchiringuitos no suelen conformarse con un “no”. En el siguiente apartado \nse detallan algunas de sus técnicas de presión.\n\nChiringuitos Financieros\nCorreo\nLas cartas y materiales publicitarios que en ocasiones constituyen \nsu tarjeta de visita suelen ser escrupulosos e intachables desde un \npunto de vista comercial. Mediante lujosos folletos pueden presentar \ninversiones sofisticadas y excepcionalmente prometedoras y solicitan \na los destinatarios que contacten con ellos rellenando un cupón, \nllamándoles por teléfono o visitando su página en Internet.\nInternet y redes sociales\nEs evidente el gran crecimiento que, en los últimos años, han \nexperimentado las redes sociales y su papel en la configuración de \nnuevas maneras de relacionarse. Gracias a ellas, individuos con intereses \nen común, que pueden o no conocerse previamente, establecen \ncontacto e intercambian información sobre sus aficiones. Pese a sus \nnumerosas ventajas, el uso de las redes sociales también presenta algún \ninconveniente, particularmente el que se refiere a la elevada exposición \na la que se someten sus usuarios. Es habitual encontrar en las redes \nsociales datos relativos a la vida privada de las personas. Es importante \nser cauteloso con dichos datos pues también pueden ser aprovechados \npor potenciales chiringuitos financieros para hacerle llegar falsas ofertas \nde acuerdo con el perfil que se deduce de sus redes sociales. Por este \nmotivo, es necesario prestar especial atención al fraude a través de \ninternet y redes sociales. No se deje engañar por la sofisticación de \nalgunas páginas web. Manténgase alerta ante ofertas no solicitadas \na través de sus perfiles de redes sociales. No se deje engañar por la \nafinidad de sus “seguidores” sociales.\nCorreo electrónico\nEl gran éxito de Internet como herramienta de marketing directo se \nbasa en que permite a los anunciantes acceder a una amplia masa \nde receptores a un coste muy inferior al de los medios tradicionales \n(teléfono, buzoneo). Este hecho, unido a la posibilidad del anonimato, ha \ndado lugar a utilizaciones abusivas del medio, como por ejemplo el spam, \no envío indiscriminado por correo electrónico de ofertas comerciales no \nsolicitadas de productos o servicios dudosos, inexistentes o que rozan la \nilegalidad. Es, por tanto, un mecanismo idóneo para la difusión de ofertas\n\nChiringuitos Financieros\nde chiringuitos financieros. Es frecuente que la lista de destinatarios \nse obtenga de forma ilícita, vulnerando las normas sobre protección \nde datos personales. Además, las direcciones de procedencia de los \nmensajes suelen ser falsas, y también el objeto y encabezamiento de los \nmismos son deliberadamente engañosos.\nAsimismo, desconfíe de los correos electrónicos que utilicen el nombre \nde la CNMV —como parte del correo o de la dirección de envío— \npara invitarle a realizar inversión alguna; la CNMV no realiza ninguna \ncomunicación en este sentido. \nLa normativa vigente establece que las comunicaciones comerciales \ndeben identificarse como tales y prohíbe su envío por correo electrónico \nsalvo que hubieran sido previamente solicitadas o expresamente \nautorizadas por el destinatario. Ninguna empresa seria utilizará el spam \npara llegar a su público objetivo, ya que se trata de prácticas que invaden \nla privacidad del consumidor. Las entidades que actúan dentro de la \nlegalidad optan por el marketing autorizado, es decir, aquel que se envía \ncon el consentimiento del receptor, pidiéndole su permiso para incluirle \nen una lista y utilizar sus datos con fines comerciales.\n\nChiringuitos Financieros\nCuando se trata de productos y servicios financieros, hay que ser muy \nprecavido con las ofertas e informaciones recibidas, incluso aunque \nhayan sido solicitadas o consentidas. El fraude financiero a través de \nInternet suele llevarse a cabo mediante medios más sofisticados y \ncon un alcance muy superior al habitual. El spam es sólo uno de los \nmecanismos posibles, ya que Internet ofrece diversas herramientas para \ndifundir ofertas dudosas o potencialmente fraudulentas: tablones, grupos \nde noticias, chats, o incluso sofisticadas páginas web. \nAunque en sentido estricto no se trata de chiringuitos financieros, \nconviene mencionar una estafa frecuente y peligrosa: el phishing. Son \ncorreos electrónicos que parecen proceder de entidades financieras \nreconocidas y solventes, en los que por motivos “de seguridad” se \nsolicitan al destinatario sus claves personales de acceso. Estos mensajes \nsuelen conducir a una página web que replica la auténtica de la entidad \n(aunque puede tener faltas de ortografía y de diseño), en la que el \nconfiado cliente introduce sus claves. En realidad lo que pretenden los \ndelincuentes es utilizarlas para disponer de los fondos del titular. Es \nimportante recordar que ninguna entidad autorizada pedirá jamás a sus \nclientes información personal ni claves completas. Ellos ya disponen de \nesos datos y bajo ningún concepto necesitan pedírselos, menos aún por \nmedios tan poco confidenciales como el correo electrónico o el teléfono.\nMás sofisticada es la acción denominada pharming: a través de esta \nacción, los ladrones de datos consiguen que las páginas visitadas no se \ncorrespondan con las auténticas, sino con otras creadas para recabar \ndatos confidenciales, que tienen el mismo aspecto que la original. Así, \nel internauta introducirá sus datos confidenciales sin ningún temor, sin \nsaber que los está remitiendo a un delincuente.\n\nChiringuitos Financieros\nSe recomienda que no confíe nunca su información personal o \nconfidencial a personas o empresas desconocidas. Elimine todos \nsus correos electrónicos que soliciten información confidencial. Si la \nsolicitud parece legítima, utilice un número de teléfono establecido para \nverificarla. Además, se recomienda no acceder a su entidad a través de \nenlaces, sino tecleando la dirección URL en la barra de direcciones y \nque, en caso de que sea posible, instale en su ordenador una solución \nantiphising o antipharming. \nAnuncios \nLos chiringuitos financieros también utilizan la publicidad en \nperiódicos, revistas u otros medios (como redes sociales) para \nofrecer oportunidades de beneficio mucho más atractivas que las \nque proporcionan las inversiones tradicionales; oportunidades que, \nnaturalmente, no son tales en realidad.\nReferencias personales. \nEs habitual que las personas tomen sus decisiones de inversión \nbasándose en recomendaciones de conocidos o familiares en \nquienes confían. Sabiendo esto, en ocasiones, los chiringuitos pagan \ngrandes “beneficios” a los primeros clientes, utilizando para ello su \npropio dinero o el de otros inversores; esto es lo que se denomina estafa \npiramidal. Así, la aparente eficacia de su gestión se difundirá de forma \nespontánea entre el círculo de relaciones de esos clientes satisfechos.\nEn ocasiones, el «chiringuito financiero» le puede ofrecer un bono o \nbonificación de entrada como premio a sus inversiones. Si bien esta \nbonificación es aparentemente gratuita, en ocasiones exige que el \ninversor, cuando desea cerrar las cuentas abiertas con esa empresa, \nrealice una última inversión efectiva por un importe igual o superior \nal importe de dicho bono (en ocasiones, de hasta 30 veces mayor); \ninversión que suele terminar con la pérdida de todo o parte del capital \ninvertido y los beneficios acumulados hasta ese momento.\n\nChiringuitos Financieros\nEn realidad, estos inversores que involuntariamente actúan como \ncebo sólo van a obtener algún rendimiento al principio. Las sucesivas \n“inversiones” empezarán a generar pérdidas. Entonces, la entidad \nno responderá a las solicitudes de reintegro del capital y finalmente \ndesaparecerá con todo el dinero aportado. \nLas recomendaciones personalizadas de inversión deben ser hechas \nsiempre por un profesional o entidad autorizada para ello, ya que lo que \nes bueno para un inversor puede no serlo para otro, dependiendo de sus \ndiferentes circunstancias personales y financieras. Es decir, la confianza \nen el amigo o familiar que nos aconseja no debe ser el argumento \ndeterminante para decidir una inversión, ya que pueden faltarle datos \no haber sido él mismo sorprendido en su buena fe.\n\nChiringuitos Financieros\nIV. Cómo actúan (II): \ntécnicas de persuasión\nA continuación se señalan, a modo de ejemplo, algunas de las técnicas \nde persuasión que utilizan los chiringuitos financieros. No es posible ser \nexhaustivo, ya que sus argumentos y métodos de actuación son cada vez más \nsofisticados. Por eso es importante mantenerse alerta ante cualquier oferta \nfinanciera que no provenga de un intermediario conocido o registrado.\n¥ Predicciones acertadas. \nUna técnica bastante simple pero muy efectiva consiste en realizar \nun número elevado de llamadas. En ellas la entidad se limita a \npresentarse, sin solicitar dinero ni compromiso alguno. Para demostrar su \nconocimiento de los mercados financieros, en la mitad de las llamadas \nafirman estar seguros de la subida de un determinado valor. En otro \ngrupo de llamadas “predicen” la bajada del mismo valor. En los días \nsiguientes repiten el procedimiento, pero sólo con el grupo a quien se \nrealizó la predicción acertada. Al cabo de varios días quedarán unos \ncuantos clientes, convencidos de la infalibilidad de una empresa que ha \nacertado todos sus pronósticos durante varios días consecutivos, y por \ntanto dispuestos a entregarles sus ahorros.\n¥ Apariencia de respetabilidad y éxito. \nLos responsables de los chiringuitos financieros saben que parecer \nrespetables y expertos en los mercados es requisito primordial para \nconseguir clientes. Por eso visten con elegancia y alquilan oficinas de \nlujo que abren al público como si se tratara de una prestigiosa empresa \nde inversión. En ocasiones es difícil conseguir cita para entrevistarse \ncon ellos, ya que desean dar la imagen de personas ocupadas cuyos \nservicios están muy demandados.\n\nChiringuitos Financieros\n¥ Explicaciones incomprensibles y uso de tecnicismos. \nTodos los que ofrecen inversiones fraudulentas tienen en común \nsu habilidad para hablar de mercados lejanos y exóticos, con una \nseguridad y dominio de los tecnicismos que les hacen parecer expertos \nconocedores de la materia. En realidad, el objetivo es que la potencial \nvíctima no entienda nada y opte por confiar en quienes sí parecen \nconocer tan sofisticadas posibilidades de inversión.\n¥ Ofrecimiento de grandes beneficios con pocos riesgos. \nPrometen beneficios muy superiores a los que en cada momento puedan \nobtenerse de una inversión convencional, con un riesgo mínimo en \ncomparación con las potenciales ganancias. En realidad, un principio \nbásico que cualquier inversor debe tener presente es que la rentabilidad \ny el riesgo van unidos de forma inseparable. La posibilidad de obtener \nrendimientos elevados siempre implica asumir riesgos elevados. Por \ntanto, hay que desconfiar de cualquier oferta que asegure elevadas \nrentabilidades sin riesgo.\n¥ Insistencia para que se adopte una decisión inmediata. \nPara los chiringuitos financieros, la urgencia es un factor importante: no \nsólo porque desean conseguir el dinero cuanto antes y con el menor \nesfuerzo posible, sino porque saben que si el inversor medita con \ntiempo la operación que se le propone, o si tiene ocasión de solicitar \nasesoramiento profesional y fiable, probablemente rechazará la oferta. \nPor tanto, utilizan argumentos dirigidos a lograr una decisión inmediata: \nintentan convencer a su víctima de que se trata de oportunidades únicas \nque no volverán a presentarse. Los inversores deben tener en cuenta \nque esto no es cierto: siempre existe tiempo suficiente para analizar las \ncaracterísticas de una oferta financiera y comprobar que se adapta a las \npropias necesidades y expectativas en un momento dado.\n\nChiringuitos Financieros\n¥ Presión psicológica: \nLa conversación, ya sea por teléfono o mediante cualquier otra vía, \nsuele comenzar de forma cordial, pero si la potencial víctima muestra \ncierta resistencia es fácil que el estafador pase a utilizar argumentos \ny modos más agresivos. Esto constituye una diferencia fundamental \ncon las entidades autorizadas, cuyos comerciales siempre respetan el \nderecho del posible cliente a no estar interesado. Aunque la presión \npsicológica puede adoptar formas muy diversas, cabe identificar algunos \ncomportamientos frecuentes:\n\nChiringuitos Financieros\nV. Cuándo se debe \nsospechar de una oferta \nfinanciera\nLa mayor parte de las actitudes y argumentos empleados por los chiringuitos \nno se darían en intermediarios autorizados, ya que éstos se encuentran \nsujetos a estrictas normas de conducta. Los intermediarios autorizados \ntienen la obligación de mantener adecuadamente informados a los clientes \ny la información que aporten a los inversores debe ser imparcial, clara y no \nengañosa. En concreto, deben proporcionar información sobre los servicios \nque prestan y los instrumentos financieros, de forma que el cliente conozca \nla naturaleza y los riesgos del servicio de inversión que se le va a prestar y las \ncaracterísticas y riesgos de los instrumentos financieros que puede acabar \nadquiriendo.\nPor tanto, es importante conocer cómo se comportan los intermediarios \nautorizados, para poder apreciar la diferencia entre las personas o entidades \nque sí están habilitadas para prestar servicios de inversión y las que sólo \npretenden realizar una estafa.\n¥ Las entidades autorizadas nos solicitarán información para poder \nprestar sus servicios de manera adecuada. \nCuando el intermediario autorizado vende un determinado producto, \ndebe solicitar información al cliente o potencial cliente sobre sus \nconocimientos y experiencia en relación con dicho producto, con la \nfinalidad de evaluar si es conveniente para él. Es lo que se denomina \n“evaluación de la conveniencia”, que generalmente se realizará a través de \nun test (“test de conveniencia”). Por ello, el intermediario le realizará una \nserie de preguntas que pueden referirse a su nivel de estudios, profesión \nactual y anteriores, los tipos de instrumentos financieros con los que está \nfamiliarizado, operaciones financieras realizadas con anterioridad, etc.\nCuando el intermediario va a prestar el servicio de asesoramiento en \nmateria de inversión a un cliente o va a gestionar su cartera, además\n\nChiringuitos Financieros\nde pedir información sobre sus conocimientos y experiencia, pedirá \ninformación adicional. En concreto, solicitará información sobre la \nsituación financiera y objetivos de inversión del cliente (preferencias en \nrelación con la asunción de riesgos, su perfil de riesgos- si se considera \nconservador, moderado o arriesgado, por ejemplo- horizonte temporal \ndeseado para la inversión, etc.). El verdadero asesoramiento siempre es \npersonalizado.\nLos chiringuitos financieros tienen como único objetivo captar el dinero \nde sus víctimas, por lo que no les preocupan ni sus conocimientos y \nexperiencia en servicios y productos de inversión ni sus circunstancias \nfinancieras: les basta con saber que están dispuestos a invertir.\n\nChiringuitos Financieros\n¥ El contacto debe haber sido solicitado o aceptado por el posible \ncliente.\nLas entidades con las que solemos trabajar tienen nuestros datos \nde forma legal, y lo habitual es que les hayamos dado permiso para \nhacernos llegar sus ofertas comerciales. Pero si una entidad de la \nque nunca hemos oído hablar se pone en contacto con nosotros \npara ofrecernos una inversión, hay que extremar las cautelas porque \nprobablemente se trate de un chiringuito.\n¥ Las entidades autorizadas nunca presionan al cliente. \nCualquier inversión debe abordarse con suficiente conocimiento de las \ncaracterísticas y riesgos del producto, por lo que es importante tener \nclaros todos los extremos antes de comprometer el capital. El inversor \nnecesita tiempo para decidirse y tiene derecho a expresar sus dudas y \nobtener respuesta a todas ellas. Sin embargo, los chiringuitos presionan \na la víctima para obtener una respuesta afirmativa inmediata, sin darle \nocasión para reflexionar.\n¥ Los verdaderos profesionales nos plantearán ofertas realistas.\nLas promesas de rentabilidades excepcionales sin riesgo deben hacernos \ndesconfiar de manera inmediata.\n\nChiringuitos Financieros\nVI. Cómo protegerse \nfrente a un posible \nchiringuito\nLa principal protección frente a un chiringuito financiero es identificarlo \ncomo tal. Además de sospechar ante los comportamientos expuestos en los \napartados anteriores, lo más aconsejable es no confiar en ninguna entidad \ndesconocida mientras no se haya podido verificar que está debidamente \nautorizada para prestar servicios de inversión. \nEl inversor tiene a su alcance los siguientes mecanismos de protección, que \ndeben utilizarse siempre antes de entregar el capital:\nPedir información al organismo supervisor, en este caso la CNMV.\nIdentificar ciertas peculiaridades de la operativa propuesta.\nExigir respuestas concretas a la persona de contacto del \nchiringuito. \na)\nb)\nc)\n\nChiringuitos Financieros\nPida información a la CNMV\nEl teléfono de atención al inversor 900 535 015 de la CNMV está a su \ndisposición para informarle sobre la habilitación de las entidades para \nprestar o no servicios de inversión. Si le han aconsejado trabajar con \nuna entidad que no conoce o ha sido contactado por ella a través de \ncualquier medio, es conveniente llamar a la CNMV para asegurarse \nde que se trata de una entidad autorizada, registrada y supervisada. \nTambién pueden consultarse los registros públicos a través de la página \nweb de la CNMV (www.cnmv.es).\nAsimismo, pueden visitar la página web de la Organización Internacional \nde Comisiones de Valores (IOSCO, en sus siglas en inglés) donde los \norganismos supervisores, miembros de la Organización, incluyen las \nadvertencias sobre este tipo de entidades. (www.iosco.org)\nAdemás, la CNMV difunde regularmente advertencias sobre entidades \nde las que se sospecha que están prestando servicios de inversión sin \nautorización. Estas advertencias pueden provenir de la propia CNMV \n(cuando tiene constancia de la existencia del posible chiringuito a \ntravés de las consultas o denuncias de los inversores) o bien haber sido \ncomunicadas por algún regulador extranjero (hay que tener en cuenta \nque estas entidades pueden realizar sus actividades fraudulentas en \nmás de un país). Para facilitar a los inversores la identificación de las \nentidades que operan sin autorización, la página web de la CNMV \nofrece en su sección de “Advertencias al público” un buscador que \npermite localizarlas de forma rápida y directa. En todo caso, es necesario \ntener en cuenta que las entidades que no han sido objeto de advertencia \nno son necesariamente entidades autorizadas; simplemente es posible \nque sus actividades irregulares aún no hayan sido detectadas por los \norganismos supervisores competentes. Por tanto, en todo caso es \nnecesario confirmar que se trata de entidades autorizadas e inscritas en \nlos registros públicos de la CNMV. \nEs importante recordar que aunque la mayoría de las víctimas de un \nfraude contactan con la CNMV después de haber perdido su dinero, \nsiempre es preferible y mucho menos costoso realizar esta consulta con \ncarácter previo, es decir, antes de entregar el capital. \na)\n\nChiringuitos Financieros\nIdentifique las peculiaridades de la operativa propuesta\n¥ En ocasiones, las actividades de los chiringuitos se enmascaran bajo \nla apariencia de contratos de asesoramiento, en los que a cambio de \nlas “recomendaciones” se cobra al cliente un elevado porcentaje de \nla inversión (que además suele desembocar en la pérdida total del \ncapital). Sin embargo, todas las entidades que realicen asesoramiento \npersonalizado en materia de inversión deben estar inscritas en un \nregistro público, por lo que su consulta permitirá a las potenciales \nvíctimas comprobar si la sociedad está o no autorizada para prestar \neste servicio.\n¥ Suelen exigir que el dinero se desembolse mediante ingreso en una \ncuenta corriente (a veces en el extranjero) a nombre de una sociedad \nno española. En general, se trata de sociedades no autorizadas por los \norganismos supervisores de esos terceros países.\n¥ Las inversiones que ofrecen suelen ser productos financieros \ncomplejos en mercados extranjeros, a menudo desconocidos. Con \nfrecuencia, hay entidades o páginas web que ofrecen a inversores \nparticulares la posibilidad de invertir en productos derivados sobre \ndivisas (CFD, futuros, contratos rolling spot, etc.). El mercado de divisas \no mercado forex es un mercado complejo, por lo que el acceso al \nmismo deberá hacerse siempre a través de entidades autorizadas.\n¥ Se muestran reacios a proporcionar información actualizada y a \nresponder a las preguntas del inversor, al que proponen una relación \nbasada en la mutua confianza. Hay que recordar que la confianza es \nalgo que debe ganarse, con mayor motivo cuando se trata de entregar \nnuestro dinero a entidades o personas que no han acreditado su \nlegalidad, solvencia ni honestidad profesional.\nb)\n\nChiringuitos Financieros\nc)\nExija que le proporcionen respuestas claras\nEl inversor no sólo tiene el derecho sino también la obligación de conocer \nde antemano todos los aspectos relevantes de la inversión propuesta. \nPrecisamente una de las principales diferencias entre las entidades \nautorizadas y los chiringuitos financieros es que las primeras invitan al \ninversor a plantear sus dudas y le facilitan toda la información necesaria, \nmientras que el objetivo de los estafadores es confundirle y hacerle \nsentir ignorante, para que confíe en ellos sin cuestionar sus argumentos. \nNinguna pregunta puede ser improcedente ni irrelevante cuando se trata \nde cómo invertir su dinero. El inversor paga por recibir asesoramiento \nfinanciero y debe obtener respuestas claras a todas sus preguntas.\nA continuación se proponen, como ejemplo, algunas preguntas que \nconviene hacer a la persona de contacto para comprobar si se trata de \nun chiringuito. En realidad, muchas de ellas, en especial las relativas a las \ncaracterísticas y riesgos de la inversión, deben hacerse también cuando \ntratamos con entidades autorizadas. La diferencia es que los chiringuitos \nfinancieros se mostrarán poco dispuestos a ofrecernos respuestas \ndirectas.\n\nChiringuitos Financieros\n¥ ¿Cómo han conseguido mi nombre y mi teléfono? ¿Por qué han \ncontactado conmigo?\n¥ ¿Su entidad está registrada en la CNMV o en el Banco de España? \n¿Están supervisados por algún organismo público? ¿Se encuentran \nadheridos a algún fondo de garantía de inversiones?\n¥ ¿Cuánto tiempo llevan en este negocio? ¿Cuál es su experiencia \nprofesional? ¿Hay alguna entidad financiera que pueda darme \nreferencias de su entidad?\n¥ ¿Coincide esta inversión con mis objetivos? ¿Es adecuada para mí?\n¿Cuáles son los riesgos de la inversión? ¿Cuánto puedo perder y en \nqué circunstancias?\n¥ ¿Cómo ganaré dinero con esta inversión? ¿Qué debe ocurrir para que \nse incremente el valor de la misma? (¿deben subir o bajar los tipos de \ninterés?, ¿debe subir la Bolsa?...).\n¥ ¿Durante cuánto tiempo debería mantener la inversión? ¿Cuál es \nsu liquidez, es decir, cómo y en qué condiciones podré recuperar el \ncapital en caso necesario?\n¥ ¿Qué comisiones debo pagar por sus servicios? ¿Cómo se calculan? \n¥ ¿Pueden remitirme una copia de las tarifas que tienen en vigor?\n¥ ¿Cómo y con qué frecuencia recibiré información sobre mi inversión? \n¥ ¿Puede remitirme copias de los documentos y contratos que debería \nfirmar? Sobre el producto financiero que ofrecen, ¿existe algún \ndocumento oficial inscrito en la CNMV? ¿Pueden proporcionarme un \nresumen del mismo?\n\nChiringuitos Financieros\n¥ ¿Puede enviarme una explicación escrita y detallada de la inversión \npropuesta para meditarla con tranquilidad y comentarla con algún \nexperto independiente? ¿Le importaría explicarme la inversión en una \nreunión a la que pudiera acudir con mi abogado o con algún experto \nfinanciero de mi confianza?\n¥ Si surgiera alguna disputa en relación con mis inversiones, ¿qué \nmecanismos de reclamación están a mi alcance?\nEn todo caso, formular las preguntas no es suficiente. Los estafadores \nestán entrenados para resultar persuasivos y eludirán las respuestas \ncon argumentos aparentemente razonables. Por eso, sea cual sea la \ninformación que le proporcionen, conviene que compruebe su fiabilidad \nconsultando a la CNMV antes de realizar cualquier desembolso.\n\nChiringuitos Financieros\nVII. Qué hacer si ya se les \nha entregado el dinero\nEn este caso no siempre es posible recuperar el capital. Sin embargo, es \nimportante estar atento a ciertas señales, para intentar reaccionar antes de \nque sea demasiado tarde:\n¥ La persona de contacto se vuelve inaccesible, no atienden a las \nsolicitudes de reembolso, no se recibe ninguna información o la que se \nobtiene es insuficiente e incomprensible, etc. Estos son algunos de los \ncomportamientos irregulares que delatan a un chiringuito financiero. En \ntales casos es aconsejable presionarles para que devuelvan el dinero, \namenazándoles si es necesario con acudir a las autoridades. Este aviso \nno siempre es efectivo, ya que precisamente su situación de ilegalidad \nles permite desaparecer o cambiar de nombre con gran facilidad, lo que \ndificulta la actuación de los organismos supervisores. \n¥ En ocasiones su respuesta es que la inversión no ha ido como se esperaba, \nque se han registrado pérdidas y que precisamente en ese momento no \nconviene deshacer posiciones sino aumentar la inversión, para aprovechar \nel inminente cambio de tendencia. Lo realmente peligroso en este caso es \ncontinuar realizando aportaciones, ya que con toda seguridad ese capital \ntampoco se va a recuperar. \n¥ Tanto si el inversor consigue que le devuelvan todo o parte del capital como \nsi no es así, es muy importante que ponga los hechos en conocimiento \nde la CNMV y denuncie lo ocurrido a la Policía, Guardia Civil o al Juzgado \ncorrespondiente. Las denuncias presentadas permiten a los organismos \nresponsables difundir las correspondientes advertencias, ayudando a que \notros inversores no se vean estafados por el mismo chiringuito. \n¥ Recuerde que para garantizar la eficacia de la actuación judicial \nque, eventualmente, decida llevar a cabo, deberá presentar toda la \ndocumentación que acredite los servicios recibidos y los importes \nimplicados.\n\nChiringuitos Financieros\nVIII. ¿Dónde conseguir \nmás información?\nAnte cualquier sospecha sobre las ofertas de inversión recibidas o sobre las \nsociedades que las realizan, lo más sencillo es ponerse en contacto con la \nCNMV. \nAdemás, en la sección «Advertencias al público» de la página web (www.cnmv.\nes) pueden encontrarse los nombres de aquellas entidades de las que se \nsospecha que ofrecen servicios de inversión sin estar autorizadas, así como \nde las que tienen abierto un expediente sancionador para que cesen en sus \nactividades infractoras. Nunca debe aceptarse una oferta de las sociedades \nincluidas en estos registros.\nTambién pueden visitar la página web de la Organización Internacional de \nComisiones de Valores (IOSCO), donde los organismos supervisores incluyen \nlas advertencias sobre este tipo de entidades (www.iosco.org).\n\nChiringuitos Financieros\nIX. Recomendaciones \nfinales: Decálogo para \nevitar chiringuitos \nfinancieros\nNaturaleza de las entidades\nConsejo 1\nVerifique que la entidad está autorizada y que la empresa no \nha sido objeto de advertencia por parte de la CNMV ni de otros \nsupervisores. En caso de duda, consúltenos. \nConsejo 2\nRecuerde que los “chiringuitos” son peligrosos e intentan \nengañarle. Si sospecha, pregunte. Adopte una actitud activa. Haga \npreguntas sobre las características del servicio y de la inversión \nque se le estén proponiendo. Obtenga información por escrito.\n\nChiringuitos Financieros\nTécnicas de captación de inversores\nConsejo 3 \nDesconfíe ante las siguientes señales de alarma y técnicas \nfrecuentes:\n• Llamadas o correos inesperados.\n• Urgencia de la inversión.\n• Afinidad personal.\n• Bonificaciones de entrada.\n• Esquemas piramidales en los que le pidan que también capte \nclientes.\n• Presión psicológica tendente a que adopte una decisión \ninmediata.\n• Mención o utilización del logo de la CNMV. Recuerde que la \nCNMV nunca le invitaría a realizar una inversión.\nConsejo 4\nOjo al fraude a través de internet y redes sociales. No se deje \nengañar por la sofisticación de algunas páginas web. Manténgase \nalerta ante ofertas no solicitadas a través de sus perfiles de redes \nsociales. No se deje engañar por la afinidad de sus “seguidores” \nsociales.\n\nChiringuitos Financieros\nProductos comercializados\nPerfil y educación del inversor\nConsejo 5\nDesconfíe de altas rentabilidades sin riesgo. Desconfíe de \nproductos complejos. No invierta en lo que no comprenda.\nConsejo 6\nPreste atención a comisiones y gastos.\nConsejo 7\nAsegúrese de que los productos que le ofrecen existen y \ncontraste la información que le aportan sobre la cotización de los \nvalores que quieren vender.\nConsejo 8\nTodos estamos expuestos a ser objeto de fraude. Desconfíe si no \nle solicitan información: los intermediarios financieros autorizados \nque le ofrezcan un producto deben evaluar su conveniencia \n(experiencia y conocimientos) y/o idoneidad (experiencia y \nconocimientos, situación financiera y objetivos de inversión) a \ntravés de un perfil o cuestionario.\n\nChiringuitos Financieros\nSi no puede recuperar su dinero\nDenuncie\nConsejo 9\nSi no logra que le devuelvan su dinero, no continúe realizando \naportaciones.\nConsejo 10\nPonga en conocimiento de la CNMV cualquier incidente \nsospechoso de fraude y denuncie lo ocurrido en la Policía, Guardia \nCivil o el Juzgado correspondiente.\n\nContáctanos por email\nEsta guía tiene como finalidad informar al público en general sobre distintos \naspectos relacionados con los mercados de valores. Por su naturaleza divulgativa \nno puede constituir un soporte para posteriores interpretaciones jurídicas, siendo \nla normativa vigente la única de aplicabilidad para estos fines. \n¿Necesitas más \ninformación?\nwww.cnmv.es",
+  "text_len": 35008,
+  "num_headings": 29,
+  "metadata": {
+    "producer": "iLovePDF",
+    "creation_date": "2026-06-05",
+    "mod_date": "2026-06-05"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": true,
+  "csv_meta": {
+    "title": "Chiringuitos financieros",
+    "topic": "fraude",
+    "subtopic": "plataformas no autorizadas",
+    "difficulty": "básico",
+    "format": "PDF",
+    "summary": "Qué son los chiringuitos financieros y cómo identificarlos",
+    "learning_objective": "Evitar plataformas de inversión no autorizadas"
+  },
+  "pdf_info": {
+    "n_pages": 31,
+    "body_size": 12.1,
+    "extractor": "pymupdf"
+  },
+  "deduped_from": null
+}

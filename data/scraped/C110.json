@@ -1,0 +1,88 @@
+{
+  "content_id": "C110",
+  "url": "https://www.finanzasparatodos.es/cursos-y-webinars/criptoactivos-blockchain/la-validacion-en-la-cadena-de-bloques-blockchain",
+  "source": "Finanzas para Todos",
+  "host": "www.finanzasparatodos.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 49678
+  },
+  "title": "La validación en la cadena de bloques (blockchain) -",
+  "headings": [
+    {
+      "level": 1,
+      "text": "La validación en la cadena de bloques (blockchain)"
+    },
+    {
+      "level": 2,
+      "text": "La validación en la cadena de bloques (blockchain)"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "La validación en la cadena de bloques (blockchain)",
+      "start": 0,
+      "end": 50,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "La validación en la cadena de bloques (blockchain)",
+      "start": 50,
+      "end": 1786,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "La validación en la cadena de bloques (blockchain)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "La validación en la cadena de bloques (blockchain)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La validación de las transacciones en una cadena de bloques (blockchain) se produce gracias a un protocolo de consenso, que es el mecanismo que deben seguir los participantes de una red, (denominados ‘mineros’ o ‘nodos validadores’ en función del protocolo utilizado) para determinar qué transacciones son válidas y, por tanto, qué transacciones se incorporan y cuáles no a la cadena de bloques (blockchain).\nConceptos básicos de la validación en la cadena de bloques (blockchain)\nEl protocolo de consenso es el pilar que garantiza la seguridad de la cadena de bloques (blockchain) confirmando que esta no tiene datos erróneos o duplicados. Así, por ejemplo, evita que una persona pueda transferir un criptoactivo dos veces.\nEl protocolo de consenso recompensa, con criptoactivos nativos de la propia red, a los “nodos validadores o mineros” que se encargan de validar las transacciones y asegurar la integridad de la información recogida en la cadena de bloques. De esta forma, se recompensa la actividad de validar las transacciones recogidas en la red mediante la creación de nuevos criptoactivos nativos. Por ejemplo, en la validación de la red de Bitcoin se emiten los bitcoins y en la validación de la red de Ethereum se emiten los ether. En la práctica, estos nodos son ordenadores o servidores (con mayor o menor capacidad computacional) que utilizan un software para llevar a cabo la validación de las operaciones.\nPor tanto, los protocolos de consenso son los mecanismos mediante los que se validan las operaciones o transacciones propuestas a la red, incluyéndolas en un bloque que pasa a formar parte del registro de la cadena de bloques (blockchain), de forma definitiva."
+    }
+  ],
+  "text": "La validación en la cadena de bloques (blockchain)\nLa validación en la cadena de bloques (blockchain)\nLa validación de las transacciones en una cadena de bloques (blockchain) se produce gracias a un protocolo de consenso, que es el mecanismo que deben seguir los participantes de una red, (denominados ‘mineros’ o ‘nodos validadores’ en función del protocolo utilizado) para determinar qué transacciones son válidas y, por tanto, qué transacciones se incorporan y cuáles no a la cadena de bloques (blockchain).\nConceptos básicos de la validación en la cadena de bloques (blockchain)\nEl protocolo de consenso es el pilar que garantiza la seguridad de la cadena de bloques (blockchain) confirmando que esta no tiene datos erróneos o duplicados. Así, por ejemplo, evita que una persona pueda transferir un criptoactivo dos veces.\nEl protocolo de consenso recompensa, con criptoactivos nativos de la propia red, a los “nodos validadores o mineros” que se encargan de validar las transacciones y asegurar la integridad de la información recogida en la cadena de bloques. De esta forma, se recompensa la actividad de validar las transacciones recogidas en la red mediante la creación de nuevos criptoactivos nativos. Por ejemplo, en la validación de la red de Bitcoin se emiten los bitcoins y en la validación de la red de Ethereum se emiten los ether. En la práctica, estos nodos son ordenadores o servidores (con mayor o menor capacidad computacional) que utilizan un software para llevar a cabo la validación de las operaciones.\nPor tanto, los protocolos de consenso son los mecanismos mediante los que se validan las operaciones o transacciones propuestas a la red, incluyéndolas en un bloque que pasa a formar parte del registro de la cadena de bloques (blockchain), de forma definitiva.",
+  "text_len": 1786,
+  "num_headings": 2,
+  "metadata": {
+    "title": "La validación en la cadena de bloques (blockchain) -",
+    "url": "https://www.finanzasparatodos.es/cursos-y-webinars/criptoactivos-blockchain/la-validacion-en-la-cadena-de-bloques-blockchain",
+    "hostname": "finanzasparatodos.es",
+    "sitename": "finanzasparatodos.es",
+    "date": "2024-01-01",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": true,
+  "csv_meta": {
+    "title": "La validación en la cadena de bloques (blockchain)",
+    "topic": "inversión",
+    "subtopic": "blockchain",
+    "difficulty": "intermedio",
+    "format": "curso web",
+    "summary": "Leccion del curso sobre cómo funciona la validacion de transacciones en blockchain",
+    "learning_objective": "Comprender la validacion en blockchain"
+  },
+  "deduped_from": null
+}

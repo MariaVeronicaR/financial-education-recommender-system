@@ -1,0 +1,58 @@
+{
+  "content_id": "C058",
+  "tldr": "Las tarjetas son instrumentos de pago que permiten pagar sin efectivo, y conviene distinguir entre débito (carga inmediata de tus fondos) y crédito (dinero prestado que debes devolver con intereses). Ante pérdida o robo, avisar de inmediato al banco limita tu responsabilidad sobre usos no autorizados. Antes de contratar hay que revisar comisiones, intereses y modalidad de pago. En las tarjetas revolving, elegir cuotas muy bajas puede hacer que la deuda crezca sin fin por el efecto 'bola de nieve'.",
+  "key_points": [
+    "La tarjeta de débito carga el importe de forma instantánea en tu cuenta; la de crédito te presta dinero que debes devolver en los plazos y con los intereses pactados.",
+    "Ante pérdida o robo, avisa de inmediato a tu entidad: a partir de esa comunicación no respondes de los usos no autorizados.",
+    "Antes de contratar, compara comisiones, tipo de interés y modalidad de pago, y conserva el contrato y los justificantes de cada operación.",
+    "En las tarjetas revolving, una cuota mensual demasiado baja puede no cubrir los intereses y hacer que la deuda crezca indefinidamente.",
+    "Para operar de forma fraudulenta basta con los datos de la tarjeta (número, fecha de caducidad y CVV), así que hay que protegerlos.",
+    "El tipo de interés de la tarjeta de crédito debe figurar en el contrato, junto al de los saldos excedidos y al de demora."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cuál es la diferencia principal entre una tarjeta de débito y una de crédito?",
+      "options": [
+        "La de débito carga el importe de forma instantánea en tu cuenta; la de crédito te presta dinero que debes devolver con intereses",
+        "La de crédito no permite sacar dinero en cajeros automáticos",
+        "La de débito genera siempre intereses por cada pago que realizas",
+        "La de crédito solo puede usarse en los comercios asociados a la entidad"
+      ],
+      "correct_index": 0,
+      "explanation": "La tarjeta de débito utiliza los fondos de tu cuenta y registra la operación al instante, mientras que la de crédito te permite disponer de dinero a crédito que debes devolver en los plazos previstos con sus intereses.",
+      "concept_id": "C09"
+    },
+    {
+      "question": "Te roban la tarjeta y detectas que se han hecho cargos fraudulentos. ¿Qué debes hacer para limitar tu responsabilidad?",
+      "options": [
+        "Avisar de inmediato a la entidad, momento desde el que no respondes de los usos no autorizados",
+        "Esperar a que el banco detecte por sí solo los movimientos sospechosos",
+        "No es necesario hacer nada, porque el banco siempre cubre la totalidad",
+        "Cancelar la cuenta corriente asociada a la tarjeta"
+      ],
+      "correct_index": 0,
+      "explanation": "Al comunicar la pérdida o robo de inmediato, quedas libre de responsabilidad por los usos que no hayas realizado tú a partir de ese momento; demorarlo puede considerarse negligencia.",
+      "concept_id": "C15"
+    },
+    {
+      "question": "En una tarjeta revolving, ¿qué riesgo conlleva elegir una cuota mensual muy baja?",
+      "options": [
+        "Que la cuota no llegue a cubrir los intereses y la deuda crezca con efecto 'bola de nieve'",
+        "Que el banco cancele la tarjeta automáticamente al mes siguiente",
+        "Que el límite de crédito disponible se reduzca cada mes",
+        "Que dejes de acumular puntos o descuentos del programa de fidelización"
+      ],
+      "correct_index": 0,
+      "explanation": "Si la cuota es demasiado baja puede que ni siquiera cubra los intereses, que se suman y financian junto al resto, haciendo que la deuda aumente en vez de reducirse y se prolongue de forma indefinida.",
+      "concept_id": "C03"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 29930,
+    "input_tokens": 11498,
+    "output_tokens": 1967
+  }
+}

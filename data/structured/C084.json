@@ -1,0 +1,61 @@
+{
+  "content_id": "C084",
+  "title": "Seguros",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Seguros"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hoy, hablamos de los seguros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Todos corremos riesgos en nuestra vida diaria. ¿Sabes que de algunos de esos riesgos te puedes proteger?",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sí. Piensa en tu teléfono móvil o tu consola de videojuegos, se pueden caer y estropear a consecuencia de la caída o pueden sustraértelos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El seguro, a cambio de una cantidad de dinero, que es el precio del seguro, cubre el importe que va a suponerte la pérdida o el daño, si se producen esos supuestos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Y si te compras una motocicleta vas a tener que contratar un seguro, en este caso obligatorio. El objeto de este seguro es proteger a las víctimas de accidentes de tráfico si eres el responsable del accidente. Y si, por ejemplo, estás federado en algún deporte, estás cubierto por un seguro que cubre las lesiones que puedas sufrir en las competiciones e incluso en los entrenamientos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Casi hay un seguro para cada situación, aunque puede haber situaciones o riesgos no cubiertos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Tus padres seguramente tendrán contratado un seguro de hogar que les indemnizará en caso de incendio de vuestra vivienda, o si se producen daños por agua. También hay seguros de ahorro en los que, mediante aportaciones periódicas de dinero, se obtiene una determinada suma de dinero o una renta en la fecha de jubilación.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Contesta ahora a las siguientes preguntas:",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:28:32.281509+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 3904,
+    "input_tokens": 2062,
+    "output_tokens": 1120
+  }
+}

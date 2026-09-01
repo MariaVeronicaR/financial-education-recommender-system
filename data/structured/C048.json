@@ -1,0 +1,56 @@
+{
+  "content_id": "C048",
+  "title": "Fondo de emergencia: qué es, cuánto necesitas y cómo construirlo",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fondo de emergencia: qué es, cuánto necesitas y cómo construirlo"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Y si mañana te quedas sin trabajo o tu coche deja de funcionar? Ahí es donde entra el fondo de emergencia, tu red de seguridad financiera. Un fondo de emergencia es una reserva de dinero destinada exclusivamente a cubrir imprevistos, como reparaciones, desempleo, etc. No se debe usar para las vacaciones ni para caprichos, es un fondo para emergencias reales.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Ese dinero tiene que estar fácilmente disponible cuanto lo necesites, pero eso no significa que lo tengamos que tener en casa debajo del colchón. Puede estar en una cuenta a la vista o en una cuenta ahorro, por ejemplo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Cuánto deberías tener? El mínimo recomendado es un importe que cubra entre 3 y 6 meses de tus gastos básicos: vivienda, comida, servicios, transporte, etc. De esta forma, tendrás tiempo para reaccionar sin endeudarte.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Cómo construirlo?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para empezar, calcula tus gastos mensuales esenciales y define tu meta. Puedes empezar poco a poco, dependiendo de tus ingresos, e ir aumentando la cantidad según tus posibilidades. Inclúyelo en tu presupuesto como un gasto más y programa transferencias mensuales si tienes una cuenta de ahorro donde guardarlo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Puedes aprovechar ingresos extra como la paga extra o una devolución de la renta para hacerlo crecer más rápido.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Tener un fondo de emergencia contribuye a tu salud financiera. No sabes cuándo lo necesitarás, pero cuando lo hagas, te alegrarás de haberlo preparado.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:14:07.823147+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 2969,
+    "input_tokens": 2147,
+    "output_tokens": 1063
+  }
+}

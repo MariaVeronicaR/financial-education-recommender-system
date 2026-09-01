@@ -1,0 +1,177 @@
+{
+  "content_id": "C023",
+  "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/",
+  "source": "Portal Cliente Bancario BdE",
+  "host": "clientebancario.bde.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 41911
+  },
+  "title": "Hipotecas",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Hipotecas"
+    },
+    {
+      "level": 2,
+      "text": "Contratar una hipoteca"
+    },
+    {
+      "level": 2,
+      "text": "Modificar la hipoteca"
+    },
+    {
+      "level": 2,
+      "text": "Otros temas relacionados con la hipoteca"
+    },
+    {
+      "level": 2,
+      "text": "Hipotecas especiales"
+    },
+    {
+      "level": 2,
+      "text": "CONSULTAS FRECUENTES"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Hipotecas",
+      "start": 0,
+      "end": 295,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Contratar una hipoteca",
+      "start": 295,
+      "end": 562,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Modificar la hipoteca",
+      "start": 562,
+      "end": 765,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Otros temas relacionados con la hipoteca",
+      "start": 765,
+      "end": 919,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Hipotecas especiales",
+      "start": 919,
+      "end": 1079,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "CONSULTAS FRECUENTES",
+      "start": 1079,
+      "end": 1430,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Hipotecas"
+    },
+    {
+      "type": "paragraph",
+      "text": "El préstamo hipotecario nos permite disponer de una importante cantidad de dinero, habitualmente, para comprar una vivienda o rehabilitarla. Esta es una decisión financiera muy importante, por lo que conviene tener muy claro qué es y qué modalidades nos ofrece un préstamo hipotecario."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Contratar una hipoteca"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si estamos interesados en la contratación de una hipoteca, debemos analizar la oferta que nos propongan, compararla con otras del mercado y sopesar nuestras necesidades y posibilidades de afrontar los pagos durante un periodo largo de tiempo."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Modificar la hipoteca"
+    },
+    {
+      "type": "paragraph",
+      "text": "Teniendo en cuenta que una hipoteca es un producto de larga duración, las condiciones financieras, incluso las normas que la regulan, podrán cambiar durante el tiempo que esté viva."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Otros temas relacionados con la hipoteca"
+    },
+    {
+      "type": "paragraph",
+      "text": "Durante la vida de la hipoteca y hasta su vencimiento podrían surgir diversas situaciones que conviene conocer."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hipotecas especiales"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las hipotecas pueden adaptarse a tus particularidades: si eres joven o ya has cumplido 65 años, pregunta por productos específicos para ti."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "CONSULTAS FRECUENTES"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Redondeo del tipo de interés de una hipoteca Leer respuestasobreRedondeo del tipo de interés de una hipoteca",
+        "¿Puede mi entidad atender otras deudas con el dinero ingresado para pagar la cuota de mi hipoteca? Leer respuestasobre¿Puede mi entidad atender otras deudas con el dinero ingresado para pagar la cuota de mi hipoteca?"
+      ]
+    }
+  ],
+  "text": "Hipotecas\nEl préstamo hipotecario nos permite disponer de una importante cantidad de dinero, habitualmente, para comprar una vivienda o rehabilitarla. Esta es una decisión financiera muy importante, por lo que conviene tener muy claro qué es y qué modalidades nos ofrece un préstamo hipotecario.\nContratar una hipoteca\nSi estamos interesados en la contratación de una hipoteca, debemos analizar la oferta que nos propongan, compararla con otras del mercado y sopesar nuestras necesidades y posibilidades de afrontar los pagos durante un periodo largo de tiempo.\nModificar la hipoteca\nTeniendo en cuenta que una hipoteca es un producto de larga duración, las condiciones financieras, incluso las normas que la regulan, podrán cambiar durante el tiempo que esté viva.\nOtros temas relacionados con la hipoteca\nDurante la vida de la hipoteca y hasta su vencimiento podrían surgir diversas situaciones que conviene conocer.\nHipotecas especiales\nLas hipotecas pueden adaptarse a tus particularidades: si eres joven o ya has cumplido 65 años, pregunta por productos específicos para ti.\nCONSULTAS FRECUENTES\n- Redondeo del tipo de interés de una hipoteca Leer respuestasobreRedondeo del tipo de interés de una hipoteca\n- ¿Puede mi entidad atender otras deudas con el dinero ingresado para pagar la cuota de mi hipoteca? Leer respuestasobre¿Puede mi entidad atender otras deudas con el dinero ingresado para pagar la cuota de mi hipoteca?",
+  "text_len": 1430,
+  "num_headings": 6,
+  "metadata": {
+    "title": "Hipotecas",
+    "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/productosservici/financiacion/hipotecas/",
+    "hostname": "clientebancario.bde.es",
+    "description": "Hipotecas",
+    "sitename": "clientebancario.bde.es",
+    "date": "2021-01-01",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "La hipoteca: guía completa",
+    "topic": "hipotecas",
+    "subtopic": "contratación",
+    "difficulty": "avanzado",
+    "format": "artículo web",
+    "summary": "Elementos clave de una hipoteca: capital, plazo, tipo de interés, TAE",
+    "learning_objective": "Entender los componentes de una hipoteca"
+  },
+  "deduped_from": null
+}

@@ -1,0 +1,56 @@
+{
+  "content_id": "C075",
+  "tldr": "Esta calculadora permite conocer el valor neto (patrimonio) de un hogar restando el total de pasivos (deudas) del total de activos (ahorros, bienes e inversiones). El resultado refleja la situación patrimonial real: si es positivo, los activos superan a las deudas. Es una herramienta de planificación para tomar decisiones financieras con conocimiento de causa.",
+  "key_points": [
+    "El valor neto se calcula restando el total de pasivos del total de activos.",
+    "Los activos son lo que se posee (ahorros, propiedades, inversiones); los pasivos son las deudas y obligaciones.",
+    "Un valor neto positivo indica que los activos superan a las deudas del hogar.",
+    "Conocer el valor neto permite evaluar la situación patrimonial real y planificar mejor las finanzas."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cómo se obtiene el valor neto en esta calculadora de patrimonio?",
+      "options": [
+        "Restando el total de pasivos del total de activos",
+        "Sumando el total de activos y el total de pasivos",
+        "Restando el total de activos del total de pasivos",
+        "Multiplicando los ahorros por el número de categorías"
+      ],
+      "correct_index": 0,
+      "explanation": "El valor neto es la diferencia entre lo que se tiene (activos) y lo que se debe (pasivos): activos − pasivos.",
+      "concept_id": "C16"
+    },
+    {
+      "question": "En la calculadora, ¿qué representa el apartado 'Total Pasivo'?",
+      "options": [
+        "El total de ahorros acumulados",
+        "El total de deudas y obligaciones del hogar",
+        "El valor de las inversiones a largo plazo",
+        "El patrimonio total disponible"
+      ],
+      "correct_index": 1,
+      "explanation": "Los pasivos son las deudas y obligaciones financieras, que se restan de los activos para calcular el valor neto.",
+      "concept_id": "C16"
+    },
+    {
+      "question": "¿Para qué sirve principalmente conocer el valor neto de tu hogar?",
+      "options": [
+        "Para conocer la situación patrimonial real y planificar mejor las finanzas",
+        "Para saber cuánto pagarás de impuestos cada año",
+        "Para calcular el tipo de interés de una hipoteca",
+        "Para saber cuánto dinero puedes gastar en ocio"
+      ],
+      "correct_index": 0,
+      "explanation": "El objetivo de la herramienta es conocer la situación patrimonial real del hogar, lo que permite tomar mejores decisiones de planificación financiera.",
+      "concept_id": "C16"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5056,
+    "input_tokens": 1303,
+    "output_tokens": 1083
+  }
+}

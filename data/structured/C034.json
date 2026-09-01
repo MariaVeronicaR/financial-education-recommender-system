@@ -1,0 +1,60 @@
+{
+  "content_id": "C034",
+  "title": "Cálculo del coste financiero",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cálculo del coste financiero"
+    },
+    {
+      "type": "paragraph",
+      "text": "Calcula el coste financiero de tu compra a plazos",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Este simulador permite calcular el coste financiero de un préstamo expresado como tipo de interés anual equivalente a partir del importe a financiar y las mensualidades correspondientes, incluyendo posibles comisiones y otros gastos repercutidos. Se trata de un cálculo «teórico», es decir, que no tiene en cuenta posibles limitaciones normativas aplicables para el cálculo de otras magnitudes como podía ser la TAE.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A modo de ejemplo y, sin ánimo exhaustivo, este simulador pretende servir de apoyo en operaciones de financiación como una compra aplazada.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El tipo «teórico» calculado por este simulador es válido para los datos introducidos y las hipótesis mencionadas más adelante, lo que significa que podría diferir de la TAE ofertada por una entidad si en dicha oferta hubiese condiciones diferentes o adicionales a las aquí planteadas.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Puedes realizar varias simulaciones y comparar el tipo resultante en cada una de ellas.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Con el fin de que el simulador pueda aplicarse al mayor número posible de casos, en los cálculos se efectúan algunas simplificaciones como las siguientes:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Todos los meses del año tienen igual número de días",
+        "Las cuotas a pagar son iguales todos los meses, salvo la primera y la última, donde existe la opción de especificar una cantidad alternativa",
+        "No existen periodos de carencia. No obstante, se permite hacer el cálculo tanto si la primera cuota se paga en el momento de la formalización como si es un mes más tarde.",
+        "En su caso, es posible indicar el importe de comisiones y otros gastos obligatorios que sean pagaderos en el momento de formalización de la operación de financiación."
+      ]
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:13:35.191597+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 2435,
+    "input_tokens": 2130,
+    "output_tokens": 743
+  }
+}

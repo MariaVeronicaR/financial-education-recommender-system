@@ -1,0 +1,406 @@
+{
+  "content_id": "C051",
+  "url": "https://www.finanzasparatodos.es/conceptos-basicos-que-te-ayudaran-a-entender-tu-declaracion-de-la-renta",
+  "source": "Portal Cliente Bancario BdE",
+  "host": "www.finanzasparatodos.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 45948
+  },
+  "title": "Conceptos básicos que te ayudarán a entender tu Declaración de la Renta",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Conceptos básicos que te ayudarán a entender tu Declaración de la Renta"
+    },
+    {
+      "level": 2,
+      "text": "Conceptos básicos"
+    },
+    {
+      "level": 2,
+      "text": "Conceptos relacionados con impuestos y cálculo"
+    },
+    {
+      "level": 2,
+      "text": "Ajustes y beneficios fiscales"
+    },
+    {
+      "level": 2,
+      "text": "Presentación de la declaración"
+    },
+    {
+      "level": 2,
+      "text": "Resultado de la declaración"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Conceptos básicos que te ayudarán a entender tu Declaración de la Renta",
+      "start": 0,
+      "end": 278,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Conceptos básicos",
+      "start": 278,
+      "end": 1044,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Conceptos relacionados con impuestos y cálculo",
+      "start": 1044,
+      "end": 1586,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Ajustes y beneficios fiscales",
+      "start": 1586,
+      "end": 2248,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Presentación de la declaración",
+      "start": 2248,
+      "end": 2723,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Resultado de la declaración",
+      "start": 2723,
+      "end": 3235,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Conceptos básicos que te ayudarán a entender tu Declaración de la Renta"
+    },
+    {
+      "type": "paragraph",
+      "text": "10/04/2026\nHemos recogido una lista de palabras clave muy comunes en la declaración de la renta con una explicación sencilla de cada una. Te pueden servir para entender el borrador o preparar documentación."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conceptos básicos"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "IRPF (Impuesto sobre la Renta de las Personas Físicas)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Es el impuesto que pagamos por los ingresos que obtenemos (salario, alquileres, inversiones, etc.)."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Rendimientos del trabajo"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ingresos que recibes por tu empleo: salario, pagas extra, bonus, indemnizaciones, etc."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Rendimientos del capital mobiliario"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ingresos procedentes de inversiones financieras: intereses de cuentas, dividendos de acciones, etc."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Rendimientos del capital inmobiliario"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ingresos que obtienes por alquilar inmuebles (por ejemplo, un piso que alquilas)."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Actividades económicas"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ingresos de trabajadores autónomos o profesionales por su actividad."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Ganancias/Pérdidas patrimoniales"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Variaciones en el valor del patrimonio (venta de acciones, casa, criptomonedas)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conceptos relacionados con impuestos y cálculo"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Base imponible"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Cantidad total sobre la que se calcula el impuesto, después de sumar ingresos y restar ciertos gastos o reducciones."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Base liquidable"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "La base imponible después de aplicar reducciones (por ejemplo, aportaciones a planes de pensiones)."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Tipo impositivo"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Porcentaje que se aplica a la base liquidable para calcular el impuesto."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Cuota íntegra"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "El resultado de aplicar el tipo impositivo a la base liquidable."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Cuota líquida"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "La cuota íntegra después de aplicar deducciones."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ajustes y beneficios fiscales"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Deducción"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Cantidad que se resta directamente del impuesto a pagar (por ejemplo, por vivienda, alquiler, maternidad, etc.)."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Reducción"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Cantidad que se resta de la base imponible antes de calcular el impuesto."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Retenciones"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Dinero que ya te han descontado de tu sueldo durante el año para pagar el IRPF."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Pagos a cuenta"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Pagos adelantados del impuesto que se restan al hacer la declaración."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Rentas exentas"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ingresos obtenidos que, por disposición legal, no están sujetos al pago de IRPF, como son las prestaciones por maternidad/paternidad, las becas públicas o los premios de loterías hasta 40.000 euros, por ejemplo."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Presentación de la declaración"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Certificado de retenciones"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Documento oficial, obligatorio y anual emitido por el pagador (empresa, Seguridad Social, cliente) que detalla los ingresos recibidos por un trabajador y el IRPF retenido."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Declaración individual o declaración conjunta"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Opción de tributar solo o con la unidad familiar (cónyuge e hijos)."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Borrador de la declaración"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Propuesta de declaración que prepara la Agencia Tributaria con los datos que tiene sobre ti."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Resultado de la declaración"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Resultado a pagar"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando el impuesto calculado es mayor que las retenciones y debes pagar la diferencia."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Resultado a devolver"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando has pagado más durante el año y Hacienda te devuelve dinero.\nRecuerda que en la página web de la Agencia Tributaria puedes obtener más información sobre la campaña de la renta 2025.\nCategorías",
+      "links": [
+        {
+          "text": "campaña de la renta 2025",
+          "href": "https://sede.agenciatributaria.gob.es/Sede/Renta.html",
+          "start": 163,
+          "end": 187
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Planificación y presupuesto",
+        "Planificación y presupuesto",
+        "Planificación y presupuesto",
+        "Planificación y presupuesto",
+        "Planificación y presupuesto"
+      ]
+    }
+  ],
+  "text": "Conceptos básicos que te ayudarán a entender tu Declaración de la Renta\n10/04/2026\nHemos recogido una lista de palabras clave muy comunes en la declaración de la renta con una explicación sencilla de cada una. Te pueden servir para entender el borrador o preparar documentación.\nConceptos básicos\n1. IRPF (Impuesto sobre la Renta de las Personas Físicas)\nEs el impuesto que pagamos por los ingresos que obtenemos (salario, alquileres, inversiones, etc.).\n2. Rendimientos del trabajo\nIngresos que recibes por tu empleo: salario, pagas extra, bonus, indemnizaciones, etc.\n3. Rendimientos del capital mobiliario\nIngresos procedentes de inversiones financieras: intereses de cuentas, dividendos de acciones, etc.\n4. Rendimientos del capital inmobiliario\nIngresos que obtienes por alquilar inmuebles (por ejemplo, un piso que alquilas).\n5. Actividades económicas\nIngresos de trabajadores autónomos o profesionales por su actividad.\n6. Ganancias/Pérdidas patrimoniales\nVariaciones en el valor del patrimonio (venta de acciones, casa, criptomonedas).\nConceptos relacionados con impuestos y cálculo\n7. Base imponible\nCantidad total sobre la que se calcula el impuesto, después de sumar ingresos y restar ciertos gastos o reducciones.\n8. Base liquidable\nLa base imponible después de aplicar reducciones (por ejemplo, aportaciones a planes de pensiones).\n9. Tipo impositivo\nPorcentaje que se aplica a la base liquidable para calcular el impuesto.\n10. Cuota íntegra\nEl resultado de aplicar el tipo impositivo a la base liquidable.\n11. Cuota líquida\nLa cuota íntegra después de aplicar deducciones.\nAjustes y beneficios fiscales\n12. Deducción\nCantidad que se resta directamente del impuesto a pagar (por ejemplo, por vivienda, alquiler, maternidad, etc.).\n13. Reducción\nCantidad que se resta de la base imponible antes de calcular el impuesto.\n14. Retenciones\nDinero que ya te han descontado de tu sueldo durante el año para pagar el IRPF.\n15. Pagos a cuenta\nPagos adelantados del impuesto que se restan al hacer la declaración.\n16. Rentas exentas\nIngresos obtenidos que, por disposición legal, no están sujetos al pago de IRPF, como son las prestaciones por maternidad/paternidad, las becas públicas o los premios de loterías hasta 40.000 euros, por ejemplo.\nPresentación de la declaración\n17. Certificado de retenciones\nDocumento oficial, obligatorio y anual emitido por el pagador (empresa, Seguridad Social, cliente) que detalla los ingresos recibidos por un trabajador y el IRPF retenido.\n18. Declaración individual o declaración conjunta\nOpción de tributar solo o con la unidad familiar (cónyuge e hijos).\n19. Borrador de la declaración\nPropuesta de declaración que prepara la Agencia Tributaria con los datos que tiene sobre ti.\nResultado de la declaración\n20. Resultado a pagar\nCuando el impuesto calculado es mayor que las retenciones y debes pagar la diferencia.\n21. Resultado a devolver\nCuando has pagado más durante el año y Hacienda te devuelve dinero.\nRecuerda que en la página web de la Agencia Tributaria puedes obtener más información sobre la campaña de la renta 2025.\nCategorías\n- Planificación y presupuesto\n- Planificación y presupuesto\n- Planificación y presupuesto\n- Planificación y presupuesto\n- Planificación y presupuesto",
+  "text_len": 3235,
+  "num_headings": 6,
+  "metadata": {
+    "title": "Conceptos básicos que te ayudarán a entender tu Declaración de la Renta",
+    "url": "https://www.finanzasparatodos.es/conceptos-basicos-que-te-ayudaran-a-entender-tu-declaracion-de-la-renta",
+    "hostname": "finanzasparatodos.es",
+    "description": "Conceptos básicos que te ayudarán a entender tu Declaración de la Renta",
+    "sitename": "finanzasparatodos.es",
+    "date": "2026-04-10",
+    "tags": [
+      "Conceptos básicos que te ayudarán a entender tu Declaración de la Renta"
+    ],
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Declaración de la renta: conceptos básicos",
+    "topic": "planificación",
+    "subtopic": "renta",
+    "difficulty": "básico",
+    "format": "artículo web",
+    "summary": "Conceptos básicos de la declaración de la renta",
+    "learning_objective": "Entender los elementos principales del IRPF"
+  },
+  "deduped_from": null
+}

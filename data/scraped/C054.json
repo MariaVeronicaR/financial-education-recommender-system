@@ -1,0 +1,72 @@
+{
+  "content_id": "C054",
+  "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/actualidadeducac/educacion-financiera/protegete-contra-el-fraude/",
+  "source": "Portal Cliente Bancario BdE",
+  "host": "clientebancario.bde.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 32210
+  },
+  "title": "Protégete contra el fraude",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Protégete contra el fraude"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Protégete contra el fraude",
+      "start": 0,
+      "end": 341,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Protégete contra el fraude"
+    },
+    {
+      "type": "paragraph",
+      "text": "La digitalización de los servicios y productos bancarios es una realidad cada vez más común y, como usuarios, nos es de utilidad conocer sus oportunidades y también los nuevos riesgos que pueden surgir. El Portal del Cliente Bancario publica posts relativos al fraude por internet:\nConsejos de la Policía Nacional:"
+    }
+  ],
+  "text": "Protégete contra el fraude\nLa digitalización de los servicios y productos bancarios es una realidad cada vez más común y, como usuarios, nos es de utilidad conocer sus oportunidades y también los nuevos riesgos que pueden surgir. El Portal del Cliente Bancario publica posts relativos al fraude por internet:\nConsejos de la Policía Nacional:",
+  "text_len": 341,
+  "num_headings": 1,
+  "metadata": {
+    "title": "Protégete contra el fraude",
+    "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/actualidadeducac/educacion-financiera/protegete-contra-el-fraude/",
+    "hostname": "clientebancario.bde.es",
+    "description": "Protégete contra el fraude",
+    "sitename": "clientebancario.bde.es",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Phishing: cómo identificar correos fraudulentos",
+    "topic": "fraude",
+    "subtopic": "phishing",
+    "difficulty": "básico",
+    "format": "artículo web",
+    "summary": "Señales típicas de phishing y cómo actuar ante un correo sospechoso",
+    "learning_objective": "Detectar correos y webs de phishing"
+  },
+  "deduped_from": "C028"
+}

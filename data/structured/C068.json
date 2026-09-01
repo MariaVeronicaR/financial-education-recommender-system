@@ -1,0 +1,429 @@
+{
+  "content_id": "C068",
+  "title": "Psicología económica para inversores",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "I. Introducción"
+    },
+    {
+      "type": "paragraph",
+      "text": "La teoría económica tradicional se ha ocupado desde sus orígenes de la manera en que los sujetos adoptan sus decisiones de inversión, ahorro y gasto. Para ello se ha basado en las premisas de que los sujetos saben lo que quieren, utilizan la información disponible de una manera dirigida a conseguir sus objetivos y comprenden perfectamente los riesgos y beneficios de sus decisiones financieras. Sin embargo, los numerosos descubrimientos sobre el modo en que funciona el cerebro humano realizados en los últimos años y procedentes de disciplinas como la psicología, la neurología o la neurofisiología revelan que esto no es así y que las personas con frecuencia desconocen sus preferencias, utilizan incorrectamente la información disponible y no comprenden bien los riesgos que asumen.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En consecuencia, la economía conductual tiene en cuenta aquellos factores sutiles y no tan sutiles que subyacen a las decisiones financieras.",
+      "links": []
+    },
+    {
+      "type": "highlight",
+      "text": "La economía conductual o psicología económica estudia los comportamientos humanos reales en un mundo real para desarrollar, a partir de ello, modelos económicos más precisos y prácticos que los facilitados por la teoría económica convencional."
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta disciplina supone un intento de analizar las pautas y sesgos del comportamiento de las personas y, a partir de ellos, predecir modelos de comportamiento.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Las investigaciones realizadas en el ámbito de la economía conductual muestran que la mayoría de estas pautas o sesgos son predecibles. Estos hallazgos abren nuevas posibilidades de lograr una mejor comprensión del comportamiento de los inversores y, por tanto, pueden ayudar a optimizar la toma de decisiones financieras.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La presente Guía tiene como objetivo recoger una serie de propuestas dirigidas a inversores que faciliten la aplicación práctica de las principales premisas de la economía conductual a la adopción de decisiones de inversión. Se explican primero los fundamentos básicos en los que se asienta la economía conductual y a continuación se incluyen una serie de consejos para facilitar la aplicación de dichos fundamentos a la práctica.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. Concepto y fundamentos básicos de la economía conductual"
+    },
+    {
+      "type": "paragraph",
+      "text": "La economía conductual cobró especial relevancia con ocasión de la concesión en 2017 del Premio Nobel de Economía al economista Richard H. Thaler, que se unió al concedido en 2002 al catedrático de psicología de la Universidad de Princeton, Daniel Kahneman. Lo que ambos autores ponen de relieve es en esencia que los sujetos no son seres plenamente racionales y que esa racionalidad limitada afecta al comportamiento de los mercados.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque la circunstancia de que los sujetos no son seres plenamente racionales es bien conocida desde hace mucho tiempo en otros campos como el de la psicología o la publicidad, constituye una cierta novedad el hecho de que la economía comience a tener en cuenta en mayor medida aspectos sociológicos, antropológicos y psicológicos para explicar el funcionamiento de los mercados y el comportamiento de los inversores.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La economía conductual no surge como contraposición a la teoría económica convencional sino como una disciplina que la complementa y la enriquece al aportar conocimiento procedente de la psicología, las neurociencias, la antropología o la sociología para entender mejor el proceso de toma de decisiones económicas de los individuos. En palabras de Richard Thaler, la economía conductual ha dotado a los economistas de una mayor riqueza de herramientas analíticas y experimentales para comprender y predecir el comportamiento humano.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A continuación, se recogen los principales matices que aporta la economía conductual a la teoría económica clásica.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Premisas de la teoría económica clásica: Los sujetos son plenamente racionales. Premisas de la economía conductual: Los sujetos tienen una racionalidad limitada.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Premisas de la teoría económica clásica: Los sujetos saben lo que quieren. Premisas de la economía conductual: Los sujetos desconocen frecuentemente sus preferencias.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Premisas de la teoría económica clásica: Los sujetos tienen una capacidad cognitiva ilimitada para conocer perfectamente las implicaciones de cada una de las opciones disponibles y adoptar aquella que maximice su beneficio. Premisas de la economía conductual: Los sujetos disponen de una capacidad de cálculo limitada y aspiran únicamente a tomar la decisión más satisfactoria y no la que maximiza su beneficio.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Premisas de la teoría económica clásica: Los sujetos adoptan sus decisiones de inversión, ahorro y gasto utilizando la información disponible de una manera dirigida a conseguir sus objetivos. Premisas de la economía conductual: Los sujetos toman habitualmente sus decisiones, considerando normas sociales y expectativas y siguiendo patrones de cooperación. Sus preferencias dependen del contexto en el que se encuentren y de sus propios modelos mentales.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Premisas de la teoría económica clásica: Las preferencias de los sujetos son estables y consistentes. No cambian ni varían en el tiempo. Premisas de la economía conductual: Las preferencias de los individuos pueden cambiar dependiendo de factores muy diversos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Premisas de la teoría económica clásica: Las preferencias de los individuos no están influidas por su propio historial de toma de decisiones ni por factores externos como las convenciones sociales, su entorno o los medios de comunicación. Premisas de la economía conductual: El ser humano es un ser social que adopta decisiones en el marco de un contexto social que influye de manera determinante en la decisión finalmente adoptada.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Premisas de la teoría económica clásica: Los sujetos son maximizadores a la hora de tomar decisiones, buscando obtener la máxima utilidad en sus decisiones. El sujeto maximizador compara todas las opciones posibles para elegir la óptima. Premisas de la economía conductual: Los sujetos son satisfactores. Los individuos carecen de capacidad ilimitada de procesamiento de información y optan por adoptar la decisión más satisfactoria. Les basta con tomar una decisión suficientemente buena aunque no necesariamente óptima.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Premisas de la teoría económica clásica: El proceso de toma de decisiones está basado en el análisis y cálculo cuidadosos de todas las opciones disponibles. Premisas de la economía conductual: La economía conductual considera que las emociones y la intuición tienen un papel fundamental en el proceso de toma de decisiones.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Premisas de la teoría económica clásica: La manera o marco en el que se presentan las opciones y oportunidades no debería afectar a la toma de decisiones por parte de los individuos. La elección de la mejor opción no debería ser sensible a la manera en que están encuadradas las opciones y, por tanto, debería ser independiente del contexto en el que se realiza. Premisas de la economía conductual: El contexto en el que los individuos adoptan sus decisiones afecta a la manera en que se contemplan las opciones. Si se cambia el marco, se pueden cambiar las elecciones que realizan los sujetos.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "III. El proceso de toma de decisiones"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Consideraciones generales"
+    },
+    {
+      "type": "paragraph",
+      "text": "La adopción de decisiones es el proceso en el que se debe elegir entre dos o más alternativas. Se desarrolla en cualquier contexto de la vida cotidiana, ya sea personal o profesional. En el proceso decisorio intervienen principalmente dos factores:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "La capacidad analítica, es decir, la facultad de evaluar y comprender el contexto en el que se toma una decisión y sus posibles repercusiones.",
+        "Las emociones, es decir, los estados psicológicos en los que se encuentra la persona que adopta la decisión."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A diferencia de la teoría económica convencional que considera que el proceso de toma de decisiones está basado en el análisis y cálculo cuidadosos de todas las opciones disponibles, la economía conductual considera que las emociones y la intuición tienen un papel fundamental en este proceso.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por tanto, la economía convencional otorga un papel predominante a la racionalidad del sujeto en detrimento de su faceta emocional, mientras que la economía conductual considera que esta última tiene un papel protagonista en la adopción de decisiones.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A este respecto, Daniel Kahneman en su obra Thinking, Fast and Slow (2011) distingue dos sistemas de pensamiento:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "El Sistema 1 (pensamiento rápido) que opera de manera rápida y automática con poco o ningún esfuerzo y sin sensación de control voluntario, y",
+        "El Sistema 2 (pensamiento lento) que se centra en actividades mentales que demandan esfuerzos, incluidos los cálculos complejos."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Los dos sistemas interaccionan y están siempre activos. El Sistema 1 hace sugerencias constantemente al Sistema 2 en forma de impresiones, intuiciones, intenciones y sensaciones. Si cuentan con la aprobación del Sistema 2, las impresiones e intuiciones se vuelven creencias y los impulsos se convierten en acciones voluntarias. Generalmente, ambos sistemas funcionan sin complicaciones, de modo que el Sistema 2 acepta las sugerencias del Sistema 1. Solo cuando el Sistema 1 encuentra alguna dificultad, recurre al Sistema 2 para que sugiera un procedimiento más detallado y preciso que pueda resolver el problema. Este reparto del trabajo entre ambos sistemas minimiza el esfuerzo y optimiza la ejecución. El Sistema 1 funciona adecuadamente, sus predicciones a corto plazo suelen ser apropiadas y sus respuestas iniciales son rápidas y generalmente ajustadas. Sin embargo, este sistema tiene sesgos, errores sistemáticos que es propenso a cometer en circunstancias específicas. Por su parte, el Sistema 2 es un proceso lento que consume mucha energía.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En esencia, en la toma de decisiones influiría un modo de pensamiento basado en las emociones e intuiciones que produce respuestas rápidas y automáticas y un modo de pensamiento más racional que dirige la atención a las actividades mentales que así lo demanden.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por tanto, intuición y razonamiento serían los dos modos de pensamiento. El primero es responsable de las impresiones y juicios rápidos y el segundo es mucho más lento, requiere más esfuerzo y debe controlarse deliberadamente.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La mayoría de las decisiones diarias es realizada por el Sistema 1 con un resultado razonablemente bueno, exceptuando los sesgos o errores que puedan producirse. El Sistema 2 actúa únicamente para resolver cuestiones difíciles que requieren análisis y capacidad crítica.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En consecuencia, las investigaciones de Kahneman demuestran que los humanos no están bien descritos en el modelo de agente racional y que sus decisiones están afectadas por \"las veleidades del Sistema 1 y la pereza del Sistema 2\". Aunque la intuición o el Sistema 1 es muy eficiente para adoptar decisiones complicadas, sus resultados no son siempre correctos. Esto se debe a la existencia de los sesgos, es decir, a ciertos trucos o atajos mentales (también llamados heurísticos) que ayudan a simplificar la gran cantidad de procesos mentales que se llevan a cabo constantemente y a hacer más llevadera la vida diaria.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sistema 1: Rápido, Instintivo, Emocional, Automático, Inconsciente.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sistema 2: Lento, Analítico, Estructurado, Lógico, Consciente.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. Sesgos en la toma de decisiones de inversión"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las personas no siempre realizan elecciones de una manera racional y crítica. De hecho, la mayoría de las decisiones se toma siguiendo procesos intuitivos y automáticos en vez de procesos analíticos y controlados. Este modo de pensar rápido e intuitivo está sometido a la influencia de los sesgos que llevan a las personas a adoptar decisiones que son previsiblemente equivocadas. En el ámbito de la toma de decisiones de inversión, los sesgos más comunes son los siguientes:",
+      "links": []
+    },
+    {
+      "type": "ordered_list",
+      "items": [
+        "Exceso de confianza. Es la tendencia a sobreestimar los conocimientos y juicios subjetivos y considerarlos certeros. A la hora de adoptar decisiones y realizar pronósticos, se sobrevaloran los conocimientos y la experiencia personal sin tener en cuenta la diferencia entre lo que se sabe realmente y lo que se cree saber. El exceso de confianza puede llevar al inversor a considerar que la probabilidad de que su inversión fracase es menor de lo que realmente es. El inversor sobreconfiado infravalora los riesgos de su inversión y sobreestima las ganancias esperadas de la misma.",
+        "Ilusión de control. Es la tendencia a sobreestimar que se dispone del control o de la posibilidad de influir en algo sobre lo que objetivamente no se tiene ningún control. Este sesgo puede llevar a que se asuma un nivel de riesgo superior al adecuado al confiar en que se controlan los vaivenes del mercado gracias a los análisis realizados y la información de la que se dispone.",
+        "Confirmación. Consiste en interpretar la información recibida o buscar informaciones nuevas de manera que corroboren convicciones o ideas previas. De esta forma, los inversores buscan información de modo selectivo para respaldar sus opiniones en lugar de buscar opiniones o informes críticos con estas, con el consiguiente riesgo de no realizar una inversión adecuada para ellos.",
+        "Anclaje. Es la predisposición a dar más peso a la información obtenida en primer lugar que a una información nueva que la contradice. Su denominación se debe a que esas ideas previas en ocasiones suponen verdaderas anclas difíciles de soltar. En el mundo de la inversión se aprecia con frecuencia este sesgo, por ejemplo, cuando se presenta en primer lugar la rentabilidad de un producto de inversión, y ya no se consideran otros datos no tan positivos como los riesgos asociados, o se toma como referencia de la evolución de una acción el precio que esta tuvo en el pasado.",
+        "Autoridad. Es la tendencia a sobreestimar las opiniones de determinadas personas por el mero hecho de ser quienes son y sin someterlas a un enjuiciamiento previo. Puede suceder que se realice una inversión únicamente porque la recomienda un familiar o un amigo sin realizar ningún análisis adicional y sin tener en cuenta las necesidades y el perfil de riesgo propios.",
+        "Efecto halo. Es la predisposición a enjuiciar a una persona o institución sobre la base de una única cualidad positiva o negativa que hace sombra a todas las demás. Es un sesgo muy frecuente en el ámbito de la inversión, de manera que se tiende a calificar un producto financiero como bueno o malo tomando como referencia un único dato, por ejemplo, los resultados de la empresa o la popularidad del comercializador o gestor del producto financiero en cuestión, sin considerar que ese producto financiero puede no ser adecuado para el objetivo de inversión pretendido o para el perfil de riesgo propio.",
+        "Prueba social. Es la tendencia a imitar las acciones que realizan otras personas bajo la creencia de que se está adoptando el comportamiento correcto. Este sesgo se da en situaciones en las que el sujeto no tiene una idea definida de cómo comportarse y se deja guiar por las conductas de otros, asumiendo que tienen más conocimiento. En la toma de decisiones de inversión, el inversor podría verse arrastrado por las decisiones de otras personas y realizar inversiones que no le favorecen únicamente porque otros lo hacen.",
+        "Descuento hiperbólico. Es la propensión a elegir recompensas más pequeñas e inmediatas frente a recompensas mayores y alejadas en el tiempo. Se debe a que la inmediatez de las recompensas tiene un gran poder de atracción. El descuento hiperbólico puede llevar a que el inversor deshaga una inversión pensada a largo plazo y adecuada para su perfil debido a una evolución eventualmente atractiva de los mercados o la aparición de productos financieros más rentables, alterando así los objetivos iniciales y conllevando costes y riesgos asociados.",
+        "Aversión a las pérdidas. Este sesgo hace referencia a la tendencia a considerar que las pérdidas pesan más que las ganancias. Es decir, el miedo a perder algo supone un incentivo mayor que la posibilidad de ganar algo de valor semejante. A la hora de invertir, puede suceder que, con tal de no incurrir en pérdidas, se mantenga una inversión con mínimas perspectivas de recuperación y se acabe perdiendo todo lo invertido."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Asimismo, este sesgo puede derivar en el denominado efecto de miopía que es especialmente perjudicial para inversores a largo plazo y que hace que estos evalúen continuamente el valor de su cartera y sobrerreaccionen a noticias y eventos que se producen en el corto plazo. La miopía hace que el inversor pierda la perspectiva de su inversión y de los sucesos que la afectan.",
+      "links": []
+    },
+    {
+      "type": "ordered_list",
+      "items": [
+        "Statu quo. Este sesgo implica que se tome como punto de referencia la situación actual y cualquier cambio con respecto a ese punto se percibe como una pérdida.",
+        "Predisposición al optimismo. Se trata de la tendencia a sobreestimar la probabilidad de experimentar situaciones positivas y subestimar las posibilidades de experimentar situaciones negativas. En definitiva, pesa más el optimismo que el realismo.",
+        "Falacia del coste hundido. Es el sesgo que lleva a mantener una inversión que ha generado o está generando pérdidas ante el temor a perder lo que ya se ha invertido."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque los sesgos anteriormente enumerados pueden afectar a diversos ámbitos, cobran especial relevancia en el ámbito de los mercados financieros por las siguientes razones:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "La mayoría de los consumidores consideran que los productos financieros son complejos. La adopción de decisiones financieras puede ser difícil y consumir mucho tiempo. Por este motivo, los consumidores pueden adolecer de falta de motivación para dedicar tiempo y esfuerzo a tomar una decisión debidamente informada sobre sus productos financieros. Asimismo, debido a la complejidad inherente a dichos productos, al poco interés que despiertan en la mayoría de las personas y a las propias limitaciones cognitivas de estas, los conceptos y rasgos asociados a los productos financieros pueden resultar difíciles de entender.",
+        "La mayoría de las decisiones financieras requiere asumir un cierto grado de riesgo e incertidumbre.",
+        "Muchas decisiones financieras son emocionales. La adopción de decisiones financieras puede estar dominada en numerosas ocasiones por emociones tales como la ansiedad, el miedo a la pérdida, el exceso de optimismo o un estado de sobreexcitación."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "IV. Fases de la toma de decisiones de inversión"
+    },
+    {
+      "type": "paragraph",
+      "text": "La toma de decisiones de inversión es un proceso dinámico y complejo que puede estructurarse en tres fases o momentos, no necesariamente lineales, en los que el inversor entra en contacto con algún aspecto del producto de inversión o de la institución que lo comercializa, creándose una primera impresión sobre ambos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En esos tres momentos juegan un papel muy importante las emociones, el pensamiento y el lenguaje, que son los elementos clave para la adopción de decisiones de cualquier tipo. Asimismo, en cada una de las fases se dan determinados sesgos de comportamiento que es necesario que el inversor conozca para aminorar sus consecuencias. Los tres momentos son:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Búsqueda de información. El primer momento en que el inversor tiene contacto con un producto de inversión o la entidad que lo comercializa se produce cuando busca activamente información sobre los mismos. Este momento puede materializarse en una búsqueda por internet, la visita a la entidad, un anuncio publicitario o el consejo o la conversación con alguna persona y el inversor puede verse claramente influido por aspectos como los comentarios de foros, redes sociales, la atención al cliente o la publicidad entre otros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los sesgos más habituales en esta fase son el sesgo de confirmación, el de anclaje, el de autoridad, el de descuento hiperbólico, el exceso de confianza, el efecto halo y la prueba social. El principal riesgo derivado de ello es que el inversor procese la información recibida sobre el producto o la entidad de manera sesgada y esto determine su decisión sin haber tenido en cuenta otros datos que pudieran ser relevantes.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Selección y contratación del producto. En este momento, el inversor se enfrenta al producto o la entidad seleccionada. En esta fase, el inversor sigue condicionado por los sesgos mencionados en la etapa anterior y a ellos se une el sesgo de aversión a las pérdidas y de ilusión de control.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Asimismo, debido a que el comportamiento del ser humano está condicionado por el sesgo de aversión a las pérdidas y el de descuento hiperbólico, en esta etapa tiene mucha importancia la manera en que se presenta la información. El inversor tomará una decisión en función de cómo se le presenten las opciones. No responderá igual ante la probabilidad de ganar dinero que ante la de perderlo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Numerosos estudios demuestran que ante la opción de ganar 500 euros con seguridad o la opción de ganar 1000 con un 50% de probabilidad, la mayoría de los sujetos de los estudios eligen la opción de los 500 euros. Sin embargo si las opciones son perder 500 euros con seguridad o perder 1000 con un 50% de probabilidad, los sujetos prefieren correr el riesgo de perder 500 euros adicionales. El valor esperado en ambas opciones es el mismo, pero la disposición es diferente en función de si lo que está en juego son ganancias o pérdidas.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Seguimiento del producto. Tras la contratación del producto, el siguiente momento importante para el inversor es vigilar su evolución. En esta fase, los principales sesgos que condicionan al inversor son el sesgo del descuento hiperbólico, el de statu quo y el de la falacia del coste hundido.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A modo de ejemplo, el descuento hiperbólico puede llevar a que el inversor deshaga una inversión pensada a largo plazo y adecuada para su perfil debido a una evolución eventualmente atractiva de los mercados o la aparición de productos financieros más rentables, alterando así los objetivos iniciales y conllevando costes y riesgos asociados. Asimismo, el inversor puede incurrir en la falacia del coste hundido, es decir, mantener una inversión con pérdidas continuas y sin posibilidad de recuperación y aun así conservar dicha inversión por no tener la sensación de haber perdido el dinero, en vez de deshacer la inversión para no seguir perdiendo más dinero en un futuro.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A continuación, se recoge a modo de resumen una tabla con los sesgos más habituales en cada una de estas etapas.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Búsqueda de información: Sesgo de confirmación, Sesgo de anclaje, Sesgo de autoridad, Sesgo de descuento hiperbólico, Sesgo de exceso de confianza, Efecto halo, Prueba social.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Selección y contratación del producto: Sesgo de confirmación, Sesgo de autoridad, Sesgo de descuento hiperbólico, Sesgo de exceso de confianza, Efecto halo, Prueba social, Sesgo de aversión a las pérdidas, Ilusión de control.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Seguimiento del producto: Sesgo del descuento hiperbólico, Statu quo, Falacia del coste hundido.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "V. Mitigación de los sesgos cognitivos que afectan al proceso de toma de decisiones de inversión"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los sesgos a los que se ve sometido el inversor a la hora de tomar decisiones de inversión y los consiguientes riesgos asociados a ellos no pueden hacerse desaparecer, pero sí pueden mitigarse en gran medida (debiasing).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La mitigación de los sesgos abarca una amplia variedad de técnicas, procedimientos e intervenciones, que pueden implementarse a nivel personal e institucional, y que están diseñados para eliminar o reducir los errores, distorsiones u otras percepciones erróneas que se generan en el proceso de pensamiento y en la adopción de decisiones.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En este sentido, la propia configuración del cerebro hace que se produzcan errores de pensamiento sistemáticos. Las principales causas de estos errores se hallan en la interacción de los dos sistemas de pensamiento antes mencionados que generan un pensamiento estrecho y enmarcado en un determinado contexto y que da lugar a una toma de decisiones sobre la base de informaciones parciales y sesgadas.",
+      "links": []
+    },
+    {
+      "type": "highlight",
+      "text": "Estos errores generan una brecha entre la manera en que se forja el pensamiento y la forma en que sería deseable que se forjara. La mitigación de los sesgos puede contribuir en gran medida a reducir esa brecha."
+    },
+    {
+      "type": "paragraph",
+      "text": "El proceso de mitigación de sesgos se desarrolla de la siguiente manera:",
+      "links": []
+    },
+    {
+      "type": "ordered_list",
+      "items": [
+        "Se desencadena el sesgo",
+        "Se toma conciencia del sesgo desencadenado",
+        "Se decide corregir el sesgo",
+        "Se toma conciencia de la magnitud del sesgo y se adopta la técnica de mitigación adecuada",
+        "Se mitiga el sesgo de manera exitosa",
+        "Se toma la decisión óptima"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En el siguiente apartado se recogen las estrategias de mitigación que pueden adoptarse para aminorar los efectos de los sesgos cognitivos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Véase Mental contamination and mental correction: unwanted influences on judgments and evaluations. Wilson TD, Brekke N. Psychol Bull. 1994;116:117–42",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VI. Estrategias de mitigación de los sesgos cognitivos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las técnicas de mitigación son variadas y, según el objetivo pretendido, pueden clasificarse de la siguiente manera:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Técnicas centradas en la provisión de formación para adoptar una decisión.",
+        "Técnicas cognitivas destinadas a interpretar de manera distinta los elementos que intervienen en la toma de una decisión."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. Técnicas centradas en la adquisición de formación para tomar una decisión"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una manera de evitar los sesgos en la adopción de decisiones es facilitar a la persona implicada las reglas y principios adecuados para adoptarla. En este sentido, la formación marca una diferencia a la hora de tomar una decisión. En el ámbito financiero, es probable que las personas con extensos conocimientos en economía los apliquen a la hora de tomar una decisión financiera y mitiguen estos sesgos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sin embargo, además de tener estos conocimientos es necesario saber identificar las situaciones en que deben ser aplicados y tener la suficiente motivación para hacerlo. Por ejemplo, una formación adecuada para tomar una decisión determinada puede no ser suficiente ante una intuición muy intensa que cohíba una reflexión más profunda.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El tipo más efectivo de formación es la capacitación específica en la toma de decisiones que se realicen de inmediato y de forma reiterada. Ambos elementos conllevan la adquisición de experiencia y dominio en la adopción de decisiones concretas. El principal reto que se plantea en este ámbito es que las personas puedan retener las habilidades aprendidas y aplicarlas de manera adecuada cuando la situación lo requiera, algo que precisa mucho entrenamiento.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A este respecto, tal y como define la OCDE, la educación financiera debe entenderse como el proceso por el cual los consumidores/inversores financieros mejoran su comprensión de los productos financieros, los conceptos y los riesgos, y a través de información, instrucción y/o el asesoramiento objetivo, desarrollan las habilidades y confianza para ser más conscientes de los riesgos y oportunidades financieras, tomar decisiones informadas, saber dónde acudir para obtener ayuda y ejercer cualquier acción eficaz para mejorar su bienestar económico.",
+      "links": []
+    },
+    {
+      "type": "highlight",
+      "text": "En el ámbito de la toma de decisiones financieras, resulta particularmente importante la adquisición de una adecuada educación financiera desde edades muy tempranas y a lo largo de toda la vida."
+    },
+    {
+      "type": "paragraph",
+      "text": "En este ámbito de la educación financiera es especialmente ventajosa la adquisición de conocimientos sobre la existencia de los sesgos cognitivos, el momento en el que se dan, los sesgos a los que se tiene mayor propensión y la manera en que pueden ser mitigados. En ocasiones, el mero conocimiento de que existen estos sesgos puede llevar a mitigarlos. En otros casos, la mitigación implica necesariamente un conocimiento profundo de uno mismo que debe combinarse con la observación y el entrenamiento constantes para atemperar los sesgos. Más adelante, se describen algunas técnicas cognitivas para realizar este entrenamiento.",
+      "links": []
+    },
+    {
+      "type": "highlight",
+      "text": "La adquisición de una adecuada formación constituye una técnica básica de mitigación de los sesgos a la que ha de unirse la práctica recurrente, la identificación de las situaciones en las que dicha formación debe ser aplicada y la motivación para ello. En el ámbito financiero dicha formación abarca no solo la adquisición de conocimientos relacionados con este entorno y el entrenamiento en las habilidades necesarias para adoptar decisiones financieras correctas, sino también la toma de conciencia de la existencia de los sesgos cognitivos, los momentos en que tienen mayor incidencia y la manera de obviarlos."
+    },
+    {
+      "type": "paragraph",
+      "text": "Es el caso del llamado sesgo de ilusión de transparencia según el cual las personas a menudo creen que sus estados internos son más evidentes para los demás de lo que realmente son. En el ámbito de hablar en público, por ejemplo, las personas que se ponen nerviosas al dar un discurso creen que su nerviosismo es más evidente para su audiencia de lo que realmente es. Sin embargo, se ha demostrado que tener conciencia de este sesgo puede mejorar la calidad del desempeño de",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:24:57.512113+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 45627,
+    "input_tokens": 9511,
+    "output_tokens": 15594
+  }
+}

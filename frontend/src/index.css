@@ -1,0 +1,185 @@
+@import "tailwindcss";
+
+/* ============================================================
+   Sistema de diseño — Plataforma de educación financiera
+   Paleta: azul petróleo, azul, turquesa. Estética EdTech/FinTech.
+   ============================================================ */
+
+@theme {
+  /* Colores de marca */
+  --color-primary: #173f5f;
+  --color-primary-dark: #0f2e47;
+  --color-primary-light: #e8f0f6;
+  --color-secondary: #20639b;
+  --color-secondary-light: #eaf2f9;
+  --color-accent: #3caea3;
+  --color-accent-light: #e6f5f3;
+
+  /* Neutros */
+  --color-background: #f7f9fc;
+  --color-surface: #ffffff;
+  --color-text: #17202a;
+  --color-muted: #667085;
+  --color-border: #e4e9f0;
+
+  /* Estados */
+  --color-success: #2e7d5b;
+  --color-success-light: #e7f3ee;
+  --color-error: #d64545;
+  --color-error-light: #fbecec;
+
+  /* Tipografía */
+  --font-sans: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+
+  /* Sombras sutiles */
+  --shadow-card: 0 1px 2px rgba(23, 32, 42, 0.04), 0 4px 12px rgba(23, 32, 42, 0.06);
+  --shadow-card-hover: 0 2px 4px rgba(23, 32, 42, 0.05), 0 8px 20px rgba(23, 32, 42, 0.08);
+}
+
+/* Base */
+html {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background-color: var(--color-background);
+  color: var(--color-text);
+  line-height: 1.6;
+}
+
+#root {
+  min-height: 100svh;
+}
+
+/* Utilidades de diseño reutilizables */
+@layer components {
+  .card {
+    background-color: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 16px;
+    box-shadow: var(--shadow-card);
+  }
+
+  .card-hover {
+    transition: box-shadow 0.2s ease, transform 0.2s ease;
+  }
+  .card-hover:hover {
+    box-shadow: var(--shadow-card-hover);
+    transform: translateY(-2px);
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    border-radius: 10px;
+    font-weight: 600;
+    font-size: 0.875rem;
+    padding: 0.625rem 1.25rem;
+    transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+    cursor: pointer;
+    border: 1px solid transparent;
+  }
+  .btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+
+  .btn-primary {
+    background-color: var(--color-primary);
+    color: #fff;
+  }
+  .btn-primary:hover:not(:disabled) {
+    background-color: var(--color-primary-dark);
+  }
+
+  .btn-secondary {
+    background-color: var(--color-secondary);
+    color: #fff;
+  }
+  .btn-secondary:hover:not(:disabled) {
+    background-color: var(--color-primary);
+  }
+
+  .btn-outline {
+    background-color: var(--color-surface);
+    color: var(--color-text);
+    border-color: var(--color-border);
+  }
+  .btn-outline:hover:not(:disabled) {
+    background-color: var(--color-background);
+  }
+
+  .btn-ghost {
+    background-color: transparent;
+    color: var(--color-secondary);
+  }
+  .btn-ghost:hover:not(:disabled) {
+    background-color: var(--color-secondary-light);
+  }
+
+  .btn-success {
+    background-color: var(--color-success);
+    color: #fff;
+  }
+  .btn-success:hover:not(:disabled) {
+    background-color: #256a4e;
+  }
+
+  .input {
+    width: 100%;
+    border-radius: 10px;
+    border: 1px solid var(--color-border);
+    background-color: var(--color-surface);
+    padding: 0.625rem 0.875rem;
+    font-size: 0.875rem;
+    color: var(--color-text);
+    transition: border-color 0.15s ease, box-shadow 0.15s ease;
+  }
+  .input:focus {
+    outline: none;
+    border-color: var(--color-secondary);
+    box-shadow: 0 0 0 3px rgba(32, 99, 155, 0.12);
+  }
+  .input::placeholder {
+    color: #98a2b3;
+  }
+
+  .label {
+    display: block;
+    margin-bottom: 0.375rem;
+    font-size: 0.8125rem;
+    font-weight: 500;
+    color: var(--color-text);
+  }
+
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    border-radius: 9999px;
+    padding: 0.25rem 0.75rem;
+    font-size: 0.75rem;
+    font-weight: 500;
+  }
+
+  .badge-topic {
+    background-color: var(--color-secondary-light);
+    color: var(--color-secondary);
+  }
+  .badge-difficulty {
+    background-color: var(--color-background);
+    color: var(--color-muted);
+  }
+  .badge-success {
+    background-color: var(--color-success-light);
+    color: var(--color-success);
+  }
+  .badge-warning {
+    background-color: #fdf3e7;
+    color: #b45309;
+  }
+}

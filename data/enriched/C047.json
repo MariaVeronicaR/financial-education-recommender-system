@@ -1,0 +1,57 @@
+{
+  "content_id": "C047",
+  "tldr": "La regla 50/30/20 es un método simple para crear un presupuesto dividiendo los ingresos en tres categorías: 50% para necesidades, 30% para deseos y 20% para ahorro e inversión. Para aplicarla, primero hay que conocer los ingresos y registrar los gastos durante unos meses, y luego adaptarla a la realidad de cada persona, revisándola periódicamente con flexibilidad.",
+  "key_points": [
+    "La regla 50/30/20 divide los ingresos en 50% necesidades, 30% deseos y 20% ahorro e inversión.",
+    "Las necesidades incluyen vivienda, alimentación, transporte, servicios básicos, deudas y seguros.",
+    "Los deseos son gastos opcionales como ocio, viajes, entretenimiento y hobbies.",
+    "El 20% de ahorro puede destinarse a objetivos concretos, fondo de emergencia o inversión.",
+    "Es una guía flexible: conviene registrar gastos unos meses y ajustar la distribución según la realidad de cada uno."
+  ],
+  "quiz": [
+    {
+      "question": "Según la regla 50/30/20, ¿qué porcentaje de tus ingresos debería destinarse a cubrir gastos esenciales como vivienda, alimentación y transporte?",
+      "options": [
+        "20%",
+        "30%",
+        "50%",
+        "70%"
+      ],
+      "correct_index": 2,
+      "explanation": "La regla asigna el 50% de los ingresos a necesidades, es decir, los gastos esenciales como vivienda, alimentación y transporte.",
+      "concept_id": "C01"
+    },
+    {
+      "question": "¿Cuál de los siguientes gastos pertenecería a la categoría de 'deseos' (30%) dentro de la regla 50/30/20?",
+      "options": [
+        "El recibo de la luz",
+        "Un viaje de ocio",
+        "La hipoteca",
+        "El seguro de salud"
+      ],
+      "correct_index": 1,
+      "explanation": "Los deseos son gastos opcionales que mejoran la calidad de vida, como ocio, salidas, viajes y entretenimiento.",
+      "concept_id": "C01"
+    },
+    {
+      "question": "Según el contenido, ¿cuál es la recomendación si tu ahorro actual está por debajo del 20% de tus ingresos?",
+      "options": [
+        "Dejar de ahorrar hasta tener más ingresos",
+        "Empezar con un porcentaje menor e ir aumentándolo poco a poco",
+        "Destinar todo el ahorro a inversiones de alto riesgo",
+        "Reducir tus necesidades para forzar el 20% de golpe"
+      ],
+      "correct_index": 1,
+      "explanation": "El artículo indica que si el ahorro está por debajo del 20%, se debe empezar por menos y marcarse el objetivo de ir aumentando poco a poco.",
+      "concept_id": "C02"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 4070,
+    "input_tokens": 1767,
+    "output_tokens": 735
+  }
+}

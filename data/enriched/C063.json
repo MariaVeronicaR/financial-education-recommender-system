@@ -1,0 +1,57 @@
+{
+  "content_id": "C063",
+  "tldr": "La inversión en productos financieros es una decisión compleja que debe tomarse de forma responsable y con conocimientos básicos. La guía explica cómo funciona el sistema financiero y los mercados de valores, el concepto de riesgo y rentabilidad, los principales productos (renta fija, renta variable, fondos de inversión, derivados, etc.), el proceso de contratación y la protección del inversor, así como los fraudes tipo chiringuito financiero.",
+  "key_points": [
+    "El mercado de valores canaliza capital a medio y largo plazo desde los inversores hacia empresas y administraciones públicas, contribuyendo al desarrollo económico.",
+    "Toda inversión conlleva riesgo: la rentabilidad real puede diferir de la esperada, tanto por encima como por debajo.",
+    "Los principales productos de inversión se dividen en renta fija, renta variable, fondos de inversión, productos híbridos, derivados y estructurados.",
+    "Antes de contratar, la entidad clasifica al cliente como minorista o profesional y le realiza tests de conveniencia e idoneidad para protegerlo.",
+    "Los chiringuitos financieros prestan servicios sin estar autorizados; hay que verificar el registro de la CNMV para protegerse del fraude."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué es el mercado secundario de valores?",
+      "options": [
+        "El mercado donde se emiten por primera vez los nuevos valores",
+        "El mercado donde los inversores compran y venden entre sí valores que ya existen",
+        "El mercado de divisas y productos básicos como el petróleo",
+        "El mercado donde las empresas reciben fondos de sus accionistas"
+      ],
+      "correct_index": 1,
+      "explanation": "En el mercado secundario se negocian títulos ya emitidos entre inversores, lo que da liquidez, y las empresas emisoras no reciben fondos de estas operaciones.",
+      "concept_id": "C12"
+    },
+    {
+      "question": "¿Cuál es la principal característica de la renta variable?",
+      "options": [
+        "Que su rentabilidad se conoce de antemano en el momento de la adquisición",
+        "Que no se conoce su posible rendimiento futuro al comprarla",
+        "Que solo otorga derechos económicos y no políticos",
+        "Que tiene una fecha de vencimiento determinada"
+      ],
+      "correct_index": 1,
+      "explanation": "La renta variable, como las acciones, no garantiza un rendimiento conocido de antemano, a diferencia de la renta fija.",
+      "concept_id": "C24"
+    },
+    {
+      "question": "¿Qué es un 'chiringuito financiero'?",
+      "options": [
+        "Una entidad autorizada e inscrita en el registro de la CNMV",
+        "Una entidad que ofrece y presta servicios de inversión sin estar autorizada para ello",
+        "Un fondo de garantía que protege a los inversores",
+        "Un intermediario financiero regulado por el Banco de España"
+      ],
+      "correct_index": 1,
+      "explanation": "El chiringuito financiero usa la aparente prestación de servicios como tapadera para apropiarse del capital, y al no estar autorizado no hay mecanismos de protección del inversor.",
+      "concept_id": "C15"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 8705,
+    "input_tokens": 9268,
+    "output_tokens": 1418
+  }
+}

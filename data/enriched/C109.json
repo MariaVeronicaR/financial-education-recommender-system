@@ -1,0 +1,57 @@
+{
+  "content_id": "C109",
+  "tldr": "Los criptoactivos son activos financieros basados en la tecnología blockchain que se han popularizado como inversión de alto riesgo. Invertir en ellos sin conocimientos adecuados puede llevar a decisiones inadecuadas y a perder la totalidad o gran parte del capital. El Plan de Educación Financiera ofrece un curso de 6 bloques para conocer sus beneficios y riesgos, incluyendo los tipos de criptoactivos y su regulación en España y la UE.",
+  "key_points": [
+    "Los criptoactivos son activos financieros que se basan en la tecnología de cadena de bloques (blockchain).",
+    "Se consideran inversiones de alto riesgo: se puede perder la totalidad o gran parte de la inversión.",
+    "Invertir sin conocimientos adecuados puede llevar a decisiones de inversión inapropiadas.",
+    "El curso del Plan de Educación Financiera consta de 6 bloques y está pensado para cualquier persona, sin importar su nivel previo.",
+    "Uno de los bloques aborda los principales tipos de criptoactivos y la regulación vigente en España y la Unión Europea."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué son los criptoactivos según el contenido?",
+      "options": [
+        "Activos financieros basados en la tecnología blockchain",
+        "Monedas físicas emitidas por los bancos centrales",
+        "Acciones de empresas tecnológicas",
+        "Bonos del Estado de bajo riesgo"
+      ],
+      "correct_index": 0,
+      "explanation": "El contenido define los criptoactivos como activos financieros basados en la tecnología de cadena de bloques (blockchain).",
+      "concept_id": "C27"
+    },
+    {
+      "question": "¿Por qué se considera que invertir en criptoactivos entraña un riesgo elevado?",
+      "options": [
+        "Porque siempre ofrecen una rentabilidad garantizada",
+        "Porque es posible perder la totalidad o gran parte de la inversión",
+        "Porque solo pueden comprarse con efectivo físico",
+        "Porque están exentos de cualquier tipo de regulación"
+      ],
+      "correct_index": 1,
+      "explanation": "El contenido advierte que la inversión en criptoactivos puede conllevar la pérdida de la totalidad o gran parte de la inversión, lo que los hace de alto riesgo.",
+      "concept_id": "C13"
+    },
+    {
+      "question": "Según el contenido, ¿qué aborda el segundo bloque del curso sobre criptoactivos?",
+      "options": [
+        "Únicamente cómo minar criptomonedas desde casa",
+        "Los principales tipos de criptoactivos y la regulación vigente en España y la UE",
+        "La historia completa del dinero desde sus orígenes",
+        "Cómo evadir impuestos con criptoactivos"
+      ],
+      "correct_index": 1,
+      "explanation": "El contenido indica que el segundo bloque se centra en los principales tipos de criptoactivos, sus características y la regulación vigente en España y la Unión Europea.",
+      "concept_id": "C12"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 6000,
+    "input_tokens": 1491,
+    "output_tokens": 937
+  }
+}

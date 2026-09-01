@@ -1,0 +1,57 @@
+{
+  "content_id": "C005",
+  "tldr": "La jubilación es otra etapa de la vida, no el final, pero exige planificar porque la pensión pública suele ser inferior al salario en activo. Con carácter general necesitarás entre el 70% y 90% de tus ingresos previos para mantener tu estilo de vida, por lo que conviene complementar la pensión con ahorro e inversión a largo plazo. Existen productos específicos como el plan de pensiones, el PPA, el PIAS o el seguro de jubilación, cada uno con distinto tratamiento fiscal. Además, la planificación debe adaptarse a situaciones particulares: empezar a cotizar tarde, la salud, estar ya jubilado o ser mujer trabajadora.",
+  "key_points": [
+    "La pensión pública suele ser inferior a los ingresos en activo, por lo que hay que complementarla con ahorro e inversión personal.",
+    "Durante el retiro se necesitan, por lo general, entre el 70% y el 90% de los ingresos previos a la jubilación para mantener el estilo de vida.",
+    "Nunca es demasiado pronto para empezar a planificar la jubilación, y la planificación financiera continúa incluso después de los 65 años.",
+    "Existen productos específicos (plan de pensiones, PPA, PIAS, seguro de jubilación) con distintas ventajas fiscales y de liquidez.",
+    "Situaciones como cotizar tarde, problemas de salud o ser mujer trabajadora requieren una planificación y un ahorro adicionales."
+  ],
+  "quiz": [
+    {
+      "question": "Con un sueldo neto de 2.000 € al mes antes de jubilarte, ¿cuánto necesitarías aproximadamente para mantener tu mismo estilo de vida durante el retiro?",
+      "options": [
+        "Entre 1.400 € y 1.800 € mensuales",
+        "Exactamente 2.000 € mensuales",
+        "Entre 800 € y 1.000 € mensuales",
+        "Menos de 700 € mensuales"
+      ],
+      "correct_index": 0,
+      "explanation": "Durante el retiro se necesitan entre el 70% y el 90% de los ingresos previos, es decir, entre 1.400 € y 1.800 € sobre una base de 2.000 €, porque algunos gastos (vivienda, hijos, trabajo) se reducen.",
+      "concept_id": "C16"
+    },
+    {
+      "question": "¿Por qué, en general, no es suficiente depender solo de la pensión pública para una jubilación cómoda?",
+      "options": [
+        "Porque la pensión pública suele ser inferior a los ingresos que se perciben en activo",
+        "Porque la pensión pública siempre cubre el 100% del último salario",
+        "Porque la pensión pública solo se cobra durante 5 años",
+        "Porque la pensión pública no está garantizada por el Estado"
+      ],
+      "correct_index": 0,
+      "explanation": "La pensión pública suele ser inferior a los ingresos en activo, por lo que para mantener la calidad de vida hay que complementarla con ahorro e inversión personal.",
+      "concept_id": "C02"
+    },
+    {
+      "question": "¿Qué diferencia fiscal clave existe entre un Plan Individual de Ahorro Sistemático (PIAS) y un plan de pensiones individual?",
+      "options": [
+        "En el PIAS las primas no reducen la base imponible del IRPF durante la etapa de ahorro, pero sí hay beneficios fiscales al cobrarlo como renta vitalicia",
+        "El PIAS permite deducir las aportaciones del IRPF igual que un plan de pensiones",
+        "El plan de pensiones no tiene ningún beneficio fiscal en ningún momento",
+        "El PIAS no permite cobrar la prestación en forma de renta vitalicia"
+      ],
+      "correct_index": 0,
+      "explanation": "A diferencia de los planes de pensiones y los PPA, en el PIAS las primas pagadas no reducen la base imponible del IRPF durante el ahorro, aunque sí existen beneficios fiscales al cobrar la prestación como renta vitalicia.",
+      "concept_id": "C23"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 8089,
+    "input_tokens": 3304,
+    "output_tokens": 1167
+  }
+}

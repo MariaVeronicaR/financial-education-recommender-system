@@ -1,0 +1,85 @@
+{
+  "content_id": "C059",
+  "url": "https://clientebancario.bde.es/pcb/es/blog/eliban-te-aclara-algunas-de-tus-dudas-con-la-hipoteca.html",
+  "source": "Portal Cliente Bancario BdE",
+  "host": "clientebancario.bde.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 35784
+  },
+  "title": "EliBÁN aclara algunas de tus dudas con la hipoteca",
+  "headings": [
+    {
+      "level": 1,
+      "text": "EliBÁN aclara algunas de tus dudas con la hipoteca"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "EliBÁN aclara algunas de tus dudas con la hipoteca",
+      "start": 0,
+      "end": 562,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "EliBÁN aclara algunas de tus dudas con la hipoteca"
+    },
+    {
+      "type": "paragraph",
+      "text": "02/07/2026\nEn este nuevo capítulo, eliBÁN se despide, no sin antes despejar algunas de las dudas más habituales al contratar una hipoteca. En el vídeo te cuenta desde como pagar la vivienda hasta qué hacer si tuvieras problemas para abonar la cuota de tu hipoteca.\nEn definitiva, terminamos esta serie convertida en una guía práctica para elegir con criterio tu hipoteca antes de firmar.\nY recuerda que puedes profundizar más a través de nuestros contenidos del Portal del Cliente BancarioAbre en ventana nueva.",
+      "links": [
+        {
+          "text": "Portal del Cliente BancarioAbre en ventana nueva",
+          "href": "https://clientebancario.bde.es/pcb/es/",
+          "start": 462,
+          "end": 510
+        }
+      ]
+    }
+  ],
+  "text": "EliBÁN aclara algunas de tus dudas con la hipoteca\n02/07/2026\nEn este nuevo capítulo, eliBÁN se despide, no sin antes despejar algunas de las dudas más habituales al contratar una hipoteca. En el vídeo te cuenta desde como pagar la vivienda hasta qué hacer si tuvieras problemas para abonar la cuota de tu hipoteca.\nEn definitiva, terminamos esta serie convertida en una guía práctica para elegir con criterio tu hipoteca antes de firmar.\nY recuerda que puedes profundizar más a través de nuestros contenidos del Portal del Cliente BancarioAbre en ventana nueva.",
+  "text_len": 562,
+  "num_headings": 1,
+  "metadata": {
+    "title": "EliBÁN aclara algunas de tus dudas con la hipoteca",
+    "url": "https://clientebancario.bde.es/pcb/es/blog/eliban-te-aclara-algunas-de-tus-dudas-con-la-hipoteca.html",
+    "hostname": "clientebancario.bde.es",
+    "description": "EliBÁN aclara algunas de tus dudas con la hipoteca",
+    "sitename": "clientebancario.bde.es",
+    "date": "2026-07-02",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": true,
+    "video_urls": [
+      "https://www.youtube.com/embed/EClq7RUOpEo?si=I_L73M9gVZmntLGm"
+    ],
+    "platforms": [
+      "youtube"
+    ],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Errores comunes al solicitar una hipoteca",
+    "topic": "hipotecas",
+    "subtopic": "errores comunes",
+    "difficulty": "avanzado",
+    "format": "artículo blog",
+    "summary": "Errores frecuentes al firmar una hipoteca y cómo evitarlos",
+    "learning_objective": "Evitar errores al contratar una hipoteca"
+  },
+  "deduped_from": "C024"
+}

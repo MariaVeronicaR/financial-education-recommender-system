@@ -1,0 +1,57 @@
+{
+  "content_id": "C016",
+  "tldr": "El contenido presenta un catálogo de calculadoras y herramientas financieras interactivas que ayudan a planificar distintos aspectos de la vida económica. Cada herramienta tiene un propósito concreto: controlar gastos, ahorrar para objetivos, planificar la jubilación, gestionar deudas, valorar el patrimonio neto o decidir entre alquilar y comprar una vivienda. En conjunto, sirven para tomar decisiones financieras más informadas y medir la salud financiera personal.",
+  "key_points": [
+    "Existen herramientas específicas para crear presupuestos y controlar el dinero (Mi presupuesto).",
+    "Calculadoras como Mis objetivos o Mis ahorros permiten saber cuánto ahorrar al mes para alcanzar una meta en un plazo determinado.",
+    "Herramientas como Mis deudas o Mi valor neto ayudan a medir el endeudamiento y el patrimonio personal.",
+    "Para la vivienda hay calculadoras que comparan alquilar frente a comprar y que estiman el precio de la casa que puedes permitirte.",
+    "También hay herramientas de autoevaluación como Mi salud financiera o Mis finanzas en pareja para conocer tu situación global."
+  ],
+  "quiz": [
+    {
+      "question": "Quieres saber cuánto dinero podrías ahorrar en un tiempo concreto si reduces o eliminas ciertos gastos. ¿Qué herramienta del catálogo te sirve para esto?",
+      "options": [
+        "Mis caprichos",
+        "Mi presupuesto",
+        "Mis deudas",
+        "Mi valor neto"
+      ],
+      "correct_index": 0,
+      "explanation": "La herramienta 'Mis caprichos' calcula cuánto se puede ahorrar en un periodo si eliminas o reduces gastos, aunque sean pequeños recortes.",
+      "concept_id": "C02"
+    },
+    {
+      "question": "Quieres comprar una vivienda y necesitas saber qué precio de casa puedes permitirte según la cuota mensual que estás dispuesto a pagar. ¿Qué herramienta usarías?",
+      "options": [
+        "Alquilar o comprar",
+        "Mi vivienda: ¿Cuál te puedes permitir?",
+        "Mis objetivos",
+        "Mi salud financiera"
+      ],
+      "correct_index": 1,
+      "explanation": "La calculadora 'Mi vivienda: ¿Cuál te puedes permitir?' calcula el precio de la casa que puedes comprar en función de la cuota mensual que puedes o quieres pagar.",
+      "concept_id": "C11"
+    },
+    {
+      "question": "Quieres conocer el valor total de tus bienes y derechos una vez descontadas tus deudas, es decir, tu patrimonio neto personal. ¿Qué herramienta te lo permite?",
+      "options": [
+        "Mis finanzas en pareja",
+        "Mi estado ahorro-inversión",
+        "Mis deudas",
+        "Mi valor neto"
+      ],
+      "correct_index": 3,
+      "explanation": "La herramienta 'Mi valor neto' calcula el patrimonio neto personal (bienes y derechos menos deudas) para hacer seguimiento de la evolución de tus finanzas.",
+      "concept_id": "C16"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5628,
+    "input_tokens": 2022,
+    "output_tokens": 1100
+  }
+}

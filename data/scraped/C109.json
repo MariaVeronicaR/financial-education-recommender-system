@@ -1,0 +1,72 @@
+{
+  "content_id": "C109",
+  "url": "https://www.finanzasparatodos.es/cursos-y-webinars/criptoactivos-blockchain/criptoactivos",
+  "source": "Finanzas para Todos",
+  "host": "www.finanzasparatodos.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 48632
+  },
+  "title": "Criptoactivos - Curso Criptoactivos y Blockchain",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Criptoactivos"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Criptoactivos",
+      "start": 0,
+      "end": 1165,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Criptoactivos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Criptoactivos\nLos criptoactivos son activos financieros basados en una tecnología novedosa (la cadena de bloques o blockchain) que han ganado importancia últimamente como activos de inversión de alto riesgo. El acceso a este tipo de instrumentos por parte de personas sin los conocimientos adecuados puede traer consigo decisiones de inversión inadecuadas, así como la pérdida de la totalidad o gran parte de la inversión.\nEl Plan de Educación Financiera ha elaborado este curso que constará de 6 bloques de estudio y que contiene las nociones básicas del mundo de los criptoactivos, destinado a cualquier persona, con independencia del nivel de conocimientos previos.\nEl objetivo de este curso es dar a conocer, de la manera más clara y sencilla posible, los beneficios y también los riesgos a los que nos enfrentamos cuando utilizamos o invertimos en criptoactivos.\nEl segundo bloque de este curso se centra en los principales tipos de criptoactivos que existen actualmente, sus características y usos principales, así como en los aspectos más relevantes de la regulación vigente en materia de criptoactivos tanto en España como en la Unión Europea."
+    }
+  ],
+  "text": "Criptoactivos\nCriptoactivos\nLos criptoactivos son activos financieros basados en una tecnología novedosa (la cadena de bloques o blockchain) que han ganado importancia últimamente como activos de inversión de alto riesgo. El acceso a este tipo de instrumentos por parte de personas sin los conocimientos adecuados puede traer consigo decisiones de inversión inadecuadas, así como la pérdida de la totalidad o gran parte de la inversión.\nEl Plan de Educación Financiera ha elaborado este curso que constará de 6 bloques de estudio y que contiene las nociones básicas del mundo de los criptoactivos, destinado a cualquier persona, con independencia del nivel de conocimientos previos.\nEl objetivo de este curso es dar a conocer, de la manera más clara y sencilla posible, los beneficios y también los riesgos a los que nos enfrentamos cuando utilizamos o invertimos en criptoactivos.\nEl segundo bloque de este curso se centra en los principales tipos de criptoactivos que existen actualmente, sus características y usos principales, así como en los aspectos más relevantes de la regulación vigente en materia de criptoactivos tanto en España como en la Unión Europea.",
+  "text_len": 1165,
+  "num_headings": 1,
+  "metadata": {
+    "title": "Criptoactivos - Curso Criptoactivos y Blockchain",
+    "url": "https://www.finanzasparatodos.es/cursos-y-webinars/criptoactivos-blockchain/criptoactivos?utm_source=chatgpt.com",
+    "hostname": "finanzasparatodos.es",
+    "sitename": "finanzasparatodos.es",
+    "date": "2024-01-01",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Criptoactivos: qué son y cómo funcionan",
+    "topic": "inversión",
+    "subtopic": "criptoactivos",
+    "difficulty": "intermedio",
+    "format": "curso web",
+    "summary": "Leccion del curso de Finanzas para Todos sobre qué son los criptoactivos y sus riesgos",
+    "learning_objective": "Entender qué son los criptoactivos antes de operar"
+  },
+  "deduped_from": null
+}

@@ -1,0 +1,57 @@
+{
+  "content_id": "C055",
+  "tldr": "Las finanzas sostenibles integran en la toma de decisiones de inversión factores ambientales, sociales y de buen gobierno (criterios ASG), además de los financieros clásicos de rentabilidad, riesgo y liquidez. Existen productos específicos como fondos con criterios ASG, fondos solidarios y bonos verdes y sociales, que se adquieren a través de un intermediario. Las grandes empresas divulgan su desempeño en sostenibilidad mediante el estado de información no financiera (EINF).",
+  "key_points": [
+    "Las finanzas sostenibles incorporan criterios ASG (ambientales, sociales y de gobernanza) a las decisiones de inversión, junto a los criterios financieros de rentabilidad, riesgo y liquidez.",
+    "Los criterios ambientales (A) incluyen lucha contra el cambio climático, reducción de emisiones, eficiencia energética y energías renovables.",
+    "Los criterios sociales (S) abarcan derechos humanos, condiciones laborales y reducción de la desigualdad mediante la inclusión de colectivos desfavorecidos.",
+    "Los criterios de buen gobierno (G) se refieren a la calidad de gestión, rendición de cuentas, independencia de los órganos de gobierno y reducción de la brecha salarial.",
+    "Los productos sostenibles incluyen fondos de inversión con criterios ASG, fondos solidarios y bonos verdes y sociales, y se adquieren a través de un intermediario."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué añade la inversión sostenible a los criterios estrictamente financieros de rentabilidad, riesgo y liquidez?",
+      "options": [
+        "Criterios ASG: ambientales, sociales y de gobernanza",
+        "Criterios exclusivamente fiscales y de tributación",
+        "Criterios de liquidez inmediata y corto plazo",
+        "Criterios de tipo de cambio y de inflación"
+      ],
+      "correct_index": 0,
+      "explanation": "La inversión sostenible complementa los criterios financieros clásicos con los criterios ASG (ambientales, sociales y de buen gobierno).",
+      "concept_id": "C30"
+    },
+    {
+      "question": "¿Cuál de las siguientes opciones corresponde a un criterio social (S) en la inversión sostenible?",
+      "options": [
+        "La reducción de emisiones de gases de efecto invernadero",
+        "La inclusión de colectivos desfavorecidos y el respeto a los derechos de los trabajadores",
+        "La independencia de los órganos de gobierno de la empresa",
+        "El uso de energías renovables en la producción"
+      ],
+      "correct_index": 1,
+      "explanation": "Los criterios sociales buscan reducir la desigualdad mediante la inclusión de colectivos desfavorecidos y velar por los derechos laborales; las otras opciones son ambientales o de gobernanza.",
+      "concept_id": "C30"
+    },
+    {
+      "question": "¿Qué caracteriza a un fondo de inversión solidario frente a otros fondos sostenibles?",
+      "options": [
+        "Cede una parte de su comisión de gestión a entidades benéficas o no gubernamentales",
+        "Solo invierte en bonos verdes emitidos por el sector público",
+        "Garantiza una rentabilidad mínima independiente del mercado",
+        "Excluye cualquier comisión de gestión para el inversor"
+      ],
+      "correct_index": 0,
+      "explanation": "Los fondos solidarios son instituciones de inversión colectiva que destinan parte de la comisión de gestión a entidades benéficas o no gubernamentales.",
+      "concept_id": "C26"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5127,
+    "input_tokens": 2657,
+    "output_tokens": 978
+  }
+}

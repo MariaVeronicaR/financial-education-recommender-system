@@ -1,0 +1,71 @@
+{
+  "content_id": "C039",
+  "url": "https://www.cnmv.es/portal/inversor/fondos-inversion?lang=es",
+  "source": "CNMV",
+  "host": "www.cnmv.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 214559
+  },
+  "title": "CNMV - Fondos inversión",
+  "headings": [],
+  "sections": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Este sitio web utiliza cookies propias y de terceros para fines técnicos, de personalización de las visitas, análisis del sitio y de publicidad comportamental. Estas últimas nos permiten obtener datos sobre tus hábitos de navegación (p.ej. páginas visitadas) y obtener perfiles para mejorar nuestros contenidos.\nEste sitio web contiene enlaces a sitios web de terceros con políticas de privacidad ajenas a la de la CNMV. Al visualizarlos y acceder a ellos, usted acepta las cookies instaladas por terceros y sus políticas de privacidad y cookies.\nConfiguración de cookies\nConfiguración de cookies\nEste sitio web utiliza cookies y/o tecnologías similares que almacenan y recuperan información cuando se navega. Para más información, visite la\nCookies técnicas\nCookies técnicas\nSe utilizan para el correcto funcionamiento del sitio.\nCookies de personalización\nCookies de personalización\nPermiten recordar información para que el usuario acceda al servicio con determinadas características que pueden diferenciar su experiencia de la de otros usuarios. Por ejemplo, el idioma elegido u otras opciones que permiten una mejora en la accesibilidad a la web.\nCookies de análisis\nCookies de análisis\nDe terceros (Google). Permiten el seguimiento y análisis del comportamiento de los usuarios con el objetivo de introducir mejoras en los contenidos del sitio web.\nCookies de publicidad comportamental\nCookies de publicidad comportamental\nDe terceros (Google). Almacenan información del comportamiento de los usuarios obtenida a través de la observación continuada de sus hábitos de navegación lo que permite desarrollar un perfil específico para la optimización de contenidos informativos.\nLos fondos de inversión son IIC (instituciones de inversión colectiva). Consisten en un patrimonio formado por las aportaciones de un número variable de inversores, denominados partícipes. El fondo lo crea una entidad, la gestora, que es la que invierte de forma conjunta esas aportaciones en diferentes activos financieros (renta fija, renta variable, derivados o cualquier combinación de estos, etc) siguiendo unas pautas fijadas de antemano.\nAsí, cada partícipe es propietario de una parte del patrimonio del fondo, en proporción al valor de sus aportaciones. Los aumentos o disminuciones del valor del patrimonio se atribuyen proporcionalmente a los partícipes.\nLos fondos están regulados por una normativa que pone los límites a la forma en que la sociedad gestora puede invertir el dinero, con el fin de asegurar un nivel mínimo de diversificación, liquidez y transparencia.\nTanto el tipo de activos en los que invierte (política de inversión) como el resto de las características del fondo (comisiones, posibilidad de sacar el dinero, riesgo que se asume, horizonte temporal...), están recogidas en un documento llamado folleto informativo y en el resumen del mismo DFI (Datos Fundamentales para el Inversor).",
+      "links": [
+        {
+          "text": "Cookies de publicidad comportamental",
+          "href": "https://www.cnmv.es/Portal/home.aspx",
+          "start": 1355,
+          "end": 1391
+        },
+        {
+          "text": "Cookies de publicidad comportamental",
+          "href": "https://www.cnmv.es/Portal/inversor/Productos-Inversion.aspx",
+          "start": 1355,
+          "end": 1391
+        }
+      ]
+    }
+  ],
+  "text": "Este sitio web utiliza cookies propias y de terceros para fines técnicos, de personalización de las visitas, análisis del sitio y de publicidad comportamental. Estas últimas nos permiten obtener datos sobre tus hábitos de navegación (p.ej. páginas visitadas) y obtener perfiles para mejorar nuestros contenidos.\nEste sitio web contiene enlaces a sitios web de terceros con políticas de privacidad ajenas a la de la CNMV. Al visualizarlos y acceder a ellos, usted acepta las cookies instaladas por terceros y sus políticas de privacidad y cookies.\nConfiguración de cookies\nConfiguración de cookies\nEste sitio web utiliza cookies y/o tecnologías similares que almacenan y recuperan información cuando se navega. Para más información, visite la\nCookies técnicas\nCookies técnicas\nSe utilizan para el correcto funcionamiento del sitio.\nCookies de personalización\nCookies de personalización\nPermiten recordar información para que el usuario acceda al servicio con determinadas características que pueden diferenciar su experiencia de la de otros usuarios. Por ejemplo, el idioma elegido u otras opciones que permiten una mejora en la accesibilidad a la web.\nCookies de análisis\nCookies de análisis\nDe terceros (Google). Permiten el seguimiento y análisis del comportamiento de los usuarios con el objetivo de introducir mejoras en los contenidos del sitio web.\nCookies de publicidad comportamental\nCookies de publicidad comportamental\nDe terceros (Google). Almacenan información del comportamiento de los usuarios obtenida a través de la observación continuada de sus hábitos de navegación lo que permite desarrollar un perfil específico para la optimización de contenidos informativos.\nLos fondos de inversión son IIC (instituciones de inversión colectiva). Consisten en un patrimonio formado por las aportaciones de un número variable de inversores, denominados partícipes. El fondo lo crea una entidad, la gestora, que es la que invierte de forma conjunta esas aportaciones en diferentes activos financieros (renta fija, renta variable, derivados o cualquier combinación de estos, etc) siguiendo unas pautas fijadas de antemano.\nAsí, cada partícipe es propietario de una parte del patrimonio del fondo, en proporción al valor de sus aportaciones. Los aumentos o disminuciones del valor del patrimonio se atribuyen proporcionalmente a los partícipes.\nLos fondos están regulados por una normativa que pone los límites a la forma en que la sociedad gestora puede invertir el dinero, con el fin de asegurar un nivel mínimo de diversificación, liquidez y transparencia.\nTanto el tipo de activos en los que invierte (política de inversión) como el resto de las características del fondo (comisiones, posibilidad de sacar el dinero, riesgo que se asume, horizonte temporal...), están recogidas en un documento llamado folleto informativo y en el resumen del mismo DFI (Datos Fundamentales para el Inversor).",
+  "text_len": 2897,
+  "num_headings": 0,
+  "metadata": {
+    "title": "CNMV - Fondos inversión",
+    "url": "https://www.cnmv.es/portal/inversor/fondos-inversion?lang=es",
+    "hostname": "cnmv.es",
+    "sitename": "cnmv.es",
+    "date": "2014-01-16",
+    "tags": [
+      "cnmv, comision,comision nacional del mercado,capital riesgo,entidades emisoras,hechos relevantes,folletos de emision,iic,inversion colectiva,productos financieros,mercado valores, fondos de inversion,servicios de inversion,inversores,bolsa valores,mercados financieros,agencias valores,isin,ISIN,comunicaciones previas, titulizacion, capital riesgo, opas, ancv, xbrl, cotizadas, renta fija, inversores, bolsa, posiciones cortas, short selling, participaciones preferentes, bonos, obligaciones, pagarés, warrants, titulización, sicav, inversión colectiva, eafis, asesores financieros, ley del mercado de valores,opv, ops, salidas a bolsa, emisiones"
+    ],
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Fondos de inversión: qué son y cómo funcionan",
+    "topic": "inversión",
+    "subtopic": "fondos",
+    "difficulty": "avanzado",
+    "format": "artículo web",
+    "summary": "Concepto de fondo de inversión, comisiones y tipos",
+    "learning_objective": "Entender los fondos de inversión"
+  },
+  "deduped_from": null
+}

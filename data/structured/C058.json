@@ -1,0 +1,98 @@
+{
+  "content_id": "C058",
+  "title": "Tarjetas",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Tarjetas"
+    },
+    {
+      "type": "paragraph",
+      "text": "El uso de las tarjetas es muy común para realizar pagos en comercio o extraer dinero en efectivo. Es importante conocer los derechos y obligaciones que adquirimos al contratar una tarjeta, ya sea de débito o de crédito.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Concepto y características"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las tarjetas son instrumentos de pago emitidos por una entidad financiera o un comercio que permiten realizar un pago sin disponer de dinero en efectivo.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tipos de tarjetas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Existe una gran variedad de tarjetas con distintas denominaciones comerciales y diferentes funcionalidades. Conocer sus principales características te ayudará a contratar la que más te conviene en función de los servicios que te ofrezca.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Contratación"
+    },
+    {
+      "type": "paragraph",
+      "text": "Como con cualquier otro contrato hay que prestar atención a las condiciones de la tarjeta y conservar la documentación.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cancelación de la tarjeta"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ya no deseo seguir usando mi tarjeta, ¿qué debo hacer?",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Uso fraudulento"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Qué pasa cuando se pierde o nos roban una tarjeta, y es utilizada fraudulentamente?",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Formas de pago y sus intereses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cómo se pagan y qué intereses tienen",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "CONSULTAS FRECUENTES"
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "¿Cuáles son las principales recomendaciones de seguridad para evitar el uso fraudulento de una tarjeta?",
+        "¿Qué se debe saber antes de contratar una tarjeta de crédito tipo revolving?"
+      ]
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:16:45.090965+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 3225,
+    "input_tokens": 2193,
+    "output_tokens": 988
+  }
+}

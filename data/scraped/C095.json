@@ -1,0 +1,79 @@
+{
+  "content_id": "C095",
+  "url": "https://www.bde.es/wbe/es/areas-actuacion/politica-monetaria/preguntas-frecuentes/tipos-cambio/que-son-los-tipos-de-cambio.html",
+  "source": "Banco de España",
+  "host": "www.bde.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 367384
+  },
+  "title": "¿Qué son los tipos de cambio?",
+  "headings": [
+    {
+      "level": 2,
+      "text": "Ejemplo del tipo de cambio ($/€)"
+    }
+  ],
+  "sections": [
+    {
+      "level": 2,
+      "heading": "Ejemplo del tipo de cambio ($/€)",
+      "start": 103,
+      "end": 689,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Un tipo de cambio indica cuál es el valor o precio de la moneda de un país en términos de otra moneda."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ejemplo del tipo de cambio ($/€)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Por ejemplo, en 2020 el tipo de cambio del euro frente al dólar era de 1,14 $/€ (media de los datos diarios), indicando que, con 1 euro, podíamos comprar 1,14 dólares.\nSin embargo, el valor del euro varía continuamente. Si el valor del euro aumenta respecto al dólar, decimos que el euro se “aprecia” respecto al dólar, lo que nos permitirá comprar más dólares con 1 euro. Por otro lado, cuando decimos que el euro se “deprecia”, significa que su valor baja con respecto del dólar, el euro se hace más débil y podremos comprar menos dólares con un euro."
+    }
+  ],
+  "text": "Un tipo de cambio indica cuál es el valor o precio de la moneda de un país en términos de otra moneda.\nEjemplo del tipo de cambio ($/€)\nPor ejemplo, en 2020 el tipo de cambio del euro frente al dólar era de 1,14 $/€ (media de los datos diarios), indicando que, con 1 euro, podíamos comprar 1,14 dólares.\nSin embargo, el valor del euro varía continuamente. Si el valor del euro aumenta respecto al dólar, decimos que el euro se “aprecia” respecto al dólar, lo que nos permitirá comprar más dólares con 1 euro. Por otro lado, cuando decimos que el euro se “deprecia”, significa que su valor baja con respecto del dólar, el euro se hace más débil y podremos comprar menos dólares con un euro.",
+  "text_len": 689,
+  "num_headings": 1,
+  "metadata": {
+    "title": "¿Qué son los tipos de cambio?",
+    "url": "https://www.bde.es/wbe/es/areas-actuacion/politica-monetaria/preguntas-frecuentes/tipos-cambio/que-son-los-tipos-de-cambio.html",
+    "hostname": "bde.es",
+    "description": "¿Qué son los tipos de cambio?",
+    "sitename": "Banco de España",
+    "date": "2022-01-11",
+    "image": "https://www.bde.es/f/webbe/INF/assets/images/opengraph/0410_A_IMAGEN_DEFECTO_RRSS.jpg",
+    "pagetype": "website",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": true,
+  "csv_meta": {
+    "title": "Qué son los tipos de cambio",
+    "topic": "mercado",
+    "subtopic": "tipo de cambio",
+    "difficulty": "intermedio",
+    "format": "artículo web",
+    "summary": "Preguntas frecuentes sobre la determinación y el funcionamiento de los tipos de cambio de divisas",
+    "learning_objective": "Comprender la paridad de divisas y el mercado de cambio"
+  },
+  "deduped_from": null
+}

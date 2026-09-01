@@ -1,0 +1,57 @@
+{
+  "content_id": "C039",
+  "tldr": "Los fondos de inversión son instituciones de inversión colectiva (IIC) formadas por las aportaciones de múltiples inversores llamados partícipes, gestionadas por una entidad (la gestora) que invierte ese dinero de forma conjunta en distintos activos financieros. Cada partícipe es propietario de una parte del patrimonio proporcional a su aportación, y las ganancias o pérdidas se reparten también de forma proporcional. Los fondos están regulados para garantizar diversificación, liquidez y transparencia, y sus características se detallan en el folleto informativo y en el DFI.",
+  "key_points": [
+    "Un fondo de inversión es una institución de inversión colectiva cuyo patrimonio se forma con las aportaciones de muchos inversores llamados partícipes.",
+    "La gestora es la entidad que invierte de forma conjunta las aportaciones en diferentes activos financieros (renta fija, variable, derivados, etc.) siguiendo unas pautas fijadas de antemano.",
+    "Cada partícipe es propietario de una parte del patrimonio proporcional al valor de sus aportaciones, y los aumentos o disminuciones del valor se reparten proporcionalmente.",
+    "Los fondos están regulados para asegurar un nivel mínimo de diversificación, liquidez y transparencia en la forma de invertir.",
+    "La política de inversión, comisiones, riesgo y demás características se recogen en el folleto informativo y en el DFI (Datos Fundamentales para el Inversor)."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué papel desempeña la gestora en un fondo de inversión?",
+      "options": [
+        "Es la entidad que invierte de forma conjunta las aportaciones de los partícipes en distintos activos financieros.",
+        "Es el inversor que aporta el dinero y recibe los beneficios del fondo.",
+        "Es el organismo público que regula y controla todas las operaciones del fondo.",
+        "Es la institución que guarda el patrimonio del fondo sin invertirlo."
+      ],
+      "correct_index": 0,
+      "explanation": "La gestora es la entidad que crea el fondo e invierte de forma conjunta las aportaciones de los partícipes siguiendo unas pautas fijadas de antemano.",
+      "concept_id": "C26"
+    },
+    {
+      "question": "Si el valor del patrimonio de un fondo aumenta, ¿cómo se reparte ese aumento entre los partícipes?",
+      "options": [
+        "Solo lo reciben los partícipes que aportaron más dinero al fondo.",
+        "Se reparte de forma proporcional a la aportación de cada partícipe.",
+        "Se reparte por igual entre todos los partícipes, independientemente de su aportación.",
+        "El aumento queda en manos de la gestora como comisión."
+      ],
+      "correct_index": 1,
+      "explanation": "Los aumentos o disminuciones del valor del patrimonio se atribuyen proporcionalmente a los partícipes, según el valor de sus aportaciones.",
+      "concept_id": "C26"
+    },
+    {
+      "question": "¿Dónde puede consultar un inversor las comisiones, el riesgo y la política de inversión de un fondo?",
+      "options": [
+        "En el folleto informativo y en el DFI (Datos Fundamentales para el Inversor).",
+        "En la declaración de la renta del año anterior.",
+        "En el contrato de su cuenta bancaria personal.",
+        "En el registro de la CNMV de valores cotizados en bolsa."
+      ],
+      "correct_index": 0,
+      "explanation": "Las características del fondo (comisiones, riesgo, posibilidad de sacar el dinero, política de inversión, etc.) están recogidas en el folleto informativo y en el resumen DFI.",
+      "concept_id": "C26"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 4506,
+    "input_tokens": 1874,
+    "output_tokens": 897
+  }
+}

@@ -1,0 +1,551 @@
+{
+  "content_id": "C063",
+  "title": "50 preguntas y respuestas básicas sobre inversión",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Introducción"
+    },
+    {
+      "type": "paragraph",
+      "text": "La inversión en productos financieros es una decisión compleja que puede tener un impacto considerable en las finanzas personales. Por este motivo debe ser realizada de forma responsable y meditada y teniendo unos conocimientos esenciales sobre los productos que se están adquiriendo y sobre la manera de adquirirlos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Las preguntas que puede plantearse un inversor a la hora de tomar una decisión de este tipo pueden ser muy numerosas y variadas y tener distintos grados de complejidad. En la presente Guía se recogen algunas de estas preguntas con el objetivo de facilitar una respuesta sencilla, breve y didáctica que sirva de primera orientación al lector.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La Guía está dividida en ocho bloques que abordan asuntos esenciales relativos a los mercados de valores, los productos y servicios financieros o temáticas de actualidad como las finanzas sostenibles o los servicios fintech. Cada bloque de preguntas se complementa con recursos formativos adicionales disponibles en la página web de la Comisión Nacional del Mercado de Valores (www.cnmv.es).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "I. El sistema financiero y los mercados de valores"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. ¿Qué es el sistema financiero?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El sistema financiero es el conjunto de instrumentos, mercados e instituciones de un país cuya función es hacer llegar el flujo de fondos desde los oferentes hasta los demandantes.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. ¿Qué es el mercado de valores?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El mercado de valores es uno de los mercados que forman parte del sistema financiero. Permite la canalización de capital a medio y largo plazo de los inversores a las empresas y Administraciones públicas que necesitan recursos, con lo que contribuyen al desarrollo económico. Otros mercados financieros son el mercado monetario, el mercado de divisas, el mercado interbancario, el mercado hipotecario, el mercado de productos básicos (petróleo, oro…), etc.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. ¿Qué es el mercado primario?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El mercado primario de valores es aquel en el que se realiza el proceso de emisión de nuevos valores. En los mercados primarios los inversores obtienen títulos recién creados, que adquieren directamente del emisor (por contraposición a los mercados secundarios, en los que se negocian títulos ya emitidos con anterioridad que estaban en poder de otros inversores).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. ¿Qué es el mercado secundario?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El mercado secundario de valores es un mercado de negociación en el que los inversores compran y venden a otros inversores valores que ya existen. El mercado secundario da liquidez a los títulos ya emitidos al facilitar su compra y venta. Los precios se establecen en función de la oferta y demanda en el momento de cada transacción. Las empresas emisoras de los valores no reciben fondos de estas operaciones, aunque el valor de la empresa aumenta si sube el precio de sus acciones. La inmensa mayoría de operaciones se ejecutan en el mercado secundario.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. ¿Qué son las bolsas de valores?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las bolsas de valores son mercados organizados, sujetos a regulación oficial y, en España, supervisados por la Comisión Nacional del Mercado de Valores (CNMV). En ellas se negocian acciones y valores convertibles o que otorguen derecho de suscripción. También se contrata renta fija, tanto pública como privada, así como warrants, certificados y fondos cotizados. En España hay cuatro bolsas de valores: Madrid, Barcelona, Bilbao y Valencia.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "6. ¿Qué es la Comisión Nacional del Mercado de Valores?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La Comisión Nacional del Mercado de Valores o CNMV es el organismo encargado de la supervisión e inspección de los mercados de valores españoles y de la actividad de cuantos intervienen en los mismos. Además, vela por la transparencia de los mercados de valores españoles, por la correcta formación de los precios de esos valores y la protección del inversor.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. Los aspectos básicos de la inversión en productos financieros"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "7. ¿Qué es invertir en productos financieros?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Invertir es comprometer parte de nuestros ahorros adquiriendo ciertos activos, con la esperanza de obtener de ellos un rendimiento en el futuro. Esta decisión conlleva siempre el riesgo de que, por diversas razones, el rendimiento no sea el esperado. Todos los productos de inversión incorporan cierto nivel de riesgo.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "8. ¿Qué es el riesgo financiero?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El riesgo financiero es el conjunto de factores que pueden hacer que la rentabilidad de una inversión sea distinta a la esperada, ya sea por encima o por debajo. Riesgo significa incertidumbre y, en términos financieros, se considera que incorpora el mismo riesgo obtener un 20 % por encima o por debajo de la rentabilidad prevista. Lógicamente, el riesgo que preocupa al inversor es el segundo, es decir, la probabilidad de que la rentabilidad sea inferior a la inicialmente prevista.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "9. ¿Qué debo hacer para tomar una decisión de inversión?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para tomar una decisión de inversión es conveniente seguir cuatro pasos: definir los objetivos de inversión, buscar un intermediario, elegir un producto y vigilar la inversión.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "10. ¿Qué cautelas debo tener en cuenta antes de invertir?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de invertir en un producto concreto, es recomendable tener en cuenta las siguientes cautelas:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Racionalizar la decisión de inversión sin dejarse llevar por la euforia o las decisiones que toman otros inversores y conociendo los sesgos que pueden afectar a esa decisión de inversión;",
+        "Valorar varias alternativas de inversión;",
+        "Recordar que toda inversión comporta riesgo;",
+        "Acudir a un intermediario autorizado (registrado en la CNMV o en el Banco de España);",
+        "Informarse bien de las características y riesgos de la inversión así como de las comisiones aplicadas."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "11. ¿Qué son los intermediarios financieros?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los intermediarios financieros son personas o entidades que desempeñan una función económica, como mediadores entre los ahorradores y las empresas que precisan financiación. Los bancos desempeñan esta labor de intermediación, mediante la concesión de créditos con los fondos depositados por los ahorradores. En los mercados de valores, la labor de mediación es desarrollada por las empresas de servicios de inversión y las entidades de crédito, y consiste, entre otras actividades, en operar en los mercados por cuenta de los inversores finales. Antes de comenzar a prestar estos servicios, altamente especializados, los intermediarios han de obtener la autorización de los organismos públicos supervisores (Banco de España y CNMV) e inscribirse en sus registros, respetando en todo momento rigurosos requisitos de solvencia y de organización interna.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "12. ¿Qué son los principales servicios de inversión?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los principales servicios de inversión que pueden contratarse con un intermediario financiero autorizado son:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "La recepción y transmisión de órdenes en relación con uno o más instrumentos financieros, es decir, la compraventa de productos financieros.",
+        "El asesoramiento en materia de inversión, es decir, la realización de recomendaciones personalizadas, ya sea de forma puntual o continuada con respecto a una o más operaciones relativas a instrumentos financieros.",
+        "La gestión de carteras, en virtud del cual y gracias a la firma de un contrato de gestión de carteras se otorga a la entidad un mandato para que, con carácter profesional, gestione la cartera de un cliente de forma discrecional e individualizada."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "13. Qué comisiones se aplican en la adquisición de productos o servicios de inversión?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Operar en los mercados de valores implica asumir una serie de costes derivados de la actividad de los intermediarios financieros que prestan servicios de inversión. Las comisiones más habituales son las relativas a la compraventa de valores, la custodia y administración de valores, la gestión de carteras o el asesoramiento financiero. El intermediario financiero debe aportar información antes, durante y después de realizar la inversión. En concreto, debe facilitar información sobre los riesgos que asume el cliente y las comisiones y gastos directos e indirectos asociados al producto o servicio contratado.",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Manual para universitarios: el mercado de valores y los productos de inversión",
+        "Guía rápida: Conozca su perfil como inversor",
+        "Podcast: Conoce el perfil de inversor",
+        "Podcast: Binomio rentabilidad-riesgo"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "III. Los principales productos financieros"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "14. ¿Qué tipos de productos financieros existen?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Existe una amplia gama de productos de inversión. Los productos que más se negocian en los mercados de valores se pueden dividir en seis grandes bloques: renta fija, renta variable, fondos de inversión, productos híbridos, productos derivados y productos estructurados.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "15. ¿Qué es la renta fija?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los activos de renta fija se corresponden con un amplio conjunto de valores negociables que emiten las empresas y las instituciones públicas y que representan préstamos que estas entidades reciben de los inversores. En general, tienen un plazo determinado y una rentabilidad conocida de antemano o derivada de una fórmula. La renta fija no confiere derechos políticos a su tenedor, sino solo derechos económicos, entre los que cabe destacar el derecho a percibir los intereses pactados y la devolución de la totalidad del capital invertido en una fecha determinada (llamada fecha de vencimiento). La renta fija pública (deuda pública) la constituyen valores emitidos por el Estado, las comunidades autónomas y otros organismos públicos, mientras que la renta fija privada son valores emitidos por empresas del sector privado.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "16. ¿Qué es la renta variable?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La renta variable es un producto financiero cuya principal característica es que en el momento de la adquisición no se conoce su posible rendimiento futuro. Las acciones ordinarias de las compañías cotizadas son los valores más conocidos y representativos de la renta variable.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "17. ¿Qué es una acción?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una acción es un valor que representa una parte proporcional del capital social de una sociedad anónima. Los tenedores de acciones son, por tanto, socios propietarios de la sociedad en proporción a su participación y tienen derecho a participar en las juntas generales de accionistas en las que se toman las decisiones más relevantes para la empresa.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "18. ¿Qué es un fondo de inversión?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un fondo de inversión es un patrimonio sin personalidad jurídica, formado por la agregación de los capitales aportados por un número variable de personas, llamadas partícipes. El fondo de inversión se relaciona con los partícipes, intermediarios o mercados a través de una sociedad gestora y una entidad depositaria. La sociedad gestora toma las decisiones de inversión y ejerce todas las funciones de administración y representación del fondo. La entidad depositaria custodia el patrimonio del fondo y asume ciertas funciones de control sobre la actividad de la gestora en beneficio de los partícipes.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "19. ¿Qué son los productos híbridos?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Se trata de productos que, por su naturaleza, no pueden clasificarse como renta fija, ni tampoco como renta variable, de ahí su carácter híbrido. Tienen algunos aspectos asimilables a la renta fija y otras características propias de la renta variable. Los principales productos de este tipo son las participaciones preferentes y las obligaciones y bonos convertibles.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "20. ¿Qué son los productos derivados?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los productos derivados son instrumentos financieros cuyo valor deriva de la evolución de los precios de otro activo, denominado activo subyacente. El activo subyacente puede ser muy variado: una acción, una cesta de acciones, un valor de renta fija, una divisa, un tipo de interés, un índice bursátil, una materia prima y productos más sofisticados o incluso la inflación o los riesgos de crédito. Un derivado es una contratación a plazo en la que se establecen todos los detalles en el momento del acuerdo, mientras que el intercambio efectivo se produce, en su caso, en un momento futuro.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "21. ¿Qué son los productos estructurados?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los productos estructurados consisten en la unión de dos o más productos financieros en una sola estructura. Normalmente, lo más común suele ser un producto de renta fija junto con uno o más derivados. Estos productos son de carácter complejo y de elevado riesgo.",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Manual para universitarios: el mercado de valores y los productos de inversión",
+        "Podcast Renta fija, renta variable"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "IV. Los fondos de inversión"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "22. ¿Qué son las participaciones de un fondo de inversión?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La participación es la unidad de inversión de un fondo de inversión. Su precio o valor de mercado es el valor liquidativo, que se calcula dividiendo el patrimonio total del fondo por el número de participaciones en circulación en cada momento.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "23. ¿Qué es el folleto de un fondo de inversión?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El folleto de un fondo de inversión es el documento informativo que recoge las características básicas de este. Se trata de un documento oficial, cuyo contenido mínimo viene determinado por la normativa: política de inversión, tipo de fondo, evolución de las rentabilidades pasadas, perfil del inversor objetivo, régimen de comisiones, etc. Las entidades que comercializan fondos de inversión tienen la obligación de entregar al inversor una copia del Documento de Datos Fundamentales para el Inversor (DFI), que es un extracto del folleto completo, junto con el último informe semestral publicado, siempre antes de que suscriba el fondo. Es esencial consultar este documento antes de suscribir (adquirir) o reembolsar (vender) participaciones.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "24. ¿Qué comisiones lleva asociadas un fondo de inversión?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las comisiones que cargan los fondos de inversión pueden tener una incidencia significativa en su rentabilidad. Su cuantía y condiciones de aplicación se detallan de forma exhaustiva en el folleto del fondo. Hay distintos tipos de comisiones:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Comisiones de gestión y depósito: son las que cobran la gestora y el depositario, respectivamente. Estas comisiones son implícitas, es decir, ya están deducidas del valor liquidativo del fondo (puesto que se cargan directamente al fondo).",
+        "Comisiones de suscripción y reembolso: pueden ser a favor de la gestora o del propio fondo (en este caso se denomina descuento a favor del fondo). Son explícitas, es decir, se cargan al partícipe en el momento en que se realiza la suscripción o el reembolso, como un porcentaje del importe suscrito o reembolsado (con un máximo del 5 %) y deduciéndose de este."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "25. ¿Qué es el reembolso de un fondo de inversión?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El reembolso de un fondo de inversión es la operación por la que el partícipe recupera todo o parte del capital invertido en un fondo de inversión, mediante la venta de sus participaciones a la sociedad gestora al valor liquidativo que resulte aplicable según el folleto.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "26. ¿Qué es el traspaso de un fondo de inversión?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un traspaso no es más que el reembolso de un fondo de inversión y la inmediata suscripción de otro, conservando la antigüedad de la primera inversión a efectos fiscales. Esto significa que las plusvalías no tributan mientras no se produzca el reembolso definitivo. Los traspasos pueden producirse entre fondos de la misma gestora o de distintas gestoras.",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Guía: Los fondos de inversión y la inversión colectiva",
+        "Guía rápida: Traspasos entre fondos de inversión",
+        "Guía rápida: Fondos de inversión en el mercado"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "V. Contratación de un producto financiero"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "27. ¿Qué hay que hacer para contratar un producto financiero?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para contratar un producto financiero, lo primero que hay que hacer es acudir a una entidad financiera autorizada por la CNMV. Para conocer si una entidad está autorizada es aconsejable consultar el Registro de entidades de la CNMV.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "28. ¿Qué debe hacer la entidad financiera ante la solicitud de contratar un producto financiero?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ante la solicitud de contratar un producto financiero, la entidad financiera clasificará al cliente como inversor minorista o profesional, le solicitará información para adecuar los productos y servicios, le facilitará información para ayudarle en la toma de decisiones, gestionará sus órdenes en los mejores términos y le informará sobre el estado de sus inversiones.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "29. ¿Qué son los clientes minoristas?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los clientes minoristas son aquellos a los que se les suponen menos conocimientos y experiencia en los mercados financieros y, por ello, reciben el máximo grado de protección. La inmensa mayoría de los inversores individuales están clasificados por las entidades como clientes minoristas.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "30. ¿Qué son los clientes profesionales?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los clientes profesionales son los clientes con mayor conocimiento y experiencia. Reciben menos protección que los clientes minoristas ya que tienen más capacidad para comprender la naturaleza y riesgos de los mercados, productos y servicios de inversión. Son clientes profesionales, entre otros, los bancos, empresas de servicios de inversión, compañías de seguros, fondos de pensiones, ciertas grandes compañías, los gobiernos nacionales y regionales y algunos inversores particulares que lo soliciten y cumplan unas condiciones.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "31. ¿Qué información solicitará la entidad financiera al cliente?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La información que solicitará la entidad al cliente se centrará en si sabe cómo funciona algún producto, si lo ha comprado antes, cuál es su grado de conocimiento de los mercados financieros, cuál es su objetivo al invertir, cuánto riesgo está dispuesto a asumir o incluso cuáles son sus ingresos, gastos, patrimonio y deudas. El cliente debe procurar responder a estas preguntas de modo veraz y con la mayor precisión para que la entidad le pueda prestar el servicio de la mejor manera posible. Dependiendo del producto y servicio de inversión que le vaya a prestar, la entidad le realizará al cliente un test de conveniencia o un test de idoneidad.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "32. ¿Qué es el test de conveniencia?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El test de conveniencia es el conjunto de preguntas que la entidad financiera hace a un cliente y que determinará si un producto o servicio de inversión es adecuado para él. Con este test se trata de valorar los conocimientos y experiencia en el ámbito de inversión correspondiente al tipo concreto de producto o servicio ofrecido o solicitado. Para ello, la entidad formulará preguntas sobre los tipos de servicios, operaciones e instrumentos financieros con los que se está familiarizado, la naturaleza, la frecuencia, el volumen y el periodo en el que se haya operado previamente, el nivel de educación y la profesión actual o anterior.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "33. ¿Qué es el test de idoneidad?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El test de idoneidad es el conjunto de preguntas que pretende asegurar que las recomendaciones personalizadas que haga la entidad al cliente sean las más adecuadas para este, teniendo en cuenta su situación particular. Además de las cuestiones planteadas en el test de conveniencia, el test de idoneidad incluirá preguntas relativas a la situación financiera (nivel y fuentes de ingresos, capacidad para soportar pérdidas, patrimonio, gastos y pagos periódicos, etc.) y los objetivos de inversión (finalidad, tiempo, importe, perfil y tolerancia al riesgo).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "34. ¿Qué ocurre cuando se da una orden a una entidad de compra o venta de un producto financiero?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando se da una orden de compra o venta de un producto financiero a una entidad, la entidad debe ejecutar la orden de forma pronta y secuencial, es decir, lo antes posible y en el orden en el que la haya recibido. La entidad deberá informar al cliente si encuentra alguna dificultad que le impida la debida ejecución de su orden.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "35. ¿Qué es la “mejor ejecución”?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La “mejor ejecución” significa que, para concluir la compra o la venta, la entidad debe ejecutar la orden tratando de conseguir el mejor resultado posible para el cliente. A tal fin, la entidad debe identificar los centros de negociación más adecuados (bolsas de valores, otros sistemas organizados o entidades especializadas), teniendo en cuenta una serie de factores como el precio, los costes, la rapidez y la probabilidad de ejecución y liquidación, el volumen, la naturaleza de la operación y cualquier otro elemento relevante para la ejecución de la orden.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "36. ¿Qué información debe recibir el cliente después de contratar un producto financiero?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Después de contratar un producto financiero, la entidad debe facilitar al cliente la información mínima necesaria para que este pueda seguir la evolución de sus inversiones. En caso de compra o de venta de productos financieros, una vez ejecutada la orden, el cliente deberá recibir una confirmación, antes del día siguiente al que se produjo la ejecución, con información sobre las condiciones en las que se ha llevado a cabo (con carácter general, importe, fecha y hora de ejecución, tipo de orden, identificación del centro de ejecución y del instrumento financiero, y suma total de las comisiones y gastos repercutidos, incluyendo, si lo solicita el cliente, un desglose de tales gastos y comisiones).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "37. ¿Qué se puede hacer en el caso de sentirse perjudicado por la actuación de la entidad financiera?"
+    },
+    {
+      "type": "paragraph",
+      "text": "En caso de que el cliente se sienta perjudicado por la actuación de su entidad financiera, puede reclamar. Esta reclamación tiene que presentarse ante el Servicio de Atención al Cliente o el Defensor del Cliente de la entidad. La entidad debe atender y resolver quejas y reclamaciones de forma pronta y razonable. Las entidades deben facilitar información del procedimiento de reclamación, poniéndola a disposición de sus clientes en todas sus oficinas abiertas al público, así como en sus páginas web y concretándola en los contratos suscritos con los clientes. También debe informar de cada reclamación y de las medidas adoptadas para su resolución. Es conveniente que el cliente también conserve los contratos que firme y, en general, toda la documentación que reciba de la entidad sobre las operaciones que realice. En el caso de que el cliente no reciba una respuesta de la entidad en el plazo de dos meses o si esta no le resulta satisfactoria, puede acudir al Servicio de Reclamaciones de la CNMV que se encarga de atender las consultas, quejas y reclamaciones de los inversores.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "38. ¿Qué es el FOGAIN?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El FOGAIN es el Fondo de Garantía de Inversiones y ofrece una indemnización a los inversores de sus entidades adheridas (empresas de servicios de inversión a excepción de las empresas de asesoramiento financiero, sociedades gestoras de instituciones de inversión colectiva y sociedades gestoras de entidades de tipo cerrado) en determinados supuestos de insolvencia de la entidad que presta el servicio de inversión, por el dinero y valores depositados o confiados a la entidad. Para las entidades de crédito existe el fondo de garantía de depósitos (FOGADE) que ofrece garantías equivalentes a los clientes de dichas entidades.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "39. ¿Qué supuestos cubre el FOGAIN?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El FOGAIN asegura a los clientes de una entidad adherida la recuperación del efectivo y los instrumentos financieros entregados a la entidad y que esta posea, administre o gestione por cuenta del inversor, con un máximo de 100.000 euros por inversor, cuando la entidad no pueda restituírselos por alguna de las siguientes circunstancias:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Concurso de acreedores.",
+        "Declaración administrativa de la CNMV indicando que la sociedad no puede cumplir con las obligaciones contraídas con sus clientes por razones relacionadas con su situación financiera. Para esto es necesario que hayan transcurrido 21 días hábiles desde que el inversor hubiera solicitado sin éxito la restitución de sus bienes (efectivo o valores)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "El FOGAIN no cubre las pérdidas de valor que sufran las inversiones como consecuencia del funcionamiento de los mercados ni por insolvencia del emisor.",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Guía: Sus derechos como inversor. La protección de MiFID",
+        "Guía rápida: Conozca su perfil de inversor",
+        "Guía rápida: Fondo de Garantía de Inversiones (FOGAIN)",
+        "Infografía sobre MiFID II"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VI. Estafas y fraudes financieros"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "40. ¿Qué es un chiringuito financiero?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Un chiringuito financiero es una entidad que ofrece y presta servicios de inversión sin estar autorizada para hacerlo. La aparente prestación de tales servicios es solo una tapadera para apropiarse del capital de sus víctimas, haciéndoles creer que están realizando una inversión de alta rentabilidad. Confiar en un chiringuito es una forma segura de perder dinero. Como no son entidades autorizadas, no es posible recurrir a ninguno de los mecanismos de protección del inversor previstos en las disposiciones legales.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "41. ¿Cómo actúan los chiringuitos financieros?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los chiringuitos financieros actúan a través de diversos canales con la finalidad de contactar con sus potenciales víctimas. Estos canales no son distintos de los que puede emplear cualquier entidad legalmente autorizada para difundir sus propuestas comerciales entre clientes o posibles clientes: teléfono, cartas, correo electrónico, páginas web, etc. La diferencia reside en la manera en que utilizan tales canales, en el tipo de mensajes que transmiten y en la actitud general que muestran para lograr sus objetivos. Los chiringuitos financieros suelen realizar propuestas de inversión sofisticadas y excepcionalmente prometedoras, utilizan páginas web con un diseño atractivo con el propósito de aparentar profesionalidad, normalmente presionan al inversor y le instan a que aproveche la oportunidad, dan explicaciones incomprensibles y utilizan numerosos tecnicismos etc.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "42. ¿Cómo protegerse de un chiringuito financiero?"
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:19:51.647472+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 44695,
+    "input_tokens": 9923,
+    "output_tokens": 16000
+  }
+}

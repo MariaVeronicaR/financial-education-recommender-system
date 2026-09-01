@@ -1,0 +1,454 @@
+<!doctype html>
+<html lang="es-mx">
+
+<head>
+    <meta http-equiv="Content-Security-Policy" content=" default-src 'self' *.doubleclick.net bat.bing.com connect.facebook.net stats.g.doubleclick.net www.google-analytics.com www.google.com www.googleanalytics.com www.googletagmanager.com www.gstatic.com *.santander.com.mx; script-src 'self' 'unsafe-eval' 'wasm-unsafe-eval' blob: *.facebook.com *.g.doubleclick.net *.googleads.g.doubleclick.net *.googletagmanager.com *.gstatic.com *.ojo7.com *.ojo7.ltroute.com ajax.googleapis.com https://analytics.tiktok.com bat.bing.com https://business.tiktok.com https://c.amazon-adsystem.com connect.facebook.net csi.gstatic.com g.microsoft.com maps.google.com ojo7.com ojo7.ltroute.com optimize.google.com https://ssl.google-analytics.com storage.googleapis.com https://*.tt.omtrdc.net https://*.demdex.net https://*.adobe.com tagmanager.google.com tpc.googlesyndication.com https://websdk.appsflyer.com www.google-analytics.com www.google.com www.google.com.mx www.googleadservices.com www.googleanalytics.com https://impressions.onelink.me https://www.googletagmanager.com https://mysantander.onelink.me cpa.leadgid.com *.crazyegg.com *.santander.com.mx *.akstat.io *.go-mpulse.net; script-src-elem 'self' 'nonce-base' 'nonce-gtm' blob: *.facebook.com *.g.doubleclick.net *.googleads.g.doubleclick.net *.googletagmanager.com *.gstatic.com *.ojo7.com *.ojo7.ltroute.com ajax.googleapis.com https://analytics.tiktok.com bat.bing.com https://business.tiktok.com https://c.amazon-adsystem.com connect.facebook.net csi.gstatic.com g.microsoft.com maps.google.com ojo7.com ojo7.ltroute.com optimize.google.com https://ssl.google-analytics.com storage.googleapis.com https://*.tt.omtrdc.net https://*.demdex.net https://*.adobe.com tagmanager.google.com tpc.googlesyndication.com https://websdk.appsflyer.com www.google-analytics.com www.google.com www.google.com.mx www.googleadservices.com www.googleanalytics.com https://impressions.onelink.me https://mysantander.onelink.me https://tags.tiqcdn.com cpa.leadgid.com *.crazyegg.com *.santander.com.mx *.akstat.io *.go-mpulse.net; connect-src 'self' *.santandermedia.com *.ok-cloud.net *.doubleclick.net wss://*.facebook.com *.facebook.net wss://*.facebook.net https://*.g.doubleclick.net *.google.com *.googleapis.com https://*.googletagmanager.com *.gstatic.com *.makingscience.com *.ojo7.com *.yimg.com https://ad.admitad.com https://ad.doubleclick.net https://analytics.google.com https://analytics.tiktok.com https://app.appsflyer.com bat.bing.com https://c.amazon-adsystem.com wss://connect.facebook.net https://delta.rocket.la https://engagements.appsflyer.com https://googleads.g.doubleclick.net https://leadgenios.net ojo7.com ojo7.ltroute.com https://pagead2.googlesyndication.com https://region1.analytics.google.com https://region1.google-analytics.com https://s.amazon-adsystem.com secure.adnxs.com https://stats.g.doubleclick.net https://storage.googleapis.com https://websdk.appsflyer.com https://impressions.onelink.me www.facebook.com www.google-analytics.com https://www.google.com www.googleadservices.com www.googletagmanager.com https://*.demdex.net https://*.adobe.com https://mysantander.onelink.me cpa.leadgid.com *.crazyegg.com ara.paa-reporting-advertising.amazon *.santander.com.mx www.google.com.mx *.tt.omtrdc.net *.akstat.io *.go-mpulse.net; style-src 'self' 'unsafe-inline' *.g.doubleclick.net *.googleapis.com tagmanager.google.com www.google-analytics.com www.google.com *.santander.com.mx https://script.crazyegg.com https://impressions.onelink.me https://*.tt.omtrdc.net https://*.demdex.net https://*.adobe.com crazyegg.com https://mysantander.onelink.me; img-src 'self' data: *.santandermedia.com i.ytimg.com *.adnxs.com https://*.analytics.google.com *.bat.bing.com *.bing.com *.doubleclick.net *.facebook.com *.google.com *.googleapis.com *.googletagmanager.com *.gstatic.com *.ojo7.com *.ojo7.ltroute.com https://ad.doubleclick.net https://ade.googlesyndication.com https://analytics.tiktok.com https://api.coru.com https://api.mx.alprestamo.io https://assets.santandermedia.com https://bat.bing.com connect.facebook.net https://delta.rocket.la https://googleads.g.doubleclick.net https://leadgenios.net https://multigenios.eo.page https://s.amazon-adsystem.com https://ssl.gstatic.com https://*.tt.omtrdc.net https://*.demdex.net https://*.adobe.com *.crazyegg.com stats.g.doubleclick.net https://www.facebook.com www.google-analytics.com www.google.com www.google.com.mx https://impressions.onelink.me https://mysantander.onelink.me cpa.leadgid.com https://cdn.optinmonster.com *.santander.com.mx assets.santander.com.mx; font-src 'self' data: fonts.gstatic.com https://mysantander.onelink.me *.santander.com.mx; media-src 'self' *.santandermedia.com *.youtube.com stats.g.doubleclick.net www.google-analytics.com www.google.com https://script.crazyegg.com https://impressions.onelink.me https://mysantander.onelink.me *.santander.com.mx; frame-src 'self' *.youtube.com *.doubleclick.net *.facebook.com https://googletagmanager.com https://tagmanager.google.com https://td.doubleclick.net https://www.facebook.com www.google.com https://*.tt.omtrdc.net https://*.demdex.net https://*.adobe.com https://script.crazyegg.com https://impressions.onelink.me https://www.googletagmanager.com *.santander.com.mx *.crazyegg.com https://hipotecasantander.com.mx https://www.autocompara.com; object-src 'self' *.santander.com.mx www.youtube.com; ">
+    <meta charset="utf-8">
+    <title>Qué es la volatilidad en las inversiones: por qué suben y bajan los activos</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="description" content="La volatilidad es la variación en el precio de un activo a lo largo del tiempo y entenderlo es clave para tomar mejores decisiones financieras.">
+    <meta name="robots" content="index,follow">
+
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="https://www.santander.com.mx/educacion-financiera/blog/volatilidad-inversiones.html">
+    <meta property="og:title" content="Qué es la volatilidad en las inversiones: por qué suben y bajan los activos">
+    <meta property="og:description" content="La volatilidad es la variación en el precio de un activo a lo largo del tiempo y entenderlo es clave para tomar mejores decisiones financieras.">
+    <meta property="og:image" content="https://www.santander.com.mx/educacion-financiera/assets-educacion-financiera/img/2_volatilidad_activos.jpg">
+    <meta property="og:image:alt" content="">
+
+    <meta property="twitter:url" content="https://www.santander.com.mx/educacion-financiera/blog/volatilidad-inversiones.html">
+    <meta property="twitter:title" content="Qué es la volatilidad en las inversiones: por qué suben y bajan los activos">
+    <meta property="twitter:description" content="La volatilidad es la variación en el precio de un activo a lo largo del tiempo y entenderlo es clave para tomar mejores decisiones financieras.">
+    <meta property="twitter:image" content="https://www.santander.com.mx/educacion-financiera/assets-educacion-financiera/img/2_volatilidad_activos.jpg">
+    <meta property="twitter:image:alt" content="">
+    <meta property="twitter:card" content="summary_large_image">
+
+    <script type="text/javascript" src="/dynatrace/ruxitagentjs_ICANVfgqrux_10343260715123811.js" data-dtconfig="rid=RID_938848940|rpid=-990109541|domain=santander.com.mx|reportUrl=/dynatrace/rb_bf57219nna|app=21aa553795ac91f6|owasp=1|featureHash=ICANVfgqrux|rdnt=1|uxrgce=1|cuc=6diulhgs|mel=100000|expw=1|dpvc=1|lastModification=1786614962354|postfix=6diulhgs|tp=500,50,0|srbbv=2|agentUri=/dynatrace/ruxitagentjs_ICANVfgqrux_10343260715123811.js"></script><link rel="canonical" href="https://www.santander.com.mx/educacion-financiera/blog/volatilidad-inversiones.html"/>
+
+    <link rel="stylesheet" href="../../personas/tarjetas-de-credito/assets-likeu/assets/styles/fuentes.css">
+
+    <!-- Place favicon.ico in the root directory -->
+    <link rel="stylesheet" href="../../personas/assets/styles/css/main.css" />
+    <link rel="stylesheet" href="../../personas/assets/styles/css/home-min.css" />
+
+
+    <!--Estilos Ajustes del index-->
+    <link rel="stylesheet" href="../../personas/assets/styles/css/ajustes-index.css" />
+    <link rel="stylesheet" href="../../personas/assets/styles/css/ajustes-banners-index.css" />
+
+
+    <link rel="stylesheet" href="../assets/css/carrusel.css">
+    <link rel="stylesheet" href="../assets/css/style.css">
+
+    <!--Bootstrap-->
+    <link rel="stylesheet" href="../../bootstrap/bootstrap.css">
+
+    <!--Video-->
+    <link rel="stylesheet" href="../assets/css/03-forma-video.css">
+    <link rel="stylesheet" href="../assets/css/04-modal-youtube.css">
+
+    <!--ICONOS FONTAWESOME-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css" integrity="sha384-SZXxX4whJ79/gErwcOYf+zWLeJdY/qpuqC4cAa9rOGUstPomtqpuNWT9wdPEn2fk" crossorigin="anonymous">
+
+    <!-- Palabra del dia -->
+    <link rel="stylesheet" href="../assets/estilos-index/style.css">
+
+    <link rel="stylesheet" href="../assets/css/style-entrada-ef-v2.css">
+
+    <link rel="stylesheet" href="/NuevaVersion/modal/educacion-financiera/js/ilightbox/src/css/ilightbox.css">
+    <link rel="stylesheet" href="/components/core/css/core-lp-v2.css" type="text/css">
+
+    <style>
+        #bodyContent p a,
+        #bodyContent table a,
+        #bodyContent ul li a,
+        #bodyContent ol li a {
+            color: #ec0000 !important;
+        }
+        
+
+        #bodyContent .row-breadcrumb a {
+            color: #000 !important;
+        }
+
+        .indice li a,
+        .indice li div {
+            color: #191919 !important;
+            text-decoration: none !important;
+            cursor: pointer;
+            width: max-content;
+        }
+
+        .indice li a:hover,
+        .indice li div:hover {
+            text-decoration: underline !important;
+        }
+    </style>
+
+    <script type="application/ld+json" nonce="base">
+        {
+        "@context":"https://schema.org",
+        "@graph":[
+            {
+            "@type":"BlogPosting",
+            "mainEntityOfPage":{
+                "@type":"WebPage",
+                "@id":"https://www.santander.com.mx/educacion-financiera/blog/volatilidad-inversiones.html"
+            },
+            "name":"Qué es la volatilidad en las inversiones: por qué suben y bajan",
+            "description":"La volatilidad es la variación en el precio de un activo a lo largo del tiempo y entenderlo es clave para tomar mejores decisiones financieras.",
+            "image":"",
+            "author":{
+                "@type":"Organization",
+                "name":"Santander México"
+            },
+            "publisher":{
+                "@type":"Organization",
+                "name":"Santander México",
+                "logo":{
+                "@type":"ImageObject",
+                "url":"https://www.santander.com.mx/personas/assets/img/iconos/logo_santander_rojo.svg"
+                }
+            },
+            "inLanguage":"es-MX",
+            "datePublished":"",
+            "dateModified":""
+            },
+            {
+            "@type":"BreadcrumbList",
+            "itemListElement":[
+                {
+                "@type":"ListItem",
+                "position":1,
+                "name":"Educación financiera",
+                "item":"https://www.santander.com.mx/educacion-financiera/"
+                },
+                {
+                "@type":"ListItem",
+                "position":2,
+                "name":"Blog",
+                "item":"https://www.santander.com.mx/educacion-financiera/blog.html"
+                },
+                {
+                "@type":"ListItem",
+                "position":3,
+                "name":"Volatilidad en inversiones",
+                "item":"https://www.santander.com.mx/educacion-financiera/blog/volatilidad-inversiones.html"
+                }
+            ]
+            }
+        ]
+        }
+    </script>
+    
+    <!-- Google Tag Manager -->
+    <script src="/components/gtm/init.js"></script>
+    <!-- End Google Tag Manager -->
+
+    <!--INICIO SANDY-->
+    <!-- <script src="https://eastus.santandersandi.com/content/SANDI-MX/Chatbots/PUBLIC/va-chatbot-config.js"></> --> 
+    <!-- <script src="https://eastus.santandersandi.com/content/SANDI-MX/Chatbots/PUBLIC/taggeo.js"></script> -->
+    <!--FIN SANDY-->
+
+                                <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("True"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="5ZH62-5LEQ8-6UPKN-KG8SU-XHGG2",function(){function e(){if(!i){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,o.parentNode.appendChild(e),i=!0}}function t(e){i=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(o.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",o.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"5ZH62-5LEQ8-6UPKN-KG8SU-XHGG2";var o=document.currentScript||document.getElementsByTagName("script")[0],i=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!i)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),o.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="xwwfqcn566tfu2upyvfa-f-533f42d48-clientnsv4-s.akamaihd.net",o="false"=="true"?2:1,i={"ak.v":"41","ak.cp":"339326","ak.ai":parseInt("204785",10),"ak.ol":"0","ak.cr":24,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"13755502","ak.r":28514,"ak.a2":n,"ak.m":"b","ak.n":"essl","ak.cport":52738,"ak.gh":"189.247.166.85","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1787807050","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==WVBVFA3+L9iUKAW9/TUIK76xOaOfRfV3nPRVgNG7mDG0AHLVkiI9BqRl5NVryhmAp6MozNkf/oz8QMSZPPVgRTo4eEAgurpesZWl8OBfubU5fYvfK0HYgRPiZcf+FdodLTaRnJiVPr7cDoZ3OAuArCCXKY33096lSckJ3i5yp+z6GNJ5WYRnJtoK1ihWYnMHzcVzmbI79fgUu0emYboA1vtfsPVzmmFSH0HgOnBjiC4dzdgPqnj5tXBP/ktsXJ1zG8nbHWCWwjV5TBD3XvkSX+d+COwQ/EkCVRDLw6nuxOhiQmR1L1X0Z3T3c2qgZZgEHjCHiNb5nLRrOTcEpys06r2GEMnSJO87Hj0Ws1JtA5+ToSyKr+gFwgJtp+djxYjenXVzkLUYKvjDq9iWonH9qR2GXenRreAABSzQy7k+44g=","ak.pv":"152","ak.dpoabenc":"","ak.tf":o};if(""!==t)i["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))i["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(i)},rv:function(){var e=["ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:i,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><script >bazadebezolkohpepadr="424049369"</script><script type="text/javascript" src="https://www.santander.com.mx/akam/13/19467a6c"  defer></script></head>
+
+<body>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5ZFKJMG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!--COOKIES-->
+    <div id="cookies"></div>
+
+    <!-- HEADER -->
+    <header class="site-header push">
+        <div class="container">
+            <div class="logo-santander int">
+                <a href="../index.html"></a>
+            </div>
+            <button id="menu" class="menu-btn d-lg-block d-lg-none"></button>
+            <div id="header-interior"></div>
+        </div>
+    </header>
+
+    <!-- Pushy Menu -->
+    <nav id="pushMenu" class="pushy pushy-right" data-focus="#first-link"></nav>
+
+    <!-- Site Overlay -->
+    <div class="site-overlay"></div>
+
+    <section id="sectionContent">
+        <div id="bodyContent" class="container">
+            <div class="row row-breadcrumb">
+                <div class="col-12 px-24">
+                    <p>
+                        <a href="https://www.santander.com.mx/ir/home/">Acerca del Banco</a> >
+                        <a href="/educacion-financiera/index.html">Educación
+                            Financiera</a> >
+                        <span>Qué es la volatilidad en las inversiones: por qué suben y bajan los activos</span>
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-1 text-center d-none d-lg-block">
+                    <div class="d-flex flex-column flex-rs">
+                        <div class="mb-4">
+                            <button type="button" data-event-utag-action="actionRedesSociales" data-event-utag-label="lblWhatsapp" data-type="whatsapp" class="btn p-0 btn-rs">
+                                <img class="ico-whatsapp" src="../assets/img/ico-whatsapp.png">
+                            </button>
+                        </div>
+                        <div class="mb-4">
+                            <button type="button" data-event-utag-action="actionRedesSociales" data-event-utag-label="lblLinkedin" data-type="linkedin" class="btn p-0 btn-rs">
+                                <img class="ico-linkedin" src="../assets/img/ico-linkedin.png">
+                            </button>
+                        </div>
+                        <div class="mb-4">
+                            <button type="button" data-event-utag-action="actionRedesSociales" data-event-utag-label="lblFacebook" data-type="facebook" class="btn p-0 btn-rs">
+                                <img class="ico-facebook" src="../assets/img/ico-facebook.png">
+                            </button>
+                        </div>
+                        <div class="mb-4">
+                            <button type="button" data-event-utag-action="actionRedesSociales" data-event-utag-label="lblTwitter" data-type="twitter" class="btn p-0 btn-rs">
+                                <img class="ico-twitter" src="../assets/img/ico-twitter.png">
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-7 px-24">
+                    <h1 class="mb-4">¿Por qué suben o bajan los activos? Todo lo que debes saber sobre la volatilidad</h1>
+
+                    <p>
+                        Seguramente habrás notado que los mercados financieros nunca se quedan quietos: a veces suben, otras bajan y en muchas ocasiones parecen impredecibles. A este comportamiento se le conoce como volatilidad. Aquí te platicamos más para que puedas entenderlo, pues es clave para tomar mejores decisiones financieras y de inversión.
+                    </p>
+
+                    <div class="rs-mobile gap-5">
+                        <div class="mb-4">
+                            <button type="button" data-event-utag-action="actionRedesSociales" data-event-utag-label="lblWhatsapp" data-type="whatsapp" class="btn p-0 btn-rs">
+                                <img class="ico-whatsapp" src="../assets/img/ico-whatsapp.png">
+                            </button>
+                        </div>
+                        <div class="mb-4">
+                            <button type="button" data-event-utag-action="actionRedesSociales" data-event-utag-label="lblLinkedin" data-type="linkedin" class="btn p-0 btn-rs">
+                                <img class="ico-linkedin" src="../assets/img/ico-linkedin.png">
+                            </button>
+                        </div>
+                        <div class="mb-4">
+                            <button type="button" data-event-utag-action="actionRedesSociales" data-event-utag-label="lblFacebook" data-type="facebook" class="btn p-0 btn-rs">
+                                <img class="ico-facebook" src="../assets/img/ico-facebook.png">
+                            </button>
+                        </div>
+                        <div class="mb-4">
+                            <button type="button" data-event-utag-action="actionRedesSociales" data-event-utag-label="lblTwitter" data-type="twitter" class="btn p-0 btn-rs">
+                                <img class="ico-twitter" src="../assets/img/ico-twitter.png">
+                            </button>
+                        </div>
+                    </div>
+
+                    <p class="small">
+                        <span class="font-weight-bold pr-5">Mayo 2026</span>
+                        <span class="text-red font-weight-bold">
+                            #ParaTodos #GestiónDeFinanzas #BlogsyTips #Inversión
+                        </span>
+                    </p>
+
+                    <img class="img-banner w-100" src="/educacion-financiera/assets-educacion-financiera/img/blogs/2_volatilidad_activos.jpg" alt="Volatilidad en las inversiones">
+                    
+                    <h2 class="subtitle">¿Qué es la volatilidad?</h2>
+                    <p>
+                        La volatilidad es la variación en el precio de un activo a lo largo del tiempo. En términos simples, mide qué tanto sube o baja el valor de acciones, bonos, criptomonedas o incluso materias primas.
+                    </p>
+                    <ul>
+                        <li>Alta volatilidad: cambios rápidos y pronunciados en el precio.</li>
+                        <li>Baja volatilidad: movimientos más estables y graduales.</li>
+                    </ul>
+                    <p>
+                        Si bien la volatilidad en un activo no es algo negativo por sí mismo, debes considerar que sí implica distintos niveles de riesgo, pues uno más volátil tiende a ser más riesgoso.
+                    </p>
+
+                    <h2 class="subtitle">¿Por qué suben y bajan los activos?</h2>
+                    <p>
+                        Los precios de los activos cambian constantemente debido a diversos factores. Aquí te explicamos algunos de los principales:
+                    </p>
+                    <ol>
+                        <li>Oferta y demanda: es la base de todo mercado. Si más personas quieren comprar un activo, el precio sube. Si más personas quieren vender, el precio baja.</li>
+                        <li>Noticias e información: los mercados reaccionan rápidamente a la información nueva, como los resultados financieros de empresas, los cambios en políticas económicas o incluso eventos políticos o conflictos internacionales. Inclusive los rumores pueden llegar a ser factores que provoquen una subida o bajada del precio.</li>
+                        <li>Expectativas del mercado: muchas veces, los precios no reflejan solamente la situación actual, sino lo que los inversionistas esperan que suceda. Por ejemplo, si se anticipa que una empresa crecerá, su valor puede subir antes de que eso ocurra por la expectativa alrededor de ello.</li>
+                        <li>Factores macroeconómicos: la inflación, las tasas de interés o el crecimiento económico pueden influir directamente en el comportamiento de los activos.</li>
+                        <li>Psicología de los inversionistas: las emociones relacionadas con los factores anteriores pueden jugar también un papel importante. El miedo puede provocar ventas masivas y caídas de precios, mientras que la euforia puede impulsar compras y aumentos acelerados. Esto puede generar movimientos exagerados o burbujas.</li>
+                    </ol>
+
+                    <h2 class="subtitle">Tipos de activos y su volatilidad</h2>
+                    <p>
+                        No todos los activos se comportan igual. Los de renta fija, como bonos, suelen ser menos volátiles, mientras que los activos de renta variable, como las acciones, presentan mayor volatilidad. Otro ejemplo son las criptomonedas, que son activos más riesgosos y típicamente altamente volátiles. Esto no necesariamente significa que un activo sea mejor que otro, pues eso depende de distintos factores (tanto del activo como de tu perfil de inversionista), pero sí implica que cada uno responde de manera distinta frente a los desarrollos del mercado.
+                    </p>
+
+                    <h2 class="subtitle">Entonces, ¿la volatilidad es buena o mala?</h2>
+                    <p>
+                        Depende de cómo lo veas. Una bajada de precios puede significar una oportunidad para "comprar barato" y lograr una ganancia al vender más caro en el futuro, pero si el activo es volátil, su valor puede fluctuar mucho, lo cual es más riesgoso si tu objetivo es una inversión más previsible y estable. Independientemente de tu perfil de riesgo como inversionista o tus diferentes objetivos y plazos para lograrlos, lo importante es entender que la volatilidad es una característica natural de los mercados, no una anomalía.
+                    </p>
+                    <p>Algunas estrategias útiles para manejarla incluyen:</p>
+                    <ul>
+                        <li>Diversificar: no poner todo tu dinero en un solo activo.</li>
+                        <li>Invertir con objetivos de largo plazo: ayuda a reducir el impacto de las fluctuaciones.</li>
+                        <li>Evitar decisiones emocionales: no comprar o vender solo por miedo o impulso.</li>
+                        <li>Tener un plan: definir objetivos claros desde el inicio.</li>
+                    </ul>
+                    <p>
+                        Los activos suben y bajan por múltiples factores y, si bien la volatilidad no se puede eliminar, sí se puede entender y gestionar con información y una estrategia adecuada.
+                    </p>
+                    <p>
+                        La información aquí presentada es genérica y se proporciona únicamente con fines informativos. No constituye, ni debe interpretarse como, una oferta, invitación, sugerencia o recomendación para adquirir o vender valores o para contratar productos o servicios financieros, ni como asesoría personalizada de inversión. El desempeño pasado de cualquier instrumento no garantiza rendimientos futuros. Cada lector debe evaluar de manera independiente la conveniencia de cualquier inversión.
+                    </p>
+                </div>
+                <div class="col-1 d-none d-lg-block"></div>
+                <div class="col-12 col-lg-3 px-24">
+                    <div class="d-none d-lg-block">
+                        <h4 class="mb-4">Los temas que nos mueven</h4>
+                        <a href="../index.html?categoria=ParaTodos" data-event-utag-action="banner" data-event-utag-label="slideTreceC" class="badge badge-pill badge-secondary"><span>#ParaTodos</span></a>
+                        <a href="../index.html?categoria=GestionDeFinanzas" data-event-utag-action="banner" data-event-utag-label="slideTreceC" class="badge badge-pill badge-secondary"><span>#GestiónDeFinanzas</span></a>
+                        <a href="../index.html?categoria=BlogsyTips" data-event-utag-action="banner" data-event-utag-label="slideTreceC" class="badge badge-pill badge-secondary"><span>#BlogsyTips</span></a>
+                        <a href="../index.html?categoria=Inversion" data-event-utag-action="banner" data-event-utag-label="slideTreceC" class="badge badge-pill badge-secondary"><span>#Inversión</span></a>
+                    <div id="palabra-dia">
+                        <!--Sección La palabra del día-->
+                        <div class="cajaGris">
+                            <div class="libroPalabraDia"></div>
+                            <div class="contenedorPalabraDia">
+                                <h2 class="h2RojoPalabraDia">LA PALABRA DEL DÍA</h2>
+                                <p class="tituloPalabraDia" id="palabraDia"></p>
+                                <p class="descripPalabraDia" id="significadoPalabra"></p>
+                                <div class="row">
+                                    <div class="col-12 text-center">
+                                        <a data-event-utag-action="actionPalabraDia" data-event-utag-label="lblPalabraDia" href="../diccionario.html">
+                                            <button class="btnPalabraDia">
+                                                Conoce más palabras
+                                            </button>
+                                        </a>
+                                    </div>
+                                </div>
+                                <p class="footerPalabraDia mt-3">Este material fue elaborado con informaci&oacute;n proporcionada por la <a data-event-utag-action="actionPalabraDia" data-event-utag-label="lblPalabraDiaCondusef" class="text-red" href="https://webappsos.condusef.gob.mx/EducaTuCartera/index.html" target="_blank">CONDUSEF.</a></p>
+                            </div>
+                        </div>
+                        <img class="img-vineta" src="../assets/img/Rectangle_vineta.png">
+                    </div>
+
+                    <div id="divLogoSantanderFinanzas" class="text-center pt-3 pt-lg-0">
+                        <img src="../assets/img/santander_finanzas_para_todos.png" class="img-fluid">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--Secctiion Programas educación financiera-->
+    <section style="padding: 40px 0; background-color: #f2f2f2;">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12 text-center" >
+                    <h2 class="text-center" style="font-family: 'Santander Headline'; font-weight: 700; margin-bottom: 32px;">Descubre más blogs de Educación Financiera</h2>
+                    <a href="/educacion-financiera/blog.html" style="font-family: 'Santander Text'; font-style: normal; font-weight: 700; font-size: 17px; line-height: 24px; text-align: center; color: #FFFFFF; background: #EC0000; border: 0; border-radius: 48px; padding: 12px 40px;">
+                        Conoce más
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--Finish section Programas educación financiera-->
+
+    <!--Sección Conoce más sobre Educación Financiera-->
+    <section class="seccionesCards">
+        <div class="container">
+            <div class="centraCarruseles">
+                <div class="contenedorTitleYcarrusel">
+                    <div style="width: 100%; display: flex; justify-content: center;">
+                        <h2 class="h2ConoceMasSobreEducFin">Conoce más sobre Educación Financiera</h2>
+                    </div>
+                    <div class="row mt-5">
+                        <div class="col">
+                            <div class="contenedorLogos">
+                                <img class="icoConoceMasEducFinanc" src="../assets/img/img-conoce-mas/01-abm.png" alt="abm">
+                                <img class="icoConoceMasEducFinanc" src="../assets/img/img-conoce-mas/02-condusef.png" alt="condusef">
+                                <img class="icoConoceMasEducFinanc" src="../assets/img/img-conoce-mas/03-universidades.png" alt="santander universidades">
+                                <img class="icoConoceMasEducFinanc" src="../assets/img/img-conoce-mas/04-esr.png" alt="empresa socialmente responsable">
+                                <img class="icoConoceMasEducFinanc" src="../assets/img/img-conoce-mas/05-universia.png" alt="universia">
+                                <img class="icoConoceMasEducFinanc" src="../assets/img/img-conoce-mas/06-mide.png" alt="mide">
+                                <img class="icoConoceMasEducFinanc" src="../assets/img/img-conoce-mas/07-bancomex.png" alt="banco de mexico">
+                                <img class="icoConoceMasEducFinanc" src="../assets/img/img-conoce-mas/08-ipab.png" alt="ipab">
+                                <img class="icoConoceMasEducFinanc" src="../assets/img/img-conoce-mas/09-.png" alt="santander y la sustentabilidad">
+                                <img class="icoConoceMasEducFinanc" src="../assets/img/img-conoce-mas/10-sustentable.png" alt="empresa sustentable">
+                                <img class="icoConoceMasEducFinanc" src="../assets/img/img-conoce-mas/11-mide_digital.png" alt="mide digital">
+                                <img class="icoConoceMasEducFinanc" src="../assets/img/img-conoce-mas/12-tuiio.png" alt="tuiio">
+                                <img class="icoConoceMasEducFinanc" src="../assets/img/img-conoce-mas/13-codi.png" alt="codi">
+                                <div class="icoConoceMasEducFinanc icoMobile" style="width: 150px;"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer id="footer" class="site-footer"></footer>
+
+    <!--SECCIÓN DE SCRIPTS-->
+    <div>
+        <!-- <script src="/components/core/js/core-gtm.js"></script> -->
+        <script src="/educacion-financiera/assets/js/tagging.js"></script>
+        <script src="/personas/assets/js/libs/jquery/jquery-3.6.2.min.js"></script>
+        <script src="/personas/assets/js/libs/bootstrap/bootstrap.bundle.min.js"></script>
+        <script src="/components/core/js/core-vf.js"></script>
+        
+        <script src="/educacion-financiera/assets/js/event-handlers-utag-g4.js"></script>
+        <!--Componentes reutilizables-->
+        <script src="/educacion-financiera/assets/js/header-footer-loads-blog-flat-init.js"></script>
+
+        <script src="/personas/assets/js/librerias/main-min.js"></script>
+        <script src="/personas/assets/js/librerias/plugins-min.js"></script>
+
+        <script type="text/javascript" src="/NuevaVersion/modal/educacion-financiera/js/ilightbox/src/js/ilightbox.packed.js"></script>
+        <script type="text/javascript" src="/NuevaVersion/modal/educacion-financiera/js/ilightbox/src/js/jquery.requestAnimationFrame.js"></script>
+        <script type="text/javascript" src="/NuevaVersion/modal/educacion-financiera/js/ilightbox/src/js/jquery.mousewheel.js"></script>
+        <script type="text/javascript" src="/NuevaVersion/modal/educacion-financiera/js/main.js"></script>
+
+        <script src="/educacion-financiera/assets/js/cookie-tracker-init.js"></script>
+
+        <script src="/educacion-financiera/assets/js/sliders-loader-init.js"></script>
+
+        <!--SCRIPTS GENERAL-->
+        
+        
+
+        <!-- COOKIES JS-->
+        <script src="/personas/assets/js/librerias/cookies-min.js"></script>
+
+        <!--flicky-->
+        <script src="/educacion-financiera/assets/js/flickity.js"></script>
+
+        <!--Video-->
+        <script src="/educacion-financiera/assets/js/modal-youtube.js"></script>
+
+        <script src="/educacion-financiera/assets/js/palabra-del-dia.js"></script>
+
+        <!-- Palabra del dia -->
+        <script src="/educacion-financiera/assets/js/scroll-flex-rs-init.js"></script>
+
+        <script src="/educacion-financiera/assets/js/winopen-init.js"></script>
+
+        <script src="/educacion-financiera/assets/js/cpr-loader-init.js"></script>
+
+        <script src="/educacion-financiera/assets/js/cpr-loader-init.js"></script>
+
+        <script src="/educacion-financiera/assets/js/share-facebook-legacy-init.js"></script>
+
+        <script src="/educacion-financiera/assets/js/indice-scroll-init.js"></script>
+<script src="/educacion-financiera/assets/js/share-buttons-datatype-init.js"></script>
+    </div>
+
+    <!--INICIO SANDY-->
+    <va-chatbot context='{"page_name": "main_page"}'></va-chatbot>
+    <!-- <script src="https://eastus.santandersandi.com/content/SANDI-MX/SANDI-FE/FE_V3/virtual-assistant-chatbot.min.js"></script> -->
+    <!--FIN SANDY-->
+<script type="text/javascript"  src="/mPifi72EFWQZ2TJ7DKll/ub9OXJw79cQO0cE1ca/Yy41AxIr/SRx9cAgw/b2oB"></script><noscript><img src="https://www.santander.com.mx/akam/13/pixel_19467a6c?a=dD1lMDI5MWRjY2NjOWVhOGQ0ZGVkZTBkMjAzNmMzYTE5ZGNlZDJmOTQyJmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript></body>
+
+</html>

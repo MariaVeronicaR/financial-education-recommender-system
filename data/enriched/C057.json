@@ -1,0 +1,57 @@
+{
+  "content_id": "C057",
+  "tldr": "Este contenido explica los productos bancarios básicos de ahorro y pago: cuentas a la vista, depósitos a plazo, cuentas remuneradas y cuentas de pago básicas, así como el funcionamiento de cajeros, el IBAN y las tarjetas de débito y crédito. La clave para comparar productos de ahorro es fijarse en la rentabilidad (interés/TAE), las comisiones y la liquidez o disponibilidad del dinero. También advierte sobre los riesgos de las tarjetas de crédito, que suelen tener intereses muy elevados si no se paga el saldo total cada mes.",
+  "key_points": [
+    "Las cuentas a la vista (corrientes o de ahorro) permiten disponer del dinero en cualquier momento, pero suelen ser poco rentables y pueden llevar comisiones de mantenimiento.",
+    "Los depósitos a plazo ofrecen un interés mayor que las cuentas a la vista a cambio de comprometer el dinero durante un plazo fijo, con penalización por retiro anticipado.",
+    "Las cuentas remuneradas pagan un interés superior y permiten disponer del dinero, pero pueden tener restricciones como no permitir domiciliar nóminas o recibos.",
+    "El IBAN es un código de 24 caracteres (2 letras y 22 números) que identifica de forma estandarizada una cuenta bancaria, incluyendo país, entidad, oficina y número de cuenta.",
+    "La tarjeta de crédito permite comprar ahora y pagar después, pero si no se liquida el saldo total cada mes se aplican intereses muy elevados y es fácil endeudarse en exceso."
+  ],
+  "quiz": [
+    {
+      "question": "Quieres ahorrar dinero y que te dé algo de rentabilidad, pero necesitas poder retirarlo en cualquier momento sin penalización. ¿Qué producto encaja mejor con tu necesidad?",
+      "options": [
+        "Un depósito a plazo",
+        "Una cuenta remunerada",
+        "Una tarjeta de crédito",
+        "Un cajero automático"
+      ],
+      "correct_index": 1,
+      "explanation": "La cuenta remunerada ofrece un interés superior al habitual y permite disponer del dinero en cualquier momento, a diferencia del depósito a plazo, que penaliza el retiro anticipado.",
+      "concept_id": "C08"
+    },
+    {
+      "question": "Un depósito a plazo ofrece más interés que una cuenta a la vista. ¿Cuál es el principal 'coste' u obligación que asumes al contratarlo?",
+      "options": [
+        "No puedes domiciliar recibos",
+        "Debes pagar una comisión de mantenimiento cada mes",
+        "El dinero queda comprometido durante un plazo fijo y retirarlo antes suele conllevar penalización",
+        "Pierdes la garantía del banco sobre tu dinero"
+      ],
+      "correct_index": 2,
+      "explanation": "El depósito a plazo inmoviliza tu dinero durante un tiempo fijo a cambio de un mayor interés; retirarlo antes del plazo contratado suele implicar una penalización, lo que reduce su liquidez.",
+      "concept_id": "C02"
+    },
+    {
+      "question": "Estás comparando dos tarjetas de crédito para tus compras. Según el contenido, ¿qué aspecto debes vigilar especialmente para no endeudarte en exceso?",
+      "options": [
+        "El número de dígitos del IBAN",
+        "Que el banco no te llame pidiendo el número secreto",
+        "El interés que se aplica si no pagas el saldo total cada mes",
+        "Que la tarjeta permita recargar el móvil"
+      ],
+      "correct_index": 2,
+      "explanation": "Las tarjetas de crédito con cuota fija son de los créditos más caros: si no se liquida el saldo total cada mes se pagan intereses muy elevados, por eso es fácil endeudarse en exceso.",
+      "concept_id": "C09"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 9323,
+    "input_tokens": 3651,
+    "output_tokens": 1058
+  }
+}

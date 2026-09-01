@@ -1,0 +1,613 @@
+{
+  "content_id": "C103",
+  "title": "El accionista de una compañía cotizada",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "I. Introducción"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si ya ha invertido en acciones o está planeando hacerlo, esta guía es para usted.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En ella podrá conocer sus derechos y las responsabilidades asociadas a la condición de accionista.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En el primer bloque se tratan cuestiones generales, como las implicaciones que tiene ser accionista de una compañía cotizada, los derechos y obligaciones de los accionistas y las ventajas y riesgos que todo ello conlleva.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A continuación se explican los órganos de gobierno de las compañías y su interés para el pequeño inversor.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "También encontrará indicaciones sobre las principales operaciones que le pueden afectar como accionista (ampliaciones de capital, fusiones y ofertas públicas de adquisición –opas-), y las alternativas con las que cuentan los inversores en estos casos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por último, se trata un tema clave, como es el derecho de información de los accionistas y la obligación de transparencia de las sociedades cotizadas. En la guía se indica dónde obtener información sobre su compañía o cómo valorar si sigue las recomendaciones sobre buen gobierno corporativo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque hay otros temas que podrían desarrollarse en relación con los derechos y responsabilidades de los accionistas, las respuestas que encontrará en estas páginas son un buen comienzo para moverse con confianza en el mundo de las sociedades cotizadas.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. Cuestiones generales"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1. ¿Qué significa ser accionista?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Invertir en acciones supone convertirse en copropietario de una sociedad, en la parte proporcional a la participación adquirida. Por tanto, el rendimiento de la inversión irá ligado a la evolución de la cotización y al reparto de beneficios de la sociedad. A diferencia de lo que ocurre con los productos clásicos de renta fija, la rentabilidad de una acción no está fijada de antemano.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En una sociedad se pueden encontrar dos grandes grupos de accionistas: los de referencia y los minoritarios.",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Se consideran accionistas de referencia los que cuentan con un porcentaje de participación que les permite intervenir o influir en la gestión de la compañía.",
+        "En cambio los accionistas minoritarios tienen escasa o nula capacidad de influir en la compañía, salvo que actúen de forma agrupada."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En general, ambos grupos de accionistas gozan de los mismos derechos, aunque sus intereses no siempre tienen que ser coincidentes.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "2. ¿Cuáles son sus derechos como accionista?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Derechos económicos"
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Derecho al dividendo: Es la parte del beneficio que la Junta general de accionistas decide repartir, a propuesta del Consejo de Administración. Las compañías cotizadas suelen hacer pública la política de dividendos poniéndola a disposición de los inversores.",
+        "Derecho de suscripción preferente: Cuando una sociedad lleva a cabo una ampliación de capital, o emite obligaciones convertibles en acciones, los accionistas gozan de preferencia en la suscripción de las nuevas acciones u obligaciones. Este derecho se negocia en la bolsa. No obstante, la Junta general de accionistas puede decidir su exclusión.",
+        "Derecho a la cuota de liquidación: Si la sociedad llegara a liquidarse, los accionistas tendrían derecho a recibir la parte proporcional a su participación, después de que la compañía haya satisfecho sus obligaciones frente a los acreedores."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Derechos políticos"
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Derecho de información: El ejercicio de este derecho es fundamental para un adecuado seguimiento de las inversiones. Difícilmente podrá un accionista defender de forma responsable sus derechos si previamente no se ha informado.",
+        "Derecho de asistencia y voto en las Juntas generales de accionistas: La participación activa en las Juntas generales es un derecho y una responsabilidad del accionista. Los accionistas tienen derecho a impugnar los acuerdos adoptados por la Junta general de accionistas o por el Consejo de Administración, así como a ejercitar la acción de responsabilidad contra los administradores, en las condiciones previstas legalmente."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "3. ¿Qué ventajas tiene invertir en una compañía cotizada?"
+    },
+    {
+      "type": "paragraph",
+      "text": "La inversión en acciones de una sociedad cotizada ofrece importantes ventajas frente a la inversión en acciones no cotizadas:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Liquidez: Puesto que se negocian en un mercado regulado, para comprar o vender acciones basta con transmitir a un intermediario autorizado la orden correspondiente. Esta operativa conlleva ciertos gastos: comisiones por tramitación, corretajes y cánones de bolsa, etc. En cambio, si la compañía no cotiza es el propio inversor quien debe buscar una contraparte para su operación, lo que complica y puede encarecer notablemente la operación. Conviene destacar que no todas las sociedades cotizadas tienen la misma liquidez. Esta dependerá fundamentalmente del tamaño de la compañía y de su capital flotante (free-float). El free-float es la parte del capital social que se encuentra en manos de los pequeños inversores. En principio, las empresas de mayor tamaño y con mayor capital flotante ofrecen más liquidez.",
+        "Valoración de la compañía: El mercado asigna de forma continua un valor a las sociedades cotizadas, que se recoge en el precio de las acciones (cotización). Por el contrario, la valoración de una compañía no cotizada no está determinada por el mercado, por lo que es más difícil para el inversor estimar el precio de la acción.",
+        "Transparencia: Las sociedades cotizadas están obligadas a difundir al mercado toda la información que pueda afectar al precio de la acción, a través de su página web y de las comunicaciones que deben remitir a la CNMV. La CNMV vigila de forma permanente el cumplimiento de estas obligaciones."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "4. ¿De donde proviene el rendimiento de una acción?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El rendimiento de las acciones puede provenir de dos vías:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Reparto de dividendos entre los accionistas o entrega de acciones gratuitas.",
+        "Plusvalías o minusvalías generadas por la evolución de la cotización en el mercado. Estas plusvalías o minusvalías solo se hacen efectivas en el momento en que se vende la acción."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5. ¿Qué riesgos tiene la inversión en acciones?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los principales riesgos están vinculados a la incertidumbre sobre sus rendimientos.",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Las acciones no tienen una rentabilidad conocida ni tan siquiera predecible.",
+        "El comportamiento de la acción en el pasado no garantiza su evolución futura.",
+        "La evolución de la acción no depende sólo de la propia compañía, sino de factores ajenos como la situación de la economía, tanto nacional como internacional, la evolución de otros mercados, de los tipos de interés, de la inflación, etc. Por eso puede ocurrir que algunas compañías con buenos resultados en sus negocios no vean aumentar su valor en bolsa.",
+        "No tienen plazo de vencimiento, por lo que la inversión sólo puede deshacerse mediante la venta de las acciones."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "III. Órganos de gobierno (I): La Junta general de accionistas"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "6. ¿Qué es la Junta general de accionistas?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es el órgano de la sociedad integrado por todos sus accionistas. Se reúne para deliberar y decidir sobre los asuntos de su competencia, entre los que destacan:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Valorar la gestión de la sociedad.",
+        "Aprobar las cuentas del ejercicio anterior y la propuesta de aplicación del resultado (incluido el reparto de dividendos).",
+        "Aprobar el aumento o reducción del capital social.",
+        "Aprobar la modificación de los estatutos sociales, que rigen el funcionamiento de la compañía.",
+        "Aprobar la emisión de obligaciones u otros valores negociables.",
+        "Nombrar, ratificar y cesar a los miembros del Consejo de Administración.",
+        "Nombrar a los auditores de cuentas.",
+        "Autorizar la adquisición de acciones propias (autocartera).",
+        "Aprobar la política de remuneraciones de los consejeros y sus modificaciones.",
+        "Aprobar la fusión, escisión, o transformación de la sociedad.",
+        "Autorizar la adquisición o enajenación de activos esenciales para la sociedad así como la transferencia de actividades esenciales a entidades dependientes."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "La Junta general de accionistas puede ser ordinaria o extraordinaria.",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "La Junta ordinaria debe reunirse dentro de los seis primeros meses de cada ejercicio para tratar, al menos, la aprobación de las cuentas del ejercicio anterior, la distribución de beneficios y la gestión del Consejo de Administración.",
+        "Todas las demás reuniones de la Junta son extraordinarias."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "7. ¿Cómo puede saber si se ha convocado una Junta general de accionistas?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Los accionistas podrán encontrar información sobre la convocatoria de la Junta en:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "La página web de la sociedad de la que es accionista, dentro de la sección “Información para accionistas e inversores”.",
+        "La página web de la CNMV (www.cnmv.es) en el apartado de “Otra información relevante” o bien en el apartado “Información privilegiada”.",
+        "El anuncio de la convocatoria, que se publicará en uno de los diarios de mayor circulación en España o en el Boletín Oficial del Registro Mercantil (BORME)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En cualquier caso, la compañía de la que es accionista o la entidad financiera que custodia sus acciones deberá comunicarle la convocatoria de la Junta y su contenido.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La sociedad debe realizar la convocatoria como mínimo un mes antes de la fecha de celebración. En determinadas circunstancias, este plazo puede reducirse a 15 días cuando la Junta a celebrar tenga el carácter de extraordinaria.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La información que deberá estar a disposición de los accionistas incluirá, además del propio anuncio de la convocatoria:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "El orden del día y las propuestas de acuerdos a adoptar.",
+        "El derecho de los accionistas a solicitar información, a incluir puntos en el orden del día y a presentar propuestas de acuerdo, así como el plazo y forma de ejercicio de estos derechos.",
+        "Cualquier información relevante para los accionistas (informes de administradores, auditores, expertos independientes, etc.).",
+        "Los medios y procedimientos para delegar la representación.",
+        "Los medios y procedimientos para el ejercicio del voto a distancia.",
+        "En el caso de nombramiento, ratificación o reelección de miembros del Consejo de Administración, la identidad, el currículo, la categoría a la que pertenezca cada uno de ellos (consejeros independientes, ejecutivos o dominicales), los informes de la comisión de nombramientos y retribuciones y, cuando se trate de consejeros independientes, la propuesta elaborada por dicho comité."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Desde la publicación de la convocatoria y hasta cinco días antes de su celebración, los accionistas pueden solicitar por escrito las informaciones o aclaraciones que estimen precisas, o formular preguntas acerca de los asuntos comprendidos en el orden del día. Todas las solicitudes válidas de informaciones, aclaraciones o preguntas realizadas por escrito y las contestaciones facilitadas por escrito por los administradores, se incluirán en la página web de la sociedad.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El anuncio de la convocatoria o la página web de la sociedad detallará las direcciones de correo postal y electrónico a las que pueden dirigirse los accionistas.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "8. ¿Quién puede asistir a la Junta general de accionistas?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Con carácter general pueden asistir todos los accionistas que tengan las acciones inscritas a su nombre con una antelación, al menos, de cinco días a aquel en que haya de celebrarse la Junta. Esta circunstancia se acredita mediante la correspondiente tarjeta de asistencia, que previamente le habrá facilitado la compañía de la que es accionista, o bien la entidad financiera en la que tenga depositadas sus acciones.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Si no recibe este documento, deberá dirigirse lo antes posible a la sociedad o a su intermediario para que se lo faciliten.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los estatutos de algunas sociedades establecen un número mínimo, que no podrá ser superior a mil acciones, para poder asistir a la Junta. Los accionistas que no alcancen ese número pueden agruparse y elegir un representante.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los estatutos también podrán prever la posibilidad de asistencia a la Junta por medios telemáticos, que deberán garantizar debidamente la identidad del sujeto. En la convocatoria se describirán los plazos, formas y modo de ejercicio de los derechos de los accionistas previstos por los administradores para permitir el ordenado desarrollo de la Junta.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los accionistas que emitan sus votos a distancia deberán ser tenidos en cuenta a efectos de la constitución de la Junta como presentes.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En el reglamento de la Junta general de accionistas de la sociedad encontrará información detallada sobre estas cuestiones. Puede consultar el reglamento en la página web de la sociedad, dentro de la sección \"Información para accionistas e inversores\", así como en la página web de la CNMV (www.cnmv.es), en la sección “Consultas a registros oficiales”; “Entidades emisoras: información regulada y otra”; o en la sección “Consultas a registros oficiales”; “Búsqueda por entidades”.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "9. ¿Es posible votar por correo?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sí. Los accionistas que cumplan con los requisitos para poder asistir a la Junta pueden votar por correo postal o mediante comunicación electrónica.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Las instrucciones concretas para poder ejercer el derecho de voto por correo postal o mediante comunicación electrónica tendrán que venir especificadas en la convocatoria de cada Junta.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los accionistas pueden dirigirse a la sociedad para obtener información sobre la posibilidad y los requisitos del voto a distancia.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "10. ¿Cómo puede delegar el voto ante una Junta general?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Puede delegar el voto mediante el documento de delegación de voto que le será enviado, junto con la tarjeta de asistencia, por la propia sociedad o por la entidad financiera en la que tenga depositadas sus acciones. Suele ser habitual que las sociedades elaboren un solo documento que incluye la tarjeta de asistencia, el formulario de delegación y el de voto a distancia. Si no recibe alguno de estos documentos, debe comunicarlo lo antes posible a la sociedad o a su intermediario para que se lo faciliten.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El voto se puede delegar en otros accionistas, en terceras personas, en el presidente del Consejo de Administración o en cualquiera de sus miembros. En cualquier caso, asegúrese de que la persona a quien le otorga la delegación actuará en defensa de sus intereses.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En ocasiones, los miembros del Consejo de Administración solicitan públicamente a los accionistas que les permitan representarles en la Junta. En tal caso, el documento de delegación debe incluir el orden del día, la solicitud de instrucciones para el ejercicio del derecho de voto en cada propuesta y la indicación del sentido en el que debe votar el consejero/representante, en caso de que no se den instrucciones precisas.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los estatutos de las compañías cotizadas suelen prever que si la representación que otorga el accionista no incluye instrucciones para el ejercicio del voto o hubiera dudas sobre el destinatario o el alcance, la delegación:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Se efectúa a favor del Presidente del Consejo de Administración.",
+        "Se refiere a todas las propuestas que integran el orden del día de la Junta.",
+        "Significa el voto favorable a las propuestas."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "11. ¿Es importante participar en la Junta?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Como propietarios de la compañía, a los accionistas les corresponde decidir sobre cuestiones que, por su relevancia, han de ser debatidas y aprobadas por la Junta general de accionistas, y sobre las que ni siquiera el Consejo de Administración tiene poder de decisión.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por tanto, es importante revisar la documentación correspondiente a los temas que se tratarán en la Junta, y ejercer de forma responsable el derecho al voto.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Muchas compañías cotizadas tienen accionistas de referencia o de control que por su porcentaje de participación resultan determinantes en las decisiones sociales. Si bien esto limita la influencia de los pequeños accionistas, siempre es aconsejable intervenir en la vida societaria, ya que de lo contrario se estaría renunciando a uno de los principales derechos asociados a la inversión en acciones.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Una opción interesante para los pequeños accionistas es la posibilidad de asociarse para obtener un mayor peso en la Junta.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Así, los accionistas que representen al menos el tres por ciento del capital social podrán solicitar que se publique un complemento a la convocatoria de las Juntas generales ordinarias, incluyendo uno o más puntos en el orden del día, siempre que los nuevos puntos vayan acompañados de una justificación o, en su caso, de una propuesta de acuerdo justificada.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Este derecho deberá ejercitarse mediante comunicación fehaciente a la sociedad, que deberá recibirse en el domicilio social dentro de los cinco días siguientes a la publicación de la convocatoria. La sociedad deberá publicar el complemento, como mínimo, con quince días de antelación a la fecha establecida para la reunión de la Junta. La falta de publicación en plazo del complemento será causa de impugnación de la Junta.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Además, los accionistas que representen al menos un tres por ciento del capital social podrán, en el mismo plazo anterior, presentar propuestas fundamentadas de acuerdo sobre asuntos ya incluidos o que deban incluirse en el orden del día de la Junta convocada. La Sociedad difundirá entre el resto de accionistas estas propuestas de acuerdo y la documentación que, en su caso se adjunte, a través de su página web.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Las sociedades cotizadas están obligadas a habilitar un foro electrónico de accionistas, al que podrán acceder con las debidas garantías tanto accionistas individuales como las asociaciones de accionistas que se puedan constituir, con el fin de facilitar su comunicación con carácter previo a la celebración de las Juntas generales. En este foro se podrán publicar propuestas que pretendan presentarse como complemento del orden del día anunciado en la convocatoria, solicitudes de adhesión a tales propuestas, iniciativas para alcanzar el porcentaje suficiente para ejercer un derecho de minoría previsto en la Ley, así como ofertas o peticiones de representación voluntaria.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "IV. Órganos de gobierno (II): El Consejo de administración (CA)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "12. ¿Cómo está compuesto el Consejo de Administración?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El Consejo de Administración de una sociedad cotizada está integrado por distintas clases de consejeros: los ejecutivos, los dominicales y los independientes.",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Los consejeros ejecutivos desempeñan funciones de alta dirección o son empleados de la sociedad o de otras sociedades del mismo grupo.",
+        "Los consejeros dominicales son designados por su condición de accionistas o a propuesta de un accionista significativo.",
+        "Los consejeros independientes desempeñan sus funciones sin verse condicionados por relación alguna con el equipo gestor ni con los accionistas de referencia de la sociedad. Se eligen en atención a su capacitación profesional, solvencia y experiencia."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "La existencia de consejeros independientes debe ser valorada de forma positiva por el accionista minoritario.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "13. ¿Cuáles son las funciones del Consejo de Administración?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Al Consejo de Administración le corresponde la gestión, dirección, administración y representación de la sociedad. Esto implica el desarrollo de funciones como:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Aproblar el plan estratégico o de negocio, los objetivos de gestión y presupuesto anuales, la política de inversiones y de financiación, la política de responsabilidad social corporativa y la política de dividendos.",
+        "Determinar la política de control y gestión de riesgos, incluidos los fiscales, y la supervisión de los sistemas internos de información y control.",
+        "Determinar la política de gobierno corporativo de la sociedad y del grupo del que sea entidad dominante; su organización y funcionamiento y, en particular, la aprobación y modificación de su propio reglamento.",
+        "Convocar la Junta general de accionistas y ejecutar sus acuerdos.",
+        "Formular las cuentas anuales, el informe de gestión y la propuesta de aplicación del resultado, así como la aprobación de la información financiera que la sociedad deba hacer pública periódicamente.",
+        "Elaborar el Informe Anual de Gobierno Corporativo, que debe formar parte del Informe de Gestión que se entrega junto con las cuentas anuales.",
+        "Acordar el nombramiento y la destitución de los altos directivos que tuviesen dependencia directa del Consejo.",
+        "Aprobar las inversiones u operaciones de elevada cuantía o de carácter estratégico o especial riesgo fiscal, salvo que su aprobación corresponda a la Junta.",
+        "Definir la estructura del grupo de sociedades del que la sociedad sea entidad dominante.",
+        "Aprobar, previo informe de la comisión de auditoría, las operaciones que la sociedad o sociedades del grupo realicen con consejeros o con accionistas que tengan una participación significativa o que estén representados en el Consejo de Administración."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "V. Operaciones con acciones"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "14. ¿En qué consiste una ampliación de capital?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Son operaciones en las que la sociedad obtiene financiación aumentando sus fondos propios, mediante el incremento del valor nominal de las acciones ya existentes o mediante la emisión de nuevas acciones (lo habitual en las sociedades cotizadas).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En las ampliaciones de capital mediante la emisión de nuevas acciones, el precio podrá ser a la par (igual al valor nominal de las acciones) o con prima de emisión (superior al valor nominal).",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Un supuesto especial de ampliación de capital es aquel que se efectúa con aportaciones no dinerarias. En estos casos, al convocar la Junta debe ponerse a disposición de los accionistas un informe de los administradores, en el que se describirán con detalle las aportaciones proyectadas, su valoración (que debe ser realizada por uno o varios expertos independientes con competencia profesional), las personas que las efectúen, así como el número y valor nominal de las acciones que reciben a cambio.",
+        "Otro caso particular son las ampliaciones de capital liberadas, que constituyen una forma de retribución al accionista, en las que el aumento del capital se hace a costa de las reservas de la sociedad. Por tanto no hay aumento de los fondos propios, sino una simple reclasificación."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Las ampliaciones de capital son acordadas por la Junta general. Suelen requerir la elaboración de un folleto informativo que recoge las características de la operación, con un apartado de especial relevancia para los inversores en el que se detallan los factores de riesgo.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "15. ¿Qué son los derechos de suscripción preferente (DSP) y qué puede hacer con ellos?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Se trata de un derecho de los accionistas cuando la sociedad realiza una ampliación de capital, aunque excepcionalmente la Junta general puede excluirlo. Su finalidad es permitirles mantener el mismo porcentaje de participación en el capital social, y evitar el efecto dilución que se produciría si no se estableciese este mecanismo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los DSP son valores que cotizan en bolsa, por lo que el accionista puede:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Acudir a la ampliación de capital ejerciendo los DSP asignados.",
+        "Vender los derechos, en su totalidad o en parte.",
+        "Adquirir en bolsa más derechos de los asignados para posteriormente acudir a la ampliación e incrementar la participación en el capital."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Los DSP que no hayan sido ejercidos durante el periodo de negociación se extinguen, por lo que el titular debe estar atento al plazo durante el cual puede venderlos o ejercerlos. En caso de desconocer dicho plazo no dude en consultárselo a su intermediario financiero o a la CNMV, a través del teléfono de atención al inversor: 900535015",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En todo caso, el ejercicio del derecho de suscripción preferente ser realizará dentro del plazo concedido por los administradores de la sociedad, que no podrá ser inferior a 15 dias desde la publicación del anuncio de la oferta de suscripción de la nueva emisión en el Boletín Oficial del Registro Mercantil.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En caso de ampliaciones de capital liberadas con cargo a reservas, los accionistas reciben derechos de asignación gratuita, que funcionan igual que los DSP.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "16. ¿En qué consiste una fusión? ¿Es posible oponerse?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es una operación en la que una sociedad absorbe a otra/s, o en la que dos o más sociedades se integran para constituir una nueva. Es más habitual la primera (fusión por absorción) con el objetivo de lograr economías de escala o una mayor presencia en los mercados.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Como regla general las fusiones deben ser aprobadas por las Juntas generales de todas las sociedades participantes, por lo que son los accionistas los que en última instancia determinan si les interesa o no la operación.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Para que los accionistas puedan votar con conocimiento de causa, desde la convocatoria de la Junta tienen a su disposición, entre otros documentos, el proyecto de fusión elaborado por los administradores de las sociedades que intervienen y los informes de un experto independiente y de los administradores de cada una de las sociedades.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Como accionista tiene derecho a votar en contra de la propuesta de fusión, pero si resulta aprobada por la Junta general de accionistas la operación se llevará a cabo. En este caso usted pasará a ser accionista de la sociedad resultante, a través de un cambio automático de las acciones de la sociedad absorbida o fusionada por acciones de la sociedad absorbente o resultante. No obstante, el accionista que no hubiera votado a favor del acuerdo, tendrá derecho de separación al precio medio de cotización del último trimestre, en los casos en los que la fusión implique la sustitución o modificación sustancial del objeto social o el traslado del domicilio social al extranjero.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "17. ¿En qué consiste un desdoblamiento (split) de acciones?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El split o desdoblamiento consiste en dividir el valor nominal de las acciones en una proporción determinada y, de forma simultánea, multiplicar el número de acciones. El objetivo de esta operación es aumentar la liquidez de la acción mediante el aumento del número de acciones en circulación y de la disminución de su valor nominal. Normalmente no requiere la participación activa del accionista.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque no es frecuente, puede darse la operación contraria, que se conoce como reverse split o contra split, y supone la agrupación de acciones de forma que aumente su precio unitario. A diferencia del split, el accionista deberá cuadrar sus acciones en paquetes exactos para alcanzar el nuevo valor nominal.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "18. ¿Qué es una opa? ¿Qué alternativas tiene ante una opa?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una oferta pública de adquisición (opa) es una operación por la que una o varias personas físicas o sociedades ofrecen a todos los accionistas de una compañía cotizada la compra de sus acciones, o de otros valores que permitan adquirirlas, a cambio de un precio. Aunque suele ser en efectivo, este precio también puede ser en acciones o mixto (dinero y acciones).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los accionistas de una sociedad objeto de una opa disponen de varias opciones:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "No acudir a la opa y mantener las acciones en cartera. Esta opción no requiere actuación alguna por parte del accionista.",
+        "Aceptar la oferta. En este caso debe transmitir a su intermediario financiero su intención de acudir a la opa.",
+        "No aceptar la oferta y vender las acciones en el mercado, para lo que debe transmitir a su intermediario financiero la correspondiente orden de venta."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Por las importantes consecuencias que puede tener, conviene prestar especial atención a las opas de exclusión, que tienen como finalidad que una sociedad deje de cotizar en bolsa. En estos casos no acudir a la opa y mantener las acciones implica convertirse en accionista de una compañía no cotizada, lo que supone pérdida de liquidez del valor, escasa transparencia de la compañía por las menores obligaciones de difusión de información, etc.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El squeeze-out y el sell-out son operaciones que pueden tener lugar en el contexto de una opa cuando se cumplen determinados requisitos: en el primer caso el oferente puede exigir a los accionistas la venta de sus acciones y en el segundo los accionistas pueden exigir al oferente la compra de estas, en ambos casos al precio de opa.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Acudir a una opa es siempre voluntario.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "VI. El derecho a la información"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "19. ¿Dónde puede obtener información de una compañía?"
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:35:26.343586+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 40008,
+    "input_tokens": 9658,
+    "output_tokens": 16000
+  }
+}

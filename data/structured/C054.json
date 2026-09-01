@@ -1,0 +1,31 @@
+{
+  "content_id": "C054",
+  "title": "Protégete contra el fraude",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Protégete contra el fraude"
+    },
+    {
+      "type": "paragraph",
+      "text": "La digitalización de los servicios y productos bancarios es una realidad cada vez más común y, como usuarios, nos es de utilidad conocer sus oportunidades y también los nuevos riesgos que pueden surgir. El Portal del Cliente Bancario publica posts relativos al fraude por internet:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Consejos de la Policía Nacional:",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:14:39.916357+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 1469,
+    "input_tokens": 1794,
+    "output_tokens": 314
+  }
+}

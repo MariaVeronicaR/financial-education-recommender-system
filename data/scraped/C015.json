@@ -1,0 +1,113 @@
+{
+  "content_id": "C015",
+  "url": "https://www.finanzasparatodos.es/glosario",
+  "source": "Finanzas para Todos",
+  "host": "www.finanzasparatodos.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 50383
+  },
+  "title": "Glosario - Finanzas para todos",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Glosario"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Glosario",
+      "start": 0,
+      "end": 2310,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Glosario"
+    },
+    {
+      "type": "glossary",
+      "entries": [
+        {
+          "term": "A la par",
+          "definition": "Este término se aplica sobre todo a acciones y valores de renta fija. Un título se emite o negocia a la par cuando el precio efectivo coincide con su valor nominal. Ver VALOR NOMINAL."
+        },
+        {
+          "term": "Abono en cuenta",
+          "definition": "Es un ingreso, es decir, la anotación de una cantidad de dinero en el haber de una cuenta. Ese abono puede hacerse en efectivo, por cheque, por transferencia..."
+        },
+        {
+          "term": "Acción",
+          "definition": "Valor mobiliario que representa una parte proporcional del capital social de una sociedad. Quien tiene acciones es, por tanto, socio propietario de una empresa en proporción a su participación. El accionista es siempre el último en cobrar en caso de liquidación de la compañía (después de los trabajadores, los acreedores y los propietarios de bonos u obligaciones). Ver DIVIDENDO y DERECHO DE ASISTENCIA Y VOTO."
+        },
+        {
+          "term": "Accionista",
+          "definition": "Es el titular de acciones, el co-propietario de una empresa. Ver ACCIÓN."
+        },
+        {
+          "term": "Accionista minoritario",
+          "definition": "Término utilizado para designar al pequeño accionista en general, es decir a aquellos accionistas que tienen escasa o nula capacidad de influir en la compañía (salvo que actúen de forma agrupada)."
+        },
+        {
+          "term": "Acreedor",
+          "definition": "Persona física o jurídica a quien se le debe dinero. El acreedor ostenta un derecho de cobro o de crédito contra un deudor."
+        },
+        {
+          "term": "Activo",
+          "definition": "Desde el punto de vista de una sociedad, los activos, son el conjunto de sus bienes (inmuebles, mercaderías...) y derechos de cobro (lo que le deben)."
+        },
+        {
+          "term": "Activo fijo",
+          "definition": "También denominado inmovilizado. Está integrado por los bienes y derechos de una empresa que no están destinados a la venta, sino a asegurar su funcionamiento y continuidad. Este tipo de activo se caracteriza por su permanencia en la empresa durante un periodo largo, normalmente superior a doce meses. Estos activos se amortizan durante toda la vida del bien."
+        },
+        {
+          "term": "Activo financiero",
+          "definition": "Valor que acredita la titularidad de determinados derechos económicos (acciones, dinero en efectivo, depósitos, valores de renta fija...)."
+        },
+        {
+          "term": "Activo sin riesgo",
+          "definition": "Activo financiero con un rendimiento conocido y cierto, emitido por una entidad u organismo sobre cuya capacidad para cumplir con sus obligaciones de pago no existen dudas. Tradicionalmente, el activo sin riesgo se asocia a la deuda pública a corto plazo emitida por los países desarrollados (por ejemplo, una Letra del Tesoro)."
+        }
+      ]
+    }
+  ],
+  "text": "Glosario\n- A la par\n- Este término se aplica sobre todo a acciones y valores de renta fija. Un título se emite o negocia a la par cuando el precio efectivo coincide con su valor nominal. Ver VALOR NOMINAL.\n- Abono en cuenta\n- Es un ingreso, es decir, la anotación de una cantidad de dinero en el haber de una cuenta. Ese abono puede hacerse en efectivo, por cheque, por transferencia...\n- Acción\n- Valor mobiliario que representa una parte proporcional del capital social de una sociedad. Quien tiene acciones es, por tanto, socio propietario de una empresa en proporción a su participación. El accionista es siempre el último en cobrar en caso de liquidación de la compañía (después de los trabajadores, los acreedores y los propietarios de bonos u obligaciones). Ver DIVIDENDO y DERECHO DE ASISTENCIA Y VOTO.\n- Accionista\n- Es el titular de acciones, el co-propietario de una empresa. Ver ACCIÓN.\n- Accionista minoritario\n- Término utilizado para designar al pequeño accionista en general, es decir a aquellos accionistas que tienen escasa o nula capacidad de influir en la compañía (salvo que actúen de forma agrupada).\n- Acreedor\n- Persona física o jurídica a quien se le debe dinero. El acreedor ostenta un derecho de cobro o de crédito contra un deudor.\n- Activo\n- Desde el punto de vista de una sociedad, los activos, son el conjunto de sus bienes (inmuebles, mercaderías...) y derechos de cobro (lo que le deben).\n- Activo fijo\n- También denominado inmovilizado. Está integrado por los bienes y derechos de una empresa que no están destinados a la venta, sino a asegurar su funcionamiento y continuidad. Este tipo de activo se caracteriza por su permanencia en la empresa durante un periodo largo, normalmente superior a doce meses. Estos activos se amortizan durante toda la vida del bien.\n- Activo financiero\n- Valor que acredita la titularidad de determinados derechos económicos (acciones, dinero en efectivo, depósitos, valores de renta fija...).\n- Activo sin riesgo\n- Activo financiero con un rendimiento conocido y cierto, emitido por una entidad u organismo sobre cuya capacidad para cumplir con sus obligaciones de pago no existen dudas. Tradicionalmente, el activo sin riesgo se asocia a la deuda pública a corto plazo emitida por los países desarrollados (por ejemplo, una Letra del Tesoro).",
+  "text_len": 2310,
+  "num_headings": 1,
+  "metadata": {
+    "title": "Glosario - Finanzas para todos",
+    "url": "https://www.finanzasparatodos.es/glosario?mdrv=www.finanzasparatodos.es",
+    "hostname": "finanzasparatodos.es",
+    "sitename": "finanzasparatodos.es",
+    "date": "2024-01-01",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Glosario de términos financieros",
+    "topic": "planificación",
+    "subtopic": "terminología",
+    "difficulty": "básico",
+    "format": "glosario web",
+    "summary": "Definiciones claras de términos financieros habituales",
+    "learning_objective": "Comprender la terminología financiera"
+  },
+  "deduped_from": null
+}

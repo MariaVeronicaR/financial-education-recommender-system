@@ -1,0 +1,57 @@
+{
+  "content_id": "C079",
+  "tldr": "La inflación es el aumento generalizado de los precios, lo que reduce el poder adquisitivo del dinero; la deflación, en cambio, es la caída prolongada de precios y puede frenar el consumo y la inversión. Ambos fenómenos afectan tu capacidad de ahorro y compra. Para protegerte de la inflación, conviene invertir en instrumentos financieros que generen rendimientos superiores a la tasa de inflación, como los fondos de inversión.",
+  "key_points": [
+    "La inflación es el aumento generalizado de los precios de bienes y servicios a lo largo del tiempo, lo que reduce el poder adquisitivo del dinero.",
+    "La deflación es la caída prolongada de los precios; aunque parezca positiva, puede frenar el consumo, la inversión y el empleo.",
+    "Con inflación, necesitas más dinero para cubrir tus gastos básicos y tu ahorro en una cuenta sin rendimientos pierde valor real.",
+    "Para protegerte de la inflación, invierte en instrumentos que generen rendimientos superiores a la tasa de inflación, como fondos de inversión.",
+    "Tomar decisiones financieras informadas ayuda a preservar el poder adquisitivo de tus ahorros frente a la inflación y la deflación."
+  ],
+  "quiz": [
+    {
+      "question": "Si notas que la tortilla, el pan y el transporte público cuestan más que hace unos meses, ¿qué fenómeno económico estás observando?",
+      "options": [
+        "Deflación, porque los precios suben",
+        "Inflación, porque hay un aumento generalizado de los precios",
+        "Estanflación, porque tu salario no sube",
+        "Recesión, porque compras menos"
+      ],
+      "correct_index": 1,
+      "explanation": "La inflación se define precisamente como el aumento generalizado de los precios de bienes y servicios a lo largo del tiempo, lo que reduce el poder adquisitivo del dinero.",
+      "concept_id": "C07"
+    },
+    {
+      "question": "¿Por qué la deflación puede ser un problema para la economía, aunque los precios bajen?",
+      "options": [
+        "Porque hace que el dinero valga más y todos ahorren más",
+        "Porque al esperar precios más bajos, las personas retrasan compras, frenando el consumo y la inversión",
+        "Porque siempre reduce el empleo de forma inmediata en todos los sectores",
+        "Porque elimina por completo el valor de los ahorros"
+      ],
+      "correct_index": 1,
+      "explanation": "Si la gente espera que los precios sigan bajando, retrasa compras importantes, lo que afecta a los negocios y reduce el consumo, la inversión y las oportunidades laborales.",
+      "concept_id": "C07"
+    },
+    {
+      "question": "¿Cuál es la estrategia clave para proteger tus ahorros frente a la inflación?",
+      "options": [
+        "Mantener el dinero en efectivo guardado en casa",
+        "Dejar el dinero en una cuenta sin generar rendimientos",
+        "Invertir en instrumentos financieros que generen rendimientos superiores a la tasa de inflación",
+        "Gastar todo el dinero antes de que suban los precios"
+      ],
+      "correct_index": 2,
+      "explanation": "Invertir en instrumentos como fondos de inversión que rinden por encima de la inflación permite que tu dinero conserve o incluso supere su capacidad de compra a lo largo del tiempo.",
+      "concept_id": "C07"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 6447,
+    "input_tokens": 2305,
+    "output_tokens": 947
+  }
+}

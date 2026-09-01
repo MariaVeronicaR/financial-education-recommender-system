@@ -1,0 +1,57 @@
+{
+  "content_id": "C074",
+  "tldr": "Esta herramienta permite planificar la jubilación estimando cuánto dinero podrás recibir al mes y al año si comienzas a invertir una cantidad anual determinada. Para ello pide datos antes de jubilarte (edad, edad de retiro, aportación inicial y anual, y tipo de interés) y después de jubilarte (número de años para disfrutar del dinero y tipo de interés). El resultado muestra el importe anual y mensual que podrás obtener de tus ahorros acumulados.",
+  "key_points": [
+    "La calculadora estima el ingreso mensual y anual que podrás obtener en la jubilación a partir de tus aportaciones e inversiones.",
+    "Antes de jubilarte se necesitan la edad, la edad de retiro, la aportación inicial, la aportación anual y el tipo de interés de tus ahorros.",
+    "Después de jubilarte, el número de años que deben durar los ahorros y el tipo de interés determinan cuánto recibirás cada mes y cada año.",
+    "La herramienta sirve para conocer la brecha entre los ingresos esperados y lo que necesitarás durante la jubilación.",
+    "Es una herramienta de planificación financiera: cuanto antes empieces a aportar y mayor sea el interés, mayor será el importe disponible."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cuál es el objetivo principal de esta calculadora de jubilación?",
+      "options": [
+        "Calcular el impuesto que pagarás al retirarte",
+        "Estimar cuánto dinero podrás recibir al mes y al año en tu jubilación según tus aportaciones",
+        "Elegir el mejor fondo de inversión del mercado",
+        "Comparar diferentes planes de pensiones de bancos"
+      ],
+      "correct_index": 1,
+      "explanation": "La herramienta permite conocer cuánto dinero podrás obtener al mes y al año si comienzas a invertir anualmente una determinada cantidad.",
+      "concept_id": "C16"
+    },
+    {
+      "question": "¿Qué datos se necesitan introducir para el periodo ANTES de jubilarte?",
+      "options": [
+        "Solo la edad y la edad de retiro",
+        "Aportación inicial, aportación anual, tipo de interés, edad y edad de retiro",
+        "Únicamente el número de años para disfrutar del dinero",
+        "La pensión pública y los impuestos"
+      ],
+      "correct_index": 1,
+      "explanation": "Antes de jubilarte debes indicar edad, edad de retiro, aportación inicial, aportación anual y el tipo de interés que reciben tus ahorros.",
+      "concept_id": "C06"
+    },
+    {
+      "question": "¿Qué papel juega el 'número de años para disfrutar del dinero' tras la jubilación?",
+      "options": [
+        "Determina cuántos años deben durar los ahorros acumulados y, por tanto, el importe que recibes cada mes",
+        "Es el periodo de tiempo en el que sigues haciendo aportaciones anuales",
+        "Indica cuánto tiempo debes esperar antes de poder retirarte",
+        "Es el plazo de amortización de un préstamo hipotecario"
+      ],
+      "correct_index": 0,
+      "explanation": "Después de jubilarte, ese dato indica cuántos años deben durar tus ahorros, lo que influye directamente en el importe mensual y anual que recibes.",
+      "concept_id": "C23"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5263,
+    "input_tokens": 1526,
+    "output_tokens": 919
+  }
+}

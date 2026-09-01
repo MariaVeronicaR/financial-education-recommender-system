@@ -1,0 +1,101 @@
+{
+  "content_id": "C049",
+  "url": "https://www.finanzasparatodos.es/interes-simple-e-interes-compuesto-sabes-que-es-cada-uno",
+  "source": "Finanzas para Todos",
+  "host": "www.finanzasparatodos.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 41936
+  },
+  "title": "Interés simple e interés compuesto",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Interés simple e interés compuesto: ¿sabes qué es cada uno?"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Interés simple e interés compuesto: ¿sabes qué es cada uno?",
+      "start": 0,
+      "end": 2154,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Interés simple e interés compuesto: ¿sabes qué es cada uno?"
+    },
+    {
+      "type": "paragraph",
+      "text": "09/03/2023\nDepósitos, acciones, fondos, préstamos… Ligado a estos productos y servicios encontramos los tipos de interés, de los que existen distintas modalidades. Hoy nos detenemos en el tipo de interés simple y en el compuesto. ¿Has oído hablar de ellos?\nLa diferencia básica entre ellos es que, en operaciones a interés simple, los intereses no se suman al capital; mientras que, a interés compuesto, los intereses se suman al capital inicial para producir nuevos intereses.\nInterés simple: el dinero que generan los intereses se calcula solo sobre el capital invertido al inicio (principal), por lo que el interés que se obtiene en cada periodo es siempre el mismo.\nInterés compuesto: el capital inicial va creciendo en cada periodo porque se van sumando los intereses, de esta forma, la tasa de interés se aplica sobre un capital que va aumentando. Eso significa que los intereses aumentan en cada periodo.\nUn ejemplo\nComo siempre, lo más fácil para entender la diferencia es un ejemplo práctico. Pongamos que tenemos un préstamo de 1.000 euros, con devolución de capital dos años después al 3% de tipo de interés anual.\nInterés simple: los intereses se liquidan al final de cada año, 30 euros cada año.\nInterés compuesto: los intereses del primer año se suman al principal:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Intereses del primer año: 3% de 1.000 euros = 30 euros",
+        "Intereses del segundo año: 3% de 1.030 euros = 30,9 euros",
+        "Intereses totales a pagar al final del segundo año: 30+30,9 = 60,9 euros"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Si lo que tenemos es una inversión de 1.000€ a una tasa de interés compuesto del 5% en un periodo de 5 años, el primer año nos habrá rentado 50€. El segundo, el interés se calcula sobre el capital inicial más la rentabilidad obtenida en ese primer año, es decir, sobre 1.050 euros, por lo que los intereses generados el segundo año serán de 52,50 euros. El tercer año esa cantidad sería de 55,13 euros. Y así sucesivamente.\nEsta misma inversión con un interés simple del 5% anual en un periodo de 5 años generaría unos intereses de 50 euros cada año."
+    },
+    {
+      "type": "paragraph",
+      "text": "Categorías"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Productos y operaciones bancarias",
+        "Ahorro e inversión"
+      ]
+    }
+  ],
+  "text": "Interés simple e interés compuesto: ¿sabes qué es cada uno?\n09/03/2023\nDepósitos, acciones, fondos, préstamos… Ligado a estos productos y servicios encontramos los tipos de interés, de los que existen distintas modalidades. Hoy nos detenemos en el tipo de interés simple y en el compuesto. ¿Has oído hablar de ellos?\nLa diferencia básica entre ellos es que, en operaciones a interés simple, los intereses no se suman al capital; mientras que, a interés compuesto, los intereses se suman al capital inicial para producir nuevos intereses.\nInterés simple: el dinero que generan los intereses se calcula solo sobre el capital invertido al inicio (principal), por lo que el interés que se obtiene en cada periodo es siempre el mismo.\nInterés compuesto: el capital inicial va creciendo en cada periodo porque se van sumando los intereses, de esta forma, la tasa de interés se aplica sobre un capital que va aumentando. Eso significa que los intereses aumentan en cada periodo.\nUn ejemplo\nComo siempre, lo más fácil para entender la diferencia es un ejemplo práctico. Pongamos que tenemos un préstamo de 1.000 euros, con devolución de capital dos años después al 3% de tipo de interés anual.\nInterés simple: los intereses se liquidan al final de cada año, 30 euros cada año.\nInterés compuesto: los intereses del primer año se suman al principal:\n- Intereses del primer año: 3% de 1.000 euros = 30 euros\n- Intereses del segundo año: 3% de 1.030 euros = 30,9 euros\n- Intereses totales a pagar al final del segundo año: 30+30,9 = 60,9 euros\nSi lo que tenemos es una inversión de 1.000€ a una tasa de interés compuesto del 5% en un periodo de 5 años, el primer año nos habrá rentado 50€. El segundo, el interés se calcula sobre el capital inicial más la rentabilidad obtenida en ese primer año, es decir, sobre 1.050 euros, por lo que los intereses generados el segundo año serán de 52,50 euros. El tercer año esa cantidad sería de 55,13 euros. Y así sucesivamente. \nEsta misma inversión con un interés simple del 5% anual en un periodo de 5 años generaría unos intereses de 50 euros cada año. \n \nCategorías\n- Productos y operaciones bancarias\n- Ahorro e inversión",
+  "text_len": 2154,
+  "num_headings": 1,
+  "metadata": {
+    "title": "Interés simple e interés compuesto",
+    "url": "https://www.finanzasparatodos.es/interes-simple-e-interes-compuesto-sabes-que-es-cada-uno?utm_source=chatgpt.com",
+    "hostname": "finanzasparatodos.es",
+    "description": "Interés simple e interés compuesto",
+    "sitename": "finanzasparatodos.es",
+    "date": "2023-03-09",
+    "tags": [
+      "Interés simple e interés compuesto"
+    ],
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Concepto de interés simple y compuesto",
+    "topic": "interés",
+    "subtopic": "conceptos",
+    "difficulty": "básico",
+    "format": "artículo web",
+    "summary": "Definición y ejemplos de interés simple y compuesto",
+    "learning_objective": "Diferenciar interés simple e interés compuesto"
+  },
+  "deduped_from": null
+}

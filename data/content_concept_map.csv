@@ -1,0 +1,123 @@
+content_id,concept_id,coverage_type,evidence_note
+C001,C01,directa,Concepto principal inferido del topic planificación
+C002,C01,directa,Concepto principal inferido del topic planificación
+C003,C01,directa,Concepto principal inferido del topic planificación
+C004,C12,directa,La guía introduce fundamentos de inversión
+C005,C23,directa,Trata ahorro para jubilación y planes a largo plazo
+C006,C08,directa,Concepto principal inferido del topic cuentas bancarias
+C007,C11,directa,Concepto principal inferido del topic hipotecas
+C008,C03,directa,Concepto principal inferido del topic deuda
+C009,C03,directa,Concepto principal inferido del topic deuda
+C010,C23,directa,Trata preparación de jubilación y ahorro previsional
+C011,C08,directa,Concepto principal inferido del topic cuentas bancarias
+C012,C11,directa,Concepto principal inferido del topic hipotecas
+C013,C16,directa,Planificación financiera familiar
+C014,C12,directa,Concepto principal inferido del topic inversión
+C015,C28,directa,Glosario general de términos financieros
+C016,C28,directa,Página genérica de herramientas financieras
+C017,C08,directa,Concepto principal inferido del topic cuentas bancarias
+C018,C02,directa,Depósitos a plazo como producto de ahorro
+C019,C09,directa,Explica tarjetas de crédito y débito
+C020,C09,directa,Explica el crédito revolving y su coste
+C021,C04,directa,Explica crédito al consumo
+C021,C10,directa,Explica préstamos personales
+C022,C11,directa,Concepto principal inferido del topic hipotecas
+C023,C11,directa,Concepto principal inferido del topic hipotecas
+C024,C11,directa,Concepto principal inferido del topic hipotecas
+C025,C18,directa,Explica comisiones bancarias
+C026,C19,directa,Explica tipos de interés como coste efectivo
+C027,C11,directa,Concepto principal inferido del topic hipotecas
+C028,C15,directa,Concepto principal inferido del topic fraude
+C029,C15,directa,Concepto principal inferido del topic fraude
+C030,C15,directa,Concepto principal inferido del topic fraude
+C031,C04,directa,Explica coste/TAE de un préstamo personal
+C031,C19,directa,Explica la TAE
+C032,C19,directa,Explica la TAE de un préstamo hipotecario
+C033,C19,directa,Explica el tipo de interés efectivo (TAE)
+C034,C04,directa,Explica coste financiero del crédito
+C034,C10,directa,Explica coste financiero de un préstamo
+C036,C12,directa,Tutorial CNMV sobre perfiles de inversor: riesgo y decisiones de inversión
+C039,C26,directa,Explica qué son y cómo funcionan los fondos
+C041,C13,directa,Explica riesgo
+C041,C14,directa,Explica diversificación
+C042,C15,directa,Concepto principal inferido del topic fraude
+C047,C02,directa,Concepto principal inferido del topic ahorro
+C048,C02,directa,Concepto principal inferido del topic ahorro
+C049,C05,directa,Introduce interés simple
+C049,C06,directa,Introduce interés compuesto
+C050,C21,directa,Explica retenciones e IRPF en la nómina
+C051,C21,directa,Explica conceptos básicos de impuestos/IRPF
+C052,C22,directa,Explica tipos y coberturas de seguros
+C053,C29,directa,Explica protección de datos en operaciones financieras
+C054,C15,directa,Explica phishing y fraude
+C054,C29,directa,Explica protección de datos
+C055,C30,directa,Explica criterios ESG y finanzas sostenibles
+C056,C27,directa,Explica riesgos de criptoactivos
+C056,C24,directa,Presenta criptoactivos como clase de activo
+C057,C02,directa,Concepto principal inferido del topic ahorro
+C058,C09,directa,Concepto principal inferido del topic tarjetas
+C059,C11,directa,Concepto principal inferido del topic hipotecas
+C060,C11,directa,Explica referencia de tipos hipotecarios
+C061,C28,directa,Manual introductorio de educación financiera para universitarios
+C062,C12,directa,Introduce competencias para invertir
+C063,C12,directa,Introduce conceptos básicos de inversión
+C064,C15,directa,Concepto principal inferido del topic fraude
+C065,C15,directa,Concepto principal inferido del topic fraude
+C066,C15,directa,Concepto principal inferido del topic fraude
+C067,C15,directa,Concepto principal inferido del topic fraude
+C068,C12,directa,Explica sesgos conductuales en la inversión
+C069,C26,directa,Explica fondos de inversión
+C070,C26,directa,Explica ETF como vehículo de inversión colectiva
+C071,C01,directa,Concepto principal inferido del topic planificación
+C072,C03,directa,Concepto principal inferido del topic deuda
+C073,C02,directa,Concepto principal inferido del topic ahorro
+C074,C23,directa,Herramienta de planificación de jubilación
+C075,C16,directa,Calculadora de patrimonio neto para planificación financiera
+C077,C10,directa,Concepto principal inferido del topic préstamos
+C078,C14,directa,Explica diversificación de cartera
+C079,C07,directa,La sección de conocimiento financiero aborda inflación y valor real del dinero
+C080,C06,directa,El instrumento incluye la competencia de interés compuesto
+C081,C16,directa,La herramienta se centra en planificación y objetivos financieros
+C082,C18,directa,La página explica las comisiones aplicadas por entidades
+C083,C25,directa,La guía trata conceptos de riesgo y variación de precios
+C084,C22,directa,La página está dedicada a seguros y coberturas
+C085,C21,directa,El documento trata fiscalidad e IRPF
+C086,C27,directa,El toolkit incorpora la dimensión de finanzas digitales y activos digitales
+C087,C30,directa,La guía se usa como material introductorio de criterios de inversión responsable
+C088,C07,directa,Explicación directa de la inflación
+C089,C07,directa,Relación directa inflación-tipos
+C090,C16,directa,Guía conceptual de planificación
+C091,C16,directa,Manual de organización de finanzas personales
+C092,C18,directa,Definición directa de comisiones bancarias
+C093,C25,directa,Tutorial de volatilidad accesible de CNMV
+C094,C25,directa,Explicación práctica de la volatilidad
+C095,C17,directa,Definición oficial de tipo de cambio
+C096,C17,directa,Impacto práctico del tipo de cambio
+C097,C17,directa,Aspectos prácticos de divisas y comisiones
+C098,C20,directa,Definición técnica oficial de PIB
+C099,C20,directa,Explicación macroeconómica básica del PIB
+C100,C24,directa,La guía explica los productos de renta fija como activos financieros
+C100,C12,directa,La guía es material de inversión
+C101,C24,directa,Opciones y futuros son activos financieros derivados
+C101,C25,directa,Los derivados implican alta volatilidad
+C101,C12,directa,La guía es material de inversión
+C102,C12,directa,La guía trata la protección regulatoria del inversor
+C102,C13,directa,La protección del inversor está ligada a la gestión del riesgo
+C103,C24,directa,Las acciones son activos financieros
+C103,C12,directa,La guía es material de inversión
+C104,C24,directa,Las órdenes de valores operan sobre activos financieros
+C104,C12,directa,La guía es material de inversión
+C105,C24,directa,Invertir en bolsa implica operar con activos financieros
+C105,C25,directa,La bolsa implica volatilidad
+C105,C12,directa,La guía es material de inversión
+C106,C21,directa,La guía trata la fiscalidad de las inversiones
+C107,C15,directa,La persuasión digital es una técnica de fraude financiero
+C107,C29,directa,La manipulación online requiere protección de datos
+C109,C27,directa,Leccion sobre criptoactivos
+C109,C13,directa,Riesgo de los criptoactivos
+C110,C27,directa,Validacion en blockchain como parte de la tecnologia cripto
+C111,C27,directa,"Ethereum, tokens y smart contracts son infraestructura cripto"
+C112,C27,directa,DeFi es un ecosistema cripto
+C112,C13,directa,Riesgo de DeFi
+C113,C27,directa,Web 3.0 es parte del ecosistema cripto
+C114,C27,directa,Terminologia cripto

@@ -1,0 +1,31 @@
+{
+  "content_id": "C033",
+  "title": "Cálculo del tipo de interés efectivo",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cálculo del tipo de interés efectivo"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Quieres calcular el tipo efectivo a partir del tipo nominal y viceversa?",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando el periodo de tiempo de cálculo y el de liquidación de intereses coincide, se utiliza el tipo de interés nominal y cuando no el tipo de interés efectivo. Con este simulador puedes obtener uno a partir del otro.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:13:32.250800+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 1499,
+    "input_tokens": 1793,
+    "output_tokens": 294
+  }
+}

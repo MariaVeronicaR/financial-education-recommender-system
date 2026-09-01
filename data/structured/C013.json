@@ -1,0 +1,116 @@
+{
+  "content_id": "C013",
+  "title": "¿Cómo cuidar tu entorno personal y financiero?",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Cómo cuidar tu entorno personal y financiero?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay que disfrutar, pero es crucial aprender a controlar los gastos y ajustar tu estilo de vida a tu presupuesto. Te damos todas las claves para que organices tus finanzas en pareja, en familia y en el trabajo, para vivir con más tranquilidad.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Mi banco y yo"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Productos y servicios bancarios, tarjetas, cheques… ¿los tienes bajo control?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay muchos productos y servicios bancarios necesarios para gestionar nuestro día a día. Desde una cuenta bancaria donde centralizar tus operaciones hasta las tarjetas, préstamos o aplicaciones de móvil. Infórmate para beneficiarte de sus ventajas sin correr riesgos.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "EL TRABAJO"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Tu puesto de trabajo: mucho más que un sueldo mensual"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando conocemos a alguien por primera vez, el tema de conversión inicial suele ser “¿a qué te dedicas?”, o “¿en qué trabajas?”, y de la misma forma, es muy habitual describir a nuestros conocidos por su profesión: “trabaja para la empresa X” o “es médico, informático, comercial, etc.”.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "EL HOGAR"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Alternativas para comprar o alquilar tu vivienda"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si te planteas dar un paso más en la decisión de donde vivir y no sabes si la mejor opción es comprar o alquilar te animamos a que consultes nuestra sección de \"Hogar\" para que puedas tomar así, la mejor alternativa.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "EN PAREJA"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Ahora somos dos… Finanzas en pareja"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando las finanzas personales se convierten en finanzas \"en pareja\", resulta imprescindible adaptarse a la nueva situación. Para que la relación funcione puede ser necesario realizar algunos ajustes en las formas que tenéis de gestionar el dinero. En este proceso, la comunicación es fundamental.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "¿Sabéis tú y tu pareja si tenéis los mismos objetivos financieros? Descúbrelo"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "MI FAMILIA"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "La familia crece…"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "¿Y ahora qué?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A partir de ahora las necesidades aumentan y hay que tomar decisiones financieras importantes.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Descubre todo lo que necesitas saber para esta nueva etapa.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:10:13.563436+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 4769,
+    "input_tokens": 2210,
+    "output_tokens": 1402
+  }
+}

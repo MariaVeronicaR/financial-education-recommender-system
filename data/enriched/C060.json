@@ -1,0 +1,57 @@
+{
+  "content_id": "C060",
+  "tldr": "Este contenido presenta la tabla oficial de tipos de referencia del mercado hipotecario español para 2026, entre ellos el Euríbor, que se publica mensualmente para distintos plazos (1 semana, 1, 3, 6 y 12 meses). El Euríbor es el índice de referencia clave para las hipotecas a tipo variable en España, y en los datos mostrados se observa una tendencia ligeramente alcista a lo largo de los meses del año.",
+  "key_points": [
+    "El Euríbor es uno de los tipos oficiales de referencia del mercado hipotecario español y se publica cada mes.",
+    "Se calcula para varios plazos (1 semana, 1, 3, 6 y 12 meses); el Euríbor a 12 meses es el más utilizado para revisar hipotecas a tipo variable.",
+    "En 2026 el Euríbor a 1 año mostró una tendencia al alza, pasando de 2,245% en enero a 2,855% en julio.",
+    "La tabla incluye también otros índices de referencia como el Míbor, el IRS a 5 años y el €STR.",
+    "Un Euríbor más alto implica cuotas hipotecarias más caras para quienes tienen una hipoteca a tipo variable."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué papel desempeña el Euríbor en el mercado hipotecario español según este contenido?",
+      "options": [
+        "Es un índice de referencia que se usa para calcular y revisar las hipotecas a tipo variable",
+        "Es un impuesto que se paga al contratar una hipoteca",
+        "Es un seguro obligatorio que cubre el impago de la hipoteca",
+        "Es una subvención pública para comprar vivienda"
+      ],
+      "correct_index": 0,
+      "explanation": "El Euríbor es un tipo oficial de referencia del mercado hipotecario, clave para fijar y revisar las hipotecas a tipo variable en España.",
+      "concept_id": "C11"
+    },
+    {
+      "question": "Según la tabla, ¿qué plazo del Euríbor se usa habitualmente como referencia en las hipotecas a tipo variable?",
+      "options": [
+        "A 1 semana",
+        "A 1 año (12 meses)",
+        "A 3 meses",
+        "A 6 meses"
+      ],
+      "correct_index": 1,
+      "explanation": "El Euríbor a 12 meses (1 año) es el plazo de referencia más habitual para revisar las cuotas de las hipotecas a tipo variable.",
+      "concept_id": "C11"
+    },
+    {
+      "question": "Observando los datos de la tabla, ¿qué evolución siguió el Euríbor a 1 año entre enero y julio de 2026?",
+      "options": [
+        "Se mantuvo totalmente constante",
+        "Bajó de forma progresiva",
+        "Subió de 2,245% a 2,855%",
+        "Dejó de publicarse"
+      ],
+      "correct_index": 2,
+      "explanation": "El Euríbor a 1 año pasó de 2,245% en enero a 2,855% en julio, mostrando una tendencia alcista que encarecería las hipotecas variables.",
+      "concept_id": "C28"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 8073,
+    "input_tokens": 2776,
+    "output_tokens": 1462
+  }
+}

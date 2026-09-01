@@ -1,0 +1,54 @@
+{
+  "content_id": "C074",
+  "url": "https://www.finanzasparatodos.es/herramientas/calculadora-de-jubilacion",
+  "source": "Finanzas para Todos",
+  "host": "www.finanzasparatodos.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 57972
+  },
+  "title": "Calculadora de jubilación - Finanzas para todos",
+  "headings": [],
+  "sections": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Esta herramienta te ayudará en la planificación de tu jubilación permitiéndote conocer cuánto dinero podrás obtener al mes y al año, si comienzas a invertir anualmente una determinada cantidad de dinero.\n{{ title }}\n{{ summary }}\nEdad\nEdad de retiro\nAntes de jubilarte\nAportación inicial (€)Abrir ventana modal con más información\nAportación anual para la jubilación (€)\nTipo de interés (%)Abrir ventana modal con más información\nDespués de jubilarte\nNº años para disfrutar del dinero\nAbrir ventana modal con más información\nTipo de interés (%)\nAbrir ventana modal con más información\nCalcular Calcular de nuevo\nResultados\nImporte a recibir:\nAl año: {{ formatCurrencyNumber(totalAnyo) }}\nAl mes: {{ formatCurrencyNumber(totalMes) }}\nCerrar\n* Después de la jubilación, el número de años que han de durar los ahorros acumulados.\nCerrar\n* Cantidad de dinero ya ahorrada para la jubilación.\nCerrar\n* Tipo de interés que reciben tus ahorros antes de la jubilación.\nCerrar\n* Tipo de interés que reciben tus ahorros después de la jubilación.\nCerrar\n* Tipo de interés que reciben de tus ahorros después de la jubilación."
+    }
+  ],
+  "text": "Esta herramienta te ayudará en la planificación de tu jubilación permitiéndote conocer cuánto dinero podrás obtener al mes y al año, si comienzas a invertir anualmente una determinada cantidad de dinero.\n{{ title }}\n{{ summary }}\nEdad\nEdad de retiro\nAntes de jubilarte\nAportación inicial (€)Abrir ventana modal con más información\nAportación anual para la jubilación (€)\nTipo de interés (%)Abrir ventana modal con más información\nDespués de jubilarte\nNº años para disfrutar del dinero\nAbrir ventana modal con más información\nTipo de interés (%)\nAbrir ventana modal con más información\nCalcular Calcular de nuevo\nResultados\nImporte a recibir:\nAl año: {{ formatCurrencyNumber(totalAnyo) }}\nAl mes: {{ formatCurrencyNumber(totalMes) }}\nCerrar\n* Después de la jubilación, el número de años que han de durar los ahorros acumulados.\nCerrar\n* Cantidad de dinero ya ahorrada para la jubilación.\nCerrar\n* Tipo de interés que reciben tus ahorros antes de la jubilación.\nCerrar\n* Tipo de interés que reciben tus ahorros después de la jubilación.\nCerrar\n* Tipo de interés que reciben de tus ahorros después de la jubilación.",
+  "text_len": 1112,
+  "num_headings": 0,
+  "metadata": {
+    "title": "Calculadora de jubilación - Finanzas para todos",
+    "url": "https://www.finanzasparatodos.es/herramientas/mi-jubilacion?utm_source=chatgpt.com",
+    "hostname": "finanzasparatodos.es",
+    "sitename": "finanzasparatodos.es",
+    "date": "2024-01-01",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": true,
+  "classification": "ok",
+  "errors": [],
+  "title_match": true,
+  "csv_meta": {
+    "title": "Calculadora de jubilación",
+    "topic": "planificación",
+    "subtopic": "herramienta jubilación",
+    "difficulty": "intermedio",
+    "format": "calculadora",
+    "summary": "Calculadora para estimar la pensión de jubilación y el ahorro necesario",
+    "learning_objective": "Estimar la brecha entre ingresos esperados y necesidades en jubilación"
+  },
+  "deduped_from": null
+}

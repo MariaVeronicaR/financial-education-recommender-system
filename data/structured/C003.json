@@ -1,0 +1,117 @@
+{
+  "content_id": "C003",
+  "title": "Planificación financiera antes de gastar: qué hacer con la paga extra o la devolución de la renta",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Planificación financiera antes de gastar: qué hacer con la paga extra o la devolución de la renta"
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Cualquier inyección de liquidez extraordinaria puede convertirse en una oportunidad para mejorar la planificación financiera con ahorro e inversión.",
+        "Crear un fondo de emergencia, identificar objetivos de inversión y adoptar buenos hábitos financieros son alguna de las recomendaciones para optimizar el cobro de un ingreso adicional."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "MADRID 29/06/2026. La campaña de la renta (si sale a devolver) y la llegada de la paga extraordinaria de verano hacen que muchas personas reciban en estas fechas un ingreso adicional. Y coincidiendo con las vacaciones, es inevitable tener la tentación de destinarlo al ocio y disfrute. Sin embargo, sin renunciar a disfrutar del periodo estival, estos ingresos también pueden convertirse en una oportunidad para mejorar la planificación financiera, reforzando el ahorro y/o la inversión para algún objetivo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "“La planificación financiera consiste, básicamente, en tomar decisiones hoy pensando en las necesidades que tendremos mañana\", explica Roberto España, del Banco de España, miembro de Finanzas Para Todos, iniciativa de educación financiera de la que también forman parte la Comisión Nacional del Mercado de Valores y el Ministerio de Economía Comercio y Empresa. En este sentido, recuerda que tanto la devolución del IRPF como la paga extra \"no pueden considerarse como “imprevistos” ni deberían entenderse como un premio, sino como recursos que conviene integrar en nuestra planificación financiera\".",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El verano suele ser una época de mayor gasto, pero también puede convertirse en el mejor momento para dar un paso adelante en la gestión del dinero. Aprovechar una devolución del IRPF o una paga extra para combinar disfrute, ahorro e inversión puede marcar la diferencia entre cubrir únicamente las necesidades del presente o empezar a construir los objetivos del futuro. En definitiva, una oportunidad para poner en práctica el lema del próximo Día de la Educación Financiera: \"Ahorra. Invierte. Avanza\".",
+      "links": [
+        {
+          "text": "lema",
+          "href": "https://www.finanzasparatodos.es/ahorra-invierte-avanza-lema-del-d-a-de-la-educaci-n-financiera-2026",
+          "start": 429,
+          "end": 433
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "5 recomendaciones de planificación financiera"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "1. No gastes todo el dinero de una vez"
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de decidir en qué emplear ese ingreso adicional, conviene detenerse y valorar las necesidades presentes y futuras. Disfrutar de las vacaciones es compatible con reservar una parte del dinero para otros objetivos financieros.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "2. Prioriza el fondo de emergencia"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si todavía no dispones de un colchón financiero para afrontar imprevistos, este puede ser un buen momento para empezar a construirlo o reforzarlo. Contar con un fondo de emergencia ayuda a evitar endeudarse cuando surge un gasto inesperado.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "3. Pon nombre a tu ahorro"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ahorrar resulta mucho más sencillo cuando existe un objetivo concreto. La entrada de una vivienda, los estudios de los hijos, emprender un proyecto personal o complementar la futura jubilación son algunas de las metas que pueden beneficiarse de una estrategia de ahorro e inversión a largo plazo.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "4. Si no vas a necesitar ese dinero a corto plazo, valora invertirlo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mantener el dinero inmovilizado durante años en una cuenta corriente hace que pierda poder adquisitivo por el efecto de la inflación. Si el horizonte temporal lo permite, existen productos de inversión que pueden ayudar a hacerlo crecer con el paso del tiempo, siempre de acuerdo con el perfil de riesgo y los objetivos de cada persona.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "5. Convierte la planificación en un hábito"
+    },
+    {
+      "type": "paragraph",
+      "text": "La planificación financiera no consiste únicamente en tomar buenas decisiones cuando llega un ingreso extraordinario. Lo importante es incorporar ese hábito al día a día mediante un presupuesto, objetivos claros y revisiones periódicas que permitan adaptar las decisiones a cada momento vital.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En definitiva, la devolución de la renta, la paga extraordinaria o cualquier otro ingreso adicional pueden ser mucho más que un dinero puntual. Convertir una parte en ahorro y/o inversión para objetivos a corto, medio o largo plazo ayuda a construir una mayor estabilidad financiera y a afrontar con más tranquilidad los imprevistos. Como recuerda Roberto España, \"ahorrar no debería ser lo que sobra al final del mes, sino una decisión consciente dentro de nuestra planificación que nos lleve a apartar una parte para el ahorro cuando cobramos, porque planificar nuestras finanzas nos ayuda a ser verdaderos dueños de nuestro futuro y a ganar bienestar financiero\".",
+      "links": []
+    }
+  ],
+  "links": [
+    {
+      "text": "lema",
+      "href": "https://www.finanzasparatodos.es/ahorra-invierte-avanza-lema-del-d-a-de-la-educaci-n-financiera-2026",
+      "start": null,
+      "end": null
+    }
+  ],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:04:20.012820+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 16778,
+    "input_tokens": 2983,
+    "output_tokens": 5786
+  }
+}

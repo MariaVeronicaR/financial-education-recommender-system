@@ -1,0 +1,57 @@
+{
+  "content_id": "C018",
+  "tldr": "Un depósito a plazo es un producto bancario en el que entregamos nuestro dinero a la entidad durante un tiempo determinado y, al finalizar, recuperamos la cantidad depositada más los intereses pactados. Antes de contratarlo, la entidad debe facilitarnos información gratuita para comparar ofertas. Existen dos modalidades: con tipo de interés fijo o con rendimiento ligado a la fluctuación de un activo de referencia, y suelen incluir cláusulas de renovación tácita y de cancelación anticipada.",
+  "key_points": [
+    "Un depósito a plazo consiste en entregar dinero a un banco durante un plazo fijo a cambio de recuperarlo más los intereses pactados.",
+    "La entidad debe facilitar de forma gratuita la información necesaria para comparar ofertas y decidir con conocimiento.",
+    "La remuneración es el precio que la entidad paga por nuestro dinero, y puede ser en dinero o en especie.",
+    "Hay dos modalidades: con tipo de interés fijo o con rendimiento vinculado a la fluctuación de un activo de referencia.",
+    "Suelen incluir la renovación tácita y la posibilidad de cancelación anticipada según lo pactado en el contrato."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué obtienes al finalizar un depósito a plazo contratado con éxito?",
+      "options": [
+        "Solo la cantidad inicial que depositaste, sin ningún extra",
+        "La cantidad depositada más los intereses pactados",
+        "Únicamente los intereses generados, sin recuperar el capital",
+        "La cantidad depositada más una parte proporcional de los beneficios del banco"
+      ],
+      "correct_index": 1,
+      "explanation": "Al vencimiento, el cliente recupera la cantidad entregada más los intereses que se pactaron al contratar el depósito.",
+      "concept_id": "C08"
+    },
+    {
+      "question": "¿Qué obligación tiene la entidad financiera antes de que contrates un depósito a plazo?",
+      "options": [
+        "Entregarte la información necesaria de forma gratuita para que puedas comparar ofertas",
+        "Garantizarte por escrito un rendimiento superior al de cualquier otro banco",
+        "Exigirte contratar un seguro obligatorio",
+        "Informarte solo después de la firma del contrato"
+      ],
+      "correct_index": 0,
+      "explanation": "La entidad debe facilitar gratuitamente la información necesaria antes de la contratación para que el cliente pueda comparar y decidir de forma informada.",
+      "concept_id": "C08"
+    },
+    {
+      "question": "Según el contenido, ¿qué puede ocurrir con un depósito a plazo fijo si no se actúa al llegar al vencimiento?",
+      "options": [
+        "El depósito se cancela automáticamente y pierdes los intereses",
+        "El dinero se transfiere siempre a una cuenta corriente sin aviso",
+        "El contrato puede incluir una renovación tácita, según las condiciones pactadas",
+        "La entidad puede quedarse con el capital si no reclamas en 24 horas"
+      ],
+      "correct_index": 2,
+      "explanation": "Es habitual que los contratos incluyan la posibilidad de renovación tácita del depósito, con las condiciones en las que esta se efectuará.",
+      "concept_id": "C08"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 6316,
+    "input_tokens": 1706,
+    "output_tokens": 960
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "content_id": "C015",
+  "tldr": "Este glosario define conceptos financieros esenciales: desde títulos negociados 'a la par' (cuando su precio coincide con su valor nominal) hasta los distintos tipos de activos que puede tener una empresa o persona. Explica qué son las acciones y el papel del accionista (incluso el minoritario), qué es un acreedor, y diferencia entre activo, activo fijo, activo financiero y activo sin riesgo.",
+  "key_points": [
+    "Un título se negocia 'a la par' cuando su precio coincide con su valor nominal.",
+    "Quien posee acciones es socio propietario de la empresa y, en caso de liquidación, cobra el último.",
+    "El accionista minoritario tiene escasa o nula capacidad de influir en la compañía.",
+    "El acreedor es la persona u organización a la que se le debe dinero.",
+    "El activo fijo (o inmovilizado) son bienes que aseguran el funcionamiento de la empresa y se amortizan a lo largo de su vida útil."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué significa que un título se emite o negocia 'a la par'?",
+      "options": [
+        "Que su precio coincide con su valor nominal",
+        "Que se vende con descuento sobre su valor nominal",
+        "Que se emite por encima de su valor nominal",
+        "Que solo pueden comprarlo accionistas de la empresa"
+      ],
+      "correct_index": 0,
+      "explanation": "Según el glosario, un título se negocia 'a la par' cuando el precio efectivo coincide con su valor nominal.",
+      "concept_id": "C24"
+    },
+    {
+      "question": "Según el glosario, ¿qué posición ocupa el accionista a la hora de cobrar en caso de liquidación de una empresa?",
+      "options": [
+        "Es el primero en cobrar",
+        "Cobra justo después de los trabajadores",
+        "Es el último en cobrar",
+        "Cobra antes que los acreedores"
+      ],
+      "correct_index": 2,
+      "explanation": "El accionista cobra siempre el último en una liquidación, después de trabajadores, acreedores y propietarios de bonos u obligaciones.",
+      "concept_id": "C24"
+    },
+    {
+      "question": "¿Qué caracteriza al activo fijo o inmovilizado de una empresa?",
+      "options": [
+        "Son bienes destinados a la venta rápida",
+        "Son bienes que aseguran el funcionamiento y continuidad de la empresa y se amortizan durante su vida útil",
+        "Son únicamente el dinero en efectivo disponible",
+        "Son los derechos de cobro a corto plazo"
+      ],
+      "correct_index": 1,
+      "explanation": "El activo fijo son bienes y derechos no destinados a la venta, que permanecen en la empresa más de doce meses y se amortizan durante toda su vida.",
+      "concept_id": "C12"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 26842,
+    "input_tokens": 2267,
+    "output_tokens": 712
+  }
+}

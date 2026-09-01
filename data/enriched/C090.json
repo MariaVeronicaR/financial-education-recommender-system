@@ -1,0 +1,57 @@
+{
+  "content_id": "C090",
+  "tldr": "La planeación financiera es la proyección a futuro de cómo se gestionarán los recursos económicos de una empresa para alcanzar objetivos previamente definidos, actuando como una hoja de ruta que regula el uso de los recursos, corrige errores y detecta desviaciones. Se apoya en distintos métodos (punto de equilibrio, pronósticos, presupuestos, árboles de decisión, etc.) y puede clasificarse según su temporalidad en corto plazo (≤1 año) o largo plazo (≥2 años). Su objetivo es garantizar la viabilidad económica, reducir gastos, enfrentar imprevistos y atraer inversores.",
+  "key_points": [
+    "La planeación financiera es una proyección a futuro que regula el uso de recursos económicos para alcanzar objetivos de la empresa y corregir errores o desviaciones.",
+    "Sus beneficios incluyen evitar la falta de recursos, incrementar el capital, reducir gastos, enfrentar imprevistos y atraer inversionistas.",
+    "Existen múltiples métodos, como el punto de equilibrio, los pronósticos y presupuestos financieros, los árboles de decisión y los proyectos de inversión.",
+    "La planeación a corto plazo (≤1 año) optimiza el capital circulante y evita la insolvencia, analizando inventarios, cuentas por cobrar y pagar, y gastos.",
+    "La planeación a largo plazo (≥2 años) maneja mayor incertidumbre, analiza pérdidas y ganancias, fuentes de ingreso, costes y el balance de situación."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cuál es la principal diferencia entre la planeación financiera a corto plazo y la de largo plazo?",
+      "options": [
+        "La de corto plazo se centra en inversiones y la de largo plazo en gastos operativos.",
+        "La de corto plazo suele abarcar un año o menos y la de largo plazo al menos dos años, con mayor incertidumbre.",
+        "La de corto plazo solo la usan empresas pequeñas y la de largo plazo solo grandes corporaciones.",
+        "La de largo plazo no requiere análisis financiero previo, a diferencia de la de corto plazo."
+      ],
+      "correct_index": 1,
+      "explanation": "El contenido indica que la planeación a corto plazo son proyecciones iguales o menores al año, mientras que la de largo plazo abarca al menos dos años y maneja un mayor rango de incertidumbre.",
+      "concept_id": "C16"
+    },
+    {
+      "question": "¿Qué analiza la planeación financiera a corto plazo para optimizar el flujo financiero de la organización?",
+      "options": [
+        "El balance de situación y las fuentes de financiación a largo plazo.",
+        "Las pérdidas y ganancias proyectadas a varios años.",
+        "El fondo de maniobra o capital neto de trabajo, junto con inventarios, cuentas por cobrar y pagar.",
+        "Los costos por intereses financieros y el apalancamiento operativo."
+      ],
+      "correct_index": 2,
+      "explanation": "La planeación a corto plazo analiza el fondo de maniobra (diferencia entre activos y pasivos) y elementos como inventarios, cuentas por cobrar y pagar para elaborar presupuestos operativos.",
+      "concept_id": "C16"
+    },
+    {
+      "question": "Según el contenido, ¿qué beneficio directo aporta la planeación estratégica financiera a una empresa?",
+      "options": [
+        "Elimina por completo cualquier posibilidad de pérdidas económicas.",
+        "Garantiza que todos los gastos sean siempre variables.",
+        "Disminuye la posibilidad de que falten recursos, reduce gastos y permite enfrentar imprevistos.",
+        "Sustituye la necesidad de contar con un presupuesto operativo."
+      ],
+      "correct_index": 2,
+      "explanation": "Entre los beneficios señalados están disminuir la posibilidad de falta de recursos, reducir gastos, enfrentar imprevistos y alcanzar sostenibilidad económica.",
+      "concept_id": "C16"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5130,
+    "input_tokens": 2747,
+    "output_tokens": 1029
+  }
+}

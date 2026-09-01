@@ -1,0 +1,57 @@
+{
+  "content_id": "C105",
+  "tldr": "La bolsa es un mercado organizado donde se canalizan fondos de inversores hacia empresas que necesitan financiación mediante la emisión de acciones. Antes de invertir hay que controlar las finanzas personales (deudas, fondo de emergencia), conocer tu perfil de inversor y elegir un intermediario registrado en la CNMV. Las acciones ofrecen rendimiento vía dividendos y plusvalías, pero conllevan riesgo y volatilidad, por lo que solo se debe invertir dinero que no se necesite a corto plazo.",
+  "key_points": [
+    "La bolsa conecta inversores que buscan rentabilizar su ahorro con empresas que necesitan financiación mediante la emisión de acciones.",
+    "Antes de invertir es esencial controlar deudas caras, tener un fondo de emergencia y conocer tu perfil de inversor (horizonte temporal y tolerancia al riesgo).",
+    "Para operar en bolsa es obligatorio hacerlo a través de un intermediario financiero registrado y autorizado por la CNMV.",
+    "Las acciones son renta variable: su rendimiento viene de dividendos y plusvalías, pero su valor puede subir o bajar, pudiendo perderse toda la inversión.",
+    "La MiFID II obliga a los intermediarios a dar información clara, no engañosa, y a ejecutar órdenes con 'mejor ejecución', protegiendo al inversor minorista."
+  ],
+  "quiz": [
+    {
+      "question": "Tienes deudas de tarjeta de crédito con intereses muy altos y ahorros que pensabas invertir en bolsa. Según la guía, ¿qué es lo más aconsejable?",
+      "options": [
+        "Invertir en bolsa cuanto antes para rentabilizar los ahorros",
+        "Destinar los ahorros a reducir o eliminar esas deudas antes de pensar en invertir",
+        "Invertir la mitad y usar la otra mitad para pagar las deudas",
+        "Pedir más crédito para invertir una cantidad mayor"
+      ],
+      "correct_index": 1,
+      "explanation": "La guía recomienda tener las finanzas bajo control, y si se pagan intereses muy altos por deudas, es más aconsejable bajarlas o eliminarlas antes de invertir.",
+      "concept_id": "C16"
+    },
+    {
+      "question": "¿Por qué se recomienda no invertir en bolsa el dinero de tu fondo de emergencias o el que vayas a necesitar a corto plazo?",
+      "options": [
+        "Porque la bolsa solo admite inversiones de más de 10.000 euros",
+        "Porque las acciones no generan ningún rendimiento",
+        "Porque podrías tener que vender las acciones cuando su valor esté bajo y sufrir una pérdida",
+        "Porque el fondo de emergencias no genera intereses"
+      ],
+      "correct_index": 2,
+      "explanation": "Como el valor de las acciones fluctúa, si necesitas el dinero pronto podrías tener que vender cuando el precio esté bajo, convirtiendo una pérdida temporal en una pérdida real.",
+      "concept_id": "C13"
+    },
+    {
+      "question": "Un bróker te ofrece 'acciones fraccionadas'. Según la CNMV, ¿qué debes saber antes de contratarlas?",
+      "options": [
+        "Son acciones normales con los mismos derechos que cualquier accionista",
+        "No son acciones reales: son un contrato tipo CFD con riesgo de contraparte y distinta protección ante la insolvencia del intermediario",
+        "Siempre están garantizadas por el FOGAIN hasta 100.000 euros",
+        "No tienen ningún riesgo porque tienen apalancamiento cero"
+      ],
+      "correct_index": 1,
+      "explanation": "Las 'acciones fraccionadas' no se compran a nombre del cliente y son un contrato bilateral tipo CFD: en caso de insolvencia del intermediario, los titulares de CFD pueden sufrir pérdidas, a diferencia de las acciones en custodia.",
+      "concept_id": "C15"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 7484,
+    "input_tokens": 9037,
+    "output_tokens": 1080
+  }
+}

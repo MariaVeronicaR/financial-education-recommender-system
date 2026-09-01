@@ -1,0 +1,57 @@
+{
+  "content_id": "C067",
+  "tldr": "Esta guía explica qué son los finfluencers (creadores de contenido financiero en redes sociales), cómo difunden sus mensajes y los beneficios y riesgos que suponen para la audiencia. Destaca que no toda la información financiera en redes es fiable: puede estar sesgada, ser publicidad encubierta o incluso fraudulenta. Ofrece consejos prácticos para detectar señales de alarma, contrastar la información con fuentes oficiales como la CNMV y proteger tus decisiones de inversión.",
+  "key_points": [
+    "Un finfluencer crea y difunde contenido sobre finanzas, ahorro o inversión en redes sociales para influir en las decisiones financieras de sus seguidores.",
+    "El número de seguidores, likes o valoraciones no garantiza la fiabilidad de un finfluencer: la credibilidad puede falsificarse.",
+    "Las recomendaciones de inversión de los finfluencers no son personalizadas y pueden no ser adecuadas para tu perfil.",
+    "Desconfía de promesas de altos rendimientos sin riesgo: en inversión, a mayor rentabilidad potencial, mayor riesgo asociado.",
+    "Antes de seguir un consejo o invertir, verifica si el finfluencer está autorizado (CNMV) y contrasta la información con fuentes oficiales."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué indica que un finfluencer tenga muchos seguidores y valoraciones positivas?",
+      "options": [
+        "Que sus consejos de inversión son fiables y seguros",
+        "Que está autorizado por la CNMV para asesorar",
+        "Nada necesariamente: la credibilidad y los seguidores pueden falsificarse o comprarse",
+        "Que sus recomendaciones están personalizadas para cada seguidor"
+      ],
+      "correct_index": 2,
+      "explanation": "El tamaño de la audiencia, likes o estrellas no garantiza la fiabilidad, ya que la credibilidad y los seguidores pueden ser falsos o generados mediante promociones pagadas.",
+      "concept_id": "C15"
+    },
+    {
+      "question": "Un finfluencer te promete 'ganancias aseguradas' invirtiendo en criptoactivos en poco tiempo y sin riesgo. ¿Cómo deberías reaccionar?",
+      "options": [
+        "Invertir rápido para no perder la oportunidad",
+        "Desconfiar, porque toda inversión implica riesgo y estas promesas suelen ser señal de fraude",
+        "Seguir su consejo porque parece tener experiencia",
+        "Compartirlo con amigos para que también inviertan"
+      ],
+      "correct_index": 1,
+      "explanation": "En inversión, la rentabilidad y el riesgo van de la mano; promesas de altos rendimientos en poco tiempo y sin riesgo son una señal de alarma típica de fraude o estafa.",
+      "concept_id": "C15"
+    },
+    {
+      "question": "¿Cuál es la diferencia clave entre una recomendación de inversión de un finfluencer y el asesoramiento financiero personalizado?",
+      "options": [
+        "No hay diferencia, ambos son lo mismo",
+        "La recomendación de un finfluencer está dirigida al público general y no se adapta a tu situación, mientras que el asesoramiento personalizado solo lo prestan entidades autorizadas",
+        "El asesoramiento personalizado es gratuito y la recomendación de pago",
+        "La recomendación del finfluencer siempre es más rentable"
+      ],
+      "correct_index": 1,
+      "explanation": "Las recomendaciones de inversión en redes van dirigidas al público general y no son personalizadas; el asesoramiento personalizado solo puede prestarlo una entidad o persona autorizada que analiza tu situación financiera y objetivos.",
+      "concept_id": "C15"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 4992,
+    "input_tokens": 6752,
+    "output_tokens": 954
+  }
+}

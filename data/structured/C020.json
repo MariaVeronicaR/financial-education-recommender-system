@@ -1,0 +1,59 @@
+{
+  "content_id": "C020",
+  "title": "Cálculo de la fecha de vencimiento de la última cuota de una tarjeta revolving",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Cálculo de la fecha de vencimiento de la última cuota de una tarjeta revolving"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Quieres saber en que fecha terminarías de pagar la deuda de tu tarjeta revolving y el importe de los intereses pagados?",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los créditos revolving, instrumentados en su mayoría en tarjetas, son ofertados por las entidades para la adquisición de bienes de consumo y la obtención de liquidez rápida. Suelen ser créditos de pequeña cuantía, con intereses elevados y que se devuelven en plazos mensuales de pequeño importe.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Con este simulador, a partir de una fecha de referencia, puedes calcular la fecha en que terminarías de pagar tu deuda y comprobarás como, en muchos casos, si la cuota elegida no cubre los intereses generados, la devolución puede demorarse ocasionando que la deuda crezca de tal manera que no pueda ser satisfecha con esta forma de pago.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Puedes realizar varias simulaciones y si pulsas en “Ver detalles”, accedes a la representación gráfica de las diferentes opciones, a las tablas de amortización y a su descarga en Excel y pdf.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Este simulador está previsto para determinar el momento de vencimiento de una deuda asociada a una tarjeta de crédito, suponiendo que se amortiza mediante cuotas iguales durante todos los meses, siempre que se mantenga el tipo de interés. Con el fin de que el simulador pueda aplicarse al mayor número posible de casos, en los cálculos se efectúan algunas simplificaciones como las siguientes:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Las cuotas se pagan mensualmente.",
+        "Todos los meses del año tienen igual número de días",
+        "Se considera que a partir del momento de cálculo, el cliente no realiza más disposiciones y cumple con todos los vencimientos de las cuotas."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Debido a estas simplificaciones, la fecha de vencimiento obtenida con este simulador, podría variar respecto a la de su crédito, si bien la diferencia debería ser pequeña.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:11:01.472451+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 3255,
+    "input_tokens": 2203,
+    "output_tokens": 956
+  }
+}

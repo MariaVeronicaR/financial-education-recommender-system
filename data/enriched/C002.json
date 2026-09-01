@@ -1,0 +1,57 @@
+{
+  "content_id": "C002",
+  "tldr": "La salud financiera no depende de cuánto ganas, sino de tener los gastos bajo control, no arrastrar deudas y aumentar mes a mes tus ahorros y patrimonio. Para mejorarla, conviene hacer un 'chequeo' de tu situación actual y definir objetivos financieros concretos. Los objetivos deben ser SMART (específicos, medibles, alcanzables, relevantes y con fecha) y clasificarse según su horizonte temporal: corto (1-2 años), medio (2-5) y largo plazo (más de 5).",
+  "key_points": [
+    "Tener salud financiera significa tener seguridad financiera, y no es lo mismo que ganar mucho dinero.",
+    "Quien tiene más seguridad financiera es quien controla sus gastos, no tiene deudas y aumenta sus ahorros y patrimonio cada mes.",
+    "Igual que te haces una analítica, puedes hacer un chequeo para conocer tu salud financiera.",
+    "Los objetivos financieros deben ser SMART: específicos, medibles, alcanzables, relevantes y con una fecha límite.",
+    "Los objetivos se clasifican en corto plazo (1-2 años), medio plazo (2-5 años) y largo plazo (más de 5 años)."
+  ],
+  "quiz": [
+    {
+      "question": "Según el contenido, ¿qué indica que una persona tiene mejor salud financiera?",
+      "options": [
+        "Ganar un sueldo muy alto, aunque tenga muchas deudas",
+        "Tener los gastos controlados, pocas deudas y ahorros que crecen mes a mes",
+        "Poseer una casa grande aunque arrastre una hipoteca enorme",
+        "Haber pedido muchos préstamos para comprar bienes"
+      ],
+      "correct_index": 1,
+      "explanation": "La salud financiera se basa en el control de gastos, la ausencia de deudas y el crecimiento del ahorro y patrimonio, no en el nivel de ingresos.",
+      "concept_id": "C16"
+    },
+    {
+      "question": "En el ejemplo del contenido, ¿por qué Inés tiene más seguridad financiera que José a pesar de ganar menos?",
+      "options": [
+        "Porque gana 30.000 euros al año, una cifra más estable",
+        "Porque tiene más ahorros, una deuda de hipoteca casi pagada y apenas debe en su tarjeta",
+        "Porque no tiene hipoteca que pagar",
+        "Porque su coche es más nuevo que el de José"
+      ],
+      "correct_index": 1,
+      "explanation": "Inés acumula más ahorros, le queda poca hipoteca y su deuda de tarjeta es mínima y abonable a fin de mes, lo que refleja mejor control financiero.",
+      "concept_id": "C03"
+    },
+    {
+      "question": "Según el método SMART, ¿cuál de estos objetivos financieros está bien definido?",
+      "options": [
+        "Quiero ser rico algún día",
+        "Quiero ahorrar un millón de euros antes de fin de mes",
+        "Quiero tener ahorrados 18.000 euros para la entrada de un piso dentro de 4 años",
+        "Quiero viajar por todo el mundo"
+      ],
+      "correct_index": 2,
+      "explanation": "Este objetivo es específico, medible (importe concreto), alcanzable, relevante y tiene fecha límite, cumpliendo todos los criterios SMART.",
+      "concept_id": "C16"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 6901,
+    "input_tokens": 2470,
+    "output_tokens": 997
+  }
+}

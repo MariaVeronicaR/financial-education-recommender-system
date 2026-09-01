@@ -1,0 +1,66 @@
+{
+  "content_id": "C061",
+  "title": "El mercado de valores y los productos de inversión",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "1 Introducción: fundamentos de la inversión financiera"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1.1 El papel de la inversión y los mercados de valores"
+    },
+    {
+      "type": "paragraph",
+      "text": "El sistema financiero de un país es el conjunto de instrumentos, mercados e instituciones cuya función es hacer llegar el flujo de fondos desde los oferentes hasta los demandantes.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los demandantes de fondos son aquellos agentes económicos (las empresas, el sector público y los hogares) que necesitan financiación para realizar sus proyectos. Los oferentes son aquellos que disponen de un excedente de fondos y buscan rentabilizarlos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El mercado de valores es uno de los mercados que forman parte del sistema financiero. Permite la canalización de capital a medio y largo plazo de los inversores a las empresas y Administraciones públicas que necesitan recursos, con lo que contribuyen al desarrollo económico.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "¿Cómo se financian las empresas y Administraciones?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Para conseguir fondos, las empresas y las Administraciones públicas tienen dos opciones:",
+      "links": []
+    },
+    {
+      "type": "ordered_list",
+      "items": [
+        "Endeudarse. Es decir, utilizar dinero prestado que tendrán que devolver, pagando además un interés. Este endeudamiento puede obtenerse básicamente:",
+        "Constituir o ampliar el capital social (solo en el caso de las sociedades anónimas):"
+      ]
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Mediante préstamos y créditos bancarios.",
+        "Mediante la emisión de títulos de deuda. Son títulos que reconocen una deuda por parte del emisor (la empresa u organismo público), a favor de los inversores que los adquieren, quienes se convierten en acreedores del emisor. Tradicionalmente, tanto el plazo para poder recuperar la inversión como el tipo de interés a pagar/cobrar se fijan de antemano. Por eso, los títulos de deuda se conocen como valores o productos de renta fija. Los bonos y obligaciones son ejemplos de valores de renta fija.",
+        "Mediante la emisión de acciones. El capital social son las aportaciones de los socios propietarios de la empresa. Las acciones son títulos valores que representan una parte proporcional de ese capital social; por tanto, los accionistas son copropietarios de las empresas en proporción a su participación. Los accionistas adquieren ciertos derechos sobre la empresa, incluido el derecho de recibir parte de sus beneficios. Las acciones representativas del capital social pueden transmitirse a los inversores en los mercados de renta variable (bolsa, mercados alternativos…). Como los inversores no saben si la empresa generará un beneficio en el futuro ni cuál será su cuantía, las acciones se consideran valores o productos de renta variable."
+      ]
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:18:50.775707+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 38262,
+    "input_tokens": 10185,
+    "output_tokens": 16000
+  }
+}

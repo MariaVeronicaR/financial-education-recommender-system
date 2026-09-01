@@ -1,0 +1,408 @@
+{
+  "content_id": "C085",
+  "url": "https://www.cnmv.es/DocPortal/Publicaciones/Guias/FiscalidadFondosDeInversionEnElIRPF.pdf",
+  "source": "CNMV",
+  "host": "www.cnmv.es",
+  "url_type": "pdf",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 697344
+  },
+  "title": "Fiscalidad de los fondos de inversión en el IRPF (Enero/2026)",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Fiscalidad de"
+    },
+    {
+      "level": 1,
+      "text": "los fondos de"
+    },
+    {
+      "level": 1,
+      "text": "inversión en"
+    },
+    {
+      "level": 1,
+      "text": "inversión en el"
+    },
+    {
+      "level": 1,
+      "text": "I. ¿Cómo tributan los"
+    },
+    {
+      "level": 1,
+      "text": "fondos de inversión?"
+    },
+    {
+      "level": 1,
+      "text": "Conceptos básicos sobre"
+    },
+    {
+      "level": 1,
+      "text": "II. ¿Cómo se calcula la ganancia"
+    },
+    {
+      "level": 1,
+      "text": "o pérdida patrimonial en la"
+    },
+    {
+      "level": 1,
+      "text": "venta de un fondo?"
+    },
+    {
+      "level": 1,
+      "text": "III. ¿Hay que tributar si"
+    },
+    {
+      "level": 1,
+      "text": "se cambia de fondo?"
+    },
+    {
+      "level": 1,
+      "text": "IV. Fondos con"
+    },
+    {
+      "level": 1,
+      "text": "características"
+    },
+    {
+      "level": 1,
+      "text": "V. ¿Cómo se integran"
+    },
+    {
+      "level": 1,
+      "text": "los ingresos en el IRPF?"
+    },
+    {
+      "level": 1,
+      "text": "Compensación de"
+    },
+    {
+      "level": 1,
+      "text": "pérdidas con ganancias."
+    },
+    {
+      "level": 1,
+      "text": "Recuerda que…"
+    },
+    {
+      "level": 1,
+      "text": "También podría"
+    },
+    {
+      "level": 1,
+      "text": "ser de interés…"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Fiscalidad de",
+      "start": 0,
+      "end": 13,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "los fondos de",
+      "start": 13,
+      "end": 28,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "inversión en",
+      "start": 28,
+      "end": 76,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "inversión en el",
+      "start": 76,
+      "end": 564,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "I. ¿Cómo tributan los",
+      "start": 564,
+      "end": 598,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "fondos de inversión?",
+      "start": 598,
+      "end": 1531,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "Conceptos básicos sobre",
+      "start": 1531,
+      "end": 7541,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "II. ¿Cómo se calcula la ganancia",
+      "start": 7541,
+      "end": 7623,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "o pérdida patrimonial en la",
+      "start": 7623,
+      "end": 7650,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "venta de un fondo?",
+      "start": 7650,
+      "end": 12357,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "III. ¿Hay que tributar si",
+      "start": 12357,
+      "end": 12433,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "se cambia de fondo?",
+      "start": 12433,
+      "end": 15580,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "IV. Fondos con",
+      "start": 15580,
+      "end": 15637,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "características",
+      "start": 15637,
+      "end": 18711,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "V. ¿Cómo se integran",
+      "start": 18711,
+      "end": 18778,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "los ingresos en el IRPF?",
+      "start": 18778,
+      "end": 18802,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "Compensación de",
+      "start": 18802,
+      "end": 18819,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "pérdidas con ganancias.",
+      "start": 18819,
+      "end": 23276,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "Recuerda que…",
+      "start": 23276,
+      "end": 24387,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "También podría",
+      "start": 24387,
+      "end": 24407,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "ser de interés…",
+      "start": 24407,
+      "end": 24452,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de los fondos de inversión en el IRPF"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fiscalidad de"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "los fondos de"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "inversión en"
+    },
+    {
+      "type": "paragraph",
+      "text": "el IRPF\nGuía"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nÍndice\n¿Cómo tributan los fondos\nde inversión?\n¿Cómo se calcula la ganancia o\npérdida patrimonial en la venta\nde un fondo?\n¿Cuánto habrá que pagar?\n¿Qué pasa si hay pérdidas?\n¿Hay que tributar si se cambia\nde fondo?\nFondos con características\nespeciales\n¿Cómo se integran los ingresos\nen el IRPF? Compensación de\npérdidas con ganancias"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nI. ¿Cómo tributan los\nfondos de inversión?\nEn la gestión de las finanzas personales es conveniente conocer cuánto\ny cuándo hay que pagar por las rentas que se vayan generando, si en ese\nmomento existe algún tipo de beneficio fiscal, qué gastos son fiscalmente\ndeducibles o si se pueden compensar las pérdidas con las ganancias a la hora\nde declarar el impuesto.\nEsta guía explica la fiscalidad de los fondos de inversión en el Impuesto\nsobre la Renta de las Personas Físicas (IRPF). Los fondos de inversión, como\ncualquier otro producto de inversión, están sujetos a tributación, pero tienen\ndeterminadas particularidades que conviene tener en cuenta a la hora de\ninvertir en ellos.\nPara más información acerca de cómo funcionan los fondos de inversión se\npuede consultar la guía de la CNMV “Los fondos de inversión y la inversión\ncolectiva”.\nFiscalidad de\nlos fondos de"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "inversión en el"
+    },
+    {
+      "type": "paragraph",
+      "text": "IRPF"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nConceptos básicos sobre\nel IRPF\nEn el IRPF se distinguen dos tipos de bases imponibles según el tipo de renta:\n¥ Base imponible general: compuesta fundamentalmente por los\nrendimientos del trabajo (salarios) y de actividades económicas así\ncomo los rendimientos de capital inmobiliario (p.ej. el alquiler de\nun piso) y los rendimientos de capital mobiliario que no tengan la\nconsideración de renta del ahorro.\n¥ Base imponible del ahorro: es donde se integran la mayor parte de\nlas rentas derivadas de la inversión en productos financieros (p.ej.\ndividendos e intereses).\nA su vez dentro de la base del ahorro se diferencia entre:\n¥ Rendimientos del capital mobiliario: contraprestaciones o\nrendimientos generados por los bienes muebles que están dentro del\npatrimonio. Si se consideran los productos de inversión, los bienes\nmuebles o mobiliarios serían, por ejemplo, las acciones, los bonos o los\nfondos, y los rendimientos del capital mobiliario serían los dividendos\nrecibidos en efectivo por tener acciones o fondos, o los intereses\nrecibidos por tener bonos.\n¥ Ganancias y pérdidas patrimoniales: para que haya ganancia o\npérdida patrimonial es necesario que se modifique la composición del\npatrimonio (por la transmisión o incorporación de bienes al patrimonio)\ny que esta modificación haga variar el valor del mismo.\nEn el caso de los fondos, se produce ganancia patrimonial si el valor de\nreembolso es mayor que el valor de suscripción y se produce pérdida si el\nvalor de reembolso es inferior al de adquisición."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nLas rentas de los fondos de inversión se generan fundamentalmente en\nel momento de la venta de las participaciones del fondo por la diferencia\nentre el valor de reembolso (o venta) de las mismas y el valor de\nsuscripción (o compra) y, en algunos casos, como en los fondos de reparto,\ntambién al recibir dividendos.\nLa mayoría de los fondos de inversión que se comercializan en España son\nfondos de acumulación, ya que los rendimientos que generan los distintos\nactivos que componen el fondo se acumulan en el mismo en vez de ser\ndistribuidos vía dividendos.\nEl resultado positivo o negativo que se obtiene al vender un fondo (total\no parcialmente), a efectos del IRPF, tiene la consideración de ganancia o\npérdida patrimonial (GPP) y se incluye en la base imponible del ahorro.\nA la hora de invertir, la fiscalidad es uno de los aspectos sobre los que\nes recomendable informarse adecuadamente, ya que puede afectar a\nla rentabilidad final de la inversión. Además, hay que ser consciente de\nque la fiscalidad puede cambiar a lo largo del tiempo, incluso antes de\nla liquidación de la inversión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nEn el momento de la venta, el intermediario financiero va a retener un 19%1 del\nimporte de la ganancia en concepto de pago a cuenta de los impuestos que\nhabrá que liquidar cuando se haga la declaración del impuesto. En caso de\nque exista una pérdida no se retendrá nada.\nUna de las particularidades de los fondos de inversión es que no están\nsujetos a tributación hasta el momento en que se reembolsa el capital\ninvertido con la venta de las participaciones. Como se expone en el apartado\nIII de esta guía, otra característica propia de los fondos es el diferimiento\nfiscal que permite traspasar el dinero de un fondo a otro sin pagar impuestos\nen el momento del traspaso.\nSolo se tributa por las ganancias generadas, no por el dinero total\nque se obtiene del reembolso (venta) del fondo de inversión. Por\nejemplo, si se invierten en un fondo 1.000 euros y se vende por 1.200\neuros, se tributa por la ganancia de 200 euros.\n1.\nEste porcentaje corresponde a 2025 y puede variar cada año. En la web de la Agencia Tributaria (www.aeat.es) se\npueden consultar los datos actualizados.\nSi se mantienen las participaciones o se traspasa la inversión\nde un fondo a otro, no hay que pagar impuestos.\nSólo hay que tributar cuando se venden definitivamente\nlas participaciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nLa ganancia o pérdida patrimonial se calcula por la diferencia positiva o\nnegativa entre el valor liquidativo2 de las participaciones en el momento\ndel reembolso (venta) y el valor liquidativo en el momento de la suscripción\n(compra), restando o sumando, respectivamente, los gastos asociados, esto\nes, aquellos directamente relacionados con la compra (como la comisión\nde suscripción) o con la venta (como la comisión de reembolso). Por tanto,\nfiscalmente se permite deducir estas comisiones del resultado obtenido.\nEn el caso de existir participaciones de un mismo fondo adquiridas en\ndistintas fechas, para el cálculo de las ganancias o pérdidas por la venta\nde algunas de dichas participaciones se considera que las primeras\nparticipaciones que se adquirieron son las que primero se venden (criterio\nFIFO: First In, First Out).\nUn aspecto a tener en cuenta es que el intermediario financiero puede\ncargar periódicamente comisiones por la administración y custodia de las\nparticipaciones. Estas comisiones se consideran gastos deducibles y se\nrestan de los rendimientos del capital mobiliario (RCM)3 . Sin embargo, en caso\nde haber contratado un servicio de gestión discrecional e individualizada de\ncarteras, los importes pagados por este servicio no serán deducibles.\n2.\nEl valor liquidativo es el precio unitario de la participación en un fondo de inversión. Se calcula dividendo el\npatrimonio del fondo entre el número de participaciones en circulación en ese momento.\n3.\nEstas comisiones las carga la entidad comercializadora si así lo indica el folleto del fondo (en el caso de fondos\nespañoles) y se pueden deducir de los RCM obtenidos en el año aunque no haya habido venta de fondos en el\nperiodo. No deben confundirse con las comisiones de gestión y depósito que la sociedad gestora y el depositario\ncargan directamente al fondo, que estarán deducidas del valor liquidativo del fondo (son comisiones implícitas).\nII. ¿Cómo se calcula la ganancia\no pérdida patrimonial en la\nventa de un fondo?\nValor de reembolso - gastos de venta\nValor de suscripción + gastos de compra\nGanancia o pérdida patrimonial"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de los fondos de inversión en el IRPF (Enero/2026)\n2.1.\n¿Cuánto habrá que pagar?\nComo se ha mencionado, las ganancias o las pérdidas generadas por la venta\nde los fondos se incorporan a la base imponible del ahorro. Allí se integrarán\ny compensarán junto con otras ganancias y pérdidas patrimoniales y,\nlimitadamente, con los rendimientos del capital mobiliario obtenidos en el año\n(ver el apartado V de esta guía).\nLos tipos impositivos a aplicar a las ganancias obtenidas varían entre el 19% y\nel 30% según los siguientes tramos4:\n¥ Hasta 6.000 euros de ganancia, se aplica un 19%\n¥ Desde los 6.000 euros hasta los 50.000 euros, un 21%\n¥ Entre 50.000 euros y 200.000 euros, un 23%\n¥ Entre 200.000 euros y 300.000 euros, un 27%\n¥ Más de 300.000 euros, un 30%\nEstos porcentajes se aplican por tramos progresivamente. De modo que, por\nejemplo, si el beneficio obtenido son 10.000 euros se aplicará un 19% por los\nprimeros 6.000 euros y un 21% por los 4.000 euros restantes.\n4.\nEstos porcentajes y tramos corresponden a 2025 y pueden variar cada año. Además, en País Vasco y Navarra son\ndiferentes. En la web de la Agencia Tributaria (www.aeat.es) se pueden consultar los datos actualizados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nEjemplo 1. Venta de un fondo de inversión\nEl 15 de abril se invierten 10.000 euros en el fondo A. El precio unitario\nde cada participación (valor liquidativo) en ese momento es de 10 euros.\nLa compra implica unos costes de 150 euros.\nDado que los costes de compra reducen la cantidad disponible para\ninvertir a 9.850 euros (10.000 euros - 150 euros), se podrán adquirir 985\nparticipaciones (9.850 euros / 10 euros cada participación).\nEl 7 de septiembre se reembolsan todas las participaciones siendo\nentonces el valor liquidativo de 11 euros y existiendo unos gastos de\nventa de 100 euros.\nLa ganancia patrimonial sería:\nValor de reembolso descontados gastos de venta:\n(985 x 11 € -100 €) = 10.735 €\nValor de suscripción incluidos gastos de compra:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "(9.850 € +150 €) = - 10.000 €"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Ganancia = 735 €\n¿Cuánto habría que pagar?\nTeniendo en cuenta los tipos y tramos impositivos mencionados, a los\nprimeros 6.000 euros obtenidos les corresponde un tipo del 19%:\n19% x 735 € = 139,65 €\nNota: en el momento de la venta del fondo la entidad financiera habrá\nretenido un 19% de esa ganancia (139,65 euros) como pago a cuenta del\nimpuesto. Suponiendo que solo se hubiera realizado esta operación en el\naño, cuando se presente la declaración del impuesto no habrá que realizar\nningún pago adicional, dado que el importe a pagar coincide con la retención\npracticada, pero sí habrá que declarar sobre la operación realizada."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nEjemplo 2. Venta de participaciones de un fondo\ncompradas en distintas fechas\nEl 10 de enero un inversor suscribe 500 participaciones en el fondo B\ncon un valor liquidativo de 10 euros y unos gastos de compra de 50\neuros.\nEl 15 de marzo adquiere otras 400 participaciones del fondo B a 9 euros\ncon unos gastos asociados de 44 euros.\nPosteriormente, el 23 de octubre vende 600 participaciones a un valor\nde 8,5 euros y unos gastos de 55 euros.\nA la hora de la venta y para calcular el valor de adquisición hay que\naplicar el método FIFO (se venden primero las participaciones más\nantiguas); esto quiere decir que las 600 participaciones vendidas\nse corresponden primero con las compradas el 10 de enero (500) y\nposteriormente con las de marzo (las 100 restantes).\nLa ganancia / pérdida patrimonial sería:\nValor de reembolso descontados gastos de venta:\n600 participaciones x 8,5 € -55 € = 5.045 €\nValor de suscripción incluidos los gastos:\n500 participaciones x 10 € + 50 € = -5.050 €\n100 participaciones x 9 €+ 11 € de gastos(1) = -911 €\nPérdida= -916 €\nEn este caso la entidad financiera no practicará retención alguna.\n(1)\nLos 44 euros pagados en marzo se corresponden con la compra de 400 participaciones. Hay que calcular el\nimporte prorrateado de las 100 unidades: 44€ / 400 participaciones x 100 participaciones = 11€)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de los fondos de inversión en el IRPF (Enero/2026)\n2.2 ¿Qué pasa si hay pérdidas?\nToda inversión conlleva riesgos, por lo que no siempre es posible obtener\nbeneficios. Si al vender las participaciones de un fondo se ha perdido parte\ndel dinero invertido, esas pérdidas se pueden compensar con otras ganancias\ny, con ciertos límites, con los rendimientos del capital mobiliario y así reducir\nel importe final que habrá que pagar. En el apartado V de esta guía se explica\nel procedimiento de compensación.\nIII. ¿Hay que tributar si\nse cambia de fondo?\nUn elemento relevante de la fiscalidad de los fondos es que los traspasos\nentre ellos no tributan ni están sujetos a retención.\nEl traspaso se articula mediante la suscripción de un nuevo fondo tras el\nreembolso total o parcial de las participaciones de otro fondo, sin que en\nningún momento el importe derivado del reembolso quede a disposición del\ninversor. Las nuevas participaciones suscritas conservan el valor y la fecha de\nadquisición de las participaciones reembolsadas.\nLas ganancias o pérdidas del reembolso de las antiguas participaciones no\nse computan en el IRPF. Es lo que se denomina “diferimiento fiscal”. De esta\nforma, es posible ajustar la cartera de inversión sin implicaciones fiscales.\nCuando se reembolsen definitivamente las nuevas participaciones, para\ndeterminar la ganancia o pérdida patrimonial se tomará como valor y fecha\nde adquisición el de las participaciones originales."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nPara más información sobre cómo realizar un traspaso véase la “Guía de\ntraspasos entre fondos”.\nSi tras el reembolso total o parcial de las participaciones de un\nfondo se suscribe otro nuevo (traspaso) no hay que tributar en ese\nmomento ni se retendrá ningún importe.\nEste diferimiento fiscal se aplica a los fondos de inversión\nespañoles y a los constituidos en otro país comunitario que estén\nregistrados en CNMV (UCITS con “pasaporte comunitario”), que\nson los que, con carácter general, comercializan las entidades\nfinancieras a inversores minoristas.\nPor el contrario, no se aplica a fondos de inversión cotizados (ETF,\npor sus siglas en ingles)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nEjemplo 3. Traspaso de fondos\nEl 15 de marzo se adquieren 1.000 participaciones del fondo C con un\nvalor de adquisición de cada participación de 10 euros.\nLlegado el 15 de agosto se decide traspasar todas las participaciones del\nfondo C, cuyo valor liquidativo en esa fecha es de 12 euros, al fondo D\nque tiene un valor liquidativo de 5 euros.\nEn el momento del traspaso la inversión en el fondo C asciende a: 1.000\nparticipaciones x 12 euros = 12.000 euros.\nDado que el valor liquidativo del fondo D es de 5 euros, se recibirán\n2.400 participaciones (12.000 euros de inversión / 5 euros cada nueva\nparticipación).\nA pesar de que el fondo C habría generado una ganancia a fecha de 15\nde agosto de 2.000 euros (1.000 participaciones que han incrementado\nsu valor desde los 10 euros iniciales a 12 euros, es decir, dos euros por\nfondo), no se computará a efectos fiscales. Tampoco habrá ningún tipo\nde retención.\nTras el traspaso, a efectos fiscales (*) se tendrán 2.400 participaciones\nde D que conservan el valor (10.000 euros) y fecha de adquisición (15 de\nmarzo) de las participaciones originales del fondo C.\n(*) En el caso de traspasos entre distintas entidades financieras, la entidad de origen transfiere a la entidad de\ndestino el capital y la información fiscal relativa a la operación, que incluye el detalle del valor y fecha de\nadquisición histórica de las participaciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nIV. Fondos con\ncaracterísticas\nespeciales\nExisten algunos tipos de fondos que presentan ciertas especificidades desde\nel punto de vista fiscal. Es el caso de los fondos de reparto y de los fondos\ngarantizados, ya que dependiendo de la forma de distribución del resultado\no del tipo de garantía sobre el capital invertido, la tributación puede variar.\n4.1\nFondos de reparto o de distribución\nAtendiendo a la política de distribución de resultados se puede distinguir\nentre fondos de acumulación y fondos de reparto5.\nLos fondos de acumulación o de capitalización son aquellos que no reparten\ndividendos entre sus partícipes sino que los rendimientos de los activos que\ncomponen el fondo se acumulan en el mismo. En el momento de la venta\n(desinversión) el partícipe tributará por la ganancia o pérdida generada\n(GPP) en función del valor liquidativo del fondo, como se ha explicado en el\napartado II de esta guía.\nSin embargo, en el caso de los fondos de reparto o de distribución se\ndistribuyen dividendos entre los partícipes, en función de los resultados\nobtenidos por el fondo y de lo que establezca su reglamento. Estos\ndividendos se consideran rendimientos del capital mobiliario y deben\nincluirse en la base imponible del ahorro el año en que se reciben. Los tipos\nimpositivos varían entre el 19% y 30% según diferentes tramos (ver apartado\n2.1 de esta guía). Además, están sujetos a retención por lo que el\nintermediario financiero va a retener un 19% del importe de los dividendos\ncomo pago a cuenta del impuesto que habrá que liquidar cuando se haga la\ndeclaración.\n5.\nEsta característica también puede encontrarse a nivel de las diferentes clases que emita el fondo."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de los fondos de inversión en el IRPF (Enero/2026)\n4.2\nFondos garantizados6\nLos fondos garantizados aseguran, en todo o en parte, la conservación\ndel capital invertido al cabo de un plazo predeterminado. Su tributación\ndepende del tipo de garantía (de si la recibe el fondo o el partícipe).\nLa garantía del fondo viene dada por una tercera entidad y puede ser:\nInterna: es el fondo quien recibe el capital\nsi no alcanza el valor liquidativo fijado como\nobjetivo. El inversor solo lo percibirá a través\ndel valor liquidativo de sus participaciones.\nTributan como un fondo no garantizado\n(según lo explicado en el apartado II de esta\nguía). Es decir, no tributan hasta que no se\nreembolsen las participaciones.\nExterna: el capital se entrega directamente\nal partícipe, que recibe en su cuenta la\ndiferencia entre el valor liquidativo del fondo\nen la fecha de vencimiento de la garantía\ny el valor liquidativo garantizado, en caso\nde que este último sea superior. Al igual\nque ocurre con los dividendos recibidos\nen el caso de los fondos de reparto,\nesta cantidad sí tributa en el ejercicio\neconómico en el que se percibe como\nrendimiento del capital mobiliario y está\nsujeta a una retención del 19%.\n6.\nPara mayor información sobre este tipo de fondos se puede consultar https://www.cnmv.es/DocPortal/\nPublicaciones/Guias/G06_Fondos_IIC.pdf."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nV. ¿Cómo se integran\nlos ingresos en el IRPF?\nCompensación de\npérdidas con ganancias.\nSe ha explicado de forma aislada cómo afecta la fiscalidad a los distintos\ntipos de ingresos obtenidos al invertir en fondos. Se va a analizar ahora de\nforma conjunta para entender la aplicación práctica en el IRPF7.\nLos ingresos obtenidos al invertir en fondos van a formar parte de la base del\nahorro. Para determinar la base del ahorro del período impositivo hay que\ncalcular dos bloques:\nEn este proceso de compensación hay que tener en cuenta la conocida\ncomo “norma anti-aplicación” que establece que no se computan\ncomo pérdidas patrimoniales las producidas en una venta si en los dos\nmeses anteriores o posteriores a la venta con pérdidas se han comprado\nparticipaciones en el mismo fondo. Con esta norma se pretende evitar que los\ninversores realicen operaciones de venta generando pérdidas solo a efectos\nfiscales, permaneciendo el patrimonio constante. En este caso las pérdidas\npatrimoniales se integran a medida que se transmiten las participaciones que\npermanecen en el patrimonio.\n7.\nEste apartado se refiere a los ingresos por fondos de inversión, pero estos cálculos se pueden aplicar a cualquier\notra inversión que genere ganancias y pérdidas patrimoniales o rendimientos del capital mobiliario.\nSe suman, por un lado, todos los rendimientos\ndel capital mobiliario (RCM), tanto positivos como\nnegativos, obtenidos en ese periodo, compensando\nestos entre sí.\nPor otro lado, se suman todas las pérdidas y todas\nlas ganancias patrimoniales (GPP) de ese periodo,\ncompensando así las ganancias con las pérdidas."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nUna vez calculados los dos bloques, existe la posibilidad de realizar una\ncompensación entre ellos, esto es, RCM con GPP. Si el saldo de alguno de los\ndos bloques es negativo y el otro es positivo se puede compensar el negativo\nhasta un límite del 25 % del positivo.\nEl resto de importe negativo (que no se pueda compensar por sobrepasar\nel límite del 25 %) se podrá compensar en los próximos 4 años. Por ejemplo,\nsi se ha perdido con la venta de participaciones en fondos de inversión o\nde acciones (bloque de GPP), esta pérdida se podría restar de lo ganado en\ndividendos (bloque de RCM) hasta un 25 % de esta ganancia y el resto del\nimporte negativo podrá compensarse en los 4 años siguientes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nUna vez obtenida la base del ahorro, para calcular el impuesto a liquidar por\ntodas las inversiones del año, hay que aplicar los tipos impositivos de la\nbase del ahorro, que varían entre un 19% y un 30% según el tramo en el que\nse encuentre el inversor (ver apartado 2.1).\nEjemplo 4. Compensación\nSe han realizado las siguientes operaciones con fondos de inversión en\nel año:\n¥ El 7 de septiembre se venden participaciones del fondo A obteniendo\nun beneficio de 735 euros.\n¥ El 23 de octubre se reembolsan participaciones del fondo B con una\npérdida de 916 euros.\n¥ Los gastos de custodia de los distintos fondos en el ejercicio han sido\nde 7 euros.\nAdicionalmente, se han realizado las siguientes operaciones con otros\nproductos financieros:\n¥ El 16 de febrero se cobran 570 euros de dividendos derivados de la\ninversión en acciones de la compañía X.\n¥ El 23 de junio se vende parte de las acciones que se poseen de la\nempresa W lo que genera un beneficio de 1.000 euros.\n¥ El 5 de agosto se venden de nuevo acciones de la empresa W teniendo\nuna pérdida de 2.590 euros.\n¥ El 7 de octubre se cobran unos dividendos derivados de las acciones\nen la compañía Z por importe de 114 euros.\n¥ Finalmente el 31 de diciembre se cobran intereses generados por un\ndepósito bancario por importe de 23 euros."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nSe procede a sumar y agrupar, por un lado, todas las ganancias y pérdidas\npatrimoniales (GPP) y, por otro lado, todos los rendimientos del capital\nmobiliario (RCM):\nTras compensar internamente esos bloques, se obtiene un saldo positivo\npara los RCM mientras que el de las GPP es negativo.\n¿Cuántas pérdidas se pueden compensar?\nSe puede compensar el 25% de 700 euros: un importe de 175 euros.\nEl resto de las pérdidas patrimoniales (1.771€ - 175€ = 1.596 €) se podrá\ncompensar durante los próximos 4 años.\nLa base imponible del ahorro será: 700 € – 175 € = 525 €\nY aplicando los tipos impositivos, el importe resultante a pagar\nserá de 99,75 euros (19% de 525 euros)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nRecuerda que…\n¥ Conviene tener en cuenta el componente fiscal en las decisiones de\ninversión y ahorro.\n¥ Los fondos de inversión no tributan hasta el momento de su\nreembolso.\n¥ La ganancia o pérdida patrimonial se calcula por diferencia entre el\nvalor de reembolso y el valor de suscripción de las participaciones\nconsiderando también los gastos asociados. En caso de pérdidas, se\npueden compensar con otras ganancias o, con ciertos límites, con\nrendimientos del capital mobiliario.\n¥ Una ventaja fiscal de los fondos de inversión es que los traspasos no\nestán sujetos al pago de impuestos, por lo que se puede traspasar el\ndinero de un fondo a otro sin tributar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Guía de fiscalidad de acciones\nEsta ficha tiene como finalidad informar al público en general sobre distintos\naspectos fiscales relacionados con los fondos de inversión. Por su naturaleza\ndivulgativa no puede constituir un soporte para posteriores interpretaciones\njurídicas, siendo la normativa en vigor y los criterios manifestados por la\nAdministración tributaria la única fuente a estos efectos.\nTambién podría\nser de interés…\neducacionfinanciera@cnmv.es"
+    }
+  ],
+  "text": "Fiscalidad de los fondos de inversión en el IRPF\nFiscalidad de \nlos fondos de \ninversión en \nel IRPF\nGuía\n\nFiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nÍndice\n¿Cómo tributan los fondos \nde inversión?\n¿Cómo se calcula la ganancia o \npérdida patrimonial en la venta \nde un fondo?\n¿Cuánto habrá que pagar? \n¿Qué pasa si hay pérdidas?\n¿Hay que tributar si se cambia \nde fondo? \nFondos con características \nespeciales\n¿Cómo se integran los ingresos \nen el IRPF? Compensación de \npérdidas con ganancias\n\nFiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nI. ¿Cómo tributan los\nfondos de inversión?\nEn la gestión de las finanzas personales es conveniente conocer cuánto \ny cuándo hay que pagar por las rentas que se vayan generando, si en ese \nmomento existe algún tipo de beneficio fiscal, qué gastos son fiscalmente \ndeducibles o si se pueden compensar las pérdidas con las ganancias a la hora \nde declarar el impuesto.\nEsta guía explica la fiscalidad de los fondos de inversión en el Impuesto \nsobre la Renta de las Personas Físicas (IRPF). Los fondos de inversión, como \ncualquier otro producto de inversión, están sujetos a tributación, pero tienen \ndeterminadas particularidades que conviene tener en cuenta a la hora de \ninvertir en ellos. \nPara más información acerca de cómo funcionan los fondos de inversión se \npuede consultar la guía de la CNMV “Los fondos de inversión y la inversión \ncolectiva”. \nFiscalidad de \nlos fondos de \ninversión en el \nIRPF\n\nFiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nConceptos básicos sobre \nel IRPF\nEn el IRPF se distinguen dos tipos de bases imponibles según el tipo de renta:\n¥ Base imponible general: compuesta fundamentalmente por los\nrendimientos del trabajo (salarios) y de actividades económicas así\ncomo los rendimientos de capital inmobiliario (p.ej. el alquiler de\nun piso) y los rendimientos de capital mobiliario que no tengan la\nconsideración de renta del ahorro.\n¥ Base imponible del ahorro: es donde se integran la mayor parte de\nlas rentas derivadas de la inversión en productos financieros (p.ej.\ndividendos e intereses).\nA su vez dentro de la base del ahorro se diferencia entre:\n¥ Rendimientos del capital mobiliario: contraprestaciones o\nrendimientos generados por los bienes muebles que están dentro del\npatrimonio. Si se consideran los productos de inversión, los bienes\nmuebles o mobiliarios serían, por ejemplo, las acciones, los bonos o los\nfondos, y los rendimientos del capital mobiliario serían los dividendos\nrecibidos en efectivo por tener acciones o fondos, o los intereses\nrecibidos por tener bonos.\n¥ Ganancias y pérdidas patrimoniales: para que haya ganancia o\npérdida patrimonial es necesario que se modifique la composición del\npatrimonio (por la transmisión o incorporación de bienes al patrimonio)\ny que esta modificación haga variar el valor del mismo.\nEn el caso de los fondos, se produce ganancia patrimonial si el valor de \nreembolso es mayor que el valor de suscripción y se produce pérdida si el \nvalor de reembolso es inferior al de adquisición.\n\nFiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nLas rentas de los fondos de inversión se generan fundamentalmente en \nel momento de la venta de las participaciones del fondo por la diferencia \nentre el valor de reembolso (o venta) de las mismas y el valor de \nsuscripción (o compra) y, en algunos casos, como en los fondos de reparto, \ntambién al recibir dividendos.\nLa mayoría de los fondos de inversión que se comercializan en España son \nfondos de acumulación, ya que los rendimientos que generan los distintos \nactivos que componen el fondo se acumulan en el mismo en vez de ser \ndistribuidos vía dividendos.\nEl resultado positivo o negativo que se obtiene al vender un fondo (total \no parcialmente), a efectos del IRPF, tiene la consideración de ganancia o\npérdida patrimonial (GPP) y se incluye en la base imponible del ahorro.\nA la hora de invertir, la fiscalidad es uno de los aspectos sobre los que \nes recomendable informarse adecuadamente, ya que puede afectar a \nla rentabilidad final de la inversión. Además, hay que ser consciente de \nque la fiscalidad puede cambiar a lo largo del tiempo, incluso antes de \nla liquidación de la inversión.\n\nFiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nEn el momento de la venta, el intermediario financiero va a retener un 19%1 del \nimporte de la ganancia en concepto de pago a cuenta de los impuestos que \nhabrá que liquidar cuando se haga la declaración del impuesto. En caso de \nque exista una pérdida no se retendrá nada. \nUna de las particularidades de los fondos de inversión es que no están \nsujetos a tributación hasta el momento en que se reembolsa el capital \ninvertido con la venta de las participaciones. Como se expone en el apartado \nIII de esta guía, otra característica propia de los fondos es el diferimiento \nfiscal que permite traspasar el dinero de un fondo a otro sin pagar impuestos \nen el momento del traspaso.\nSolo se tributa por las ganancias generadas, no por el dinero total \nque se obtiene del reembolso (venta) del fondo de inversión. Por \nejemplo, si se invierten en un fondo 1.000 euros y se vende por 1.200 \neuros, se tributa por la ganancia de 200 euros.\n1.\nEste porcentaje corresponde a 2025 y puede variar cada año. En la web de la Agencia Tributaria (www.aeat.es) se\npueden consultar los datos actualizados.\nSi se mantienen las participaciones o se traspasa la inversión \nde un fondo a otro, no hay que pagar impuestos.\nSólo hay que tributar cuando se venden definitivamente \nlas participaciones.\n\nFiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nLa ganancia o pérdida patrimonial se calcula por la diferencia positiva o \nnegativa entre el valor liquidativo2 de las participaciones en el momento \ndel reembolso (venta) y el valor liquidativo en el momento de la suscripción \n(compra), restando o sumando, respectivamente, los gastos asociados, esto \nes, aquellos directamente relacionados con la compra (como la comisión \nde suscripción) o con la venta (como la comisión de reembolso). Por tanto, \nfiscalmente se permite deducir estas comisiones del resultado obtenido. \nEn el caso de existir participaciones de un mismo fondo adquiridas en \ndistintas fechas, para el cálculo de las ganancias o pérdidas por la venta \nde algunas de dichas participaciones se considera que las primeras \nparticipaciones que se adquirieron son las que primero se venden (criterio \nFIFO: First In, First Out). \nUn aspecto a tener en cuenta es que el intermediario financiero puede \ncargar periódicamente comisiones por la administración y custodia de las \nparticipaciones. Estas comisiones se consideran gastos deducibles y se \nrestan de los rendimientos del capital mobiliario (RCM)3 . Sin embargo, en caso \nde haber contratado un servicio de gestión discrecional e individualizada de \ncarteras, los importes pagados por este servicio no serán deducibles.\n2.\nEl valor liquidativo es el precio unitario de la participación en un fondo de inversión. Se calcula dividendo el\npatrimonio del fondo entre el número de participaciones en circulación en ese momento.\n3.\nEstas comisiones las carga la entidad comercializadora si así lo indica el folleto del fondo (en el caso de fondos\nespañoles) y se pueden deducir de los RCM obtenidos en el año aunque no haya habido venta de fondos en el\nperiodo. No deben confundirse con las comisiones de gestión y depósito que la sociedad gestora y el depositario\ncargan directamente al fondo, que estarán deducidas del valor liquidativo del fondo (son comisiones implícitas).\nII. ¿Cómo se calcula la ganancia\no pérdida patrimonial en la\nventa de un fondo?\nValor de reembolso - gastos de venta\nValor de suscripción + gastos de compra\nGanancia o pérdida patrimonial\n\nFiscalidad de los fondos de inversión en el IRPF (Enero/2026)\n2.1. \n¿Cuánto habrá que pagar?\nComo se ha mencionado, las ganancias o las pérdidas generadas por la venta \nde los fondos se incorporan a la base imponible del ahorro. Allí se integrarán \ny compensarán junto con otras ganancias y pérdidas patrimoniales y, \nlimitadamente, con los rendimientos del capital mobiliario obtenidos en el año \n(ver el apartado V de esta guía). \nLos tipos impositivos a aplicar a las ganancias obtenidas varían entre el 19% y \nel 30% según los siguientes tramos4:\n¥ Hasta 6.000 euros de ganancia, se aplica un 19%\n¥ Desde los 6.000 euros hasta los 50.000 euros, un 21%\n¥ Entre 50.000 euros y 200.000 euros, un 23%\n¥ Entre 200.000 euros y 300.000 euros, un 27%\n¥ Más de 300.000 euros, un 30%\nEstos porcentajes se aplican por tramos progresivamente. De modo que, por \nejemplo, si el beneficio obtenido son 10.000 euros se aplicará un 19% por los \nprimeros 6.000 euros y un 21% por los 4.000 euros restantes.\n4.\nEstos porcentajes y tramos corresponden a 2025 y pueden variar cada año. Además, en País Vasco y Navarra son\ndiferentes. En la web de la Agencia Tributaria (www.aeat.es) se pueden consultar los datos actualizados.\n\nFiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nEjemplo 1. Venta de un fondo de inversión\nEl 15 de abril se invierten 10.000 euros en el fondo A. El precio unitario \nde cada participación (valor liquidativo) en ese momento es de 10 euros. \nLa compra implica unos costes de 150 euros. \nDado que los costes de compra reducen la cantidad disponible para \ninvertir a 9.850 euros (10.000 euros - 150 euros), se podrán adquirir 985 \nparticipaciones (9.850 euros / 10 euros cada participación).\nEl 7 de septiembre se reembolsan todas las participaciones siendo \nentonces el valor liquidativo de 11 euros y existiendo unos gastos de \nventa de 100 euros.\nLa ganancia patrimonial sería: \n Valor de reembolso descontados gastos de venta: \n(985 x 11 € -100 €) = 10.735 €\n Valor de suscripción incluidos gastos de compra: \n- (9.850 € +150 €) = - 10.000 €\n Ganancia = 735 €\n¿Cuánto habría que pagar?\nTeniendo en cuenta los tipos y tramos impositivos mencionados, a los \nprimeros 6.000 euros obtenidos les corresponde un tipo del 19%:\n19% x 735 € = 139,65 €\nNota: en el momento de la venta del fondo la entidad financiera habrá \nretenido un 19% de esa ganancia (139,65 euros) como pago a cuenta del \nimpuesto. Suponiendo que solo se hubiera realizado esta operación en el \naño, cuando se presente la declaración del impuesto no habrá que realizar \nningún pago adicional, dado que el importe a pagar coincide con la retención \npracticada, pero sí habrá que declarar sobre la operación realizada.\n\nFiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nEjemplo 2. Venta de participaciones de un fondo \ncompradas en distintas fechas\nEl 10 de enero un inversor suscribe 500 participaciones en el fondo B \ncon un valor liquidativo de 10 euros y unos gastos de compra de 50 \neuros. \nEl 15 de marzo adquiere otras 400 participaciones del fondo B a 9 euros \ncon unos gastos asociados de 44 euros.\nPosteriormente, el 23 de octubre vende 600 participaciones a un valor \nde 8,5 euros y unos gastos de 55 euros.\nA la hora de la venta y para calcular el valor de adquisición hay que \naplicar el método FIFO (se venden primero las participaciones más \nantiguas); esto quiere decir que las 600 participaciones vendidas \nse corresponden primero con las compradas el 10 de enero (500) y \nposteriormente con las de marzo (las 100 restantes).\nLa ganancia / pérdida patrimonial sería:\n Valor de reembolso descontados gastos de venta:\n600 participaciones x 8,5 € -55 € = 5.045 €\n Valor de suscripción incluidos los gastos:\n500 participaciones x 10 € + 50 € = -5.050 €\n100 participaciones x 9 €+ 11 € de gastos(1) = -911 €\n Pérdida= -916 €\nEn este caso la entidad financiera no practicará retención alguna.\n(1)\nLos 44 euros pagados en marzo se corresponden con la compra de 400 participaciones. Hay que calcular el\nimporte prorrateado de las 100 unidades: 44€ / 400 participaciones x 100 participaciones = 11€).\n\nFiscalidad de los fondos de inversión en el IRPF (Enero/2026)\n2.2 ¿Qué pasa si hay pérdidas?\nToda inversión conlleva riesgos, por lo que no siempre es posible obtener \nbeneficios. Si al vender las participaciones de un fondo se ha perdido parte \ndel dinero invertido, esas pérdidas se pueden compensar con otras ganancias \ny, con ciertos límites, con los rendimientos del capital mobiliario y así reducir \nel importe final que habrá que pagar. En el apartado V de esta guía se explica \nel procedimiento de compensación.\nIII. ¿Hay que tributar si\nse cambia de fondo?\nUn elemento relevante de la fiscalidad de los fondos es que los traspasos \nentre ellos no tributan ni están sujetos a retención. \nEl traspaso se articula mediante la suscripción de un nuevo fondo tras el \nreembolso total o parcial de las participaciones de otro fondo, sin que en \nningún momento el importe derivado del reembolso quede a disposición del \ninversor. Las nuevas participaciones suscritas conservan el valor y la fecha de \nadquisición de las participaciones reembolsadas.\nLas ganancias o pérdidas del reembolso de las antiguas participaciones no \nse computan en el IRPF. Es lo que se denomina “diferimiento fiscal”. De esta \nforma, es posible ajustar la cartera de inversión sin implicaciones fiscales. \nCuando se reembolsen definitivamente las nuevas participaciones, para \ndeterminar la ganancia o pérdida patrimonial se tomará como valor y fecha \nde adquisición el de las participaciones originales.\n\nFiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nPara más información sobre cómo realizar un traspaso véase la “Guía de \ntraspasos entre fondos”.\nSi tras el reembolso total o parcial de las participaciones de un \nfondo se suscribe otro nuevo (traspaso) no hay que tributar en ese \nmomento ni se retendrá ningún importe.\nEste diferimiento fiscal se aplica a los fondos de inversión \nespañoles y a los constituidos en otro país comunitario que estén \nregistrados en CNMV (UCITS con “pasaporte comunitario”), que \nson los que, con carácter general, comercializan las entidades \nfinancieras a inversores minoristas. \nPor el contrario, no se aplica a fondos de inversión cotizados (ETF, \npor sus siglas en ingles).\n\nFiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nEjemplo 3. Traspaso de fondos\nEl 15 de marzo se adquieren 1.000 participaciones del fondo C con un \nvalor de adquisición de cada participación de 10 euros. \nLlegado el 15 de agosto se decide traspasar todas las participaciones del \nfondo C, cuyo valor liquidativo en esa fecha es de 12 euros, al fondo D \nque tiene un valor liquidativo de 5 euros. \nEn el momento del traspaso la inversión en el fondo C asciende a: 1.000 \nparticipaciones x 12 euros = 12.000 euros. \nDado que el valor liquidativo del fondo D es de 5 euros, se recibirán \n2.400 participaciones (12.000 euros de inversión / 5 euros cada nueva \nparticipación). \nA pesar de que el fondo C habría generado una ganancia a fecha de 15 \nde agosto de 2.000 euros (1.000 participaciones que han incrementado \nsu valor desde los 10 euros iniciales a 12 euros, es decir, dos euros por \nfondo), no se computará a efectos fiscales. Tampoco habrá ningún tipo \nde retención.\nTras el traspaso, a efectos fiscales (*) se tendrán 2.400 participaciones \nde D que conservan el valor (10.000 euros) y fecha de adquisición (15 de \nmarzo) de las participaciones originales del fondo C.\n(*) En el caso de traspasos entre distintas entidades financieras, la entidad de origen transfiere a la entidad de \ndestino el capital y la información fiscal relativa a la operación, que incluye el detalle del valor y fecha de \nadquisición histórica de las participaciones.\n\nFiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nIV. Fondos con\ncaracterísticas\nespeciales\nExisten algunos tipos de fondos que presentan ciertas especificidades desde \nel punto de vista fiscal. Es el caso de los fondos de reparto y de los fondos \ngarantizados, ya que dependiendo de la forma de distribución del resultado \no del tipo de garantía sobre el capital invertido, la tributación puede variar.\n4.1 \n Fondos de reparto o de distribución\nAtendiendo a la política de distribución de resultados se puede distinguir \nentre fondos de acumulación y fondos de reparto5.\nLos fondos de acumulación o de capitalización son aquellos que no reparten \ndividendos entre sus partícipes sino que los rendimientos de los activos que \ncomponen el fondo se acumulan en el mismo. En el momento de la venta \n(desinversión) el partícipe tributará por la ganancia o pérdida generada \n(GPP) en función del valor liquidativo del fondo, como se ha explicado en el \napartado II de esta guía. \nSin embargo, en el caso de los fondos de reparto o de distribución se \ndistribuyen dividendos entre los partícipes, en función de los resultados \nobtenidos por el fondo y de lo que establezca su reglamento. Estos \ndividendos se consideran rendimientos del capital mobiliario y deben \nincluirse en la base imponible del ahorro el año en que se reciben. Los tipos \nimpositivos varían entre el 19% y 30% según diferentes tramos (ver apartado \n2.1 de esta guía). Además, están sujetos a retención por lo que el \nintermediario financiero va a retener un 19% del importe de los dividendos \ncomo pago a cuenta del impuesto que habrá que liquidar cuando se haga la \ndeclaración.\n5.\nEsta característica también puede encontrarse a nivel de las diferentes clases que emita el fondo.\n\nFiscalidad de los fondos de inversión en el IRPF (Enero/2026)\n4.2 \nFondos garantizados6\nLos fondos garantizados aseguran, en todo o en parte, la conservación \ndel capital invertido al cabo de un plazo predeterminado. Su tributación \ndepende del tipo de garantía (de si la recibe el fondo o el partícipe).\nLa garantía del fondo viene dada por una tercera entidad y puede ser:\nInterna: es el fondo quien recibe el capital \nsi no alcanza el valor liquidativo fijado como \nobjetivo. El inversor solo lo percibirá a través \ndel valor liquidativo de sus participaciones. \nTributan como un fondo no garantizado \n(según lo explicado en el apartado II de esta \nguía). Es decir, no tributan hasta que no se \nreembolsen las participaciones.\nExterna: el capital se entrega directamente \nal partícipe, que recibe en su cuenta la \ndiferencia entre el valor liquidativo del fondo \nen la fecha de vencimiento de la garantía \ny el valor liquidativo garantizado, en caso \nde que este último sea superior. Al igual \nque ocurre con los dividendos recibidos \nen el caso de los fondos de reparto, \nesta cantidad sí tributa en el ejercicio \neconómico en el que se percibe como \nrendimiento del capital mobiliario y está \nsujeta a una retención del 19%. \n6.\nPara mayor información sobre este tipo de fondos se puede consultar https://www.cnmv.es/DocPortal/\nPublicaciones/Guias/G06_Fondos_IIC.pdf.\n\nFiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nV. ¿Cómo se integran\nlos ingresos en el IRPF?\nCompensación de\npérdidas con ganancias.\nSe ha explicado de forma aislada cómo afecta la fiscalidad a los distintos \ntipos de ingresos obtenidos al invertir en fondos. Se va a analizar ahora de \nforma conjunta para entender la aplicación práctica en el IRPF7.\nLos ingresos obtenidos al invertir en fondos van a formar parte de la base del \nahorro. Para determinar la base del ahorro del período impositivo hay que \ncalcular dos bloques:\nEn este proceso de compensación hay que tener en cuenta la conocida \ncomo “norma anti-aplicación” que establece que no se computan \ncomo pérdidas patrimoniales las producidas en una venta si en los dos \nmeses anteriores o posteriores a la venta con pérdidas se han comprado \nparticipaciones en el mismo fondo. Con esta norma se pretende evitar que los \ninversores realicen operaciones de venta generando pérdidas solo a efectos \nfiscales, permaneciendo el patrimonio constante. En este caso las pérdidas \npatrimoniales se integran a medida que se transmiten las participaciones que \npermanecen en el patrimonio.\n7.\nEste apartado se refiere a los ingresos por fondos de inversión, pero estos cálculos se pueden aplicar a cualquier\notra inversión que genere ganancias y pérdidas patrimoniales o rendimientos del capital mobiliario.\nSe suman, por un lado, todos los rendimientos \ndel capital mobiliario (RCM), tanto positivos como \nnegativos, obtenidos en ese periodo, compensando \nestos entre sí. \nPor otro lado, se suman todas las pérdidas y todas \nlas ganancias patrimoniales (GPP) de ese periodo, \ncompensando así las ganancias con las pérdidas.\n\nFiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nUna vez calculados los dos bloques, existe la posibilidad de realizar una \ncompensación entre ellos, esto es, RCM con GPP. Si el saldo de alguno de los \ndos bloques es negativo y el otro es positivo se puede compensar el negativo \nhasta un límite del 25 % del positivo. \nEl resto de importe negativo (que no se pueda compensar por sobrepasar \nel límite del 25 %) se podrá compensar en los próximos 4 años. Por ejemplo, \nsi se ha perdido con la venta de participaciones en fondos de inversión o \nde acciones (bloque de GPP), esta pérdida se podría restar de lo ganado en \ndividendos (bloque de RCM) hasta un 25 % de esta ganancia y el resto del \nimporte negativo podrá compensarse en los 4 años siguientes.\n\nFiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nUna vez obtenida la base del ahorro, para calcular el impuesto a liquidar por \ntodas las inversiones del año, hay que aplicar los tipos impositivos de la \nbase del ahorro, que varían entre un 19% y un 30% según el tramo en el que \nse encuentre el inversor (ver apartado 2.1). \nEjemplo 4. Compensación\nSe han realizado las siguientes operaciones con fondos de inversión en \nel año: \n¥ El 7 de septiembre se venden participaciones del fondo A obteniendo\nun beneficio de 735 euros.\n¥ El 23 de octubre se reembolsan participaciones del fondo B con una\npérdida de 916 euros.\n¥ Los gastos de custodia de los distintos fondos en el ejercicio han sido\nde 7 euros.\nAdicionalmente, se han realizado las siguientes operaciones con otros \nproductos financieros: \n¥ El 16 de febrero se cobran 570 euros de dividendos derivados de la\ninversión en acciones de la compañía X.\n¥ El 23 de junio se vende parte de las acciones que se poseen de la\nempresa W lo que genera un beneficio de 1.000 euros.\n¥ El 5 de agosto se venden de nuevo acciones de la empresa W teniendo\nuna pérdida de 2.590 euros.\n¥ El 7 de octubre se cobran unos dividendos derivados de las acciones\nen la compañía Z por importe de 114 euros.\n¥ Finalmente el 31 de diciembre se cobran intereses generados por un\ndepósito bancario por importe de 23 euros.\n\nFiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nSe procede a sumar y agrupar, por un lado, todas las ganancias y pérdidas \npatrimoniales (GPP) y, por otro lado, todos los rendimientos del capital \nmobiliario (RCM): \nTras compensar internamente esos bloques, se obtiene un saldo positivo \npara los RCM mientras que el de las GPP es negativo.\n¿Cuántas pérdidas se pueden compensar?\nSe puede compensar el 25% de 700 euros: un importe de 175 euros.\nEl resto de las pérdidas patrimoniales (1.771€ - 175€ = 1.596 €) se podrá \ncompensar durante los próximos 4 años. \nLa base imponible del ahorro será: 700 € – 175 € = 525 €\nY aplicando los tipos impositivos, el importe resultante a pagar \nserá de 99,75 euros (19% de 525 euros).\n\nFiscalidad de los fondos de inversión en el IRPF (Enero/2026)\nRecuerda que…\n¥ Conviene tener en cuenta el componente fiscal en las decisiones de\ninversión y ahorro.\n¥ Los fondos de inversión no tributan hasta el momento de su\nreembolso.\n¥ La ganancia o pérdida patrimonial se calcula por diferencia entre el\nvalor de reembolso y el valor de suscripción de las participaciones\nconsiderando también los gastos asociados. En caso de pérdidas, se\npueden compensar con otras ganancias o, con ciertos límites, con\nrendimientos del capital mobiliario.\n¥ Una ventaja fiscal de los fondos de inversión es que los traspasos no\nestán sujetos al pago de impuestos, por lo que se puede traspasar el\ndinero de un fondo a otro sin tributar.\n\nGuía de fiscalidad de acciones\nEsta ficha tiene como finalidad informar al público en general sobre distintos \naspectos fiscales relacionados con los fondos de inversión. Por su naturaleza \ndivulgativa no puede constituir un soporte para posteriores interpretaciones \njurídicas, siendo la normativa en vigor y los criterios manifestados por la \nAdministración tributaria la única fuente a estos efectos.\nTambién podría \nser de interés… \neducacionfinanciera@cnmv.es",
+  "text_len": 24452,
+  "num_headings": 21,
+  "metadata": {
+    "producer": "iLovePDF",
+    "creation_date": "2026-06-05",
+    "mod_date": "2026-06-05"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Fiscalidad básica de los fondos de inversión",
+    "topic": "planificación",
+    "subtopic": "impuestos",
+    "difficulty": "intermedio",
+    "format": "PDF",
+    "summary": "Guía CNMV sobre fiscalidad de fondos de inversión en el IRPF",
+    "learning_objective": "Identificar conceptos básicos de fiscalidad de inversiones"
+  },
+  "pdf_info": {
+    "n_pages": 21,
+    "body_size": 13.0,
+    "extractor": "pymupdf"
+  },
+  "deduped_from": null
+}

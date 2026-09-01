@@ -1,0 +1,475 @@
+{
+  "content_id": "C006",
+  "url": "https://www.finanzasparatodos.es/system/cms_multimedia/cms_medias/files/000/000/398/original/8_productos_bancarios.pdf?1627554360",
+  "source": "Finanzas para Todos",
+  "host": "www.finanzasparatodos.es",
+  "url_type": "pdf",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 2008558
+  },
+  "title": "Consejos básicos de salud financiera – 8",
+  "headings": [
+    {
+      "level": 3,
+      "text": "Consejos básicos de salud financiera – 8"
+    },
+    {
+      "level": 2,
+      "text": "Cuentas operativas y tarjetas"
+    },
+    {
+      "level": 3,
+      "text": "CUENTAS Y DEPÓSITOS"
+    },
+    {
+      "level": 3,
+      "text": "EL CAJERO AUTOMÁTICO ¿QUÉ ES EL IBAN?"
+    },
+    {
+      "level": 3,
+      "text": "LAS TARJETAS"
+    },
+    {
+      "level": 3,
+      "text": "• recargar el móvil..."
+    }
+  ],
+  "sections": [
+    {
+      "level": 3,
+      "heading": "Consejos básicos de salud financiera – 8",
+      "start": 53,
+      "end": 93,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Cuentas operativas y tarjetas",
+      "start": 93,
+      "end": 634,
+      "found": true
+    },
+    {
+      "level": 3,
+      "heading": "CUENTAS Y DEPÓSITOS",
+      "start": 634,
+      "end": 5098,
+      "found": true
+    },
+    {
+      "level": 3,
+      "heading": "EL CAJERO AUTOMÁTICO ¿QUÉ ES EL IBAN?",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "LAS TARJETAS",
+      "start": 5098,
+      "end": 8187,
+      "found": true
+    },
+    {
+      "level": 3,
+      "heading": "• recargar el móvil...",
+      "start": -1,
+      "end": -1,
+      "found": false
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Seguridad, ahorro y rentabilidad\nProductos\nbancarios"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Consejos básicos de salud financiera – 8"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cuentas operativas y tarjetas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Saca tu dinero del colchón\nQuizás alguna vez has pensado\n¿para qué me sirve el banco si lo\núnico que hace es guardar el dinero\ny encima me cobra por hacerlo? La\nprimera razón es evidente: es más\nseguro un banco que tu vivienda.\nPero, además, tener una cuenta\nte facilita obtener otros productos\nbancarios básicos: te permite\nrealizar pagos sin desplazarte a\nningún sitio, te ofrece intereses\ny posibilidades de inversión y,\ncuando lo necesites, te permitirá\nsolicitar un crédito para alguna\ncompra importante."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "CUENTAS Y DEPÓSITOS"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuentas a la vista: Pueden ser corrientes o de ahorro.\nTener una cuenta a la vista permite al titular de la\nmisma retirar parte o la totalidad de su dinero en\ncualquier momento y utilizar los fondos para hacer\npagos y domiciliar recibos.\nDepósitos a plazo: Son cuentas en las que el dinero\nqueda comprometido durante un plazo fijo a cambio\nde un tipo de interés mayor que en las cuentas a la\nvista. El banco suele cobrar una penalización por\nretirar el dinero antes del tiempo contratado.\nCuentas remuneradas: Son cuentas que ofrecen\nun interés superior al habitual y permiten disponer\ndel dinero en cualquier momento, pero pueden\ntener algunas restricciones como no permitir la\ndomiciliación de nóminas, pago de recibos, etc.\nCuentas de pago básicas: Son cuentas que tienen\ncomo objetivo promover la inclusión financiera\nen la Unión Europea, facilitando el acceso de los\nconsumidores a los servicios bancarios básicos. Las\nentidades están obligadas a ofrecerlas si se cumplen\nlos requisitos para poder acceder a ellas.\nCuentas corrientes y de ahorro\nEl servicio financiero más básico que ofrecen los\nbancos y cajas es la cuenta bancaria a la vista,\nque puede ser corriente o de ahorro. La diferencia\ntradicional entre ambas es que en la cuenta corriente\nse puede disponer de los fondos mediante cheques\ny en la cuenta de ahorro se utiliza una libreta. Hoy\nen día esta diferencia es poco significativa pues\nambas suelen compaginarse con el uso de tarjetas\npara hacer pagos. Son prácticamente idénticas\nen lo demás: ingresos, pagos, domiciliaciones de\nrecibos, transferencias, retirada de efectivo mediante\ncajeros automáticos, amortizaciones de préstamos,\naportaciones a los planes de pensiones, etc.\nVENTAJAS\nINCONVENIENTES"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Comodidad para ges­"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "tionar cobros y pagos"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Disponibilidad del saldo",
+        "Sencillez de contratación",
+        "Información detallada de"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "gastos, ingresos y saldos"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Utilización de cajeros",
+        "Poco rentable",
+        "Comisiones de"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "mantenimiento y\nadministración"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Otras comisiones"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "(transferencias, uso\nde cajeros, etc.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "EL CAJERO AUTOMÁTICO\nEn España hay un volumen significativo de cajeros\nautomáticos por habitante (aunque en ocasiones\ncon reparto geográfico desigual), así que es\ndifícil quedarnos sin posibilidad de sacar efectivo.\nCuando utilices un cajero, es importante que\ntengas en cuenta las comisiones que te pueden\ncobrar por operar con un cajero de otra entidad o\nperteneciente a otra red de cajeros, o por disponer\nde dinero a crédito en vez de con cargo a tu cuenta\ncorriente.\nAl sacar dinero de un cajero, el\nbanco tiene que informarte si\nva a cobrar comisión o no y dar\nla posibilidad de\ndesistir de la\noperación.\nNFORMACIÓN SOBRE TU CUENTA\nComo cliente bancario tienes derecho a recibir\ngratuitamente y de forma periódica la siguiente\ninformación:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Cada mes de enero una comunicación en la que se"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "detallen las comisiones y gastos devengados, así\ncomo los tipos de interés efectivamente aplicados\na cada servicio bancario prestado durante el año\nanterior."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Como mínimo una vez al mes, el extracto con to­"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "dos los movimientos producidos en tu cuenta. En\nesta comunicación se incluirá, al menos, informa­\nción relativa al importe de las operaciones, el tipo\nde cambio aplicado al adeudo o abono, en caso\nde haberlo, así como el saldo tanto del extracto\nactual como del anterior. Esta comunicación no\nserá obligatoria si en el mes de referencia no se\nhan registrado movimientos."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Un documento de liquidación en el que se informe"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "del tipo de interés, las comisiones u otros gastos\naplicados en cada liquidación que practiquen por\nsus servicios."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Puede que hayas dado tu conformidad a recibir"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "esta información a través de tu banca online.\nCompruébalo y no dejes de consultarla.\n¿QUÉ ES EL IBAN?\nEl IBAN es un código internacional estandarizado para la identificación de cuentas bancarias. Es un conjunto\nde 24 dígitos y está compuesto por dos letras seguidas de 22 números:"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "País: Las dos primeras letras identifican el país y van"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "unidas a dos dígitos de control (DC) que sirven para validar\nla totalidad del IBAN."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Entidad: Los primeros cuatro dígitos son el código que"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "identifica a la entidad, asignado por el Banco de España."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "Oficina: Los cuatro dígitos siguientes identifican la oficina concreta donde mantiene la cuenta el cliente.",
+        "DC: De nuevo, son dos dígitos de control.",
+        "Número de cuenta: Lo forman los 10 últimos dígitos."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ES12 3456 7890 1234 5678 9000\nEntidad Oficina   DC Número de cuenta"
+    },
+    {
+      "type": "paragraph",
+      "text": "LAS TARJETAS\nDe débito\nCuando pagas con ella es como si utilizaras el dinero\nde tu cuenta. El importe de la compra o el dinero\nretirado en un cajero se carga en la cuenta de forma\ninmediata. El banco suele emitir una al abrir una\ncuenta.\nVENTAJAS\nINCONVENIENTES"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Comodidad de hacer"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "pagos y retirar dinero,\nrealizar transferencias,\nrecargar el móvil..."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Más seguro que llevar"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "dinero en efectivo"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Cualquier persona"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "con una cuenta puede\ntener tarjeta de débito"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Mejor control de gastos",
+        "Pago de comisiones"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "y gastos de\nmantenimiento"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Sólo se puede disponer"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "del importe del\nsaldo de la cuenta\nen ese momento"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Posibilidad de sufrir"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "fraude en caso de\nrobo o extravío\nDe crédito\nPermite realizar compras y disponer de dinero a crédito\n(con un límite establecido). La deuda puede liquidarse\ntotalmente a final de mes o parcialmente mediante\nuna cuota fija.\nVENTAJAS\nINCONVENIENTES"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Además de las ventajas"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "de la tarjeta de débito,\npermite comprar aho­\nra y pagar después"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Protección de"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "emergencias: sabes\nque podrás contar\ncon dinero en caso\nde imprevistos"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Al igual que en las"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "tarjetas de débito,\ntambién puede haber\ncomisiones y gastos, así\ncomo riesgo de fraude"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Si no se paga el"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "saldo total cada mes\nhay que pagar un\ninterés elevado"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Es fácil endeudarse"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "en exceso\nUtiliza bien tus tarjetas\nAunque el pago de las compras con tarjeta te vaya a\nllegar con retraso, ¡tendrás que pagarlas igualmente!\nHaz tus previsiones y que no te sorprenda el pago de\nla tarjeta. Además, las tarjetas de cuota fija son uno de\nlos créditos más caros que existen, con unos intereses\nmuy por encima de los de otras modalidades de crédi­\nto al consumo.\nLas comisiones que te van a cobrar por el uso de tu\ntarjeta deben figurar en el contrato y cualquier modifi­\ncación debe ser comunicada. Normalmente se cobra\nun importe fijo en concepto de emisión y luego otro\ncada año. Si hay varios beneficiarios, cada tarjeta se­\ncundaria suele pagar comisión, aunque a menudo es\nmenor que la de la tarjeta principal.\nÚsalas con seguridad:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "No anotes nunca el número secreto junto a la"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "tarjeta ni en el mismo bolso. Tampoco dejes a la\nvista tu número de la tarjeta, ni lo facilites a un\ndesconocido."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "No utilices como número secreto datos fáciles"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "como tu cumpleaños, D.N.I. o similares, y toma\nmedidas de confidencialidad al usarla."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Conserva los justificantes y compruébalos con"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "los cargos cuando recibas tu extracto mensual. Si\nrecibes algún cargo que no reconoces, comunícalo\nenseguida a tu banco."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Apunta el número de teléfono del banco para poder"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "comunicar la pérdida de la tarjeta: llévalo siempre\nanotado en un lugar separado de la tarjeta."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Guarda bien o destruye toda documentación que"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "contiene tu nombre y número de tarjeta (como los\nrecibos)."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "¡Y recuerda! tu banco nunca te llamará pidiéndote"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "el número secreto de tu tarjeta, así que desconfía y\nno se lo des a nadie que te lo pida."
+    },
+    {
+      "type": "paragraph",
+      "text": "plan de educación\nfinanciera\nwww.finanzasparatodos.es\nSíguenos en"
+    }
+  ],
+  "text": "Seguridad, ahorro y rentabilidad\nProductos\nbancarios\nConsejos básicos de salud financiera – 8\nCuentas operativas y tarjetas\n\nSaca tu dinero del colchón\nQuizás alguna vez has pensado \n¿para qué me sirve el banco si lo \núnico que hace es guardar el dinero \ny encima me cobra por hacerlo? La \nprimera razón es evidente: es más \nseguro un banco que tu vivienda. \nPero, además, tener una cuenta \nte facilita obtener otros productos \nbancarios básicos: te permite \nrealizar pagos sin desplazarte a \nningún sitio, te ofrece intereses \ny posibilidades de inversión y, \ncuando lo necesites, te permitirá \nsolicitar un crédito para alguna \ncompra importante.\nCUENTAS Y DEPÓSITOS\nCuentas a la vista: Pueden ser corrientes o de ahorro. \nTener una cuenta a la vista permite al titular de la \nmisma retirar parte o la totalidad de su dinero en \ncualquier momento y utilizar los fondos para hacer \npagos y domiciliar recibos.\nDepósitos a plazo: Son cuentas en las que el dinero \nqueda comprometido durante un plazo fijo a cambio \nde un tipo de interés mayor que en las cuentas a la \nvista. El banco suele cobrar una penalización por \nretirar el dinero antes del tiempo contratado.\nCuentas remuneradas: Son cuentas que ofrecen \nun interés superior al habitual y permiten disponer \ndel dinero en cualquier momento, pero pueden \ntener algunas restricciones como no permitir la \ndomiciliación de nóminas, pago de recibos, etc.\nCuentas de pago básicas: Son cuentas que tienen \ncomo objetivo promover la inclusión financiera \nen la Unión Europea, facilitando el acceso de los \nconsumidores a los servicios bancarios básicos. Las \nentidades están obligadas a ofrecerlas si se cumplen \nlos requisitos para poder acceder a ellas.\nCuentas corrientes y de ahorro \nEl servicio financiero más básico que ofrecen los \nbancos y cajas es la cuenta bancaria a la vista, \nque puede ser corriente o de ahorro. La diferencia \ntradicional entre ambas es que en la cuenta corriente \nse puede disponer de los fondos mediante cheques \ny en la cuenta de ahorro se utiliza una libreta. Hoy \nen día esta diferencia es poco significativa pues \nambas suelen compaginarse con el uso de tarjetas \npara hacer pagos. Son prácticamente idénticas \nen lo demás: ingresos, pagos, domiciliaciones de \nrecibos, transferencias, retirada de efectivo mediante \ncajeros automáticos, amortizaciones de préstamos, \naportaciones a los planes de pensiones, etc. \nVENTAJAS\nINCONVENIENTES\n• Comodidad para ges­\ntionar cobros y pagos\n• Disponibilidad del saldo\n• Sencillez de contratación\n• Información detallada de \ngastos, ingresos y saldos\n• Utilización de cajeros\n• Poco rentable\n• Comisiones de \nmantenimiento y \nadministración\n• Otras comisiones \n(transferencias, uso \nde cajeros, etc.)\n\nEL CAJERO AUTOMÁTICO\nEn España hay un volumen significativo de cajeros \nautomáticos por habitante (aunque en ocasiones \ncon reparto geográfico desigual), así que es \ndifícil quedarnos sin posibilidad de sacar efectivo. \nCuando utilices un cajero, es importante que \ntengas en cuenta las comisiones que te pueden \ncobrar por operar con un cajero de otra entidad o \nperteneciente a otra red de cajeros, o por disponer \nde dinero a crédito en vez de con cargo a tu cuenta \ncorriente.\nAl sacar dinero de un cajero, el \nbanco tiene que informarte si \nva a cobrar comisión o no y dar \nla posibilidad de \ndesistir de la \noperación.\nNFORMACIÓN SOBRE TU CUENTA\nComo cliente bancario tienes derecho a recibir \ngratuitamente y de forma periódica la siguiente \ninformación:\n• Cada mes de enero una comunicación en la que se \ndetallen las comisiones y gastos devengados, así \ncomo los tipos de interés efectivamente aplicados \na cada servicio bancario prestado durante el año \nanterior.\n• Como mínimo una vez al mes, el extracto con to­\ndos los movimientos producidos en tu cuenta. En \nesta comunicación se incluirá, al menos, informa­\nción relativa al importe de las operaciones, el tipo \nde cambio aplicado al adeudo o abono, en caso \nde haberlo, así como el saldo tanto del extracto \nactual como del anterior. Esta comunicación no \nserá obligatoria si en el mes de referencia no se \nhan registrado movimientos.\n• Un documento de liquidación en el que se informe \ndel tipo de interés, las comisiones u otros gastos \naplicados en cada liquidación que practiquen por \nsus servicios.\n• Puede que hayas dado tu conformidad a recibir \nesta información a través de tu banca online. \nCompruébalo y no dejes de consultarla.\n¿QUÉ ES EL IBAN?\nEl IBAN es un código internacional estandarizado para la identificación de cuentas bancarias. Es un conjunto \nde 24 dígitos y está compuesto por dos letras seguidas de 22 números:\n1. País: Las dos primeras letras identifican el país y van \nunidas a dos dígitos de control (DC) que sirven para validar \nla totalidad del IBAN.\n2. Entidad: Los primeros cuatro dígitos son el código que \nidentifica a la entidad, asignado por el Banco de España.\n3. Oficina: Los cuatro dígitos siguientes identifican la oficina concreta donde mantiene la cuenta el cliente.\n4. DC: De nuevo, son dos dígitos de control.\n5. Número de cuenta: Lo forman los 10 últimos dígitos.\nES12 3456 7890 1234 5678 9000 \nEntidad Oficina   DC Número de cuenta\n\nLAS TARJETAS\nDe débito\nCuando pagas con ella es como si utilizaras el dinero \nde tu cuenta. El importe de la compra o el dinero \nretirado en un cajero se carga en la cuenta de forma \ninmediata. El banco suele emitir una al abrir una \ncuenta.\nVENTAJAS\nINCONVENIENTES\n• Comodidad de hacer \npagos y retirar dinero, \nrealizar transferencias, \nrecargar el móvil... \n• Más seguro que llevar \ndinero en efectivo \n• Cualquier persona \ncon una cuenta puede \ntener tarjeta de débito \n• Mejor control de gastos \n• Pago de comisiones \ny gastos de \nmantenimiento \n• Sólo se puede disponer \ndel importe del \nsaldo de la cuenta \nen ese momento \n• Posibilidad de sufrir \nfraude en caso de \nrobo o extravío \nDe crédito\nPermite realizar compras y disponer de dinero a crédito \n(con un límite establecido). La deuda puede liquidarse \ntotalmente a final de mes o parcialmente mediante \nuna cuota fija.\nVENTAJAS\nINCONVENIENTES\n• Además de las ventajas \nde la tarjeta de débito, \npermite comprar aho­\nra y pagar después \n• Protección de \nemergencias: sabes \nque podrás contar \ncon dinero en caso \nde imprevistos \n• Al igual que en las \ntarjetas de débito, \ntambién puede haber \ncomisiones y gastos, así \ncomo riesgo de fraude \n• Si no se paga el \nsaldo total cada mes \nhay que pagar un \ninterés elevado \n• Es fácil endeudarse \nen exceso \nUtiliza bien tus tarjetas\nAunque el pago de las compras con tarjeta te vaya a \nllegar con retraso, ¡tendrás que pagarlas igualmente! \nHaz tus previsiones y que no te sorprenda el pago de \nla tarjeta. Además, las tarjetas de cuota fija son uno de \nlos créditos más caros que existen, con unos intereses \nmuy por encima de los de otras modalidades de crédi­\nto al consumo. \nLas comisiones que te van a cobrar por el uso de tu \ntarjeta deben figurar en el contrato y cualquier modifi­\ncación debe ser comunicada. Normalmente se cobra \nun importe fijo en concepto de emisión y luego otro \ncada año. Si hay varios beneficiarios, cada tarjeta se­\ncundaria suele pagar comisión, aunque a menudo es \nmenor que la de la tarjeta principal.\nÚsalas con seguridad:\n• No anotes nunca el número secreto junto a la \ntarjeta ni en el mismo bolso. Tampoco dejes a la \nvista tu número de la tarjeta, ni lo facilites a un \ndesconocido.\n• No utilices como número secreto datos fáciles \ncomo tu cumpleaños, D.N.I. o similares, y toma \nmedidas de confidencialidad al usarla. \n• Conserva los justificantes y compruébalos con \nlos cargos cuando recibas tu extracto mensual. Si \nrecibes algún cargo que no reconoces, comunícalo \nenseguida a tu banco. \n• Apunta el número de teléfono del banco para poder \ncomunicar la pérdida de la tarjeta: llévalo siempre \nanotado en un lugar separado de la tarjeta. \n• Guarda bien o destruye toda documentación que \ncontiene tu nombre y número de tarjeta (como los \nrecibos). \n• ¡Y recuerda! tu banco nunca te llamará pidiéndote \nel número secreto de tu tarjeta, así que desconfía y \nno se lo des a nadie que te lo pida.\n\nplan de educación\nfinanciera\nwww.finanzasparatodos.es\nSíguenos en",
+  "text_len": 8187,
+  "num_headings": 6,
+  "metadata": {
+    "creator": "Adobe InDesign 16.2 (Macintosh)",
+    "producer": "Adobe PDF Library 15.0",
+    "creation_date": "2021-07-21",
+    "mod_date": "2021-07-21"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "8 productos bancarios",
+    "topic": "cuentas bancarias",
+    "subtopic": "productos",
+    "difficulty": "básico",
+    "format": "PDF",
+    "summary": "Panorama de los productos bancarios más comunes",
+    "learning_objective": "Diferenciar entre cuentas, depósitos y otros productos"
+  },
+  "pdf_info": {
+    "n_pages": 5,
+    "body_size": 16.0,
+    "extractor": "pymupdf"
+  },
+  "deduped_from": null
+}

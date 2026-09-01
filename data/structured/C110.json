@@ -1,0 +1,46 @@
+{
+  "content_id": "C110",
+  "title": "La validación en la cadena de bloques (blockchain)",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "La validación en la cadena de bloques (blockchain)"
+    },
+    {
+      "type": "paragraph",
+      "text": "La validación de las transacciones en una cadena de bloques (blockchain) se produce gracias a un protocolo de consenso, que es el mecanismo que deben seguir los participantes de una red, (denominados ‘mineros’ o ‘nodos validadores’ en función del protocolo utilizado) para determinar qué transacciones son válidas y, por tanto, qué transacciones se incorporan y cuáles no a la cadena de bloques (blockchain).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Conceptos básicos de la validación en la cadena de bloques (blockchain)"
+    },
+    {
+      "type": "paragraph",
+      "text": "El protocolo de consenso es el pilar que garantiza la seguridad de la cadena de bloques (blockchain) confirmando que esta no tiene datos erróneos o duplicados. Así, por ejemplo, evita que una persona pueda transferir un criptoactivo dos veces.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El protocolo de consenso recompensa, con criptoactivos nativos de la propia red, a los “nodos validadores o mineros” que se encargan de validar las transacciones y asegurar la integridad de la información recogida en la cadena de bloques. De esta forma, se recompensa la actividad de validar las transacciones recogidas en la red mediante la creación de nuevos criptoactivos nativos. Por ejemplo, en la validación de la red de Bitcoin se emiten los bitcoins y en la validación de la red de Ethereum se emiten los ether. En la práctica, estos nodos son ordenadores o servidores (con mayor o menor capacidad computacional) que utilizan un software para llevar a cabo la validación de las operaciones.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por tanto, los protocolos de consenso son los mecanismos mediante los que se validan las operaciones o transacciones propuestas a la red, incluyéndolas en un bloque que pasa a formar parte del registro de la cadena de bloques (blockchain), de forma definitiva.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:41:53.063487+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 2641,
+    "input_tokens": 2207,
+    "output_tokens": 682
+  }
+}

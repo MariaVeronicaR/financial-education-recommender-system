@@ -1,0 +1,57 @@
+{
+  "content_id": "C010",
+  "tldr": "La jubilación supone dejar de cobrar un salario, y la pensión pública solo cubre una parte de los ingresos que se percibían en activo. Para vivir con comodidad es necesario planificar con antelación, estimar cuánto dinero se necesitará al mes y durante cuántos años, y complementar la pensión pública con ahorro e inversión personal y con sistemas de previsión de la empresa. El cálculo de la pensión pública depende de la edad legal de jubilación, los años de cotización y la base reguladora.",
+  "key_points": [
+    "La pensión pública solo cubre una parte de los ingresos que se percibían en activo, por lo que conviene complementarla con ahorro e inversión personal.",
+    "El primer paso para preparar la jubilación es estimar cuánto dinero se necesitará al mes y cuántos años se vivirá tras jubilarse.",
+    "Hay que tener en cuenta la inflación, ya que un importe determinado no alcanzará para vivir igual dentro de 5, 10 o 20 años.",
+    "La pensión pública se calcula según la edad legal de jubilación, los años de cotización y la base reguladora (promedio de las bases de cotización de los últimos 25 años).",
+    "Empezar a ahorrar cuanto antes es clave, sea cual sea la edad o situación familiar, para lograr una jubilación cómoda."
+  ],
+  "quiz": [
+    {
+      "question": "¿Por qué es importante tener en cuenta la inflación al planificar la jubilación?",
+      "options": [
+        "Porque reduce el número de años que tendrás que cotizar a la Seguridad Social.",
+        "Porque un importe de dinero determinado hoy no alcanzará para vivir igual dentro de varios años.",
+        "Porque obliga a contratar un seguro privado de salud.",
+        "Porque aumenta automáticamente la pensión pública que vas a recibir."
+      ],
+      "correct_index": 1,
+      "explanation": "La inflación hace que el poder adquisitivo del dinero disminuya con el tiempo, por lo que necesitarás más dinero en el futuro para mantener el mismo nivel de vida.",
+      "concept_id": "C07"
+    },
+    {
+      "question": "Según el contenido, ¿qué factores se deben considerar para calcular la pensión pública contributiva de jubilación?",
+      "options": [
+        "La edad legal de jubilación, los años de cotización y la base reguladora.",
+        "El tipo de interés del ahorro y la inflación acumulada.",
+        "El número de hijos y el patrimonio inmobiliario del trabajador.",
+        "La cuantía de la hipoteca y las deudas pendientes."
+      ],
+      "correct_index": 0,
+      "explanation": "El cálculo de la pensión pública depende de la edad legal de jubilación, los años de cotización para calcular la base reguladora y los años necesarios para cobrar un porcentaje de dicha base.",
+      "concept_id": "C23"
+    },
+    {
+      "question": "¿Cuál es la razón principal por la que se recomienda complementar la pensión pública con ahorro e inversión personal?",
+      "options": [
+        "Porque la pensión pública solo cubre una parte de los ingresos que se percibían en activo y el futuro del sistema es incierto.",
+        "Porque la pensión pública siempre cubre el 100% del último salario.",
+        "Porque es obligatorio contratar un plan de pensiones privado por ley.",
+        "Porque la pensión pública no se puede cobrar si se tiene ahorro propio."
+      ],
+      "correct_index": 0,
+      "explanation": "La pensión pública representa solo una parte de los ingresos en activo (menos cuanto mayor es el salario) y el futuro a largo plazo del sistema es incierto, por lo que conviene complementarla con ahorro e inversión personal.",
+      "concept_id": "C16"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 7200,
+    "input_tokens": 2835,
+    "output_tokens": 1051
+  }
+}

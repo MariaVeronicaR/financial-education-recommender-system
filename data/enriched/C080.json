@@ -1,0 +1,57 @@
+{
+  "content_id": "C080",
+  "tldr": "El interés compuesto es el interés que se suma al capital inicial y genera nuevos intereses sobre sí mismo, creando un efecto multiplicador. A diferencia del interés simple, que solo se calcula sobre el capital original, el compuesto hace crecer el dinero de forma acelerada a largo plazo. La fórmula es Capital final = C₀ × (1 + i)^t, y funciona igualmente en inversiones y en deudas, donde puede jugar en tu contra.",
+  "key_points": [
+    "El interés compuesto genera intereses sobre los intereses acumulados, no solo sobre el capital inicial.",
+    "La fórmula clave es Capital final = C₀ × (1 + i)^t, donde i es la tasa en decimal y t los años.",
+    "A diferencia del interés simple, en el compuesto el capital base crece cada periodo y los intereses aumentan.",
+    "Es más potente a largo plazo, sobre todo si se añaden aportaciones periódicas, incluso pequeñas.",
+    "También se aplica a préstamos y deudas, donde puede incrementar el coste total a pagar."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cuál es la diferencia fundamental entre el interés compuesto y el interés simple?",
+      "options": [
+        "El interés simple genera más rendimiento porque se aplica sobre un capital mayor",
+        "El interés compuesto se calcula sobre el capital original, mientras que el simple sobre el acumulado",
+        "El interés compuesto genera intereses sobre los intereses acumulados, mientras que el simple solo sobre el capital inicial",
+        "El interés simple solo se usa en préstamos y el compuesto solo en inversiones"
+      ],
+      "correct_index": 2,
+      "explanation": "El interés compuesto se suma al capital y genera nuevos intereses sobre ese total, mientras que el interés simple siempre se calcula sobre el capital original.",
+      "concept_id": "C06"
+    },
+    {
+      "question": "Si inviertes 100 € al 10% anual con interés compuesto, ¿cuánto tendrás al final del segundo año?",
+      "options": [
+        "120 €",
+        "121 €",
+        "110 €",
+        "130 €"
+      ],
+      "correct_index": 1,
+      "explanation": "Con la fórmula 100 × (1 + 0,10)^2 = 121 €, porque el segundo año el 10% se calcula sobre los 110 € acumulados.",
+      "concept_id": "C06"
+    },
+    {
+      "question": "Según el artículo, ¿qué efecto puede tener el interés compuesto cuando hablamos de un préstamo?",
+      "options": [
+        "Reduce automáticamente el total a pagar con cuotas fijas",
+        "Solo afecta a las inversiones, nunca a las deudas",
+        "Puede jugar en tu contra aumentando el coste total de la deuda",
+        "Elimina el pago de intereses durante el primer año"
+      ],
+      "correct_index": 2,
+      "explanation": "En un préstamo con interés compuesto, los intereses se calculan sobre el capital más los intereses acumulados, por lo que el coste total de la deuda crece.",
+      "concept_id": "C03"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 5229,
+    "input_tokens": 2451,
+    "output_tokens": 855
+  }
+}

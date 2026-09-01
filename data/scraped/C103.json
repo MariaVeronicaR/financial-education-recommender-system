@@ -1,0 +1,775 @@
+{
+  "content_id": "C103",
+  "url": "https://www.cnmv.es/DocPortal/Publicaciones/Guias/AccionistaCotizada.pdf",
+  "source": "CNMV",
+  "host": "www.cnmv.es",
+  "url_type": "pdf",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 2174221
+  },
+  "title": "El accionista de una compañía cotizada",
+  "headings": [
+    {
+      "level": 1,
+      "text": "El accionista de"
+    },
+    {
+      "level": 1,
+      "text": "una compañía"
+    },
+    {
+      "level": 1,
+      "text": "¿Qué preguntas"
+    },
+    {
+      "level": 1,
+      "text": "debe hacerse"
+    },
+    {
+      "level": 1,
+      "text": "un accionista de"
+    },
+    {
+      "level": 1,
+      "text": "I. Introducción"
+    },
+    {
+      "level": 1,
+      "text": "II. Cuestiones generales"
+    },
+    {
+      "level": 1,
+      "text": "III. Órganos de gobierno (I):"
+    },
+    {
+      "level": 1,
+      "text": "La Junta general"
+    },
+    {
+      "level": 1,
+      "text": "de accionistas"
+    },
+    {
+      "level": 1,
+      "text": "IV. Órganos de gobierno (II):"
+    },
+    {
+      "level": 1,
+      "text": "El Consejo de"
+    },
+    {
+      "level": 1,
+      "text": "administración (CA)"
+    },
+    {
+      "level": 1,
+      "text": "V. Operaciones con"
+    },
+    {
+      "level": 1,
+      "text": "VI. El derecho a la"
+    },
+    {
+      "level": 1,
+      "text": "Este conjunto de medidas"
+    },
+    {
+      "level": 1,
+      "text": "tienen como principal fin la"
+    },
+    {
+      "level": 1,
+      "text": "transparencia de los mercados."
+    },
+    {
+      "level": 1,
+      "text": "VII. Recuerde"
+    },
+    {
+      "level": 1,
+      "text": "¿Necesitas más"
+    },
+    {
+      "level": 1,
+      "text": "información?"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "El accionista de",
+      "start": 0,
+      "end": 16,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "una compañía",
+      "start": 16,
+      "end": 902,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "¿Qué preguntas",
+      "start": 902,
+      "end": 934,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "debe hacerse",
+      "start": 934,
+      "end": 948,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "un accionista de",
+      "start": 948,
+      "end": 1866,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "I. Introducción",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 1,
+      "heading": "II. Cuestiones generales",
+      "start": 1866,
+      "end": 7346,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "III. Órganos de gobierno (I):",
+      "start": 7346,
+      "end": 7460,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "La Junta general",
+      "start": 7460,
+      "end": 7479,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "de accionistas",
+      "start": 7479,
+      "end": 18684,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "IV. Órganos de gobierno (II):",
+      "start": 18684,
+      "end": 18840,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "El Consejo de",
+      "start": 18840,
+      "end": 18856,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "administración (CA)",
+      "start": 18856,
+      "end": 21637,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "V. Operaciones con",
+      "start": 21637,
+      "end": 29025,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VI. El derecho a la",
+      "start": 29025,
+      "end": 30233,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "Este conjunto de medidas",
+      "start": 30233,
+      "end": 30273,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "tienen como principal fin la",
+      "start": 30273,
+      "end": 30303,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "transparencia de los mercados.",
+      "start": 30303,
+      "end": 37999,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "VII. Recuerde",
+      "start": 37999,
+      "end": 40276,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "¿Necesitas más",
+      "start": 40276,
+      "end": 40320,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "información?",
+      "start": 40320,
+      "end": 40346,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "El accionista de"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "una compañía"
+    },
+    {
+      "type": "paragraph",
+      "text": "cotizada\nGuía"
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada\nÍndice\nIntroducción\nCuestiones generales\nÓrganos de gobierno (I):\nLa Junta general de accionistas\nÓrganos de gobierno (II):\nEl Consejo de Administración\nOperaciones con acciones\nEl derecho a la información\nRecuerde"
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada\nI. Introducción\nSi ya ha invertido en acciones o está planeando hacerlo, esta guía es para\nusted.\nEn ella podrá conocer sus derechos y las responsabilidades asociadas a la\ncondición de accionista.\nEn el primer bloque se tratan cuestiones generales, como las implicaciones\nque tiene ser accionista de una compañía cotizada, los derechos y\nobligaciones de los accionistas y las ventajas y riesgos que todo ello conlleva.\nA continuación se explican los órganos de gobierno de las compañías y su\ninterés para el pequeño inversor."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Qué preguntas"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "debe hacerse"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "un accionista de"
+    },
+    {
+      "type": "paragraph",
+      "text": "una compañía\ncotizada?"
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada\nTambién encontrará indicaciones sobre las principales operaciones que le\npueden afectar como accionista (ampliaciones de capital, fusiones y ofertas\npúblicas de adquisición –opas-), y las alternativas con las que cuentan los\ninversores en estos casos.\nPor último, se trata un tema clave, como es el derecho de información de los\naccionistas y la obligación de transparencia de las sociedades cotizadas. En la\nguía se indica dónde obtener información sobre su compañía o cómo valorar\nsi sigue las recomendaciones sobre buen gobierno corporativo.\nAunque hay otros temas que podrían desarrollarse en relación con los\nderechos y responsabilidades de los accionistas, las respuestas que\nencontrará en estas páginas son un buen comienzo para moverse con\nconfianza en el mundo de las sociedades cotizadas."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada\nII. Cuestiones generales"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué significa ser accionista?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Invertir en acciones supone convertirse en copropietario de una sociedad, en\nla parte proporcional a la participación adquirida. Por tanto, el rendimiento de\nla inversión irá ligado a la evolución de la cotización y al reparto de beneficios\nde la sociedad. A diferencia de lo que ocurre con los productos clásicos de\nrenta fija, la rentabilidad de una acción no está fijada de antemano.\nEn una sociedad se pueden encontrar dos grandes grupos de accionistas: los\nde referencia y los minoritarios.\n¥ Se consideran accionistas de referencia los que cuentan con un\nporcentaje de participación que les permite intervenir o influir en la\ngestión de la compañía.\n¥ En cambio los accionistas minoritarios tienen escasa o nula\ncapacidad de influir en la compañía, salvo que actúen de forma\nagrupada.\nEn general, ambos grupos de accionistas gozan de los mismos derechos,\naunque sus intereses no siempre tienen que ser coincidentes."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Cuáles son sus derechos como accionista?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Derechos económicos\nDerechos políticos\nDerecho al dividendo:\nEs la parte del beneficio que la Junta general\nde accionistas decide repartir, a propuesta del\nConsejo de Administración.\nLas compañías cotizadas suelen hacer\npública la política de dividendos poniéndola a\ndisposición de los inversores.\nDerecho de información:\nEl ejercicio de este derecho es fundamental\npara un adecuado seguimiento de las\ninversiones. Difícilmente podrá un accionista\ndefender de forma responsable sus derechos\nsi previamente no se ha informado.\nDerecho de suscripción preferente:\nCuando una sociedad lleva a cabo una\nampliación de capital, o emite obligaciones\nconvertibles en acciones, los accionistas\ngozan de preferencia en la suscripción de las\nnuevas acciones u obligaciones. Este derecho\nse negocia en la bolsa. No obstante, la Junta\ngeneral de accionistas puede decidir su\nexclusión.\nDerecho de asistencia y voto en las Juntas\ngenerales de accionistas:\nLa participación activa en las Juntas generales\nes un derecho y una responsabilidad del\naccionista.\nLos accionistas tienen derecho a impugnar\nlos acuerdos adoptados por la Junta\ngeneral de accionistas o por el Consejo de\nAdministración, así como a ejercitar la acción\nde responsabilidad contra los administradores,\nen las condiciones previstas legalmente.\nDerecho a la cuota de liquidación:\nSi la sociedad llegara a liquidarse, los\naccionistas tendrían derecho a recibir la parte\nproporcional a su participación, después\nde que la compañía haya satisfecho sus\nobligaciones frente a los acreedores."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué ventajas tiene invertir en una compañía"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "cotizada?\nLa inversión en acciones de una sociedad cotizada ofrece importantes\nventajas frente a la inversión en acciones no cotizadas:\nLiquidez: Puesto que se negocian en un mercado regulado,\npara comprar o vender acciones basta con transmitir a un\nintermediario autorizado la orden correspondiente. Esta\noperativa conlleva ciertos gastos: comisiones por tramitación,\ncorretajes y cánones de bolsa, etc.\nEn cambio, si la compañía no cotiza es el propio inversor\nquien debe buscar una contraparte para su operación, lo que\ncomplica y puede encarecer notablemente la operación.\nConviene destacar que no todas las sociedades cotizadas\ntienen la misma liquidez. Esta dependerá fundamentalmente\ndel tamaño de la compañía y de su capital flotante (free-\nfloat). El free-float es la parte del capital social que se\nencuentra en manos de los pequeños inversores. En principio,\nlas empresas de mayor tamaño y con mayor capital flotante\nofrecen más liquidez.\nValoración de la compañía: El mercado asigna de forma\ncontinua un valor a las sociedades cotizadas, que se recoge\nen el precio de las acciones (cotización). Por el contrario, la\nvaloración de una compañía no cotizada no está determinada\npor el mercado, por lo que es más difícil para el inversor\nestimar el precio de la acción.\nTransparencia: Las sociedades cotizadas están obligadas a\ndifundir al mercado toda la información que pueda afectar\nal precio de la acción, a través de su página web y de las\ncomunicaciones que deben remitir a la CNMV. La CNMV vigila\nde forma permanente el cumplimiento de estas obligaciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿De donde proviene el rendimiento de una"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "acción?\nEl rendimiento de las acciones puede provenir de dos vías:\n¥ Reparto de dividendos entre los accionistas o entrega de acciones\ngratuitas.\n¥ Plusvalías o minusvalías generadas por la evolución de la cotización\nen el mercado. Estas plusvalías o minusvalías solo se hacen efectivas\nen el momento en que se vende la acción."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué riesgos tiene la inversión en acciones?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Los principales riesgos están vinculados a la incertidumbre sobre sus\nrendimientos.\nLas acciones no tienen una rentabilidad conocida ni tan siquiera\npredecible.\nEl comportamiento de la acción en el pasado no garantiza su\nevolución futura.\nLa evolución de la acción no depende sólo de la propia compañía,\nsino de factores ajenos como la situación de la economía, tanto\nnacional como internacional, la evolución de otros mercados, de\nlos tipos de interés, de la inflación, etc. Por eso puede ocurrir que\nalgunas compañías con buenos resultados en sus negocios no\nvean aumentar su valor en bolsa.\nNo tienen plazo de vencimiento, por lo que la inversión sólo puede\ndeshacerse mediante la venta de las acciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada\nIII. Órganos de gobierno (I):\nLa Junta general\nde accionistas"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es la Junta general de accionistas?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Es el órgano de la sociedad integrado por todos sus accionistas. Se reúne\npara deliberar y decidir sobre los asuntos de su competencia, entre los que\ndestacan:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Valorar la gestión de la sociedad.",
+        "Aprobar las cuentas del ejercicio anterior y la propuesta de"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "aplicación del resultado (incluido el reparto de dividendos)."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Aprobar el aumento o reducción del capital social.",
+        "Aprobar la modificación de los estatutos sociales, que rigen el"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "funcionamiento de la compañía."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Aprobar la emisión de obligaciones u otros valores negociables.",
+        "Nombrar, ratificar y cesar a los miembros del Consejo de"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Administración."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Nombrar a los auditores de cuentas.",
+        "Autorizar la adquisición de acciones propias (autocartera).",
+        "Aprobar la política de remuneraciones de los consejeros y sus"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "modificaciones."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Aprobar la fusión, escisión, o transformación de la sociedad.",
+        "Autorizar la adquisición o enajenación de activos esenciales para"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "la sociedad así como la transferencia de actividades esenciales a\nentidades dependientes.\nLa Junta general de accionistas puede ser ordinaria o extraordinaria."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "La Junta ordinaria debe reunirse dentro de los seis primeros meses"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "de cada ejercicio para tratar, al menos, la aprobación de las cuentas\ndel ejercicio anterior, la distribución de beneficios y la gestión del\nConsejo de Administración."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Todas las demás reuniones de la Junta son extraordinarias."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Cómo puede saber si se ha convocado una"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Junta general de accionistas?\nLos accionistas podrán encontrar información sobre la convocatoria de la\nJunta en:\nLa página web de la sociedad de la que es accionista, dentro de la\nsección “Información para accionistas e inversores”.\nLa página web de la CNMV (www.cnmv.es) en el apartado de “Otra\ninformación relevante” o bien en el apartado “Información privilegiada”.\nEl anuncio de la convocatoria, que se publicará en uno de los diarios\nde mayor circulación en España o en el Boletín Oficial del Registro\nMercantil (BORME).\nEn cualquier caso, la compañía de la que es accionista o la entidad financiera\nque custodia sus acciones deberá comunicarle la convocatoria de la Junta y\nsu contenido.\nLa sociedad debe realizar la convocatoria como mínimo un mes antes\nde la fecha de celebración. En determinadas circunstancias, este plazo\npuede reducirse a 15 días cuando la Junta a celebrar tenga el carácter de\nextraordinaria."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada\nLa información que deberá estar a disposición de los accionistas incluirá,\nademás del propio anuncio de la convocatoria:\n¥ El orden del día y las propuestas de acuerdos a adoptar.\n¥ El derecho de los accionistas a solicitar información, a incluir puntos\nen el orden del día y a presentar propuestas de acuerdo, así como el\nplazo y forma de ejercicio de estos derechos.\n¥ Cualquier información relevante para los accionistas (informes de\nadministradores, auditores, expertos independientes, etc.).\n¥ Los medios y procedimientos para delegar la representación.\n¥ Los medios y procedimientos para el ejercicio del voto a distancia.\n¥ En el caso de nombramiento, ratificación o reelección de miembros\ndel Consejo de Administración, la identidad, el currículo, la categoría\na la que pertenezca cada uno de ellos (consejeros independientes,\nejecutivos o dominicales), los informes de la comisión de\nnombramientos y retribuciones y, cuando se trate de consejeros\nindependientes, la propuesta elaborada por dicho comité.\nDesde la publicación de la convocatoria y hasta cinco días antes de su\ncelebración, los accionistas pueden solicitar por escrito las informaciones\no aclaraciones que estimen precisas, o formular preguntas acerca de los\nasuntos comprendidos en el orden del día. Todas las solicitudes válidas\nde informaciones, aclaraciones o preguntas realizadas por escrito y las\ncontestaciones facilitadas por escrito por los administradores, se incluirán en\nla página web de la sociedad.\nEl anuncio de la convocatoria o la página web de la sociedad detallará las\ndirecciones de correo postal y electrónico a las que pueden dirigirse los\naccionistas."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Quién puede asistir a la Junta general de"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "accionistas?\nCon carácter general pueden asistir todos los accionistas que tengan las\nacciones inscritas a su nombre con una antelación, al menos, de cinco días\na aquel en que haya de celebrarse la Junta. Esta circunstancia se acredita\nmediante la correspondiente tarjeta de asistencia, que previamente le habrá\nfacilitado la compañía de la que es accionista, o bien la entidad financiera en\nla que tenga depositadas sus acciones.\nSi no recibe este documento, deberá dirigirse lo antes posible a la sociedad o\na su intermediario para que se lo faciliten.\nLos estatutos de algunas sociedades establecen un número mínimo, que no\npodrá ser superior a mil acciones, para poder asistir a la Junta. Los accionistas\nque no alcancen ese número pueden agruparse y elegir un representante.\nLos estatutos también podrán prever la posibilidad de asistencia a la Junta\npor medios telemáticos, que deberán garantizar debidamente la identidad\ndel sujeto. En la convocatoria se describirán los plazos, formas y modo de\nejercicio de los derechos de los accionistas previstos por los administradores\npara permitir el ordenado desarrollo de la Junta.\nLos accionistas que emitan sus votos a distancia deberán ser tenidos en\ncuenta a efectos de la constitución de la Junta como presentes."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada\nEn el reglamento de la Junta general de accionistas de la sociedad encontrará\ninformación detallada sobre estas cuestiones. Puede consultar el reglamento\nen la página web de la sociedad, dentro de la sección \"Información para\naccionistas e inversores\", así como en la página web de la CNMV (www.cnmv.\nes), en la sección “Consultas a registros oficiales”; “Entidades emisoras:\ninformación regulada y otra”; o en la sección “Consultas a registros oficiales”;\n“Búsqueda por entidades”."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Es posible votar por correo?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Sí. Los accionistas que cumplan con los requisitos para poder asistir a la Junta\npueden votar por correo postal o mediante comunicación electrónica.\nLas instrucciones concretas para poder ejercer el derecho de voto por correo\npostal o mediante comunicación electrónica tendrán que venir especificadas\nen la convocatoria de cada Junta.\nLos accionistas pueden dirigirse a la sociedad para obtener información sobre\nla posibilidad y los requisitos del voto a distancia."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Cómo puede delegar el voto ante una Junta"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "general?\nPuede delegar el voto mediante el documento de delegación de voto que\nle será enviado, junto con la tarjeta de asistencia, por la propia sociedad o\npor la entidad financiera en la que tenga depositadas sus acciones. Suele\nser habitual que las sociedades elaboren un solo documento que incluye la\ntarjeta de asistencia, el formulario de delegación y el de voto a distancia. Si no\nrecibe alguno de estos documentos, debe comunicarlo lo antes posible a la\nsociedad o a su intermediario para que se lo faciliten.\nEl voto se puede delegar en otros accionistas, en terceras personas, en el\npresidente del Consejo de Administración o en cualquiera de sus miembros.\nEn cualquier caso, asegúrese de que la persona a quien le otorga la delegación\nactuará en defensa de sus intereses.\nEn ocasiones, los miembros del Consejo de Administración solicitan\npúblicamente a los accionistas que les permitan representarles en la Junta. En\ntal caso, el documento de delegación debe incluir el orden del día, la solicitud\nde instrucciones para el ejercicio del derecho de voto en cada propuesta y\nla indicación del sentido en el que debe votar el consejero/representante, en\ncaso de que no se den instrucciones precisas.\nLos estatutos de las compañías cotizadas suelen prever que si la\nrepresentación que otorga el accionista no incluye instrucciones para el\nejercicio del voto o hubiera dudas sobre el destinatario o el alcance, la\ndelegación:\nSe efectúa a favor del Presidente del Consejo de\nAdministración.\nSe refiere a todas las propuestas que integran el orden del día\nde la Junta.\nSignifica el voto favorable a las propuestas."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Es importante participar en la Junta?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Como propietarios de la compañía, a los accionistas les corresponde decidir\nsobre cuestiones que, por su relevancia, han de ser debatidas y aprobadas\npor la Junta general de accionistas, y sobre las que ni siquiera el Consejo de\nAdministración tiene poder de decisión.\nPor tanto, es importante revisar la documentación correspondiente a los\ntemas que se tratarán en la Junta, y ejercer de forma responsable el derecho\nal voto.\nMuchas compañías cotizadas tienen accionistas de referencia o de\ncontrol que por su porcentaje de participación resultan determinantes en\nlas decisiones sociales. Si bien esto limita la influencia de los pequeños\naccionistas, siempre es aconsejable intervenir en la vida societaria, ya que\nde lo contrario se estaría renunciando a uno de los principales derechos\nasociados a la inversión en acciones.\nUna opción interesante para los pequeños accionistas es la posibilidad de\nasociarse para obtener un mayor peso en la Junta."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada\nAsí, los accionistas que representen al menos el tres por ciento del capital\nsocial podrán solicitar que se publique un complemento a la convocatoria de\nlas Juntas generales ordinarias, incluyendo uno o más puntos en el orden del\ndía, siempre que los nuevos puntos vayan acompañados de una justificación\no, en su caso, de una propuesta de acuerdo justificada.\nEste derecho deberá ejercitarse mediante comunicación fehaciente a la\nsociedad, que deberá recibirse en el domicilio social dentro de los cinco días\nsiguientes a la publicación de la convocatoria. La sociedad deberá publicar\nel complemento, como mínimo, con quince días de antelación a la fecha\nestablecida para la reunión de la Junta. La falta de publicación en plazo del\ncomplemento será causa de impugnación de la Junta.\nAdemás, los accionistas que representen al menos un tres por ciento del\ncapital social podrán, en el mismo plazo anterior, presentar propuestas\nfundamentadas de acuerdo sobre asuntos ya incluidos o que deban incluirse\nen el orden del día de la Junta convocada. La Sociedad difundirá entre el resto\nde accionistas estas propuestas de acuerdo y la documentación que, en su\ncaso se adjunte, a través de su página web.\nLas sociedades cotizadas están obligadas a habilitar un foro electrónico\nde accionistas, al que podrán acceder con las debidas garantías tanto\naccionistas individuales como las asociaciones de accionistas que se\npuedan constituir, con el fin de facilitar su comunicación con carácter previo\na la celebración de las Juntas generales. En este foro se podrán publicar\npropuestas que pretendan presentarse como complemento del orden del\ndía anunciado en la convocatoria, solicitudes de adhesión a tales propuestas,\niniciativas para alcanzar el porcentaje suficiente para ejercer un derecho de\nminoría previsto en la Ley, así como ofertas o peticiones de representación\nvoluntaria."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada\nIV. Órganos de gobierno (II):\nEl Consejo de\nadministración (CA)"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Cómo está compuesto el Consejo de"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Administración?\nEl Consejo de Administración de una sociedad cotizada está integrado\npor distintas clases de consejeros: los ejecutivos, los dominicales y los\nindependientes.\nLos consejeros ejecutivos desempeñan funciones de\nalta dirección o son empleados de la sociedad o de otras\nsociedades del mismo grupo.\nLos consejeros dominicales son designados por su\ncondición de accionistas o a propuesta de un accionista\nsignificativo.\nLos consejeros independientes desempeñan sus funciones\nsin verse condicionados por relación alguna con el equipo\ngestor ni con los accionistas de referencia de la sociedad. Se\neligen en atención a su capacitación profesional, solvencia y\nexperiencia.\nLa existencia de consejeros independientes debe ser valorada de forma\npositiva por el accionista minoritario."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Cuáles son las funciones del Consejo de"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Administración?\nAl Consejo de Administración le corresponde la gestión, dirección,\nadministración y representación de la sociedad. Esto implica el desarrollo de\nfunciones como:\nAproblar el plan estratégico o de negocio, los objetivos de gestión\ny presupuesto anuales, la política de inversiones y de financiación,\nla política de responsabilidad social corporativa y la política de\ndividendos.\nDeterminar la política de control y gestión de riesgos, incluidos los\nfiscales, y la supervisión de los sistemas internos de información y\ncontrol.\nDeterminar la política de gobierno corporativo de la sociedad\ny del grupo del que sea entidad dominante; su organización y\nfuncionamiento y, en particular, la aprobación y modificación de\nsu propio reglamento.\nConvocar la Junta general de accionistas y ejecutar sus acuerdos.\nFormular las cuentas anuales, el informe de gestión y la\npropuesta de aplicación del resultado, así como la aprobación\nde la información financiera que la sociedad deba hacer pública\nperiódicamente."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada\nElaborar el Informe Anual de Gobierno Corporativo, que debe\nformar parte del Informe de Gestión que se entrega junto con las\ncuentas anuales.\nAcordar el nombramiento y la destitución de los altos directivos\nque tuviesen dependencia directa del Consejo.\nAprobar las inversiones u operaciones de elevada cuantía o\nde carácter estratégico o especial riesgo fiscal, salvo que su\naprobación corresponda a la Junta.\nDefinir la estructura del grupo de sociedades del que la sociedad\nsea entidad dominante.\nAprobar, previo informe de la comisión de auditoría, las\noperaciones que la sociedad o sociedades del grupo realicen\ncon consejeros o con accionistas que tengan una participación\nsignificativa o que estén representados en el Consejo de\nAdministración."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada\nV. Operaciones con\nacciones"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿En qué consiste una ampliación de capital?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Son operaciones en las que la sociedad obtiene financiación aumentando\nsus fondos propios, mediante el incremento del valor nominal de las acciones\nya existentes o mediante la emisión de nuevas acciones (lo habitual en las\nsociedades cotizadas).\nEn las ampliaciones de capital mediante la emisión de nuevas acciones, el\nprecio podrá ser a la par (igual al valor nominal de las acciones) o con prima\nde emisión (superior al valor nominal).\n¥ Un supuesto especial de ampliación de capital es aquel que se\nefectúa con aportaciones no dinerarias. En estos casos, al convocar\nla Junta debe ponerse a disposición de los accionistas un informe\nde los administradores, en el que se describirán con detalle las\naportaciones proyectadas, su valoración (que debe ser realizada por\nuno o varios expertos independientes con competencia profesional),\nlas personas que las efectúen, así como el número y valor nominal\nde las acciones que reciben a cambio.\n¥ Otro caso particular son las ampliaciones de capital liberadas,\nque constituyen una forma de retribución al accionista, en las que el\naumento del capital se hace a costa de las reservas de la sociedad.\nPor tanto no hay aumento de los fondos propios, sino una simple\nreclasificación.\nLas ampliaciones de capital son acordadas por la Junta general. Suelen\nrequerir la elaboración de un folleto informativo que recoge las características\nde la operación, con un apartado de especial relevancia para los inversores en\nel que se detallan los factores de riesgo."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué son los derechos de suscripción"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "preferente (DSP) y qué puede hacer con ellos?\nSe trata de un derecho de los accionistas cuando la sociedad realiza una\nampliación de capital, aunque excepcionalmente la Junta general puede\nexcluirlo. Su finalidad es permitirles mantener el mismo porcentaje de\nparticipación en el capital social, y evitar el efecto dilución que se produciría\nsi no se estableciese este mecanismo.\nLos DSP son valores que cotizan en bolsa, por lo que el accionista puede:\nAcudir a la ampliación de capital ejerciendo los DSP asignados.\nVender los derechos, en su totalidad o en parte.\nAdquirir en bolsa más derechos de los asignados para posteriormente\nacudir a la ampliación e incrementar la participación en el capital.\nLos DSP que no hayan sido ejercidos durante el periodo de negociación se\nextinguen, por lo que el titular debe estar atento al plazo durante el cual\npuede venderlos o ejercerlos. En caso de desconocer dicho plazo no dude en\nconsultárselo a su intermediario financiero o a la CNMV, a través del teléfono\nde atención al inversor: 900535015"
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada\nEn todo caso, el ejercicio del derecho de suscripción preferente ser realizará\ndentro del plazo concedido por los administradores de la sociedad, que no\npodrá ser inferior a 15 dias desde la publicación del anuncio de la oferta de\nsuscripción de la nueva emisión en el Boletín Oficial del Registro Mercantil.\nEn caso de ampliaciones de capital liberadas con cargo a reservas, los\naccionistas reciben derechos de asignación gratuita, que funcionan igual que\nlos DSP."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿En qué consiste una fusión? ¿Es posible"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "oponerse?\nEs una operación en la que una sociedad absorbe a otra/s, o en la que dos\no más sociedades se integran para constituir una nueva. Es más habitual la\nprimera (fusión por absorción) con el objetivo de lograr economías de escala\no una mayor presencia en los mercados.\nComo regla general las fusiones deben ser aprobadas por las Juntas generales\nde todas las sociedades participantes, por lo que son los accionistas los que\nen última instancia determinan si les interesa o no la operación.\nPara que los accionistas puedan votar con conocimiento de causa, desde la\nconvocatoria de la Junta tienen a su disposición, entre otros documentos,\nel proyecto de fusión elaborado por los administradores de las sociedades\nque intervienen y los informes de un experto independiente y de los\nadministradores de cada una de las sociedades."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada\nComo accionista tiene derecho a votar en contra de la propuesta de fusión,\npero si resulta aprobada por la Junta general de accionistas la operación se\nllevará a cabo. En este caso usted pasará a ser accionista de la sociedad\nresultante, a través de un cambio automático de las acciones de la sociedad\nabsorbida o fusionada por acciones de la sociedad absorbente o resultante.\nNo obstante, el accionista que no hubiera votado a favor del acuerdo, tendrá\nderecho de separación al precio medio de cotización del último trimestre, en\nlos casos en los que la fusión implique la sustitución o modificación sustancial\ndel objeto social o el traslado del domicilio social al extranjero."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿En qué consiste un desdoblamiento (split) de"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "acciones?\nEl split o desdoblamiento consiste en dividir el valor nominal de las acciones\nen una proporción determinada y, de forma simultánea, multiplicar el número\nde acciones. El objetivo de esta operación es aumentar la liquidez de la\nacción mediante el aumento del número de acciones en circulación y de la\ndisminución de su valor nominal. Normalmente no requiere la participación\nactiva del accionista.\nAunque no es frecuente, puede darse la operación contraria, que se conoce\ncomo reverse split o contra split, y supone la agrupación de acciones de\nforma que aumente su precio unitario. A diferencia del split, el accionista\ndeberá cuadrar sus acciones en paquetes exactos para alcanzar el nuevo\nvalor nominal."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es una opa? ¿Qué alternativas tiene"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "ante una opa?\nUna oferta pública de adquisición (opa) es una operación por la que una\no varias personas físicas o sociedades ofrecen a todos los accionistas de\nuna compañía cotizada la compra de sus acciones, o de otros valores que\npermitan adquirirlas, a cambio de un precio. Aunque suele ser en efectivo,\neste precio también puede ser en acciones o mixto (dinero y acciones).\nLos accionistas de una sociedad objeto de una opa disponen de varias\nopciones:\nNo acudir a la opa y mantener las acciones en cartera. Esta opción\nno requiere actuación alguna por parte del accionista.\nAceptar la oferta. En este caso debe transmitir a su intermediario\nfinanciero su intención de acudir a la opa.\nNo aceptar la oferta y vender las acciones en el mercado,\npara lo que debe transmitir a su intermediario financiero la\ncorrespondiente orden de venta.\nPor las importantes consecuencias que puede tener, conviene prestar\nespecial atención a las opas de exclusión, que tienen como finalidad que\nuna sociedad deje de cotizar en bolsa. En estos casos no acudir a la opa y\nmantener las acciones implica convertirse en accionista de una compañía no\ncotizada, lo que supone pérdida de liquidez del valor, escasa transparencia de\nla compañía por las menores obligaciones de difusión de información, etc.\nEl squeeze-out y el sell-out son operaciones que pueden tener lugar en el\ncontexto de una opa cuando se cumplen determinados requisitos: en el\nprimer caso el oferente puede exigir a los accionistas la venta de sus acciones\ny en el segundo los accionistas pueden exigir al oferente la compra de estas,\nen ambos casos al precio de opa.\nAcudir a una opa es siempre voluntario."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada\nVI. El derecho a la\ninformación"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Dónde puede obtener información de una"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "compañía?\nLa inversión en acciones exige un análisis atento de la información disponible,\nno sólo antes de la adquisición sino durante todo el tiempo que se mantengan\nlas acciones en cartera.\nExisten numerosas vías y fuentes para obtener información sobre las\nsociedades cotizadas. Por su carácter reglado, objetivo y neutral, es\nconveniente acudir siempre a las fuentes oficiales.\nLas compañías cotizadas están obligadas a comunicar al mercado y a la\nCMNV toda la información que pueda influir en el valor de sus acciones.\nCon este fin, deben disponer en su página web de una sección llamada\n“Información para accionistas e inversores”.\nAdemás, toda la información pública sobre las sociedades cotizadas puede\nconsultarse en la CNMV, bien en su página web (www.cnmv.es) o a través del\nTeléfono de Atención al Inversor (900535015).\nHay que poner de relieve que la CNMV no interviene en el normal desarrollo\nde la actividad de las compañías, cuya gestión corresponde integramente a\nsus órganos de gobierno."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada\nEste conjunto de medidas\ntienen como principal fin la\ntransparencia de los mercados."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada\nLa información que todo inversor responsable debe consultar se puede\nclasificar en tres grandes grupos:\nInformación General: número de acciones en que se\nencuentra dividido el capital social de la compañía, las bolsas\nen las que cotiza la acción, la agenda del inversor (con fechas\nrelevantes como el calendario de abono de dividendos), los\nfolletos e informaciones sobre las operaciones realizadas por\nla compañía, los estatutos de la sociedad, comunicaciones\nde información privilegiada y otra información relevante,\nparticipaciones significativas y canales de comunicación\nentre la sociedad y sus accionistas.\nInformación económico-financiera: informe de auditoría,\ncuentas anuales, y la memoria e informe de gestión de la\ncompañía (al menos de los tres últimos años).\nInformación sobre el gobierno corporativo: reglamentos\nde funcionamiento de la Junta general de accionistas y del\nConsejo de Administración, orden del día, propuestas de\nacuerdos e informes sobre las propuestas, otros documentos\nde interés publicados con ocasión de la convocatoria de\nJuntas generales, delegación del voto y voto a distancia,\nidentidad y clases de consejeros, informe anual de gobierno\ncorporativo, informe anual sobre remuneraciones de los\nconsejeros, pactos parasociales, etc.\nRECUERDE visitar de forma periódica la sección “Información para accionistas\ne inversores” en la web de las compañías cotizadas."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada"
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es el Gobierno Corporativo?"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Es el conjunto de normas y principios que regulan la estructura y el\nfuncionamiento de los órganos de gobierno de una compañía.\nLas sociedades cotizadas, además de contar con un Consejo de\nAdministración, están obligadas a constituir comisiones delegadas\nespecializadas. Así, deben contar, al menos, con una comisión de auditoría\ny una comisión, o dos comisiones separadas, de nombramientos y\nretribuciones.\nLas funciones principales de la comisión de auditoría son supervisar la\nelaboración de la información financiera y la eficacia del control interno y\nlos sistemas de gestión de riesgos de la sociedad. Además, desempeña\nun papel destacado en relación con el auditor de la sociedad, ya que\ndebe presentar al Consejo de Administración las propuestas de selección,\nnombramiento, reelección y sustitución del auditor de cuentas y establecer\nlas oportunas relaciones con él. La comisión de auditoría debe estar formada\nexclusivamente por consejeros no ejecutivos la mayoría de los cuales, y en\ntodo caso, su presidente, deben ser consejeros independientes.\nLa comisión de nombramientos y retribuciones desempeña un papel\ndestacado en relación con el nombramiento de los consejeros y altos\ndirectivos de la sociedad, ya que debe informar las propuestas de\nnombramiento o separación de consejeros y altos directivos, así como\nproponer el nombramiento de consejeros independientes o su separación.\nTambién le compete a la comisión de nombramientos y retribuciones evaluar\nlas competencias, conocimientos y experiencia necesarios en el Consejo\nde Administración y proponer al Consejo la política de retribuciones de\nlos consejeros y altos directivos. Esta comisión debe estar constituida\nexclusivamente por consejeros no ejecutivos, dos de los cuales, y en todo\ncaso, su presidente, necesariamente han de ser independientes."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada\nPor otra parte, las sociedades cotizadas están obligadas a hacer público un\ninforme anual sobre su gobierno corporativo, con información sobre, entre\notras, las siguientes cuestiones:\n¥ La estructura de propiedad de la sociedad: accionistas con\nparticipaciones significativas y su representación en el Consejo\nde Administración, la participación accionarial de los consejeros,\nla existencia de pactos parasociales y las normas aplicables a la\nmodificación de los estatutos.\n¥ Composición, reglas de organización y funcionamiento del Consejo\nde Administración de la compañía y de sus comisiones, identidad y\nremuneración de sus miembros y funciones dentro de la sociedad.\n¥ Operaciones de la sociedad vinculadas con sus accionistas,\nadministradores y altos directivos.\n¥ Los sistemas de control de riesgos.\n¥ El funcionamiento de la Junta general de accionistas e información\nrelativa al desarrollo de las reuniones que se celebren.\n¥ El grado de seguimiento, por parte de la compañía, de las\nrecomendaciones de gobierno corporativo recogidas en el Código\nde Buen Gobierno, que se encuentra disponible en la web de la\nCNMV."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada\nAdemás del informe anterior, el Consejo de Administración de las\nsociedades cotizadas está obligado a elaborar y publicar anualmente un\ninforme sobre las remuneraciones de los consejeros. Este informe debe\ncontener información clara, completa y comprensible sobre la política\nde remuneraciones de los consejeros aplicable al ejercicio en curso y un\nresumen global sobre la aplicación de las remuneraciones durante el ejercicio\ncerrado, así como el detalle de las remuneraciones individuales devengadas\npor todos los conceptos por cada uno de los consejeros en dicho ejercicio.\nEl informe debe someterse a votación, con carácter consultivo y como punto\nseparado del orden del día, a la Junta general ordinaria de accionistas.\nLa Junta debe aprobar con carácter vinculante la política de remuneraciones\nde los consejeros de la sociedad cotizada, que deberá incluir el importe\nmáximo de la remuneración anual en su condición de tales, así como la\nremuneración fija y los parámetros para la fijación de los componentes\nvariables por el desempeño de funciones ejecutivas.\nLa principal finalidad de estos informes es hacer que la estructura de\ngobierno y la gestión de la compañía sean más transparentes para el conjunto\nde sus accionistas y el mercado en general."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es el Código de Buen Gobierno de las"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "sociedades cotizadas?\nSe trata de un conjunto de recomendaciones que bajo el principio\nde “cumplir o explicar” trata de fomentar la transparencia y el buen\ngobierno de las sociedades cotizadas. Esto significa que si no se siguen las\nrecomendaciones, es necesario explicar el motivo."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada\nLas recomendaciones se refieren fundamentalmente a materias relativas a la\nJunta General, el Consejo de Administración, las comisiones del Consejo y la\nremuneración de los consejeros.\nLos inversores minoristas deben valorar de forma positiva aquellas compañías\nque sigan el mayor número de las recomendaciones del Código. En el informe\nanual del gobierno corporativo (IAGC), que todas las sociedades cotizadas\nestán obligadas a publicar, se puede consultar el grado de seguimiento de las\nrecomendaciones por parte de la compañía.\nLos inversores pueden consultar el IAGC de cualquier sociedad cotizada en la\npágina web de la compañía o en la página web de la CNMV (www.cnmv.es).\nA su vez, la CNMV publica anualmente el Informe de Gobierno Corporativo\nde las entidades emisoras de valores admitidos a negociación en mercados\nsecundarios oficiales. Este informe se encuentra disponible en la página web\nde la CNMV (www.cnmv.es)."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        "¿Qué es la responsabilidad social corporativa"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "(RSC)?\nLa RSC se refiere a la contribución activa de una compañía a la mejora de su\nentorno económico, social y medioambiental. Así, compañías respetuosas\ncon el medio ambiente, que fomentan la riqueza de su zona de influencia o\nque realizan políticas activas a favor de su personal, pueden ser consideradas\nsocialmente responsables.\nLas medidas que fomentan la responsabilidad social por parte de las\ncompañías son de carácter voluntario y no están sujetas a la supervisión de la\nCNMV."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada\nVII. Recuerde\nSi está interesado en invertir en acciones, tenga presentes las siguientes\nrecomendaciones:\n¥ Infórmese sobre las implicaciones, los derechos y las responsabilidades\nque se encuentran asociados a la condición de accionista.\n¥ Un accionista responsable necesita dedicar tiempo y atención al\nseguimiento de sus inversiones. Esto no sólo significa consultar las\ncotizaciones bursátiles, sino tener en cuenta aspectos como las\nperspectivas y evolución del negocio, las variaciones en la estructura de\ncapital de la compañía o su política de dividendos.\n¥ Defienda sus intereses haciendo uso de los derechos que le corresponden\ncomo accionista. Por ejemplo, asista a las Juntas generales y vote (o\ndelegue el voto de forma responsable). Si es necesario promueva o\nparticipe en la agrupación de pequeños accionistas que puedan otorgar\nmás peso al colectivo.\n¥ El grado de transparencia de una sociedad cotizada puede ser un buen\nindicador de la importancia que otorga al pequeño inversor. Las compañías\nque asumen las recomendaciones del Código de Buen Gobierno suelen\ndemostrar mayor preocupación por la figura del pequeño accionista."
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista de una compañía cotizada\n¥ Consulte el número y la proporción de consejeros independientes de la\ncompañía en la que quiere invertir. Generalmente el pequeño accionista\nestará mejor representado en aquellas compañías donde predomine la\nfigura del consejero independiente. Por el contrario, el predominio de\nlos consejeros dominicales implicará un menor peso de los accionistas\nminoritarios.\n¥ Consulte de forma habitual la sección “Información para accionistas e\ninversores” en la web de las compañías en las que haya invertido, haga sus\npropias valoraciones y si tiene alguna duda póngase en contacto con su\ncompañía.\n¥ Para cualquier duda llame al Teléfono de Atención al Inversor (900535015)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Contáctanos por email\nEsta guía tiene como finalidad informar al público en general sobre distintos\naspectos relacionados con los mercados de valores. Por su naturaleza divulgativa\nno puede constituir un soporte para posteriores interpretaciones jurídicas, siendo\nla normativa vigente la única de aplicabilidad para estos fines.\n¿Necesitas más\ninformación?\nwww.cnmv.es"
+    }
+  ],
+  "text": "El accionista de una compañía cotizada\nEl accionista de \nuna compañía \ncotizada\nGuía\n\nEl accionista de una compañía cotizada\nÍndice\nIntroducción \nCuestiones generales\nÓrganos de gobierno (I): \nLa Junta general de accionistas \nÓrganos de gobierno (II): \nEl Consejo de Administración \nOperaciones con acciones \nEl derecho a la información \nRecuerde\n\nEl accionista de una compañía cotizada\nI. Introducción\nSi ya ha invertido en acciones o está planeando hacerlo, esta guía es para \nusted. \nEn ella podrá conocer sus derechos y las responsabilidades asociadas a la \ncondición de accionista.\nEn el primer bloque se tratan cuestiones generales, como las implicaciones \nque tiene ser accionista de una compañía cotizada, los derechos y \nobligaciones de los accionistas y las ventajas y riesgos que todo ello conlleva.\nA continuación se explican los órganos de gobierno de las compañías y su \ninterés para el pequeño inversor.\n¿Qué preguntas \ndebe hacerse \nun accionista de \nuna compañía \ncotizada?\n\nEl accionista de una compañía cotizada\nTambién encontrará indicaciones sobre las principales operaciones que le \npueden afectar como accionista (ampliaciones de capital, fusiones y ofertas \npúblicas de adquisición –opas-), y las alternativas con las que cuentan los \ninversores en estos casos.\nPor último, se trata un tema clave, como es el derecho de información de los \naccionistas y la obligación de transparencia de las sociedades cotizadas. En la \nguía se indica dónde obtener información sobre su compañía o cómo valorar \nsi sigue las recomendaciones sobre buen gobierno corporativo.\nAunque hay otros temas que podrían desarrollarse en relación con los \nderechos y responsabilidades de los accionistas, las respuestas que \nencontrará en estas páginas son un buen comienzo para moverse con \nconfianza en el mundo de las sociedades cotizadas.\n\nEl accionista de una compañía cotizada\nII. Cuestiones generales\n1. ¿Qué significa ser accionista?\nInvertir en acciones supone convertirse en copropietario de una sociedad, en \nla parte proporcional a la participación adquirida. Por tanto, el rendimiento de \nla inversión irá ligado a la evolución de la cotización y al reparto de beneficios \nde la sociedad. A diferencia de lo que ocurre con los productos clásicos de \nrenta fija, la rentabilidad de una acción no está fijada de antemano.\nEn una sociedad se pueden encontrar dos grandes grupos de accionistas: los \nde referencia y los minoritarios.\n¥ Se consideran accionistas de referencia los que cuentan con un \nporcentaje de participación que les permite intervenir o influir en la \ngestión de la compañía. \n¥ En cambio los accionistas minoritarios tienen escasa o nula \ncapacidad de influir en la compañía, salvo que actúen de forma \nagrupada. \nEn general, ambos grupos de accionistas gozan de los mismos derechos, \naunque sus intereses no siempre tienen que ser coincidentes.\n\nEl accionista de una compañía cotizada\n2. ¿Cuáles son sus derechos como accionista?\nDerechos económicos\nDerechos políticos\nDerecho al dividendo: \nEs la parte del beneficio que la Junta general \nde accionistas decide repartir, a propuesta del \nConsejo de Administración.\nLas compañías cotizadas suelen hacer \npública la política de dividendos poniéndola a \ndisposición de los inversores.\nDerecho de información: \nEl ejercicio de este derecho es fundamental \npara un adecuado seguimiento de las \ninversiones. Difícilmente podrá un accionista \ndefender de forma responsable sus derechos \nsi previamente no se ha informado.\nDerecho de suscripción preferente:\nCuando una sociedad lleva a cabo una \nampliación de capital, o emite obligaciones \nconvertibles en acciones, los accionistas \ngozan de preferencia en la suscripción de las \nnuevas acciones u obligaciones. Este derecho \nse negocia en la bolsa. No obstante, la Junta \ngeneral de accionistas puede decidir su \nexclusión.\nDerecho de asistencia y voto en las Juntas \ngenerales de accionistas:\nLa participación activa en las Juntas generales \nes un derecho y una responsabilidad del \naccionista.\nLos accionistas tienen derecho a impugnar \nlos acuerdos adoptados por la Junta \ngeneral de accionistas o por el Consejo de \nAdministración, así como a ejercitar la acción \nde responsabilidad contra los administradores, \nen las condiciones previstas legalmente.\nDerecho a la cuota de liquidación:\nSi la sociedad llegara a liquidarse, los \naccionistas tendrían derecho a recibir la parte \nproporcional a su participación, después \nde que la compañía haya satisfecho sus \nobligaciones frente a los acreedores.\n\nEl accionista de una compañía cotizada\n3. ¿Qué ventajas tiene invertir en una compañía \ncotizada?\nLa inversión en acciones de una sociedad cotizada ofrece importantes \nventajas frente a la inversión en acciones no cotizadas:\nLiquidez: Puesto que se negocian en un mercado regulado, \npara comprar o vender acciones basta con transmitir a un \nintermediario autorizado la orden correspondiente. Esta \noperativa conlleva ciertos gastos: comisiones por tramitación, \ncorretajes y cánones de bolsa, etc.\nEn cambio, si la compañía no cotiza es el propio inversor \nquien debe buscar una contraparte para su operación, lo que \ncomplica y puede encarecer notablemente la operación. \nConviene destacar que no todas las sociedades cotizadas \ntienen la misma liquidez. Esta dependerá fundamentalmente \ndel tamaño de la compañía y de su capital flotante (free-\nfloat). El free-float es la parte del capital social que se \nencuentra en manos de los pequeños inversores. En principio, \nlas empresas de mayor tamaño y con mayor capital flotante \nofrecen más liquidez. \nValoración de la compañía: El mercado asigna de forma \ncontinua un valor a las sociedades cotizadas, que se recoge \nen el precio de las acciones (cotización). Por el contrario, la \nvaloración de una compañía no cotizada no está determinada \npor el mercado, por lo que es más difícil para el inversor \nestimar el precio de la acción.\nTransparencia: Las sociedades cotizadas están obligadas a \ndifundir al mercado toda la información que pueda afectar \nal precio de la acción, a través de su página web y de las \ncomunicaciones que deben remitir a la CNMV. La CNMV vigila \nde forma permanente el cumplimiento de estas obligaciones.\n\nEl accionista de una compañía cotizada\n4. ¿De donde proviene el rendimiento de una \nacción?\nEl rendimiento de las acciones puede provenir de dos vías: \n¥ Reparto de dividendos entre los accionistas o entrega de acciones \ngratuitas. \n¥ Plusvalías o minusvalías generadas por la evolución de la cotización \nen el mercado. Estas plusvalías o minusvalías solo se hacen efectivas \nen el momento en que se vende la acción. \n5. ¿Qué riesgos tiene la inversión en acciones?\nLos principales riesgos están vinculados a la incertidumbre sobre sus \nrendimientos.\nLas acciones no tienen una rentabilidad conocida ni tan siquiera \npredecible.\nEl comportamiento de la acción en el pasado no garantiza su \nevolución futura.\nLa evolución de la acción no depende sólo de la propia compañía, \nsino de factores ajenos como la situación de la economía, tanto \nnacional como internacional, la evolución de otros mercados, de \nlos tipos de interés, de la inflación, etc. Por eso puede ocurrir que \nalgunas compañías con buenos resultados en sus negocios no \nvean aumentar su valor en bolsa.\nNo tienen plazo de vencimiento, por lo que la inversión sólo puede \ndeshacerse mediante la venta de las acciones.\n\nEl accionista de una compañía cotizada\nIII. Órganos de gobierno (I): \nLa Junta general \nde accionistas\n6. ¿Qué es la Junta general de accionistas?\nEs el órgano de la sociedad integrado por todos sus accionistas. Se reúne \npara deliberar y decidir sobre los asuntos de su competencia, entre los que \ndestacan:\n• Valorar la gestión de la sociedad.\n• Aprobar las cuentas del ejercicio anterior y la propuesta de \naplicación del resultado (incluido el reparto de dividendos).\n• Aprobar el aumento o reducción del capital social.\n• Aprobar la modificación de los estatutos sociales, que rigen el \nfuncionamiento de la compañía.\n• Aprobar la emisión de obligaciones u otros valores negociables.\n• Nombrar, ratificar y cesar a los miembros del Consejo de \nAdministración.\n• Nombrar a los auditores de cuentas.\n• Autorizar la adquisición de acciones propias (autocartera).\n• Aprobar la política de remuneraciones de los consejeros y sus \nmodificaciones.\n• Aprobar la fusión, escisión, o transformación de la sociedad.\n• Autorizar la adquisición o enajenación de activos esenciales para \nla sociedad así como la transferencia de actividades esenciales a \nentidades dependientes.\nLa Junta general de accionistas puede ser ordinaria o extraordinaria.\n• La Junta ordinaria debe reunirse dentro de los seis primeros meses \nde cada ejercicio para tratar, al menos, la aprobación de las cuentas \ndel ejercicio anterior, la distribución de beneficios y la gestión del \nConsejo de Administración. \n• Todas las demás reuniones de la Junta son extraordinarias.\n\nEl accionista de una compañía cotizada\n7. ¿Cómo puede saber si se ha convocado una \nJunta general de accionistas?\nLos accionistas podrán encontrar información sobre la convocatoria de la \nJunta en:\nLa página web de la sociedad de la que es accionista, dentro de la \nsección “Información para accionistas e inversores”.\nLa página web de la CNMV (www.cnmv.es) en el apartado de “Otra \ninformación relevante” o bien en el apartado “Información privilegiada”.\nEl anuncio de la convocatoria, que se publicará en uno de los diarios \nde mayor circulación en España o en el Boletín Oficial del Registro \nMercantil (BORME).\nEn cualquier caso, la compañía de la que es accionista o la entidad financiera \nque custodia sus acciones deberá comunicarle la convocatoria de la Junta y \nsu contenido.\nLa sociedad debe realizar la convocatoria como mínimo un mes antes \nde la fecha de celebración. En determinadas circunstancias, este plazo \npuede reducirse a 15 días cuando la Junta a celebrar tenga el carácter de \nextraordinaria.\n\nEl accionista de una compañía cotizada\nLa información que deberá estar a disposición de los accionistas incluirá, \nademás del propio anuncio de la convocatoria:\n¥ El orden del día y las propuestas de acuerdos a adoptar.\n¥ El derecho de los accionistas a solicitar información, a incluir puntos \nen el orden del día y a presentar propuestas de acuerdo, así como el \nplazo y forma de ejercicio de estos derechos.\n¥ Cualquier información relevante para los accionistas (informes de \nadministradores, auditores, expertos independientes, etc.).\n¥ Los medios y procedimientos para delegar la representación.\n¥ Los medios y procedimientos para el ejercicio del voto a distancia.\n¥ En el caso de nombramiento, ratificación o reelección de miembros \ndel Consejo de Administración, la identidad, el currículo, la categoría \na la que pertenezca cada uno de ellos (consejeros independientes, \nejecutivos o dominicales), los informes de la comisión de \nnombramientos y retribuciones y, cuando se trate de consejeros \nindependientes, la propuesta elaborada por dicho comité.\nDesde la publicación de la convocatoria y hasta cinco días antes de su \ncelebración, los accionistas pueden solicitar por escrito las informaciones \no aclaraciones que estimen precisas, o formular preguntas acerca de los \nasuntos comprendidos en el orden del día. Todas las solicitudes válidas \nde informaciones, aclaraciones o preguntas realizadas por escrito y las \ncontestaciones facilitadas por escrito por los administradores, se incluirán en \nla página web de la sociedad.\nEl anuncio de la convocatoria o la página web de la sociedad detallará las \ndirecciones de correo postal y electrónico a las que pueden dirigirse los \naccionistas.\n\nEl accionista de una compañía cotizada\n8. ¿Quién puede asistir a la Junta general de \naccionistas?\nCon carácter general pueden asistir todos los accionistas que tengan las \nacciones inscritas a su nombre con una antelación, al menos, de cinco días \na aquel en que haya de celebrarse la Junta. Esta circunstancia se acredita \nmediante la correspondiente tarjeta de asistencia, que previamente le habrá \nfacilitado la compañía de la que es accionista, o bien la entidad financiera en \nla que tenga depositadas sus acciones.\nSi no recibe este documento, deberá dirigirse lo antes posible a la sociedad o \na su intermediario para que se lo faciliten. \nLos estatutos de algunas sociedades establecen un número mínimo, que no \npodrá ser superior a mil acciones, para poder asistir a la Junta. Los accionistas \nque no alcancen ese número pueden agruparse y elegir un representante.\nLos estatutos también podrán prever la posibilidad de asistencia a la Junta \npor medios telemáticos, que deberán garantizar debidamente la identidad \ndel sujeto. En la convocatoria se describirán los plazos, formas y modo de \nejercicio de los derechos de los accionistas previstos por los administradores \npara permitir el ordenado desarrollo de la Junta.\nLos accionistas que emitan sus votos a distancia deberán ser tenidos en \ncuenta a efectos de la constitución de la Junta como presentes.\n\nEl accionista de una compañía cotizada\nEn el reglamento de la Junta general de accionistas de la sociedad encontrará \ninformación detallada sobre estas cuestiones. Puede consultar el reglamento \nen la página web de la sociedad, dentro de la sección \"Información para \naccionistas e inversores\", así como en la página web de la CNMV (www.cnmv.\nes), en la sección “Consultas a registros oficiales”; “Entidades emisoras: \ninformación regulada y otra”; o en la sección “Consultas a registros oficiales”; \n“Búsqueda por entidades”. \n9. ¿Es posible votar por correo?\nSí. Los accionistas que cumplan con los requisitos para poder asistir a la Junta \npueden votar por correo postal o mediante comunicación electrónica.\nLas instrucciones concretas para poder ejercer el derecho de voto por correo \npostal o mediante comunicación electrónica tendrán que venir especificadas \nen la convocatoria de cada Junta.\nLos accionistas pueden dirigirse a la sociedad para obtener información sobre \nla posibilidad y los requisitos del voto a distancia.\n\nEl accionista de una compañía cotizada\n10. ¿Cómo puede delegar el voto ante una Junta \ngeneral?\nPuede delegar el voto mediante el documento de delegación de voto que \nle será enviado, junto con la tarjeta de asistencia, por la propia sociedad o \npor la entidad financiera en la que tenga depositadas sus acciones. Suele \nser habitual que las sociedades elaboren un solo documento que incluye la \ntarjeta de asistencia, el formulario de delegación y el de voto a distancia. Si no \nrecibe alguno de estos documentos, debe comunicarlo lo antes posible a la \nsociedad o a su intermediario para que se lo faciliten. \nEl voto se puede delegar en otros accionistas, en terceras personas, en el \npresidente del Consejo de Administración o en cualquiera de sus miembros. \nEn cualquier caso, asegúrese de que la persona a quien le otorga la delegación \nactuará en defensa de sus intereses.\nEn ocasiones, los miembros del Consejo de Administración solicitan \npúblicamente a los accionistas que les permitan representarles en la Junta. En \ntal caso, el documento de delegación debe incluir el orden del día, la solicitud \nde instrucciones para el ejercicio del derecho de voto en cada propuesta y \nla indicación del sentido en el que debe votar el consejero/representante, en \ncaso de que no se den instrucciones precisas.\nLos estatutos de las compañías cotizadas suelen prever que si la \nrepresentación que otorga el accionista no incluye instrucciones para el \nejercicio del voto o hubiera dudas sobre el destinatario o el alcance, la \ndelegación:\nSe efectúa a favor del Presidente del Consejo de \nAdministración.\nSe refiere a todas las propuestas que integran el orden del día \nde la Junta.\nSignifica el voto favorable a las propuestas.\n\nEl accionista de una compañía cotizada\n11. ¿Es importante participar en la Junta?\nComo propietarios de la compañía, a los accionistas les corresponde decidir \nsobre cuestiones que, por su relevancia, han de ser debatidas y aprobadas \npor la Junta general de accionistas, y sobre las que ni siquiera el Consejo de \nAdministración tiene poder de decisión.\nPor tanto, es importante revisar la documentación correspondiente a los \ntemas que se tratarán en la Junta, y ejercer de forma responsable el derecho \nal voto.\nMuchas compañías cotizadas tienen accionistas de referencia o de \ncontrol que por su porcentaje de participación resultan determinantes en \nlas decisiones sociales. Si bien esto limita la influencia de los pequeños \naccionistas, siempre es aconsejable intervenir en la vida societaria, ya que \nde lo contrario se estaría renunciando a uno de los principales derechos \nasociados a la inversión en acciones.\nUna opción interesante para los pequeños accionistas es la posibilidad de \nasociarse para obtener un mayor peso en la Junta.\n\nEl accionista de una compañía cotizada\nAsí, los accionistas que representen al menos el tres por ciento del capital \nsocial podrán solicitar que se publique un complemento a la convocatoria de \nlas Juntas generales ordinarias, incluyendo uno o más puntos en el orden del \ndía, siempre que los nuevos puntos vayan acompañados de una justificación \no, en su caso, de una propuesta de acuerdo justificada.\nEste derecho deberá ejercitarse mediante comunicación fehaciente a la \nsociedad, que deberá recibirse en el domicilio social dentro de los cinco días \nsiguientes a la publicación de la convocatoria. La sociedad deberá publicar \nel complemento, como mínimo, con quince días de antelación a la fecha \nestablecida para la reunión de la Junta. La falta de publicación en plazo del \ncomplemento será causa de impugnación de la Junta.\nAdemás, los accionistas que representen al menos un tres por ciento del \ncapital social podrán, en el mismo plazo anterior, presentar propuestas \nfundamentadas de acuerdo sobre asuntos ya incluidos o que deban incluirse \nen el orden del día de la Junta convocada. La Sociedad difundirá entre el resto \nde accionistas estas propuestas de acuerdo y la documentación que, en su \ncaso se adjunte, a través de su página web.\nLas sociedades cotizadas están obligadas a habilitar un foro electrónico \nde accionistas, al que podrán acceder con las debidas garantías tanto \naccionistas individuales como las asociaciones de accionistas que se \npuedan constituir, con el fin de facilitar su comunicación con carácter previo \na la celebración de las Juntas generales. En este foro se podrán publicar \npropuestas que pretendan presentarse como complemento del orden del \ndía anunciado en la convocatoria, solicitudes de adhesión a tales propuestas, \niniciativas para alcanzar el porcentaje suficiente para ejercer un derecho de \nminoría previsto en la Ley, así como ofertas o peticiones de representación \nvoluntaria.\n\nEl accionista de una compañía cotizada\nIV. Órganos de gobierno (II): \nEl Consejo de \nadministración (CA)\n12. ¿Cómo está compuesto el Consejo de \nAdministración?\nEl Consejo de Administración de una sociedad cotizada está integrado \npor distintas clases de consejeros: los ejecutivos, los dominicales y los \nindependientes.\nLos consejeros ejecutivos desempeñan funciones de \nalta dirección o son empleados de la sociedad o de otras \nsociedades del mismo grupo.\nLos consejeros dominicales son designados por su \ncondición de accionistas o a propuesta de un accionista \nsignificativo.\nLos consejeros independientes desempeñan sus funciones \nsin verse condicionados por relación alguna con el equipo \ngestor ni con los accionistas de referencia de la sociedad. Se \neligen en atención a su capacitación profesional, solvencia y \nexperiencia.\nLa existencia de consejeros independientes debe ser valorada de forma \npositiva por el accionista minoritario.\n\nEl accionista de una compañía cotizada\n13. ¿Cuáles son las funciones del Consejo de \nAdministración?\nAl Consejo de Administración le corresponde la gestión, dirección, \nadministración y representación de la sociedad. Esto implica el desarrollo de \nfunciones como:\nAproblar el plan estratégico o de negocio, los objetivos de gestión \ny presupuesto anuales, la política de inversiones y de financiación, \nla política de responsabilidad social corporativa y la política de \ndividendos.\nDeterminar la política de control y gestión de riesgos, incluidos los \nfiscales, y la supervisión de los sistemas internos de información y \ncontrol.\nDeterminar la política de gobierno corporativo de la sociedad \ny del grupo del que sea entidad dominante; su organización y \nfuncionamiento y, en particular, la aprobación y modificación de \nsu propio reglamento.\nConvocar la Junta general de accionistas y ejecutar sus acuerdos.\nFormular las cuentas anuales, el informe de gestión y la \npropuesta de aplicación del resultado, así como la aprobación \nde la información financiera que la sociedad deba hacer pública \nperiódicamente.\n\nEl accionista de una compañía cotizada\nElaborar el Informe Anual de Gobierno Corporativo, que debe \nformar parte del Informe de Gestión que se entrega junto con las \ncuentas anuales.\nAcordar el nombramiento y la destitución de los altos directivos \nque tuviesen dependencia directa del Consejo.\nAprobar las inversiones u operaciones de elevada cuantía o \nde carácter estratégico o especial riesgo fiscal, salvo que su \naprobación corresponda a la Junta.\nDefinir la estructura del grupo de sociedades del que la sociedad \nsea entidad dominante.\nAprobar, previo informe de la comisión de auditoría, las \noperaciones que la sociedad o sociedades del grupo realicen \ncon consejeros o con accionistas que tengan una participación \nsignificativa o que estén representados en el Consejo de \nAdministración.\n\nEl accionista de una compañía cotizada\nV. Operaciones con \nacciones\n14. ¿En qué consiste una ampliación de capital?\nSon operaciones en las que la sociedad obtiene financiación aumentando \nsus fondos propios, mediante el incremento del valor nominal de las acciones \nya existentes o mediante la emisión de nuevas acciones (lo habitual en las \nsociedades cotizadas).\nEn las ampliaciones de capital mediante la emisión de nuevas acciones, el \nprecio podrá ser a la par (igual al valor nominal de las acciones) o con prima \nde emisión (superior al valor nominal).\n¥ Un supuesto especial de ampliación de capital es aquel que se \nefectúa con aportaciones no dinerarias. En estos casos, al convocar \nla Junta debe ponerse a disposición de los accionistas un informe \nde los administradores, en el que se describirán con detalle las \naportaciones proyectadas, su valoración (que debe ser realizada por \nuno o varios expertos independientes con competencia profesional), \nlas personas que las efectúen, así como el número y valor nominal \nde las acciones que reciben a cambio.\n¥ Otro caso particular son las ampliaciones de capital liberadas, \nque constituyen una forma de retribución al accionista, en las que el \naumento del capital se hace a costa de las reservas de la sociedad. \nPor tanto no hay aumento de los fondos propios, sino una simple \nreclasificación.\nLas ampliaciones de capital son acordadas por la Junta general. Suelen \nrequerir la elaboración de un folleto informativo que recoge las características \nde la operación, con un apartado de especial relevancia para los inversores en \nel que se detallan los factores de riesgo.\n\nEl accionista de una compañía cotizada\n15. ¿Qué son los derechos de suscripción \npreferente (DSP) y qué puede hacer con ellos?\nSe trata de un derecho de los accionistas cuando la sociedad realiza una \nampliación de capital, aunque excepcionalmente la Junta general puede \nexcluirlo. Su finalidad es permitirles mantener el mismo porcentaje de \nparticipación en el capital social, y evitar el efecto dilución que se produciría \nsi no se estableciese este mecanismo.\nLos DSP son valores que cotizan en bolsa, por lo que el accionista puede:\nAcudir a la ampliación de capital ejerciendo los DSP asignados.\nVender los derechos, en su totalidad o en parte.\nAdquirir en bolsa más derechos de los asignados para posteriormente \nacudir a la ampliación e incrementar la participación en el capital.\nLos DSP que no hayan sido ejercidos durante el periodo de negociación se \nextinguen, por lo que el titular debe estar atento al plazo durante el cual \npuede venderlos o ejercerlos. En caso de desconocer dicho plazo no dude en \nconsultárselo a su intermediario financiero o a la CNMV, a través del teléfono \nde atención al inversor: 900535015\n\nEl accionista de una compañía cotizada\nEn todo caso, el ejercicio del derecho de suscripción preferente ser realizará \ndentro del plazo concedido por los administradores de la sociedad, que no \npodrá ser inferior a 15 dias desde la publicación del anuncio de la oferta de \nsuscripción de la nueva emisión en el Boletín Oficial del Registro Mercantil.\nEn caso de ampliaciones de capital liberadas con cargo a reservas, los \naccionistas reciben derechos de asignación gratuita, que funcionan igual que \nlos DSP.\n16. ¿En qué consiste una fusión? ¿Es posible \noponerse?\nEs una operación en la que una sociedad absorbe a otra/s, o en la que dos \no más sociedades se integran para constituir una nueva. Es más habitual la \nprimera (fusión por absorción) con el objetivo de lograr economías de escala \no una mayor presencia en los mercados.\nComo regla general las fusiones deben ser aprobadas por las Juntas generales \nde todas las sociedades participantes, por lo que son los accionistas los que \nen última instancia determinan si les interesa o no la operación.\nPara que los accionistas puedan votar con conocimiento de causa, desde la \nconvocatoria de la Junta tienen a su disposición, entre otros documentos, \nel proyecto de fusión elaborado por los administradores de las sociedades \nque intervienen y los informes de un experto independiente y de los \nadministradores de cada una de las sociedades.\n\nEl accionista de una compañía cotizada\nComo accionista tiene derecho a votar en contra de la propuesta de fusión, \npero si resulta aprobada por la Junta general de accionistas la operación se \nllevará a cabo. En este caso usted pasará a ser accionista de la sociedad \nresultante, a través de un cambio automático de las acciones de la sociedad \nabsorbida o fusionada por acciones de la sociedad absorbente o resultante. \nNo obstante, el accionista que no hubiera votado a favor del acuerdo, tendrá \nderecho de separación al precio medio de cotización del último trimestre, en \nlos casos en los que la fusión implique la sustitución o modificación sustancial \ndel objeto social o el traslado del domicilio social al extranjero.\n17. ¿En qué consiste un desdoblamiento (split) de \nacciones?\nEl split o desdoblamiento consiste en dividir el valor nominal de las acciones \nen una proporción determinada y, de forma simultánea, multiplicar el número \nde acciones. El objetivo de esta operación es aumentar la liquidez de la \nacción mediante el aumento del número de acciones en circulación y de la \ndisminución de su valor nominal. Normalmente no requiere la participación \nactiva del accionista.\nAunque no es frecuente, puede darse la operación contraria, que se conoce \ncomo reverse split o contra split, y supone la agrupación de acciones de \nforma que aumente su precio unitario. A diferencia del split, el accionista \ndeberá cuadrar sus acciones en paquetes exactos para alcanzar el nuevo \nvalor nominal.\n\nEl accionista de una compañía cotizada\n18. ¿Qué es una opa? ¿Qué alternativas tiene \nante una opa?\nUna oferta pública de adquisición (opa) es una operación por la que una \no varias personas físicas o sociedades ofrecen a todos los accionistas de \nuna compañía cotizada la compra de sus acciones, o de otros valores que \npermitan adquirirlas, a cambio de un precio. Aunque suele ser en efectivo, \neste precio también puede ser en acciones o mixto (dinero y acciones).\nLos accionistas de una sociedad objeto de una opa disponen de varias \nopciones:\nNo acudir a la opa y mantener las acciones en cartera. Esta opción \nno requiere actuación alguna por parte del accionista.\nAceptar la oferta. En este caso debe transmitir a su intermediario \nfinanciero su intención de acudir a la opa.\nNo aceptar la oferta y vender las acciones en el mercado, \npara lo que debe transmitir a su intermediario financiero la \ncorrespondiente orden de venta.\nPor las importantes consecuencias que puede tener, conviene prestar \nespecial atención a las opas de exclusión, que tienen como finalidad que \nuna sociedad deje de cotizar en bolsa. En estos casos no acudir a la opa y \nmantener las acciones implica convertirse en accionista de una compañía no \ncotizada, lo que supone pérdida de liquidez del valor, escasa transparencia de \nla compañía por las menores obligaciones de difusión de información, etc.\nEl squeeze-out y el sell-out son operaciones que pueden tener lugar en el \ncontexto de una opa cuando se cumplen determinados requisitos: en el \nprimer caso el oferente puede exigir a los accionistas la venta de sus acciones \ny en el segundo los accionistas pueden exigir al oferente la compra de estas, \nen ambos casos al precio de opa. \nAcudir a una opa es siempre voluntario.\n\nEl accionista de una compañía cotizada\nVI. El derecho a la \ninformación\n19. ¿Dónde puede obtener información de una \ncompañía?\nLa inversión en acciones exige un análisis atento de la información disponible, \nno sólo antes de la adquisición sino durante todo el tiempo que se mantengan \nlas acciones en cartera.\nExisten numerosas vías y fuentes para obtener información sobre las \nsociedades cotizadas. Por su carácter reglado, objetivo y neutral, es \nconveniente acudir siempre a las fuentes oficiales.\nLas compañías cotizadas están obligadas a comunicar al mercado y a la \nCMNV toda la información que pueda influir en el valor de sus acciones. \nCon este fin, deben disponer en su página web de una sección llamada \n“Información para accionistas e inversores”.\nAdemás, toda la información pública sobre las sociedades cotizadas puede \nconsultarse en la CNMV, bien en su página web (www.cnmv.es) o a través del \nTeléfono de Atención al Inversor (900535015).\nHay que poner de relieve que la CNMV no interviene en el normal desarrollo \nde la actividad de las compañías, cuya gestión corresponde integramente a \nsus órganos de gobierno.\n\nEl accionista de una compañía cotizada\nEste conjunto de medidas \ntienen como principal fin la \ntransparencia de los mercados.\n\nEl accionista de una compañía cotizada\nLa información que todo inversor responsable debe consultar se puede \nclasificar en tres grandes grupos:\nInformación General: número de acciones en que se \nencuentra dividido el capital social de la compañía, las bolsas \nen las que cotiza la acción, la agenda del inversor (con fechas \nrelevantes como el calendario de abono de dividendos), los \nfolletos e informaciones sobre las operaciones realizadas por \nla compañía, los estatutos de la sociedad, comunicaciones \nde información privilegiada y otra información relevante, \nparticipaciones significativas y canales de comunicación \nentre la sociedad y sus accionistas.\nInformación económico-financiera: informe de auditoría, \ncuentas anuales, y la memoria e informe de gestión de la \ncompañía (al menos de los tres últimos años).\nInformación sobre el gobierno corporativo: reglamentos \nde funcionamiento de la Junta general de accionistas y del \nConsejo de Administración, orden del día, propuestas de \nacuerdos e informes sobre las propuestas, otros documentos \nde interés publicados con ocasión de la convocatoria de \nJuntas generales, delegación del voto y voto a distancia, \nidentidad y clases de consejeros, informe anual de gobierno \ncorporativo, informe anual sobre remuneraciones de los \nconsejeros, pactos parasociales, etc.\nRECUERDE visitar de forma periódica la sección “Información para accionistas \ne inversores” en la web de las compañías cotizadas.\n\nEl accionista de una compañía cotizada\n20. ¿Qué es el Gobierno Corporativo?\nEs el conjunto de normas y principios que regulan la estructura y el \nfuncionamiento de los órganos de gobierno de una compañía.\nLas sociedades cotizadas, además de contar con un Consejo de \nAdministración, están obligadas a constituir comisiones delegadas \nespecializadas. Así, deben contar, al menos, con una comisión de auditoría \ny una comisión, o dos comisiones separadas, de nombramientos y \nretribuciones.\nLas funciones principales de la comisión de auditoría son supervisar la \nelaboración de la información financiera y la eficacia del control interno y \nlos sistemas de gestión de riesgos de la sociedad. Además, desempeña \nun papel destacado en relación con el auditor de la sociedad, ya que \ndebe presentar al Consejo de Administración las propuestas de selección, \nnombramiento, reelección y sustitución del auditor de cuentas y establecer \nlas oportunas relaciones con él. La comisión de auditoría debe estar formada \nexclusivamente por consejeros no ejecutivos la mayoría de los cuales, y en \ntodo caso, su presidente, deben ser consejeros independientes.\nLa comisión de nombramientos y retribuciones desempeña un papel \ndestacado en relación con el nombramiento de los consejeros y altos \ndirectivos de la sociedad, ya que debe informar las propuestas de \nnombramiento o separación de consejeros y altos directivos, así como \nproponer el nombramiento de consejeros independientes o su separación. \nTambién le compete a la comisión de nombramientos y retribuciones evaluar \nlas competencias, conocimientos y experiencia necesarios en el Consejo \nde Administración y proponer al Consejo la política de retribuciones de \nlos consejeros y altos directivos. Esta comisión debe estar constituida \nexclusivamente por consejeros no ejecutivos, dos de los cuales, y en todo \ncaso, su presidente, necesariamente han de ser independientes.\n\nEl accionista de una compañía cotizada\nPor otra parte, las sociedades cotizadas están obligadas a hacer público un \ninforme anual sobre su gobierno corporativo, con información sobre, entre \notras, las siguientes cuestiones:\n¥ La estructura de propiedad de la sociedad: accionistas con \nparticipaciones significativas y su representación en el Consejo \nde Administración, la participación accionarial de los consejeros, \nla existencia de pactos parasociales y las normas aplicables a la \nmodificación de los estatutos.\n¥ Composición, reglas de organización y funcionamiento del Consejo \nde Administración de la compañía y de sus comisiones, identidad y \nremuneración de sus miembros y funciones dentro de la sociedad.\n¥ Operaciones de la sociedad vinculadas con sus accionistas, \nadministradores y altos directivos.\n¥ Los sistemas de control de riesgos.\n¥ El funcionamiento de la Junta general de accionistas e información \nrelativa al desarrollo de las reuniones que se celebren.\n¥ El grado de seguimiento, por parte de la compañía, de las \nrecomendaciones de gobierno corporativo recogidas en el Código \nde Buen Gobierno, que se encuentra disponible en la web de la \nCNMV.\n\nEl accionista de una compañía cotizada\nAdemás del informe anterior, el Consejo de Administración de las \nsociedades cotizadas está obligado a elaborar y publicar anualmente un \ninforme sobre las remuneraciones de los consejeros. Este informe debe \ncontener información clara, completa y comprensible sobre la política \nde remuneraciones de los consejeros aplicable al ejercicio en curso y un \nresumen global sobre la aplicación de las remuneraciones durante el ejercicio \ncerrado, así como el detalle de las remuneraciones individuales devengadas \npor todos los conceptos por cada uno de los consejeros en dicho ejercicio. \nEl informe debe someterse a votación, con carácter consultivo y como punto \nseparado del orden del día, a la Junta general ordinaria de accionistas.\nLa Junta debe aprobar con carácter vinculante la política de remuneraciones \nde los consejeros de la sociedad cotizada, que deberá incluir el importe \nmáximo de la remuneración anual en su condición de tales, así como la \nremuneración fija y los parámetros para la fijación de los componentes \nvariables por el desempeño de funciones ejecutivas.\nLa principal finalidad de estos informes es hacer que la estructura de \ngobierno y la gestión de la compañía sean más transparentes para el conjunto \nde sus accionistas y el mercado en general.\n21. ¿Qué es el Código de Buen Gobierno de las \nsociedades cotizadas?\nSe trata de un conjunto de recomendaciones que bajo el principio \nde “cumplir o explicar” trata de fomentar la transparencia y el buen \ngobierno de las sociedades cotizadas. Esto significa que si no se siguen las \nrecomendaciones, es necesario explicar el motivo.\n\nEl accionista de una compañía cotizada\nLas recomendaciones se refieren fundamentalmente a materias relativas a la \nJunta General, el Consejo de Administración, las comisiones del Consejo y la \nremuneración de los consejeros.\nLos inversores minoristas deben valorar de forma positiva aquellas compañías \nque sigan el mayor número de las recomendaciones del Código. En el informe \nanual del gobierno corporativo (IAGC), que todas las sociedades cotizadas \nestán obligadas a publicar, se puede consultar el grado de seguimiento de las \nrecomendaciones por parte de la compañía.\nLos inversores pueden consultar el IAGC de cualquier sociedad cotizada en la \npágina web de la compañía o en la página web de la CNMV (www.cnmv.es).\nA su vez, la CNMV publica anualmente el Informe de Gobierno Corporativo \nde las entidades emisoras de valores admitidos a negociación en mercados \nsecundarios oficiales. Este informe se encuentra disponible en la página web \nde la CNMV (www.cnmv.es).\n22. ¿Qué es la responsabilidad social corporativa \n(RSC)?\nLa RSC se refiere a la contribución activa de una compañía a la mejora de su \nentorno económico, social y medioambiental. Así, compañías respetuosas \ncon el medio ambiente, que fomentan la riqueza de su zona de influencia o \nque realizan políticas activas a favor de su personal, pueden ser consideradas \nsocialmente responsables.\nLas medidas que fomentan la responsabilidad social por parte de las \ncompañías son de carácter voluntario y no están sujetas a la supervisión de la \nCNMV.\n\nEl accionista de una compañía cotizada\nVII. Recuerde\nSi está interesado en invertir en acciones, tenga presentes las siguientes \nrecomendaciones:\n¥ Infórmese sobre las implicaciones, los derechos y las responsabilidades \nque se encuentran asociados a la condición de accionista.\n¥ Un accionista responsable necesita dedicar tiempo y atención al \nseguimiento de sus inversiones. Esto no sólo significa consultar las \ncotizaciones bursátiles, sino tener en cuenta aspectos como las \nperspectivas y evolución del negocio, las variaciones en la estructura de \ncapital de la compañía o su política de dividendos.\n¥ Defienda sus intereses haciendo uso de los derechos que le corresponden \ncomo accionista. Por ejemplo, asista a las Juntas generales y vote (o \ndelegue el voto de forma responsable). Si es necesario promueva o \nparticipe en la agrupación de pequeños accionistas que puedan otorgar \nmás peso al colectivo.\n¥ El grado de transparencia de una sociedad cotizada puede ser un buen \nindicador de la importancia que otorga al pequeño inversor. Las compañías \nque asumen las recomendaciones del Código de Buen Gobierno suelen \ndemostrar mayor preocupación por la figura del pequeño accionista.\n\nEl accionista de una compañía cotizada\n¥ Consulte el número y la proporción de consejeros independientes de la \ncompañía en la que quiere invertir. Generalmente el pequeño accionista \nestará mejor representado en aquellas compañías donde predomine la \nfigura del consejero independiente. Por el contrario, el predominio de \nlos consejeros dominicales implicará un menor peso de los accionistas \nminoritarios.\n¥ Consulte de forma habitual la sección “Información para accionistas e \ninversores” en la web de las compañías en las que haya invertido, haga sus \npropias valoraciones y si tiene alguna duda póngase en contacto con su \ncompañía.\n¥ Para cualquier duda llame al Teléfono de Atención al Inversor (900535015).\n\nContáctanos por email\nEsta guía tiene como finalidad informar al público en general sobre distintos \naspectos relacionados con los mercados de valores. Por su naturaleza divulgativa \nno puede constituir un soporte para posteriores interpretaciones jurídicas, siendo \nla normativa vigente la única de aplicabilidad para estos fines. \n¿Necesitas más \ninformación?\nwww.cnmv.es",
+  "text_len": 40346,
+  "num_headings": 21,
+  "metadata": {
+    "producer": "iLovePDF",
+    "creation_date": "2026-06-05",
+    "mod_date": "2026-06-05"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "El accionista en la sociedad cotizada",
+    "topic": "inversión",
+    "subtopic": "acciones",
+    "difficulty": "intermedio",
+    "format": "PDF",
+    "summary": "Guía CNMV sobre los derechos y deberes del accionista de sociedades cotizadas",
+    "learning_objective": "Conocer los derechos del accionista minoritario"
+  },
+  "pdf_info": {
+    "n_pages": 34,
+    "body_size": 13.0,
+    "extractor": "pymupdf"
+  },
+  "deduped_from": null
+}

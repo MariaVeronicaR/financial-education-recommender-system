@@ -1,0 +1,57 @@
+{
+  "content_id": "C052",
+  "tldr": "El artículo explica qué es un contrato de seguro y cuáles son los tipos principales que se pueden contratar en España. Detalla seguros de vida, decesos, multirriesgo del hogar, accidentes, salud, automóviles, responsabilidad civil, defensa jurídica, asistencia de viajes y protección de pagos. Cada uno cubre riesgos distintos y algunos son de contratación obligatoria, como el seguro de automóvil.",
+  "key_points": [
+    "Un seguro es un contrato en el que la aseguradora indemniza al asegurado frente a ciertos riesgos a cambio de una prima.",
+    "El seguro de vida cubre el fallecimiento o la supervivencia del asegurado, y puede contratarse como mixto.",
+    "El seguro de accidentes solo cubre lesiones derivadas de una causa violenta, súbita, externa y ajena a la intencionalidad del asegurado.",
+    "El seguro de automóvil es de contratación obligatoria; incluir los daños propios del vehículo lo convierte en 'a todo riesgo'.",
+    "Los seguros de protección de pagos abonan una indemnización ante incapacidad temporal o desempleo para hacer frente a las cuotas de un préstamo."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cuál es la diferencia principal entre un seguro 'a todo riesgo' y uno 'a terceros' de automóvil?",
+      "options": [
+        "El seguro a todo riesgo incluye la garantía de daños propios del vehículo, mientras que el de terceros no la incluye",
+        "El seguro a terceros es obligatorio y el a todo riesgo también, pero con prima más barata",
+        "El seguro a todo riesgo solo cubre daños a terceros y el de terceros cubre el vehículo propio",
+        "El seguro a terceros cubre la rotura de lunas y el a todo riesgo no"
+      ],
+      "correct_index": 0,
+      "explanation": "Según el texto, cuando al seguro obligatorio se le añade la garantía de daños del vehículo se denomina 'a todo riesgo'; si no se incluye, se llama 'a terceros'.",
+      "concept_id": "C22"
+    },
+    {
+      "question": "¿Qué condición debe cumplir una lesión para estar cubierta por un seguro de accidentes?",
+      "options": [
+        "Que derive de una causa violenta, súbita, externa y ajena a la intencionalidad del asegurado",
+        "Que esté relacionada con una enfermedad preexistente del asegurado",
+        "Que ocurra de forma gradual por el desgaste del cuerpo",
+        "Que sea provocada de forma intencionada por el asegurado"
+      ],
+      "correct_index": 0,
+      "explanation": "El texto define el accidente como la lesión corporal derivada de una causa violenta, súbita, externa y ajena a la intencionalidad del asegurado.",
+      "concept_id": "C22"
+    },
+    {
+      "question": "Un seguro de protección de pagos está pensado principalmente para...",
+      "options": [
+        "Cubrir las cuotas de un préstamo si el asegurado sufre incapacidad temporal o desempleo",
+        "Indemnizar a los beneficiarios en caso de fallecimiento del asegurado",
+        "Cubrir los daños causados a un inmueble por incendio o robo",
+        "Pagar los gastos de asistencia sanitaria por enfermedad"
+      ],
+      "correct_index": 0,
+      "explanation": "El texto indica que el seguro de protección de pagos garantiza una indemnización ante incapacidad temporal o desempleo para hacer frente a las cuotas de un préstamo.",
+      "concept_id": "C22"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 4437,
+    "input_tokens": 2332,
+    "output_tokens": 939
+  }
+}

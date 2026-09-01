@@ -1,0 +1,57 @@
+{
+  "content_id": "C021",
+  "tldr": "Los préstamos personales y créditos al consumo financian bienes duraderos, estudios o viajes. Son más fáciles de obtener que una hipoteca, pero más caros por tener intereses más elevados. Se formalizan en un contrato que fija la cantidad concedida y las cuotas periódicas (intereses, comisiones y gastos), y se cancelan al devolver todo el importe. Para elegir bien, hay que informarse y comparar ofertas.",
+  "key_points": [
+    "Los préstamos personales financian bienes duraderos, estudios o viajes, y son más fáciles de obtener que una hipoteca.",
+    "Su coste es mayor que el de una hipoteca porque los intereses que se pagan al banco son más elevados.",
+    "El contrato fija la cantidad concedida y las cuotas periódicas, que incluyen intereses, comisiones y gastos pactados.",
+    "El préstamo se cancela cuando se devuelve el importe concedido y se cumplen todas las obligaciones firmadas.",
+    "Existen distintos tipos de préstamos en el mercado, por lo que conviene informarse y comparar ofertas para elegir la opción más conveniente."
+  ],
+  "quiz": [
+    {
+      "question": "¿Por qué un préstamo personal suele resultar más caro que una hipoteca?",
+      "options": [
+        "Porque los intereses que se pagan al banco son más elevados.",
+        "Porque siempre lleva asociado un seguro obligatorio de vida.",
+        "Porque exige aportar una entrada inicial más alta.",
+        "Porque el plazo de devolución siempre es más largo."
+      ],
+      "correct_index": 0,
+      "explanation": "El contenido señala que los préstamos personales son más fáciles de obtener que los hipotecarios, pero resultan más caros porque los intereses que hay que pagar al banco son más elevados.",
+      "concept_id": "C10"
+    },
+    {
+      "question": "¿Qué elementos se incluyen en las cuotas periódicas que pagas en un préstamo personal?",
+      "options": [
+        "Solo el importe del capital concedido.",
+        "Los intereses, comisiones y gastos conforme a las condiciones pactadas.",
+        "Únicamente la comisión de apertura y los seguros.",
+        "El capital más la totalidad de intereses de todo el préstamo por adelantado."
+      ],
+      "correct_index": 1,
+      "explanation": "Según el contenido, en las cuotas periódicas se incluyen los intereses, comisiones y gastos según las condiciones pactadas en el contrato.",
+      "concept_id": "C10"
+    },
+    {
+      "question": "Para elegir el préstamo personal más conveniente, ¿qué actitud recomienda el contenido?",
+      "options": [
+        "Aceptar la primera oferta que ofrezca el banco más cercano.",
+        "Contratar siempre el préstamo con el plazo más largo posible.",
+        "Informarse y comparar las distintas ofertas del mercado.",
+        "Elegir el préstamo que no exija ningún tipo de contrato."
+      ],
+      "correct_index": 2,
+      "explanation": "El contenido indica que el mercado ofrece diferentes tipos de préstamos y que debemos informarnos y comparar las ofertas para elegir la opción más conveniente.",
+      "concept_id": "C16"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 7424,
+    "input_tokens": 1669,
+    "output_tokens": 962
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "content_id": "C061",
+  "tldr": "El manual explica los fundamentos de la inversión financiera: el sistema financiero canaliza fondos de los oferentes (quienes tienen excedente) hacia los demandantes (empresas, sector público y hogares). Introduce los productos de inversión (renta fija, renta variable, derivados y fondos), la diferencia entre mercado primario y secundario, y el binomio rentabilidad-riesgo, según el cual a mayor rentabilidad potencial siempre corresponde mayor riesgo. Además, destaca la importancia de conocer el perfil del inversor, diversificar para gestionar el riesgo y desconfiar de ofertas que prometen alta rentabilidad sin riesgo.",
+  "key_points": [
+    "El mercado primario es donde nacen los títulos (emisión inicial y financiación para empresas), mientras que el secundario da liquidez al permitir comprar y vender valores ya existentes entre inversores.",
+    "La regla del binomio rentabilidad-riesgo no tiene excepción: cuanto mayor es la rentabilidad potencial de una inversión, mayor es su riesgo.",
+    "Los inversores en renta fija son acreedores del emisor (cobran intereses y recuperan capital), mientras que los accionistas de renta variable son copropietarios y asumen más incertidumbre.",
+    "Diversificar (no poner todos los huevos en la misma cesta) es una estrategia clave para gestionar el riesgo, aunque nunca lo elimina por completo.",
+    "Antes de invertir es fundamental conocer el perfil del inversor y no comprometer dinero en productos que no se comprenden."
+  ],
+  "quiz": [
+    {
+      "question": "Un inversor compra acciones de una empresa que ya cotiza en bolsa a otro inversor. ¿En qué mercado se realiza esta operación y qué efecto tiene para la empresa emisora?",
+      "options": [
+        "En el mercado primario; la empresa recibe fondos por la venta de sus acciones.",
+        "En el mercado secundario; la empresa no recibe fondos, pero puede beneficiarse si sube el precio de sus acciones.",
+        "En el mercado primario; la empresa no recibe fondos, pero gana liquidez.",
+        "En el mercado secundario; la empresa recibe el capital invertido directamente."
+      ],
+      "correct_index": 1,
+      "explanation": "La compraventa de valores ya emitidos entre inversores se realiza en el mercado secundario, que da liquidez a los títulos; la empresa emisora no recibe fondos de estas transacciones.",
+      "concept_id": "C12"
+    },
+    {
+      "question": "Te ofrecen una inversión que promete una rentabilidad muy alta y, a la vez, garantiza que es totalmente segura. Según el binomio rentabilidad-riesgo, ¿qué deberías pensar?",
+      "options": [
+        "Que es una buena oportunidad porque combina lo mejor de ambos mundos.",
+        "Que es razonable, ya que la rentabilidad alta compensa cualquier riesgo.",
+        "Que debes desconfiar, porque a mayor rentabilidad potencial siempre corresponde mayor riesgo, y no existen inversiones seguras con alta rentabilidad.",
+        "Que es seguro siempre que la entidad esté regulada por la CNMV."
+      ],
+      "correct_index": 2,
+      "explanation": "El manual señala que la regla rentabilidad-riesgo no tiene excepción: hay que desconfiar siempre de ofertas que prometen inversiones seguras con alta rentabilidad.",
+      "concept_id": "C13"
+    },
+    {
+      "question": "Un inversor ha puesto todo su dinero en acciones de varias empresas del mismo sector tecnológico. ¿Qué riesgo está asumiendo principalmente y cómo podría gestionarlo?",
+      "options": [
+        "Riesgo operativo, que se elimina revisando bien las órdenes de compra.",
+        "Riesgo de concentración por falta de diversificación; podría reducirlo invirtiendo en distintos sectores, zonas y plazos.",
+        "Riesgo de tipo de cambio, que se gestiona invirtiendo en euros.",
+        "Riesgo de crédito, que se evita comprando solo renta variable."
+      ],
+      "correct_index": 1,
+      "explanation": "Invertir una proporción muy elevada en un solo activo o sector genera riesgo de concentración por falta de diversificación; diversificar en distintos sectores, zonas, divisas y plazos ayuda a gestionarlo, aunque no lo elimina.",
+      "concept_id": "C14"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 8218,
+    "input_tokens": 9588,
+    "output_tokens": 1241
+  }
+}

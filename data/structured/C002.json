@@ -1,0 +1,251 @@
+{
+  "content_id": "C002",
+  "title": "¿Cómo está tu salud financiera?",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Cómo está tu salud financiera?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Qué se entiende por salud financiera?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Es algo que varía según nuestras necesidades y nuestra etapa de la vida. Tener salud financiera es tener seguridad financiera y eso NO significa ganar mucho dinero, aquí tenemos dos casos:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "José gana 50.000 euros al año. Tiene 3.000 euros ahorrados. Le quedan por pagar 400.000 euros de hipoteca por su chalet, 20.000 euros del préstamo de su coche y tiene un saldo de 6.000 euros de pagos aplazados en su tarjeta de crédito.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Inés gana 30.000 euros al año. Tiene 15.000 euros ahorrados. Le quedan por pagar 8.000 euros de la hipoteca de su piso, su coche está pagado y debe 250€ de su tarjeta de crédito, que abonará al final de mes.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Quién de los dos tiene más seguridad financiera?¿Quién duerme mejor por la noche?",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Quien tiene sus gastos bajo control, quien no tiene deudas y quien aumenta mes a mes sus ahorros y su patrimonio.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Comprueba tu salud financiera"
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de nada, ¿te has preguntado cómo te encuentras? ¿Sabes cómo tienes tus niveles de colesterol? ¿Los triglicéridos? …si no te haces una analítica no lo sabrás. Pues también puedes hacer un chequeo para conocer tu salud financiera.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "¿Cuáles son tus objetivos financieros?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Reflexiona un momento y haz una lista por escrito de todos los objetivos financieros que se te ocurran para tu caso particular.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Por ejemplo: comprar un piso, cambiar la televisión, hacer un crucero, hacer un blanqueamiento dental, ahorrar, etc.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Probablemente, no será posible lograr a la vez todos los objetivos. Identifica en primer lugar los más importantes o los más urgentes. Puedes utilizar la herramienta para PRIORIZAR OBJETIVOS que te ayudará a identificar los más importantes.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Adoptar el hábito de ahorrar algo cada mes, es esencial, y cuanto antes se empiece, mejor. Ahorrar lo suficiente te ayuda a conseguir no sólo seguridad, sino independencia financiera ¿Cómo conseguir la seguridad financiera? Empieza por conocer cuál es tu situación actual y cuáles son tus objetivos financieros concretos.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "HERRAMIENTAS"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Prioriza tus objetivos financieros"
+    },
+    {
+      "type": "paragraph",
+      "text": "Aunque cada caso es un mundo, estos son algunos de los objetivos financieros más aconsejables:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Control de los gastos para llegar bien a fin de mes",
+        "Ahorrar más",
+        "Reducir o eliminar deudas",
+        "Preparar la jubilación",
+        "Proteger a la familia"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Ponte objetivos concretos y específicos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando un objetivo es demasiado general, se hace más dificil de conseguir. Es más fácil empezar si escogemos obgetivos más concretos. Un objetivo ha de ser SMART.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "S"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tener una meta clara y concreta te motivará más a conseguirla. Por ejemplo, no pienses en viajar como algo general. Piensa en todo lo que quieres ver y hacer durante tu fin de semana en una ciudad.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "M"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tienes que fijar un importe para saber cuándo has logrado el objetivo. El importe también es necesario para calcular cuánto tienes que ahorrar cada mes/semana. Así podrás planificar qué necesitarás hacer para alcanzar este ahorro.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "A"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ahorrar un millón de euros antes de fin de mes no es un objetivo, sino una fantasía. Establecer objetivos poco realistas solo te desmotivará.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "R"
+    },
+    {
+      "type": "paragraph",
+      "text": "Asegúrate de establecer objetivos que realmente sean importantes para TI, acordes con tus propios valores e intereses. Recuerda que los objetivos sirven para realizar TUS sueños. Piensa en las razones que tienes para lograr el objetivo.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "T"
+    },
+    {
+      "type": "paragraph",
+      "text": "De la misma forma que hay que fijar un importe, hace falta especificar una fecha tope para el logro del objetivo. El tiempo y el importe permiten saber las acciones concretas que tomar (por ejemplo cuánto hay que ahorrar cada mes) para alcanzarlo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Además conviene clasificar tus objetivos a corto, medio y largo plazo, en función del tiempo que tienes para conseguirlos. Normalmente, un objetivo a corto plazo será alcanzable en 1-2 años o menos; uno a medio plazo en 2-5 años, y los de largo plazo, en más de 5 años.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Convierte tus objetivos generales en específicos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Te mostramos ejemplos de cómo pasar de un objetivo general a uno más específico y asumible.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Pasa el ratón por encima de cada objetivo general para descubrir los objetivos específicos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "“Algún día quiero poder comprar mi propia casa.”",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Específico",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Quiero tener ahorrado 18.000 euros para la entrada de un piso que me quiero comprar dentro de 4 años.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "“Deseo dar a mis hijos una buena educación.”",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Específico",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Antes de que cumpla mi hija 18 años, quiero tener inversiones en acciones, renta fija y depósitos por valor de 25.000 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "“Quiero disfrutar de unas vacaciones de ensueño con mi pareja.”",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Específico",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Quiero ahorrar 2.500 euros antes del próximo verano para poder sorprender a mi pareja con un crucero por el Mediterráneo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "“Quiero vivir bien después de jubilarme.”",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Específico",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Quiero acumular 90.000 euros en mi plan de pensiones antes de cumplir los 50 años.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:04:02.725626+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 9846,
+    "input_tokens": 2984,
+    "output_tokens": 3657
+  }
+}

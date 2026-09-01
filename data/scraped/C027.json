@@ -1,0 +1,679 @@
+{
+  "content_id": "C027",
+  "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/productosservici/relacionados/tiposinteres/guia-textual/tiposinteresrefe/tabla_tipos_referencia_oficiales_mercado_hipotecario.html",
+  "source": "Portal Cliente Bancario BdE",
+  "host": "clientebancario.bde.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 77295
+  },
+  "title": "Tabla de los tipos de referencia oficiales del mercado hipotecario",
+  "headings": [],
+  "sections": [],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Pinchando en cada valor se accede al BOE en que fue publicado"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tipos oficiales de referencia del mercado hipotecario (Año 2026)\n| Tipo medio de los préstamos hipotecarios a más de 3 años para adquisición de vivienda libre | Tipo de rendimiento interno en el mercado secundario | Tipo interbancario | Euríbor | Tipo medio préstamos hipotecarios | Permuta de intereses/ Interest rate swap | Euro short-term rate (€STR) |\n| Meses | Del conjunto de entidades de crédito | De la Deuda Pública de plazo entre 2 y 6 años | Míbor a un año (**) | A 1 semana | A 1 mes | A 3 meses | A 6 meses | A 1 Año | Entidades de crédito en la zona euro (*) | IRS a 5 años | A 1 semana | A 1 mes | A 3 meses | A 6 meses | A 1 Año |\n| Ene | 2,762Abre en ventana nueva | 2,403Abre en ventana nueva | 2,245Abre en ventana nueva | 1,895Abre en ventana nueva | 1,961Abre en ventana nueva | 2,028Abre en ventana nueva | 2,137Abre en ventana nueva | 2,245Abre en ventana nueva | 3,370Abre en ventana nueva | 2,540Abre en ventana nueva | 1,934Abre en ventana nueva | 1,933Abre en ventana nueva | 1,934Abre en ventana nueva | 1,937Abre en ventana nueva | 2,125Abre en ventana nueva |\n| Feb | 2,819 Abre en ventana nueva | 2,397Abre en ventana nueva | 2,221Abre en ventana nueva | 1,890Abre en ventana nueva | 1,952Abre en ventana nueva | 2,011Abre en ventana nueva | 2,144Abre en ventana nueva | 2,221 Abre en ventana nueva | 3,370Abre en ventana nueva | 2,458Abre en ventana nueva | 1,933Abre en ventana nueva | 1,932 Abre en ventana nueva | 1,935Abre en ventana nueva | 1,938Abre en ventana nueva | 2,063Abre en ventana nueva |\n| Mar | 2,840Abre en ventana nueva | 2,488Abre en ventana nueva | 2,565Abre en ventana nueva | 1,900Abre en ventana nueva | 1,933Abre en ventana nueva | 2,109Abre en ventana nueva | 2,322Abre en ventana nueva | 2,565Abre en ventana nueva | 3,370Abre en ventana nueva | 2,741Abre en ventana nueva | 1,931Abre en ventana nueva | 1,933Abre en ventana nueva | 1,936Abre en ventana nueva | 1,939Abre en ventana nueva | 2,011Abre en ventana nueva |\n| Abr | 2,882Abre en ventana nueva | 2,722Abre en ventana nueva | 2,747Abre en ventana nueva | 1,907Abre en ventana nueva | 1,971Abre en ventana nueva | 2,175Abre en ventana nueva | 2,454Abre en ventana nueva | 2,747Abre en ventana nueva | 3,360Abre en ventana nueva | 2,842Abre en ventana nueva | 1,933Abre en ventana nueva | 1,933Abre en ventana nueva | 1,936Abre en ventana nueva | 1,940Abre en ventana nueva | 1,975Abre en ventana nueva |\n| May | 2,986Abre en ventana nueva | 2,806Abre en ventana nueva | 2,804Abre en ventana nueva | 1,890Abre en ventana nueva | 1,957Abre en ventana nueva | 2,226Abre en ventana nueva | 2,536Abre en ventana nueva | 2,804Abre en ventana nueva | 3,430Abre en ventana nueva | 2,886Abre en ventana nueva | 1,931Abre en ventana nueva | 1,932Abre en ventana nueva | 1,936Abre en ventana nueva | 1,940Abre en ventana nueva | 1,956Abre en ventana nueva |\n| Jun | 3,049Abre en ventana nueva | 2,823Abre en ventana nueva | 2,798Abre en ventana nueva | 1,922Abre en ventana nueva | 2,146Abre en ventana nueva | 2,339Abre en ventana nueva | 2,596Abre en ventana nueva | 2,798Abre en ventana nueva | 3,470Abre en ventana nueva | 2,823Abre en ventana nueva | 2,182Abre en ventana nueva | 2,034Abre en ventana nueva | 1,971Abre en ventana nueva | 1,959Abre en ventana nueva | 1,956Abre en ventana nueva |\n| Jul |  | 2,848Abre en ventana nueva | 2,855Abre en ventana nueva | 2,146Abre en ventana nueva | 2,214Abre en ventana nueva | 2,425Abre en ventana nueva | 2,647Abre en ventana nueva | 2,855Abre en ventana nueva |  | 2,957Abre en ventana nueva | 2,186Abre en ventana nueva | 2,186Abre en ventana nueva | 2,057Abre en ventana nueva | 2,002Abre en ventana nueva | 1,979Abre en ventana nueva |\n| Ago |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Sep |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Oct |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Nov |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n| Dic |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+      "links": [
+        {
+          "text": "2,762Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-3893",
+          "start": 655,
+          "end": 681
+        },
+        {
+          "text": "2,403Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2614",
+          "start": 684,
+          "end": 710
+        },
+        {
+          "text": "2,245Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2546",
+          "start": 713,
+          "end": 739
+        },
+        {
+          "text": "1,895Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2546",
+          "start": 742,
+          "end": 768
+        },
+        {
+          "text": "1,961Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2546",
+          "start": 771,
+          "end": 797
+        },
+        {
+          "text": "2,028Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2546",
+          "start": 800,
+          "end": 826
+        },
+        {
+          "text": "2,137Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2546",
+          "start": 829,
+          "end": 855
+        },
+        {
+          "text": "2,245Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2546",
+          "start": 713,
+          "end": 739
+        },
+        {
+          "text": "3,370Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-3893",
+          "start": 887,
+          "end": 913
+        },
+        {
+          "text": "2,540Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2546",
+          "start": 916,
+          "end": 942
+        },
+        {
+          "text": "1,934Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2546",
+          "start": 945,
+          "end": 971
+        },
+        {
+          "text": "1,933Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2546",
+          "start": 974,
+          "end": 1000
+        },
+        {
+          "text": "1,934Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2546",
+          "start": 945,
+          "end": 971
+        },
+        {
+          "text": "1,937Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2546",
+          "start": 1032,
+          "end": 1058
+        },
+        {
+          "text": "2,125Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2546",
+          "start": 1061,
+          "end": 1087
+        },
+        {
+          "text": "2,819 Abre en ventana nueva",
+          "href": "https://www.boe.es/boe/dias/2026/03/19/pdfs/BOE-A-2026-6471.pdf",
+          "start": 1098,
+          "end": 1125
+        },
+        {
+          "text": "2,397Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-5126",
+          "start": 1128,
+          "end": 1154
+        },
+        {
+          "text": "2,221Abre en ventana nueva",
+          "href": "https://www.boe.es/boe/dias/2026/03/03/pdfs/BOE-A-2026-5059.pdf",
+          "start": 1157,
+          "end": 1183
+        },
+        {
+          "text": "1,890Abre en ventana nueva",
+          "href": "https://www.boe.es/boe/dias/2026/03/03/pdfs/BOE-A-2026-5059.pdf",
+          "start": 1186,
+          "end": 1212
+        },
+        {
+          "text": "1,952Abre en ventana nueva",
+          "href": "https://www.boe.es/boe/dias/2026/03/03/pdfs/BOE-A-2026-5059.pdf",
+          "start": 1215,
+          "end": 1241
+        },
+        {
+          "text": "2,011Abre en ventana nueva",
+          "href": "https://www.boe.es/boe/dias/2026/03/03/pdfs/BOE-A-2026-5059.pdf",
+          "start": 1244,
+          "end": 1270
+        },
+        {
+          "text": "2,144Abre en ventana nueva",
+          "href": "https://www.boe.es/boe/dias/2026/03/03/pdfs/BOE-A-2026-5059.pdf",
+          "start": 1273,
+          "end": 1299
+        },
+        {
+          "text": "2,221 Abre en ventana nueva",
+          "href": "https://www.boe.es/boe/dias/2026/03/03/pdfs/BOE-A-2026-5059.pdf",
+          "start": 1302,
+          "end": 1329
+        },
+        {
+          "text": "3,370Abre en ventana nueva",
+          "href": "https://www.boe.es/boe/dias/2026/03/19/pdfs/BOE-A-2026-6471.pdf",
+          "start": 887,
+          "end": 913
+        },
+        {
+          "text": "2,458Abre en ventana nueva",
+          "href": "https://www.boe.es/boe/dias/2026/03/03/pdfs/BOE-A-2026-5059.pdf",
+          "start": 1361,
+          "end": 1387
+        },
+        {
+          "text": "1,933Abre en ventana nueva",
+          "href": "https://www.boe.es/boe/dias/2026/03/03/pdfs/BOE-A-2026-5059.pdf",
+          "start": 974,
+          "end": 1000
+        },
+        {
+          "text": "1,932 Abre en ventana nueva",
+          "href": "https://www.boe.es/boe/dias/2026/03/03/pdfs/BOE-A-2026-5059.pdf",
+          "start": 1419,
+          "end": 1446
+        },
+        {
+          "text": "1,935Abre en ventana nueva",
+          "href": "https://www.boe.es/boe/dias/2026/03/03/pdfs/BOE-A-2026-5059.pdf",
+          "start": 1449,
+          "end": 1475
+        },
+        {
+          "text": "1,938Abre en ventana nueva",
+          "href": "https://www.boe.es/boe/dias/2026/03/03/pdfs/BOE-A-2026-5059.pdf",
+          "start": 1478,
+          "end": 1504
+        },
+        {
+          "text": "2,063Abre en ventana nueva",
+          "href": "https://www.boe.es/boe/dias/2026/03/03/pdfs/BOE-A-2026-5059.pdf",
+          "start": 1507,
+          "end": 1533
+        },
+        {
+          "text": "2,840Abre en ventana nueva",
+          "href": "https://www.boe.es/boe/dias/2026/04/18/pdfs/BOE-A-2026-8586.pdf",
+          "start": 1544,
+          "end": 1570
+        },
+        {
+          "text": "2,488Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7907",
+          "start": 1573,
+          "end": 1599
+        },
+        {
+          "text": "2,565Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7549",
+          "start": 1602,
+          "end": 1628
+        },
+        {
+          "text": "1,900Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7549",
+          "start": 1631,
+          "end": 1657
+        },
+        {
+          "text": "1,933Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7549",
+          "start": 974,
+          "end": 1000
+        },
+        {
+          "text": "2,109Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7549",
+          "start": 1689,
+          "end": 1715
+        },
+        {
+          "text": "2,322Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7549",
+          "start": 1718,
+          "end": 1744
+        },
+        {
+          "text": "2,565Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7549",
+          "start": 1602,
+          "end": 1628
+        },
+        {
+          "text": "3,370Abre en ventana nueva",
+          "href": "https://www.boe.es/boe/dias/2026/04/18/pdfs/BOE-A-2026-8586.pdf",
+          "start": 887,
+          "end": 913
+        },
+        {
+          "text": "2,741Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7549",
+          "start": 1805,
+          "end": 1831
+        },
+        {
+          "text": "1,931Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7549",
+          "start": 1834,
+          "end": 1860
+        },
+        {
+          "text": "1,933Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7549",
+          "start": 974,
+          "end": 1000
+        },
+        {
+          "text": "1,936Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7549",
+          "start": 1892,
+          "end": 1918
+        },
+        {
+          "text": "1,939Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7549",
+          "start": 1921,
+          "end": 1947
+        },
+        {
+          "text": "2,011Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7549",
+          "start": 1244,
+          "end": 1270
+        },
+        {
+          "text": "2,882Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-10983",
+          "start": 1987,
+          "end": 2013
+        },
+        {
+          "text": "2,722Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9873",
+          "start": 2016,
+          "end": 2042
+        },
+        {
+          "text": "2,747Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9792",
+          "start": 2045,
+          "end": 2071
+        },
+        {
+          "text": "1,907Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9792",
+          "start": 2074,
+          "end": 2100
+        },
+        {
+          "text": "1,971Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9792",
+          "start": 2103,
+          "end": 2129
+        },
+        {
+          "text": "2,175Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9792",
+          "start": 2132,
+          "end": 2158
+        },
+        {
+          "text": "2,454Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9792",
+          "start": 2161,
+          "end": 2187
+        },
+        {
+          "text": "2,747Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9792",
+          "start": 2045,
+          "end": 2071
+        },
+        {
+          "text": "3,360Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-10983",
+          "start": 2219,
+          "end": 2245
+        },
+        {
+          "text": "2,842Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9792",
+          "start": 2248,
+          "end": 2274
+        },
+        {
+          "text": "1,933Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9792",
+          "start": 974,
+          "end": 1000
+        },
+        {
+          "text": "1,933Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9792",
+          "start": 974,
+          "end": 1000
+        },
+        {
+          "text": "1,936Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9792",
+          "start": 1892,
+          "end": 1918
+        },
+        {
+          "text": "1,940Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9792",
+          "start": 2364,
+          "end": 2390
+        },
+        {
+          "text": "1,975Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9792",
+          "start": 2393,
+          "end": 2419
+        },
+        {
+          "text": "2,986Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13285",
+          "start": 2430,
+          "end": 2456
+        },
+        {
+          "text": "2,806Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-11938",
+          "start": 2459,
+          "end": 2485
+        },
+        {
+          "text": "2,804Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-11844",
+          "start": 2488,
+          "end": 2514
+        },
+        {
+          "text": "1,890Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-11844",
+          "start": 1186,
+          "end": 1212
+        },
+        {
+          "text": "1,957Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-11844",
+          "start": 2546,
+          "end": 2572
+        },
+        {
+          "text": "2,226Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-11844",
+          "start": 2575,
+          "end": 2601
+        },
+        {
+          "text": "2,536Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-11844",
+          "start": 2604,
+          "end": 2630
+        },
+        {
+          "text": "2,804Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-11844",
+          "start": 2488,
+          "end": 2514
+        },
+        {
+          "text": "3,430Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13285",
+          "start": 2662,
+          "end": 2688
+        },
+        {
+          "text": "2,886Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-11844",
+          "start": 2691,
+          "end": 2717
+        },
+        {
+          "text": "1,931Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-11844",
+          "start": 1834,
+          "end": 1860
+        },
+        {
+          "text": "1,932Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-11844",
+          "start": 2749,
+          "end": 2775
+        },
+        {
+          "text": "1,936Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-11844",
+          "start": 1892,
+          "end": 1918
+        },
+        {
+          "text": "1,940Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-11844",
+          "start": 2364,
+          "end": 2390
+        },
+        {
+          "text": "1,956Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-11844",
+          "start": 2836,
+          "end": 2862
+        },
+        {
+          "text": "3,049Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15738",
+          "start": 2873,
+          "end": 2899
+        },
+        {
+          "text": "2,823Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14497",
+          "start": 2902,
+          "end": 2928
+        },
+        {
+          "text": "2,798Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14420",
+          "start": 2931,
+          "end": 2957
+        },
+        {
+          "text": "1,922Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14420",
+          "start": 2960,
+          "end": 2986
+        },
+        {
+          "text": "2,146Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14420",
+          "start": 2989,
+          "end": 3015
+        },
+        {
+          "text": "2,339Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14420",
+          "start": 3018,
+          "end": 3044
+        },
+        {
+          "text": "2,596Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14420",
+          "start": 3047,
+          "end": 3073
+        },
+        {
+          "text": "2,798Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14420",
+          "start": 2931,
+          "end": 2957
+        },
+        {
+          "text": "3,470Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-15738",
+          "start": 3105,
+          "end": 3131
+        },
+        {
+          "text": "2,823Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14420",
+          "start": 2902,
+          "end": 2928
+        },
+        {
+          "text": "2,182Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14420",
+          "start": 3163,
+          "end": 3189
+        },
+        {
+          "text": "2,034Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14420",
+          "start": 3192,
+          "end": 3218
+        },
+        {
+          "text": "1,971Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14420",
+          "start": 2103,
+          "end": 2129
+        },
+        {
+          "text": "1,959Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14420",
+          "start": 3250,
+          "end": 3276
+        },
+        {
+          "text": "1,956Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14420",
+          "start": 2836,
+          "end": 2862
+        },
+        {
+          "text": "2,848Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-17070",
+          "start": 3319,
+          "end": 3345
+        },
+        {
+          "text": "2,855Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16997",
+          "start": 3348,
+          "end": 3374
+        },
+        {
+          "text": "2,146Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16997",
+          "start": 2989,
+          "end": 3015
+        },
+        {
+          "text": "2,214Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16997",
+          "start": 3406,
+          "end": 3432
+        },
+        {
+          "text": "2,425Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16997",
+          "start": 3435,
+          "end": 3461
+        },
+        {
+          "text": "2,647Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16997",
+          "start": 3464,
+          "end": 3490
+        },
+        {
+          "text": "2,855Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16997",
+          "start": 3348,
+          "end": 3374
+        },
+        {
+          "text": "2,957Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16997",
+          "start": 3525,
+          "end": 3551
+        },
+        {
+          "text": "2,186Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16997",
+          "start": 3554,
+          "end": 3580
+        },
+        {
+          "text": "2,186Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16997",
+          "start": 3554,
+          "end": 3580
+        },
+        {
+          "text": "2,057Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16997",
+          "start": 3612,
+          "end": 3638
+        },
+        {
+          "text": "2,002Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16997",
+          "start": 3641,
+          "end": 3667
+        },
+        {
+          "text": "1,979Abre en ventana nueva",
+          "href": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16997",
+          "start": 3670,
+          "end": 3696
+        }
+      ]
+    }
+  ],
+  "text": "Pinchando en cada valor se accede al BOE en que fue publicado\n \nTipos oficiales de referencia del mercado hipotecario (Año 2026)\n| Tipo medio de los préstamos hipotecarios a más de 3 años para adquisición de vivienda libre | Tipo de rendimiento interno en el mercado secundario | Tipo interbancario | Euríbor | Tipo medio préstamos hipotecarios | Permuta de intereses/ Interest rate swap | Euro short-term rate (€STR) | \n| Meses | Del conjunto de entidades de crédito | De la Deuda Pública de plazo entre 2 y 6 años | Míbor a un año (**) | A 1 semana | A 1 mes | A 3 meses | A 6 meses | A 1 Año | Entidades de crédito en la zona euro (*) | IRS a 5 años | A 1 semana | A 1 mes | A 3 meses | A 6 meses | A 1 Año | \n| Ene | 2,762Abre en ventana nueva | 2,403Abre en ventana nueva | 2,245Abre en ventana nueva | 1,895Abre en ventana nueva | 1,961Abre en ventana nueva | 2,028Abre en ventana nueva | 2,137Abre en ventana nueva | 2,245Abre en ventana nueva | 3,370Abre en ventana nueva | 2,540Abre en ventana nueva | 1,934Abre en ventana nueva | 1,933Abre en ventana nueva | 1,934Abre en ventana nueva | 1,937Abre en ventana nueva | 2,125Abre en ventana nueva | \n| Feb | 2,819 Abre en ventana nueva | 2,397Abre en ventana nueva | 2,221Abre en ventana nueva | 1,890Abre en ventana nueva | 1,952Abre en ventana nueva | 2,011Abre en ventana nueva | 2,144Abre en ventana nueva | 2,221 Abre en ventana nueva | 3,370Abre en ventana nueva | 2,458Abre en ventana nueva | 1,933Abre en ventana nueva | 1,932 Abre en ventana nueva | 1,935Abre en ventana nueva | 1,938Abre en ventana nueva | 2,063Abre en ventana nueva | \n| Mar | 2,840Abre en ventana nueva | 2,488Abre en ventana nueva | 2,565Abre en ventana nueva | 1,900Abre en ventana nueva | 1,933Abre en ventana nueva | 2,109Abre en ventana nueva | 2,322Abre en ventana nueva | 2,565Abre en ventana nueva | 3,370Abre en ventana nueva | 2,741Abre en ventana nueva | 1,931Abre en ventana nueva | 1,933Abre en ventana nueva | 1,936Abre en ventana nueva | 1,939Abre en ventana nueva | 2,011Abre en ventana nueva | \n| Abr | 2,882Abre en ventana nueva | 2,722Abre en ventana nueva | 2,747Abre en ventana nueva | 1,907Abre en ventana nueva | 1,971Abre en ventana nueva | 2,175Abre en ventana nueva | 2,454Abre en ventana nueva | 2,747Abre en ventana nueva | 3,360Abre en ventana nueva | 2,842Abre en ventana nueva | 1,933Abre en ventana nueva | 1,933Abre en ventana nueva | 1,936Abre en ventana nueva | 1,940Abre en ventana nueva | 1,975Abre en ventana nueva | \n| May | 2,986Abre en ventana nueva | 2,806Abre en ventana nueva | 2,804Abre en ventana nueva | 1,890Abre en ventana nueva | 1,957Abre en ventana nueva | 2,226Abre en ventana nueva | 2,536Abre en ventana nueva | 2,804Abre en ventana nueva | 3,430Abre en ventana nueva | 2,886Abre en ventana nueva | 1,931Abre en ventana nueva | 1,932Abre en ventana nueva | 1,936Abre en ventana nueva | 1,940Abre en ventana nueva | 1,956Abre en ventana nueva | \n| Jun | 3,049Abre en ventana nueva | 2,823Abre en ventana nueva | 2,798Abre en ventana nueva | 1,922Abre en ventana nueva | 2,146Abre en ventana nueva | 2,339Abre en ventana nueva | 2,596Abre en ventana nueva | 2,798Abre en ventana nueva | 3,470Abre en ventana nueva | 2,823Abre en ventana nueva | 2,182Abre en ventana nueva | 2,034Abre en ventana nueva | 1,971Abre en ventana nueva | 1,959Abre en ventana nueva | 1,956Abre en ventana nueva | \n| Jul |  | 2,848Abre en ventana nueva | 2,855Abre en ventana nueva | 2,146Abre en ventana nueva | 2,214Abre en ventana nueva | 2,425Abre en ventana nueva | 2,647Abre en ventana nueva | 2,855Abre en ventana nueva |  | 2,957Abre en ventana nueva | 2,186Abre en ventana nueva | 2,186Abre en ventana nueva | 2,057Abre en ventana nueva | 2,002Abre en ventana nueva | 1,979Abre en ventana nueva | \n| Ago |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n| Sep |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n| Oct |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n| Nov |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | \n| Dic |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |",
+  "text_len": 4040,
+  "num_headings": 0,
+  "metadata": {
+    "title": "Tabla de los tipos de referencia oficiales del mercado hipotecario",
+    "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/podemosayudarte/tiposinteres/guia_textual/tiposinteresreferenciaotrostiposfrecuentes/tabla_tipos_referencia_oficiales_mercado_hipotecario.html",
+    "hostname": "clientebancario.bde.es",
+    "description": "Tabla de los tipos de referencia oficiales del mercado hipotecario",
+    "sitename": "clientebancario.bde.es",
+    "date": "2026-03-03",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Tabla de tipos de referencia oficiales del mercado hipotecario",
+    "topic": "hipotecas",
+    "subtopic": "índices de referencia",
+    "difficulty": "avanzado",
+    "format": "artículo web",
+    "summary": "Tabla de índices oficiales (EURIBOR, IRPH, etc.) para hipotecas",
+    "learning_objective": "Identificar el índice de referencia de una hipoteca"
+  },
+  "deduped_from": null
+}

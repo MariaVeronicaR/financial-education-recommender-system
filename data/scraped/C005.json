@@ -1,0 +1,338 @@
+{
+  "content_id": "C005",
+  "url": "https://www.finanzasparatodos.es/system/cms_multimedia/cms_medias/files/000/000/316/original/7_consejos_jubilacion.pdf?1624983738",
+  "source": "Finanzas para Todos",
+  "host": "www.finanzasparatodos.es",
+  "url_type": "pdf",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 331675
+  },
+  "title": "Consejos básicos de salud financiera – 7",
+  "headings": [
+    {
+      "level": 3,
+      "text": "Consejos básicos de salud financiera – 7"
+    },
+    {
+      "level": 1,
+      "text": "Planificando la"
+    },
+    {
+      "level": 2,
+      "text": "Pensar en el mañana"
+    },
+    {
+      "level": 3,
+      "text": "Haz de tu vejez la edad de oro"
+    },
+    {
+      "level": 3,
+      "text": "UN MAÑANA AGRADABLE DEPENDE DE HOY"
+    },
+    {
+      "level": 3,
+      "text": "privado que quieres mantener? •"
+    },
+    {
+      "level": 3,
+      "text": "jubilación. Si tienes un sueldo de •"
+    },
+    {
+      "level": 3,
+      "text": "jubilación ya no es sinónimo"
+    },
+    {
+      "level": 3,
+      "text": "vivir bien ni demasiado frágil"
+    },
+    {
+      "level": 3,
+      "text": "¿QUÉ PASA CUANDO?"
+    },
+    {
+      "level": 3,
+      "text": "Procura jubilarte más tarde. •"
+    },
+    {
+      "level": 3,
+      "text": "Si eres propietario de una •"
+    },
+    {
+      "level": 3,
+      "text": "EL COMPLEMENTO PRIVADO: AHORRO E INVERSIÓN"
+    }
+  ],
+  "sections": [
+    {
+      "level": 3,
+      "heading": "Consejos básicos de salud financiera – 7",
+      "start": 58,
+      "end": 100,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "Planificando la",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 2,
+      "heading": "Pensar en el mañana",
+      "start": 100,
+      "end": 304,
+      "found": true
+    },
+    {
+      "level": 3,
+      "heading": "Haz de tu vejez la edad de oro",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "UN MAÑANA AGRADABLE DEPENDE DE HOY",
+      "start": 304,
+      "end": 2296,
+      "found": true
+    },
+    {
+      "level": 3,
+      "heading": "privado que quieres mantener? •",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "jubilación. Si tienes un sueldo de •",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "jubilación ya no es sinónimo",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "vivir bien ni demasiado frágil",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "¿QUÉ PASA CUANDO?",
+      "start": 2296,
+      "end": 2616,
+      "found": true
+    },
+    {
+      "level": 3,
+      "heading": "Procura jubilarte más tarde. •",
+      "start": 2616,
+      "end": 3947,
+      "found": true
+    },
+    {
+      "level": 3,
+      "heading": "Si eres propietario de una •",
+      "start": -1,
+      "end": -1,
+      "found": false
+    },
+    {
+      "level": 3,
+      "heading": "EL COMPLEMENTO PRIVADO: AHORRO E INVERSIÓN",
+      "start": 3947,
+      "end": 6641,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Haz de tu vejez la edad de oro\nPlanificando la\njubilación"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Consejos básicos de salud financiera – 7"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pensar en el mañana"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hoy en día llegar a la\njubilación ya no es sinónimo\nde ser demasiado viejo para\nvivir bien ni demasiado frágil\npara disfrutar de nuevas\naventuras. Es simplemente\notra etapa en la vida.\nUN MAÑANA AGRADABLE DEPENDE DE HOY\nPara afrontar la jubilación con\ntranquilidad, ten presente que:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Junto con la alegría de recuperar"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "el tiempo libre, llega la realidad\nde no cobrar un salario."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "La pensión pública de jubilación"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "suele ser inferior a los ingresos\nque se perciben en activo. Una\njubilación\ncómoda\nrequiere\ncomplementar\nla\npensión\npública con el ahorro y la\ninversión personal."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Nunca es demasiado pronto"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "para empezar a pensar en tu\njubilación.\n¿Cuánto dinero gastarás al\nmes después de jubilarte?\nCon carácter general, durante tu\nretiro te harán falta entre un 70 %\ny 90 % de los ingresos previos a la\njubilación. Si tienes un sueldo de\n2000 € netos mensuales antes de\njubilarse, necesitarás entre 1400 €\ny 1800 € para mantener el mismo\nestilo de vida después. Los gastos\nson menores porque se supone\nque tendrás pagada tu vivienda y\ntus hijos no dependerán de ti, que\nahorrarás en costes relacionados\ncon el trabajo y que tendrás que\npagar menos impuestos.\nPiensa en cómo te gustaría que\nfuera tu vida y establece los gastos\ncorrespondientes.\n¿Qué vas a hacer? ¿Te va a dedicar\na tu familia, a alguna afición? ¿O\nquizá quieres estudiar o viajar?\n¿Dónde piensas vivir? ¿En tu\nvivienda actual, o quieres volver a\ntu pueblo o mudarte cerca de tus\nhijos?\n¿Qué\nexpectativas\nde\nsalud\ntienes? ¿Cuentas con algún seguro\nprivado que quieres mantener?\n¿Cómo obtener información\nsobre mi pensión pública?\nLa prestación por jubilación, en su\nmodalidad contributiva, cubre la\npérdida de ingresos que sufre una\npersona cuando, alcanzada la\nedad establecida, cesa en el\ntrabajo por cuenta propia o por\ncuenta ajena. Lo que vayas a\ncobrar depende del salario que\nhayas tenido durante tu vida\nlaboral y de lo que hayas aportado\na la Seguridad Social (base de\ncotización).\nPara obtener información sobre\nla edad de acceso a la jubilación\ny el periodo mínimo de cotización\nnecesario, entre otra información\nrelevante, puedes consultar la web\nde la Seguridad Social:\nwww.seg-social.es"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿QUÉ PASA CUANDO?\nHAS EMPEZADO TARDE A\nCOTIZAR"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Aumenta"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "la\ncantidad\nque\nahorras cuanto más cerca estés\nde la edad de jubilación."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Podría ser conveniente con-"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "tratar\nademás\nun\nPIAS\nu\notro seguro de renta vitalicia\nque\npermita\naportaciones\nadicionales."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Procura jubilarte más tarde.",
+        "Si tienes una hipoteca, busca"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "la forma de pagarla o reducirla\ncuanto antes.\nESTÁS PREOCUPADO POR\nTU SALUD\nSi tienes un seguro de salud pri-\nvado, debes saber que el coste de\nlas primas se incrementa con la\nedad y, por tanto, deberás prever\nese aumento en los cálculos del\ndinero que necesitarás para tu jubi-\nlación. Debes saber que algunos\nde estos seguros no se renuevan a\npartir de determinada edad.\nYA TE HAS JUBILADO\nLa planificación financiera, inclu-\nyendo el ahorro y la inversión, no\ntermina al cumplir los 65 años, sino\nque tendrás que irla actualizando\nconstantemente.\nAdemás:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Aprovecha las ayudas econó-"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "micas y productos específicos\npara jubilados."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Si eres propietario de una"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "vivienda y necesitas más dinero,\npiensa que le puedes sacar\npartido a tu casa vendiéndola\no mediante fórmulas como la\nrenta vitalicia inmobiliaria o la\nhipoteca inversa.\nERES MUJER TRABAJADORA\nPuede que tengas que prestar\naún más atención a una buena\nplanificación de la jubilación, pues\nlas mujeres:"
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "Pueden haber cotizado menos a"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "la Seguridad Social, bien por un\nmenor nivel salarial, por haber\ntrabajado a tiempo parcial o por\nhaber pasado tiempo cuidando\na hijos o familiares."
+    },
+    {
+      "type": "list",
+      "style": "ul",
+      "items": [
+        "De media, viven entre 5 y 7"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "años más que los hombres, por\nlo que sus ahorros deben durar\nmás también."
+    },
+    {
+      "type": "paragraph",
+      "text": "EL COMPLEMENTO PRIVADO: AHORRO E INVERSIÓN\nLas pensiones públicas son el primer pilar de la\njubilación, pero pueden no ser suficientes para\ncubrir todas tus necesidades económicas. Si quieres\nmantener tu actual calidad de vida durante la\njubilación, necesitarás complementar tu futura\npensión con ahorro.\nUna vez que tengas una idea orientativa sobre cuántos\ningresos mensuales necesitarás durante la jubilación\ny el importe de la pensión pública con la que podrás\ncontar, la diferencia será la cantidad que tendrás que\nfinanciar cada mes.\n¿Cómo conseguir un FONDO DE\nAHORROS PARA LA JUBILACIÓN?\nPara preparar la jubilación hay que ahorrar con un\nhorizonte de largo plazo. Hay algunos productos\nespecíficos con esta finalidad, que te detallamos a\ncontinuación.\nPlan individual de pensiones\nConsiste en aportaciones que se van acumulando\ny quedan permanentemente invertidas en activos\nfinancieros, con la finalidad de ir constituyendo un\nahorro para el cobro de prestaciones cuando se\nproduzcan las contingencias previstas (jubilación,\nfallecimiento, incapacidad laboral, dependencia,\netc.). Las aportaciones realizadas podrán reducirse\nen la base imponible del IRPF, dentro de unos límites\nmáximos.\nPlanes de previsión asegurados (PPA)\nSon seguros de vida destinados a constituir un capital\nque se percibe en el momento de producirse la\ncontingencia de jubilación, fallecimiento, incapacidad\nlaboral permanente o dependencia. Su régimen fiscal\nes igual al de los planes de pensiones individuales.\nPlanes Individuales de Ahorro Sistemático\nSon seguros de vida cuya finalidad es ir pagando\nprimas para constituir una renta vitalicia asegurada\nque podrá percibirse a partir de una edad señalada\nen el contrato. Desde el punto de vista fiscal, a\ndiferencia de los planes de pensiones y los PPA, las\nprimas pagadas no reducen la base imponible del\nIRPF y por ello no tiene beneficios fiscales durante\nla etapa de ahorro. En cambio, cuando se cobra la\nprestación como renta vitalicia sí existen beneficios\nfiscales.\nSeguro de jubilación\nSe conocen con este nombre los seguros de vida\nque tienen como fin constituir un capital asegurado\na largo plazo mediante el pago de primas. La\nprestación se puede recibir en forma de capital, renta\ntemporal o renta vitalicia. No existen límites respecto\nal importe de las primas y suelen gozar de liquidez,\naunque las entidades aseguradoras cobran gastos\npor la desinversión anticipada de estos productos. En\ncuanto a su tratamiento fiscal, las aportaciones no\ndan derecho a ninguna deducción del IRPF."
+    },
+    {
+      "type": "paragraph",
+      "text": "plan de educación\nfinanciera\nwww.finanzasparatodos.es\nSíguenos en"
+    }
+  ],
+  "text": "Haz de tu vejez la edad de oro\nPlanificando la \njubilación\nConsejos básicos de salud financiera – 7\nPensar en el mañana\n\nHoy en día llegar a la \njubilación ya no es sinónimo \nde ser demasiado viejo para \nvivir bien ni demasiado frágil \npara disfrutar de nuevas \naventuras. Es simplemente \notra etapa en la vida. \nUN MAÑANA AGRADABLE DEPENDE DE HOY\nPara afrontar la jubilación con \ntranquilidad, ten presente que: \n• Junto con la alegría de recuperar \nel tiempo libre, llega la realidad \nde no cobrar un salario. \n• La pensión pública de jubilación \nsuele ser inferior a los ingresos \nque se perciben en activo. Una \njubilación \ncómoda \nrequiere \ncomplementar \nla \npensión \npública con el ahorro y la \ninversión personal. \n• Nunca es demasiado pronto \npara empezar a pensar en tu \njubilación.\n¿Cuánto dinero gastarás al \nmes después de jubilarte? \nCon carácter general, durante tu \nretiro te harán falta entre un 70 % \ny 90 % de los ingresos previos a la \njubilación. Si tienes un sueldo de \n2000 € netos mensuales antes de \njubilarse, necesitarás entre 1400 € \ny 1800 € para mantener el mismo \nestilo de vida después. Los gastos \nson menores porque se supone \nque tendrás pagada tu vivienda y \ntus hijos no dependerán de ti, que \nahorrarás en costes relacionados \ncon el trabajo y que tendrás que \npagar menos impuestos. \nPiensa en cómo te gustaría que \nfuera tu vida y establece los gastos \ncorrespondientes. \n¿Qué vas a hacer? ¿Te va a dedicar \na tu familia, a alguna afición? ¿O \nquizá quieres estudiar o viajar?\n¿Dónde piensas vivir? ¿En tu \nvivienda actual, o quieres volver a \ntu pueblo o mudarte cerca de tus \nhijos?\n¿Qué \nexpectativas \nde \nsalud \ntienes? ¿Cuentas con algún seguro \nprivado que quieres mantener? \n¿Cómo obtener información \nsobre mi pensión pública? \nLa prestación por jubilación, en su \nmodalidad contributiva, cubre la \npérdida de ingresos que sufre una \npersona cuando, alcanzada la \nedad establecida, cesa en el \ntrabajo por cuenta propia o por \ncuenta ajena. Lo que vayas a \ncobrar depende del salario que \nhayas tenido durante tu vida \nlaboral y de lo que hayas aportado \na la Seguridad Social (base de \ncotización).\nPara obtener información sobre \nla edad de acceso a la jubilación \ny el periodo mínimo de cotización \nnecesario, entre otra información \nrelevante, puedes consultar la web \nde la Seguridad Social:\n www.seg-social.es\n\n¿QUÉ PASA CUANDO?\nHAS EMPEZADO TARDE A \nCOTIZAR \n• Aumenta \nla \ncantidad \nque \nahorras cuanto más cerca estés \nde la edad de jubilación. \n• Podría ser conveniente con-\ntratar \nademás \nun \nPIAS \nu \notro seguro de renta vitalicia \nque \npermita \naportaciones \nadicionales. \n• Procura jubilarte más tarde. \n• Si tienes una hipoteca, busca \nla forma de pagarla o reducirla \ncuanto antes. \nESTÁS PREOCUPADO POR \nTU SALUD \nSi tienes un seguro de salud pri-\nvado, debes saber que el coste de \nlas primas se incrementa con la \nedad y, por tanto, deberás prever \nese aumento en los cálculos del \ndinero que necesitarás para tu jubi-\nlación. Debes saber que algunos \nde estos seguros no se renuevan a \npartir de determinada edad. \nYA TE HAS JUBILADO \nLa planificación financiera, inclu-\nyendo el ahorro y la inversión, no \ntermina al cumplir los 65 años, sino \nque tendrás que irla actualizando \nconstantemente.\nAdemás: \n• Aprovecha las ayudas econó-\nmicas y productos específicos \npara jubilados. \n• Si eres propietario de una \nvivienda y necesitas más dinero, \npiensa que le puedes sacar \npartido a tu casa vendiéndola \no mediante fórmulas como la \nrenta vitalicia inmobiliaria o la \nhipoteca inversa. \nERES MUJER TRABAJADORA \nPuede que tengas que prestar \naún más atención a una buena \nplanificación de la jubilación, pues \nlas mujeres: \n• Pueden haber cotizado menos a \nla Seguridad Social, bien por un \nmenor nivel salarial, por haber \ntrabajado a tiempo parcial o por \nhaber pasado tiempo cuidando \na hijos o familiares. \n• De media, viven entre 5 y 7 \naños más que los hombres, por \nlo que sus ahorros deben durar \nmás también.\n\nEL COMPLEMENTO PRIVADO: AHORRO E INVERSIÓN\nLas pensiones públicas son el primer pilar de la \njubilación, pero pueden no ser suficientes para \ncubrir todas tus necesidades económicas. Si quieres \nmantener tu actual calidad de vida durante la \njubilación, necesitarás complementar tu futura \npensión con ahorro. \nUna vez que tengas una idea orientativa sobre cuántos \ningresos mensuales necesitarás durante la jubilación \ny el importe de la pensión pública con la que podrás \ncontar, la diferencia será la cantidad que tendrás que \nfinanciar cada mes.\n¿Cómo conseguir un FONDO DE \nAHORROS PARA LA JUBILACIÓN?\nPara preparar la jubilación hay que ahorrar con un \nhorizonte de largo plazo. Hay algunos productos \nespecíficos con esta finalidad, que te detallamos a \ncontinuación.\nPlan individual de pensiones \nConsiste en aportaciones que se van acumulando \ny quedan permanentemente invertidas en activos \nfinancieros, con la finalidad de ir constituyendo un \nahorro para el cobro de prestaciones cuando se \nproduzcan las contingencias previstas (jubilación, \nfallecimiento, incapacidad laboral, dependencia, \netc.). Las aportaciones realizadas podrán reducirse \nen la base imponible del IRPF, dentro de unos límites \nmáximos. \nPlanes de previsión asegurados (PPA) \nSon seguros de vida destinados a constituir un capital \nque se percibe en el momento de producirse la \ncontingencia de jubilación, fallecimiento, incapacidad \nlaboral permanente o dependencia. Su régimen fiscal \nes igual al de los planes de pensiones individuales. \nPlanes Individuales de Ahorro Sistemático \nSon seguros de vida cuya finalidad es ir pagando \nprimas para constituir una renta vitalicia asegurada \nque podrá percibirse a partir de una edad señalada \nen el contrato. Desde el punto de vista fiscal, a \ndiferencia de los planes de pensiones y los PPA, las \nprimas pagadas no reducen la base imponible del \nIRPF y por ello no tiene beneficios fiscales durante \nla etapa de ahorro. En cambio, cuando se cobra la \nprestación como renta vitalicia sí existen beneficios \nfiscales. \nSeguro de jubilación \nSe conocen con este nombre los seguros de vida \nque tienen como fin constituir un capital asegurado \na largo plazo mediante el pago de primas. La \nprestación se puede recibir en forma de capital, renta \ntemporal o renta vitalicia. No existen límites respecto \nal importe de las primas y suelen gozar de liquidez, \naunque las entidades aseguradoras cobran gastos \npor la desinversión anticipada de estos productos. En \ncuanto a su tratamiento fiscal, las aportaciones no \ndan derecho a ninguna deducción del IRPF.\n\nplan de educación\nfinanciera\nwww.finanzasparatodos.es\nSíguenos en",
+  "text_len": 6641,
+  "num_headings": 13,
+  "metadata": {
+    "creator": "Adobe InDesign 16.2 (Macintosh)",
+    "producer": "iLovePDF",
+    "creation_date": "2021-06-17",
+    "mod_date": "2021-06-29"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "7 consejos para la jubilación",
+    "topic": "planificación",
+    "subtopic": "jubilación",
+    "difficulty": "intermedio",
+    "format": "PDF",
+    "summary": "Recomendaciones para preparar la jubilación con tiempo",
+    "learning_objective": "Planificar el ahorro a largo plazo para la jubilación"
+  },
+  "pdf_info": {
+    "n_pages": 5,
+    "body_size": 16.0,
+    "extractor": "pymupdf"
+  },
+  "deduped_from": null
+}

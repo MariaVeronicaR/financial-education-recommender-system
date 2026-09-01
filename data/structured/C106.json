@@ -1,0 +1,623 @@
+{
+  "content_id": "C106",
+  "title": "Fiscalidad de las acciones cotizadas en el IRPF (Enero/2026)",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "I. ¿Cómo tributan las acciones cotizadas?"
+    },
+    {
+      "type": "paragraph",
+      "text": "En la gestión de las finanzas personales es conveniente conocer cuánto y cuándo hay que pagar por las rentas que se vayan generando, si en ese momento existe algún tipo de beneficio fiscal, qué gastos son fiscalmente deducibles o si se pueden compensar las pérdidas con las ganancias a la hora de declarar el impuesto.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta guía explica la fiscalidad de las acciones admitidas a negociación o cotizadas en el Impuesto sobre la Renta de las Personas Físicas (IRPF) ya que, al igual que con el resto de productos de inversión, si se invierte en acciones habrá que pagar impuestos por los ingresos obtenidos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A efectos de la tributación de las acciones se deben diferenciar los diversos tipos de rentas que estas generan y que se producen fundamentalmente en dos momentos:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Cuando se venden las acciones.",
+        "Cuando se reciben los dividendos u otro tipo de ingresos como las primas de asistencia a juntas."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A la hora de invertir, la fiscalidad es uno de los aspectos sobre los que es recomendable informarse adecuadamente, ya que puede afectar a la rentabilidad final de la inversión. Además, hay que ser consciente de que la fiscalidad puede cambiar a lo largo del tiempo, incluso antes de la liquidación de la inversión.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Conceptos básicos sobre el IRPF"
+    },
+    {
+      "type": "paragraph",
+      "text": "En el IRPF se distinguen dos tipos de bases imponibles según el tipo de renta:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Base imponible general: compuesta fundamentalmente por los rendimientos del trabajo (salarios) y de actividades económicas así como por los rendimientos del capital inmobiliario (p.ej. el alquiler de un piso) y por los rendimientos de capital mobiliario que no tengan la consideración de renta del ahorro.",
+        "Base imponible del ahorro: es donde se integran la mayor parte de las rentas derivadas de la inversión en productos financieros (p. ej. dividendos e intereses)."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "A su vez dentro de la base del ahorro se diferencia entre:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Rendimientos del capital mobiliario: contraprestaciones o rendimientos generados por los bienes muebles que están dentro del patrimonio. Si se consideran los productos de inversión, los bienes muebles o mobiliarios serían, por ejemplo, las acciones o los bonos, y los rendimientos del capital mobiliario serían los dividendos recibidos en efectivo por tener acciones o los intereses recibidos por tener bonos.",
+        "Ganancias y pérdidas patrimoniales: para que haya ganancia o pérdida patrimonial es necesario que se modifique la composición del patrimonio (por la transmisión o incorporación de bienes al patrimonio) y que esta modificación haga variar el valor del mismo."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En el caso de las acciones, se produce ganancia patrimonial si el importe de la venta es superior al de la compra y se produce pérdida si el importe de la venta es inferior al de la compra.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "1.1 Fiscalidad de la venta de acciones cotizadas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Cuando se venden acciones se puede tener un beneficio o una pérdida en función de la diferencia entre el valor al que se compraron las acciones (valor de adquisición) y el valor al que se venden (valor de transmisión). En el IRPF este resultado se considera ganancia o pérdida patrimonial y se incluye en la base imponible del ahorro en el año fiscal en el que se realiza la venta de las acciones.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En el caso de acciones cotizadas, para determinar el beneficio o pérdida hay que hacer el siguiente cálculo:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "(+) Valor de transmisión: Precio de venta de las acciones, deducidos los gastos inherentes a la transmisión como, por ejemplo, las comisiones de venta pagadas al intermediario financiero y los cánones bursátiles.",
+        "(-) Valor de adquisición: Precio de compra de las acciones, sumados los gastos inherentes a dicha adquisición como, por ejemplo, las comisiones de compra y los cánones bursátiles."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Valor de transmisión - Valor de adquisición = Beneficio o pérdida",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Si se tienen acciones del mismo emisor compradas en diferentes momentos del tiempo y se vende parte de estas acciones se considera que los títulos que se transmiten son los primeros que se compraron. Por tanto, el valor de adquisición que hay que considerar para calcular la ganancia o pérdida patrimonial es el de las acciones más antiguas que se mantienen en cartera (criterio FIFO: First-In, First-Out).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Es importante saber que si se hacen distintas ventas de acciones y en unas se obtienen beneficios y en otras pérdidas se podrán compensar entre ellas, obteniendo así la base sobre la que se calculará el importe a liquidar.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Hay una excepción en el proceso de compensación, que es la conocida como “norma anti-aplicación” que establece que no se pueden compensar las pérdidas producidas en una venta si en los dos meses anteriores o posteriores a la venta con pérdidas se han comprado acciones homogéneas y, como consecuencia de ello, el patrimonio ha permanecido constante. Con esta excepción se pretende evitar que los inversores realicen operaciones de venta solo para generar pérdidas a efectos fiscales sin que haya una variación en el patrimonio porque la desinversión que conlleva la venta se repone, en el plazo de dos meses, con la adquisición de esos valores homogéneos.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En estos casos las pérdidas patrimoniales se integrarán a medida que se transmitan las acciones que permanezcan en el patrimonio del inversor.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "1. La integración y compensación se explica en detalle en el apartado II de esta guía: “¿Cómo se integran estos ingresos en la declaración de la renta?”.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "2. La norma establece un periodo de dos meses para el supuesto de acciones que cotizan en mercados regulados (“Regla de los dos meses”) y un año para el caso de que no coticen en mercados regulados. Por tanto, a las acciones que coticen en sistemas multilaterales de negociación (p.ej.: BME Growth) se les aplicará un plazo de un año. La explicación se refiere al caso de acciones cotizadas en mercados regulados.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "3. En general, se consideran acciones homogéneas las emitidas por el mismo emisor. Hay que tener en cuenta que opera el criterio FIFO para establecer la antigüedad de las acciones en cartera.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Una vez calculada la base del ahorro, tal y como se explica en el apartado II “¿Cómo se integran estos ingresos en la declaración de la renta (IRPF)?”, se le aplican los tramos y tipos indicados en el apartado III “¿Cómo se calcula la cuota a pagar?”.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Cabe destacar que en el momento de la venta de las acciones, se recibirá el importe íntegro, ya que, a diferencia de lo que sucede en otras operaciones como el reparto de dividendos, no se efectúa ninguna retención (no se detrae ningún importe en concepto de pago a cuenta).",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Ejemplo 1: Venta de acciones"
+    },
+    {
+      "type": "paragraph",
+      "text": "El 2 de febrero se compran 1.000 acciones de la compañía A que cotiza en bolsa a un precio de 5 euros cada una. Los costes asociados a la operación ascienden a 50 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El 5 de septiembre de ese mismo año se venden 500 acciones a 6,5 euros. Los costes asociados a la venta son 20 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La pérdida o ganancia patrimonial se calcula del siguiente modo:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Valor de transmisión: precio de venta (de 500 acciones) – gastos incurridos en la venta = 500 acciones x 6,5 € – 20 € = 3.230 €",
+        "Valor de adquisición: precio de compra (de las 500 acciones) + gastos incurridos en la compra (prorrateados) = 500 acciones x 5 € + 25 € (1) = 2.525 €"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "La entidad financiera no practicará retención alguna.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "(1). Los 50 euros pagados en febrero se corresponden con la compra de 1.000 acciones. Hay que calcular el coste prorrateado de las 500 acciones que se venden en septiembre: 50 € / 1.000 acciones x 500 acciones= 25 €",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Resultado: 3.230 € - 2.525 € = 705 €. Se trata de una ganancia patrimonial.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Ejemplo 2. Venta de acciones compradas en distintas fechas"
+    },
+    {
+      "type": "paragraph",
+      "text": "El 5 de abril se adquieren 1.000 acciones de la compañía B cotizada en bolsa a 6 euros cada una siendo los gastos de compra de 50 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El 13 de junio se compran otras 500 acciones de B a un precio unitario de 4,5 euros y unos costes asociados de 30 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El 16 de octubre de ese mismo año se venden 1.200 acciones a 5,5 euros cada una con unos costes de venta de 35 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A la hora de la venta y para calcular el valor de adquisición hay que aplicar el método FIFO (se venden primero las acciones más antiguas). Esto quiere decir que las 1.200 acciones vendidas se corresponden primero con las compradas el 5 de abril (1.000) y, posteriormente, con las adquiridas el 13 de junio (200 restantes).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La pérdida o ganancia patrimonial se calcula del siguiente modo:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Valor de transmisión: Precio de venta (1.200 acciones) - gastos de la venta = 1.200 acciones x 5,5 € - 35 € = 6.565 €",
+        "Valor de adquisición: Coste de 1.000 acciones: Precio de compra + gastos de la compra = 1.000 acciones x 6 € + 50 € = 6.050 €",
+        "Coste de 200 acciones: Precio de compra + gastos de la compra (prorrateados) = 200 acciones x 4,5 € + (30 € / 500 acciones) x 200 acciones = 912 €",
+        "Coste total: 6.050 € + 912 € = 6.962 €"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Resultado: 6.565 € - 6.962 € = -397 €. Se trata de una pérdida patrimonial.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "1.2. Fiscalidad de los dividendos"
+    },
+    {
+      "type": "paragraph",
+      "text": "Otra fuente de ingresos para los accionistas de una empresa, aparte de la venta de acciones, es la recepción de dividendos. Las empresas pueden repartir dividendos en efectivo o a través de la entrega de más acciones (dividendo flexible o scrip dividend). Su tratamiento fiscal en el IRPF varía en función de cómo se reciben.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "1.2.1 Dividendos en efectivo"
+    },
+    {
+      "type": "paragraph",
+      "text": "En el caso de que se reciban dividendos en dinero en efectivo estos ingresos se incluyen en la base del ahorro dentro de los rendimientos del capital mobiliario.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En el momento en que se recibe el dividendo el intermediario financiero retiene un 19 % del importe percibido. Esta retención es un pago a cuenta del impuesto que habrá que liquidar cuando se haga la declaración del IRPF.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "4. Este porcentaje corresponde a 2025 y puede variar cada año. En la web de la Agencia Tributaria (www.aeat.es) se pueden consultar los datos actualizados.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "5. Se consideran gastos de administración y depósito los importes que las entidades financieras repercutan y que tengan por finalidad retribuir la prestación derivada de la realización el servicio de depósito de valores.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Al igual que con la venta de acciones, una vez calculada la base del ahorro, tal y como se explica en el apartado II “¿Cómo se integran estos ingresos en la declaración de la renta (IRPF)?”, se le aplican los tramos y tipos indicados en el apartado III “¿Cómo se calcula la cuota a pagar?”.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Ejemplo 3. Dividendos en efectivo"
+    },
+    {
+      "type": "paragraph",
+      "text": "En octubre de 2024 se adquirieron 300 acciones de la compañía C cuyas acciones están admitidas a negociación en bolsa. En abril de 2025 la compañía C aprobó un reparto de dividendos de 0,25 euros por acción. La entidad financiera practicó una retención del 19% equivalente a 14,25 euros y aplicó una comisión por el cobro de los dividendos de 5 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El importe que se incluirá en la base del ahorro como rendimientos del capital mobiliario será:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Para determinar el resultado de la liquidación se deducirá la retención efectuada de 14,25 euros como pago a cuenta.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "1.2.2 Dividendos flexibles (o scrip dividend)"
+    },
+    {
+      "type": "paragraph",
+      "text": "En este caso la empresa no entrega efectivo a los accionistas sino un determinado número de derechos de suscripción en función del número de acciones de las que se sea titular.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "6. Al igual que las acciones, los derechos de suscripción son valores negociables y, por tanto, se pueden comprar y vender en los mercados de valores. Para más información se puede consultar la Guía rápida de la CNMV “Los Derechos de Suscripción Preferente (DSP)”.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Importe bruto – menos gastos asociados = 300 acciones x 0,25 €/acción – 5 € = 70 €",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El accionista puede decidir si mantiene los derechos y los convierte en acciones, aumentando así el número de acciones en cartera, si los vende en el mercado o si se los vende a la empresa emisora. Dependiendo de lo que se decida, el tratamiento fiscal será distinto:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Opción 1: Si la decisión es mantener los derechos y convertirlos en acciones, en el momento de recibir las acciones no habrá que tributar ni se efectuará retención. De esta forma la tributación se difiere hasta que se vendan las acciones, momento en que habrá que calcular la ganancia o pérdida patrimonial, tal y como se explica en el apartado 1.1 “Fiscalidad en la venta de acciones cotizadas”."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Cómo se valoran las acciones recibidas?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tanto las acciones recibidas como las acciones de las que procedan se considerarán con el mismo valor de adquisición, que será el que resulte de repartir el coste total (coste de las acciones que se tenían inicialmente, esto es, de las que procedan) entre el número total de títulos, tanto los antiguos como los recibidos. Se tomará como antigüedad de estas acciones la que corresponda a las acciones de las que procedan.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Ejemplo 4: Valoración de las acciones recibidas"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las 2.000 acciones de Sociedad D cotizada en bolsa, que se compraron a 12 euros, han dado derecho a recibir 64 acciones como pago de dividendos. Por tanto, en total se tendrán 2.064 acciones de Sociedad D cuyo valor de adquisición pasará a ser el siguiente:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A efectos fiscales, las 2.064 acciones son exactamente iguales ya que no hay diferencia entre ellas ni de valor de adquisición ni de fecha de compra (que es la de la adquisición de las 2.000 acciones originales).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En el momento de la venta de los títulos, a la hora de calcular la ganancia o pérdida patrimonial (según lo explicado en apartado 1.1 “Fiscalidad en la venta de acciones cotizadas”), se considerará como valor de adquisición 11,63 euros por título.",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Valor de adquisición de las acciones iniciales: 2.000 acciones x 12 € = 24.000 €.",
+        "Coste de las acciones recibidas: no tienen coste.",
+        "Coste resultante unitario (coste de las acciones antiguas y de las recibidas repartido entre el nº total de acciones): coste total / nº de acciones totales = 24.000 € / 2.064 = 11,63 €."
+      ]
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Opción 2: Si se venden los derechos de suscripción en el mercado, el importe recibido tiene la consideración de una ganancia patrimonial y como tal se integrará en la base del ahorro."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Una vez calculada la base del ahorro, según se explica en el apartado II “¿Cómo se integran estos ingresos en la declaración de la renta (IRPF)?”, se le aplican los tramos y tipos indicados en el apartado III “¿Cómo se calcula la cuota a pagar?”.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Es importante destacar que la ganancia patrimonial así obtenida está sujeta a una retención del 19 %.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Ejemplo 5: Venta de derechos de suscripción"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las acciones de la compañía E negociadas en bolsa han generado 1.200 derechos de suscripción que se venden en bolsa ya que se decide no convertirlos en acciones. En el mercado los derechos tienen un precio unitario de 0,24 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La entidad financiera retendrá un 19 % de este importe (54,72 euros) por lo que se recibirán 233,28 euros. Para determinar el resultado de la liquidación en el IRPF se deducirán los 54,72 euros en concepto de pago a cuenta o retención.",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "OPCIÓN 3: Si se venden los derechos a la empresa a un precio fijo, se tributará como si fuera un dividendo recibido en efectivo. Por tanto, se incluirán estos ingresos en la base del ahorro dentro de los rendimientos del capital mobiliario."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Una vez calculada la base del ahorro se le aplican los tramos y tipos como se explica en el apartado III “¿Cómo se calcula la cuota a pagar?”.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La ganancia patrimonial obtenida en la venta es de 1.200 x 0,24 € = 288 €. Este es el importe que se incluye en la base del ahorro.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Resumiendo..."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las rentas procedentes de las acciones se incluyen en la base del ahorro del IRPF que estaría compuesta por:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Rendimientos del capital mobiliario (RCM): como los dividendos recibidos en efectivo o las primas de asistencia a juntas.",
+        "Ganancias o pérdidas patrimoniales (GPP): como las derivadas de la venta de las acciones o de los dividendos recibidos en forma de derechos de suscripción preferente y vendidos en el mercado."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. ¿Cómo se integran estos ingresos en la declaración de la renta (IRPF)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Se ha visto de forma aislada cómo afecta la fiscalidad a los distintos tipos de ingresos obtenidos al invertir en acciones. Ahora se van a ver de forma conjunta para entender la aplicación práctica en el IRPF.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "7. Este apartado se refiere a los ingresos por acciones, pero estos cálculos se pueden aplicar a cualquier otra inversión que genere ganancias y pérdidas patrimoniales o rendimientos del capital mobiliario.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Los ingresos obtenidos al invertir en acciones van a formar parte de la base del ahorro. Para determinar la base del ahorro del periodo impositivo hay que calcular dos bloques:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Por un lado, se suman todas las pérdidas y todas las ganancias patrimoniales de ese periodo, compensando así las ganancias con las pérdidas.",
+        "Por otro lado, se suman todos los rendimientos del capital mobiliario, tanto positivos como negativos, obtenidos en ese periodo, compensando estos entre sí."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Una vez calculados los dos bloques, se puede realizar una compensación entre ellos. Si el saldo de alguno de los dos bloques es negativo y el otro es positivo se puede compensar el negativo hasta un límite del 25 % del positivo. El resto de importe negativo (que no sea posible compensar por sobrepasar el límite del 25 %) se podrá compensar en los próximos 4 años. Por ejemplo, si se ha perdido con la venta de acciones (bloque de ganancias y pérdidas patrimoniales), esta pérdida se podría restar de lo ganado en dividendos en efectivo (bloque de rendimiento del capital mobiliario) hasta en un 25 % de esta ganancia y el resto del importe negativo se podrá compensar en los 4 años siguientes.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Ejemplo 6. Compensación"
+    },
+    {
+      "type": "paragraph",
+      "text": "Se realizan las siguientes operaciones con acciones cotizadas en bolsa en el año:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "El 5 de septiembre se venden acciones de la compañía A obteniendo un beneficio de 705 euros.",
+        "El 16 de octubre se venden acciones de la compañía B generando una pérdida de 392 euros.",
+        "El 20 de octubre la compañía C paga dividendos por un importe de 70 euros de los que se retienen 13,30 euros (70€ x 19%=13,3).",
+        "El 3 de noviembre se reciben derechos de suscripción derivados de la tenencia de acciones en la compañía E que se venden en el mercado. El importe de la venta es de 288 euros y la retención que se practica sobre ese importe es de 54,72 euros (288€ x 19% = 54,72€).",
+        "Los gastos de custodia de las distintas acciones en el ejercicio han sido de 7 euros."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Adicionalmente, se realizan las siguientes operaciones con otros productos:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "El 23 de octubre se reembolsan participaciones del fondo F con una pérdida de 915 euros.",
+        "Finalmente el 31 de diciembre un depósito bancario contratado genera intereses por importe de 20 euros de los que se retienen 3,8 euros (20 x 19% = 3,80€)"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Se procede a sumar y agrupar, por un lado, todas las ganancias y pérdidas patrimoniales (GPP) y, por otro todos, los rendimientos del capital mobiliario (RCM):",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Una vez compensados internamente esos bloques, se observa que uno de ellos, el de las GPP, es negativo mientras que el de los RCM es positivo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Cuántas pérdidas se pueden compensar?",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Se puede compensar el 25 % de 83,00 €: un importe de 20,75 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "El resto de las pérdidas patrimoniales (293,25 euros) se podrán compensar durante los próximos 4 años.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La base imponible del ahorro será: 83 € - 20,75 € = 62,25 €",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "III. ¿Cómo se calcula la cuota a pagar?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una vez obtenida la base del ahorro, para calcular el impuesto que hay que liquidar se aplicarán los tipos impositivos. Actualmente estos tipos varían entre un 19% y un 30%, del siguiente modo:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Se gravarán al 19 %, los primeros 6.000 euros",
+        "al 21 %, los siguientes hasta 50.000 euros",
+        "al 23 %, por los ingresos entre 50.000 y 200.000 euros",
+        "al 27 % por los ingresos entre 200.000 y 300.000 euros",
+        "al 30 % por los ingresos que superan los 300.000 euros"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos porcentajes se aplican por tramos progresivamente, de modo que, por ejemplo, si se ganan 10.000 euros no se va a pagar un 21 % por todos ellos (es decir, 2.100 euros) sino un 19 % por los primeros 6.000 euros y un 21 % por los 4.000 euros restantes, un total de 1.980 euros.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Además, para determinar el resultado de la liquidación del IRPF se deducirán las retenciones practicadas en concepto de pago a cuenta.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Ejemplo 7. Cuota a pagar y resultado de la liquidación"
+    },
+    {
+      "type": "paragraph",
+      "text": "Si se considera la base imponible del ahorro resultante del ejemplo anterior, de 62,25 euros, la cuota a pagar sería de 19 %, es decir, 11,83 euros (62,25€ x 19 %).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Las retenciones totales practicadas durante el periodo como consecuencia de las operaciones realizadas han ascendido a 71,82 euros (13,3€ + 54,72€ + 3,8€).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Dado que las retenciones (71,82€) han sido superiores a la cuota resultante a pagar (11,83€), el inversor recibirá como resultado de la liquidación del IRPF el exceso retenido (71,82€ – 11,83€=59,99 €).",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "8. Estos porcentajes corresponden a 2025 y pueden variar cada año. Además, en País Vasco y Navarra los tramos y tipos son diferentes. En la web de la Agencia Tributaria (www.aeat.es) se encuentran los datos actualizados.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Decía Einstein que: “Lo más difícil de entender en el mundo es el impuesto sobre la renta.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Parece ser que no lo decía porque no entendiera el impuesto en sí o la razonabilidad del impuesto, sino porque no entendía los formularios que tenía que rellenar para hacer la declaración de la renta.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Actualmente la Agencia Tributaria cuenta con programas para ayudar a hacer la declaración de la renta, pero tan importante es que se rellenen correctamente los formularios como que se entienda lo que se cumplimenta.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En todo caso, es relevante comprender la importancia de la fiscalidad en las decisiones de inversión.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta ficha tiene como finalidad informar al público en general sobre distintos aspectos fiscales relacionados con las acciones cotizadas. Por su naturaleza divulgativa no puede constituir un soporte para posteriores interpretaciones jurídicas, siendo la normativa en vigor y los criterios manifestados por la Administración tributaria la única fuente a estos efectos.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [
+    {
+      "type": "warning",
+      "text": "RECUERDA QUE: Las variaciones de valor de la acción solo se hacen efectivas en el momento en que se vende la acción. Por tanto, si se mantiene la inversión no hay que declarar los incrementos o disminuciones en el valor de las acciones.",
+      "level": "info"
+    },
+    {
+      "type": "warning",
+      "text": "Para poder compensar pérdidas patrimoniales no se podrán adquirir en los dos meses anteriores o posteriores a la venta de acciones cotizadas en mercados regulados más acciones del mismo emisor en tanto el patrimonio del inversor permanezca constante.",
+      "level": "caution"
+    },
+    {
+      "type": "warning",
+      "text": "De los ingresos que componen el rendimiento del capital mobiliario se pueden deducir los gastos de administración y depósito de las acciones. Sin embargo, si se ha contratado un servicio de gestión discrecional e individualizada de carteras, los importes pagados por este servicio no serán deducibles.",
+      "level": "info"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:41:07.232093+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 47381,
+    "input_tokens": 9154,
+    "output_tokens": 15185
+  }
+}

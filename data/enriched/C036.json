@@ -1,0 +1,57 @@
+{
+  "content_id": "C036",
+  "tldr": "El perfil de un inversor se define por la relación entre el riesgo que está dispuesto a asumir y la rentabilidad que espera obtener, clasificándose típicamente en conservador, medio y agresivo. Conocer tu perfil es el punto de partida para elegir productos adecuados y evitar disgustos, ya que riesgo y rentabilidad están directamente relacionados. El perfil no es fijo ni absoluto: puede variar con el tiempo, la situación financiera y las experiencias, y no impide destinar parte de los ahorros a productos de mayor riesgo.",
+  "key_points": [
+    "El perfil inversor se define por la relación entre el riesgo que se está dispuesto a asumir y la rentabilidad esperada (conservador, medio o agresivo).",
+    "Riesgo y rentabilidad están directamente relacionados: aceptar menos riesgo suele implicar una rentabilidad más baja.",
+    "Conocer el perfil es el punto de partida para decidir si un producto financiero nos conviene o no.",
+    "Un riesgo inadecuado (por no conocer el perfil o elegir mal el producto) puede provocar pérdidas inesperadas.",
+    "El perfil no es absoluto ni fijo: puede cambiar con el tiempo, la situación financiera y las experiencias, y permite combinar productos de distinto riesgo."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué define principalmente el perfil de un inversor?",
+      "options": [
+        "El importe total de dinero que tiene ahorrado",
+        "La relación entre el riesgo que está dispuesto a asumir y la rentabilidad que espera obtener",
+        "La cantidad de productos financieros que contrata al año",
+        "La edad del inversor y su profesión"
+      ],
+      "correct_index": 1,
+      "explanation": "El perfil se define por la relación entre el riesgo que se asume y la rentabilidad esperada, dando lugar a perfiles conservador, medio y agresivo.",
+      "concept_id": "C13"
+    },
+    {
+      "question": "En el ejemplo del inversor conservador que contrata un fondo de renta fija, ¿cuál era el verdadero problema?",
+      "options": [
+        "El fondo era fraudulento y perdió todo su valor por una estafa",
+        "El banco cometió un error al calcular el valor de las participaciones",
+        "El inversor no sabía realmente dónde metía su dinero y asumió un riesgo que no esperaba",
+        "La renta fija siempre pierde valor, por lo que el fondo era inadecuado para cualquiera"
+      ],
+      "correct_index": 2,
+      "explanation": "El fondo no actuaba de forma extraña: el problema fue que el inversor no era consciente del riesgo que asumía, por no haber identificado bien su perfil ni el producto.",
+      "concept_id": "C12"
+    },
+    {
+      "question": "Según el contenido, ¿por qué conocer tu perfil inversor es importante y en qué se insiste al respecto?",
+      "options": [
+        "Porque es un dato fijo que te acompaña toda la vida y nunca cambia",
+        "Porque permite saber si un producto te conviene y ser consciente del riesgo que asumes en cada uno",
+        "Porque clasifica a los inversores en categorías absolutas y exactas",
+        "Porque solo sirve para decidir cuánto dinero invertir en criptomonedas"
+      ],
+      "correct_index": 1,
+      "explanation": "Conocer el perfil es el punto de partida para saber si un producto encaja contigo y asumir conscientemente su riesgo; además, el perfil puede variar con el tiempo y no es una clasificación exacta.",
+      "concept_id": "C16"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 7453,
+    "input_tokens": 1998,
+    "output_tokens": 1026
+  }
+}

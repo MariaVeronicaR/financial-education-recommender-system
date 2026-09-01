@@ -1,0 +1,56 @@
+{
+  "content_id": "C059",
+  "title": "EliBÁN aclara algunas de tus dudas con la hipoteca",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "EliBÁN aclara algunas de tus dudas con la hipoteca"
+    },
+    {
+      "type": "video",
+      "url": "https://www.youtube.com/embed/EClq7RUOpEo?si=I_L73M9gVZmntLGm",
+      "platform": "youtube",
+      "caption": "Vídeo de eliBÁN aclarando dudas habituales al contratar una hipoteca"
+    },
+    {
+      "type": "paragraph",
+      "text": "En este nuevo capítulo, eliBÁN se despide, no sin antes despejar algunas de las dudas más habituales al contratar una hipoteca. En el vídeo te cuenta desde como pagar la vivienda hasta qué hacer si tuvieras problemas para abonar la cuota de tu hipoteca.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "En definitiva, terminamos esta serie convertida en una guía práctica para elegir con criterio tu hipoteca antes de firmar.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Y recuerda que puedes profundizar más a través de nuestros contenidos del Portal del Cliente Bancario.",
+      "links": [
+        {
+          "text": "Portal del Cliente Bancario",
+          "href": "https://clientebancario.bde.es/pcb/es/",
+          "start": 74,
+          "end": 101
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "text": "Portal del Cliente Bancario",
+      "href": "https://clientebancario.bde.es/pcb/es/",
+      "start": null,
+      "end": null
+    }
+  ],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:16:51.508151+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 5904,
+    "input_tokens": 1970,
+    "output_tokens": 1652
+  }
+}

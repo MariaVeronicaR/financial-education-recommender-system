@@ -1,0 +1,57 @@
+{
+  "content_id": "C048",
+  "tldr": "Un fondo de emergencia es una reserva de dinero exclusiva para imprevistos (reparaciones, desempleo, etc.), no para vacaciones ni caprichos. Debe estar fácilmente disponible en una cuenta a la vista o de ahorro, y cubrir entre 3 y 6 meses de tus gastos básicos. Para construirlo, calcula tus gastos esenciales, inclúyelo en tu presupuesto como un gasto más y programa transferencias mensuales, aprovechando ingresos extra para acelerarlo.",
+  "key_points": [
+    "El fondo de emergencia es una red de seguridad para imprevistos reales, nunca para caprichos o vacaciones.",
+    "El dinero debe estar disponible al momento, pero guardado en una cuenta a la vista o de ahorro, no en casa.",
+    "La meta recomendada es cubrir entre 3 y 6 meses de tus gastos básicos (vivienda, comida, servicios, transporte).",
+    "Se construye incluyéndolo en el presupuesto y programando transferencias mensuales, empezando poco a poco.",
+    "Ingresos extra como la paga extra o la devolución de la renta ayudan a hacerlo crecer más rápido."
+  ],
+  "quiz": [
+    {
+      "question": "¿Para cuál de las siguientes situaciones está pensado usar un fondo de emergencia?",
+      "options": [
+        "Un viaje de vacaciones que llevas meses planeando",
+        "Comprarte el último modelo de móvil",
+        "Una reparación urgente del coche o un periodo de desempleo",
+        "Una cena especial para celebrar un logro"
+      ],
+      "correct_index": 2,
+      "explanation": "El fondo de emergencia está destinado exclusivamente a imprevistos reales como reparaciones o desempleo, no a vacaciones ni caprichos.",
+      "concept_id": "C02"
+    },
+    {
+      "question": "¿Cuál es la cantidad mínima recomendada para un fondo de emergencia?",
+      "options": [
+        "El equivalente a 1 mes de tus ingresos",
+        "Entre 3 y 6 meses de tus gastos básicos",
+        "El 10% de tu sueldo anual",
+        "Todo lo que puedas ahorrar durante un año"
+      ],
+      "correct_index": 1,
+      "explanation": "El mínimo recomendado es cubrir entre 3 y 6 meses de tus gastos básicos, para darte margen de reacción sin endeudarte.",
+      "concept_id": "C16"
+    },
+    {
+      "question": "Según el contenido, ¿dónde es adecuado guardar el dinero del fondo de emergencia?",
+      "options": [
+        "En efectivo debajo del colchón en casa",
+        "En una cuenta a la vista o una cuenta de ahorro",
+        "Invertido en acciones de alto riesgo",
+        "En una caja fuerte que solo abres una vez al año"
+      ],
+      "correct_index": 1,
+      "explanation": "Debe estar fácilmente disponible cuando lo necesites, pero en una cuenta a la vista o de ahorro, no en casa ni en inversiones de riesgo.",
+      "concept_id": "C08"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 3875,
+    "input_tokens": 1638,
+    "output_tokens": 754
+  }
+}

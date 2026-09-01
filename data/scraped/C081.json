@@ -1,0 +1,96 @@
+{
+  "content_id": "C081",
+  "url": "https://www.finanzasparatodos.es/herramientas/mis-objetivos",
+  "source": "Finanzas para Todos",
+  "host": "www.finanzasparatodos.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 52919
+  },
+  "title": "Mis objetivos - Finanzas para todos",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Mis objetivos"
+    },
+    {
+      "level": 2,
+      "text": "Resultados"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Mis objetivos",
+      "start": 0,
+      "end": 114,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Resultados",
+      "start": 114,
+      "end": 468,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Mis objetivos"
+    },
+    {
+      "type": "paragraph",
+      "text": "{{ title }}\n{{ summary }}\n¿Cuáles son tus objetivos?"
+    },
+    {
+      "type": "paragraph",
+      "text": "¿Cuánto dinero necesitarás para cumplirlos? (€)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Resultados"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ten en cuenta que se trata de un ejemplo meramente didáctico en el que no se tienen en cuenta la inflación y otras variables. Para el cálculo se ha considerado una liquidación mensual de intereses y se ha utilizado el método de interés compuesto.\n{{ footerInfo }}"
+    }
+  ],
+  "text": "Mis objetivos\n{{ title }}\n{{ summary }}\n               ¿Cuáles son tus objetivos?\n            \n            \n               ¿Cuánto dinero necesitarás para cumplirlos? (€)\n            \n          Resultados\nTen en cuenta que se trata de un ejemplo meramente didáctico en el que no se tienen en cuenta la inflación y otras variables. Para el cálculo se ha considerado una liquidación mensual de intereses y se ha utilizado el método de interés compuesto.\n{{ footerInfo }}",
+  "text_len": 468,
+  "num_headings": 2,
+  "metadata": {
+    "title": "Mis objetivos - Finanzas para todos",
+    "url": "https://www.finanzasparatodos.es/herramientas/mis-objetivos?utm_source=chatgpt.com",
+    "hostname": "finanzasparatodos.es",
+    "sitename": "finanzasparatodos.es",
+    "date": "2024-01-01",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": true,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Objetivos financieros personales",
+    "topic": "planificación",
+    "subtopic": "objetivos financieros",
+    "difficulty": "intermedio",
+    "format": "herramienta",
+    "summary": "Herramienta oficial para definir y seguir objetivos financieros personales",
+    "learning_objective": "Convertir objetivos financieros en un plan de acción"
+  },
+  "deduped_from": null
+}

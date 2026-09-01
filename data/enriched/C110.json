@@ -1,0 +1,57 @@
+{
+  "content_id": "C110",
+  "tldr": "La validación de transacciones en una cadena de bloques (blockchain) se realiza mediante un protocolo de consenso, un mecanismo que los participantes de la red (mineros o nodos validadores) deben seguir para decidir qué transacciones son válidas y se incorporan al registro. Este protocolo es clave para la seguridad, ya que evita errores y duplicados, como gastar un mismo criptoactivo dos veces. A cambio, los validadores reciben recompensas en criptoactivos nativos de la red, como bitcoins en Bitcoin o ether en Ethereum.",
+  "key_points": [
+    "El protocolo de consenso es el mecanismo que determina qué transacciones son válidas y se incorporan a la cadena de bloques.",
+    "Garantiza la seguridad del registro evitando datos erróneos o duplicados, como transferir un mismo criptoactivo dos veces.",
+    "Los participantes que validan se llaman mineros o nodos validadores según el protocolo, y suelen ser ordenadores o servidores con software específico.",
+    "La validación se recompensa con criptoactivos nativos de la red: bitcoins en Bitcoin y ether en Ethereum.",
+    "Las transacciones validadas se agrupan en bloques que pasan a formar parte del registro de forma definitiva."
+  ],
+  "quiz": [
+    {
+      "question": "¿Cuál es la función principal del protocolo de consenso en una cadena de bloques?",
+      "options": [
+        "Determinar qué transacciones son válidas y cuáles se incorporan al registro",
+        "Fijar el precio de los criptoactivos en el mercado",
+        "Crear nuevas cuentas bancarias para los usuarios",
+        "Eliminar las comisiones de todas las operaciones"
+      ],
+      "correct_index": 0,
+      "explanation": "El protocolo de consenso es el mecanismo que los participantes siguen para decidir qué transacciones son válidas y, por tanto, cuáles se incorporan a la cadena de bloques.",
+      "concept_id": "C27"
+    },
+    {
+      "question": "¿Qué problema concreto ayuda a evitar el protocolo de consenso?",
+      "options": [
+        "Que una persona pueda transferir un mismo criptoactivo dos veces",
+        "Que el precio del bitcoin suba o baje demasiado rápido",
+        "Que los usuarios olviden sus contraseñas",
+        "Que las comisiones de las plataformas sean altas"
+      ],
+      "correct_index": 0,
+      "explanation": "El protocolo de consenso confirma que la cadena no tiene datos erróneos o duplicados, evitando que un mismo criptoactivo se transfiera dos veces.",
+      "concept_id": "C27"
+    },
+    {
+      "question": "¿Cómo se recompensa a los nodos validadores o mineros por su trabajo de validación?",
+      "options": [
+        "Con criptoactivos nativos de la propia red, creados al validar",
+        "Con intereses pagados por los usuarios de la red",
+        "Con acciones de la empresa que gestiona la red",
+        "Con dinero en efectivo depositado en un banco"
+      ],
+      "correct_index": 0,
+      "explanation": "El protocolo recompensa la validación emitiendo nuevos criptoactivos nativos de la red, como bitcoins en Bitcoin o ether en Ethereum.",
+      "concept_id": "C27"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 3938,
+    "input_tokens": 1684,
+    "output_tokens": 869
+  }
+}

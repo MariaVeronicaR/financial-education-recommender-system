@@ -1,0 +1,57 @@
+{
+  "content_id": "C094",
+  "tldr": "La volatilidad mide la variación del precio de un activo a lo largo del tiempo y es una característica natural de los mercados, no una anomalía. Un activo más volátil tiende a ser más riesgoso: los bonos de renta fija suelen ser menos volátiles, mientras que las acciones y especialmente las criptomonedas presentan mayor volatilidad. Aunque no puede eliminarse, sí puede entenderse y gestionarse con información y una estrategia adecuada, adaptada al perfil del inversionista.",
+  "key_points": [
+    "La volatilidad mide cuánto sube o baja el precio de un activo (acciones, bonos, criptomonedas, materias primas) a lo largo del tiempo.",
+    "Un activo más volátil suele implicar un mayor riesgo, aunque la volatilidad en sí no es negativa por naturaleza.",
+    "Los bonos (renta fija) son menos volátiles, mientras que las acciones y sobre todo las criptomonedas son más volátiles y arriesgadas.",
+    "Una bajada de precios puede ser una oportunidad para comprar barato, pero la alta volatilidad añade riesgo si se busca una inversión estable.",
+    "La volatilidad no se puede eliminar, pero sí gestionarse con información y una estrategia acorde al perfil y objetivos del inversionista."
+  ],
+  "quiz": [
+    {
+      "question": "¿Qué mide exactamente la volatilidad de un activo?",
+      "options": [
+        "La variación del precio de un activo a lo largo del tiempo",
+        "La rentabilidad garantizada que ofrece un activo",
+        "El valor total de una cartera de inversión",
+        "La cantidad de comisiones que cobra el banco"
+      ],
+      "correct_index": 0,
+      "explanation": "La volatilidad mide qué tanto sube o baja el valor de un activo en el tiempo; no garantiza rentabilidad ni describe comisiones.",
+      "concept_id": "C25"
+    },
+    {
+      "question": "Según el contenido, ¿cuál de estos activos suele presentar MENOR volatilidad?",
+      "options": [
+        "Las criptomonedas",
+        "Las acciones de renta variable",
+        "Los bonos de renta fija",
+        "Las materias primas especulativas"
+      ],
+      "correct_index": 2,
+      "explanation": "El contenido indica que los activos de renta fija, como los bonos, suelen ser menos volátiles que las acciones o las criptomonedas.",
+      "concept_id": "C25"
+    },
+    {
+      "question": "¿Por qué una alta volatilidad puede ser un arma de doble filo para un inversionista?",
+      "options": [
+        "Porque siempre garantiza pérdidas en el corto plazo",
+        "Porque una caída puede ser oportunidad de comprar barato, pero el valor puede fluctuar mucho, lo que añade riesgo",
+        "Porque elimina por completo el riesgo de la cartera",
+        "Porque solo afecta a los activos de renta fija"
+      ],
+      "correct_index": 1,
+      "explanation": "La volatilidad ofrece la posibilidad de comprar barato tras caídas, pero también implica grandes fluctuaciones, lo que resulta más arriesgado si se busca estabilidad.",
+      "concept_id": "C13"
+    }
+  ],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-27",
+    "prompt_version": 1,
+    "elapsed_ms": 4276,
+    "input_tokens": 1858,
+    "output_tokens": 795
+  }
+}

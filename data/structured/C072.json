@@ -1,0 +1,21 @@
+{
+  "content_id": "C072",
+  "title": "Mis deudas - Finanzas para todos",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Mis deudas - Finanzas para todos"
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:26:18.952591+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 2548,
+    "input_tokens": 2071,
+    "output_tokens": 443
+  }
+}

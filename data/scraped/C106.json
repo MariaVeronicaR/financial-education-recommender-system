@@ -1,0 +1,489 @@
+{
+  "content_id": "C106",
+  "url": "https://www.cnmv.es/DocPortal/Publicaciones/Guias/FiscalidadAccionesCotizadasEnElIRPF.pdf",
+  "source": "CNMV",
+  "host": "www.cnmv.es",
+  "url_type": "pdf",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 1115494
+  },
+  "title": "Fiscalidad de las acciones cotizadas en el IRPF (Enero/2026)",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Fiscalidad de"
+    },
+    {
+      "level": 1,
+      "text": "las acciones"
+    },
+    {
+      "level": 1,
+      "text": "cotizadas en el"
+    },
+    {
+      "level": 1,
+      "text": "I. ¿Cómo tributan las"
+    },
+    {
+      "level": 1,
+      "text": "acciones cotizadas?"
+    },
+    {
+      "level": 1,
+      "text": "Conceptos básicos sobre"
+    },
+    {
+      "level": 1,
+      "text": "Resumiendo..."
+    },
+    {
+      "level": 1,
+      "text": "II. ¿Cómo se integran"
+    },
+    {
+      "level": 1,
+      "text": "estos ingresos en la"
+    },
+    {
+      "level": 1,
+      "text": "declaración de la renta"
+    },
+    {
+      "level": 1,
+      "text": "III. ¿Cómo se calcula la"
+    },
+    {
+      "level": 1,
+      "text": "cuota a pagar?"
+    },
+    {
+      "level": 1,
+      "text": "Decía Einstein"
+    },
+    {
+      "level": 1,
+      "text": "que: “Lo más"
+    },
+    {
+      "level": 1,
+      "text": "difícil de entender"
+    },
+    {
+      "level": 1,
+      "text": "en el mundo es el"
+    },
+    {
+      "level": 1,
+      "text": "impuesto sobre la"
+    },
+    {
+      "level": 1,
+      "text": "También podría"
+    },
+    {
+      "level": 1,
+      "text": "ser de interés…"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Fiscalidad de",
+      "start": 0,
+      "end": 13,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "las acciones",
+      "start": 13,
+      "end": 27,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "cotizadas en el",
+      "start": 27,
+      "end": 511,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "I. ¿Cómo tributan las",
+      "start": 511,
+      "end": 547,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "acciones cotizadas?",
+      "start": 547,
+      "end": 1954,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "Conceptos básicos sobre",
+      "start": 1954,
+      "end": 17331,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "Resumiendo...",
+      "start": 17331,
+      "end": 17980,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "II. ¿Cómo se integran",
+      "start": 17980,
+      "end": 18006,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "estos ingresos en la",
+      "start": 18006,
+      "end": 18026,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "declaración de la renta",
+      "start": 18026,
+      "end": 21568,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "III. ¿Cómo se calcula la",
+      "start": 21568,
+      "end": 21623,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "cuota a pagar?",
+      "start": 21623,
+      "end": 23364,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "Decía Einstein",
+      "start": 23364,
+      "end": 23397,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "que: “Lo más",
+      "start": 23397,
+      "end": 23411,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "difícil de entender",
+      "start": 23411,
+      "end": 23432,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "en el mundo es el",
+      "start": 23432,
+      "end": 23451,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "impuesto sobre la",
+      "start": 23451,
+      "end": 24394,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "También podría",
+      "start": 24394,
+      "end": 24421,
+      "found": true
+    },
+    {
+      "level": 1,
+      "heading": "ser de interés…",
+      "start": 24421,
+      "end": 24466,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de las acciones cotizadas en el IRPF"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Fiscalidad de"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "las acciones"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "cotizadas en el"
+    },
+    {
+      "type": "paragraph",
+      "text": "IRPF\nGuía"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nÍndice\n¿Cómo tributan las acciones\ncotizadas?\nFiscalidad en la venta de\nacciones cotizadas\nFiscalidad de los dividendos\nDividendos en efectivo\nDividendos flexibles (o Scrip\nDividend)\n¿Cómo se integran estos\ningresos en la declaración de\nla renta (IRPF)?\n¿Cómo se calcula la cuota a\npagar?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de las acciones cotizadas en el IRPF (Enero/2026)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "I. ¿Cómo tributan las"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "acciones cotizadas?"
+    },
+    {
+      "type": "paragraph",
+      "text": "En la gestión de las finanzas personales es conveniente conocer cuánto\ny cuándo hay que pagar por las rentas que se vayan generando, si en ese\nmomento existe algún tipo de beneficio fiscal, qué gastos son fiscalmente\ndeducibles o si se pueden compensar las pérdidas con las ganancias a la hora\nde declarar el impuesto.\nEsta guía explica la fiscalidad de las acciones admitidas a negociación\no cotizadas en el Impuesto sobre la Renta de las Personas Físicas (IRPF) ya\nque, al igual que con el resto de productos de inversión, si se invierte en\nacciones habrá que pagar impuestos por los ingresos obtenidos.\nFiscalidad de\nlas acciones\ncotizadas en el\nIRPF"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nA efectos de la tributación de las acciones se deben diferenciar los diversos\ntipos de rentas que estas generan y que se producen fundamentalmente en\ndos momentos:\n¥ Cuando se venden las acciones.\n¥ Cuando se reciben los dividendos u otro tipo de ingresos\ncomo las primas de asistencia a juntas.\nA la hora de invertir, la fiscalidad es uno de los aspectos sobre los que\nes recomendable informarse adecuadamente, ya que puede afectar a\nla rentabilidad final de la inversión. Además, hay que ser consciente de\nque la fiscalidad puede cambiar a lo largo del tiempo, incluso antes de\nla liquidación de la inversión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de las acciones cotizadas en el IRPF (Enero/2026)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Conceptos básicos sobre"
+    },
+    {
+      "type": "paragraph",
+      "text": "el IRPF\nEn el IRPF se distinguen dos tipos de bases imponibles según el tipo de renta:\n¥ Base imponible general: compuesta fundamentalmente por los\nrendimientos del trabajo (salarios) y de actividades económicas así\ncomo por los rendimientos del capital inmobiliario (p.ej. el alquiler de\nun piso) y por los rendimientos de capital mobiliario que no tengan la\nconsideración de renta del ahorro.\n¥ Base imponible del ahorro: es donde se integran la mayor parte de\nlas rentas derivadas de la inversión en productos financieros (p. ej.\ndividendos e intereses).\nA su vez dentro de la base del ahorro se diferencia entre:\n¥ Rendimientos del capital mobiliario: contraprestaciones o\nrendimientos generados por los bienes muebles que están dentro del\npatrimonio. Si se consideran los productos de inversión, los bienes\nmuebles o mobiliarios serían, por ejemplo, las acciones o los bonos, y\nlos rendimientos del capital mobiliario serían los dividendos recibidos\nen efectivo por tener acciones o los intereses recibidos por tener\nbonos.\n¥ Ganancias y pérdidas patrimoniales: para que haya ganancia o\npérdida patrimonial es necesario que se modifique la composición del\npatrimonio (por la transmisión o incorporación de bienes al patrimonio)\ny que esta modificación haga variar el valor del mismo.\nEn el caso de las acciones, se produce ganancia patrimonial si el importe de\nla venta es superior al de la compra y se produce pérdida si el importe de la\nventa es inferior al de la compra."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\n1.1 Fiscalidad de la venta de acciones cotizadas\nCuando se venden acciones se puede tener un beneficio o una pérdida en\nfunción de la diferencia entre el valor al que se compraron las acciones (valor\nde adquisición) y el valor al que se venden (valor de transmisión). En el IRPF\neste resultado se considera ganancia o pérdida patrimonial y se incluye en\nla base imponible del ahorro en el año fiscal en el que se realiza la venta de\nlas acciones.\nEn el caso de acciones cotizadas, para determinar el beneficio o pérdida hay\nque hacer el siguiente cálculo:\nSiendo:\n(+) Valor de transmisión: Precio de venta de las\nacciones, deducidos los gastos inherentes a la\ntransmisión como, por ejemplo, las comisiones\nde venta pagadas al intermediario financiero y\nlos cánones bursátiles.\n(-) Valor de adquisición: Precio de compra de\nlas acciones, sumados los gastos inherentes\na dicha adquisición como, por ejemplo, las\ncomisiones de compra y los cánones bursátiles.\nValor de transmisión - Valor de adquisición = Beneficio o pérdida\nRECUERDA QUE:\nLas variaciones de valor de la acción solo se hacen efectivas en\nel momento en que se vende la acción.\nPor tanto, si se mantiene la inversión no hay que declarar los\nincrementos o disminuciones en el valor de las acciones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nSi se tienen acciones del mismo emisor compradas en diferentes momentos\ndel tiempo y se vende parte de estas acciones se considera que los títulos\nque se transmiten son los primeros que se compraron. Por tanto, el valor\nde adquisición que hay que considerar para calcular la ganancia o pérdida\npatrimonial es el de las acciones más antiguas que se mantienen en cartera\n(criterio FIFO: First-In, First-Out).\nEs importante saber que si se hacen distintas ventas de acciones y en unas\nse obtienen beneficios y en otras pérdidas se podrán compensar entre ellas1,\nobteniendo así la base sobre la que se calculará el importe a liquidar.\nHay una excepción en el proceso de compensación, que es la conocida\ncomo “norma anti-aplicación” que establece que no se pueden compensar\nlas pérdidas producidas en una venta si en los dos meses2 anteriores o\nposteriores a la venta con pérdidas se han comprado acciones homogéneas3\ny, como consecuencia de ello, el patrimonio ha permanecido constante. Con\nesta excepción se pretende evitar que los inversores realicen operaciones de\nventa solo para generar pérdidas a efectos fiscales sin que haya una variación\nen el patrimonio porque la desinversión que conlleva la venta se repone, en el\nplazo de dos meses, con la adquisición de esos valores homogéneos.\nEn estos casos las pérdidas patrimoniales se integrarán a medida que se\ntransmitan las acciones que permanezcan en el patrimonio del inversor.\n1.\nLa integración y compensación se explica en detalle en el apartado II de esta guía: “¿Cómo se integran estos\ningresos en la declaración de la renta?”.\n2.\nLa norma establece un periodo de dos meses para el supuesto de acciones que cotizan en mercados regulados\n(“Regla de los dos meses”) y un año para el caso de que no coticen en mercados regulados. Por tanto, a las acciones\nque coticen en sistemas multilaterales de negociación (p.ej.: BME Growth) se les aplicará un plazo de un año. La\nexplicación se refiere al caso de acciones cotizadas en mercados regulados.\n3.\nEn general, se consideran acciones homogéneas las emitidas por el mismo emisor. Hay que tener en cuenta que\nopera el criterio FIFO para establecer la antigüedad de las acciones en cartera.\nPara poder compensar pérdidas patrimoniales no se podrán adquirir\nen los dos meses anteriores o posteriores a la venta de acciones\ncotizadas en mercados regulados más acciones del mismo emisor en\ntanto el patrimonio del inversor permanezca constante."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nUna vez calculada la base del ahorro, tal y como se explica en el apartado II\n“¿Cómo se integran estos ingresos en la declaración de la renta (IRPF)?”, se\nle aplican los tramos y tipos indicados en el apartado III “¿Cómo se calcula la\ncuota a pagar?”.\nCabe destacar que en el momento de la venta de las acciones, se recibirá el\nimporte íntegro, ya que, a diferencia de lo que sucede en otras operaciones\ncomo el reparto de dividendos, no se efectúa ninguna retención (no se detrae\nningún importe en concepto de pago a cuenta).\nEjemplo 1: Venta de acciones\nEl 2 de febrero se compran 1.000 acciones de la compañía A que cotiza\nen bolsa a un precio de 5 euros cada una. Los costes asociados a la\noperación ascienden a 50 euros.\nEl 5 de septiembre de ese mismo año se venden 500 acciones a 6,5\neuros. Los costes asociados a la venta son 20 euros.\nLa pérdida o ganancia patrimonial se calcula del siguiente modo:\nValor de transmisión: precio de venta (de 500 acciones) – gastos\nincurridos en la venta = 500 acciones x 6,5 € – 20 € = 3.230 €\nValor de adquisición: precio de compra (de las 500 acciones) + gastos\nincurridos en la compra (prorrateados) = 500 acciones x 5 € + 25 € (1) =\n2.525 €\nLa entidad financiera no practicará retención alguna.\n(1). Los 50 euros pagados en febrero se corresponden con la compra de 1.000 acciones. Hay que calcular el coste\nprorrateado de las 500 acciones que se venden en septiembre: 50 € / 1.000 acciones x 500 acciones= 25 €\nResultado: 3.230 € - 2.525 € = 705 €. Se trata de una ganancia\npatrimonial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nEjemplo 2. Venta de acciones compradas en distintas fechas\nEl 5 de abril se adquieren 1.000 acciones de la compañía B cotizada en\nbolsa a 6 euros cada una siendo los gastos de compra de 50 euros.\nEl 13 de junio se compran otras 500 acciones de B a un precio unitario\nde 4,5 euros y unos costes asociados de 30 euros.\nEl 16 de octubre de ese mismo año se venden 1.200 acciones a 5,5 euros\ncada una con unos costes de venta de 35 euros.\nA la hora de la venta y para calcular el valor de adquisición hay que\naplicar el método FIFO (se venden primero las acciones más antiguas).\nEsto quiere decir que las 1.200 acciones vendidas se corresponden\nprimero con las compradas el 5 de abril (1.000) y, posteriormente, con\nlas adquiridas el 13 de junio (200 restantes).\nLa pérdida o ganancia patrimonial se calcula del siguiente modo:\nValor de transmisión:\nPrecio de venta (1.200 acciones) - gastos de la venta = 1.200 acciones x\n5,5 € - 35 € = 6.565 €\nValor de adquisición:\nCoste de 1.000 acciones: Precio de compra + gastos de la compra =\n1.000 acciones x 6 € + 50 € = 6.050 €\nCoste de 200 acciones: Precio de compra + gastos de la compra\n(prorrateados) = 200 acciones x 4,5 € + (30 € / 500 acciones) x 200\nacciones = 912 €\nCoste total: 6.050 € + 912 € = 6.962 €\nResultado: 6.565 € - 6.962 € = -397 €. Se trata de una pérdida\npatrimonial."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\n1.2.\nFiscalidad de los dividendos\nOtra fuente de ingresos para los accionistas de una empresa, aparte de la\nventa de acciones, es la recepción de dividendos. Las empresas pueden\nrepartir dividendos en efectivo o a través de la entrega de más acciones\n(dividendo flexible o scrip dividend). Su tratamiento fiscal en el IRPF varía en\nfunción de cómo se reciben.\n1.2.1 Dividendos en efectivo\nEn el caso de que se reciban dividendos en dinero en efectivo estos ingresos\nse incluyen en la base del ahorro dentro de los rendimientos del capital\nmobiliario.\nEn el momento en que se recibe el dividendo el intermediario financiero\nretiene un 19 %4 del importe percibido. Esta retención es un pago a cuenta del\nimpuesto que habrá que liquidar cuando se haga la declaración del IRPF.\n4.\nEste porcentaje corresponde a 2025 y puede variar cada año. En la web de la Agencia Tributaria (www.aeat.es) se\npueden consultar los datos actualizados.\n5.\nSe consideran gastos de administración y depósito los importes que las entidades inancieras repercutan y que\ntengan por inalidad retribuir la prestación derivada de la realización el servicio de depósito de valores.\nDe los ingresos que componen el rendimiento del capital mobiliario\nse pueden deducir los gastos de administración y depósito de las\nacciones5. Sin embargo, si se ha contratado un servicio de gestión\ndiscrecional e individualizada de carteras, los importes pagados por\neste servicio no serán deducibles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nAl igual que con la venta de acciones, una vez calculada la base del\nahorro, tal y como se explica en el apartado II “¿Cómo se integran estos\ningresos en la declaración de la renta (IRPF)?”, se le aplican los tramos y\ntipos indicados en el apartado III “¿Cómo se calcula la cuota a pagar?”.\nEjemplo 3. Dividendos en efectivo\nEn octubre de 2024 se adquirieron 300 acciones de la compañía C\ncuyas acciones están admitidas a negociación en bolsa. En abril de\n2025 la compañía C aprobó un reparto de dividendos de 0,25 euros\npor acción. La entidad inanciera practicó una retención del 19%\nequivalente a 14,25 euros y aplicó una comisión por el cobro de los\ndividendos de 5 euros.\nEl importe que se incluirá en la base del ahorro como rendimientos del\ncapital mobiliario será:\nPara determinar el resultado de la liquidación se deducirá la retención\nefectuada de 14,25 euros como pago a cuenta.\n1.2.2 Dividendos flexibles (o scrip dividend)\nEn este caso la empresa no entrega efectivo a los accionistas sino un\ndeterminado número de derechos de suscripción6 en función del número\nde acciones de las que se sea titular.\n6.\nAl igual que las acciones, los derechos de suscripción son valores negociables y, por tanto, se pueden comprar\ny vender en los mercados de valores. Para más información se puede consultar la Guía rápida de la CNMV “Los\nDerechos de Suscripción Preferente (DSP)”.\nImporte bruto – menos gastos asociados = 300 acciones x 0,25 €/\nacción – 5 € = 70 €"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nEl accionista puede decidir si mantiene los derechos y los convierte en\nacciones, aumentando así el número de acciones en cartera, si los vende en\nel mercado o si se los vende a la empresa emisora. Dependiendo de lo que se\ndecida, el tratamiento fiscal será distinto:\n¥ Opción 1: Si la decisión es mantener los derechos y convertirlos en\nacciones, en el momento de recibir las acciones no habrá que tributar\nni se efectuará retención. De esta forma la tributación se difiere hasta\nque se vendan las acciones, momento en que habrá que calcular la\nganancia o pérdida patrimonial, tal y como se explica en el apartado 1.1\n“Fiscalidad en la venta de acciones cotizadas”.\n¿Cómo se valoran las acciones recibidas?\nTanto las acciones recibidas como las acciones de las que procedan\nse considerarán con el mismo valor de adquisición, que será el que\nresulte de repartir el coste total (coste de las acciones que se tenían\ninicialmente, esto es, de las que procedan) entre el número total\nde títulos, tanto los antiguos como los recibidos. Se tomará como\nantigüedad de estas acciones la que corresponda a las acciones de las\nque procedan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nEjemplo 4: Valoración de las acciones recibidas\nLas 2.000 acciones de Sociedad D cotizada en bolsa, que se compraron\na 12 euros, han dado derecho a recibir 64 acciones como pago de\ndividendos. Por tanto, en total se tendrán 2.064 acciones de Sociedad D\ncuyo valor de adquisición pasará a ser el siguiente:\nA efectos fiscales, las 2.064 acciones son exactamente iguales ya que\nno hay diferencia entre ellas ni de valor de adquisición ni de fecha de\ncompra (que es la de la adquisición de las 2.000 acciones originales).\nEn el momento de la venta de los títulos, a la hora de calcular la ganancia\no pérdida patrimonial (según lo explicado en apartado 1.1 “Fiscalidad en la\nventa de acciones cotizadas”), se considerará como valor de adquisición\n11,63 euros por título.\nValor de adquisición de las acciones iniciales: 2.000 acciones x 12\n€ = 24.000 €.\nCoste de las acciones recibidas: no tienen coste.\nCoste resultante unitario (coste de las acciones antiguas y de las\nrecibidas repartido entre el nº total de acciones): coste total / nº\nde acciones totales = 24.000 € / 2.064 = 11,63 €."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\n¥ Opción 2: Si se venden los derechos de suscripción en el mercado,\nel importe recibido tiene la consideración de una ganancia patrimonial\ny como tal se integrará en la base del ahorro.\nUna vez calculada la base del ahorro, según se explica en el apartado\nII “¿Cómo se integran estos ingresos en la declaración de la renta\n(IRPF)?”, se le aplican los tramos y tipos indicados en el apartado III\n“¿Cómo se calcula la cuota a pagar?”.\nEs importante destacar que la ganancia patrimonial así obtenida está\nsujeta a una retención del 19 %.\nEjemplo 5: Venta de derechos de suscripción\nLas acciones de la compañía E negociadas en bolsa han generado 1.200\nderechos de suscripción que se venden en bolsa ya que se decide no\nconvertirlos en acciones. En el mercado los derechos tienen un precio\nunitario de 0,24 euros.\nLa entidad financiera retendrá un 19 % de este importe (54,72 euros)\npor lo que se recibirán 233,28 euros. Para determinar el resultado de la\nliquidación en el IRPF se deducirán los 54,72 euros en concepto de pago\na cuenta o retención.\n¥ OPCIÓN 3: Si se venden los derechos a la empresa a un precio\nfijo, se tributará como si fuera un dividendo recibido en efectivo. Por\ntanto, se incluirán estos ingresos en la base del ahorro dentro de los\nrendimientos del capital mobiliario.\nUna vez calculada la base del ahorro se le aplican los tramos y tipos\ncomo se explica en el apartado III “¿Cómo se calcula la cuota a pagar?”.\nLa ganancia patrimonial obtenida en la venta es de 1.200 x 0,24 €\n= 288 €. Este es el importe que se incluye en la base del ahorro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de las acciones cotizadas en el IRPF"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Resumiendo..."
+    },
+    {
+      "type": "paragraph",
+      "text": "Las rentas procedentes de las acciones se incluyen en la base del ahorro\ndel IRPF que estaría compuesta por:\n¥ Rendimientos del capital mobiliario (RCM): como los dividendos\nrecibidos en efectivo o las primas de asistencia a juntas.\n¥ Ganancias o pérdidas patrimoniales (GPP): como las derivadas de\nla venta de las acciones o de los dividendos recibidos en forma de\nderechos de suscripción preferente y vendidos en el mercado."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de las acciones cotizadas en el IRPF (Enero/2026)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "II. ¿Cómo se integran"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "estos ingresos en la"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "declaración de la renta"
+    },
+    {
+      "type": "paragraph",
+      "text": "(IRPF)?\nSe ha visto de forma aislada cómo afecta la fiscalidad a los distintos tipos\nde ingresos obtenidos al invertir en acciones. Ahora se van a ver de forma\nconjunta para entender la aplicación práctica en el IRPF7.\nLos ingresos obtenidos al invertir en acciones van a formar parte de la base\ndel ahorro. Para determinar la base del ahorro del periodo impositivo hay que\ncalcular dos bloques:\n¥ Por un lado, se suman todas las pérdidas y todas las ganancias\npatrimoniales de ese periodo, compensando así las ganancias con las\npérdidas.\n¥ Por otro lado, se suman todos los rendimientos del capital\nmobiliario, tanto positivos como negativos, obtenidos en ese periodo,\ncompensando estos entre sí.\n.\n7.\nEste apartado se refiere a los ingresos por acciones, pero estos cálculos se pueden aplicar a cualquier otra inversión\nque genere ganancias y pérdidas patrimoniales o rendimientos del capital mobiliario."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nUna vez calculados los dos bloques, se puede realizar una compensación\nentre ellos. Si el saldo de alguno de los dos bloques es negativo y el otro es\npositivo se puede compensar el negativo hasta un límite del 25 % del positivo\nEl resto de importe negativo (que no sea posible compensar por sobrepasar\nel límite del 25 %) se podrá compensar en los próximos 4 años. Por ejemplo,\nsi se ha perdido con la venta de acciones (bloque de ganancias y pérdidas\npatrimoniales), esta pérdida se podría restar de lo ganado en dividendos en\nefectivo (bloque de rendimiento del capital mobiliario) hasta en un 25 % de\nesta ganancia y el resto del importe negativo se podrá compensar en los 4\naños siguientes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nEjemplo 6. Compensación\nSe realizan las siguientes operaciones con acciones cotizadas en bolsa\nen el año:\n¥ El 5 de septiembre se venden acciones de la compañía A obteniendo\nun beneficio de 705 euros.\n¥ El 16 de octubre se venden acciones de la compañía B generando una\npérdida de 392 euros.\n¥ El 20 de octubre la compañía C paga dividendos por un importe de 70\neuros de los que se retienen 13,30 euros (70€ x 19%=13,3).\n¥ El 3 de noviembre se reciben derechos de suscripción derivados de la\ntenencia de acciones en la compañía E que se venden en el mercado.\nEl importe de la venta es de 288 euros y la retención que se practica\nsobre ese importe es de 54,72 euros (288€ x 19% = 54,72€).\n¥ Los gastos de custodia de las distintas acciones en el ejercicio han\nsido de 7 euros.\nAdicionalmente, se realizan las siguientes operaciones con otros\nproductos:\n¥ El 23 de octubre se reembolsan participaciones del fondo F con una\npérdida de 915 euros.\n¥ Finalmente el 31 de diciembre un depósito bancario contratado genera\nintereses por importe de 20 euros de los que se retienen 3,8 euros\n(20 x 19% = 3,80€)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nSe procede a sumar y agrupar, por un lado, todas las ganancias y\npérdidas patrimoniales (GPP) y, por otro todos, los rendimientos del\ncapital mobiliario (RCM):\nUna vez compensados internamente esos bloques, se observa que\nuno de ellos, el de las GPP, es negativo mientras que el de los RCM es\npositivo.\n¿Cuántas pérdidas se pueden compensar?\nSe puede compensar el 25 % de 83,00 €: un importe de 20,75 euros.\nEl resto de las pérdidas patrimoniales (293,25 euros) se podrán\ncompensar durante los próximos 4 años.\nLa base imponible del ahorro será: 83 € - 20,75 € = 62,25 €"
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de las acciones cotizadas en el IRPF (Enero/2026)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "III. ¿Cómo se calcula la"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "cuota a pagar?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Una vez obtenida la base del ahorro, para calcular el impuesto que hay que\nliquidar se aplicarán los tipos impositivos. Actualmente estos tipos varían\nentre un 19% y un 30%8 , del siguiente modo:\nSe gravarán al 19 %, los primeros 6.000 euros\nal 21 %, los siguientes hasta 50.000 euros\nal 23 %, por los ingresos entre 50.000 y 200.000 euros\nal 27 % por los ingresos entre 200.000 y 300.000 euros\nal 30 % por los ingresos que superan los 300.000 euros\nEstos porcentajes se aplican por tramos progresivamente, de modo que, por\nejemplo, si se ganan 10.000 euros no se va a pagar un 21 % por todos ellos (es\ndecir, 2.100 euros) sino un 19 % por los primeros 6.000 euros y un 21 % por los\n4.000 euros restantes, un total de 1.980 euros.\nAdemás, para determinar el resultado de la liquidación del IRPF se deducirán\nlas retenciones practicadas en concepto de pago a cuenta.\nEjemplo 7. Cuota a pagar y resultado de la liquidación\nSi se considera la base imponible del ahorro resultante del ejemplo\nanterior, de 62,25 euros, la cuota a pagar sería de 19 %, es decir, 11,83\neuros (62,25€ x 19 %).\nLas retenciones totales practicadas durante el periodo como\nconsecuencia de las operaciones realizadas han ascendido a 71,82 euros\n(13,3€ + 54,72€ + 3,8€).\nDado que las retenciones (71,82€) han sido superiores a la cuota\nresultante a pagar (11,83€), el inversor recibirá como resultado de la\nliquidación del IRPF el exceso retenido (71,82€ – 11,83€=59,99 €)."
+    },
+    {
+      "type": "list",
+      "style": "ol",
+      "items": [
+        ""
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Estos porcentajes corresponden a 2025 y pueden variar cada año. Además, en País Vasco y Navarra los tramos y\ntipos son diferentes. En la web de la Agencia Tributaria (www.aeat.es) se encuentran los datos actualizados."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fiscalidad de las acciones cotizadas en el IRPF (Enero/2026)"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Decía Einstein"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "que: “Lo más"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "difícil de entender"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "en el mundo es el"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "impuesto sobre la"
+    },
+    {
+      "type": "paragraph",
+      "text": "renta.”\nParece ser que no lo decía porque no entendiera el impuesto en sí o la\nrazonabilidad del impuesto, sino porque no entendía los formularios que tenía\nque rellenar para hacer la declaración de la renta.\nActualmente la Agencia Tributaria cuenta con programas para ayudar a\nhacer la declaración de la renta, pero tan importante es que se rellenen\ncorrectamente los formularios como que se entienda lo que se cumplimenta.\nEn todo caso, es relevante comprender la importancia de la fiscalidad en las\ndecisiones de inversión."
+    },
+    {
+      "type": "paragraph",
+      "text": "Guía de fiscalidad de fondos\nEsta ficha tiene como finalidad informar al público en general sobre distintos\naspectos fiscales relacionados con las acciones cotizadas. Por su naturaleza\ndivulgativa no puede constituir un soporte para posteriores interpretaciones\njurídicas, siendo la normativa en vigor y los criterios manifestados por la\nAdministración tributaria la única fuente a estos efectos."
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "También podría"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "ser de interés…"
+    },
+    {
+      "type": "paragraph",
+      "text": "educacionfinanciera@cnmv.es"
+    }
+  ],
+  "text": "Fiscalidad de las acciones cotizadas en el IRPF\nFiscalidad de \nlas acciones \ncotizadas en el \nIRPF\nGuía\n\nFiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nÍndice\n¿Cómo tributan las acciones \ncotizadas?\nFiscalidad en la venta de \nacciones cotizadas\nFiscalidad de los dividendos \nDividendos en efectivo \nDividendos flexibles (o Scrip \nDividend)\n¿Cómo se integran estos \ningresos en la declaración de \nla renta (IRPF)?\n¿Cómo se calcula la cuota a \npagar?\n\nFiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nI. ¿Cómo tributan las\nacciones cotizadas?\nEn la gestión de las finanzas personales es conveniente conocer cuánto \ny cuándo hay que pagar por las rentas que se vayan generando, si en ese \nmomento existe algún tipo de beneficio fiscal, qué gastos son fiscalmente \ndeducibles o si se pueden compensar las pérdidas con las ganancias a la hora \nde declarar el impuesto.\nEsta guía explica la fiscalidad de las acciones admitidas a negociación \no cotizadas en el Impuesto sobre la Renta de las Personas Físicas (IRPF) ya\nque, al igual que con el resto de productos de inversión, si se invierte en\nacciones habrá que pagar impuestos por los ingresos obtenidos.\nFiscalidad de \nlas acciones \ncotizadas en el \nIRPF\n\nFiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nA efectos de la tributación de las acciones se deben diferenciar los diversos \ntipos de rentas que estas generan y que se producen fundamentalmente en \ndos momentos: \n¥ Cuando se venden las acciones.\n¥ Cuando se reciben los dividendos u otro tipo de ingresos\ncomo las primas de asistencia a juntas.\nA la hora de invertir, la fiscalidad es uno de los aspectos sobre los que \nes recomendable informarse adecuadamente, ya que puede afectar a \nla rentabilidad final de la inversión. Además, hay que ser consciente de \nque la fiscalidad puede cambiar a lo largo del tiempo, incluso antes de \nla liquidación de la inversión.\n\nFiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nConceptos básicos sobre \nel IRPF\nEn el IRPF se distinguen dos tipos de bases imponibles según el tipo de renta:\n¥ Base imponible general: compuesta fundamentalmente por los\nrendimientos del trabajo (salarios) y de actividades económicas así\ncomo por los rendimientos del capital inmobiliario (p.ej. el alquiler de\nun piso) y por los rendimientos de capital mobiliario que no tengan la\nconsideración de renta del ahorro.\n¥ Base imponible del ahorro: es donde se integran la mayor parte de\nlas rentas derivadas de la inversión en productos financieros (p. ej.\ndividendos e intereses).\nA su vez dentro de la base del ahorro se diferencia entre:\n¥ Rendimientos del capital mobiliario: contraprestaciones o\nrendimientos generados por los bienes muebles que están dentro del\npatrimonio. Si se consideran los productos de inversión, los bienes\nmuebles o mobiliarios serían, por ejemplo, las acciones o los bonos, y\nlos rendimientos del capital mobiliario serían los dividendos recibidos\nen efectivo por tener acciones o los intereses recibidos por tener\nbonos.\n¥ Ganancias y pérdidas patrimoniales: para que haya ganancia o\npérdida patrimonial es necesario que se modifique la composición del\npatrimonio (por la transmisión o incorporación de bienes al patrimonio)\ny que esta modificación haga variar el valor del mismo.\nEn el caso de las acciones, se produce ganancia patrimonial si el importe de \nla venta es superior al de la compra y se produce pérdida si el importe de la \nventa es inferior al de la compra.\n\nFiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\n1.1 Fiscalidad de la venta de acciones cotizadas \nCuando se venden acciones se puede tener un beneficio o una pérdida en \nfunción de la diferencia entre el valor al que se compraron las acciones (valor \nde adquisición) y el valor al que se venden (valor de transmisión). En el IRPF \neste resultado se considera ganancia o pérdida patrimonial y se incluye en \nla base imponible del ahorro en el año fiscal en el que se realiza la venta de \nlas acciones. \nEn el caso de acciones cotizadas, para determinar el beneficio o pérdida hay \nque hacer el siguiente cálculo:\nSiendo:\n(+) Valor de transmisión: Precio de venta de las \nacciones, deducidos los gastos inherentes a la \ntransmisión como, por ejemplo, las comisiones \nde venta pagadas al intermediario financiero y \nlos cánones bursátiles. \n(-) Valor de adquisición: Precio de compra de \nlas acciones, sumados los gastos inherentes \na dicha adquisición como, por ejemplo, las \ncomisiones de compra y los cánones bursátiles. \nValor de transmisión - Valor de adquisición = Beneficio o pérdida\nRECUERDA QUE:\nLas variaciones de valor de la acción solo se hacen efectivas en \nel momento en que se vende la acción. \nPor tanto, si se mantiene la inversión no hay que declarar los \nincrementos o disminuciones en el valor de las acciones.\n\nFiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nSi se tienen acciones del mismo emisor compradas en diferentes momentos \ndel tiempo y se vende parte de estas acciones se considera que los títulos \nque se transmiten son los primeros que se compraron. Por tanto, el valor \nde adquisición que hay que considerar para calcular la ganancia o pérdida \npatrimonial es el de las acciones más antiguas que se mantienen en cartera \n(criterio FIFO: First-In, First-Out).\nEs importante saber que si se hacen distintas ventas de acciones y en unas \nse obtienen beneficios y en otras pérdidas se podrán compensar entre ellas1, \nobteniendo así la base sobre la que se calculará el importe a liquidar.\nHay una excepción en el proceso de compensación, que es la conocida \ncomo “norma anti-aplicación” que establece que no se pueden compensar \nlas pérdidas producidas en una venta si en los dos meses2 anteriores o \nposteriores a la venta con pérdidas se han comprado acciones homogéneas3 \ny, como consecuencia de ello, el patrimonio ha permanecido constante. Con \nesta excepción se pretende evitar que los inversores realicen operaciones de \nventa solo para generar pérdidas a efectos fiscales sin que haya una variación \nen el patrimonio porque la desinversión que conlleva la venta se repone, en el \nplazo de dos meses, con la adquisición de esos valores homogéneos.\nEn estos casos las pérdidas patrimoniales se integrarán a medida que se \ntransmitan las acciones que permanezcan en el patrimonio del inversor.\n1.\nLa integración y compensación se explica en detalle en el apartado II de esta guía: “¿Cómo se integran estos\ningresos en la declaración de la renta?”.\n2.\nLa norma establece un periodo de dos meses para el supuesto de acciones que cotizan en mercados regulados\n(“Regla de los dos meses”) y un año para el caso de que no coticen en mercados regulados. Por tanto, a las acciones\nque coticen en sistemas multilaterales de negociación (p.ej.: BME Growth) se les aplicará un plazo de un año. La\nexplicación se refiere al caso de acciones cotizadas en mercados regulados.\n3.\nEn general, se consideran acciones homogéneas las emitidas por el mismo emisor. Hay que tener en cuenta que\nopera el criterio FIFO para establecer la antigüedad de las acciones en cartera.\nPara poder compensar pérdidas patrimoniales no se podrán adquirir \nen los dos meses anteriores o posteriores a la venta de acciones \ncotizadas en mercados regulados más acciones del mismo emisor en \ntanto el patrimonio del inversor permanezca constante.\n\nFiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nUna vez calculada la base del ahorro, tal y como se explica en el apartado II \n“¿Cómo se integran estos ingresos en la declaración de la renta (IRPF)?”, se \nle aplican los tramos y tipos indicados en el apartado III “¿Cómo se calcula la \ncuota a pagar?”. \nCabe destacar que en el momento de la venta de las acciones, se recibirá el \nimporte íntegro, ya que, a diferencia de lo que sucede en otras operaciones \ncomo el reparto de dividendos, no se efectúa ninguna retención (no se detrae \nningún importe en concepto de pago a cuenta). \nEjemplo 1: Venta de acciones\nEl 2 de febrero se compran 1.000 acciones de la compañía A que cotiza \nen bolsa a un precio de 5 euros cada una. Los costes asociados a la \noperación ascienden a 50 euros. \nEl 5 de septiembre de ese mismo año se venden 500 acciones a 6,5 \neuros. Los costes asociados a la venta son 20 euros.\nLa pérdida o ganancia patrimonial se calcula del siguiente modo:\nValor de transmisión: precio de venta (de 500 acciones) – gastos \nincurridos en la venta = 500 acciones x 6,5 € – 20 € = 3.230 €\nValor de adquisición: precio de compra (de las 500 acciones) + gastos \nincurridos en la compra (prorrateados) = 500 acciones x 5 € + 25 € (1) = \n2.525 € \nLa entidad financiera no practicará retención alguna.\n(1). Los 50 euros pagados en febrero se corresponden con la compra de 1.000 acciones. Hay que calcular el coste \nprorrateado de las 500 acciones que se venden en septiembre: 50 € / 1.000 acciones x 500 acciones= 25 €\nResultado: 3.230 € - 2.525 € = 705 €. Se trata de una ganancia \npatrimonial.\n\nFiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nEjemplo 2. Venta de acciones compradas en distintas fechas\nEl 5 de abril se adquieren 1.000 acciones de la compañía B cotizada en \nbolsa a 6 euros cada una siendo los gastos de compra de 50 euros.\nEl 13 de junio se compran otras 500 acciones de B a un precio unitario \nde 4,5 euros y unos costes asociados de 30 euros. \nEl 16 de octubre de ese mismo año se venden 1.200 acciones a 5,5 euros \ncada una con unos costes de venta de 35 euros. \nA la hora de la venta y para calcular el valor de adquisición hay que \naplicar el método FIFO (se venden primero las acciones más antiguas). \nEsto quiere decir que las 1.200 acciones vendidas se corresponden \nprimero con las compradas el 5 de abril (1.000) y, posteriormente, con \nlas adquiridas el 13 de junio (200 restantes).\nLa pérdida o ganancia patrimonial se calcula del siguiente modo:\nValor de transmisión:\nPrecio de venta (1.200 acciones) - gastos de la venta = 1.200 acciones x \n5,5 € - 35 € = 6.565 €\nValor de adquisición: \nCoste de 1.000 acciones: Precio de compra + gastos de la compra = \n1.000 acciones x 6 € + 50 € = 6.050 €\nCoste de 200 acciones: Precio de compra + gastos de la compra \n(prorrateados) = 200 acciones x 4,5 € + (30 € / 500 acciones) x 200 \nacciones = 912 €\nCoste total: 6.050 € + 912 € = 6.962 €\nResultado: 6.565 € - 6.962 € = -397 €. Se trata de una pérdida \npatrimonial.\n\nFiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\n1.2. \nFiscalidad de los dividendos \nOtra fuente de ingresos para los accionistas de una empresa, aparte de la \nventa de acciones, es la recepción de dividendos. Las empresas pueden \nrepartir dividendos en efectivo o a través de la entrega de más acciones \n(dividendo flexible o scrip dividend). Su tratamiento fiscal en el IRPF varía en \nfunción de cómo se reciben. \n1.2.1 Dividendos en efectivo\nEn el caso de que se reciban dividendos en dinero en efectivo estos ingresos \nse incluyen en la base del ahorro dentro de los rendimientos del capital \nmobiliario. \nEn el momento en que se recibe el dividendo el intermediario financiero \nretiene un 19 %4 del importe percibido. Esta retención es un pago a cuenta del \nimpuesto que habrá que liquidar cuando se haga la declaración del IRPF.\n4.\nEste porcentaje corresponde a 2025 y puede variar cada año. En la web de la Agencia Tributaria (www.aeat.es) se \npueden consultar los datos actualizados.\n5.\nSe consideran gastos de administración y depósito los importes que las entidades inancieras repercutan y que \ntengan por inalidad retribuir la prestación derivada de la realización el servicio de depósito de valores.\nDe los ingresos que componen el rendimiento del capital mobiliario \nse pueden deducir los gastos de administración y depósito de las \nacciones5. Sin embargo, si se ha contratado un servicio de gestión \ndiscrecional e individualizada de carteras, los importes pagados por \neste servicio no serán deducibles.\n\nFiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nAl igual que con la venta de acciones, una vez calculada la base del \nahorro, tal y como se explica en el apartado II “¿Cómo se integran estos \ningresos en la declaración de la renta (IRPF)?”, se le aplican los tramos y \ntipos indicados en el apartado III “¿Cómo se calcula la cuota a pagar?”.\nEjemplo 3. Dividendos en efectivo\nEn octubre de 2024 se adquirieron 300 acciones de la compañía C \ncuyas acciones están admitidas a negociación en bolsa. En abril de \n2025 la compañía C aprobó un reparto de dividendos de 0,25 euros \npor acción. La entidad inanciera practicó una retención del 19% \nequivalente a 14,25 euros y aplicó una comisión por el cobro de los \ndividendos de 5 euros.\nEl importe que se incluirá en la base del ahorro como rendimientos del \ncapital mobiliario será:\nPara determinar el resultado de la liquidación se deducirá la retención \nefectuada de 14,25 euros como pago a cuenta.\n1.2.2 Dividendos flexibles (o scrip dividend)\nEn este caso la empresa no entrega efectivo a los accionistas sino un \ndeterminado número de derechos de suscripción6 en función del número \nde acciones de las que se sea titular.\n6.\nAl igual que las acciones, los derechos de suscripción son valores negociables y, por tanto, se pueden comprar\ny vender en los mercados de valores. Para más información se puede consultar la Guía rápida de la CNMV “Los\nDerechos de Suscripción Preferente (DSP)”.\nImporte bruto – menos gastos asociados = 300 acciones x 0,25 €/\nacción – 5 € = 70 €\n\nFiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nEl accionista puede decidir si mantiene los derechos y los convierte en \nacciones, aumentando así el número de acciones en cartera, si los vende en \nel mercado o si se los vende a la empresa emisora. Dependiendo de lo que se \ndecida, el tratamiento fiscal será distinto:\n¥ Opción 1: Si la decisión es mantener los derechos y convertirlos en\nacciones, en el momento de recibir las acciones no habrá que tributar\nni se efectuará retención. De esta forma la tributación se difiere hasta\nque se vendan las acciones, momento en que habrá que calcular la\nganancia o pérdida patrimonial, tal y como se explica en el apartado 1.1\n“Fiscalidad en la venta de acciones cotizadas”.\n¿Cómo se valoran las acciones recibidas?\nTanto las acciones recibidas como las acciones de las que procedan \nse considerarán con el mismo valor de adquisición, que será el que \nresulte de repartir el coste total (coste de las acciones que se tenían \ninicialmente, esto es, de las que procedan) entre el número total \nde títulos, tanto los antiguos como los recibidos. Se tomará como \nantigüedad de estas acciones la que corresponda a las acciones de las \nque procedan.\n\nFiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nEjemplo 4: Valoración de las acciones recibidas\nLas 2.000 acciones de Sociedad D cotizada en bolsa, que se compraron \na 12 euros, han dado derecho a recibir 64 acciones como pago de \ndividendos. Por tanto, en total se tendrán 2.064 acciones de Sociedad D \ncuyo valor de adquisición pasará a ser el siguiente: \nA efectos fiscales, las 2.064 acciones son exactamente iguales ya que \nno hay diferencia entre ellas ni de valor de adquisición ni de fecha de \ncompra (que es la de la adquisición de las 2.000 acciones originales).\nEn el momento de la venta de los títulos, a la hora de calcular la ganancia \no pérdida patrimonial (según lo explicado en apartado 1.1 “Fiscalidad en la\nventa de acciones cotizadas”), se considerará como valor de adquisición\n11,63 euros por título.\nValor de adquisición de las acciones iniciales: 2.000 acciones x 12 \n€ = 24.000 €.\nCoste de las acciones recibidas: no tienen coste.\nCoste resultante unitario (coste de las acciones antiguas y de las \nrecibidas repartido entre el nº total de acciones): coste total / nº \nde acciones totales = 24.000 € / 2.064 = 11,63 €.\n\nFiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\n¥ Opción 2: Si se venden los derechos de suscripción en el mercado,\nel importe recibido tiene la consideración de una ganancia patrimonial\ny como tal se integrará en la base del ahorro.\nUna vez calculada la base del ahorro, según se explica en el apartado \nII “¿Cómo se integran estos ingresos en la declaración de la renta \n(IRPF)?”, se le aplican los tramos y tipos indicados en el apartado III \n“¿Cómo se calcula la cuota a pagar?”. \nEs importante destacar que la ganancia patrimonial así obtenida está \nsujeta a una retención del 19 %.\nEjemplo 5: Venta de derechos de suscripción\nLas acciones de la compañía E negociadas en bolsa han generado 1.200 \nderechos de suscripción que se venden en bolsa ya que se decide no \nconvertirlos en acciones. En el mercado los derechos tienen un precio \nunitario de 0,24 euros. \nLa entidad financiera retendrá un 19 % de este importe (54,72 euros) \npor lo que se recibirán 233,28 euros. Para determinar el resultado de la \nliquidación en el IRPF se deducirán los 54,72 euros en concepto de pago \na cuenta o retención.\n¥ OPCIÓN 3: Si se venden los derechos a la empresa a un precio\nfijo, se tributará como si fuera un dividendo recibido en efectivo. Por\ntanto, se incluirán estos ingresos en la base del ahorro dentro de los\nrendimientos del capital mobiliario.\nUna vez calculada la base del ahorro se le aplican los tramos y tipos \ncomo se explica en el apartado III “¿Cómo se calcula la cuota a pagar?”. \nLa ganancia patrimonial obtenida en la venta es de 1.200 x 0,24 € \n= 288 €. Este es el importe que se incluye en la base del ahorro.\n\nFiscalidad de las acciones cotizadas en el IRPF\nResumiendo...\nLas rentas procedentes de las acciones se incluyen en la base del ahorro \ndel IRPF que estaría compuesta por:\n¥ Rendimientos del capital mobiliario (RCM): como los dividendos\nrecibidos en efectivo o las primas de asistencia a juntas.\n¥ Ganancias o pérdidas patrimoniales (GPP): como las derivadas de\nla venta de las acciones o de los dividendos recibidos en forma de\nderechos de suscripción preferente y vendidos en el mercado.\n\nFiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nII. ¿Cómo se integran\nestos ingresos en la\ndeclaración de la renta\n(IRPF)?\nSe ha visto de forma aislada cómo afecta la fiscalidad a los distintos tipos \nde ingresos obtenidos al invertir en acciones. Ahora se van a ver de forma \nconjunta para entender la aplicación práctica en el IRPF7. \nLos ingresos obtenidos al invertir en acciones van a formar parte de la base \ndel ahorro. Para determinar la base del ahorro del periodo impositivo hay que \ncalcular dos bloques:\n¥ Por un lado, se suman todas las pérdidas y todas las ganancias\npatrimoniales de ese periodo, compensando así las ganancias con las\npérdidas.\n¥ Por otro lado, se suman todos los rendimientos del capital\nmobiliario, tanto positivos como negativos, obtenidos en ese periodo,\ncompensando estos entre sí.\n. \n7.\nEste apartado se refiere a los ingresos por acciones, pero estos cálculos se pueden aplicar a cualquier otra inversión\nque genere ganancias y pérdidas patrimoniales o rendimientos del capital mobiliario.\n\nFiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nUna vez calculados los dos bloques, se puede realizar una compensación \nentre ellos. Si el saldo de alguno de los dos bloques es negativo y el otro es \npositivo se puede compensar el negativo hasta un límite del 25 % del positivo\nEl resto de importe negativo (que no sea posible compensar por sobrepasar \nel límite del 25 %) se podrá compensar en los próximos 4 años. Por ejemplo, \nsi se ha perdido con la venta de acciones (bloque de ganancias y pérdidas \npatrimoniales), esta pérdida se podría restar de lo ganado en dividendos en \nefectivo (bloque de rendimiento del capital mobiliario) hasta en un 25 % de \nesta ganancia y el resto del importe negativo se podrá compensar en los 4 \naños siguientes.\n\nFiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nEjemplo 6. Compensación\nSe realizan las siguientes operaciones con acciones cotizadas en bolsa \nen el año: \n¥ El 5 de septiembre se venden acciones de la compañía A obteniendo\nun beneficio de 705 euros.\n¥ El 16 de octubre se venden acciones de la compañía B generando una\npérdida de 392 euros.\n¥ El 20 de octubre la compañía C paga dividendos por un importe de 70\neuros de los que se retienen 13,30 euros (70€ x 19%=13,3).\n¥ El 3 de noviembre se reciben derechos de suscripción derivados de la\ntenencia de acciones en la compañía E que se venden en el mercado.\nEl importe de la venta es de 288 euros y la retención que se practica\nsobre ese importe es de 54,72 euros (288€ x 19% = 54,72€).\n¥ Los gastos de custodia de las distintas acciones en el ejercicio han\nsido de 7 euros.\nAdicionalmente, se realizan las siguientes operaciones con otros \nproductos: \n¥ El 23 de octubre se reembolsan participaciones del fondo F con una\npérdida de 915 euros.\n¥ Finalmente el 31 de diciembre un depósito bancario contratado genera\nintereses por importe de 20 euros de los que se retienen 3,8 euros\n(20 x 19% = 3,80€)\n\nFiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nSe procede a sumar y agrupar, por un lado, todas las ganancias y \npérdidas patrimoniales (GPP) y, por otro todos, los rendimientos del \ncapital mobiliario (RCM): \nUna vez compensados internamente esos bloques, se observa que \nuno de ellos, el de las GPP, es negativo mientras que el de los RCM es \npositivo. \n¿Cuántas pérdidas se pueden compensar?\nSe puede compensar el 25 % de 83,00 €: un importe de 20,75 euros.\nEl resto de las pérdidas patrimoniales (293,25 euros) se podrán \ncompensar durante los próximos 4 años. \nLa base imponible del ahorro será: 83 € - 20,75 € = 62,25 €\n\nFiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nIII. ¿Cómo se calcula la\ncuota a pagar?\nUna vez obtenida la base del ahorro, para calcular el impuesto que hay que \nliquidar se aplicarán los tipos impositivos. Actualmente estos tipos varían \nentre un 19% y un 30%8 , del siguiente modo: \nSe gravarán al 19 %, los primeros 6.000 euros\nal 21 %, los siguientes hasta 50.000 euros\nal 23 %, por los ingresos entre 50.000 y 200.000 euros\nal 27 % por los ingresos entre 200.000 y 300.000 euros\nal 30 % por los ingresos que superan los 300.000 euros\nEstos porcentajes se aplican por tramos progresivamente, de modo que, por \nejemplo, si se ganan 10.000 euros no se va a pagar un 21 % por todos ellos (es \ndecir, 2.100 euros) sino un 19 % por los primeros 6.000 euros y un 21 % por los \n4.000 euros restantes, un total de 1.980 euros. \nAdemás, para determinar el resultado de la liquidación del IRPF se deducirán \nlas retenciones practicadas en concepto de pago a cuenta.\nEjemplo 7. Cuota a pagar y resultado de la liquidación\nSi se considera la base imponible del ahorro resultante del ejemplo \nanterior, de 62,25 euros, la cuota a pagar sería de 19 %, es decir, 11,83 \neuros (62,25€ x 19 %).\nLas retenciones totales practicadas durante el periodo como \nconsecuencia de las operaciones realizadas han ascendido a 71,82 euros \n(13,3€ + 54,72€ + 3,8€).\nDado que las retenciones (71,82€) han sido superiores a la cuota \nresultante a pagar (11,83€), el inversor recibirá como resultado de la \nliquidación del IRPF el exceso retenido (71,82€ – 11,83€=59,99 €).\n8. \nEstos porcentajes corresponden a 2025 y pueden variar cada año. Además, en País Vasco y Navarra los tramos y \ntipos son diferentes. En la web de la Agencia Tributaria (www.aeat.es) se encuentran los datos actualizados.\n\nFiscalidad de las acciones cotizadas en el IRPF (Enero/2026)\nDecía Einstein \nque: “Lo más \ndifícil de entender \nen el mundo es el \nimpuesto sobre la \nrenta.”\nParece ser que no lo decía porque no entendiera el impuesto en sí o la \nrazonabilidad del impuesto, sino porque no entendía los formularios que tenía \nque rellenar para hacer la declaración de la renta.\nActualmente la Agencia Tributaria cuenta con programas para ayudar a \nhacer la declaración de la renta, pero tan importante es que se rellenen \ncorrectamente los formularios como que se entienda lo que se cumplimenta.\nEn todo caso, es relevante comprender la importancia de la fiscalidad en las \ndecisiones de inversión.\n\nGuía de fiscalidad de fondos\nEsta ficha tiene como finalidad informar al público en general sobre distintos \naspectos fiscales relacionados con las acciones cotizadas. Por su naturaleza \ndivulgativa no puede constituir un soporte para posteriores interpretaciones \njurídicas, siendo la normativa en vigor y los criterios manifestados por la \nAdministración tributaria la única fuente a estos efectos. \nTambién podría \nser de interés… \neducacionfinanciera@cnmv.es",
+  "text_len": 24466,
+  "num_headings": 19,
+  "metadata": {
+    "producer": "iLovePDF",
+    "creation_date": "2026-06-05",
+    "mod_date": "2026-06-05"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": false,
+  "csv_meta": {
+    "title": "Fiscalidad de acciones en el IRPF",
+    "topic": "planificación",
+    "subtopic": "impuestos",
+    "difficulty": "intermedio",
+    "format": "PDF",
+    "summary": "Guía CNMV sobre el tratamiento fiscal de acciones cotizadas en el IRPF",
+    "learning_objective": "Identificar la fiscalidad aplicable a las acciones"
+  },
+  "pdf_info": {
+    "n_pages": 22,
+    "body_size": 13.0,
+    "extractor": "pymupdf"
+  },
+  "deduped_from": null
+}

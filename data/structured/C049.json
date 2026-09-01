@@ -1,0 +1,79 @@
+{
+  "content_id": "C049",
+  "title": "Interés simple e interés compuesto: ¿sabes qué es cada uno?",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Interés simple e interés compuesto: ¿sabes qué es cada uno?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Depósitos, acciones, fondos, préstamos… Ligado a estos productos y servicios encontramos los tipos de interés, de los que existen distintas modalidades. Hoy nos detenemos en el tipo de interés simple y en el compuesto. ¿Has oído hablar de ellos?",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "La diferencia básica entre ellos es que, en operaciones a interés simple, los intereses no se suman al capital; mientras que, a interés compuesto, los intereses se suman al capital inicial para producir nuevos intereses.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Interés simple: el dinero que generan los intereses se calcula solo sobre el capital invertido al inicio (principal), por lo que el interés que se obtiene en cada periodo es siempre el mismo.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Interés compuesto: el capital inicial va creciendo en cada periodo porque se van sumando los intereses, de esta forma, la tasa de interés se aplica sobre un capital que va aumentando. Eso significa que los intereses aumentan en cada periodo.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Un ejemplo"
+    },
+    {
+      "type": "paragraph",
+      "text": "Como siempre, lo más fácil para entender la diferencia es un ejemplo práctico. Pongamos que tenemos un préstamo de 1.000 euros, con devolución de capital dos años después al 3% de tipo de interés anual.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Interés simple: los intereses se liquidan al final de cada año, 30 euros cada año.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Interés compuesto: los intereses del primer año se suman al principal:",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Intereses del primer año: 3% de 1.000 euros = 30 euros",
+        "Intereses del segundo año: 3% de 1.030 euros = 30,9 euros",
+        "Intereses totales a pagar al final del segundo año: 30+30,9 = 60,9 euros"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Si lo que tenemos es una inversión de 1.000€ a una tasa de interés compuesto del 5% en un periodo de 5 años, el primer año nos habrá rentado 50€. El segundo, el interés se calcula sobre el capital inicial más la rentabilidad obtenida en ese primer año, es decir, sobre 1.050 euros, por lo que los intereses generados el segundo año serán de 52,50 euros. El tercer año esa cantidad sería de 55,13 euros. Y así sucesivamente.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Esta misma inversión con un interés simple del 5% anual en un periodo de 5 años generaría unos intereses de 50 euros cada año.",
+      "links": []
+    }
+  ],
+  "links": [],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:14:11.289478+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 2958,
+    "input_tokens": 2292,
+    "output_tokens": 909
+  }
+}

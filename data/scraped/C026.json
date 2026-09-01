@@ -1,0 +1,153 @@
+{
+  "content_id": "C026",
+  "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/productosservici/relacionados/tiposinteres/",
+  "source": "Portal Cliente Bancario BdE",
+  "host": "clientebancario.bde.es",
+  "url_type": "html",
+  "fetch": {
+    "status": 200,
+    "ok": true,
+    "error": null,
+    "elapsed_ms": 0,
+    "bytes": 36470
+  },
+  "title": "Tipos de interés",
+  "headings": [
+    {
+      "level": 1,
+      "text": "Tipos de interés"
+    },
+    {
+      "level": 2,
+      "text": "Cuestiones generales"
+    },
+    {
+      "level": 2,
+      "text": "El TIN, la TAE y el TEDR"
+    },
+    {
+      "level": 2,
+      "text": "Tipos de interés aplicados por las entidades"
+    },
+    {
+      "level": 2,
+      "text": "Tipos de interés de referencia y otros tipos frecuentes"
+    }
+  ],
+  "sections": [
+    {
+      "level": 1,
+      "heading": "Tipos de interés",
+      "start": 0,
+      "end": 180,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Cuestiones generales",
+      "start": 180,
+      "end": 396,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "El TIN, la TAE y el TEDR",
+      "start": 396,
+      "end": 676,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Tipos de interés aplicados por las entidades",
+      "start": 676,
+      "end": 970,
+      "found": true
+    },
+    {
+      "level": 2,
+      "heading": "Tipos de interés de referencia y otros tipos frecuentes",
+      "start": 970,
+      "end": 1223,
+      "found": true
+    }
+  ],
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Tipos de interés"
+    },
+    {
+      "type": "paragraph",
+      "text": "El tipo de interés, o simplemente interés, es lo que pagamos a un banco a cambio de que nos preste dinero, o lo que nos paga el banco por depositar nuestro dinero."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cuestiones generales"
+    },
+    {
+      "type": "paragraph",
+      "text": "Conocer los conceptos y el funcionamiento de los tipos de interés nos resultará útil para saber lo que nos va a costar un préstamo o lo que ganaremos con los depósitos que tengamos en el banco."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "El TIN, la TAE y el TEDR"
+    },
+    {
+      "type": "paragraph",
+      "text": "La diferencia entre el TIN (tipo de interés nominal) y la TAE (tasa anual equivalente), es que el TIN es el precio que la entidad cobra por prestar o que paga por depositar. La TAE incluye además del TIN, los gastos y comisiones asociados a los productos."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tipos de interés aplicados por las entidades"
+    },
+    {
+      "type": "paragraph",
+      "text": "Las entidades de crédito tienen libertad para decidir sus tipos de interés, pero también la obligación de informar a efectos estadísticos al Banco de España, de los tipos de interés que se aplican a diversos tipos de operaciones activas y pasivas."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Tipos de interés de referencia y otros tipos frecuentes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Existe una serie de tipos de interés oficiales y otros tipos públicos que sirven de referencia para el cálculo de los intereses en operaciones financieras, principalmente en el mercado hipotecario."
+    }
+  ],
+  "text": "Tipos de interés\nEl tipo de interés, o simplemente interés, es lo que pagamos a un banco a cambio de que nos preste dinero, o lo que nos paga el banco por depositar nuestro dinero.\nCuestiones generales\nConocer los conceptos y el funcionamiento de los tipos de interés nos resultará útil para saber lo que nos va a costar un préstamo o lo que ganaremos con los depósitos que tengamos en el banco.\nEl TIN, la TAE y el TEDR\nLa diferencia entre el TIN (tipo de interés nominal) y la TAE (tasa anual equivalente), es que el TIN es el precio que la entidad cobra por prestar o que paga por depositar. La TAE incluye además del TIN, los gastos y comisiones asociados a los productos.\nTipos de interés aplicados por las entidades\nLas entidades de crédito tienen libertad para decidir sus tipos de interés, pero también la obligación de informar a efectos estadísticos al Banco de España, de los tipos de interés que se aplican a diversos tipos de operaciones activas y pasivas.\nTipos de interés de referencia y otros tipos frecuentes\nExiste una serie de tipos de interés oficiales y otros tipos públicos que sirven de referencia para el cálculo de los intereses en operaciones financieras, principalmente en el mercado hipotecario.",
+  "text_len": 1223,
+  "num_headings": 5,
+  "metadata": {
+    "title": "Tipos de interés",
+    "url": "https://clientebancario.bde.es/pcb/es/menu-horizontal/podemosayudarte/tiposinteres/",
+    "hostname": "clientebancario.bde.es",
+    "description": "Tipos de interés",
+    "sitename": "clientebancario.bde.es",
+    "date": "2023-01-01",
+    "filedate": "2026-08-26"
+  },
+  "video_info": {
+    "has_video": false,
+    "video_urls": [],
+    "platforms": [],
+    "schema_type": null
+  },
+  "interactive": false,
+  "classification": "ok",
+  "errors": [],
+  "title_match": true,
+  "csv_meta": {
+    "title": "Tipos de interés",
+    "topic": "interés",
+    "subtopic": "conceptos",
+    "difficulty": "intermedio",
+    "format": "artículo web",
+    "summary": "Qué son los tipos de interés y cómo afectan a productos de ahorro y crédito",
+    "learning_objective": "Diferenciar entre tipo nominal y TAE"
+  },
+  "deduped_from": null
+}

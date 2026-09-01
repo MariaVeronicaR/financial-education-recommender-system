@@ -1,0 +1,57 @@
+{
+  "content_id": "C089",
+  "title": "¿Cómo afectan a mi dinero la inflación y la subida de los tipos de interés?",
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "¿Cómo afectan a mi dinero la inflación y la subida de los tipos de interés?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Tanto la inflación como la subida de los tipos de interés pueden tener un impacto significativo en tus finanzas personales. ¿Quieres saber cómo?",
+      "links": []
+    },
+    {
+      "type": "unordered_list",
+      "items": [
+        "Inflación: La inflación es el aumento generalizado de los precios de bienes y servicios a lo largo del tiempo. Esto significa que, con la misma cantidad de dinero, podrás comprar menos en el futuro. La inflación puede afectar a tus ahorros, inversiones financieras, préstamos, planes de pensiones, seguros y otros productos financieros. Por esta razón, es importante tener en cuenta su impacto al planificar tus finanzas y asegurarte de que tus inversiones y ahorros generen rendimientos que superen la tasa de inflación con el fin de mantener tu poder adquisitivo.",
+        "Subida de los tipos de interés: Cuando la inflación es alta, los bancos centrales suelen subir los tipos de interés para controlarla. Esto puede influir el tipo de interés que cobran los bancos comerciales por los préstamos. Por esta razón, si tienes préstamos a tipo variable, es probable que experimentes un aumento en el coste de tu préstamo. Es importante evaluar cuidadosamente las condiciones de tus préstamos y considerar cómo los cambios en los tipos de interés pueden afectar a tus pagos mensuales y a tu capacidad para cumplir con tus obligaciones financieras."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "En resumen, la inflación y la subida de los tipos de interés pueden afectar a tus ahorros, inversiones y préstamos. Es fundamental estar informado y tomar decisiones financieras adecuadas para proteger tu dinero y adaptarte a los cambios en el entorno económico.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Si quieres saber qué medidas debes tener en cuenta para manejar tus finanzas en un contexto de inflación y tipos de interés al alza, puedes consultar esta guía publicada (2 MB) por las tres autoridades europeas: EBA, EIOPA y ESMA, con la colaboración de las autoridades nacionales.",
+      "links": [
+        {
+          "text": "guía publicada (2 MB)",
+          "href": "https://clientebancario.bde.es/f/webcb/RCL/ActualidadEducacionFinanciera/Blog/novedades/Como-afecta-a-mi-dinero-la-inflacion-y-la-subida-de-tipos.pdf",
+          "start": 155,
+          "end": 176
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "text": "guía publicada (2 MB)",
+      "href": "https://clientebancario.bde.es/f/webcb/RCL/ActualidadEducacionFinanciera/Blog/novedades/Como-afecta-a-mi-dinero-la-inflacion-y-la-subida-de-tipos.pdf",
+      "start": null,
+      "end": null
+    }
+  ],
+  "warnings": [],
+  "generated": {
+    "model": "claude-haiku-4-5-20251001",
+    "date": "2026-08-30T22:30:16.089430+00:00",
+    "prompt_version": 2,
+    "elapsed_ms": 6401,
+    "input_tokens": 2280,
+    "output_tokens": 2087
+  }
+}
