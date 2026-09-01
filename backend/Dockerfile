@@ -1,19 +1,17 @@
 # Dockerfile del servicio de recomendación (despliegue a Render)
-# Contexto de build: la raíz del proyecto (para poder copiar plataforma/ y data/).
-#   docker build -f plataforma/backend/Dockerfile -t tfm-reco .
+# Contexto de build: la raíz del repositorio
+
 FROM python:3.11-slim
 
-# Actualizar paquetes de seguridad base del sistema operativo para mitigar vulnerabilidades
+# Actualizar paquetes de seguridad base del sistema operativo
 RUN apt-get update && apt-get upgrade -y && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
 
-# Instalar dependencias pesadas (ML) al inicio para aprovechar la caché de Docker
-# Se limita a CPU en la instalación de torch para evitar descargar los 3GB de CUDA,
-# reduciendo el tamaño de la imagen a <500MB (crucial para el plan gratuito de Render).
+# Instalar dependencias pesadas (ML) usando CPU
 RUN pip install --no-cache-dir --extra-index-url https://download.pytorch.org/whl/cpu \
     torch==2.1.2 \
-    scikit-learn>=1.4
+    "scikit-learn>=1.4"
 
 # Instalar dependencias del framework FastAPI y análisis de datos
 RUN pip install --no-cache-dir \
@@ -25,10 +23,10 @@ RUN pip install --no-cache-dir \
     "pandas>=2.2" \
     "python-multipart>=0.0.9"
 
-# Copiar el código del servicio, los artefactos del modelo y los datos del catálogo
-COPY plataforma/backend/app/ ./app/
-COPY plataforma/backend/models/ ./models/
-COPY plataforma/backend/pyproject.toml ./
+# Copiar código, modelos y datos desde la raíz del repositorio
+COPY backend/app/ ./app/
+COPY backend/models/ ./models/
+COPY backend/pyproject.toml ./
 COPY data/ ./data/
 
 EXPOSE 8000
