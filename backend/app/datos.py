@@ -32,18 +32,42 @@ _PROJECT_ROOT = _find_project_root()
 _DATA_DIR = _PROJECT_ROOT / "data"
 
 
-def _load_csv(name: str) -> pd.DataFrame:
+def _load_csv(
+    name: str, required: bool = True, columns: list[str] | None = None
+) -> pd.DataFrame:
+    """Carga un CSV de data/. Si `required=False` y el archivo no existe,
+    devuelve un DataFrame vacío con las columnas dadas (degradación elegante).
+
+    Los CSV de interacciones/usuarios sintéticos son opcionales: el modelo
+    entrenado (checkpoint) no los necesita para recomendar; solo alimentan
+    fallbacks (popularidad, maestría). Si faltan, esos fallbacks se degradan
+    a orden de catálogo en vez de romper el arranque del servicio.
+    """
     path = _DATA_DIR / name
     if not path.exists():
-        raise FileNotFoundError(f"No se encontró {path}")
+        if required:
+            raise FileNotFoundError(f"No se encontró {path}")
+        return pd.DataFrame(columns=columns)
     return pd.read_csv(path)
 
 
 # ---------------------------------------------------------------------------
 # Carga única de los CSV
 # ---------------------------------------------------------------------------
-_users_df = _load_csv("users_synthetic.csv")
-_interactions_df = _load_csv("interactions_synthetic_v3.csv")
+# users_synthetic / interactions_synthetic son opcionales (ver _load_csv).
+_users_df = _load_csv(
+    "users_synthetic.csv",
+    required=False,
+    columns=["user_id", "age_group", "sex", "education_level", "employment_status",
+             "financial_knowledge_level", "learning_goal", "saving_habit",
+             "investment_experience", "debt_experience", "financial_behavior_level",
+             "financial_attitude_level"],
+)
+_interactions_df = _load_csv(
+    "interactions_synthetic_v3.csv",
+    required=False,
+    columns=["user_id", "content_id", "event", "score"],
+)
 _contents_df = _load_csv("contents.csv")
 _concepts_df = _load_csv("concepts.csv")
 _map_df = _load_csv("content_concept_map.csv")
@@ -126,7 +150,11 @@ def popularity_ranking() -> list[str]:
 
     Reimplementa de forma autónoma el baseline de popularidad que antes
     proveía el harness. Los contenidos sin interacciones van al final.
+    Si no hay interacciones (CSV opcional ausente), devuelve el orden del
+    catálogo (degradación elegante).
     """
+    if _interactions_df.empty:
+        return list(_contents_df["content_id"])
     counts = (
         _interactions_df.groupby("content_id")
         .size()
@@ -150,6 +178,8 @@ def compute_mastery(interactions: pd.DataFrame | None = None) -> dict[str, set[s
     if interactions is None:
         interactions = _interactions_df
     mastery: dict[str, set[str]] = {}
+    if interactions.empty:
+        return mastery
     dom = interactions[interactions["event"].isin(["completed", "quiz_passed"])]
     for _, row in dom.iterrows():
         uid = row["user_id"]
