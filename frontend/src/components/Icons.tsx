@@ -187,3 +187,21 @@ export function IconExternalLink({ className, size = 20 }: IconProps) {
     </svg>
   )
 }
+
+export function IconX({ className, size = 20 }: IconProps) {
+  return (
+    <svg {...base(size)} className={className}>
+      <path d="M18 6 6 18" />
+      <path d="m6 6 12 12" />
+    </svg>
+  )
+}
+
+export function IconArrowLeft({ className, size = 20 }: IconProps) {
+  return (
+    <svg {...base(size)} className={className}>
+      <path d="M19 12H5" />
+      <path d="m12 19-7-7 7-7" />
+    </svg>
+  )
+}
