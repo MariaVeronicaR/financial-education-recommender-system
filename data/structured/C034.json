@@ -47,7 +47,12 @@
       ]
     }
   ],
-  "links": [],
+  "links": [
+    {
+      "text": "calculo del coste financiero.html",
+      "href": "https://clientebancario.bde.es/pcb/es/menu-horizontal/podemosayudarte/simuladores/calculo-del-coste-financiero.html"
+    }
+  ],
   "warnings": [],
   "generated": {
     "model": "claude-haiku-4-5-20251001",

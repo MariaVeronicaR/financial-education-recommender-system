@@ -42,7 +42,12 @@
       ]
     }
   ],
-  "links": [],
+  "links": [
+    {
+      "text": "calculo_tae_prestamo_personal.html",
+      "href": "https://clientebancario.bde.es/pcb/es/menu-horizontal/podemosayudarte/simuladores/calculo_tae_prestamo_personal.html"
+    }
+  ],
   "warnings": [],
   "generated": {
     "model": "claude-haiku-4-5-20251001",

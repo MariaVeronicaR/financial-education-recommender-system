@@ -18,7 +18,12 @@
       "text": "Resultados"
     }
   ],
-  "links": [],
+  "links": [
+    {
+      "text": "mipresupuesto",
+      "href": "https://www.finanzasparatodos.es/herramientas/mipresupuesto"
+    }
+  ],
   "warnings": [],
   "generated": {
     "model": "claude-haiku-4-5-20251001",

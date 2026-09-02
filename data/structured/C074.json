@@ -18,7 +18,16 @@
       ]
     }
   ],
-  "links": [],
+  "links": [
+    {
+      "text": "mi jubilacion",
+      "href": "https://www.finanzasparatodos.es/herramientas/mi-jubilacion"
+    },
+    {
+      "text": "calculadora de jubilacion",
+      "href": "https://www.finanzasparatodos.es/herramientas/calculadora-de-jubilacion"
+    }
+  ],
   "warnings": [],
   "generated": {
     "model": "claude-haiku-4-5-20251001",

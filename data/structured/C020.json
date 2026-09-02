@@ -46,7 +46,12 @@
       "links": []
     }
   ],
-  "links": [],
+  "links": [
+    {
+      "text": "calculo_cuota_tarjeta_revolving.html",
+      "href": "https://clientebancario.bde.es/pcb/es/menu-horizontal/podemosayudarte/simuladores/calculo_cuota_tarjeta_revolving.html"
+    }
+  ],
   "warnings": [],
   "generated": {
     "model": "claude-haiku-4-5-20251001",

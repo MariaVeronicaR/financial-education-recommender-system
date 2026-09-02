@@ -8,7 +8,20 @@
       "text": "Mis deudas - Finanzas para todos"
     }
   ],
-  "links": [],
+  "links": [
+    {
+      "text": "estado ahorro inversion",
+      "href": "https://www.finanzasparatodos.es/herramientas/estado-ahorro-inversion"
+    },
+    {
+      "text": "mi vivienda",
+      "href": "https://www.finanzasparatodos.es/herramientas/mi-vivienda"
+    },
+    {
+      "text": "mis deudas",
+      "href": "https://www.finanzasparatodos.es/herramientas/mis-deudas"
+    }
+  ],
   "warnings": [],
   "generated": {
     "model": "claude-haiku-4-5-20251001",

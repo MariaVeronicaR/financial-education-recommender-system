@@ -28,7 +28,12 @@
       "links": []
     }
   ],
-  "links": [],
+  "links": [
+    {
+      "text": "mis objetivos",
+      "href": "https://www.finanzasparatodos.es/herramientas/mis-objetivos"
+    }
+  ],
   "warnings": [],
   "generated": {
     "model": "claude-haiku-4-5-20251001",
