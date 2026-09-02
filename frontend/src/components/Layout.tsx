@@ -1,6 +1,6 @@
 import { Link, NavLink, Outlet, useNavigate } from 'react-router-dom'
 import { useAuth } from '../lib/auth'
-import { IconChart, IconHome, IconLogout, IconSparkles, IconUser } from './Icons'
+import { IconChart, IconHome, IconLogout, IconSearch, IconSparkles, IconUser } from './Icons'
 
 export default function Layout() {
   const { user, signOut } = useAuth()
@@ -22,6 +22,7 @@ export default function Layout() {
     { to: '/', label: 'Inicio', icon: IconHome, end: true },
     { to: '/cuestionario', label: 'Perfil', icon: IconUser },
     { to: '/recomendaciones', label: 'Recomendaciones', icon: IconSparkles },
+    { to: '/explorar', label: 'Explorar', icon: IconSearch },
     { to: '/progreso', label: 'Progreso', icon: IconChart },
   ]
 

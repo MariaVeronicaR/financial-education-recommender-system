@@ -126,4 +126,8 @@ class RecommendationResponse(BaseModel):
     # Metadatos opcionales (p. ej. cuántos candidatos se filtraron)
     n_candidates: int = 0
     n_filtered: int = 0
+    # True si tras filtrar por completados y por prerrequisitos pedagógicos
+    # quedan menos de `top_k` contenidos nuevos accesibles. La UI usa esta
+    # señal para mostrar el banner "estás al día" con enlace a /explorar.
+    agotado: bool = False
     extra: dict[str, Any] = Field(default_factory=dict)

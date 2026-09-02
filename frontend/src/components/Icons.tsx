@@ -138,3 +138,22 @@ export function IconLock({ className, size = 20 }: IconProps) {
     </svg>
   )
 }
+
+export function IconSearch({ className, size = 20 }: IconProps) {
+  return (
+    <svg {...base(size)} className={className}>
+      <circle cx="11" cy="11" r="7" />
+      <path d="M21 21l-4.3-4.3" />
+    </svg>
+  )
+}
+
+export function IconAlertTriangle({ className, size = 20 }: IconProps) {
+  return (
+    <svg {...base(size)} className={className}>
+      <path d="M10.3 3.86 1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0Z" />
+      <path d="M12 9v4" />
+      <path d="M12 17h.01" />
+    </svg>
+  )
+}

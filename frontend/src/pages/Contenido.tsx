@@ -1,11 +1,11 @@
 import { useEffect, useState } from 'react'
-import { useParams } from 'react-router-dom'
-import { getContentDetail, type ContentDetail, type QuizQuestion } from '../lib/api'
+import { Link, useParams } from 'react-router-dom'
+import { getContentDetail, getMissingPrereqs, type ContentDetail, type MissingPrereq, type QuizQuestion } from '../lib/api'
 import { useAuth } from '../lib/auth'
 import { supabase } from '../lib/supabase'
 import { registerInteraction } from '../lib/events'
 import ContentBlocks from '../components/ContentBlocks'
-import { IconCheck, IconSparkles } from '../components/Icons'
+import { IconAlertTriangle, IconBook, IconCheck, IconSearch, IconSparkles } from '../components/Icons'
 
 export default function Contenido() {
   const { contentId } = useParams<{ contentId: string }>()
@@ -17,12 +17,20 @@ export default function Contenido() {
   const [results, setResults] = useState<Record<number, boolean>>({})
   const [quizSubmitted, setQuizSubmitted] = useState(false)
   const [saving, setSaving] = useState(false)
+  const [missingPrereqs, setMissingPrereqs] = useState<MissingPrereq[]>([])
+  const [prereqsChecked, setPrereqsChecked] = useState(false)
+  // Mini-barra de progreso: "X/Y contenidos del tema completados".
+  // null = no calculado todavía; {completed, total} = dato disponible.
+  const [topicProgress, setTopicProgress] = useState<{ completed: number; total: number; topic: string } | null>(null)
 
   useEffect(() => {
     async function load() {
       if (!contentId) return
       setLoading(true)
       setError(null)
+      setPrereqsChecked(false)
+      setMissingPrereqs([])
+      setTopicProgress(null)
       try {
         const data = await getContentDetail(contentId)
         setContent(data)
@@ -35,6 +43,57 @@ export default function Contenido() {
           }).catch(() => {
             /* no bloquea la lectura del contenido */
           })
+          // Cargas en paralelo: prerrequisitos faltantes + progreso por tema.
+          const [masteredResp, progressResp] = await Promise.all([
+            supabase
+              .from('mastered_concepts')
+              .select('concept_id')
+              .eq('user_id', user.id),
+            supabase
+              .from('progress')
+              .select('content_id, completed')
+              .eq('user_id', user.id),
+          ])
+          const masteredIds = (masteredResp.data ?? []).map(
+            (r) => r.concept_id as string,
+          )
+          try {
+            const resp = await getMissingPrereqs(contentId, masteredIds)
+            setMissingPrereqs(resp.missing)
+          } catch {
+            /* sin aviso si falla */
+          } finally {
+            setPrereqsChecked(true)
+          }
+          // Mini-barra: contamos contenidos del mismo topic que el
+          // usuario ya completó. Si el catálogo no carga, no rompemos.
+          try {
+            const catRes = await fetch(
+              `${import.meta.env.VITE_API_URL || 'http://localhost:8000'}/catalog`,
+            )
+            if (catRes.ok && data.topic) {
+              const catalog = (await catRes.json()) as Array<{
+                content_id: string
+                topic: string
+              }>
+              const sameTopic = catalog.filter((c) => c.topic === data.topic)
+              const completedIds = new Set(
+                (progressResp.data ?? [])
+                  .filter((r) => r.completed)
+                  .map((r) => r.content_id as string),
+              )
+              const completedCount = sameTopic.filter((c) =>
+                completedIds.has(c.content_id),
+              ).length
+              setTopicProgress({
+                completed: completedCount,
+                total: sameTopic.length,
+                topic: data.topic,
+              })
+            }
+          } catch {
+            /* sin barra si falla */
+          }
         }
       } catch (err) {
         setError(err instanceof Error ? err.message : 'Error al cargar el contenido')
@@ -69,6 +128,15 @@ export default function Contenido() {
         /* no bloquea la corrección del quiz */
       })
     }
+  }
+
+  // Permite al usuario reintentar el quiz tras fallarlo: limpia respuestas,
+  // resultados y el flag de submitted, y restaura las opciones a su estado
+  // inicial. El contenido debe poder leerse y reevaluarse sin recargar.
+  function resetQuiz() {
+    setAnswers({})
+    setResults({})
+    setQuizSubmitted(false)
   }
 
   const correctCount = Object.values(results).filter(Boolean).length
@@ -131,9 +199,40 @@ export default function Contenido() {
         {content.title ?? content.content_id}
       </h1>
 
-      {/* Resumen (tldr) */}
+      {/* Aviso pedagógico: prerrequisitos no dominados. NO bloquea el
+          acceso al contenido (decision #5 del plan UX). Se muestra solo
+          si el usuario está autenticado y hemos comprobado ya los conceptos
+          dominados. */}
+      {prereqsChecked && missingPrereqs.length > 0 && (
+        <div className="mb-6 flex items-start gap-3 rounded-2xl border border-amber-300 bg-amber-50 p-4 sm:p-5">
+          <IconAlertTriangle size={20} className="mt-0.5 shrink-0 text-amber-700" />
+          <div className="text-sm text-amber-900">
+            <p className="font-semibold">Prerrequisitos no dominados</p>
+            <p className="mt-1 leading-relaxed">
+              Este contenido se entiende mejor si ya dominas estos conceptos.
+              Puedes seguir leyendo, pero te recomendamos completarlos antes.
+            </p>
+            <ul className="mt-2 space-y-1">
+              {missingPrereqs.map((c) => (
+                <li key={c.concept_id}>
+                  <Link
+                    to={`/explorar?q=${encodeURIComponent(c.concept_name)}`}
+                    className="inline-flex items-center gap-1 underline underline-offset-2 hover:text-amber-700"
+                  >
+                    <IconSearch size={12} />
+                    {c.concept_name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+        </div>
+      )}
+
+      {/* Resumen (tldr): sticky en md+ para que el usuario vea el resumen del
+          contenido mientras hace scroll. El top-16 evita solapar el navbar. */}
       {content.tldr && (
-        <div className="mb-6 rounded-2xl border border-accent/20 bg-accent-light p-5 sm:p-6">
+        <div className="mb-6 rounded-2xl border border-accent/20 bg-accent-light p-5 sm:p-6 md:sticky md:top-16 md:z-10">
           <div className="mb-2 flex items-center gap-2">
             <IconSparkles size={18} className="text-accent" />
             <h2 className="text-sm font-semibold text-accent">En resumen</h2>
@@ -222,9 +321,19 @@ export default function Contenido() {
                   </button>
                 </div>
               ) : (
-                <p className="mt-2 text-sm text-amber-700">
-                  Repasa el contenido e inténtalo de nuevo para dominar los conceptos.
-                </p>
+                <div className="mt-2">
+                  <p className="text-sm text-amber-700">
+                    Has acertado {correctCount} de {quizTotal}. Repasa el contenido e
+                    inténtalo de nuevo para dominar los conceptos.
+                  </p>
+                  <button
+                    type="button"
+                    onClick={resetQuiz}
+                    className="btn btn-outline mt-3 !px-3 !py-2"
+                  >
+                    Volver a intentarlo
+                  </button>
+                </div>
               )}
             </div>
           )}
@@ -265,6 +374,35 @@ export default function Contenido() {
                 </li>
               ))}
           </ul>
+        </div>
+      )}
+
+      {/* Mini-barra de progreso por tema (punto 2.3 del plan UX).
+          Solo visible cuando hay datos y en md+. No aparece en móvil
+          para no solapar la barra de navegación inferior. */}
+      {topicProgress && topicProgress.total > 0 && (
+        <div className="pointer-events-none fixed inset-x-0 bottom-0 z-20 hidden justify-center px-4 pb-4 md:flex">
+          <div className="pointer-events-auto flex w-full max-w-md items-center gap-3 rounded-full border border-border bg-surface/95 px-4 py-2.5 shadow-lg backdrop-blur">
+            <IconBook size={16} className="shrink-0 text-secondary" />
+            <div className="min-w-0 flex-1">
+              <div className="mb-1 flex items-center justify-between gap-2 text-xs text-muted">
+                <span className="truncate font-medium text-text">{topicProgress.topic}</span>
+                <span className="shrink-0">
+                  {topicProgress.completed} / {topicProgress.total}
+                </span>
+              </div>
+              <div className="h-1.5 w-full overflow-hidden rounded-full bg-background">
+                <div
+                  className="h-full rounded-full bg-accent transition-all duration-300"
+                  style={{
+                    width: `${Math.round(
+                      (topicProgress.completed / topicProgress.total) * 100,
+                    )}%`,
+                  }}
+                />
+              </div>
+            </div>
+          </div>
         </div>
       )}
     </div>

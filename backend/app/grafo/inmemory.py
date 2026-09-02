@@ -59,6 +59,28 @@ class InMemoryGrafo(GrafoPedagogico):
             if self.is_accessible(cid, mastered_concepts)
         ]
 
+    def missing_prerequisites(
+        self, content_id: str, mastered_concepts: set[str]
+    ) -> list[dict[str, str]]:
+        """Devuelve los prerrequisitos que el usuario todavía NO domina para
+        este contenido. Se usa en Contenido.tsx para mostrar un aviso
+        pedagógico sin bloquear el acceso.
+
+        Cada item es {"concept_id": ..., "concept_name": ...} para que el
+        frontend pueda enlazar a la búsqueda o a un contenido que lo enseñe.
+        """
+        if self.is_accessible(content_id, mastered_concepts):
+            return []
+        faltan: list[str] = []
+        for k in self._concepts_of_content.get(content_id, []):
+            for prereq in self._prereq_of_concept.get(k, []):
+                if prereq not in mastered_concepts and prereq not in faltan:
+                    faltan.append(prereq)
+        return [
+            {"concept_id": cid, "concept_name": self._concept_name(cid)}
+            for cid in faltan
+        ]
+
     def explanation(self, content_id: str, mastered_concepts: set[str]) -> str:
         """Explicación pedagógica: por qué se recomienda (o no) un contenido.
 

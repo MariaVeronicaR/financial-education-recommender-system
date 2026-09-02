@@ -33,8 +33,11 @@ export interface UserProfile {
   education_level?: string | null
   employment_status?: string | null
   learning_goal?: string | null
-  products?: string[]
   knowledge_level?: string | null
+  saving_habit?: string | null
+  investment_experience?: string | null
+  debt_experience?: string | null
+  products?: string[]
   risk?: number | null
   activity?: number | null
   interests?: Record<string, number>
@@ -127,6 +130,55 @@ export async function getContentDetail(contentId: string): Promise<ContentDetail
   const res = await fetch(`${API_URL}/content/${contentId}`)
   if (!res.ok) {
     throw new Error(`Error al obtener el contenido: ${res.status}`)
+  }
+  return res.json()
+}
+
+export interface SearchResultItem {
+  content_id: string
+  score: number
+  content: ContentDetail & { content_id: string }
+}
+
+export interface SearchResponse {
+  query: string
+  results: SearchResultItem[]
+}
+
+export async function searchContent(
+  query: string,
+  topK = 20,
+): Promise<SearchResponse> {
+  const params = new URLSearchParams({ q: query, k: String(topK) })
+  const res = await fetch(`${API_URL}/search?${params.toString()}`)
+  if (!res.ok) {
+    throw new Error(`Error al buscar: ${res.status}`)
+  }
+  return res.json()
+}
+
+export interface MissingPrereq {
+  concept_id: string
+  concept_name: string
+}
+
+export interface MissingPrereqsResponse {
+  content_id: string
+  is_accessible: boolean
+  missing: MissingPrereq[]
+}
+
+export async function getMissingPrereqs(
+  contentId: string,
+  masteredConcepts: string[],
+): Promise<MissingPrereqsResponse> {
+  const res = await fetch(`${API_URL}/content/${contentId}/missing-prereqs`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ mastered_concepts: masteredConcepts }),
+  })
+  if (!res.ok) {
+    throw new Error(`Error al comprobar prerrequisitos: ${res.status}`)
   }
   return res.json()
 }

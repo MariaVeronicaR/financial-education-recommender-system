@@ -82,6 +82,9 @@ export default function Cuestionario() {
   const [employment, setEmployment] = useState('')
   const [learningGoal, setLearningGoal] = useState('')
   const [knowledge, setKnowledge] = useState('')
+  const [savingHabit, setSavingHabit] = useState('')
+  const [debtExperience, setDebtExperience] = useState('')
+  const [investmentExperience, setInvestmentExperience] = useState('')
   const [interests, setInterests] = useState<string[]>([])
   const [bigThree, setBigThree] = useState<number[]>([-1, -1, -1])
 
@@ -89,12 +92,14 @@ export default function Cuestionario() {
   const steps = isEditing
     ? [
         { title: 'Sobre ti', subtitle: 'Tus datos personales' },
+        { title: 'Tu situación', subtitle: 'Cómo te relaciones con tu dinero' },
         { title: 'Tus intereses', subtitle: '¿Qué temas te gustaría aprender?' },
       ]
     : [
         { title: 'Sobre ti', subtitle: 'Unos datos básicos para personalizar tu experiencia' },
         { title: 'Tu nivel', subtitle: '¿Cómo te sientes con las finanzas personales?' },
         { title: 'Evaluación', subtitle: 'Tres preguntas para medir tu nivel real' },
+        { title: 'Tu situación', subtitle: 'Cómo te relacionas con tu dinero' },
         { title: 'Tus intereses', subtitle: '¿Qué temas te gustaría aprender?' },
       ]
 
@@ -111,6 +116,9 @@ export default function Cuestionario() {
         setEmployment(p.employment_status ?? '')
         setLearningGoal(p.learning_goal ?? '')
         setKnowledge(p.knowledge_level ?? '')
+        setSavingHabit(p.saving_habit ?? '')
+        setDebtExperience(p.debt_experience ?? '')
+        setInvestmentExperience(p.investment_experience ?? '')
         setInterests(
           Object.keys(p.interests ?? {}).filter((t) => (p.interests ?? {})[t] > 0),
         )
@@ -153,6 +161,9 @@ export default function Cuestionario() {
         employment_status: employment || null,
         learning_goal: learningGoal || null,
         knowledge_level: estimatedLevel(),
+        saving_habit: savingHabit || null,
+        debt_experience: debtExperience || null,
+        investment_experience: investmentExperience || null,
         interests: interestsMap,
       }
 
@@ -164,6 +175,9 @@ export default function Cuestionario() {
         employment_status: profileData.employment_status,
         learning_goal: profileData.learning_goal,
         knowledge_level: profileData.knowledge_level,
+        saving_habit: profileData.saving_habit,
+        debt_experience: profileData.debt_experience,
+        investment_experience: profileData.investment_experience,
         interests: profileData.interests,
         big_three: bigThree,
         updated_at: new Date().toISOString(),
@@ -363,7 +377,7 @@ export default function Cuestionario() {
           </div>
         )}
 
-        {((isEditing && step === 1) || (!isEditing && step === 3)) && (
+        {((isEditing && step === 2) || (!isEditing && step === 4)) && (
           <div>
             <label className="label">¿Qué temas te interesan? (elige los que quieras)</label>
             <div className="flex flex-wrap gap-2">
@@ -381,6 +395,102 @@ export default function Cuestionario() {
                   {tema}
                 </button>
               ))}
+            </div>
+          </div>
+        )}
+
+        {((isEditing && step === 1) || (!isEditing && step === 3)) && (
+          <div className="space-y-5">
+            <p className="text-sm text-muted">
+              Estas respuestas nos ayudan a recomendarte contenidos más ajustados
+              a tu realidad financiera cotidiana.
+            </p>
+            <div>
+              <label className="label">¿Con qué frecuencia revisas tus gastos?</label>
+              <div className="space-y-2">
+                {[
+                  { value: 'frecuente', label: 'Frecuentemente (cada semana o más)' },
+                  { value: 'ocasional', label: 'Ocasionalmente (alguna vez al mes)' },
+                  { value: 'nunca', label: 'Casi nunca / no llevo un control' },
+                ].map((opt) => (
+                  <label
+                    key={opt.value}
+                    className={`flex cursor-pointer items-center gap-3 rounded-lg border px-4 py-3 text-sm transition ${
+                      savingHabit === opt.value
+                        ? 'border-secondary bg-secondary-light'
+                        : 'border-border hover:bg-background'
+                    }`}
+                  >
+                    <input
+                      type="radio"
+                      name="saving_habit"
+                      value={opt.value}
+                      checked={savingHabit === opt.value}
+                      onChange={() => setSavingHabit(opt.value)}
+                      className="accent-secondary"
+                    />
+                    {opt.label}
+                  </label>
+                ))}
+              </div>
+            </div>
+            <div>
+              <label className="label">¿Has invertido alguna vez?</label>
+              <div className="space-y-2">
+                {[
+                  { value: 'ninguna', label: 'No, nunca' },
+                  { value: 'basica', label: 'Sí, de forma básica (cuenta remunerada, fondo, etc.)' },
+                ].map((opt) => (
+                  <label
+                    key={opt.value}
+                    className={`flex cursor-pointer items-center gap-3 rounded-lg border px-4 py-3 text-sm transition ${
+                      investmentExperience === opt.value
+                        ? 'border-secondary bg-secondary-light'
+                        : 'border-border hover:bg-background'
+                    }`}
+                  >
+                    <input
+                      type="radio"
+                      name="investment_experience"
+                      value={opt.value}
+                      checked={investmentExperience === opt.value}
+                      onChange={() => setInvestmentExperience(opt.value)}
+                      className="accent-secondary"
+                    />
+                    {opt.label}
+                  </label>
+                ))}
+              </div>
+            </div>
+            <div>
+              <label className="label">¿Tienes actualmente alguna deuda pendiente?</label>
+              <div className="space-y-2">
+                {[
+                  { value: 'ninguna', label: 'No, ninguna' },
+                  { value: 'baja', label: 'Sí, pero poco importe' },
+                  { value: 'media', label: 'Sí, con un importe moderado' },
+                  { value: 'alta', label: 'Sí, con un importe alto' },
+                ].map((opt) => (
+                  <label
+                    key={opt.value}
+                    className={`flex cursor-pointer items-center gap-3 rounded-lg border px-4 py-3 text-sm transition ${
+                      debtExperience === opt.value
+                        ? 'border-secondary bg-secondary-light'
+                        : 'border-border hover:bg-background'
+                    }`}
+                  >
+                    <input
+                      type="radio"
+                      name="debt_experience"
+                      value={opt.value}
+                      checked={debtExperience === opt.value}
+                      onChange={() => setDebtExperience(opt.value)}
+                      className="accent-secondary"
+                    />
+                    {opt.label}
+                  </label>
+                ))}
+              </div>
             </div>
           </div>
         )}

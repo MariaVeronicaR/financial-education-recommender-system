@@ -37,18 +37,28 @@ class RecoOrchestrator:
 
     def recommend(self, profile: UserProfile, top_k: int = 10) -> RecommendationResponse:
         mastered = set(profile.mastered_concepts)
+        completed = set(profile.completed_content_ids)
 
-        # 1. Ranking crudo del modelo (sin filtro pedagógico)
-        ranking = self.recomendador.rank(profile)
-        n_candidates = len(ranking)
+        # 1. Pedir MÁS candidatos al modelo de los que vamos a devolver.
+        #    Si el usuario ya completó los top-k, el ranking puro nos los
+        #    devolvería otra vez. Con overfetch (×3, mín. 30) pedimos al
+        #    modelo puestos 11-30 que aún son recomendaciones reales del
+        #    mismo algoritmo y pueden llenar top_k sin recurrir a TF-IDF.
+        n_overfetch = max(top_k * 3, 30)
+        raw = self.recomendador.rank(profile)[:n_overfetch]
 
-        # 2. Filtro pedagógico (post-filtro): solo contenidos accesibles
-        accesibles = [c for c in ranking if self.grafo.is_accessible(c, mastered)]
-        n_filtered = n_candidates - len(accesibles)
+        # 2. Excluir ya completados. completed_content_ids llega en
+        #    UserProfile desde el frontend (buildUserProfile).
+        nuevos = [c for c in raw if c not in completed]
 
-        # 3. Explicación + construcción de la respuesta
+        # 3. Filtro pedagógico (post-filtro): solo contenidos accesibles
+        accesibles = [c for c in nuevos if self.grafo.is_accessible(c, mastered)]
+        n_filtered = len(raw) - len(accesibles)
+
+        # 4. Recortar a top_k y construir respuesta
+        visibles = accesibles[:top_k]
         items: list[RecommendationItem] = []
-        for cid in accesibles[:top_k]:
+        for cid in visibles:
             content = self._contents_by_id.get(cid)
             if content is None:
                 continue
@@ -65,10 +75,15 @@ class RecoOrchestrator:
                 )
             )
 
+        # 5. Estado "agotado": quedan menos de top_k contenidos nuevos
+        #    accesibles. La UI usa esta señal para mostrar "Estás al día".
+        agotado = len(visibles) < top_k
+
         return RecommendationResponse(
             user_id=profile.user_id,
             recommendations=items,
             source_model=self.recomendador.name,
-            n_candidates=n_candidates,
+            n_candidates=len(raw),
             n_filtered=n_filtered,
+            agotado=agotado,
         )

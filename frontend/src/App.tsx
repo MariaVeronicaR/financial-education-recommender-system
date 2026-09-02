@@ -3,6 +3,7 @@ import Layout from './components/Layout'
 import { useAuth } from './lib/auth'
 import Contenido from './pages/Contenido'
 import Cuestionario from './pages/Cuestionario'
+import Explorar from './pages/Explorar'
 import Inicio from './pages/Inicio'
 import Login from './pages/Login'
 import Progreso from './pages/Progreso'
@@ -44,6 +45,14 @@ export default function App() {
             element={
               <RequireAuth>
                 <Progreso />
+              </RequireAuth>
+            }
+          />
+          <Route
+            path="/explorar"
+            element={
+              <RequireAuth>
+                <Explorar />
               </RequireAuth>
             }
           />

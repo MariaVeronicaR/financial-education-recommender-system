@@ -11,6 +11,12 @@ export interface ProfileRow {
   employment_status: string | null
   learning_goal?: string | null
   knowledge_level: string | null
+  // Comportamiento financiero (cuestionario ampliado; migración 2026_09_01)
+  saving_habit?: string | null
+  investment_experience?: string | null
+  debt_experience?: string | null
+  financial_behavior_level?: string | null
+  financial_attitude_level?: string | null
   interests: Record<string, number> | null
   format_pref: Record<string, number> | null
   risk: number | null
@@ -83,6 +89,9 @@ export async function buildUserProfile(userId: string): Promise<UserProfile> {
     employment_status: profile?.employment_status ?? null,
     learning_goal: profile?.learning_goal ?? null,
     knowledge_level: profile?.knowledge_level ?? null,
+    saving_habit: profile?.saving_habit ?? null,
+    investment_experience: profile?.investment_experience ?? null,
+    debt_experience: profile?.debt_experience ?? null,
     interests: profile?.interests ?? {},
     format_pref: profile?.format_pref ?? {},
     risk: profile?.risk ?? null,

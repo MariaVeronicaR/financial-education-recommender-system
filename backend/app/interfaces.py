@@ -66,3 +66,29 @@ class GrafoPedagogico(ABC):
     def all_contents(self) -> list[Content]:
         """Catálogo completo de contenidos (con conceptos y prerrequisitos)."""
         raise NotImplementedError
+
+    def missing_prerequisites(
+        self, content_id: str, mastered_concepts: set[str]
+    ) -> list[dict[str, str]]:
+        """Prerrequisitos que el usuario aún NO domina para este contenido.
+
+        Devuelve una lista de {concept_id, concept_name}. Si el contenido es
+        accesible, devuelve lista vacía. Se usa para mostrar un aviso
+        pedagógico sin bloquear el acceso.
+
+        Default: deriva del comportamiento de `is_accessible` + el índice
+        interno de prerrequisitos. Las subclases pueden sobreescribirlo
+        cuando su backend (Neo4j) lo haga más eficiente.
+        """
+        if self.is_accessible(content_id, mastered_concepts):
+            return []
+        faltan: list[str] = []
+        seen: set[str] = set()
+        for k in self.concepts_taught_by(content_id):
+            for prereq in self.prerequisites_of(k):
+                if prereq not in mastered_concepts and prereq not in seen:
+                    faltan.append(prereq)
+                    seen.add(prereq)
+        # Si la implementación concreta no tiene un nombre legible,
+        # devolvemos solo los IDs (el frontend mostrará fallback).
+        return [{"concept_id": cid, "concept_name": cid} for cid in faltan]
