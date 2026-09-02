@@ -1,13 +1,14 @@
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { useAuth } from '../lib/auth'
-import { IconLock, IconMail } from '../components/Icons'
+import { IconEye, IconEyeOff, IconLock, IconMail } from '../components/Icons'
 
 export default function Login() {
   const { signIn, signUp } = useAuth()
   const navigate = useNavigate()
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
+  const [showPassword, setShowPassword] = useState(false)
   const [isRegister, setIsRegister] = useState(false)
   const [error, setError] = useState<string | null>(null)
   const [loading, setLoading] = useState(false)
@@ -83,13 +84,23 @@ export default function Login() {
                 </span>
                 <input
                   id="password"
-                  type="password"
+                  type={showPassword ? 'text' : 'password'}
                   required
                   value={password}
                   onChange={(e) => setPassword(e.target.value)}
-                  className="input !pl-10"
+                  className="input !pl-10 !pr-10"
                   placeholder="••••••••"
+                  autoComplete={isRegister ? 'new-password' : 'current-password'}
                 />
+                <button
+                  type="button"
+                  onClick={() => setShowPassword((v) => !v)}
+                  aria-label={showPassword ? 'Ocultar contraseña' : 'Mostrar contraseña'}
+                  aria-pressed={showPassword}
+                  className="absolute right-2 top-1/2 flex h-7 w-7 -translate-y-1/2 items-center justify-center rounded-md text-muted transition hover:bg-background hover:text-text focus:outline-none focus-visible:ring-2 focus-visible:ring-secondary"
+                >
+                  {showPassword ? <IconEyeOff size={18} /> : <IconEye size={18} />}
+                </button>
               </div>
             </div>
 
