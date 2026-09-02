@@ -16,6 +16,9 @@ Endpoints:
 
 from __future__ import annotations
 
+import logging
+from contextlib import asynccontextmanager
+
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
@@ -27,11 +30,28 @@ from .orquestador import RecoOrchestrator
 from .schemas import Content, RecommendationRequest, RecommendationResponse
 from .search import search as tfidf_search
 
+logger = logging.getLogger(__name__)
+
+
+@asynccontextmanager
+async def lifespan(app: FastAPI):
+    # Warmup: pre-construir el orquestador (modelo + grafo) en el startup para
+    # evitar el cold start en la primera request. En Render (plan free) el
+    # proceso se duerme tras inactividad y se reinicia en la siguiente request;
+    # sin este warmup la primera llamada paga ~2s de carga de torch/grafo.
+    try:
+        get_orchestrator()
+    except Exception as exc:  # noqa: BLE001 - no romper el arranque si falla
+        logger.warning("Warmup del orquestador falló: %s", exc)
+    yield
+
+
 app = FastAPI(
     title="Servicio de Recomendación — TFM",
     description="Motor de IA para la recomendación personalizada de contenidos "
     "de educación financiera. Desacoplado del modelo: se selecciona por config.",
     version="0.1.0",
+    lifespan=lifespan,
 )
 
 # CORS: permitir el frontend (Vercel/Netlify en producción, localhost en dev)

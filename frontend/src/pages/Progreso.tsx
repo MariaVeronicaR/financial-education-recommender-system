@@ -33,18 +33,21 @@ export default function Progreso() {
       if (!user) return
       setLoading(true)
 
-      const { data: progData, error: progError } = await supabase
-        .from('progress')
-        .select('content_id, completed, updated_at')
-        .eq('user_id', user.id)
-        .order('updated_at', { ascending: false })
-      if (!progError && progData) setRows(progData as ProgressRow[])
-
-      const { data: masData, error: masError } = await supabase
-        .from('mastered_concepts')
-        .select('concept_id')
-        .eq('user_id', user.id)
-      if (!masError && masData) setMastered(masData.map((r) => r.concept_id))
+      // Las dos consultas a Supabase son independientes: lanzarlas en paralelo
+      // en vez de en serie ahorra un round-trip de latencia por mount.
+      const [progRes, masRes] = await Promise.all([
+        supabase
+          .from('progress')
+          .select('content_id, completed, updated_at')
+          .eq('user_id', user.id)
+          .order('updated_at', { ascending: false }),
+        supabase
+          .from('mastered_concepts')
+          .select('concept_id')
+          .eq('user_id', user.id),
+      ])
+      if (!progRes.error && progRes.data) setRows(progRes.data as ProgressRow[])
+      if (!masRes.error && masRes.data) setMastered(masRes.data.map((r) => r.concept_id))
 
       try {
         const res = await fetch(

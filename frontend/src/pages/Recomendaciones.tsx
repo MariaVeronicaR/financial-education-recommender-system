@@ -7,6 +7,22 @@ import { buildUserProfile, getProfileFromSupabase, isProfileComplete } from '../
 import { supabase } from '../lib/supabase'
 import { IconArrowRight, IconBook, IconCheck, IconSparkles } from '../components/Icons'
 
+// Catálogo cacheado a nivel de módulo: handleComplete necesita concepts_taught
+// del contenido completado, pero /catalog es estático y no cambia entre
+// requests. Cachearlo evita un fetch por cada "Completado" (antes se llamaba
+// a /catalog en cada handleComplete).
+let catalogCache: { content_id: string; concepts_taught: string[] }[] = []
+
+async function getCatalogCached(): Promise<{ content_id: string; concepts_taught: string[] }[]> {
+  if (catalogCache.length > 0) return catalogCache
+  const res = await fetch(
+    `${import.meta.env.VITE_API_URL || 'http://localhost:8000'}/catalog`,
+  )
+  if (!res.ok) return []
+  catalogCache = await res.json()
+  return catalogCache
+}
+
 export default function Recomendaciones() {
   const { user } = useAuth()
   const navigate = useNavigate()
@@ -103,14 +119,10 @@ export default function Recomendaciones() {
       })
       if (progError) throw progError
 
-      const catalogRes = await fetch(
-        `${import.meta.env.VITE_API_URL || 'http://localhost:8000'}/catalog`,
-      )
-      if (catalogRes.ok) {
-        const catalog = await catalogRes.json()
-        const content = catalog.find((c: { content_id: string }) => c.content_id === contentId)
-        const conceptsTaught = content?.concepts_taught ?? []
-        if (conceptsTaught.length > 0) {
+      const catalog = await getCatalogCached()
+      const content = catalog.find((c: { content_id: string }) => c.content_id === contentId)
+      const conceptsTaught = content?.concepts_taught ?? []
+      if (conceptsTaught.length > 0) {
           const { error: masteryError } = await supabase.from('mastered_concepts').upsert(
             conceptsTaught.map((cid: string) => ({
               user_id: uid,
@@ -119,7 +131,6 @@ export default function Recomendaciones() {
           )
           if (masteryError) throw masteryError
         }
-      }
 
       // Marcamos visualmente este contenido como visto y refrescamos
       // el ranking (que ahora lo excluirá vía completed_content_ids).
