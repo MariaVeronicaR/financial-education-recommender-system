@@ -5,7 +5,7 @@ import { useAuth } from '../lib/auth'
 import { supabase } from '../lib/supabase'
 import { registerInteraction } from '../lib/events'
 import ContentBlocks from '../components/ContentBlocks'
-import { IconAlertTriangle, IconBook, IconCheck, IconSearch, IconSparkles } from '../components/Icons'
+import { IconAlertTriangle, IconCheck, IconSearch, IconSparkles } from '../components/Icons'
 
 export default function Contenido() {
   const { contentId } = useParams<{ contentId: string }>()
@@ -19,9 +19,6 @@ export default function Contenido() {
   const [saving, setSaving] = useState(false)
   const [missingPrereqs, setMissingPrereqs] = useState<MissingPrereq[]>([])
   const [prereqsChecked, setPrereqsChecked] = useState(false)
-  // Mini-barra de progreso: "X/Y contenidos del tema completados".
-  // null = no calculado todavía; {completed, total} = dato disponible.
-  const [topicProgress, setTopicProgress] = useState<{ completed: number; total: number; topic: string } | null>(null)
 
   useEffect(() => {
     async function load() {
@@ -30,7 +27,6 @@ export default function Contenido() {
       setError(null)
       setPrereqsChecked(false)
       setMissingPrereqs([])
-      setTopicProgress(null)
       try {
         const data = await getContentDetail(contentId)
         setContent(data)
@@ -43,56 +39,20 @@ export default function Contenido() {
           }).catch(() => {
             /* no bloquea la lectura del contenido */
           })
-          // Cargas en paralelo: prerrequisitos faltantes + progreso por tema.
-          const [masteredResp, progressResp] = await Promise.all([
-            supabase
+          // Aviso pedagógico: comprueba qué prerrequisitos faltan.
+          // Si la llamada falla, no rompemos la lectura.
+          try {
+            const { data: mastered } = await supabase
               .from('mastered_concepts')
               .select('concept_id')
-              .eq('user_id', user.id),
-            supabase
-              .from('progress')
-              .select('content_id, completed')
-              .eq('user_id', user.id),
-          ])
-          const masteredIds = (masteredResp.data ?? []).map(
-            (r) => r.concept_id as string,
-          )
-          try {
-            const resp = await getMissingPrereqs(contentId, masteredIds)
+              .eq('user_id', user.id)
+            const ids = (mastered ?? []).map((r) => r.concept_id as string)
+            const resp = await getMissingPrereqs(contentId, ids)
             setMissingPrereqs(resp.missing)
           } catch {
             /* sin aviso si falla */
           } finally {
             setPrereqsChecked(true)
-          }
-          // Mini-barra: contamos contenidos del mismo topic que el
-          // usuario ya completó. Si el catálogo no carga, no rompemos.
-          try {
-            const catRes = await fetch(
-              `${import.meta.env.VITE_API_URL || 'http://localhost:8000'}/catalog`,
-            )
-            if (catRes.ok && data.topic) {
-              const catalog = (await catRes.json()) as Array<{
-                content_id: string
-                topic: string
-              }>
-              const sameTopic = catalog.filter((c) => c.topic === data.topic)
-              const completedIds = new Set(
-                (progressResp.data ?? [])
-                  .filter((r) => r.completed)
-                  .map((r) => r.content_id as string),
-              )
-              const completedCount = sameTopic.filter((c) =>
-                completedIds.has(c.content_id),
-              ).length
-              setTopicProgress({
-                completed: completedCount,
-                total: sameTopic.length,
-                topic: data.topic,
-              })
-            }
-          } catch {
-            /* sin barra si falla */
           }
         }
       } catch (err) {
@@ -229,10 +189,9 @@ export default function Contenido() {
         </div>
       )}
 
-      {/* Resumen (tldr): sticky en md+ para que el usuario vea el resumen del
-          contenido mientras hace scroll. El top-16 evita solapar el navbar. */}
+      {/* Resumen (tldr) */}
       {content.tldr && (
-        <div className="mb-6 rounded-2xl border border-accent/20 bg-accent-light p-5 sm:p-6 md:sticky md:top-16 md:z-10">
+        <div className="mb-6 rounded-2xl border border-accent/20 bg-accent-light p-5 sm:p-6">
           <div className="mb-2 flex items-center gap-2">
             <IconSparkles size={18} className="text-accent" />
             <h2 className="text-sm font-semibold text-accent">En resumen</h2>
@@ -374,35 +333,6 @@ export default function Contenido() {
                 </li>
               ))}
           </ul>
-        </div>
-      )}
-
-      {/* Mini-barra de progreso por tema (punto 2.3 del plan UX).
-          Solo visible cuando hay datos y en md+. No aparece en móvil
-          para no solapar la barra de navegación inferior. */}
-      {topicProgress && topicProgress.total > 0 && (
-        <div className="pointer-events-none fixed inset-x-0 bottom-0 z-20 hidden justify-center px-4 pb-4 md:flex">
-          <div className="pointer-events-auto flex w-full max-w-md items-center gap-3 rounded-full border border-border bg-surface/95 px-4 py-2.5 shadow-lg backdrop-blur">
-            <IconBook size={16} className="shrink-0 text-secondary" />
-            <div className="min-w-0 flex-1">
-              <div className="mb-1 flex items-center justify-between gap-2 text-xs text-muted">
-                <span className="truncate font-medium text-text">{topicProgress.topic}</span>
-                <span className="shrink-0">
-                  {topicProgress.completed} / {topicProgress.total}
-                </span>
-              </div>
-              <div className="h-1.5 w-full overflow-hidden rounded-full bg-background">
-                <div
-                  className="h-full rounded-full bg-accent transition-all duration-300"
-                  style={{
-                    width: `${Math.round(
-                      (topicProgress.completed / topicProgress.total) * 100,
-                    )}%`,
-                  }}
-                />
-              </div>
-            </div>
-          </div>
         </div>
       )}
     </div>
