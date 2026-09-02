@@ -36,7 +36,8 @@ export default function Layout() {
               <IconTrendingMark />
             </span>
             <span className="text-lg font-bold tracking-tight text-text">
-              Finanzas<span className="text-accent">IA</span>
+              <span className="text-primary">Edu</span>
+              <span className="text-accent">Finanzas</span>
             </span>
           </Link>
 
@@ -74,7 +75,8 @@ export default function Layout() {
               <IconTrendingMark />
             </span>
             <span className="text-lg font-bold tracking-tight text-text">
-              Finanzas<span className="text-accent">IA</span>
+              <span className="text-primary">Edu</span>
+              <span className="text-accent">Finanzas</span>
             </span>
           </Link>
           {user ? (
@@ -121,7 +123,7 @@ export default function Layout() {
 
       <footer className="hidden border-t border-border bg-surface py-6 md:block">
         <div className="mx-auto max-w-5xl px-4 text-center text-xs text-muted">
-          FinanzasIA — Plataforma de educación financiera personalizada · Prototipo TFM
+          EduFinanzas — Plataforma de educación financiera personalizada · Prototipo TFM
         </div>
       </footer>
     </div>
