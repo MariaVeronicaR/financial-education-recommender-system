@@ -106,17 +106,29 @@ export default function Contenido() {
     if (!user || !content?.quiz) return
     setSaving(true)
     try {
+      // Forzamos a leer la sesión actual directamente del cliente de
+      // Supabase. Sin esto, el upsert puede salir con 403 si el access_token
+      // del contexto de React está desincronizado del que tiene el cliente
+      // (problema típico tras tiempo de inactividad).
+      const { data: sess } = await supabase.auth.getSession()
+      const sessionUser = sess.session?.user
+      if (!sessionUser) {
+        throw new Error(
+          'Tu sesión ha expirado. Recarga la página y vuelve a iniciar sesión.',
+        )
+      }
+      const uid = sessionUser.id
       const concepts = content.quiz
         .map((q) => q.concept_id)
         .filter((c): c is string => Boolean(c))
       if (concepts.length > 0) {
         const { error: masteryError } = await supabase.from('mastered_concepts').upsert(
-          concepts.map((cid) => ({ user_id: user.id, concept_id: cid })),
+          concepts.map((cid) => ({ user_id: uid, concept_id: cid })),
         )
         if (masteryError) throw masteryError
       }
       const { error: progError } = await supabase.from('progress').upsert({
-        user_id: user.id,
+        user_id: uid,
         content_id: contentId,
         completed: true,
         updated_at: new Date().toISOString(),

@@ -73,17 +73,30 @@ export default function Recomendaciones() {
     if (!user) return
     setCompleting(contentId)
     try {
+      // Leemos la sesión actual del cliente de Supabase directamente.
+      // Antes lo hacíamos con `user.id` del contexto de React, pero en
+      // algunos navegadores el token JWT quedaba expirado en el cliente
+      // aunque el contexto tuviera user; el upsert salía con 403. Hacer
+      // getSession() fuerza a refrescar el token y nos da el uuid real.
+      const { data: sess } = await supabase.auth.getSession()
+      const sessionUser = sess.session?.user
+      if (!sessionUser) {
+        throw new Error(
+          'Tu sesión ha expirado. Recarga la página y vuelve a iniciar sesión.',
+        )
+      }
+      const uid = sessionUser.id
       // Registra el evento de dominio (score >= 0.5, relevante). El contenido
       // llegó por recomendación del sistema, así que is_recommended=true.
       await registerInteraction({
-        userId: user.id,
+        userId: uid,
         contentId,
         event: 'completed',
         isRecommended: true,
       })
 
       const { error: progError } = await supabase.from('progress').upsert({
-        user_id: user.id,
+        user_id: uid,
         content_id: contentId,
         completed: true,
         updated_at: new Date().toISOString(),
@@ -100,7 +113,7 @@ export default function Recomendaciones() {
         if (conceptsTaught.length > 0) {
           const { error: masteryError } = await supabase.from('mastered_concepts').upsert(
             conceptsTaught.map((cid: string) => ({
-              user_id: user.id,
+              user_id: uid,
               concept_id: cid,
             })),
           )
@@ -111,7 +124,7 @@ export default function Recomendaciones() {
       // Marcamos visualmente este contenido como visto y refrescamos
       // el ranking (que ahora lo excluirá vía completed_content_ids).
       setCompletedIds((prev) => new Set(prev).add(contentId))
-      const profile = await buildUserProfile(user.id)
+      const profile = await buildUserProfile(uid)
       const resp = await getRecommendations(profile)
       setData(resp)
     } catch (err) {
