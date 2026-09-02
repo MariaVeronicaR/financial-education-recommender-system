@@ -287,10 +287,10 @@ export default function Recomendaciones() {
                       handleComplete(rec.content_id)
                     }}
                     disabled={completing === rec.content_id}
-                    className="btn btn-success !px-3 !py-2"
+                    className="btn btn-success-outline !px-3 !py-2"
                   >
                     <IconCheck size={16} />
-                    {completing === rec.content_id ? 'Guardando…' : 'Completado'}
+                    {completing === rec.content_id ? 'Guardando…' : 'Marcar como completado'}
                   </button>
                 )}
               </div>

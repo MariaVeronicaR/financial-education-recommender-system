@@ -130,6 +130,16 @@ body {
     background-color: #256a4e;
   }
 
+  .btn-success-outline {
+    background-color: transparent;
+    color: var(--color-success);
+    border: 1.5px solid var(--color-success);
+  }
+  .btn-success-outline:hover:not(:disabled) {
+    background-color: var(--color-success-light);
+    border-color: var(--color-success);
+  }
+
   .input {
     width: 100%;
     border-radius: 10px;

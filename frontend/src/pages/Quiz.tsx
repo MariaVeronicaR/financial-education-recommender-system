@@ -142,6 +142,27 @@ export default function Quiz() {
     }
   }
 
+  // Cuando el usuario aprueba el quiz (correctCount === quizTotal),
+  // registramos el progreso automáticamente sin necesidad de pulsar ningún
+  // botón. El `useEffect` se dispara cuando se cumplen TODAS las
+  // condiciones: el quiz fue enviado, todas las respuestas son
+  // correctas, no se ha guardado antes y no estamos ya guardando.
+  // Mientras `saving=true` la UI muestra 'Guardando tu progreso...' para
+  // dar feedback visual; después el estado pasa a 'ya completado'.
+  useEffect(() => {
+    if (
+      quizSubmitted &&
+      content?.quiz &&
+      Object.keys(results).length === content.quiz.length &&
+      Object.values(results).every(Boolean) &&
+      !saving &&
+      !alreadyCompleted
+    ) {
+      void handleQuizPassed()
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [quizSubmitted, results, saving, alreadyCompleted])
+
   // Botón 'Volver al contenido': navega a /contenido/:id. Como el backend no
   // restaura scroll automáticamente, usamos sessionStorage para guardar la
   // posición en la página de contenido y restaurarla al volver.
@@ -283,17 +304,30 @@ export default function Quiz() {
                 </p>
                 {correctCount === quizTotal ? (
                   <div className="mt-2">
-                    <p className="text-sm text-success">
-                      ¡Perfecto! Dominas los conceptos de este contenido.
-                    </p>
-                    <button
-                      onClick={handleQuizPassed}
-                      disabled={saving}
-                      className="btn btn-success mt-3"
-                    >
-                      <IconCheck size={16} />
-                      {saving ? 'Guardando…' : 'Registrar mi progreso'}
-                    </button>
+                    {saving ? (
+                      <div className="flex items-center gap-2 text-sm text-muted">
+                        <svg
+                          className="h-4 w-4 animate-spin text-success"
+                          viewBox="0 0 24 24"
+                          fill="none"
+                          stroke="currentColor"
+                          strokeWidth="3"
+                        >
+                          <circle
+                            cx="12"
+                            cy="12"
+                            r="9"
+                            strokeOpacity="0.25"
+                          />
+                          <path d="M21 12a9 9 0 1 1-6.219-8.56" />
+                        </svg>
+                        <span>Guardando tu progreso…</span>
+                      </div>
+                    ) : (
+                      <p className="text-sm text-success">
+                        ¡Perfecto! Dominas los conceptos de este contenido.
+                      </p>
+                    )}
                   </div>
                 ) : (
                   <div className="mt-2">
