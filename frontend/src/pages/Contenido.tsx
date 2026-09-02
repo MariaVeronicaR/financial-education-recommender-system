@@ -5,7 +5,7 @@ import { useAuth } from '../lib/auth'
 import { supabase } from '../lib/supabase'
 import { registerInteraction } from '../lib/events'
 import ContentBlocks from '../components/ContentBlocks'
-import { IconAlertTriangle, IconCheck, IconExternalLink, IconSearch, IconSparkles } from '../components/Icons'
+import { IconAlertTriangle, IconCheck, IconExternalLink, IconLink, IconSearch, IconSparkles } from '../components/Icons'
 
 // Detecta si un contenido es una herramienta/calculadora/simulador a partir
 // de su formato en el catálogo o de su título. Se usa para mostrar un banner
@@ -292,6 +292,35 @@ export default function Contenido() {
         </div>
       ) : null}
 
+      {/* Enlaces relacionados embebidos justo después del cuerpo. Los hrefs
+          son del JSON estructurado/scraped (no se alucina texto): se
+          muestran como una línea 'Ver también:' con los enlaces, sin
+          modificar el contenido del párrafo. Esto evita que el usuario
+          tenga que hacer scroll hasta el final para ver los recursos. */}
+      {content.links && content.links.filter((l) => l.href).length > 0 && (
+        <div className="mb-6 rounded-xl border border-accent/20 bg-accent-light/50 p-4 sm:p-5">
+          <p className="mb-2 flex items-center gap-2 text-xs font-semibold uppercase tracking-wide text-secondary">
+            <IconLink size={14} />
+            Ver también
+          </p>
+          <ul className="flex flex-col gap-1.5">
+            {content.links.filter((l) => l.href).map((l, i) => (
+              <li key={i} className="text-sm">
+                <a
+                  href={l.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1 text-secondary underline-offset-2 hover:underline"
+                >
+                  {l.text || l.href}
+                  <IconExternalLink size={12} />
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+
       {/* Quiz de evaluación formativa */}
       {content.quiz && content.quiz.length > 0 && (
         <div className="card p-6 sm:p-8">
@@ -358,29 +387,6 @@ export default function Contenido() {
               )}
             </div>
           )}
-        </div>
-      )}
-
-      {/* Enlaces relacionados (raíz del payload, distintos a la fuente principal) */}
-      {content.links && content.links.length > 0 && (
-        <div className="mt-6 card p-5">
-          <h3 className="mb-3 text-sm font-semibold text-text">Enlaces relacionados</h3>
-          <ul className="space-y-1.5">
-            {content.links
-              .filter((l) => l.href)
-              .map((l, i) => (
-                <li key={i} className="text-sm">
-                  <a
-                    href={l.href}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-secondary underline-offset-2 hover:underline"
-                  >
-                    {l.text || l.href}
-                  </a>
-                </li>
-              ))}
-          </ul>
         </div>
       )}
     </div>
