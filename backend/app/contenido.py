@@ -70,7 +70,12 @@ def get_content_payload(content_id: str) -> dict | None:
       2. data/scraped/<id>.json    (fallback)
     data/enriched siempre se usa para tldr/key_points/quiz.
     data/scraped siempre se usa para url (no incluida en structured).
+    Los metadatos del catálogo (topic, difficulty, format, summary) se añaden
+    siempre que estén en data/contents.csv, para que la UI pueda mostrarlos
+    sin tener que llamar a /catalog.
     """
+    from . import datos  # lazy: evita import circular al cargar este módulo
+
     enriched = get_enriched(content_id)
     structured = get_structured(content_id)
     scraped = get_scraped(content_id)
@@ -104,5 +109,17 @@ def get_content_payload(content_id: str) -> dict | None:
     # url: siempre del scraped (structured no la incluye)
     if scraped:
         payload["url"] = scraped.get("url", "")
+
+    # Metadatos del catálogo (topic / difficulty / format / summary).
+    # Si falta la fila en contents.csv, los campos simplemente no se añaden
+    # y la UI los trata como opcionales.
+    contents_df = datos.get_contents_df()
+    row = contents_df[contents_df["content_id"] == content_id]
+    if not row.empty:
+        r = row.iloc[0]
+        for k in ("topic", "difficulty", "format", "summary"):
+            v = r.get(k, "")
+            if v:
+                payload[k] = str(v)
 
     return payload

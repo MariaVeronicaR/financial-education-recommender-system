@@ -23,6 +23,7 @@ export interface RecommendationResponse {
   source_model: string
   n_candidates: number
   n_filtered: number
+  agotado: boolean
 }
 
 export interface UserProfile {
@@ -119,6 +120,12 @@ export interface ContentDetail {
   sections?: unknown[]
   headings?: unknown[]
   blocks?: ContentBlock[]
+  // Metadatos del catálogo (también incluidos en /content/{id} para que la UI
+  // pueda mostrar tema / dificultad / formato sin llamar a /catalog).
+  topic?: string
+  difficulty?: string
+  format?: string
+  summary?: string
   // Links a nivel raíz del payload (del structured). Cada uno puede tener
   // href y texto; los offsets solo importan si están dentro de un paragraph.
   links?: { text: string; href: string; start?: number; end?: number }[]
