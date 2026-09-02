@@ -95,5 +95,12 @@ create policy "mastered_select_own" on public.mastered_concepts
   for select using (auth.uid() = user_id);
 create policy "mastered_insert_own" on public.mastered_concepts
   for insert with check (auth.uid() = user_id);
+-- Política de UPDATE: el frontend usa upsert(), que internamente hace
+-- UPDATE cuando la fila ya existe. Sin esta política, el upsert
+-- revierte a INSERT y choca con RLS (42501).
+create policy "mastered_update_own" on public.mastered_concepts
+  for update
+  using (auth.uid() = user_id)
+  with check (auth.uid() = user_id);
 create policy "mastered_delete_own" on public.mastered_concepts
   for delete using (auth.uid() = user_id);
