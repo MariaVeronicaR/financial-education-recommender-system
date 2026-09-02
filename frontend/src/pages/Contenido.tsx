@@ -5,7 +5,26 @@ import { useAuth } from '../lib/auth'
 import { supabase } from '../lib/supabase'
 import { registerInteraction } from '../lib/events'
 import ContentBlocks from '../components/ContentBlocks'
-import { IconAlertTriangle, IconCheck, IconSearch, IconSparkles } from '../components/Icons'
+import { IconAlertTriangle, IconCheck, IconExternalLink, IconSearch, IconSparkles } from '../components/Icons'
+
+// Detecta si un contenido es una herramienta/calculadora/simulador a partir
+// de su formato en el catálogo o de su título. Se usa para mostrar un banner
+// prominente con el link directo en lugar del "Fuente: <url>" genérico.
+const TOOL_FORMATS = new Set(['calculadora', 'simulador', 'herramienta'])
+function isExternalTool(content: ContentDetail): boolean {
+  if (content.format && TOOL_FORMATS.has(content.format.toLowerCase())) return true
+  const title = (content.title ?? '').toLowerCase()
+  return /calculadora|herramienta|simulador/.test(title)
+}
+// Etiqueta del CTA según el formato (para que diga "Abrir la calculadora" o
+// "Ir al simulador" en vez de un genérico).
+function toolCtaLabel(content: ContentDetail): string {
+  const fmt = (content.format ?? '').toLowerCase()
+  if (fmt === 'calculadora') return 'Abrir la calculadora'
+  if (fmt === 'simulador') return 'Abrir el simulador'
+  if (fmt === 'herramienta') return 'Abrir la herramienta'
+  return 'Abrir la herramienta externa'
+}
 
 export default function Contenido() {
   const { contentId } = useParams<{ contentId: string }>()
@@ -212,6 +231,37 @@ export default function Contenido() {
         </div>
       )}
 
+      {/* Banner de fuente externa: para herramientas/calculadoras es
+          prominente (CTA primario), para artículos es un botón outline
+          discreto. Ambos abren la URL del catálogo en pestaña nueva.
+          Se renderiza tras el TLDR para que el usuario lo vea ANTES de
+          leer el cuerpo. */}
+      {content.url && isExternalTool(content) && (
+        <a
+          href={content.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="mb-6 flex items-center gap-3 rounded-2xl border-2 border-secondary bg-secondary-light p-4 transition hover:bg-secondary-light/80 sm:p-5"
+        >
+          <IconExternalLink size={22} className="shrink-0 text-secondary" />
+          <div className="min-w-0 flex-1">
+            <p className="font-semibold text-text">{toolCtaLabel(content)}</p>
+            <p className="truncate text-xs text-muted">{content.url}</p>
+          </div>
+        </a>
+      )}
+      {content.url && !isExternalTool(content) && (
+        <a
+          href={content.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="btn btn-outline mb-6 !px-4 !py-2"
+        >
+          <IconExternalLink size={16} />
+          Ir a fuente original
+        </a>
+      )}
+
       {/* Puntos clave */}
       {content.key_points && content.key_points.length > 0 && (
         <div className="card mb-6 p-5 sm:p-6">
@@ -311,21 +361,7 @@ export default function Contenido() {
         </div>
       )}
 
-      {content.url && (
-        <p className="mt-6 text-sm text-muted">
-          Fuente:{' '}
-          <a
-            href={content.url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-secondary hover:underline"
-          >
-            {content.url}
-          </a>
-        </p>
-      )}
-
-      {/* Enlaces relacionados (raíz del payload) */}
+      {/* Enlaces relacionados (raíz del payload, distintos a la fuente principal) */}
       {content.links && content.links.length > 0 && (
         <div className="mt-6 card p-5">
           <h3 className="mb-3 text-sm font-semibold text-text">Enlaces relacionados</h3>
