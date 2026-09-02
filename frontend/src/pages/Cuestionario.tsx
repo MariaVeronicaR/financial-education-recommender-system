@@ -1,9 +1,10 @@
 import { useEffect, useState } from 'react'
+import { Link } from 'react-router-dom'
 import { useAuth } from '../lib/auth'
 import { supabase } from '../lib/supabase'
 import { getProfileFromSupabase, type ProfileRow } from '../lib/profile'
 import type { UserProfile } from '../lib/api'
-import { IconUser } from '../components/Icons'
+import { IconArrowRight, IconMessageSquare, IconUser } from '../components/Icons'
 
 // Temas de interés (alineados con los topics del catálogo)
 const TEMAS = [
@@ -526,12 +527,43 @@ export default function Cuestionario() {
 
 // Vista de resumen del perfil (cuando ya hay datos guardados)
 function ResumenPerfil({ profile, onEdit }: { profile: ProfileRow; onEdit: () => void }) {
+  const { user } = useAuth()
   const interests = Object.keys(profile.interests ?? {}).filter(
     (t) => (profile.interests ?? {})[t] > 0,
   )
   const correctas = (profile.big_three ?? []).filter(
     (a, i) => a === BIG_THREE[i].correct,
   ).length
+
+  // Estado del CTA de feedback: se muestra solo si el usuario tiene
+  // interacciones registradas (progress). Si ya envió feedback, el texto
+  // cambia a "Ya nos dejaste tu opinión" con la fecha del envío.
+  const [hasProgress, setHasProgress] = useState(false)
+  const [feedbackSubmittedAt, setFeedbackSubmittedAt] = useState<string | null>(null)
+
+  useEffect(() => {
+    if (!user) return
+    let cancelled = false
+    Promise.all([
+      supabase
+        .from('progress')
+        .select('content_id')
+        .eq('user_id', user.id)
+        .limit(1),
+      supabase
+        .from('feedback_responses')
+        .select('submitted_at')
+        .eq('user_id', user.id)
+        .maybeSingle(),
+    ]).then(([progRes, fbRes]) => {
+      if (cancelled) return
+      setHasProgress(!!(progRes.data && progRes.data.length > 0))
+      setFeedbackSubmittedAt(fbRes.data?.submitted_at ?? null)
+    })
+    return () => {
+      cancelled = true
+    }
+  }, [user])
 
   return (
     <div className="mx-auto max-w-2xl px-4 py-10 sm:py-12">
@@ -594,6 +626,45 @@ function ResumenPerfil({ profile, onEdit }: { profile: ProfileRow; onEdit: () =>
             <p className="text-sm text-muted">No has seleccionado intereses.</p>
           )}
         </div>
+
+        {/* Feedback para el TFM. Se muestra solo si el usuario ya
+            interactuó con la plataforma (tiene progress registrado);
+            sin datos reales, no tiene sentido preguntarle. */}
+        {hasProgress && (
+          <div className="card flex items-start gap-4 p-5 sm:p-6">
+            <div className="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-primary-light text-primary">
+              <IconMessageSquare size={20} />
+            </div>
+            <div className="min-w-0 flex-1">
+              <h2 className="mb-1 text-sm font-semibold text-text">
+                Cuéntanos qué te parecen las recomendaciones
+              </h2>
+              <p className="mb-3 text-xs text-muted">
+                Tu opinión nos ayuda a mejorar el sistema de recomendación.
+                Son 4 preguntas (escala 1-5) y una pregunta abierta opcional.
+              </p>
+              <Link
+                to="/feedback"
+                className="btn btn-primary !px-4 !py-2"
+              >
+                {feedbackSubmittedAt
+                  ? 'Editar mi respuesta'
+                  : 'Dar mi opinión'}
+                <IconArrowRight size={16} />
+              </Link>
+              {feedbackSubmittedAt && (
+                <p className="mt-2 text-xs text-muted">
+                  Última respuesta:{' '}
+                  {new Date(feedbackSubmittedAt).toLocaleDateString('es-ES', {
+                    day: '2-digit',
+                    month: 'short',
+                    year: 'numeric',
+                  })}
+                </p>
+              )}
+            </div>
+          </div>
+        )}
       </div>
     </div>
   )

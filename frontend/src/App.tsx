@@ -4,6 +4,7 @@ import { useAuth } from './lib/auth'
 import Contenido from './pages/Contenido'
 import Cuestionario from './pages/Cuestionario'
 import Explorar from './pages/Explorar'
+import Feedback from './pages/Feedback'
 import Inicio from './pages/Inicio'
 import Login from './pages/Login'
 import Progreso from './pages/Progreso'
@@ -54,6 +55,14 @@ export default function App() {
             element={
               <RequireAuth>
                 <Explorar />
+              </RequireAuth>
+            }
+          />
+          <Route
+            path="/feedback"
+            element={
+              <RequireAuth>
+                <Feedback />
               </RequireAuth>
             }
           />
