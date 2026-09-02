@@ -122,7 +122,9 @@ export default function Recomendaciones() {
 
       const catalog = await getCatalogCached()
       const content = catalog.find((c: { content_id: string }) => c.content_id === contentId)
-      const conceptsTaught = content?.concepts_taught ?? []
+      // Deduplicamos por si el catálogo devolviera concept_id repetidos (defensiva:
+      // mismo motivo que en Quiz.tsx — upsert no soporta duplicates en el array).
+      const conceptsTaught = Array.from(new Set(content?.concepts_taught ?? []))
       if (conceptsTaught.length > 0) {
           const { error: masteryError } = await supabase.from('mastered_concepts').upsert(
             conceptsTaught.map((cid: string) => ({

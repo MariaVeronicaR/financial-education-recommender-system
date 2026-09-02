@@ -42,9 +42,6 @@ export default function Contenido() {
   const [error, setError] = useState<string | null>(null)
   const [missingPrereqs, setMissingPrereqs] = useState<MissingPrereq[]>([])
   const [prereqsChecked, setPrereqsChecked] = useState(false)
-  // Posición de scroll al salir hacia el quiz, para que al volver desde
-  // /contenido/:id/quiz se restaure automáticamente.
-  const [showStickyQuiz, setShowStickyQuiz] = useState(false)
 
   // Guarda scrollY antes de ir al quiz, para restaurar al volver.
   function goToQuiz() {
@@ -66,21 +63,6 @@ export default function Contenido() {
         })
       })
     }
-  }, [contentId])
-
-  // Muestra el botón sticky 'Ir al quiz' cuando el usuario ha llegado
-  // cerca del final del documento. Esto evita spam: aparece solo después
-  // de leer.
-  useEffect(() => {
-    function onScroll() {
-      // Aparece a partir del 75% del scroll (hacia el final).
-      const scrollable = document.documentElement.scrollHeight - window.innerHeight
-      const ratio = scrollable > 0 ? window.scrollY / scrollable : 1
-      setShowStickyQuiz(ratio > 0.75)
-    }
-    onScroll()
-    window.addEventListener('scroll', onScroll, { passive: true })
-    return () => window.removeEventListener('scroll', onScroll)
   }, [contentId])
 
   useEffect(() => {
@@ -282,11 +264,9 @@ export default function Contenido() {
         </div>
       )}
 
-      {/* Botón sticky 'Ir al cuestionario'. Solo aparece cuando:
-            1) el contenido tiene quiz, y
-            2) el usuario ha hecho scroll cerca del final (≥75% del
-               documento), para no distraer al principio. El scroll al
-               volver desde /quiz se restaura con sessionStorage. */}
+      {/* Botón 'Ir al cuestionario'. Aparece tras el cuerpo del artículo
+          (después del bloque 'Ver también'). El scroll al volver desde
+          /quiz se restaura con sessionStorage (goToQuiz). */}
       {content.quiz && content.quiz.length > 0 && (
         <div className="mt-6 flex justify-center">
           <button
@@ -299,25 +279,6 @@ export default function Contenido() {
             {content.quiz.length === 1 ? 'pregunta' : 'preguntas'})
             <IconArrowLeft size={16} className="rotate-180" />
           </button>
-        </div>
-      )}
-
-      {/* Botón sticky flotante: aparece solo cuando el usuario está al
-          final del artículo. Misma acción que el botón estático de
-          arriba, pero persistente para que no haya que buscarlo. */}
-      {content.quiz && content.quiz.length > 0 && showStickyQuiz && (
-        <div className="pointer-events-none fixed inset-x-0 bottom-0 z-20 flex justify-center px-4 pb-4">
-          <div className="pointer-events-auto w-full max-w-md rounded-full border border-secondary bg-surface/95 shadow-lg backdrop-blur">
-            <button
-              type="button"
-              onClick={goToQuiz}
-              className="flex w-full items-center justify-center gap-2 rounded-full bg-secondary px-5 py-3 text-sm font-semibold text-white transition hover:bg-secondary/90 focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-secondary"
-            >
-              <IconListChecks size={18} />
-              Ir al cuestionario ({content.quiz.length}{' '}
-              {content.quiz.length === 1 ? 'pregunta' : 'preguntas'})
-            </button>
-          </div>
         </div>
       )}
     </div>

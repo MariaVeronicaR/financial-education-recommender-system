@@ -101,9 +101,19 @@ export default function Quiz() {
         )
       }
       const uid = sessionUser.id
-      const concepts = content.quiz
-        .map((q) => q.concept_id)
-        .filter((c): c is string => Boolean(c))
+      // Deduplicamos: varios quizzes sintéticos tienen varias preguntas con el
+      // mismo concept_id (es pedagógicamente normal: dos preguntas pueden
+      // evaluar la misma competencia). Pero upsert requiere constraint
+      // única, así que si enviamos un array con la misma (user_id,
+      // concept_id) dos veces, Postgres devuelve 'ON CONFLICT DO UPDATE
+      // cannot affect row a second time' (500).
+      const concepts = Array.from(
+        new Set(
+          content.quiz
+            .map((q) => q.concept_id)
+            .filter((c): c is string => Boolean(c)),
+        ),
+      )
       if (concepts.length > 0) {
         const { error: masteryError } = await supabase.from('mastered_concepts').upsert(
           concepts.map((cid) => ({ user_id: uid, concept_id: cid })),
