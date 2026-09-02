@@ -101,3 +101,28 @@ export async function buildUserProfile(userId: string): Promise<UserProfile> {
     completed_content_ids: progress.completed,
   }
 }
+
+// Lista de campos cuyo valor no nulo indica que el usuario pasó por el
+// cuestionario de onboarding. Si falta cualquiera, asumimos perfil no
+// iniciado y Recomendaciones muestra un CTA al cuestionario en vez de
+// llamar al backend.
+const REQUIRED_FIELDS: Array<keyof ProfileRow> = [
+  'age',
+  'education_level',
+  'employment_status',
+  'learning_goal',
+  'knowledge_level',
+]
+
+// Devuelve true si el ProfileRow tiene TODOS los campos requeridos
+// no vacíos. Usado como sentinela de "onboarding completado" sin
+// necesitar una columna nueva en Supabase.
+export function isProfileComplete(profile: ProfileRow | null | undefined): boolean {
+  if (!profile) return false
+  return REQUIRED_FIELDS.every((k) => {
+    const v = profile[k]
+    if (v === null || v === undefined) return false
+    if (typeof v === 'string') return v.trim().length > 0
+    return true
+  })
+}

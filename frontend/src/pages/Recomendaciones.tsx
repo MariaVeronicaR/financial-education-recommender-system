@@ -1,42 +1,62 @@
 import { useEffect, useState, type MouseEvent, type KeyboardEvent } from 'react'
-import { Link, useNavigate } from 'react-router-dom'
+import { Link, useLocation, useNavigate } from 'react-router-dom'
 import { useAuth } from '../lib/auth'
 import { getRecommendations, type RecommendationResponse } from '../lib/api'
 import { registerInteraction } from '../lib/events'
-import { buildUserProfile } from '../lib/profile'
+import { buildUserProfile, getProfileFromSupabase, isProfileComplete } from '../lib/profile'
 import { supabase } from '../lib/supabase'
 import { IconArrowRight, IconBook, IconCheck, IconSparkles } from '../components/Icons'
 
 export default function Recomendaciones() {
   const { user } = useAuth()
   const navigate = useNavigate()
+  const location = useLocation()
   const [data, setData] = useState<RecommendationResponse | null>(null)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
   const [completing, setCompleting] = useState<string | null>(null)
   const [completedIds, setCompletedIds] = useState<Set<string>>(new Set())
+  // Estado del onboarding: si el usuario nunca pasó por el cuestionario
+  // mostramos un CTA en vez de recomendaciones (que serían casi iguales
+  // para todos al no tener perfil). Se reevalúa al volver del cuestionario.
+  const [profileComplete, setProfileComplete] = useState<boolean | null>(null)
 
-  // Carga inicial: recomendaciones + contenidos ya completados del usuario,
-  // para marcarlos visualmente como "Visto" en el listado.
+  // Carga inicial: perfil + recomendaciones + contenidos ya completados.
+  // Si el perfil no está completo (faltan los 5 campos sentinela), no
+  // llamamos al backend y mostramos CTA al cuestionario.
   useEffect(() => {
     async function load() {
       if (!user) return
       setLoading(true)
       setError(null)
       try {
-        const [profile, completedResp] = await Promise.all([
-          buildUserProfile(user.id),
+        const [profileRow, completedResp] = await Promise.all([
+          getProfileFromSupabase(user.id),
           supabase
             .from('progress')
             .select('content_id, completed')
             .eq('user_id', user.id),
         ])
+
+        const complete = isProfileComplete(profileRow)
+        setProfileComplete(complete)
+
+        if (!complete) {
+          // Perfil no iniciado: mostrar CTA, no llamar al backend.
+          setData(null)
+          setCompletedIds(new Set())
+          return
+        }
+
+        const profile = await buildUserProfile(user.id)
         const resp = await getRecommendations(profile)
         setData(resp)
         const ids = new Set<string>()
-        ;(completedResp.data ?? []).forEach((r: { content_id: string; completed: boolean }) => {
-          if (r.completed) ids.add(r.content_id)
-        })
+        ;(completedResp.data ?? []).forEach(
+          (r: { content_id: string; completed: boolean }) => {
+            if (r.completed) ids.add(r.content_id)
+          },
+        )
         setCompletedIds(ids)
       } catch (err) {
         setError(err instanceof Error ? err.message : 'Error al cargar recomendaciones')
@@ -45,7 +65,7 @@ export default function Recomendaciones() {
       }
     }
     load()
-  }, [user])
+  }, [user, location.key]) // re-ejecuta al volver del cuestionario (location cambia)
 
   // Registra una interacción, marca el contenido como completado y registra los
   // conceptos que enseña como dominados (para desbloquear contenidos avanzados).
@@ -109,10 +129,40 @@ export default function Recomendaciones() {
     navigate(`/contenido/${contentId}`)
   }
 
-  if (loading) {
+  if (loading || profileComplete === null) {
     return (
       <div className="mx-auto max-w-3xl px-4 py-20 text-center text-muted">
         Cargando recomendaciones…
+      </div>
+    )
+  }
+
+  // Si el usuario nunca completó el cuestionario, mostramos un CTA al
+  // cuestionario en vez de recomendaciones (serían casi iguales para
+  // todos sin perfil). El modelo necesita los 5 campos clave.
+  if (!profileComplete) {
+    return (
+      <div className="mx-auto max-w-3xl px-4 py-10 sm:py-12">
+        <div className="card p-8 text-center sm:p-10">
+          <div className="mx-auto mb-4 flex h-14 w-14 items-center justify-center rounded-full bg-primary-light text-primary">
+            <IconSparkles size={28} />
+          </div>
+          <h1 className="mb-2 text-xl font-bold tracking-tight text-text sm:text-2xl">
+            Completa tu perfil para empezar
+          </h1>
+          <p className="mx-auto mb-6 max-w-md text-sm text-muted">
+            Las recomendaciones personalizadas necesitan unos datos básicos sobre
+            ti: tu edad, nivel de estudios y tus objetivos financieros. Tarda
+            menos de un minuto.
+          </p>
+          <Link
+            to="/cuestionario"
+            className="btn btn-primary !px-6 !py-3 !text-base"
+          >
+            Completar mi perfil
+            <IconArrowRight size={18} />
+          </Link>
+        </div>
       </div>
     )
   }
