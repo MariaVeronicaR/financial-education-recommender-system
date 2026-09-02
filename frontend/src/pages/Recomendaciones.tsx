@@ -218,13 +218,6 @@ export default function Recomendaciones() {
         )}
       </div>
 
-      {data && data.n_filtered > 0 && (
-        <p className="mb-6 rounded-xl bg-accent-light px-4 py-3 text-sm text-accent">
-          Se filtraron {data.n_filtered} contenidos por no cumplir los prerrequisitos
-          pedagógicos.
-        </p>
-      )}
-
       {/* Banner "estás al día": se muestra cuando, tras filtrar completados
           y prerrequisitos, quedan menos de top_k recomendaciones nuevas. */}
       {data?.agotado && (
