@@ -1,11 +1,19 @@
 import { useEffect, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
-import { getContentDetail, getMissingPrereqs, type ContentDetail, type MissingPrereq, type QuizQuestion } from '../lib/api'
+import { getContentDetail, getMissingPrereqs, type ContentDetail, type MissingPrereq } from '../lib/api'
 import { useAuth } from '../lib/auth'
 import { supabase } from '../lib/supabase'
 import { registerInteraction } from '../lib/events'
 import ContentBlocks from '../components/ContentBlocks'
-import { IconAlertTriangle, IconCheck, IconExternalLink, IconLink, IconSearch, IconSparkles } from '../components/Icons'
+import {
+  IconAlertTriangle,
+  IconArrowLeft,
+  IconExternalLink,
+  IconLink,
+  IconListChecks,
+  IconSearch,
+  IconSparkles,
+} from '../components/Icons'
 
 // Detecta si un contenido es una herramienta/calculadora/simulador a partir
 // de su formato en el catálogo o de su título. Se usa para mostrar un banner
@@ -32,12 +40,48 @@ export default function Contenido() {
   const [content, setContent] = useState<ContentDetail | null>(null)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
-  const [answers, setAnswers] = useState<Record<number, number>>({})
-  const [results, setResults] = useState<Record<number, boolean>>({})
-  const [quizSubmitted, setQuizSubmitted] = useState(false)
-  const [saving, setSaving] = useState(false)
   const [missingPrereqs, setMissingPrereqs] = useState<MissingPrereq[]>([])
   const [prereqsChecked, setPrereqsChecked] = useState(false)
+  // Posición de scroll al salir hacia el quiz, para que al volver desde
+  // /contenido/:id/quiz se restaure automáticamente.
+  const [showStickyQuiz, setShowStickyQuiz] = useState(false)
+
+  // Guarda scrollY antes de ir al quiz, para restaurar al volver.
+  function goToQuiz() {
+    if (!contentId) return
+    sessionStorage.setItem(`scrollY:${contentId}`, String(window.scrollY))
+    window.location.href = `/contenido/${contentId}/quiz`
+  }
+
+  // Restaura scroll si acabamos de volver del quiz.
+  useEffect(() => {
+    if (!contentId) return
+    const saved = sessionStorage.getItem(`scrollY:${contentId}`)
+    if (saved) {
+      // Doble rAF para que el DOM esté listo.
+      requestAnimationFrame(() => {
+        requestAnimationFrame(() => {
+          window.scrollTo({ top: Number(saved), behavior: 'instant' as ScrollBehavior })
+          sessionStorage.removeItem(`scrollY:${contentId}`)
+        })
+      })
+    }
+  }, [contentId])
+
+  // Muestra el botón sticky 'Ir al quiz' cuando el usuario ha llegado
+  // cerca del final del documento. Esto evita spam: aparece solo después
+  // de leer.
+  useEffect(() => {
+    function onScroll() {
+      // Aparece a partir del 75% del scroll (hacia el final).
+      const scrollable = document.documentElement.scrollHeight - window.innerHeight
+      const ratio = scrollable > 0 ? window.scrollY / scrollable : 1
+      setShowStickyQuiz(ratio > 0.75)
+    }
+    onScroll()
+    window.addEventListener('scroll', onScroll, { passive: true })
+    return () => window.removeEventListener('scroll', onScroll)
+  }, [contentId])
 
   useEffect(() => {
     async function load() {
@@ -82,89 +126,6 @@ export default function Contenido() {
     }
     load()
   }, [contentId, user?.id])
-
-  function selectAnswer(qi: number, oi: number) {
-    if (quizSubmitted) return
-    setAnswers((prev) => ({ ...prev, [qi]: oi }))
-  }
-
-  function submitQuiz() {
-    if (!content?.quiz) return
-    const newResults: Record<number, boolean> = {}
-    content.quiz.forEach((q, qi) => {
-      newResults[qi] = answers[qi] === q.correct_index
-    })
-    setResults(newResults)
-    setQuizSubmitted(true)
-    // Si no se aciertan todas, registra el fallo (score < 0.5, no relevante)
-    const allCorrect = Object.values(newResults).every(Boolean)
-    if (!allCorrect && user && contentId) {
-      registerInteraction({
-        userId: user.id,
-        contentId,
-        event: 'quiz_failed',
-      }).catch(() => {
-        /* no bloquea la corrección del quiz */
-      })
-    }
-  }
-
-  // Permite al usuario reintentar el quiz tras fallarlo: limpia respuestas,
-  // resultados y el flag de submitted, y restaura las opciones a su estado
-  // inicial. El contenido debe poder leerse y reevaluarse sin recargar.
-  function resetQuiz() {
-    setAnswers({})
-    setResults({})
-    setQuizSubmitted(false)
-  }
-
-  const correctCount = Object.values(results).filter(Boolean).length
-  const quizTotal = content?.quiz?.length ?? 0
-
-  async function handleQuizPassed() {
-    if (!user || !content?.quiz) return
-    setSaving(true)
-    try {
-      // Forzamos a leer la sesión actual directamente del cliente de
-      // Supabase. Sin esto, el upsert puede salir con 403 si el access_token
-      // del contexto de React está desincronizado del que tiene el cliente
-      // (problema típico tras tiempo de inactividad).
-      const { data: sess } = await supabase.auth.getSession()
-      const sessionUser = sess.session?.user
-      if (!sessionUser) {
-        throw new Error(
-          'Tu sesión ha expirado. Recarga la página y vuelve a iniciar sesión.',
-        )
-      }
-      const uid = sessionUser.id
-      const concepts = content.quiz
-        .map((q) => q.concept_id)
-        .filter((c): c is string => Boolean(c))
-      if (concepts.length > 0) {
-        const { error: masteryError } = await supabase.from('mastered_concepts').upsert(
-          concepts.map((cid) => ({ user_id: uid, concept_id: cid })),
-        )
-        if (masteryError) throw masteryError
-      }
-      const { error: progError } = await supabase.from('progress').upsert({
-        user_id: uid,
-        content_id: contentId,
-        completed: true,
-        updated_at: new Date().toISOString(),
-      })
-      if (progError) throw progError
-      // Registra el evento de dominio (score >= 0.5, relevante)
-      await registerInteraction({
-        userId: user.id,
-        contentId: contentId ?? '',
-        event: 'quiz_passed',
-      })
-    } catch (err) {
-      setError(err instanceof Error ? err.message : 'Error al guardar el progreso')
-    } finally {
-      setSaving(false)
-    }
-  }
 
   if (loading) {
     return (
@@ -321,126 +282,43 @@ export default function Contenido() {
         </div>
       )}
 
-      {/* Quiz de evaluación formativa */}
+      {/* Botón sticky 'Ir al cuestionario'. Solo aparece cuando:
+            1) el contenido tiene quiz, y
+            2) el usuario ha hecho scroll cerca del final (≥75% del
+               documento), para no distraer al principio. El scroll al
+               volver desde /quiz se restaura con sessionStorage. */}
       {content.quiz && content.quiz.length > 0 && (
-        <div className="card p-6 sm:p-8">
-          <h2 className="text-sm font-semibold text-text">Comprueba lo aprendido</h2>
-          <p className="mb-5 text-xs text-muted">
-            Responde las preguntas para confirmar que dominas los conceptos.
-          </p>
-
-          <div className="space-y-6">
-            {content.quiz.map((q, qi) => (
-              <QuizBlock
-                key={qi}
-                question={q}
-                index={qi}
-                selected={answers[qi]}
-                result={results[qi]}
-                submitted={quizSubmitted}
-                onSelect={selectAnswer}
-              />
-            ))}
-          </div>
-
-          {!quizSubmitted ? (
-            <button
-              onClick={submitQuiz}
-              disabled={Object.keys(answers).length < quizTotal}
-              className="btn btn-primary mt-6"
-            >
-              Corregir
-            </button>
-          ) : (
-            <div className="mt-6 rounded-xl bg-background p-5">
-              <p className="text-sm font-semibold text-text">
-                Has acertado {correctCount} de {quizTotal}
-              </p>
-              {correctCount === quizTotal ? (
-                <div className="mt-2">
-                  <p className="text-sm text-success">
-                    ¡Perfecto! Dominas los conceptos de este contenido.
-                  </p>
-                  <button
-                    onClick={handleQuizPassed}
-                    disabled={saving}
-                    className="btn btn-success mt-3"
-                  >
-                    <IconCheck size={16} />
-                    {saving ? 'Guardando…' : 'Registrar mi progreso'}
-                  </button>
-                </div>
-              ) : (
-                <div className="mt-2">
-                  <p className="text-sm text-amber-700">
-                    Has acertado {correctCount} de {quizTotal}. Repasa el contenido e
-                    inténtalo de nuevo para dominar los conceptos.
-                  </p>
-                  <button
-                    type="button"
-                    onClick={resetQuiz}
-                    className="btn btn-outline mt-3 !px-3 !py-2"
-                  >
-                    Volver a intentarlo
-                  </button>
-                </div>
-              )}
-            </div>
-          )}
+        <div className="mt-6 flex justify-center">
+          <button
+            type="button"
+            onClick={goToQuiz}
+            className="btn btn-primary !px-5 !py-3"
+          >
+            <IconListChecks size={18} />
+            Ir al cuestionario ({content.quiz.length}{' '}
+            {content.quiz.length === 1 ? 'pregunta' : 'preguntas'})
+            <IconArrowLeft size={16} className="rotate-180" />
+          </button>
         </div>
       )}
-    </div>
-  )
-}
 
-function QuizBlock({
-  question,
-  index,
-  selected,
-  result,
-  submitted,
-  onSelect,
-}: {
-  question: QuizQuestion
-  index: number
-  selected?: number
-  result?: boolean
-  submitted: boolean
-  onSelect: (qi: number, oi: number) => void
-}) {
-  return (
-    <div>
-      <p className="mb-2 text-sm font-medium text-text">{question.question}</p>
-      <div className="space-y-1.5">
-        {question.options.map((opt, oi) => {
-          let cls = 'border-border hover:bg-background'
-          if (submitted) {
-            if (oi === question.correct_index) cls = 'border-success bg-success-light'
-            else if (oi === selected) cls = 'border-error bg-error-light'
-            else cls = 'border-border opacity-60'
-          } else if (selected === oi) {
-            cls = 'border-secondary bg-secondary-light'
-          }
-          return (
-            <label
-              key={oi}
-              className={`flex cursor-pointer items-center gap-3 rounded-lg border px-4 py-2.5 text-sm transition ${cls}`}
+      {/* Botón sticky flotante: aparece solo cuando el usuario está al
+          final del artículo. Misma acción que el botón estático de
+          arriba, pero persistente para que no haya que buscarlo. */}
+      {content.quiz && content.quiz.length > 0 && showStickyQuiz && (
+        <div className="pointer-events-none fixed inset-x-0 bottom-0 z-20 flex justify-center px-4 pb-4">
+          <div className="pointer-events-auto w-full max-w-md rounded-full border border-secondary bg-surface/95 shadow-lg backdrop-blur">
+            <button
+              type="button"
+              onClick={goToQuiz}
+              className="flex w-full items-center justify-center gap-2 rounded-full bg-secondary px-5 py-3 text-sm font-semibold text-white transition hover:bg-secondary/90 focus:outline-none focus-visible:ring-2 focus-visible:ring-offset-2 focus-visible:ring-secondary"
             >
-              <input
-                type="radio"
-                name={`quiz-${index}`}
-                checked={selected === oi}
-                onChange={() => onSelect(index, oi)}
-                disabled={submitted}
-                className="accent-secondary"
-              />
-              {opt}
-            </label>
-          )
-        })}
-      </div>
-      {submitted && result === false && question.explanation && (
-        <p className="mt-1.5 text-xs text-muted">{question.explanation}</p>
+              <IconListChecks size={18} />
+              Ir al cuestionario ({content.quiz.length}{' '}
+              {content.quiz.length === 1 ? 'pregunta' : 'preguntas'})
+            </button>
+          </div>
+        </div>
       )}
     </div>
   )

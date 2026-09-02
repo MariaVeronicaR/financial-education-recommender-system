@@ -7,6 +7,7 @@ import Explorar from './pages/Explorar'
 import Inicio from './pages/Inicio'
 import Login from './pages/Login'
 import Progreso from './pages/Progreso'
+import Quiz from './pages/Quiz'
 import Recomendaciones from './pages/Recomendaciones'
 
 // Ruta protegida: requiere sesión
@@ -61,6 +62,14 @@ export default function App() {
             element={
               <RequireAuth>
                 <Contenido />
+              </RequireAuth>
+            }
+          />
+          <Route
+            path="/contenido/:contentId/quiz"
+            element={
+              <RequireAuth>
+                <Quiz />
               </RequireAuth>
             }
           />
