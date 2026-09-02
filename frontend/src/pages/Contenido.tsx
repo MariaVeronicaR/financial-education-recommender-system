@@ -62,7 +62,7 @@ export default function Contenido() {
       }
     }
     load()
-  }, [contentId, user])
+  }, [contentId, user?.id])
 
   function selectAnswer(qi: number, oi: number) {
     if (quizSubmitted) return

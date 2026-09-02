@@ -66,7 +66,7 @@ export default function Progreso() {
       setLoading(false)
     }
     load()
-  }, [user])
+  }, [user?.id])
 
   const completedRows = rows.filter((r) => r.completed)
   const completed = completedRows.length

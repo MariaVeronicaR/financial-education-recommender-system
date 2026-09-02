@@ -129,7 +129,7 @@ export default function Cuestionario() {
       setLoading(false)
     }
     load()
-  }, [user])
+  }, [user?.id])
 
   function toggleInterest(tema: string) {
     setInterests((prev) =>

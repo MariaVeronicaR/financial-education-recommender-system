@@ -81,7 +81,8 @@ export default function Recomendaciones() {
       }
     }
     load()
-  }, [user, location.key]) // re-ejecuta al volver del cuestionario (location cambia)
+  }, [user?.id, location.key]) // Depende del uid (no de la referencia del objeto),
+                              // así onAuthStateChange en foco/refresh no re-ejecuta.
 
   // Registra una interacción, marca el contenido como completado y registra los
   // conceptos que enseña como dominados (para desbloquear contenidos avanzados).
