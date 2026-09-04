@@ -145,6 +145,37 @@ export default function Cuestionario() {
     return 'bajo'
   }
 
+  // Calcula risk y activity para el perfil. Esta función DEBE coincidir con
+  // data/scripts/regenerate_users_from_ecf.py::risk_score/activity_score.
+  // Si tocas una, toca la otra, o el modelo entrenará con una distribución y
+  // servirá con otra (drift silencioso). Devuelve floats en [0, 1].
+  function computeRiskActivity(): { risk: number; activity: number } {
+    // risk: tolerancia al riesgo financiero
+    const invExp = investmentExperience === 'básica' ? 0.7 : 0.2
+    const goal = learningGoal === 'prepararse para invertir' ? 0.9 : 0.3
+    // attitude_level no se recoge en el cuestionario; aproximamos por
+    // knowledge_level (proxy razonable: a más conocimiento, más actitud)
+    const attitude =
+      estimatedLevel() === 'alto' ? 0.8 :
+      estimatedLevel() === 'medio' ? 0.5 : 0.2
+    const riskRaw = (invExp + 2 * goal + attitude) / 4
+    const risk = Math.max(0, Math.min(1, riskRaw))
+
+    // activity: nivel de engagement financiero
+    const saving = savingHabit === 'frecuente' ? 0.8 : savingHabit === 'ocasional' ? 0.5 : 0.1
+    const emp =
+      employment === 'empleado' ? 0.7 :
+      employment === 'estudiante' ? 0.6 :
+      employment === 'desempleado' ? 0.3 : 0.2
+    // behavior_level no se recoge; aproximamos por saving_habit
+    const behavior = savingHabit === 'frecuente' ? 0.8 : savingHabit === 'ocasional' ? 0.5 : 0.2
+    const ageBonus = age && Number(age) >= 18 && Number(age) <= 24 ? 0.1 : 0
+    const activityRaw = (2 * saving + emp + behavior) / 4 + ageBonus
+    const activity = Math.max(0, Math.min(1, activityRaw))
+
+    return { risk, activity }
+  }
+
   async function handleSave() {
     setSaving(true)
     setError(null)
@@ -153,6 +184,8 @@ export default function Cuestionario() {
 
       const interestsMap: Record<string, number> = {}
       interests.forEach((t) => (interestsMap[t] = 1.0))
+
+      const { risk, activity } = computeRiskActivity()
 
       const profileData: UserProfile = {
         user_id: user.id,
@@ -166,6 +199,8 @@ export default function Cuestionario() {
         debt_experience: debtExperience || null,
         investment_experience: investmentExperience || null,
         interests: interestsMap,
+        risk,
+        activity,
       }
 
       const { error: dbError } = await supabase.from('profiles').upsert({
@@ -180,6 +215,8 @@ export default function Cuestionario() {
         debt_experience: profileData.debt_experience,
         investment_experience: profileData.investment_experience,
         interests: profileData.interests,
+        risk: profileData.risk,
+        activity: profileData.activity,
         big_three: bigThree,
         updated_at: new Date().toISOString(),
       })
