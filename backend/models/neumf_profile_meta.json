@@ -226,8 +226,10 @@
     "financial_behavior_level",
     "financial_attitude_level",
     "learning_goal",
-    "sex"
+    "sex",
+    "risk",
+    "activity"
   ],
   "n_train_interactions": 44198,
-  "feature_dim": 34
+  "feature_dim": 36
 }

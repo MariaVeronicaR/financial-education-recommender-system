@@ -150,6 +150,15 @@ class NeumfProfileRecomendador(Recomendador):
             row["financial_behavior_level"] = profile.financial_behavior_level
         if profile.financial_attitude_level:
             row["financial_attitude_level"] = profile.financial_attitude_level
+        # Features numéricas: el frontend las calcula con la misma heurística
+        # que data/scripts/regenerate_users_from_ecf.py::risk_score/activity_score.
+        # El transformer las detecta por dtype y las incluye en numeric_columns
+        # durante el reentrenamiento. Si llegan como None, transform_row las
+        # imputa con la mediana serializada (no rompe).
+        if profile.risk is not None:
+            row["risk"] = float(profile.risk)
+        if profile.activity is not None:
+            row["activity"] = float(profile.activity)
         return row
 
 

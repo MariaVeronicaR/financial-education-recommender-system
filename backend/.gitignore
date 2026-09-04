@@ -11,6 +11,9 @@ models/
 !models/neumf_profile_features.json
 !models/neumf_profile_meta.json
 
+# Backups locales de artefactos (rollback)
+models/backup_*/
+
 # Cachés de Python
 __pycache__/
 *.pyc
